@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.2.0"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can then return to OmegaT to make any necessary corrections; do not forget to recreating the translated documents.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143709Z" changeid="masa_36">
+        <seg>さらに修正するため、OmegaT に戻ってくることもできます。その場合は忘れずに、訳文ファイルの生成を再度行ってください。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In simple validation only simple variants of the possible placeholder values are used.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144048Z" changeid="masa_36">
+        <seg>簡単な検証では、プレースホルダーとして使用される可能性のある変数のみが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project settings window</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143401Z" changeid="masa_36">
+        <seg>プロジェクト設定ウインドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you want OmegaT to segment by sentence instead of by &quot;paragraph&quot;, it's a good idea to double-check the Segmentation Rules.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143408Z" changeid="masa_36">
+        <seg>もし、OmegaT による分節化を「段落」でなく文章ごとに行いたい場合は、分節化規則を確認するとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select <bpt i='0' x='0'>&lt;s0&gt;</bpt>Tools → Validate Tags<ept i='0'>&lt;/s0&gt;</ept> from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144021Z" changeid="masa_36">
+        <seg>メニューから<bpt i='0' x='0'>&lt;s0&gt;</bpt>［ツール］→［タグ検証］<ept i='0'>&lt;/s0&gt;</ept>を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Call up the Search window with <bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+F<ept i='0'>&lt;/c0&gt;</ept> and enter the word or phrase you wish to search for in the &quot;Search for&quot; box.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143649Z" changeid="masa_36">
+        <seg><bpt i='0' x='0'>&lt;c0&gt;</bpt>［Ctrl+F］<ept i='0'>&lt;/c0&gt;</ept>で文字列検索ウィンドウを開き、［検索文字列］欄に検索したい単語または語句を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Briefly, how OmegaT works</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143328Z" changeid="masa_36">
+        <seg>OmegaT はどんな動作をするのか【簡略版】</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Press <bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+R<ept i='0'>&lt;/c0&gt;</ept> to overwrite the entire segment with the pre-selected match.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143630Z" changeid="masa_36">
+        <seg><bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+R<ept i='0'>&lt;/c0&gt;</ept>：現在の訳文全体を、選択した参考訳文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remember, OmegaT can only translate files in the formats below if they match the patterns defined in the file filters.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143419Z" changeid="masa_36">
+        <seg>なお、OmegaT が翻訳できるのは対応した形式のファイルのみであり、ファイルフィルターで定義された形式に一致するものだけであることにあらかじめご留意ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translate the segments one by one</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143513Z" changeid="masa_36">
+        <seg>分節単位で 1 つずつ翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you've accidentally imported the wrong documents, or too many documents, you can simply remove them from the Source folder of your OmegaT project (using your system's file manager, for example).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143412Z" changeid="masa_36">
+        <seg>もし誤って別のファイルを追加してしまったり、ファイルを追加しすぎてしまった場合は、（たとえば、OS のファイルマネージャーを使用して）source フォルダーから直接削除できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Shortcuts described here use the &quot;ctrl+key&quot; convention but Mac users should read &quot;cmd+key&quot; instead.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143322Z" changeid="masa_36">
+        <seg>ここで［Ctrl+キー］と書かれたショートカットキーは、Mac ユーザーは［cmd+キー］と読み替えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tag verification</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144018Z" changeid="masa_36">
+        <seg>タグ検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT opens the first file in the project list by default.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143418Z" changeid="masa_36">
+        <seg>デフォルトでは、OmegaT は一覧の先頭にあるファイルを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Open it via the <bpt i='3' x='3'>&lt;f3&gt;</bpt>&lt;i&gt;<ept i='3'>&lt;/f3&gt;</ept>Settings<bpt i='4' x='4'>&lt;f4&gt;</bpt><it pos='end' x='4'>&lt;/i&gt;&lt;/f4&gt;</it> → <bpt i='5' x='5'>&lt;f5&gt;</bpt>&lt;i&gt;<ept i='5'>&lt;/f5&gt;</ept>Display Font...<bpt i='6' x='6'>&lt;f6&gt;</bpt><it pos='end' x='6'>&lt;/i&gt;&lt;/f6&gt;</it> menu item.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143840Z" changeid="masa_36">
+        <seg>Open it via the <bpt i='3' x='3'>&lt;f3&gt;</bpt>&lt;i&gt;<ept i='3'>&lt;/f3&gt;</ept>Settings<bpt i='4' x='4'>&lt;f4&gt;</bpt><it pos='end' x='4'>&lt;/i&gt;&lt;/f4&gt;</it> → <bpt i='5' x='5'>&lt;f5&gt;</bpt>&lt;i&gt;<ept i='5'>&lt;/f5&gt;</ept>Display Font...<bpt i='6' x='6'>&lt;f6&gt;</bpt><it pos='end' x='6'>&lt;/i&gt;&lt;/f6&gt;</it> menu item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To insert translation memory matches from the Match Viewer into your target field, you can use keyboard shortcuts:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143625Z" changeid="masa_36">
+        <seg>参考訳文ビューアに表示された参考訳文を訳文入力行に挿入する場合は、以下のようなキーボードのショートカットが使用できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To move to any other part of the text, whether above or below, double-click on the sentence or paragraph you wish to open.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143524Z" changeid="masa_36">
+        <seg>ファイル内の他の箇所を翻訳したい場合は、その位置が現在より上か下かにかかわらず、その文または段落をダブルクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can import individual files, or you can import entire folder trees (with all files in all subfolders).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143411Z" changeid="masa_36">
+        <seg>選択した個別のファイル、または、選択したフォルダー全体（その中のフォルダーやファイルすべて）を追加できます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If several matches have been found and you prefer not to use the pre-selected match:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143632Z" changeid="masa_36">
+        <seg>もし、翻訳メモリ中に複数の参考訳文が見つかり、最初に選択された以外の参考訳文を使用したい場合は：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Below this is the Glossary Viewer, where glossary matches will be displayed.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143336Z" changeid="masa_36">
+        <seg>その下には用語集ウィンドウがあり、用語集と一致する用語が訳文にあれば、ここに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Any other files will be ignored.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143421Z" changeid="masa_36">
+        <seg>その他のファイルは無視されます。（一覧に表示されません。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An example...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143812Z" changeid="masa_36">
+        <seg>一例を示します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Okapi monolingual XLIFF</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143454Z" changeid="masa_36">
+        <seg>Okapi フレームワークで用いる単一言語の XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The wholly or partially translated files will be saved to the project's Target folder.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143707Z" changeid="masa_36">
+        <seg>完全に、または部分的に翻訳されたファイルが、プロジェクトの target フォルダーに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT provides a powerful range of search functions.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143647Z" changeid="masa_36">
+        <seg>OmegaT は強力な文字列検索機能を備えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT organizes your translation work in so-called translation projects.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143347Z" changeid="masa_36">
+        <seg>OmegaT は 1 つの翻訳作業全体を「翻訳プロジェクト」と呼ぶ単位で管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The word or phrase is entered in the &quot;Search for&quot; box automatically in this case.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143652Z" changeid="masa_36">
+        <seg>すると［検索文字列］欄には、自動的にその文字列が入力された状態になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This instant start guide covers only the very basics.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143316Z" changeid="masa_36">
+        <seg>このお手軽スタートガイドでは、OmegaT の基本的な内容のみを説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When OmegaT has created the translated document, the HTML will look like this:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144015Z" changeid="masa_36">
+        <seg>OmegaT により作成された訳文 HTML ファイルはこのような形になります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The HTML tags, highlighted in <bpt i='0' x='0'>&lt;f0&gt;</bpt>blue<ept i='0'>&lt;/f0&gt;</ept>, will be ignored by OmegaT as they fully enclose the segment.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143815Z" changeid="masa_36">
+        <seg><bpt i='0' x='0'>&lt;f0&gt;</bpt>青字<ept i='0'>&lt;/f0&gt;</ept> で示した HTML タグは、この分節全体を含んでいるため OmegaT はこれを無視して処理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In the Google Translate pane, you will automatically get a suggestion for the translation of the current segment.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143654Z" changeid="masa_36">
+        <seg>Google Translate ウィンドウには、現在の分節に対応した Google Translate による翻訳内容を自動的に表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When you click OK to accept the project set-up, OmegaT will prompt you to select the source documents for import.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143409Z" changeid="masa_36">
+        <seg>これらのプロジェクト設定を確認して［確定］をクリックすると、次に、追加する原文ファイルを選択するウィンドウが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Create translated documents</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143657Z" changeid="masa_36">
+        <seg>訳文ファイルの生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Glossary and dictionary matches</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143642Z" changeid="masa_36">
+        <seg>用語集と辞書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hit <bpt i='1' x='1'>&lt;c1&gt;</bpt>Enter<ept i='1'>&lt;/c1&gt;</ept> to validate the corrected segment and check the correction by pressing again <bpt i='2' x='2'>&lt;c2&gt;</bpt>Control-T<ept i='2'>&lt;/c2&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144025Z" changeid="masa_36">
+        <seg><bpt i='1' x='1'>&lt;c1&gt;</bpt>［Enter］<ept i='1'>&lt;/c1&gt;</ept>でその分節の修正内容を確定した後、 再度 <bpt i='2' x='2'>&lt;c2&gt;</bpt>［Ctrl+T］<ept i='2'>&lt;/c2&gt;</ept> でタグ検証結果を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><bpt i='0' x='0'>&lt;f0&gt;</bpt>&lt;p&gt;<ept i='0'>&lt;/f0&gt;</ept>A different display font can be selected via the <bpt i='1' x='1'>&lt;f1&gt;</bpt>&lt;b&gt;<ept i='1'>&lt;/f1&gt;</ept>Display Font<bpt i='2' x='2'>&lt;f2&gt;</bpt><it pos='end' x='2'>&lt;/b&gt;&lt;/f2&gt;</it> dialog.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143835Z" changeid="masa_36">
+        <seg><bpt i='0' x='0'>&lt;f0&gt;</bpt>&lt;p&gt;<ept i='0'>&lt;/f0&gt;</ept>A different display font can be selected via the <bpt i='1' x='1'>&lt;f1&gt;</bpt>&lt;b&gt;<ept i='1'>&lt;/f1&gt;</ept>Display Font<bpt i='2' x='2'>&lt;f2&gt;</bpt><it pos='end' x='2'>&lt;/b&gt;&lt;/f2&gt;</it> dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>On the right, at the top, is the Match Viewer, where translation memory matches will be displayed.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143335Z" changeid="masa_36">
+        <seg>右側の上部には、参考訳文ウィンドウがあり、翻訳メモリと一致する訳文がもし存在すれば、ここに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>INI ('key=value' format)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143439Z" changeid="masa_36">
+        <seg>INI ファイル（キー=値 形式）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Press <bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+I<ept i='0'>&lt;/c0&gt;</ept> to insert the pre-selected match at the cursor position, or...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143627Z" changeid="masa_36">
+        <seg><bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+I<ept i='0'>&lt;/c0&gt;</ept>：現在のカーソル位置に、選択した参考訳文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bundle.properties Java</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143433Z" changeid="masa_36">
+        <seg> Java の Bundle.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Once you have defined the project and the files to be translated, OmegaT will open the first source file in the Editor.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143514Z" changeid="masa_36">
+        <seg>作業を行うプロジェクトと、翻訳対象のファイルを指定すると、OmegaT は最初の原文ファイルを開き、編集ウィンドウに表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In these examples we've highlighted the tags to make them easier to see, but in OmegaT they will not be highlighted.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143813Z" changeid="masa_36">
+        <seg>以下に示す例では、見やすくするためタグの箇所を色つきで表示していますが、 OmegaT 上ではこのように色つきでは表示されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(At this point, all text outside the target field is protected and cannot be modified.) You must type your translation between the tags <bpt i='0' x='0'>&lt;c0&gt;</bpt>&lt;segment 0001&gt;<ept i='0'>&lt;/c0&gt;</ept> and <bpt i='1' x='1'>&lt;c1&gt;</bpt>&lt;end segment&gt;<ept i='1'>&lt;/c1&gt;</ept>, overwriting the source text.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143517Z" changeid="masa_36">
+        <seg>（このとき、入力行以外の文字はすべて保護されており、編集できないようになっています。）<bpt i='0' x='0'>&lt;c0&gt;</bpt>&lt;分節 0001&gt;<ept i='0'>&lt;/c0&gt;</ept> と <bpt i='1' x='1'>&lt;c1&gt;</bpt><it pos='end' x='1'>&lt;/分節&gt;&lt;/c1&gt;</it> の間にある原文のテキストを上書きして、翻訳を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>images/MatchesPane.png</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143602Z" changeid="masa_36">
+        <seg>images/MatchesPane.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can choose between simple and full validation.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144047Z" changeid="masa_36">
+        <seg>簡単な検証、または完全な検証のいずれかを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select the language code (2 letters) or language-and-region code (2 + 2 letters) from the drop-down list, or type them in by hand (the language code can be 2 or 3 letters).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143405Z" changeid="masa_36">
+        <seg>言語コード（2 文字）または言語-地域コード（2+2 文字）を、リストから選択するか、直接手入力で指定してください。（言語コードは 2 または 3 文字で指定できます。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set this option using <bpt i='0' x='0'>&lt;s0&gt;</bpt>Options → Editing Behaviour...<ept i='0'>&lt;/s0&gt;</ept>)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143641Z" changeid="masa_36">
+        <seg>この設定は<bpt i='0' x='0'>&lt;s0&gt;</bpt>［設定］→［翻訳入力行...］<ept i='0'>&lt;/s0&gt;</ept>で行えます。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Press &quot;<bpt i='2' x='2'>&lt;s2&gt;</bpt>ENTER<ept i='2'>&lt;/s2&gt;</ept>&quot; to advance to the next segment.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143521Z" changeid="masa_36">
+        <seg><bpt i='2' x='2'>&lt;s2&gt;</bpt>［Enter］<ept i='2'>&lt;/s2&gt;</ept> を押すと、次の分節へ移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To do so, select <bpt i='0' x='0'>&lt;s0&gt;</bpt>Project → Create Translated Documents<ept i='0'>&lt;/s0&gt;</ept> from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143705Z" changeid="masa_36">
+        <seg>この操作を行うには、メニューから<bpt i='0' x='0'>&lt;s0&gt;</bpt>［プロジェクト］→［訳文ファイル生成］<ept i='0'>&lt;/s0&gt;</ept>を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Instant Start Guide - OmegaT 2.0 User Manual</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143309Z" changeid="masa_36">
+        <seg>お手軽スタートガイド - OmegaT 2.2 取扱説明書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select <bpt i='0' x='0'>&lt;s0&gt;</bpt>Options→ Tag Validation...<ept i='0'>&lt;/s0&gt;</ept> from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144045Z" changeid="masa_36">
+        <seg>メニューから<bpt i='0' x='0'>&lt;s0&gt;</bpt>［設定］→［タグ検証...］<ept i='0'>&lt;/s0&gt;</ept>を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DocBook</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143441Z" changeid="masa_36">
+        <seg>DocBookファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To check your list of files to be translated, consult the <bpt i='0' x='0'>&lt;s0&gt;</bpt>Project Files<ept i='0'>&lt;/s0&gt;</ept> window (Menu: <bpt i='1' x='1'>&lt;s1&gt;</bpt>Project → Project Files...<ept i='1'>&lt;/s1&gt;</ept>, if it does not open automatically).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143415Z" changeid="masa_36">
+        <seg>翻訳すべきファイルの一覧は、<bpt i='0' x='0'>&lt;s0&gt;</bpt>［翻訳対象ファイル一覧］<ept i='0'>&lt;/s0&gt;</ept> ウィンドウで確認してください。（自動的に開かない場合は、メニューの <bpt i='1' x='1'>&lt;s1&gt;</bpt>［プロジェクト］→［翻訳対象ファイル一覧...］<ept i='1'>&lt;/s1&gt;</ept> を選択してください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The &quot;cmd&quot; key either has a &quot;command&quot; label or an apple mark on Apple keyboards.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143327Z" changeid="masa_36">
+        <seg>［cmd］キーには、Apple キーボードでは「command」またはリンゴマークが記されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Each of these can be resized using the mouse.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143330Z" changeid="masa_36">
+        <seg>マウス操作によりそれぞれの大きさを変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You will be taken automatically to the questionable segment in the Editor, where you can correct the tagging.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144024Z" changeid="masa_36">
+        <seg>その分節が編集ウィンドウに自動的に表示され、実際のタグの確認と修正を行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To finalize your translation, open the target files in their associated applications (browser, word processor...) to check the content and formatting of your translation.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143708Z" changeid="masa_36">
+        <seg>翻訳作業を完成させる段階では、もともと関連づけられたアプリケーション（ブラウザやワードプロセッサなど）で訳文ファイルを開き、翻訳内容や形式が合っているかを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>images/NewProject.png</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143107Z" changeid="masa_36">
+        <seg>images/NewProject.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143523Z" changeid="masa_36">
+        <seg>以下の点もご確認ください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use searches</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143645Z" changeid="masa_36">
+        <seg>文字列検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click on the segment number.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144023Z" changeid="masa_36">
+        <seg>分節番号をクリックすると、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143512Z" changeid="masa_36">
+        <seg>LaTeX ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>How to translate using OmegaT</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143351Z" changeid="masa_36">
+        <seg>OmegaT を使って翻訳してみましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The OmegaT screen consists of one space with three distinct windows.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143329Z" changeid="masa_36">
+        <seg>OmegaT の画面は主に 3 つの独立したウィンドウで構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>.po</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143430Z" changeid="masa_36">
+        <seg>.po ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can change the setup of the Editor pane (for instance to show or not the source text, highlight the translated text etc) in the Main menu entry <bpt i='0' x='0'>&lt;s0&gt;</bpt>View.<ept i='0'>&lt;/s0&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143526Z" changeid="masa_36">
+        <seg>メインメニューの <bpt i='0' x='0'>&lt;s0&gt;</bpt>［表示］<ept i='0'>&lt;/s0&gt;</ept> より、編集ウィンドウの設定を変更することができます。（例えば原文テキストを表示するかどうか、ハイライト表示するかどうかなど）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These are used to store the source documents to be translated, the glossaries you may wish to use, and any translation memories you may want to use.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143349Z" changeid="masa_36">
+        <seg>翻訳前の原文ファイルや、もし使用する場合は用語集や翻訳メモリを、その中にそれぞれサブフォルダーを作成して保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Navigate to the folder where you wish to save the project files, and type in a name for the translation project.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143358Z" changeid="masa_36">
+        <seg>翻訳プロジェクトを保存したいフォルダーを選択し、ウィンドウ上部の入力欄に、作成したい翻訳プロジェクト名を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You should therefore ensure that you have corrected any tag errors before you create the translated files.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144027Z" changeid="masa_36">
+        <seg>したがって、最終的な翻訳ファイルとして仕上げる前に、タグの間違いをすべて修正しておくべきです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT will prompt you to confirm or change the project folders to be created, using the dialog below:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143359Z" changeid="masa_36">
+        <seg>次に、以下のようなウィンドウが表示され、作成するプロジェクトフォルダーの確認や、変更が行えます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you have had to change the Contents of the Source folder, remember to reload the project first (Menu: <bpt i='2' x='2'>&lt;s2&gt;</bpt>Project → Reload<ept i='2'>&lt;/s2&gt;</ept>).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143416Z" changeid="masa_36">
+        <seg>source フォルダーの内容を変更した後は、必ずプロジェクトの再読み込みを行ってください。（メニューの <bpt i='2' x='2'>&lt;s2&gt;</bpt>［プロジェクト］→［再読み込み］<ept i='2'>&lt;/s2&gt;</ept>）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>As you pass from segment to segment your translations are recorded in a translation memory.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143342Z" changeid="masa_36">
+        <seg>翻訳し、分節から分節へ移動するたびに、入力した翻訳内容が翻訳メモリに自動記録されていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Press <bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+M<ept i='0'>&lt;/c0&gt;</ept> and it will replace the current content of the target segment.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143655Z" changeid="masa_36">
+        <seg><bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+M<ept i='0'>&lt;/c0&gt;</ept> を押すと、編集中の訳文の箇所に置換されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Subtitle files (SRT)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143456Z" changeid="masa_36">
+        <seg>字幕ファイル（SRT）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Start using OmegaT in 5 minutes!<it pos='begin' x='0'>&lt;br0&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143311Z" changeid="masa_36">
+        <seg>OmegaT を使って 5 分間で翻訳スタート！<it pos='begin' x='0'>&lt;br0&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The first segment is highlighted in green; a copy of the source text is displayed below it, in the “target field”.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143516Z" changeid="masa_36">
+        <seg>編集対象となる最初の分節が、緑色でハイライト表示されます。原文テキストがその下、訳文となる行にコピーされて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143452Z" changeid="masa_36">
+        <seg>Microsoft Open XMLファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ideally, all users should read the User Manual to familiarize themselves with everything OmegaT has to offer.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143318Z" changeid="masa_36">
+        <seg>OmegaT のあらゆる機能に慣れ親しむためには、ぜひ取扱説明書をお読みください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Here is how OmegaT will display it, with the translation in Afrikaans:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143901Z" changeid="masa_36">
+        <seg>これらの分節が OmegaT 内でどう表示されるのかと、例としてアフリカーンス語に翻訳した場合を以下に示します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translation memory matches</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143530Z" changeid="masa_36">
+        <seg>参考訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This name will be used for the main project folder; all the project files will be stored in this folder or its subfolders.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143358Z" changeid="masa_36">
+        <seg>入力した内容がそのまま、プロジェクトフォルダー名になります。このプロジェクトで使用する全てのファイルが、このフォルダー（またはその下のサブフォルダー）に保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143438Z" changeid="masa_36">
+        <seg>HTML ヘルプコンパイラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A table will be displayed showing the segments where the source and target tags do not correspond.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144022Z" changeid="masa_36">
+        <seg>原文と訳文の比較により、タグが合致していない分節の一覧表が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>QuarkXPress CopyFlowGold</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143455Z" changeid="masa_36">
+        <seg>CopyFlow Gold for QuarkXPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If OmegaT finds any fuzzy matches (30% or over) for the next segment in the translation memory, it displays them in the Match Viewer.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143532Z" changeid="masa_36">
+        <seg>もし OmegaT が次の分節に対して使用できそうな（30% 以上一致した）参考訳文を翻訳メモリ中に見つけた場合、これらを参考訳文ビューアに表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you prefer to translate into an empty target field, set this option in <bpt i='0' x='0'>&lt;s0&gt;</bpt>Options → Editing Behaviour...<ept i='0'>&lt;/s0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143525Z" changeid="masa_36">
+        <seg>もし、訳文となる行を（原文のコピーではなく）空白にしておきたい場合は、<bpt i='0' x='0'>&lt;s0&gt;</bpt>［設定］→［翻訳入力行...］<ept i='0'>&lt;/s0&gt;</ept>で設定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You translate these segments one by one.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143340Z" changeid="masa_36">
+        <seg>翻訳は、分節ごとに 1 つづつ行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You must handle these tags with care and make sure they will be included in the target segments in a proper fashion (see <bpt i='0' x='0'>&lt;e0&gt;</bpt>tag operations<ept i='0'>&lt;/e0&gt;</ept>).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143810Z" changeid="masa_36">
+        <seg>タグが含まれる分節を翻訳する場合は、必ず訳文にもそのタグが含まれるように注意してください（<bpt i='0' x='0'>&lt;e0&gt;</bpt>タグ操作<ept i='0'>&lt;/e0&gt;</ept> をご参照ください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>XHTML, HTML</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143437Z" changeid="masa_36">
+        <seg>XHTML、HTML ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Then use the <bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+I<ept i='0'>&lt;/c0&gt;</ept> or <bpt i='1' x='1'>&lt;c1&gt;</bpt>Ctrl+R<ept i='1'>&lt;/c1&gt;</ept> shortcuts as above.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143636Z" changeid="masa_36">
+        <seg>そして <bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+I<ept i='0'>&lt;/c0&gt;</ept> または <bpt i='1' x='1'>&lt;c1&gt;</bpt>Ctrl+R<ept i='1'>&lt;/c1&gt;</ept> を上記と同じように使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The tags, highlighted below in <bpt i='1' x='1'>&lt;f1&gt;</bpt>green<ept i='1'>&lt;/f1&gt;</ept> have to be handled by OmegaT because they are within the segment.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143817Z" changeid="masa_36">
+        <seg><bpt i='1' x='1'>&lt;f1&gt;</bpt>緑字<ept i='1'>&lt;/f1&gt;</ept>で示したタグはこの分節の中にあるため、 OmegaT は処理される必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For each project OmegaT will create a set of folders.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143348Z" changeid="masa_36">
+        <seg>OmegaT はプロジェクトごとにフォルダーを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>On the left is the Editor where you type your translation.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143333Z" changeid="masa_36">
+        <seg>向かって左側には、翻訳を入力する編集ウィンドウがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(You can tell OmegaT to insert any first match above a specified matching percentage automatically into the target field whenever the segment opens.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143639Z" changeid="masa_36">
+        <seg>（分節に移ったときに、指定した一致率以上の最も一致率の高い参考訳文を、自動的に挿入するように設定することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OpenDocument/OpenOffice.org</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143425Z" changeid="masa_36">
+        <seg>OpenDocument や OpenOffice.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Android resource</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143507Z" changeid="masa_36">
+        <seg>Android リソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select the match you prefer in the Match Viewer: <bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+2<ept i='0'>&lt;/c0&gt;</ept> for the second match displayed, <bpt i='1' x='1'>&lt;c1&gt;</bpt>Ctrl+3<ept i='1'>&lt;/c1&gt;</ept> for the third match, etc.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143633Z" changeid="masa_36">
+        <seg>使用したい参考訳文の選択：<bpt i='0' x='0'>&lt;c0&gt;</bpt>Ctrl+2<ept i='0'>&lt;/c0&gt;</ept> で 2 番目、<bpt i='1' x='1'>&lt;c1&gt;</bpt>Ctrl+3<ept i='1'>&lt;/c1&gt;</ept> で 3 番目に表示された参考訳文を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>matches pane</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143534Z" changeid="masa_36">
+        <seg>参考訳文ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use Google Translate</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143653Z" changeid="masa_36">
+        <seg>Google Translate 機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT ensures that the formatting of the source documents (bold, italic etc.) is not lost by marking it with special tags.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143801Z" changeid="masa_36">
+        <seg>OmegaT は、原文文書の見映え（太字や斜体などの情報）を失わないため、特殊なタグを使って、文書に目印を付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT will build translated versions of all the translatable documents in the Source folder of the project, whether or not they have been fully translated.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143706Z" changeid="masa_36">
+        <seg>OmegaT は、そのプロジェクトの source フォルダーにあるすべての翻訳対象ファイルに対して、翻訳済みでないものが含まれていても、訳文ファイルを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143427Z" changeid="masa_36">
+        <seg>プレーンテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>How to handle tagged text</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143712Z" changeid="masa_36">
+        <seg>タグつきテキストの取扱い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select <bpt i='0' x='0'>&lt;s0&gt;</bpt>Project → New...<ept i='0'>&lt;/s0&gt;</ept> from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143356Z" changeid="masa_36">
+        <seg>メニューから<bpt i='0' x='0'>&lt;s0&gt;</bpt>［プロジェクト］→［新規作成...］<ept i='0'>&lt;/s0&gt;</ept>を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It also scans the translation memory and glossary in search of matches for the next untranslated segment.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143528Z" changeid="masa_36">
+        <seg>また、次の未翻訳の分節に対して、翻訳メモリや用語集に一致する内容がないか、検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This is usefull when the source code does not contain the more expressive and complex placeholders and you get a lot of false positives.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144049Z" changeid="masa_36">
+        <seg>この設定は、原文のプログラミングコードに含まれるプレースホルダーが多くなく、誤検出が頻繁に生じてしまうような場合に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT doesn't automatically detect faulty tagging in the translated document.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144019Z" changeid="masa_36">
+        <seg>OmegaT は、訳文ファイルに存在するタグの入力間違いを自動的には検出しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Make a mental note of the location of the Target subfolder (for your translated documents).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143407Z" changeid="masa_36">
+        <seg>翻訳後のファイルが保存される target フォルダーの場所は、特に覚えておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Before you deliver the document to your client, you should therefore check your tags for errors.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144020Z" changeid="masa_36">
+        <seg>翻訳文書を顧客へ手渡す前に、タグの間違いがないかを確認する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In some programming languages (e.g. PHP, C) special tags are used as placeholders in strings that are used in combination with the printf-function.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144041Z" changeid="masa_36">
+        <seg>いくつかのプログラミング言語（PHP や C など）には、printf 関数と組み合わせて、特別なタグがプレースホルダーとして用いられることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>- Instant Start Guide</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143313Z" changeid="masa_36">
+        <seg>- お手軽スタートガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use matches in the translation memories, glossaries and dictionaries</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143529Z" changeid="masa_36">
+        <seg>参考訳文・用語集・辞書の活用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT can detect and validate these tags if you enable it.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144044Z" changeid="masa_36">
+        <seg>OmegaT では、設定を有効にすれば、それらを検出し、検証の対象にすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>images/tagged_segment.png</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144011Z" changeid="masa_36">
+        <seg>images/tagged_segment.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alternatively, select a word or phrase anywhere in the Editor pane and hit <bpt i='1' x='1'>&lt;c1&gt;</bpt>Ctrl+F<ept i='1'>&lt;/c1&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143650Z" changeid="masa_36">
+        <seg>または、表示された全ての文字列から、単語や語句を選択して<bpt i='1' x='1'>&lt;c1&gt;</bpt>［Ctrl+F］<ept i='1'>&lt;/c1&gt;</ept>を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can simply accept the location of the subfolders, but make sure first that the source and translation language codes are correct.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143404Z" changeid="masa_36">
+        <seg>ここではまず、原文と訳文の言語コードが正しく設定されていることを確認してください。その下で、各フォルダーの場所も確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Create and open a new project</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143352Z" changeid="masa_36">
+        <seg>プロジェクトの新規作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In some cases tag errors may even prevent a document from opening.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144026Z" changeid="masa_36">
+        <seg>タグの間違いが存在すると、文書そのものが開かなくなる場合もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Here is an example of a segment in HTML:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143821Z" changeid="masa_36">
+        <seg>以下は HTML ファイルにある分節の一例です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Finally, you should always double-check the final formatting by opening the translated document in its associated viewer or editor.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144038Z" changeid="masa_36">
+        <seg>最後に、翻訳したファイルのビューアやエディタで実際にそれを開き、見映えに問題がないかを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When you have translated all the segments (or earlier if you wish), OmegaT will update the target document(s) using the translations stored in the translation memory.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143703Z" changeid="masa_36">
+        <seg>すべての分節を翻訳し終わったら（または、希望すればその前でも）、翻訳メモリに蓄積された翻訳内容を使用し、訳文ファイルを更新できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The font type and size can be changed from the dialog.<bpt i='7' x='7'>&lt;f7&gt;</bpt><it pos='end' x='7'>&lt;/p&gt;&lt;/f7&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143842Z" changeid="masa_36">
+        <seg>The font type and size can be changed from the dialog.<bpt i='7' x='7'>&lt;f7&gt;</bpt><it pos='end' x='7'>&lt;/p&gt;&lt;/f7&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT also creates a “Target” folder which will contain the final translated documents.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143350Z" changeid="masa_36">
+        <seg>また、翻訳済みファイルを格納する target フォルダーも作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In the Editor window OmegaT presents the source text 'segmented' into sentences (or paragraphs).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143337Z" changeid="masa_36">
+        <seg>OmegaT は翻訳対象の原文に対し、文章（または段落）単位で「分節化」して編集ウインドウに表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT tags are composed of one or more letters followed by one or more digit, using the &quot;/&quot; character for closure (for example: <bpt i='0' x='0'>&lt;f0&gt;</bpt>, <ept i='0'>&lt;/f0&gt;</ept> &lt;br&gt;, <it pos='end' x='2'>&lt;/s2&gt;</it> etc.).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143808Z" changeid="masa_36">
+        <seg>OmegaT で使用するタグは、アルファベット 1 文字以上と、その後に続く 1 文字以上の数字から構成されます。閉じタグは「/」文字で表します。（例えば：<bpt i='0' x='0'>&lt;f0&gt;</bpt>、<ept i='0'>&lt;/f0&gt;</ept>、&lt;br&gt;、<it pos='end' x='2'>&lt;/s2&gt;</it> など。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Matching terms in glossaries and dictionaries, that you may have included in the project, will be displayed for reference in the glossary and dictionary panes.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143643Z" changeid="masa_36">
+        <seg>プロジェクトに用語集と辞書が含まれる場合は、その中に一致した項目があれば、それぞれ用語集ウィンドウと辞書ウィンドウに表示されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Once all the segments have been translated (or before, if you request) OmegaT will use the translation memory to generate the translated document(s) in a “Target” folder.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143346Z" changeid="masa_36">
+        <seg>すべての分節を翻訳し終わったら（または、必要であればその前でも）、OmegaT は翻訳メモリを使用して、翻訳済みの訳文ファイルを target フォルダーに生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>images/tagged_segment_target.png</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144016Z" changeid="masa_36">
+        <seg>images/tagged_segment_target.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When you press &quot;<bpt i='0' x='0'>&lt;s0&gt;</bpt>ENTER<ept i='0'>&lt;/s0&gt;</ept>&quot;, several things happen invisibly: OmegaT adds the segment pair (the source segment and its translation) to the translation memory and also automatically translates any other identical segments that it detects in the other project files.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143527Z" changeid="masa_36">
+        <seg><bpt i='0' x='0'>&lt;s0&gt;</bpt>［Enter］<ept i='0'>&lt;/s0&gt;</ept>を押すと、複数の処理が内部で行われます：OmegaT は 1 組の分節（原文と、対応する翻訳）を翻訳メモリに保存します。またプロジェクトの他のファイルに同一の分節が含まれていれば、それらを全て自動的に翻訳します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143505Z" changeid="masa_36">
+        <seg>ResX ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The first match is pre-selected in the Match Viewer by default.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143533Z" changeid="masa_36">
+        <seg>デフォルトでは、最も一致率の高い参考訳文があらかじめ選択された状態で、参考訳文ウィンドウで選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>./OmegaT.css</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T143012Z" changeid="masa_36">
+        <seg>./OmegaT.css</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

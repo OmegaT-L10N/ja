@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.2.0"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>./OmegaT.css</seg>
+      </tuv>
+      <tuv lang="EN" changedate="20101005T141855Z" changeid="masa_36">
+        <seg>./OmegaT.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="EN" changedate="20101005T141938Z" changeid="masa_36">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
+      </tuv>
+      <tuv lang="EN" changedate="20101005T141935Z" changeid="masa_36">
+        <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you click OK to accept the project set-up, OmegaT will prompt you to select the source documents for import.</seg>
+      </tuv>
+      <tuv lang="EN" changedate="20101005T141919Z" changeid="masa_36">
+        <seg>When you click OK to accept the project set-up, OmegaT will prompt you to select the source documents for import.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,5050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.2.0"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151918Z" changeid="masa_36">
+        <seg>Microsoft PowerPoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Nr of results: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151525Z" changeid="masa_36">
+        <seg>一致数：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152402Z" changeid="masa_36">
+        <seg>以下の正規表現に一致する文字列は翻訳しない：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150730Z" changeid="masa_36">
+        <seg>訳文ファイルを生成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151247Z" changeid="masa_36">
+        <seg>合計の単語数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unable to uninstall the selected dictionary</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153309Z" changeid="masa_36">
+        <seg>選択された辞書を削除できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151425Z" changeid="masa_36">
+        <seg>プロジェクトの翻訳対象ファイル一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150208Z" changeid="masa_36">
+        <seg>OmegaTを終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150735Z" changeid="masa_36">
+        <seg>1から {0} の数値を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151519Z" changeid="masa_36">
+        <seg>一致した検索結果の数が上限に達しました：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cannot find saved TMX: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150920Z" changeid="masa_36">
+        <seg>保存されたTMXファイルが見つかりません：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150618Z" changeid="masa_36">
+        <seg>プロジェクト設定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exact searches look for the entire specified query string.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151505Z" changeid="masa_36">
+        <seg>完全一致検索は、指定した全体の文字列を含む分節を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152543Z" changeid="masa_36">
+        <seg>分節化規則群「{0}」を削除してよいですか？ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150745Z" changeid="masa_36">
+        <seg>ファイル：翻訳済み分節数/すべての分節数（プロジェクト：繰り返しを除いた翻訳済み分節数/繰り返しを除いた分節数/すべての分節数）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add To Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153256Z" changeid="masa_36">
+        <seg>辞書に追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152311Z" changeid="masa_36">
+        <seg>構成例を削除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150916Z" changeid="masa_36">
+        <seg>新しいTMXファイルを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153157Z" changeid="masa_36">
+        <seg>独立タグ（&lt;i/&gt;）のXMLを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151651Z" changeid="masa_36">
+        <seg>原文ファイルのエンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150739Z" changeid="masa_36">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145838Z" changeid="masa_36">
+        <seg>確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153337Z" changeid="masa_36">
+        <seg>プログラム起動時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153211Z" changeid="masa_36">
+        <seg>結合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150644Z" changeid="masa_36">
+        <seg>［TAB］で進む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151756Z" changeid="masa_36">
+        <seg>リンク（URL）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151417Z" changeid="masa_36">
+        <seg>用語集フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150635Z" changeid="masa_36">
+        <seg>前の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151917Z" changeid="masa_36">
+        <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152623Z" changeid="masa_36">
+        <seg>最小一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Help &amp; Manual Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151721Z" changeid="masa_36">
+        <seg>ヘルプ、マニュアルファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project compiling start</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153251Z" changeid="masa_36">
+        <seg>訳文ファイル生成の開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Problem encountered loading project file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150918Z" changeid="masa_36">
+        <seg>プロジェクトのファイル読み込み時に問題が発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source/translation lengths (characters)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150742Z" changeid="masa_36">
+        <seg>原文と訳文の長さ（文字数）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150930Z" changeid="masa_36">
+        <seg>未翻訳：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Size</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150806Z" changeid="masa_36">
+        <seg>大きさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150926Z" changeid="masa_36">
+        <seg>分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150538Z" changeid="masa_36">
+        <seg>ご注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>ResX Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151720Z" changeid="masa_36">
+        <seg>ResXファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150540Z" changeid="masa_36">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151659Z" changeid="masa_36">
+        <seg>テキストフィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151800Z" changeid="masa_36">
+        <seg>Microsoft Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153305Z" changeid="masa_36">
+        <seg>現在プロジェクトが使用している辞書を削除しようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Validate Tags</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150641Z" changeid="masa_36">
+        <seg>タグ検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151756Z" changeid="masa_36">
+        <seg>プレゼンテーションのノート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151620Z" changeid="masa_36">
+        <seg>いくつかの翻訳対に対して、原文分節が見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Connecting to dictionary repository...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153315Z" changeid="masa_36">
+        <seg>辞書の保管場所に接続しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145855Z" changeid="masa_36">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153228Z" changeid="masa_36">
+        <seg>設定フォルダの中に、スクリプトフォルダを作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150854Z" changeid="masa_36">
+        <seg>プロジェクトを読み込み中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151435Z" changeid="masa_36">
+        <seg>エラー：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150727Z" changeid="masa_36">
+        <seg>変更を反映させるには、OmegaTを終了し、プロジェクトを再度開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150851Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translate the following attributes:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152411Z" changeid="masa_36">
+        <seg>以下の属性を翻訳する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151348Z" changeid="masa_36">
+        <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project saving start</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153248Z" changeid="masa_36">
+        <seg>プロジェクト保存の開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151634Z" changeid="masa_36">
+        <seg>このプロジェクトは文単位で分節化されていますが、 TMXファイルは段落単位で分節化されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153356Z" changeid="masa_36">
+        <seg>言語チェッカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151600Z" changeid="masa_36">
+        <seg>TMXファイル {0} を解析中に例外が発生しました。TMXファイルの読み込みを中止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project loading end</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153247Z" changeid="masa_36">
+        <seg>プロジェクト読み込みの終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150738Z" changeid="masa_36">
+        <seg>プロジェクトを保存しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152643Z" changeid="masa_36">
+        <seg>原文と同じ訳文を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151419Z" changeid="masa_36">
+        <seg>辞書ファイルフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150845Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \&quot;-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns=&quot;http://docbook.org/ns/docbook&quot; for DocBook 5</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151743Z" changeid="masa_36">
+        <seg>ご注意：DocBookファイルを認識させる場合、拡張子に加えて、以下のようにDOCTYPE宣言文（DocBook 4用） : &lt;!DOCTYPE book PUBLIC \&quot;-//OASIS//DTD DocBook XML ...&gt;、または名前空間（DocBook 5用）：xmlns=&quot;http://docbook.org/ns/docbook&quot; が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Windows Resource Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151655Z" changeid="masa_36">
+        <seg>Windowsリソースファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150834Z" changeid="masa_36">
+        <seg>繰り返しを除いた分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150626Z" changeid="masa_36">
+        <seg>原文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152537Z" changeid="masa_36">
+        <seg>下へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152454Z" changeid="masa_36">
+        <seg>プロジェクト設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153215Z" changeid="masa_36">
+        <seg>結合を解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151157Z" changeid="masa_36">
+        <seg>繰り返しを除いた未翻訳の単語数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151542Z" changeid="masa_36">
+        <seg>エスケープ文字が終了していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Import From MediaWiki...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150612Z" changeid="masa_36">
+        <seg>MediaWikiから原文ファイルを追加...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151253Z" changeid="masa_36">
+        <seg>合計の分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145858Z" changeid="masa_36">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150835Z" changeid="masa_36">
+        <seg>繰り返しを除いた翻訳済み分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145901Z" changeid="masa_36">
+        <seg>確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153340Z" changeid="masa_36">
+        <seg>切り取り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Event: new entry activated</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153242Z" changeid="masa_36">
+        <seg>イベント：新しい項目が有効になりました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151534Z" changeid="masa_36">
+        <seg>タグ名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Chan&amp;ged after:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151450Z" changeid="masa_36">
+        <seg>これ以降の変更：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No new dictionaries available at the remote server.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153318Z" changeid="masa_36">
+        <seg>リモートサーバーには新しい辞書はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please select which behaviour is appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153202Z" changeid="masa_36">
+        <seg>
+タグ検証時に、これらをどのように処理したいかを選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153259Z" changeid="masa_36">
+        <seg>利用可能な言語：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151540Z" changeid="masa_36">
+        <seg>ストリームの終端に達しましたが、終了ブロックがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153325Z" changeid="masa_36">
+        <seg>上記を順に切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Event: application startup</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153239Z" changeid="masa_36">
+        <seg>イベント：アプリケーションの起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151444Z" changeid="masa_36">
+        <seg>完全一致検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please wait.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153316Z" changeid="masa_36">
+        <seg>しばらくお待ちください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151353Z" changeid="masa_36">
+        <seg>空の配列を作成することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150737Z" changeid="masa_36">
+        <seg>プロジェクトを保存しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152301Z" changeid="masa_36">
+        <seg>OmegaTライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151532Z" changeid="masa_36">
+        <seg>予期しない文字列 {0} です（{1}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151651Z" changeid="masa_36">
+        <seg>訳文ファイルのエンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150918Z" changeid="masa_36">
+        <seg>用語集フォルダーにアクセスできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150926Z" changeid="masa_36">
+        <seg>合計：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152308Z" changeid="masa_36">
+        <seg>フィルター編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153211Z" changeid="masa_36">
+        <seg>編集 - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>JAXB (GPLv2 + classpath exception)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152258Z" changeid="masa_36">
+        <seg>JAXB（GPLv2 ライセンスと classpath 例外）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151345Z" changeid="masa_36">
+        <seg>参考訳文の一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152335Z" changeid="masa_36">
+        <seg>フィルター構成例を編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153223Z" changeid="masa_36">
+        <seg>OmegaTの設定フォルダの作成が、オペレーティングシステムに拒否されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153206Z" changeid="masa_36">
+        <seg>すべてのprintf変数（％s、％-sなど）を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150733Z" changeid="masa_36">
+        <seg>分節番号を入力してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>S&amp;witch Case To</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153321Z" changeid="masa_36">
+        <seg>大/小文字設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150847Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151407Z" changeid="masa_36">
+        <seg>訳文ファイル言語：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153222Z" changeid="masa_36">
+        <seg>このため、すべての設定が初期値となり、予期しない動作がおこる可能性があります。ただしこれは正常な動作です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Restore Main Window</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150721Z" changeid="masa_36">
+        <seg>ウインドウを初期位置に復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151609Z" changeid="masa_36">
+        <seg>ファイル {2} を解析中、行 {0} の列 {1} に回復可能なエラーが発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151759Z" changeid="masa_36">
+        <seg>Open XMLフィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Android Resource Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151745Z" changeid="masa_36">
+        <seg>Androidリソースファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT version {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152138Z" changeid="masa_36">
+        <seg>OmegaT バージョン {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HTML and XHTML files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152350Z" changeid="masa_36">
+        <seg>HTMLファイル・XHTMLファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151545Z" changeid="masa_36">
+        <seg>ファイル {0} は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151418Z" changeid="masa_36">
+        <seg>翻訳メモリファイルフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151537Z" changeid="masa_36">
+        <seg>（閉じタグ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151539Z" changeid="masa_36">
+        <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152424Z" changeid="masa_36">
+        <seg>value（buttonやsubmit、resetを含むフォーム入力）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No need to save project, because no changes were made</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153249Z" changeid="masa_36">
+        <seg>変更箇所が存在しなかったため、プロジェクト保存の必要はありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Display &amp;Selected</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153331Z" changeid="masa_36">
+        <seg>現在の分節のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151713Z" changeid="masa_36">
+        <seg>空行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Replace Translation with Match</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153335Z" changeid="masa_36">
+        <seg>参考訳文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No tag errors detected</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150732Z" changeid="masa_36">
+        <seg>タグのエラーは見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151426Z" changeid="masa_36">
+        <seg>プロジェクトファイルを読み込めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying &quot;java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar&quot; on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150158Z" changeid="masa_36">
+        <seg>2）コマンドライン、またはOmegaT起動スクリプトで java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar と指定し、OmegaTが使用できるメモリーを増やす。（現在の設定：{0} MB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151520Z" changeid="masa_36">
+        <seg>フォルダー階層の検索時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152440Z" changeid="masa_36">
+        <seg>&lt;br&gt;（改行）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150741Z" changeid="masa_36">
+        <seg>本当に終了しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151525Z" changeid="masa_36">
+        <seg>一致する結果はありませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151407Z" changeid="masa_36">
+        <seg>原文ファイル言語：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Typo3 LocManager Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151722Z" changeid="masa_36">
+        <seg>Typo3 LocManagerファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please select the language of your source files and the target 
+language you would like to translate to.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151422Z" changeid="masa_36">
+        <seg>原文ファイルの言語と、訳文ファイルの言語を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150846Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145900Z" changeid="masa_36">
+        <seg>エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151714Z" changeid="masa_36">
+        <seg>しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151552Z" changeid="masa_36">
+        <seg>作成者： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151423Z" changeid="masa_36">
+        <seg>新規プロジェクト作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152515Z" changeid="masa_36">
+        <seg>言語コードの構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151426Z" changeid="masa_36">
+        <seg>入力された原文ファイルの言語が正しくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150636Z" changeid="masa_36">
+        <seg>選択した分節履歴をさかのぼる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151916Z" changeid="masa_36">
+        <seg>Microsoft Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153339Z" changeid="masa_36">
+        <seg>JDKをバージョン1.6の最新版に更新するか、OmegaTのlibフォルダからjaxb-*.jarファイルを削除してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hunspell by László Németh and others (LGPL License)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152242Z" changeid="masa_36">
+        <seg>László Németh などによる Hunspell（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dis&amp;play all results</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151456Z" changeid="masa_36">
+        <seg>すべて表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Import From MediaWiki</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150613Z" changeid="masa_36">
+        <seg>MediaWikiから原文ファイルを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151428Z" changeid="masa_36">
+        <seg>言語コードの書式はxx-YY、xx_YY、xxx-YY、xxx-YYのいずれかです。xxやxxxは言語コード、YYは地域コード（任意）をそれぞれ表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project saving end</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153249Z" changeid="masa_36">
+        <seg>プロジェクト保存の終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152528Z" changeid="masa_36">
+        <seg>テキストファイルの分節化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145856Z" changeid="masa_36">
+        <seg>編集...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151617Z" changeid="masa_36">
+        <seg>翻訳対変異の言語が指定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151433Z" changeid="masa_36">
+        <seg>指定された用語集フォルダーは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150932Z" changeid="masa_36">
+        <seg>ファイルごとの翻訳状況：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Install</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153319Z" changeid="masa_36">
+        <seg>組み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153224Z" changeid="masa_36">
+        <seg>代わりに現在のフォルダが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please select a different name.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151439Z" changeid="masa_36">
+        <seg>他のファイル名を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152331Z" changeid="masa_36">
+        <seg>ファイルフィルターの表示や編集が行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151638Z" changeid="masa_36">
+        <seg>オペレーティングシステム用の外観が初期化できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151415Z" changeid="masa_36">
+        <seg>原文ファイルフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153324Z" changeid="masa_36">
+        <seg>単語の先頭を大文字に（Title case）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152613Z" changeid="masa_36">
+        <seg>チームの設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please select the dictionaries you want to install and press the Install button.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153317Z" changeid="masa_36">
+        <seg>組み込む辞書を選択して［組み込み］をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152535Z" changeid="masa_36">
+        <seg>上へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152358Z" changeid="masa_36">
+        <seg>HTML・XHTMLファイルにエンコーディング宣言を追加または変更する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reopen the project?</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150736Z" changeid="masa_36">
+        <seg>プロジェクトを再読み込みしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151526Z" changeid="masa_36">
+        <seg>XMLファイルを読み込む初期化が行えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Slide &amp;Layouts</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151921Z" changeid="masa_36">
+        <seg>スライド レイアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Searches are done within the current project or in any folder or folder structure.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151504Z" changeid="masa_36">
+        <seg>現在のプロジェクト内、または任意のフォルダーやフォルダー階層を指定して検索できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150841Z" changeid="masa_36">
+        <seg>このリンクへアクセスするには、URLを コピーしてWebブラウザへ貼り付けるか、取扱説明書（{0} ファイル）をWebブラウザ上で開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HTML Help Compiler files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152442Z" changeid="masa_36">
+        <seg>HTMLヘルプコンパイラ（HHC）ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151616Z" changeid="masa_36">
+        <seg>翻訳対変異は無視されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150917Z" changeid="masa_36">
+        <seg>プロジェクトを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151548Z" changeid="masa_36">
+        <seg>未対応のファイルエンコーディングです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150616Z" changeid="masa_36">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enable &amp;TransTips</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150719Z" changeid="masa_36">
+        <seg>TransTipsを有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Validating Tags...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150733Z" changeid="masa_36">
+        <seg>タグを検証中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152447Z" changeid="masa_36">
+        <seg>XHTMLフィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152356Z" changeid="masa_36">
+        <seg>(X)HTMLフィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152346Z" changeid="masa_36">
+        <seg>HTMLファイルのサイズが大きすぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hidden &amp;text</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151800Z" changeid="masa_36">
+        <seg>隠し文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT version {0}, update {1}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152138Z" changeid="masa_36">
+        <seg>OmegaT バージョン {0} アップデート {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150910Z" changeid="masa_36">
+        <seg>{0} を読み込み中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Installing failed</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153310Z" changeid="masa_36">
+        <seg>組み込みの失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spell &amp;Checking...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150722Z" changeid="masa_36">
+        <seg>綴り確認...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tea&amp;m...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150650Z" changeid="masa_36">
+        <seg>チーム...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Aggregate Tags</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152133Z" changeid="masa_36">
+        <seg>タグを結合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152339Z" changeid="masa_36">
+        <seg>構成例を編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153229Z" changeid="masa_36">
+        <seg>代わりに設定フォルダが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150721Z" changeid="masa_36">
+        <seg>終了時に常に確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152628Z" changeid="masa_36">
+        <seg>[fuzzy] </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Total Characters (without spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151241Z" changeid="masa_36">
+        <seg>合計の文字数（空白を除く）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An error occurred while trying to create a new folder</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151441Z" changeid="masa_36">
+        <seg>新規フォルダー作成時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150622Z" changeid="masa_36">
+        <seg>プロジェクトを検索...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150903Z" changeid="masa_36">
+        <seg>致命的なエラー：プロジェクトファイルに .recover 拡張子を付けてバックアップを保存しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150807Z" changeid="masa_36">
+        <seg>表示はこのようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151614Z" changeid="masa_36">
+        <seg>TMXヘッダーの前にある翻訳対が見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153300Z" changeid="masa_36">
+        <seg>辞書ファイルフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151342Z" changeid="masa_36">
+        <seg>繰り返しを除いた未翻訳の文字数（空白を含む）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152444Z" changeid="masa_36">
+        <seg>ご注意：原文ファイルのエンコーディング設定が有効となるのは、HHC・HNKファイル中にエンコーディング宣言がない場合のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153250Z" changeid="masa_36">
+        <seg>プロジェクトが閉じられました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151751Z" changeid="masa_36">
+        <seg>Index項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151437Z" changeid="masa_36">
+        <seg>OmegaTプロジェクトフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique Characters (without spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151216Z" changeid="masa_36">
+        <seg>繰り返しを除いた文字数（空白を除く）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153336Z" changeid="masa_36">
+        <seg>「{0}」を隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153218Z" changeid="masa_36">
+        <seg>OmegaTは、オペレーティングシステムの名称や、ホームフォルダを含むシステム設定へアクセスできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152509Z" changeid="masa_36">
+        <seg>プロジェクト設定の確認と変更を行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DocBook Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151739Z" changeid="masa_36">
+        <seg>DocBookファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151719Z" changeid="masa_36">
+        <seg>不正な \u 文字列が見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152412Z" changeid="masa_36">
+        <seg>href（リンクのURL）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151802Z" changeid="masa_36">
+        <seg>脚注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>SubRip Subtitles Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151744Z" changeid="masa_36">
+        <seg>SubRip字幕ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150756Z" changeid="masa_36">
+        <seg>不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151549Z" changeid="masa_36">
+        <seg>ファイルを読み込めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150851Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&lt;segment 0000&gt;</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150747Z" changeid="masa_36">
+        <seg>&lt;分節 0000&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150846Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151551Z" changeid="masa_36">
+        <seg>TMX ファイルの読み込みが完了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152145Z" changeid="masa_36">
+        <seg>ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152704Z" changeid="masa_36">
+        <seg>外部TMXファイルの設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152523Z" changeid="masa_36">
+        <seg>ポーランド語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151544Z" changeid="masa_36">
+        <seg>エスケープされた10進文字に不正なデータ {0} が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152344Z" changeid="masa_36">
+        <seg>使用可能な変数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153354Z" changeid="masa_36">
+        <seg>Belazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>German</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152519Z" changeid="masa_36">
+        <seg>ドイツ語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project compiling end</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153252Z" changeid="masa_36">
+        <seg>訳文ファイル生成の終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151416Z" changeid="masa_36">
+        <seg>訳文ファイルフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>XHTML Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152447Z" changeid="masa_36">
+        <seg>XHTMLファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Import Source Files... button in the Project Files window or call this action from the Project menu and select the source files you want to import.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150529Z" changeid="masa_36">
+        <seg>（取扱説明書の「翻訳対象ファイル」→「ファイル形式」を参照してください。）プロジェクトにファイルを追加するには、翻訳対象ファイル一覧ウィンドウの［原文ファイルをインポート...］をクリックするか、［プロジェクト］メニューから同じ項目を選択し、追加したい原文ファイルを選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153221Z" changeid="masa_36">
+        <seg>代わりに現在のフォルダが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151432Z" changeid="masa_36">
+        <seg>指定された訳文ファイルフォルダーは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153213Z" changeid="masa_36">
+        <seg>最大化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151550Z" changeid="masa_36">
+        <seg>TMX ファイル {0} を読み込み中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150645Z" changeid="masa_36">
+        <seg>翻訳済み分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152525Z" changeid="masa_36">
+        <seg>ロシア語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145840Z" changeid="masa_36">
+        <seg>閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151750Z" changeid="masa_36">
+        <seg>選択した要素を翻訳対象とします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150808Z" changeid="masa_36">
+        <seg>これでどうですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151410Z" changeid="masa_36">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145844Z" changeid="masa_36">
+        <seg>戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151346Z" changeid="masa_36">
+        <seg>繰り返し：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Install...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153303Z" changeid="masa_36">
+        <seg>組み込み...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>QuarkXPress CopyFlow Gold Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151657Z" changeid="masa_36">
+        <seg>CopyFlow Gold for QuarkXPressファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>PO Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151654Z" changeid="masa_36">
+        <seg>POファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Total Characters (including spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151316Z" changeid="masa_36">
+        <seg>合計文字数（空白を含む）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151458Z" changeid="masa_36">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152622Z" changeid="masa_36">
+        <seg>原文は挿入しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151453Z" changeid="masa_36">
+        <seg>大文字と小文字を区別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dia&amp;grams</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151914Z" changeid="masa_36">
+        <seg>ダイアグラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145852Z" changeid="masa_36">
+        <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153216Z" changeid="masa_36">
+        <seg>お手軽スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tag Validation Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153159Z" changeid="masa_36">
+        <seg>タグ検証の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151410Z" changeid="masa_36">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Upper Case</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153323Z" changeid="masa_36">
+        <seg>すべて大文字に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Event: new file activated ({0})</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153240Z" changeid="masa_36">
+        <seg>イベント：新しいファイル（{0}）が有効になりました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151643Z" changeid="masa_36">
+        <seg>フィルター {0} を {1} から読み込めませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152320Z" changeid="masa_36">
+        <seg>例外が発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151535Z" changeid="masa_36">
+        <seg>（コメントタグ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153307Z" changeid="masa_36">
+        <seg>続行しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150744Z" changeid="masa_36">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150857Z" changeid="masa_36">
+        <seg>用語集を読み込み中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152336Z" changeid="masa_36">
+        <seg>設定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This call MUST NOT be in swing thread</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153244Z" changeid="masa_36">
+        <seg>このコールはSwingのスレッドに存在すべきではありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152513Z" changeid="masa_36">
+        <seg>分節化規則の設定を保存する際のエラー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151754Z" changeid="masa_36">
+        <seg>ノート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151805Z" changeid="masa_36">
+        <seg>文末脚注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151352Z" changeid="masa_36">
+        <seg>一致しない：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152420Z" changeid="masa_36">
+        <seg>lang（言語）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Display tags</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152751Z" changeid="masa_36">
+        <seg>タグを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150913Z" changeid="masa_36">
+        <seg>TMXファイルを読み込み中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This call MUST be in swing thread</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153243Z" changeid="masa_36">
+        <seg>このコールはSwingのスレッドに存在する必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153201Z" changeid="masa_36">
+        <seg>OmegaTは、例えば（printf関数で使用される）％sのような、プログラミング言語で使用される変数も確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152359Z" changeid="masa_36">
+        <seg>常に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150637Z" changeid="masa_36">
+        <seg>選択した分節履歴をくだる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150813Z" changeid="masa_36">
+        <seg>翻訳対象ファイル一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150627Z" changeid="masa_36">
+        <seg>選択領域を出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cannot load specified XML file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151529Z" changeid="masa_36">
+        <seg>指定されたXMLファイルを読み込めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Display &amp;None</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153331Z" changeid="masa_36">
+        <seg>表示しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Lower Case</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153323Z" changeid="masa_36">
+        <seg>すべて小文字に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>External TM&amp;Xs...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150708Z" changeid="masa_36">
+        <seg>外部TMXファイル...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151322Z" changeid="masa_36">
+        <seg>未翻訳の文字数（空白を含む）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151347Z" changeid="masa_36">
+        <seg>完全一致：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151457Z" changeid="masa_36">
+        <seg>場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152533Z" changeid="masa_36">
+        <seg>このように設定すると、カナダフランス語の原文から翻訳する場合、定義したすべての分節化規則を、適切な順序で使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150728Z" changeid="masa_36">
+        <seg>プロジェクトを再読み込みしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mozilla DTD files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151656Z" changeid="masa_36">
+        <seg>Mozilla DTDファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150118Z" changeid="masa_36">
+        <seg>メモリー不足のためOmegaTが動作しません。OKを押すと、OmegaTは終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>VLDocking Framework 2.1.4 by VLSolutions (CeCILL License)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152236Z" changeid="masa_36">
+        <seg>VLSolutions 社による VLDocking Framework 2.1.4（CeCILL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152524Z" changeid="masa_36">
+        <seg>オランダ語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Exact Match</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150720Z" changeid="masa_36">
+        <seg>完全一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150848Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Filename already exists.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151438Z" changeid="masa_36">
+        <seg>同名のファイルが既に存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151712Z" changeid="masa_36">
+        <seg>改行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&lt;end segment&gt;</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150749Z" changeid="masa_36">
+        <seg>&lt;/分節&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151356Z" changeid="masa_36">
+        <seg>プロジェクトを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152517Z" changeid="masa_36">
+        <seg>分節前の構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150752Z" changeid="masa_36">
+        <seg>{0} による修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151404Z" changeid="masa_36">
+        <seg>原文ファイルフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cannot open the link {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150838Z" changeid="masa_36">
+        <seg>リンク「{0}」が開けません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151412Z" changeid="masa_36">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151112Z" changeid="masa_36">
+        <seg>繰り返しを除いた分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151343Z" changeid="masa_36">
+        <seg>翻訳状況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{1}, executed from '{2}'</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153236Z" changeid="masa_36">
+        <seg>{1} が {2} から実行されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150635Z" changeid="masa_36">
+        <seg>分節番号を指定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152202Z" changeid="masa_36">
+        <seg>他の貢献者については、readme_ja.txtファイルに記載しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151451Z" changeid="masa_36">
+        <seg>これ以前の変更：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Entries with modified tags</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150731Z" changeid="masa_36">
+        <seg>変更されたタグの一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150902Z" changeid="masa_36">
+        <seg>プロジェクト作成時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tag &amp;Validation...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150649Z" changeid="masa_36">
+        <seg>タグ検証...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150212Z" changeid="masa_36">
+        <seg>&lt;自動&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>User's Manual</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150835Z" changeid="masa_36">
+        <seg>取扱説明書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Insert Match</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150623Z" changeid="masa_36">
+        <seg>参考訳文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150632Z" changeid="masa_36">
+        <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151549Z" changeid="masa_36">
+        <seg>{0} 版のプロジェクトファイルには対応していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Marc Prior is the coordinator of the OmegaT project.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144847Z" changeid="masa_36">
+        <seg>Marc Prior が OmegaT プロジェクトのコーディネーターです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Available dictionaries:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153321Z" changeid="masa_36">
+        <seg>利用可能な辞書：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Microsoft Open XML Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151758Z" changeid="masa_36">
+        <seg>Microsoft Open XMLファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Uninstalling failed</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153309Z" changeid="masa_36">
+        <seg>削除の失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152546Z" changeid="masa_36">
+        <seg>名前またはIDを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150621Z" changeid="masa_36">
+        <seg>やり直す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152541Z" changeid="masa_36">
+        <seg>分節化規則は、以下に示す順序で適用されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151445Z" changeid="masa_36">
+        <seg>原文を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151635Z" changeid="masa_36">
+        <seg>OmegaTがTMXファイルを再度分節化しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150924Z" changeid="masa_36">
+        <seg>現在の原文に存在しない分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151631Z" changeid="masa_36">
+        <seg>このTMX ファイルはバージョン1.4.x以前のOmegaTで作成されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152514Z" changeid="masa_36">
+        <seg>言語名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150931Z" changeid="masa_36">
+        <seg>繰り返しを除いた：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151314Z" changeid="masa_36">
+        <seg>繰り返しを除いた未翻訳の文字数（空白を除く）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145859Z" changeid="masa_36">
+        <seg>挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151538Z" changeid="masa_36">
+        <seg>読み込みが完了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151615Z" changeid="masa_36">
+        <seg>翻訳対の外側に、翻訳対変異が見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Do not check printf-variables</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153204Z" changeid="masa_36">
+        <seg>printf変数は確認しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Search T&amp;Ms</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151454Z" changeid="masa_36">
+        <seg>翻訳メモリを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In tra&amp;nslations</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151446Z" changeid="masa_36">
+        <seg>訳文を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150634Z" changeid="masa_36">
+        <seg>次の未翻訳分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151523Z" changeid="masa_36">
+        <seg>予期しないエラーのため、検索処理を終了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151716Z" changeid="masa_36">
+        <seg>Javaリソースバンドル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>LaTeX Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151653Z" changeid="masa_36">
+        <seg>LaTeXファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project creating end</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153254Z" changeid="masa_36">
+        <seg>プロジェクト作成の終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Searches are performed both in the source and the translation.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151503Z" changeid="masa_36">
+        <seg>原文と訳文の両方を対象にして検索できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error initialize marker '{0}'</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151639Z" changeid="masa_36">
+        <seg>マーカー '{0}' の初期化エラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Full checking can lead to false positives in normal texts.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153203Z" changeid="masa_36">
+        <seg>すべてを確認する設定にした場合、通常のテキストでは誤検出がおこる可能性もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151524Z" changeid="masa_36">
+        <seg>検索ウィンドウを閉じてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151611Z" changeid="masa_36">
+        <seg>TMX ファイル {0} を解析中、行 {1} の列 {2} で回復不可能なエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151501Z" changeid="masa_36">
+        <seg>文字列検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150914Z" changeid="masa_36">
+        <seg>訳文ファイル {0} を生成中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Variants in the following languages will be displayed: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151556Z" changeid="masa_36">
+        <seg>以下の言語の変異形が表示されます： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Re&amp;move Filter</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145842Z" changeid="masa_36">
+        <seg>フィルターを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You should specify their new location or recreate
+them.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151421Z" changeid="masa_36">
+        <seg>新しい位置を指定するか、改めて作成してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150713Z" changeid="masa_36">
+        <seg>分節化規則...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project creating start</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153253Z" changeid="masa_36">
+        <seg>プロジェクト作成の開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Both search types support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151515Z" changeid="masa_36">
+        <seg>いずれの検索でも、ワイルドカードとして「*」と「?」を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Number of Segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150816Z" changeid="masa_36">
+        <seg>分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150912Z" changeid="masa_36">
+        <seg>原文ファイル読み込み完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145839Z" changeid="masa_36">
+        <seg>取り消し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151354Z" changeid="masa_36">
+        <seg>新規プロジェクト作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Modification Info</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153329Z" changeid="masa_36">
+        <seg>修正情報を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Font</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150805Z" changeid="masa_36">
+        <seg>字体名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145855Z" changeid="masa_36">
+        <seg>追加...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error while trying to edit the project!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150736Z" changeid="masa_36">
+        <seg>プロジェクトの設定変更時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150730Z" changeid="masa_36">
+        <seg>指定されたプロジェクトを読み込めませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>F&amp;ont...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150648Z" changeid="masa_36">
+        <seg>字体...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150848Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>File Import Failed</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150614Z" changeid="masa_36">
+        <seg>原文ファイルが追加できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152518Z" changeid="masa_36">
+        <seg>分節後の構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Editing Behaviour Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152550Z" changeid="masa_36">
+        <seg>翻訳入力行の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150825Z" changeid="masa_36">
+        <seg>詳細は以下のファイルを参照してください：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Import Source Files...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150543Z" changeid="masa_36">
+        <seg>原文ファイルを追加...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151749Z" changeid="masa_36">
+        <seg>OpenDocumentフィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152535Z" changeid="masa_36">
+        <seg>下へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>File &amp;Format</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152324Z" changeid="masa_36">
+        <seg>ファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152441Z" changeid="masa_36">
+        <seg>設定の編集中に、例外が発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150223Z" changeid="masa_36">
+        <seg>OmegaTが対応するファイル形式の原文ファイルが含まれていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152448Z" changeid="masa_36">
+        <seg>文単位の分節化を有効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WiX Localization Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151723Z" changeid="masa_36">
+        <seg>WiXローカリゼーションファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151531Z" changeid="masa_36">
+        <seg>IOException（入出力例外）が発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152341Z" changeid="masa_36">
+        <seg>訳文のエンコーディング：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152624Z" changeid="masa_36">
+        <seg>前置文字列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151405Z" changeid="masa_36">
+        <seg>訳文ファイルフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151434Z" changeid="masa_36">
+        <seg>指定された辞書ファイルフォルダーは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150639Z" changeid="masa_36">
+        <seg>ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151646Z" changeid="masa_36">
+        <seg>ファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150814Z" changeid="masa_36">
+        <seg>ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150619Z" changeid="masa_36">
+        <seg>翻訳対象ファイル一覧...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151350Z" changeid="masa_36">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152536Z" changeid="masa_36">
+        <seg>上へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Generic Options:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151958Z" changeid="masa_36">
+        <seg>一般の設定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HTML and XHTML files segmentation</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152529Z" changeid="masa_36">
+        <seg>HTMLファイル・XHTMLファイルの分節化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152303Z" changeid="masa_36">
+        <seg>このプログラムは自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU一般公衆利用許諾契約書（バージョン2か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145836Z" changeid="masa_36">
+        <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Insert Source &amp;Tags</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150628Z" changeid="masa_36">
+        <seg>原文とタグを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique Characters (including spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151333Z" changeid="masa_36">
+        <seg>繰り返しを除いた文字数（空白を含む）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Search &amp;files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151459Z" changeid="masa_36">
+        <seg>ファイル検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Import Source Files...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150610Z" changeid="masa_36">
+        <seg>原文ファイルを追加...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151642Z" changeid="masa_36">
+        <seg>フィルター設定ファイルを保存できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>XLIFF Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151719Z" changeid="masa_36">
+        <seg>XLIFF ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151807Z" changeid="masa_36">
+        <seg>フッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151619Z" changeid="masa_36">
+        <seg>分節は無視されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151608Z" changeid="masa_36">
+        <seg>ファイル {2} を解析中、行 {0} の列 {1} に警告が発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152310Z" changeid="masa_36">
+        <seg>構成例 {0} を削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150724Z" changeid="masa_36">
+        <seg>取扱説明書...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150643Z" changeid="masa_36">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151557Z" changeid="masa_36">
+        <seg>解析中に例外が発生しました： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150646Z" changeid="masa_36">
+        <seg>未翻訳分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151527Z" changeid="masa_36">
+        <seg>未対応のXMLバージョン：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Jmyspell 2.1.4 (LGPL License)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145049Z" changeid="masa_36">
+        <seg>Jmyspell 2.1.4（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151443Z" changeid="masa_36">
+        <seg>キーワード検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151543Z" changeid="masa_36">
+        <seg>エスケープされた2進文字に不正なデータ {0} が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to load translation memory for project!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150729Z" changeid="masa_36">
+        <seg>プロジェクトの翻訳メモリを読み込めませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150542Z" changeid="masa_36">
+        <seg>プロジェクトを開く...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151647Z" changeid="masa_36">
+        <seg>有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151431Z" changeid="masa_36">
+        <seg>指定された原文ファイルフォルダーは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dictionary Installer</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153314Z" changeid="masa_36">
+        <seg>辞書の組み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145146Z" changeid="masa_36">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151406Z" changeid="masa_36">
+        <seg>翻訳メモリフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145853Z" changeid="masa_36">
+        <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150625Z" changeid="masa_36">
+        <seg>原文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>JNA by Todd Fast, Timothy Wall and others (LGPL License)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145039Z" changeid="masa_36">
+        <seg>Todd Fast、Timothy Wall などによる JNA （LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150633Z" changeid="masa_36">
+        <seg>次の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151137Z" changeid="masa_36">
+        <seg>繰り返しを除いた単語数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150723Z" changeid="masa_36">
+        <seg>ヘルプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151405Z" changeid="masa_36">
+        <seg>用語集フォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151226Z" changeid="masa_36">
+        <seg>未翻訳の文字数（空白を除く）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151547Z" changeid="masa_36">
+        <seg>設定ファイル読み込み中に解析エラーが発生しました。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153354Z" changeid="masa_36">
+        <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152530Z" changeid="masa_36">
+        <seg>分節化の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151652Z" changeid="masa_36">
+        <seg>訳文ファイル名の構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152139Z" changeid="masa_36">
+        <seg>OmegaTについて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT uses the following libraries:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144942Z" changeid="masa_36">
+        <seg>OmegaT は以下に示すライブラリを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151618Z" changeid="masa_36">
+        <seg>翻訳対変異の外側に、分節が見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151348Z" changeid="masa_36">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151448Z" changeid="masa_36">
+        <seg>翻訳者：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Analyzing strings - {0} of {1} completed</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150853Z" changeid="masa_36">
+        <seg>分節を調査中... {1} 分の {0} 完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150642Z" changeid="masa_36">
+        <seg>翻訳状況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151605Z" changeid="masa_36">
+        <seg>ログ {1} を調査しエラーの原因を特定してから、再度TMXファイルを読み込んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152525Z" changeid="masa_36">
+        <seg>日本語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152340Z" changeid="masa_36">
+        <seg>原文ファイル名の構成例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152329Z" changeid="masa_36">
+        <seg>ファイルフィルター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152622Z" changeid="masa_36">
+        <seg>最も一致率の高い参考訳文を自動挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cannot locate help file:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150836Z" changeid="masa_36">
+        <seg>取扱説明書が見つかりません：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152223Z" changeid="masa_36">
+        <seg>Somik Raha、Derrick Oswald などによる HTMLParser 1.6（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153214Z" changeid="masa_36">
+        <seg>復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Check simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153205Z" changeid="masa_36">
+        <seg>単純なprintf変数（％s、％dなど）を確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150211Z" changeid="masa_36">
+        <seg>現在VMが使用しているメモリーは {0} MBです。空きは {1} MBで、最大 {2} MB使用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150844Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152526Z" changeid="masa_36">
+        <seg>英語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152312Z" changeid="masa_36">
+        <seg>フィルターを初期値に戻せません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150122Z" changeid="masa_36">
+        <seg>1）一度に翻訳する原文ファイルの数を減らし、複数に分けて翻訳する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152532Z" changeid="masa_36">
+        <seg>例えば、カナダフランス語（FR-CA）の分節化規則は、一般フランス語（FR.*）のそれよりも上位に、さらに既定値（.*）よりも上位に設定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151521Z" changeid="masa_36">
+        <seg>不正な正規表現です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Info</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153234Z" changeid="masa_36">
+        <seg>情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click on '{0}' menu item</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153236Z" changeid="masa_36">
+        <seg>メニュー項目 {0} をクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151139Z" changeid="masa_36">
+        <seg>未翻訳の単語数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tra&amp;nsTips</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150717Z" changeid="masa_36">
+        <seg>TransTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153219Z" changeid="masa_36">
+        <seg>そのため、OmegaTの設定フォルダの位置を確実に指定することができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152445Z" changeid="masa_36">
+        <seg>HHC・HNKファイル中にエンコーディング宣言が存在する場合、この欄での設定に関わらず、その宣言が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150725Z" changeid="masa_36">
+        <seg>OmegaTについて...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Insert Match Into Translation</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153334Z" changeid="masa_36">
+        <seg>参考訳文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151801Z" changeid="masa_36">
+        <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Slide Comments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151920Z" changeid="masa_36">
+        <seg>スライドのコメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150933Z" changeid="masa_36">
+        <seg>ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150908Z" changeid="masa_36">
+        <seg>回復方法については、取扱説明書を参照してください。また、エラーが発生した際の操作などに関する情報を開発者に送ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150615Z" changeid="masa_36">
+        <seg>再読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OpenDocument/OpenOffice.org Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151748Z" changeid="masa_36">
+        <seg>OpenDocumentやOpenOffice.orgファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151753Z" changeid="masa_36">
+        <seg>ブックマーク参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Copyright © 2000-2010 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152142Z" changeid="masa_36">
+        <seg>Copyright © 2000-2010 Keith Godfrey, Maxym Mykhalchuk など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152403Z" changeid="masa_36">
+        <seg>&lt;meta&gt;タグ内にある以下の「属性=値」は翻訳しない（カンマ区切りで複数指定）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151349Z" changeid="masa_36">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Machine Translation</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153209Z" changeid="masa_36">
+        <seg>機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T144846Z" changeid="masa_36">
+        <seg>
+OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152326Z" changeid="masa_36">
+        <seg>フィルター対象とする原文ファイル名構成例の設定、訳文ファイル名のカスタマイズ、読み込むファイルと生成される訳文ファイルのエンコーディングの選択が行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3) File a bug report at http://sourceforge.net/projects/omegat</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150138Z" changeid="masa_36">
+        <seg>3）http://sourceforge.net/projects/omegat でバグ報告を行う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150901Z" changeid="masa_36">
+        <seg>プロジェクトのファイル保存時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151649Z" changeid="masa_36">
+        <seg>列のインデックスは1である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151536Z" changeid="masa_36">
+        <seg>「&gt;」と対になっていない「?」文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152351Z" changeid="masa_36">
+        <seg>ご注意：原文ファイルのエンコーディング設定が有効となるのは、HTMLファイル中にエンコーディング宣言がない場合のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151442Z" changeid="masa_36">
+        <seg>検索文字列：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150919Z" changeid="masa_36">
+        <seg>訳文ファイル用のフォルダーが作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Project -&gt; Reload from the main menu.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150535Z" changeid="masa_36">
+        <seg>ファイルマネージャーを使用してプロジェクトのsourceフォルダーにファイルをコピーし、メニューの［プロジェクト］→［再読み込み］でプロジェクトを再度読み込むこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152340Z" changeid="masa_36">
+        <seg>原文のエンコーディング：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>value (of button, &amp;submit and reset input)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152436Z" changeid="masa_36">
+        <seg>value（buttonやsubmit、reset）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Event: application shutdown</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153239Z" changeid="masa_36">
+        <seg>イベント：アプリケーションの終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152527Z" changeid="masa_36">
+        <seg>既定値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Event: project change - &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153238Z" changeid="masa_36">
+        <seg>イベント：プロジェクトの変更 - 「{0}」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150628Z" changeid="masa_36">
+        <seg>参考訳文1を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152422Z" changeid="masa_36">
+        <seg>hreflang（リンク先の言語）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145843Z" changeid="masa_36">
+        <seg>目次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151627Z" changeid="masa_36">
+        <seg>TMXファイルの読み込みを続行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150624Z" changeid="masa_36">
+        <seg>機械翻訳に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153327Z" changeid="masa_36">
+        <seg>表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152405Z" changeid="masa_36">
+        <seg>(X)HTMLファイルにエンコーディング宣言がある場合のみ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151637Z" changeid="masa_36">
+        <seg>用語集 {0} を読み込み中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150619Z" changeid="masa_36">
+        <seg>終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153235Z" changeid="masa_36">
+        <seg>Java：{0} 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Security error encountered loading project file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150923Z" changeid="masa_36">
+        <seg>プロジェクト読み込み中にセキュリティエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151537Z" changeid="masa_36">
+        <seg>（空タグ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152149Z" changeid="masa_36">
+        <seg>OmegaTは、自由に使用できるコンピューター翻訳支援ツールです。参考訳文、翻訳メモリ、キーワード検索、用語集などの機能があり、プロジェクトの更新に翻訳を活用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Editing Behaviour...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150648Z" changeid="masa_36">
+        <seg>翻訳入力行...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150629Z" changeid="masa_36">
+        <seg>参考訳文2を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150842Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150630Z" changeid="masa_36">
+        <seg>参考訳文3を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The '?' character matches exactly one character ('run?' would match 'runs' and 'rung', for example, but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151517Z" changeid="masa_36">
+        <seg>半角「?」は、任意の1文字と一致します。例えば「run?」は、「runs」「rung」には一致しますが、「run」や「running」には一致しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Text Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151658Z" changeid="masa_36">
+        <seg>テキストファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150631Z" changeid="masa_36">
+        <seg>参考訳文4を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150632Z" changeid="masa_36">
+        <seg>参考訳文5を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No Suggestions</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153254Z" changeid="masa_36">
+        <seg>候補はありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152305Z" changeid="masa_36">
+        <seg>このプログラムは有効活用されることを願って頒布されるものですが、その内容については全くの無保証となります。商品性の黙示保証、または特定目的への適合性は全く存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153207Z" changeid="masa_36">
+        <seg>参考訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151612Z" changeid="masa_36">
+        <seg>TMX ファイルは読み込まれません。エラーを修正したのち、プロジェクトの再読み込みを行ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151408Z" changeid="masa_36">
+        <seg>辞書フォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152531Z" changeid="masa_36">
+        <seg>言語コード構成例に一致する分節化規則は、設定された順に適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151736Z" changeid="masa_36">
+        <seg>ファイル {0} の行 {1} にエラーがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151429Z" changeid="masa_36">
+        <seg>入力された訳文ファイルの言語が正しくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151610Z" changeid="masa_36">
+        <seg>ファイル {2} を解析中、行 {0} の列 {1} に回復不可能なエラーが発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145857Z" changeid="masa_36">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150849Z" changeid="masa_36">
+        <seg>docsフォルダーの位置を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Event: font changed</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153243Z" changeid="masa_36">
+        <seg>イベント：字体が変更されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The &amp;source text</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152621Z" changeid="masa_36">
+        <seg>原文を挿入する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DokuWiki Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151747Z" changeid="masa_36">
+        <seg>DokuWikiファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151920Z" changeid="masa_36">
+        <seg>スライド マスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153327Z" changeid="masa_36">
+        <seg>原文を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151409Z" changeid="masa_36">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151423Z" changeid="masa_36">
+        <seg>プロジェクトフォルダーの位置を変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153208Z" changeid="masa_36">
+        <seg>辞書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152523Z" changeid="masa_36">
+        <seg>スペイン語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Google Translate</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153343Z" changeid="masa_36">
+        <seg>Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151420Z" changeid="masa_36">
+        <seg>移動されたプロジェクトフォルダーがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152337Z" changeid="masa_36">
+        <seg>構成例を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152544Z" changeid="masa_36">
+        <seg>新規言語（言語コード＋地域コード）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Advanced &amp;Options</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151447Z" changeid="masa_36">
+        <seg>詳細設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Confirm uninstalling</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153308Z" changeid="masa_36">
+        <seg>削除の確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151642Z" changeid="masa_36">
+        <seg>フィルター設定ファイルを読み込めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151117Z" changeid="masa_36">
+        <seg>未翻訳の分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151632Z" changeid="masa_36">
+        <seg>TMXファイルを更新しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151625Z" changeid="masa_36">
+        <seg>TMXの原文言語 {0} と、プロジェクトの原文言語 {1} が異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152345Z" changeid="masa_36">
+        <seg>{0} にプロジェクトを自動保存しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Display &amp;All</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153332Z" changeid="masa_36">
+        <seg>すべての分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152442Z" changeid="masa_36">
+        <seg>HHCファイルのサイズが大きすぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151114Z" changeid="masa_36">
+        <seg>繰り返しを除いた未翻訳の分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Automatically check the spelling of text</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153258Z" changeid="masa_36">
+        <seg>テキストの綴り確認を自動で行う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151528Z" changeid="masa_36">
+        <seg>不正なXMLファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152400Z" changeid="masa_36">
+        <seg> (X)HTMLファイルにヘッダーがある場合のみ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150914Z" changeid="masa_36">
+        <seg>訳文ファイル生成完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152438Z" changeid="masa_36">
+        <seg>以下のタグで分節化する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152333Z" changeid="masa_36">
+        <seg>フィルターに関する設定は、［設定...］から行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151752Z" changeid="masa_36">
+        <seg>ブックマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152418Z" changeid="masa_36">
+        <seg>src（画像のURL）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151623Z" changeid="masa_36">
+        <seg>これらの翻訳対は無視されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project load cancelled by user</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150858Z" changeid="masa_36">
+        <seg>プロジェクトの読み込みが中断されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151555Z" changeid="masa_36">
+        <seg>原文言語： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152745Z" changeid="masa_36">
+        <seg>OmegaTが対応していないタグをどのように扱うか選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150120Z" changeid="masa_36">
+        <seg>以下のような対処法があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150925Z" changeid="masa_36">
+        <seg>プロジェクトの翻訳状況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150931Z" changeid="masa_36">
+        <seg>繰り返しを除いた未翻訳：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151433Z" changeid="masa_36">
+        <seg>指定された翻訳メモリファイルフォルダーは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151806Z" changeid="masa_36">
+        <seg>ヘッダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145854Z" changeid="masa_36">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150750Z" changeid="masa_36">
+        <seg>{0} が {1} / {2} に修正した翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150646Z" changeid="masa_36">
+        <seg>ファイルフィルター...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>SVG Image Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151733Z" changeid="masa_36">
+        <seg>SVG画像ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153312Z" changeid="masa_36">
+        <seg>原文（分節 {0}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152332Z" changeid="masa_36">
+        <seg>フィルターで処理するファイルとエンコーディングを変更するには、一覧からフィルターを選択し［編集...］をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Key=Value Text Files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151746Z" changeid="masa_36">
+        <seg>「キー=値」形式のテキストファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153208Z" changeid="masa_36">
+        <seg>用語集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Apply this font to the Project Files window</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150810Z" changeid="masa_36">
+        <seg>この字体を翻訳対象ファイル一覧に適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Defaults</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152323Z" changeid="masa_36">
+        <seg>初期値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>User's Manual viewer does not support navigation to external links.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150839Z" changeid="masa_36">
+        <seg>取扱説明書のウィンドウから、外部リンクを開くことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152327Z" changeid="masa_36">
+        <seg>フィルターによっては、エンコーディングが選択できない場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151755Z" changeid="masa_36">
+        <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152539Z" changeid="masa_36">
+        <seg>分節化規則群：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>R&amp;eplace with Match</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150624Z" changeid="masa_36">
+        <seg>参考訳文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152645Z" changeid="masa_36">
+        <seg>分節をテキストファイルへ出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152549Z" changeid="masa_36">
+        <seg>名前またはID：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please select a dictionary file folder first</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153311Z" changeid="masa_36">
+        <seg>辞書ファイルフォルダーをまず指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Choose...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153302Z" changeid="masa_36">
+        <seg>参照...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151533Z" changeid="masa_36">
+        <seg>不正なコメントタグの開始部分が見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151507Z" changeid="masa_36">
+        <seg>キーワード検索は、指定した文字列を（空白で区切られた）検索キーワードの組とみなします。キーワードの順序は問わず、それらをすべて含む分節を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (release manager), Kim Bruning, Alex Buloichik, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Thomas Huriaux, Ibai Lakunza Velasco, Fabián Mandelbaum, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Antonio Vilei and Martin Wunderlich</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152158Z" changeid="masa_36">
+        <seg>
+コードに関する貢献者： 
+Zoltan Bartko、Volker Berlin、Didier Briel（リリース担当）、Kim Bruning、Alex Buloichik、Sandra Jean Chua、Martin Fleurke、Wildrich Fourie、Thomas Huriaux、Ibai Lakunza Velasco、Fabián Mandelbaum、Maxym Mykhalchuk、Arno Peters、Henry Pijffers、Tiago Saboga、Andrzej Sawuła、Benjamin Siband、Antonio Vilei、そしてMartin Wunderlich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151554Z" changeid="masa_36">
+        <seg>バージョン： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150613Z" changeid="masa_36">
+        <seg>MediaWikiページのURLを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152522Z" changeid="masa_36">
+        <seg>カタルーニャ語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The '*' character matches zero or more characters (the search term 'run*' would match 'run', 'runs', and 'running', for example).</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151516Z" changeid="masa_36">
+        <seg>半角「*」は、0個以上の任意の文字と一致します。例えば「run*」で検索すると、「run」「runs」「running」などに一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>MRJ Adapter 1.0.8 by Steve Roy (LGPL License)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152230Z" changeid="masa_36">
+        <seg>Steve Roy による MRJ Adapter 1.0.8（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150927Z" changeid="masa_36">
+        <seg>単語数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150541Z" changeid="masa_36">
+        <seg>新規作成...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151500Z" changeid="masa_36">
+        <seg>再帰検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150620Z" changeid="masa_36">
+        <seg>編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Uninstall...</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153304Z" changeid="masa_36">
+        <seg>削除...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153212Z" changeid="masa_36">
+        <seg>最小化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Swing-Layout 1.0.2 (LGPL License)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145045Z" changeid="masa_36">
+        <seg>Swing-Layout 1.0.2（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150621Z" changeid="masa_36">
+        <seg>取り消す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152619Z" changeid="masa_36">
+        <seg>未翻訳の分節に移動したとき、その分節に挿入したい内容を以下から選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152516Z" changeid="masa_36">
+        <seg>分節 または 例外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150928Z" changeid="masa_36">
+        <seg>文字数（空白を除く）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project loading start</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153245Z" changeid="masa_36">
+        <seg>プロジェクト読み込みの開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153341Z" changeid="masa_36">
+        <seg>コピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153341Z" changeid="masa_36">
+        <seg>ペースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Go To Segment Source</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153333Z" changeid="masa_36">
+        <seg>分節へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153225Z" changeid="masa_36">
+        <seg>設定したい位置にアクセスできるようになる以降、そこが使用されます。その際、位置変更のため、設定はすべて初期値に復元されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unknown plugin type in '{0}'</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151639Z" changeid="masa_36">
+        <seg>'{0}' のプラグインの型が不明です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150929Z" changeid="masa_36">
+        <seg>文字数（空白を含む）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151546Z" changeid="masa_36">
+        <seg>設定が保存できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152355Z" changeid="masa_36">
+        <seg>HTMLファイル中にエンコーディング宣言が存在する場合、この欄でのエンコーディングの設定は無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150826Z" changeid="masa_36">
+        <seg>すべての分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ignore All</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153255Z" changeid="masa_36">
+        <seg>すべて無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145858Z" changeid="masa_36">
+        <seg>初期値を復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Display Font</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150800Z" changeid="masa_36">
+        <seg>表示用字体の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150617Z" changeid="masa_36">
+        <seg>訳文ファイルを生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T153257Z" changeid="masa_36">
+        <seg>綴り確認機能の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152511Z" changeid="masa_36">
+        <seg>分節化規則を読み込み中にエラーが発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Go To Segment</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150734Z" changeid="masa_36">
+        <seg>分節へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150716Z" changeid="masa_36">
+        <seg>機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151445Z" changeid="masa_36">
+        <seg>正規表現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Now</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151449Z" changeid="masa_36">
+        <seg>現在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151757Z" changeid="masa_36">
+        <seg>ファイルにエラーがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T145841Z" changeid="masa_36">
+        <seg>フィルター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151411Z" changeid="masa_36">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151554Z" changeid="masa_36">
+        <seg>分節化の方法： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150537Z" changeid="masa_36">
+        <seg>空のプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151522Z" changeid="masa_36">
+        <seg>不正なフォルダー名です： {0} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T150642Z" changeid="masa_36">
+        <seg>参考訳文の一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T152548Z" changeid="masa_36">
+        <seg>あなたが行った翻訳にマークする際に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151650Z" changeid="masa_36">
+        <seg>原文ファイル名の構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151700Z" changeid="masa_36">
+        <seg>原文を分節化する位置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv xml:lang="EN" changedate="20101004T151930Z" changeid="masa_36">
+        <seg>図</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
