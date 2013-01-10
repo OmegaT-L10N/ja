@@ -1,0 +1,4593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.1.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of results: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>一致数：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>次の正規表現に一致する文字列を翻訳対象外にする：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイルを生成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>全体ワード数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to uninstall the selected dictionary</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>選択された辞書の削除はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトの翻訳対象ファイル一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>これで、OmegaTは終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>入力値は１から {0} までです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>一致する結果最高数に達しました（{0}）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot find saved TMX: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>保存されたTMXが見つかりません：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>設定…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>本当に分節化規則群「{0}」を削除してもよろしいですか？ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル：翻訳済み分節数／分節全体数（プロジェクト：繰り返しを除いた翻訳済み分節数／繰り返しを除いた分節数／分節全体数）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add To Dictionary</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>辞書に追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082647Z" changeid="suzume">
+        <seg>構造を削除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>新規のTMXファイルを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイルのエンコード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>アプリケーション起動時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>結合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ＴＡＢで進む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>用語集フォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>前の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>最小一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help &amp; Manual Files</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081027Z" changeid="suzume">
+        <seg>ヘルプ＆マニュアルファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project compiling start</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイル生成開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problem encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトのファイル読み込みエラー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source/translation lengths (characters)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文と訳文の長さ（文字数）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Size</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>大きさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>未翻訳分節数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ResX Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ResX ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>テキストフィルタ設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>現在使われている辞書を削除しようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Validate Tags</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>タグ検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>いくつかの翻訳対において原文言語に当たる分節が見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connecting to dictionary repository...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>辞書リポジトリに接続しています…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Didier Briel (release manager), Kim Bruning, Alex Buloichik, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Thomas Huriaux, Fabián Mandelbaum, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Tiago Saboga, Andrzej Sawuła, Benjamin Siband and Martin Wunderlich</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>コードに関する貢献者： 
+Zoltan Bartko、Didier Briel（現在の開発担当）、Kim Bruning、Alex Buloichik、Sandra Jean Chua、Martin Fleurke、Wildrich Fourie、Thomas Huriaux、Fabián Mandelbaum、Maxym Mykhalchuk、Arno Peters、Henry Pijffers、Tiago Saboga、Andrzej Sawuła、Benjamin SibandとMartin Wunderlich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>設定ディレクトリ内にスクリプトディレクトリを作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト読み込み中…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>エラー：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>変更を反映させるには、OmegaTを終了して、プロジェクトを開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>95%-100%：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the following attributes:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>下記の属性は翻訳対象です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving start</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト保存開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Team...</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T080225Z" changeid="suzume">
+        <seg>チーム名…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>このプロジェクトは文単位で分節化されていますが、 TMX ファイルは段落単位で分節化されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMXファイル {0} を解析中に例外が発生しました。
+TMXファイルの読み込みを中止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project loading end</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト読み込み終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトを保存しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文と等しい訳文を許可する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>辞書ファイルフォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \&quot;-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns=&quot;http://docbook.org/ns/docbook&quot; for DocBook 5</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>注意：DocBook形式ファイルを認識するには拡張子に加え、以下のようなDOCTYPE宣言文が必要です : &lt;!DOCTYPE book PUBLIC \&quot;-//OASIS//DTD DocBook XML...（DocBook 4用）や Namespace: xmlns=&quot;http://docbook.org/ns/docbook&quot;（DocBook 5用）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>繰り返しを除いた分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>下へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト設定変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>結合解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>終了されていないエスケープシーケンス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Import From MediaWiki...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>MediaWikiから原文ファイルを追加…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>繰り返しを除いた翻訳済み分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: new entry activated</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>イベント：新しい項目は有効になった（{0}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>タグ名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No new dictionaries available at the remote server.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>リモートサーバーには新しい辞書はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select which behaviour is appropriate.</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081455Z" changeid="suzume">
+        <seg>最適な設定を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>利用可能な言語：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ストリームの終端に達しましたが、終了ブロックがありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>サイクル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: application startup</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>イベント：アプリケーション起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>完全一致検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please wait.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しばらくお待ちください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>配列には、１つ以上の値が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトを保存しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaT ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>予期せぬ文字列 {0}（{1}）！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイルのエンコード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>用語集フォルダにアクセスできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>合計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フィルタ編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T080952Z" changeid="suzume">
+        <seg>一致率情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>編集 - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JAXB (GPLv2 + classpath exception)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>JAXB（GPLv2ライセンスと Classpath 例外）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082653Z" changeid="suzume">
+        <seg>フィルタ構造を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081722Z" changeid="suzume">
+        <seg>全てのprintf変数（％s、％-s など）を確認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaTの設定ディレクトリ作成はオペレーティングシステムに拒否されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節番号を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイル言語：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>それによって、全ての設定は初期設定に復元され、予期しない動作を発生させる原因となる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Restore Main Window</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ウインドウ初期設定復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Open XML フィルタ設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル {2} を解析中に行 {0} 、列 {1} で発生した回復可能なエラーです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaT {0} 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Android Resource Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Android リソース・ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>HTMLファイル・XHTMLファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル「{0}」は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考翻訳メモリフォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>(右タグ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>value（buttonやsubmit、resetなどを含む入力フォーム）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No need to save project, because no changes were made</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>変更はなかったため、プロジェク保存の必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>空行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace Translation with Match</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tag errors detected</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>タグのエラーはありませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フォルダ階層検索エラー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトファイルを読み込めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>&lt;br&gt;（改行）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>本当に終了しますか ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>一致が見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイル言語：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 LocManager Files</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081032Z" changeid="suzume">
+        <seg>Typo3 LocManagerファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target 
+language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイルの言語と訳文ファイルの言語を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>作成者： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>新規プロジェクト作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082849Z" changeid="suzume">
+        <seg>言語コード構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>入力された原文言語が不正です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>次に移動した分節へ進む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hunspell by László Németh and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>László Németh氏などによる Hunspell（LGPLライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>JDK 1.6の最新版に更新するか、OmegaTアプリケーションフォルダからjaxb-*.jarファイルを削除してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dis&amp;play all results</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>全て表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import From MediaWiki</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>MediaWikiから原文ファイルを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving end</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト保存終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>言語コードはxx-YYまたはxx_YY、xxx-YY、xxx-YYの形で、xx/xxxは言語コード、YYは地域コード（任意）を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>テキストファイルを分節化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>編集…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳対変異の言語が指定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>指定された用語集フォルダは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>現在開いているファイルの翻訳状況：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>組み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>その代わりに、現在のディレクトリが使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a different name.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>他のファイル名を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイルフィルタを表示・編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>オペレーティングシステム用の外観が初期化できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイルフォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>先頭文字を大文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the dictionaries you want to install and press the Install button.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>組み込む辞書を選択して、組み込みボタンをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>上へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081048Z" changeid="suzume">
+        <seg>チーム設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>HTML・XHTMLファイルにエンコード宣言を追加・変更する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reopen the project?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトを再読み込みしますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>XMLファイルの読み込み初期化できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>HTMLヘルプコンパイラ（HCC）ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>このリンクへアクセスするには、ＵＲＬを コピーしてウェブブラウザへ貼り付けるか、取扱説明ガイドをウェブブラウザ（{0} ファイル）で開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳対変異を無視しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>対応しないファイルエンコード。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validating Tags...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>タグを検証中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>XHTMLフィルタ設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>(X)HTMLフィルタ設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>HTMLファイルが大きすぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaT {0} 版 アップデート {1} 番</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hidden &amp;text</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>隠し文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>{0} を読み込み中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell &amp;Checking...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>文章校正…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082704Z" changeid="suzume">
+        <seg>構造変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>その代わりに、設定ディレクトリが使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>終了時に常に確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>［参考］</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>全体文字数（空白を除く）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトを検索…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>重大なエラー：プロジェクトファイルをバックアップ用に「.recover」拡張子を付けて保存しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while trying to create a new folder</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>新規フォルダ作成中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>表示はこのようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMXヘッダより前に翻訳対があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>辞書ファイルフォルダ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>注意：原文ファイルのエンコード設定が有効になるのは、HHC・HNKファイルの中にエンコードの宣言がない場合に限られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches examine the current project and return all segments which contain all of the query words, in any order.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>キーワード検索では、開いているプロジェクトを調べて、検索ワードの順番に拘らず、それらを含む全ての分節を返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Index 項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトは終了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaT プロジェクトフォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaTはオペレーティングシステム名やホームディレクトリを含むシステムプロパティーのアクセスが拒否されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>「{0}」を隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ここでプロジェクトの設定を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export Selection</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>選択領域を出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DocBook Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>DocBook ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>不正な「\u」文字列を発見しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>href（リンクのURL）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>脚注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SubRip Subtitles Files</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081040Z" changeid="suzume">
+        <seg>SubRip字幕ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T080945Z" changeid="suzume">
+        <seg>不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル読み込みができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;segment 0000&gt;</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>&lt;分節 0000&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMX ファイルの読み込みが完了しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ポーランド語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>拡張１０進文字エスケープシーケンスに不正なデータ「{0}」が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル名変数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ドイツ語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project compiling end</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイル生成終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイルフォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>XHTMLファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>その代わりに、現在のディレクトリが使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>指定された訳文ファイルフォルダは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2009 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Copyright ©２０００−２００９
+Keith Godfrey、Maxym Mykhalchuk、その他。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>最大化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMX ファイル「{0}」を読み込んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳済み分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ロシア語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying &quot;java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar&quot; on the
+command line or in the OmegaT start script;</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ﾛ）命令入力行かスクリプトで「java -Xmx&lt;MBサイズ&gt;M -jar OmegaT.jar」を書いて、OmegaT用のメモリーを増やすか、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>下記の要素は翻訳対象です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>これでどうですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>繰り返し：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Install...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>組み込み…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>PO ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>QuarkXPress CopyFlow Gold ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>全体文字数（空白を含む）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Google Translate</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フォルダ選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文を入れない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>大文字と小文字を区別します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>お手軽スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Validation Options</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081301Z" changeid="suzume">
+        <seg>タグ検証設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: new file activated ({0})</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>イベント：新しいファイルは有効になった（{0}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フィルタ {0} は {1} から読み込みできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Upper Case</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>全てを大文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>例外が発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>(コメントタグ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>削除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>用語集読み込み中…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>設定…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節化規則の設定保存エラー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This call MUST NOT be in swing thread</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>このコールはSWINGスレードにあるべきではないです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>メモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>文末脚注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081007Z" changeid="suzume">
+        <seg>一致しない：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMXファイルを読み込んでいます...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>lang（言語属性）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This call MUST be in swing thread</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>このコールはSWINGスレードにあるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081424Z" changeid="suzume">
+        <seg>OmegaTは '％s' のようなプログラミング変数（printf関数の変数）を確認することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>いつも</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>前に移動した分節へ戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳対象ファイル一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot load specified XML file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>指定されたXMLファイルを読み込めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Lower Case</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>全てを小文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>未訳文字数 (空白を含む)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>完全一致：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>今プロジェクトを再読み込みしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>メモリ不足によりOmegaT が動作いたしません。申し訳ありませんが、OKを押して一旦OmegaTを終了してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>そして、カナダのフランス語から翻訳しているとき、プロジェクトは、関連する言語全ての定義済分節規則を適切な順序で使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLDocking Framework 2.1.4 by VLSolutions (CeCILL License)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>VLSolutions社による VLDocking Framework 2.1.4（CeCILLライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename already exists.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>同じ名前のファイルが既に存在しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>オランダ語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>改行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;end segment&gt;</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>&lt;/分節&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081917Z" changeid="suzume">
+        <seg>{0}による最新変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082855Z" changeid="suzume">
+        <seg>分節前の構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイルフォルダ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot open the link {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>リンク「{0}」が開けません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳状況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節番号…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}, executed from '{2}'</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>{1}、{2} から実行されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>その他の貢献の詳細はreadme_ja.txtファイルにて記載してあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries with modified tags</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>変更されたタグがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト作成エラー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>&lt;自動&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User's Manual</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>取扱説明ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert Match</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトの{0}版に対応していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior is the coordinator of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Marc PriorはOmegaTプロジェクトのコーディネーターです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available dictionaries:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>利用可能な辞書：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Open XML Files</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T083011Z" changeid="suzume">
+        <seg>Microsoft Open XMLファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081928Z" changeid="suzume">
+        <seg>名前/ IDを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>操作繰り返し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uninstalling failed</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>削除はできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節化規則は、以下の順で適用されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>現在の原文に存在しない分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaTはTMXファイルを再度分節化しています…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg> このTMX ファイルは OmegaT 1.4.x 以前で作成されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>言語名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>繰り返しを除いた：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>読み込み完了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Do not check printf-variables</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081607Z" changeid="suzume">
+        <seg>printf変数を確認しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳対の外部に翻訳対変異があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T083115Z" changeid="suzume">
+        <seg>参考翻訳メモリ検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Switch Case To</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>大小文字設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>次の未翻訳分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>予期せぬエラーのため、検索スレッドが終了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Java リソース・バンドル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTeX Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>LaTeX ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Tag Validation...</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T080209Z" changeid="suzume">
+        <seg>タグ検証…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project creating end</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト作成終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full checking can lead to false positives in normal texts.</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081542Z" changeid="suzume">
+        <seg>完全な確認による偽陽性になることもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searches are performed both in the source and the translation.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>検索は、原文、訳文の両方に対して行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>検索ウィンドウを閉じてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMX ファイル {0} の解析中に行 {1} 、列 {2} で発生した、回復不能なエラーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>文字列検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイル {0} 生成中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variants in the following languages will be displayed: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>以下の言語変異が表示されます：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate
+them.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>新しい位置を指定するか改めて作ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節化…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project creating start</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト作成開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both search types support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>検索は、ワイルドカード（「*」と「？」）を対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of Segments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイル読み込み完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>取り消し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>新規プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Font</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>字体名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to edit the project!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトの設定変更にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>追加…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>指定されたプロジェクトの読み込みに失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F&amp;ont...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>字体設定…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Import Failed</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイルが追加できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082900Z" changeid="suzume">
+        <seg>分節後の構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing Behaviour Options</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳入力行設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>詳細データについてはこのファイルを見てください：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Import Source Files...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイル追加…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OpenDocument フィルタ設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>下へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &amp;Format</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact searches look for the specified query string within the current project or in any folder or folder structure.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>完全一致検索では、現在のプロジェクト内、またはフォルダやフォルダ階層を指定して、検索対象文字列を検索することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>設定中に例外が発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaTが対応するファイル形式の原文ファイルは入っていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>文レベルで分節化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>IOの例外：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081739Z" changeid="suzume">
+        <seg>表示と変更情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイルのエンコード：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>前置文字列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイルフォルダ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>指定された辞書ファイルフォルダは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳対象ファイル一覧…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>50%-74%：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>上へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML files segmentation</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>HTMLファイル・XHTMLファイルを分節化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>このプログラムはフリーソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書(バージョン２か、希望によってはそれ以降のバージョンのうちどれか)の定める条件の下で再頒布または改変することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import Source Files...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイル追加…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add files to the project, click on the Import Source Files... button in the Project Files window or call this action from the Project menu and select the source files you want to import.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトにファイルを追加するには、プロジェクトファイルウィンドウの「原文ファイルをインポート…」ボタンをクリックするか、プロジェクトメニューからこのボタンをクリックして、挿入したい原文ファイルを選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search &amp;files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フィルタ設定ファイル保存エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>XLIFF ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節を無視しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル {2} の行 {0}、 列 {1} を解析中に警告が発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082643Z" changeid="suzume">
+        <seg>構造「 {0}」を削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>取扱説明ガイド…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>解析中に例外が発生しました：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>未翻訳分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>対応されていないXMLバージョン：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell 2.1.4 (LGPL License)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Jmyspell 2.1.4（LGPLライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>キーワード検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>２進文字エスケープシーケンスに不正なデータ「{0}」が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load translation memory for project!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトの翻訳メモリを読み込めませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>開く…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>指定された原文ファイルフォルダは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Installer</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>辞書インストーラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考翻訳メモリフォルダ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JNA by Todd Fast, Timothy Wall and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Todd Fast氏、Timothy Wall氏などによる JNA （LGPLライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>次の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ヘルプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>用語集フォルダ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>未訳文字数 (空白を除く)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>警告：設定ファイル読み込み中の解析エラー。 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節化設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaTについて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082638Z" changeid="suzume">
+        <seg>訳文ファイル名構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaTは、下記のライブラリを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳対変異の外部に分節があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>85%-94%：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Analyzing strings - {0} of {1} completed</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節分析中… {1} 分の {0} 完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳状況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ログ（{1}）を解析して、エラーの原因を特定した上で、再度TMXファイルを読み込んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>日本語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082842Z" changeid="suzume">
+        <seg>原文ファイル名構造：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイルフィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>最も一致率の高い参考訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot locate help file:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>取扱説明ガイドが見つかりませんでした：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Somik Raha氏、Derrick Oswald氏などによる HTMLParser 1.6（LGPLライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Check simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081701Z" changeid="suzume">
+        <seg>単純なprintf変数（％s、％d など）を確認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>英語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フィルタをデフォルトに戻すことができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ｲ）一回で翻訳する原文ファイルを減らして、数回において翻訳を進めるか、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>従って、例えば、カナダのフランス語（FR-CA）用の分節規則は、一般フランス語（FR.*）用の分節規則よりも高い位置に、更に既定値（.*）よりも高い位置に設定されるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on '{0}' menu item</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>メニュー項目 {0} をクリックした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>未訳ワード数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>従って、OmegaTの設定ディレクトリの位置を確実に指定することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>HHC・HNKファイルにエンコードの宣言がある場合、ここで値を設定した場合でも、元々のエンコードが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaTについて…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match Into Translation</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Slide Comments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>スライドコメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>回復方法については、取扱説明ガイドを参照してください。また、エラーが発生したときの操作などに就いての情報を開発者に送ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>再読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument/OpenOffice.org Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OpenDocument や OpenOffice.org ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ブックマーク参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T083052Z" changeid="suzume">
+        <seg>次のmetaタグの(属性=値)文字列を翻訳対象外にする（対をコンマで区切ってください）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>75%-84%：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaTは元々Keith Godfreyの作品です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ここで設定できるのはフィルタ処理対象原文ファイル名や、訳文ファイルのファイル名や、読み込みむときの原文ファイルと生成される訳文ファイルのエンコードなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3) File a bug report at http://sourceforge.net/projects/omegat</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ﾊ）「http://sourceforge.net/projects/omegat」にバグレポートを提出する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトのファイル保存エラー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>列のインデックスは必ず１に等しくなければいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>「&gt;」と結ばれていないフローティング「?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>注意：原文ファイルのエンコード設定が有効になるのは、HTMLの中にエンコードの宣言がない場合に限られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>検索文字列：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイル用のフォルダが作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Project -&gt; Reload from the main menu.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイルマネージャを使ってプロジェクトの原文フォルダにファイルをコピーし、メニューの［プロジェクト］→［再読み込み］を選択してプロジェクトを再読み込むこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文ファイルのエンコード ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>value (of button, &amp;submit and reset input)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>value（buttonやsubmit、reset）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: application shutdown</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>イベント：アプリケーション終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>既定値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: project change - &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>イベント：プロジェクト変更 -「{0}」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文１を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>hreflang（リンク先の言語）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>目次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMXファイルの読み込みを継続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>機械翻訳に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg> (X)HTMLファイルにエンコード宣言がある場合のみ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>用語集読み込み中…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Java：{0} 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security error encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト読み込み中のセキュリティーエラー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>(空タグ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>OmegaTとは、コンピュータを利用した翻訳ツールです。OmegaTの主な特徴は以下の通りです。Javaをサポートしているオペレーティングシステムであれば動作可能、翻訳リファレンスとしてどんな種類のTMXファイルをも利用-SRXのような方法を用いたフレキシブルな文章の分割、 翻訳メモリのリファレンスやプロジェクトを検索- OmegaTが読み込み可能なファイルを含んだ全てのディレクトリの検索- ファジーマッチング- 複雑なディレクトリ構造になったプロジェクトの取り扱い- グロッサリーをサポート（用語チェック）- ドキュメントやチュートリアルがわかりやすい- 多種の言語へのローカライズ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Editing Behaviour...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳入力行…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文２を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文３を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文４を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>テキストファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The '?' character matches exactly one character ('run?' would match 'runs' and 'rung', for example, but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>半角の「?」は文字1個に一致します。例えば「run?」は、「runs」や「rung」には一致しますが、「run」や「running」には一致しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文５を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Suggestions</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>候補はありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>このプログラムは有用であることを願って頒布されますが、*全くの無保証*です。商業可能性の保証や特定の目的への適合性は、言外に示されたものも含め全く存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMX ファイルの読み込みに失敗しました。お手数ですが、エラーを修正の上、プロジェクトを再度読み込んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>辞書フォルダ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082928Z" changeid="suzume">
+        <seg>言語コード構造に一致する分節化規則は、設定された順で適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル {0} の 行 {1} にエラーがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイル {2} を解析中に行 {0} 、列 {1} で発生した回復不能なエラーです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>入力された原文言語が不正です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081908Z" changeid="suzume">
+        <seg>{1}/{2}に{0}による最新変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: font changed</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>イベント：字体変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>/docs/フォルダの位置を確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &amp;source text</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文を入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>スライド マスタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ここでプロジェクトのフォルダの位置を変更して指定することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>辞書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>スペイン語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>異動されたプロジェクトフォルダがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082658Z" changeid="suzume">
+        <seg>構造追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>新規言語（言語コード＋地域コード）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm uninstalling</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>削除の確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フィルタ設定ファイル読み込みエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMXファイルをアップグレードしています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト自動保存時： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>TMXの原文言語（{0}）と、プロジェクトの原文言語（{1}）が異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>HHC file が大きすぎます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Automatically check the spelling of text</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>自動文章校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg> (X)HTMLファイルにヘッダがある場合のみ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>不正なXMLファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイル生成完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>下記のタグが分節を作る：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フィルタに設定がある場合は、設定をクリックして変更することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ブックマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>これらの翻訳対は無視されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>src（画像のURL）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project load cancelled by user</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト読み込みが中断されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文言語： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>この問題を以下のように解決できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクトの翻訳状況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>繰り返しを除いた未翻訳分節数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>指定された参考翻訳メモリファイルフォルダは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ヘッダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイルフィルタ…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>原文（分節 {0}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フィルタで処理するファイルとエンコードを変更するには、一覧からフィルタを選択して、変更をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key=Value Text Files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>キー値形式テキストファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>用語集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply this font to the Project Files window</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>字体を翻訳対象ファイルの一覧に適用する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Defaults</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>既定値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User's Manual viewer does not support navigation to external links.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>取扱説明ガイドのビュアーでは、外部リンクを開くことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フィルタによっては、エンコードが選択できない場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節化規則群：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節をテキストファイルへ出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>R&amp;eplace with Match</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参考訳文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081228Z" changeid="suzume">
+        <seg>名前/ ID：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Choose...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>選択…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>コメントタグの不正な開始部を発見しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>MediaWikiページのURLを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>バージョン： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>カタルーニャ語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The '*' character matches zero or more characters (the search term 'run*' would match 'run', 'runs', and 'running', for example).</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>半角の「*」 は文字0個以上に一致します。例えば、「run*」を検索すると、「run」や「running」に一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MRJ Adapter 1.0.8 by Steve Roy (LGPL License)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Steve Roy氏による MRJ Adapter 1.0.8（LGPLライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ワード数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>新規作成…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>再帰検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Uninstall...</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>削除…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>最小化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swing-Layout 1.0.2 (LGPL License)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Swing-Layout 1.0.2（LGPLライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>操作取り消し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>改行／例外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>未翻訳の分節に移動したときに挿入する内容を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>文字数（空白を除く）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project loading start</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>プロジェクト読み込み開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Segment Source</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>適切な位置にアクセスできるときに、そこが使われますが、位置変更によって設定は初期設定に復元されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>文字数（空白を含む）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>HTMLファイルにエンコードの宣言がある場合、ここで値を設定した場合でも、元々のエンコードが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>設定保存ができませんでした。 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節全体数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore All</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>全て無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>初期値復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Font</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>表示用字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>訳文ファイル生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>文章校正設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節化規則読み込み中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Segment</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>正規表現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ファイルにエラーがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>分節化の方法： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>空のプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>不正なフォルダ名： {0} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T080105Z" changeid="suzume">
+        <seg>一致率情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T081953Z" changeid="suzume">
+        <seg>翻訳に印を付けるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="JA" changedate="20091214T082633Z" changeid="suzume">
+        <seg>原文ファイル名構造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>以下の規則で、原文を分節化する。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
