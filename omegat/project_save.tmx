@@ -799,6 +799,14 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092633Z">
+        <seg>(X)HTML（*.html, *.xhtml,*.xht）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105557Z">
@@ -866,10 +874,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="masa_36">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>50%-74%:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T163243Z">
         <seg> 50% -  74%：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="masa_36">
+        <seg>6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,6 +938,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; provides a powerful range of search functions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T084532Z">
+        <seg>OmegaT は強力な文字列検索機能を備えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T152056Z">
@@ -926,6 +958,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154035Z">
         <seg>&lt;空&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T091609Z">
+        <seg>&lt;p0&gt;プロジェクトメニュー&lt;/p0&gt; &lt;s1&gt;新規作成…&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T091530Z">
+        <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;新規作成 / 読み込み&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092025Z">
+        <seg>&lt;p0&gt;原文ファイル&lt;/p0&gt; &lt;s1&gt;ファイル形式&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Matches&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T093216Z">
+        <seg>&lt;p0&gt;翻訳メモリー&lt;/p0&gt; &lt;s1&gt;参考訳文&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +1038,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175044Z">
         <seg>OmegaT について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142247Z">
+        <seg>OmegaTについて…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1122,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142046Z">
+        <seg>終了時に常に確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occured</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151735Z">
@@ -1088,6 +1168,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174540Z">
         <seg>Android リソースファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android resource (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092827Z">
+        <seg>Android リソース・ファイル（*.xml）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,6 +1274,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164705Z">
         <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141711Z">
+        <seg>前に移動した分節へ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1550,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141140Z">
+        <seg>閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Co&amp;mments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174915Z">
@@ -1665,6 +1769,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create translated documents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="masa_36">
+        <seg>訳文ファイルの生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170638Z">
@@ -1677,6 +1789,190 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160749Z">
         <seg>訳文ファイル {0} を生成中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl +T</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142003Z">
+        <seg>Ctrl +T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141414Z">
+        <seg>Ctrl+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141425Z">
+        <seg>Ctrl+2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141500Z">
+        <seg>Ctrl+3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141510Z">
+        <seg>Ctrl+4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141515Z">
+        <seg>Ctrl+5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+D</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141145Z">
+        <seg>Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+E</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141151Z">
+        <seg>Ctrl+E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+F</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141359Z">
+        <seg>Ctrl+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+I</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141302Z">
+        <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+J</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141708Z">
+        <seg>Ctrl+J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+L</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141159Z">
+        <seg>Ctrl+L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+M</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141327Z">
+        <seg>Ctrl+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141023Z">
+        <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141203Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+R</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141258Z">
+        <seg>Ctrl+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+S</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141142Z">
+        <seg>Ctrl+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141715Z">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141712Z">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+Shift+W</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141036Z">
+        <seg>Ctrl+Shift+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+U</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141617Z">
+        <seg>Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141253Z">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141231Z">
+        <seg>Ctrl+Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -1709,6 +2005,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174938Z">
         <seg>ダイアグラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DTD files (*.DTD)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092450Z">
+        <seg>DTD ファイル（*.DTD）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1825,6 +2129,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141734Z">
+        <seg>原文表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T125549Z">
@@ -1921,6 +2233,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DocBook (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092646Z">
+        <seg>DocBook（*.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DocBook Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174525Z">
@@ -1933,6 +2253,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133541Z">
         <seg>結合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DocuWiki files (*.txt)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092502Z">
+        <seg>DocuWiki ファイル（*.txt）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1957,6 +2285,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174941Z">
         <seg>図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="masa_36">
+        <seg>インストール中、OS によってはいくつかのセキュリティ警告が表示される場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2017,6 +2353,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141225Z">
+        <seg>編集メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit Pattern</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T104237Z">
@@ -2037,6 +2381,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T163515Z">
         <seg>プロジェクト設定の確認と変更を行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142141Z">
+        <seg>翻訳入力行…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2409,6 +2761,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export Selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141346Z">
+        <seg>選択領域を出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export the segment to text files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122718Z">
@@ -2433,6 +2793,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142221Z">
+        <seg>外部TMXファイル...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154052Z">
@@ -2445,6 +2813,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154722Z">
         <seg>字体...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142243Z">
+        <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141031Z">
+        <seg>F5</seg>
       </tuv>
     </tu>
     <tu>
@@ -2517,6 +2901,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180815Z">
         <seg>ファイルフィルター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T055029Z">
+        <seg>ファイルフィルター…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2633,6 +3025,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash XML export (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092939Z">
+        <seg>Flash の XML 出力（*.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170228Z">
@@ -2649,6 +3049,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142129Z">
+        <seg>字体設定…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foote&amp;rs</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174918Z">
@@ -2661,6 +3069,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T123045Z">
         <seg>パスワードを暗号化しないで保存する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141714Z">
+        <seg>次に移動した分節へ進む</seg>
       </tuv>
     </tu>
     <tu>
@@ -2817,6 +3233,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Google Translate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="masa_36">
+        <seg>機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Google Translate v2</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140916Z">
@@ -2829,6 +3253,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121405Z">
         <seg>HHC ファイルのサイズが大きすぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Help Compiler (*.hhc, *.hhk)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092640Z">
+        <seg>HTML Help Compiler（*.hhc, *.hhk）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2877,6 +3309,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173934Z">
         <seg>ヘルプとマニュアルファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help (*.xml) and Manual (*.hmxp) files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092910Z">
+        <seg>Help (*.xml) とマニュアル（*.hmxp）ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142240Z">
+        <seg>ヘルプメニュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2930,10 +3378,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INI (key=value) files (*.ini)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092435Z">
+        <seg>INI ファイル（キー=値 形式）（*.ini）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170201Z">
         <seg>IOException（入出力例外）が発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iceni Infix (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092931Z">
+        <seg>Iceni Infix（*.xml）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2980,6 +3444,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20121231T053255Z">
+        <seg>インストール時の言語と同じ言語を使いたい場合は、下のチェックボックスにチェック印を付ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134245Z">
@@ -3000,6 +3472,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154039Z">
         <seg>MediaWiki から原文ファイルを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import From MediaWiki...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141133Z">
+        <seg>MediaWikiから原文ファイルを追加…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3084,6 +3564,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert Match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141301Z">
+        <seg>参考訳文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert Match Into Translation</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135938Z">
@@ -3092,9 +3580,25 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141334Z">
+        <seg>原文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert Source &amp;Tags</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154311Z">
+        <seg>原文のタグを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Source Tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141340Z">
         <seg>原文のタグを挿入</seg>
       </tuv>
     </tu>
@@ -3112,6 +3616,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135050Z">
         <seg>組み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="masa_36">
+        <seg>OmegaT をインストールする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing and running OmegaT" in the User Manual.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20121209T095943Z">
+        <seg>OmegaT のインストールと実行」を参照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,6 +3733,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Java resource bundles (*.properties)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092407Z">
+        <seg>Java リソースバンドル（*.properties）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Java(TM) Resource Bundles</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173918Z">
@@ -3265,6 +3793,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173426Z">
         <seg>LaTeX ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LaTex (*.tex, *.latex)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092834Z">
+        <seg>LaTex（*.tex, *.latex）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3397,6 +3933,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lower Case</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141519Z">
+        <seg>全てを小文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MRJ Adapter 1.0.8 by Steve Roy (LGPL License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180126Z">
@@ -3408,6 +3952,14 @@ inside the configuration folder.</seg>
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154901Z">
+        <seg>機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine Translate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142050Z">
         <seg>機械翻訳</seg>
       </tuv>
     </tu>
@@ -3485,10 +4037,34 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141737Z">
+        <seg>繰り返しのある分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135255Z">
         <seg>メモ付き分節を色付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141729Z">
+        <seg>翻訳済み分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141732Z">
+        <seg>未翻訳分節を色づけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,6 +4089,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131802Z">
         <seg>翻訳メモリー参考訳文というのは、現在のプロジェクトで翻訳してきた分節やプロジェクトの tm フォルダーに入れてある TMX ファイルが含む分節をいう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Matches pane</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T084231Z">
+        <seg>参考訳文ウィンドウ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3573,6 +4157,30 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modification Info/Display All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141950Z">
+        <seg>修正情報を表示 / 全て表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141755Z">
+        <seg>修正情報を表示 / 表示しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification Info/Display Selected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141812Z">
+        <seg>修正情報を表示 / 現在の分節のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160558Z">
@@ -3621,6 +4229,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141101Z">
+        <seg>新規作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Language and Country</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122326Z">
@@ -3641,6 +4257,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154514Z">
         <seg>次のメモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141619Z">
+        <seg>次の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141616Z">
+        <seg>次の未翻訳分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -3861,6 +4493,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT User Interface Language</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120525T030035Z">
+        <seg>OmegaT のユーザーインターフェイス言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130919Z">
@@ -3992,6 +4632,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141057Z">
+        <seg>開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164132Z">
@@ -4032,6 +4680,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142018Z">
+        <seg>設定メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162058Z">
@@ -4056,6 +4712,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20121231T053418Z">
+        <seg>チェック印を付けない場合は OmegaT のユーザーインターフェイス言語はオペレーティングシステム言語が使われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PO Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173427Z">
@@ -4068,6 +4732,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173502Z">
         <seg>PO フィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PO files (*.po)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092421Z">
+        <seg>PO ファイル（*.po）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4294,6 +4966,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141647Z">
+        <seg>前の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160807Z">
@@ -4322,6 +5002,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160004Z">
         <seg>翻訳対象ファイル一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141158Z">
+        <seg>翻訳対象ファイル一覧…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141123Z">
+        <seg>プロジェクトメニュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,10 +5158,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141150Z">
+        <seg>設定…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130753Z">
         <seg>プロキシ認証の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proxy login...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142227Z">
+        <seg>プロキシ認証...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4482,6 +5194,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173858Z">
         <seg>CopyFlow Gold for QuarkXPress ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092752Z">
+        <seg>QuarkXPress CopyFlowGold（*.tag, *.xtg）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141202Z">
+        <seg>終了</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +5294,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141247Z">
+        <seg>操作繰り返し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>References:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154129Z">
@@ -4594,6 +5330,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121231T140543Z">
         <seg>翻訳から削除すべき文字列の正規表現：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141136Z">
+        <seg>再読み込み</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,9 +5462,33 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace With Match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141257Z">
+        <seg>参考訳文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace With Source</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141329Z">
+        <seg>原文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154254Z">
+        <seg>機械翻訳に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141324Z">
         <seg>機械翻訳に置換</seg>
       </tuv>
     </tu>
@@ -4750,6 +5518,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ResX files (*.resx)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092807Z">
+        <seg>ResX ファイル（*.resx）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133544Z">
@@ -4762,6 +5538,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143047Z">
         <seg>初期値を復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142230Z">
+        <seg>ウインドウ初期設定復元</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,6 +5670,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141039Z">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160758Z">
@@ -4982,6 +5774,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141358Z">
+        <seg>プロジェクトを検索…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search T&amp;Ms</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165625Z">
@@ -5038,6 +5838,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See "Chapter 3.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20121209T095944Z">
+        <seg>「第３章：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See "Chapter 3. Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T125942Z">
@@ -5058,6 +5866,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T172833Z">
         <seg>翻訳対変異の外側に分節が見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141707Z">
+        <seg>分節番号…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5918,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142135Z">
+        <seg>分節化…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162108Z">
@@ -5122,6 +5946,46 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165628Z">
         <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Fuzzy Match 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141412Z">
+        <seg>参考訳文1を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Fuzzy Match 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141424Z">
+        <seg>参考訳文2を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Fuzzy Match 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141448Z">
+        <seg>参考訳文3を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Fuzzy Match 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141509Z">
+        <seg>参考訳文4を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Fuzzy Match 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141514Z">
+        <seg>参考訳文5を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -5166,6 +6030,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select it and confirm with OK.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="masa_36">
+        <seg>最後に［OK］をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152553Z">
@@ -5194,6 +6066,54 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122313Z">
         <seg>分節化規則群：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift+Ctrl+C</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141348Z">
+        <seg>Shift+Ctrl+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift+Ctrl+G</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141352Z">
+        <seg>Shift+Ctrl+G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift+Ctrl+I</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141335Z">
+        <seg>Shift+Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift+Ctrl+R</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141330Z">
+        <seg>Shift+Ctrl+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift+Ctrl+T</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141341Z">
+        <seg>Shift+Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift+F3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141531Z">
+        <seg>Shift+F3</seg>
       </tuv>
     </tu>
     <tu>
@@ -5350,6 +6270,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142138Z">
+        <seg>文章校正…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spellchecker Setup</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134532Z">
@@ -5382,6 +6310,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SubRip title files (*.srt)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092817Z">
+        <seg>SubRip 字幕ファイル（*.srt）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swedish</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121209T101349Z">
@@ -5394,6 +6330,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180220Z">
         <seg>Swing-Layout 1.0.2（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch case to...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141530Z">
+        <seg>大/小文字設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -5442,6 +6386,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130811Z">
         <seg>タグ検証の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag Validation...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142143Z">
+        <seg>タグ検証...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5522,6 +6474,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130111T061827Z">
         <seg>チーム同期中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142145Z">
+        <seg>チーム...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5812,6 +6772,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Title Case</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141525Z">
+        <seg>先頭文字を大文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160511Z">
@@ -5832,6 +6800,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105409Z">
         <seg>HTML ファイルのサイズが大きすぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141959Z">
+        <seg>ツールメヌー</seg>
       </tuv>
     </tu>
     <tu>
@@ -5888,6 +6864,22 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134803Z">
         <seg>用語ヒント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142108Z">
+        <seg>TransTips / TransTips を有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TransTips/Exact Match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142125Z">
+        <seg>TransTips / 完全一致</seg>
       </tuv>
     </tu>
     <tu>
@@ -6060,6 +7052,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typo3 LocManager (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092919Z">
+        <seg>Typo3 LocManager（*.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Typo3 LocManager Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134723Z">
@@ -6136,6 +7136,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135006Z">
         <seg>選択した辞書を削除できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141230Z">
+        <seg>操作取り消し</seg>
       </tuv>
     </tu>
     <tu>
@@ -6302,6 +7310,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upper Case</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141521Z">
+        <seg>全てを大文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154705Z">
@@ -6318,6 +7334,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142043Z">
+        <seg>TAB で進む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use as Default Translation</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T145529Z">
@@ -6326,10 +7350,34 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the installation language in OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120525T030517Z">
+        <seg>OmegaT のユーザーインターフェイス言語としてインストール時の言語を使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142242Z">
+        <seg>取扱説明ガイド…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T142330Z">
         <seg>ユーザーの認証に失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User interface language for OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20121231T053135Z">
+        <seg>OmegaT のユーザーインターフェイス言語の選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -6362,6 +7410,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180127Z">
         <seg>VLSolutions 社による VLDocking Framework 2.1.4（CeCILL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142001Z">
+        <seg>タグ検証</seg>
       </tuv>
     </tu>
     <tu>
@@ -6414,6 +7470,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141727Z">
+        <seg>表示メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T125545Z">
@@ -6426,6 +7490,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T181043Z">
         <seg>ファイルフィルターの設定内容を確認、または編集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142224Z">
+        <seg>表示...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6450,6 +7522,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134412Z">
         <seg>構文解析の結果、行 {0} の列 {1} に警告が存在します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WiX Localization (*.wxl)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120304T092925Z">
+        <seg>WiX Localization（*.wxl）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6705,10 +7785,210 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141534Z">
+        <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141354Z">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141350Z">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editFindInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141400Z">
+        <seg>editFindInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141336Z">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141303Z">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141328Z">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141331Z">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141300Z">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141255Z">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141414Z">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141426Z">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141503Z">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141510Z">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141516Z">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141342Z">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141232Z">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141716Z">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141713Z">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141646Z">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141618Z">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141705Z">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141709Z">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T113158Z">
         <seg>hreflang（リンク先の言語）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142248Z">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142244Z">
+        <seg>helpContentsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -6737,6 +8017,214 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lowerCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141520Z">
+        <seg>lowerCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142047Z">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142222Z">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142130Z">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142230Z">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142136Z">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142134Z">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142139Z">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142044Z">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142144Z">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142149Z">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142110Z">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsTransTipsExactMatchMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142126Z">
+        <seg>optionsTransTipsExactMatchMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142225Z">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142228Z">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142142Z">
+        <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141037Z">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141146Z">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141152Z">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141204Z">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141027Z">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141020Z">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141025Z">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141138Z">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141143Z">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141029Z">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>segment 0000</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155803Z">
@@ -6753,6 +8241,38 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>titleCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141526Z">
+        <seg>titleCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142007Z">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142006Z">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T142004Z">
+        <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>unknown</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155939Z">
@@ -6761,10 +8281,82 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>upperCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141523Z">
+        <seg>upperCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T113345Z">
         <seg>value（button や submit, reset）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141951Z">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141756Z">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141814Z">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141735Z">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141200Z">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141738Z">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141731Z">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20120303T141733Z">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
