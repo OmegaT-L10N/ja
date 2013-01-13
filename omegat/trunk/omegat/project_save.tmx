@@ -972,8 +972,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120304T091609Z">
-        <seg>&lt;p0&gt;プロジェクトメニュー&lt;/p0&gt; &lt;s1&gt;新規作成…&lt;/s1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T073203Z">
+        <seg>&lt;p0&gt;プロジェクトメニュー&lt;/p0&gt; &lt;s1&gt;新規作成...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1006,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153758Z">
         <seg>&lt;p0&gt;ユーザーインターフェイス&lt;/p0&gt; &lt;s1&gt;その他のウィンドウ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt;On an Apple Mac, use the &lt;k1&gt;Cmd&lt;/k1&gt; or &lt;k2&gt;Apple&lt;/k2&gt; key instead of the &lt;k3&gt;Ctrl&lt;/k3&gt; key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T073132Z">
+        <seg>&lt;r0&gt;ご注意：&lt;/r0&gt;Mac ユーザーは、&lt;k3&gt;Ctrl&lt;/k3&gt; キーを &lt;k1&gt;Cmd&lt;/k1&gt; (⌘ マークが付いているキー) または &lt;k2&gt;Apple&lt;/k2&gt; キー (りんごマークが付いているキー) に読み替えてください</seg>
       </tuv>
     </tu>
     <tu>
@@ -3680,6 +3688,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165548Z">
         <seg>原文を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt; &lt;g2&gt;New...&lt;/g2&gt; &lt;/m1&gt;&lt;i3/&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T073930Z">
+        <seg>&lt;g0&gt;プロジェクト&lt;/g0&gt;メニューから&lt;m1&gt;&lt;g2&gt;新規作成...&lt;/g2&gt;&lt;/m1&gt;&lt;i3/&gt;を選び、作成するプロジェクトの名前を入力してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7064,6 +7080,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T035545Z">
         <seg>フィルター対象とするファイルやエンコーディングを変更する場合は［編集...］をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T073310Z">
+        <seg>まずプロジェクトを作成しましょう。プロジェクトには、原文ファイルをはじめ、翻訳メモリや用語集、そしていずれ生成するはずの訳文ファイルなど、すべてのファイルが保持されることになります。</seg>
       </tuv>
     </tu>
     <tu>
