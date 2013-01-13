@@ -954,6 +954,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T021750Z">
+        <seg>&lt;html&gt;プロジェクト固有の外部コマンドPer-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154035Z">
@@ -2593,6 +2601,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T021318Z">
+        <seg>外部コマンドの監視に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140802Z">
@@ -2841,6 +2857,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T021654Z">
+        <seg>後処理用外部コマンド（無効）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T021620Z">
+        <seg>後処理用外部コマンド：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External TM&amp;Xs...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154730Z">
@@ -2877,6 +2909,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T020728Z">
         <seg>外部コマンドが異常終了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External command was interrupted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T021206Z">
+        <seg>外部コマンドの実行が中断しました。</seg>
       </tuv>
     </tu>
     <tu>
