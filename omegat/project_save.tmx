@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2633,6 +2633,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T015359Z">
+        <seg>外部コマンドの起動に失敗しました：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155540Z">
@@ -2793,6 +2801,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T015219Z">
+        <seg>外部コマンドを実行しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Selection</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141346Z">
@@ -2829,6 +2845,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142221Z">
         <seg>外部TMXファイル...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External command completed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T015527Z">
+        <seg>外部コマンドを実行しました。</seg>
       </tuv>
     </tu>
     <tu>
