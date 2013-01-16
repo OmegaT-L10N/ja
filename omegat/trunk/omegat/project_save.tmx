@@ -858,6 +858,9 @@ To add files to the project, click on the Import Source Files... button in the P
       <tuv lang="EN-US">
         <seg>.</seg>
       </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T214136Z">
+        <seg></seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -3295,6 +3298,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T213446Z">
+        <seg>もっと総合的な手引きをお探しの場合は、OmegaT のウェブサイトにある &lt;u0&gt;OmegaT for beginners&lt;/u0&gt;（英語）を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Force saving password as plain text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T123045Z">
@@ -3722,6 +3733,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T214130Z">
+        <seg>OmegaT に関するどんなことでも、もしお困りの場合は、&lt;u1&gt;OmegaT ユーザーグループ&lt;/u1&gt;にお気軽に参加ください（日本語可）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T211508Z">
@@ -3972,8 +3991,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN-US">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the "Text Search" dialog at any time.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212442Z">
-        <seg>原文や訳文から語句を検索するには、&lt;k0&gt;Ctrl+F&lt;/k0&gt; キーを押して</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212812Z">
+        <seg>原文や訳文から語句を検索したいときは、&lt;k0&gt;Ctrl+F&lt;/k0&gt; キーを押せば、いつでもプロジェクトの検索ダイアログを表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8579,6 +8598,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T113155Z">
         <seg>href（リンク先の URL）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212932Z">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212927Z">
+        <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
