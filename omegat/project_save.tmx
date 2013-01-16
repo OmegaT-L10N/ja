@@ -3073,6 +3073,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T204627Z">
+        <seg>覚えておきたい使い方のヒント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File &amp;Filters...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154228Z">
@@ -3317,6 +3325,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131436Z">
         <seg>参考訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T203946Z">
+        <seg>訳文ファイルを生成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -3582,6 +3598,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135948Z">
         <seg>{0} を隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated file might fail to open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T202949Z">
+        <seg>ただし、もしタグを誤って編集すると、訳文ファイルを開くときに問題が起きるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4940,6 +4964,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T142521Z">
         <seg>OmegaT バージョン {0} アップデート {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target file, which will be created in the&lt;f1&gt; /target/&lt;/f1&gt;subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T204258Z">
+        <seg>翻訳にタグのエラーが無いことを確認したら、&lt;k0&gt;Ctrl+D&lt;/k0&gt; キーを押して訳文ファイルを生成しましょう。訳文ファイルは、プロジェクトの &lt;f1&gt;target&lt;/f1&gt; フォルダー内に作成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7103,6 +7135,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122301Z">
         <seg>これにより、カナダフランス語の原文を翻訳する際、対象とすべきすべての分節化規則を適切な順序で使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+T&lt;/k0&gt; before you generate your translated file, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T203859Z">
+        <seg>そんなときは、訳文ファイルを生成する前に &lt;k0&gt;Ctrl+T&lt;/k0&gt; キーを押して、タグが正しいか検証することができます。</seg>
       </tuv>
     </tu>
     <tu>
