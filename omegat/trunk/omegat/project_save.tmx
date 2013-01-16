@@ -2385,6 +2385,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During translation, use the &lt;g2&gt;Edit&lt;/g2&gt; and &lt;g3&gt;Go To&lt;/g3&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T102441Z">
+        <seg>翻訳作業のあいだ、［&lt;g2&gt;編集&lt;/g2&gt;］メニューおよび［&lt;g3&gt;移動&lt;/g3&gt;］メニューから、さまざまな役に立つ機能を利用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121525Z">
@@ -3672,6 +3680,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20121231T053255Z">
         <seg>インストール時の言語と同じ言語を使いたい場合は、下のチェックボックスにチェック印を付ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your source file is a formatted file, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T103430Z">
+        <seg>もし原文ファイルが、Microsoft Word や LibreOffice Writer、HTML などの見映えの情報を持つファイル形式だった場合、OmegaT はその情報をタグに変換し、対象テキストをタグで括った形式で表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7806,6 +7822,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T102638Z">
+        <seg>タグを検証する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Validating Tags...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155513Z">
@@ -7906,6 +7930,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134412Z">
         <seg>構文解析の結果、行 {0} の列 {1} に警告が存在します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k1&gt;Ctrl+D&lt;/k1&gt; to generate the translated document, which will be created in the /target/ subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T102004Z">
+        <seg>翻訳の成果を確認したくなったら、&lt;k1&gt;Ctrl+D&lt;/k1&gt; キーを押して、いつでも訳文ファイルを生成できます。訳文ファイルは、プロジェクトの target フォルダー内に作成されます。</seg>
       </tuv>
     </tu>
     <tu>
