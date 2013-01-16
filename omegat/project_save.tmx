@@ -1130,10 +1130,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the source file has loaded in the Editor pane, you can close the Project files dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T100627Z">
+        <seg>原文ファイルが編集ウィンドウに読み込まれたら、翻訳対象ファイル一覧ダイアログを閉じましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you give your project a name, the Create New Project dialog will open.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T085820Z">
         <seg>プロジェクト名を入力して保存したら、プロジェクトの新規作成ダイアログが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U &lt;/k0&gt;to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T101246Z">
+        <seg>ひとつの分節を翻訳し終えたら、&lt;k0&gt;Ctrl+U&lt;/k0&gt; キーを押して、次の未翻訳文節へと移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1256,8 +1272,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN-US">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g0&gt;OK &lt;/g0&gt;to continue.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T090401Z">
-        <seg>ダイアログの先頭で、原文ファイルの言語と訳文ファイルの言語を選び、&lt;g0&gt;確定&lt;/g0&gt; ボタンをクリックします。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T095802Z">
+        <seg>ダイアログの先頭で、原文ファイルの言語と訳文ファイルの言語を選び、［&lt;g0&gt;確定&lt;/g0&gt;］ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,6 +1610,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133957Z">
         <seg>メニュー項目 {0} をクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the Import source files... to select your source file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T095945Z">
+        <seg>［原文ファイルを追加...］ボタンをクリックし、原文ファイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3630,8 +3654,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN-US">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T090705Z">
-        <seg>他の設定に興味があれば、&lt;k0&gt;Ctrl+E&lt;/k0&gt; を押して、いつでもこのダイアログに戻ることができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T101331Z">
+        <seg>他の設定に興味があれば、&lt;k0&gt;Ctrl+E&lt;/k0&gt; キーを押して、いつでもこのダイアログに戻ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4844,6 +4868,22 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T152003Z">
         <seg>OmegaT を終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T101052Z">
+        <seg>OmegaT は翻訳のために、原文を「分節」という単位に分割して表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT will then copy the selected file to the &lt;f0&gt;/source/&lt;/f0&gt;subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T100349Z">
+        <seg>OmegaT は選択されたファイルを、新しく作成されたプロジェクトの &lt;f0&gt;source&lt;/f0&gt; フォルダーへコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7216,6 +7256,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142125Z">
         <seg>TransTips / 完全一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T100646Z">
+        <seg>ファイルを翻訳する</seg>
       </tuv>
     </tu>
     <tu>
