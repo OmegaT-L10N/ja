@@ -1270,6 +1270,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of your translation, OmegaT exports three translation memories called "level1", "level2" and "omegat" to your project folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210436Z">
+        <seg>翻訳作業の最後に、OmegaT は「level1」、「level2」、「omegat」と呼ばれる三つの翻訳メモリをプロジェクトフォルダー内に出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g0&gt;OK &lt;/g0&gt;to continue.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T095802Z">
@@ -3662,6 +3670,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121415Z">
         <seg>HHC または HHK ファイル中にエンコーディング宣言が存在する場合、以下の設定は反映されず、その宣言が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a file does not loads into the Editor pane, then it could be that your source file is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T204828Z">
+        <seg>ファイルが編集ウィンドウに読み込まれない場合は、OmegaT が原文ファイルのファイル形式に対応していないのかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6238,6 +6254,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 7: File Filters in the User Manual for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T205235Z">
+        <seg>取扱説明書「第７章：ファイルフィルター」の、OmegaT が対応しているファイル形式の一覧を確認してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T141041Z">
@@ -6967,6 +6991,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "level1" and "level2" memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210615Z">
+        <seg>「level1」と「level2」は、他の翻訳支援ツールと翻訳メモリを共有するために使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &amp;source text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122459Z">
@@ -7248,6 +7280,22 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T035545Z">
         <seg>フィルター対象とするファイルやエンコーディングを変更する場合は［編集...］をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remind yourself of the project's initial settings, open the Project Settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210058Z">
+        <seg>プロジェクトの初期設定を確認したければ、&lt;k0&gt;Ctrl+E&lt;/k0&gt; キーを押してプロジェクト設定ダイアログを開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see a list of files in the project, open the Project Files dialog by pressing &lt;k1&gt;Ctrl+L&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210051Z">
+        <seg>プロジェクトに含まれる原文ファイルの一覧を確認したければ、&lt;k1&gt;Ctrl+L&lt;/k1&gt; キーを押して翻訳対象ファイル一覧ダイアログを開いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8162,6 +8210,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135002Z">
         <seg>現在プロジェクトが使用している辞書を削除しようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create a new project for each new job, and you can add several source files to a project at a time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T205726Z">
+        <seg>タスクに応じて、それぞれ個別に新規プロジェクトを作成しても構いませんし、一度に複数の原文ファイルを追加することもできます。</seg>
       </tuv>
     </tu>
     <tu>
