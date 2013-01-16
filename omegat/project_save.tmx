@@ -854,6 +854,12 @@ To add files to the project, click on the Import Source Files... button in the P
       </tuv>
     </tu>
     <tu>
+      <note>おそらく原文の typo と思われる。とりあえず、翻訳しない。</note>
+      <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
@@ -3716,6 +3722,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T211508Z">
+        <seg>翻訳メモリファイルをプロジェクトの &lt;filename&gt;tm&lt;/filename&gt; フォルダー内に配置しておくと、OmegaT はそこから「参考訳文」と呼ばれる類似分節を自動的に検索するようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20121231T053255Z">
@@ -3952,6 +3966,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173850Z">
         <seg>不正なファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the "Text Search" dialog at any time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212442Z">
+        <seg>原文や訳文から語句を検索するには、&lt;k0&gt;Ctrl+F&lt;/k0&gt; キーを押して</seg>
       </tuv>
     </tu>
     <tu>
@@ -7091,6 +7113,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The memory named "omegat" can be used in OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210833Z">
+        <seg>「omegat」は OmegaT 専用の翻訳メモリで、将来作成する別のプロジェクトで利用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155141Z">
@@ -8210,6 +8240,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135002Z">
         <seg>現在プロジェクトが使用している辞書を削除しようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create a glossary by pressing &lt;g0&gt;Ctrl+Shift+G&lt;/g0&gt;, or copy existing glossaries to the&lt;f1&gt;/glossary/&lt;/f1&gt;subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212127Z">
+        <seg>&lt;g0&gt;Ctrl+Shift+G&lt;/g0&gt; キーを押すと、用語を追加することができます。あるいは既存の用語集ファイルをプロジェクトの  &lt;f1&gt;glossary&lt;/f1&gt; フォルダーにコピーしておくと、OmegaT はそこから用語を自動的に検索するようになります。</seg>
       </tuv>
     </tu>
     <tu>
