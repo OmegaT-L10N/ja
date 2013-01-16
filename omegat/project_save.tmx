@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1130,6 +1130,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you give your project a name, the Create New Project dialog will open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T085820Z">
+        <seg>プロジェクト名を入力して保存したら、プロジェクトの新規作成ダイアログが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155040Z">
@@ -1242,6 +1250,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133642Z">
         <seg>この場合、すべての設定が初期値となり、予期しない挙動が発生する可能性もありますが、動作としては正常です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g0&gt;OK &lt;/g0&gt;to continue.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T090401Z">
+        <seg>ダイアログの先頭で、原文ファイルの言語と訳文ファイルの言語を選び、&lt;g0&gt;確定&lt;/g0&gt; ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3612,6 +3628,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T090705Z">
+        <seg>他の設定に興味があれば、&lt;k0&gt;Ctrl+E&lt;/k0&gt; を押して、いつでもこのダイアログに戻ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130759Z">
@@ -4489,6 +4513,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141616Z">
         <seg>次の未翻訳分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next, the Project Files dialog opens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T090917Z">
+        <seg>続いて、翻訳対象ファイル一覧ダイアログが開きます。</seg>
       </tuv>
     </tu>
     <tu>
