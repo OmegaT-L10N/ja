@@ -28,13 +28,17 @@ exact search	完全一致検索
 exception rule	例外規則
 external TMX file	外部TMXファイル
 field	領域	×フィールド
+file format	ファイル形式
 filename pattern	ファイル名構成例
 File with formatting	見映えの情報を持つファイル	×書式情報、見栄え
+filter	フィルター	× フィルタ
+folder	フォルダー	× フォルダ
 font	字体	「フォント」ではなく「字体」で統一
 fuzzy match	参考訳文
 glossary	用語集
 GNU GENERAL PUBLIC LICENSE	GNU一般公的使用許諾
 help browser	取扱説明書	×取扱説明ガイド
+interface	インターフェース	×インターフェイス
 justification	行端寄せ
 keyword search	キーワード検索
 language code	言語コード
@@ -88,6 +92,7 @@ target field	入力行
 target language	訳文言語
 text	テキスト
 textual information	文書情報	翻訳メモリ書式についての説明で登場。要検討
+translated document	訳文ファイル	この単語の組み合わせの場合は、document を「文書」とは訳さない。
 translated file	訳文ファイル
 translated segment	翻訳済みの分節
 translated text	訳文
@@ -109,5 +114,3 @@ wild card	ワイルドカード
 wildcard	ワイルドカード
 window	ウィンドウ
 Warning	警告
-translated document	訳文ファイル	この単語の組み合わせの場合は、document を「文書」とは訳さない。
-folder	フォルダー	× フォルダ
