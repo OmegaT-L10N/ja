@@ -947,6 +947,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T082307Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は、自由に使用できる、マルチプラットフォームのコンピューター翻訳支援ツール です。主に以下のような特徴があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; provides a powerful range of search functions.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T084532Z">
@@ -959,6 +967,71 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T152056Z">
         <seg>&lt;自動&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T183247Z">
+        <seg>&lt;e0&gt;翻訳入力行：&lt;/e0&gt;未翻訳の分節に関する翻訳入力行の設定をどのように行うか説明した、短い章です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T171852Z">
+        <seg>&lt;e0&gt;OmegaT のインストールと実行：&lt;/e0&gt;この章は、OmegaT を最初に使いはじめるときに役立つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>「OmegaT 日本語版翻訳におけるスタイルガイド」（https://code.google.com/p/omegat-jp/wiki/Localization_Style_Guide#%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%83%BC%EF%BC%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%EF%BC%89%E3%81%AE%E8%A8%98%E8%BF%B0%EF%BC%9A%E3%81%9D%E3%81%AE1）参照</note>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Directories:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T175508Z">
+        <seg>&lt;e0&gt;プロジェクトの設定&lt;/e0&gt;、&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; のファイルとフォルダー：&lt;/e1&gt;OmegaT にとってプロジェクトとは、コンピューター翻訳支援ツールとして OmegaT が取り扱う作業単位を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T092829Z">
+        <seg>&lt;e0&gt;用語管理：&lt;/e0&gt;翻訳の一貫性を保つため、用語管理は重要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T180430Z">
+        <seg>&lt;e0&gt;ユーザーインターフェース&lt;/e0&gt;、&lt;e1&gt;メインメニューとキーボードショートカット：&lt;/e1&gt;この二つの章は、OmegaT のユーザーインターフェースおよび、メインメニューとキーボードショートカットから利用できる機能について、説明しています。おそらく頻繁に参照されるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T083627Z">
+        <seg>&lt;e0&gt;翻訳メモリ：&lt;/e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; は、単語や分節をどのように翻訳したかを翻訳メモリに記憶していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T163623Z">
+        <seg>&lt;e0&gt;翻訳作業の流れ：&lt;/e0&gt;翻訳対象がファイル 1 つのこともあれば、いろいろな形式のファイルを含んだたくさんのフォルダー、という場合もあると思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt; Instant start guide:&lt;/e0&gt; this chapter is intended as an Instant Start Guide for beginners and “tyre kickers”, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T165438Z">
+        <seg>&lt;e0&gt;5 分でわかる！ OmegaT の使い方：&lt;/e0&gt;初心者と「とりあえずインストールしてみた」人を対象にした、お手軽なスタートガイドです。新しいプロジェクトの作成から翻訳完了まで、一通りの流れを見ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1063,6 +1136,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154831Z">
         <seg>中止しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T082000Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; について - はじめに</seg>
       </tuv>
     </tu>
     <tu>
@@ -1291,6 +1372,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210436Z">
         <seg>翻訳作業の最後に、OmegaT は「level1」、「level2」、「omegat」と呼ばれる三つの翻訳メモリをプロジェクトフォルダー内に出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the same time, it can use memories files from previous translations for reference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T083015Z">
+        <seg>同時に、それまでに記憶した翻訳内容をメモリから参照することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2801,19 +2890,21 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <note>OmegaT 日本語版翻訳におけるスタイルガイド(https://code.google.com/p/omegat-jp/wiki/Localization_Style_Guide#%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_vs_%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0)参照</note>
       <tuv lang="EN-US">
         <seg>Event: application shutdown</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134019Z">
-        <seg>イベント：アプリケーションの終了</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T144555Z">
+        <seg>イベント：プログラムの終了</seg>
       </tuv>
     </tu>
     <tu>
+      <note>OmegaT 日本語版翻訳におけるスタイルガイド(https://code.google.com/p/omegat-jp/wiki/Localization_Style_Guide#%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_vs_%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0)参照</note>
       <tuv lang="EN-US">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134018Z">
-        <seg>イベント：アプリケーションの起動</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T144451Z">
+        <seg>イベント：プログラムの起動</seg>
       </tuv>
     </tu>
     <tu>
@@ -3314,6 +3405,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T172352Z">
+        <seg>また上級者向けの話題として、コマンドラインモードとその可能性についても説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For your reference, OmegaT displays the translation of any words that happen to be present in the segment that currently has focus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T093438Z">
+        <seg>現在翻訳している文章中にそれらの単語が現れた場合、用語集ウィンドウにその対訳を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Force saving password as plain text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T123045Z">
@@ -3610,6 +3717,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here is a short summary of the chapters and their contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T141325Z">
+        <seg>ここで簡単に、各章の概要をご紹介しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165044Z">
@@ -3729,6 +3844,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T101331Z">
         <seg>他の設定に興味があれば、&lt;k0&gt;Ctrl+E&lt;/k0&gt; キーを押して、いつでもこのダイアログに戻ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T091639Z">
+        <seg>たとえば、翻訳会社や顧客から以前の翻訳メモリを受け取った場合、OmegaT はそれを参照用として使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3957,14 +4080,6 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Installing and running OmegaT" in the User Manual.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20121209T095943Z">
-        <seg>OmegaT のインストールと実行」を参照。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Installing failed</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135014Z">
@@ -3993,6 +4108,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173850Z">
         <seg>不正なファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T172316Z">
+        <seg>OmegaT のインストールと Windows、Mac OS X、Linux 各 OS 上での実行について、詳しい手順がここにあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4550,6 +4673,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modifications to the original document are thus handled with greater ease.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T091101Z">
+        <seg>従って、元の文書の翻訳修正という点でも、とても簡単に扱えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160558Z">
@@ -4910,6 +5041,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT highlights</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T082053Z">
+        <seg>OmegaT の特徴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175151Z">
@@ -4953,10 +5092,42 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments in previous memory files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T111009Z">
+        <seg>翻訳中は、その翻訳内容を記憶し、以前の翻訳メモリからよく似た分節を探し出して提示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T093043Z">
+        <seg>OmegaT には用語集（glossary）の機能があり、（たとえば特定分野向けの）2 言語間の対訳集として、1 単語または短いフレーズの対訳を翻訳中に参照することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT uses the following libraries:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175940Z">
         <seg>OmegaT は以下に示すライブラリを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T092648Z">
+        <seg>OmegaT が使用する翻訳メモリファイルは標準的な TMX フォーマットです。このファイル形式をサポートする他の翻訳ツールであれば、翻訳資産を相互使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T084058Z">
+        <seg>OmegaT は翻訳メモリを使用して、以前行った翻訳内容を記憶し、翻訳しようとしている文章にもっとも適した翻訳の提案を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6287,14 +6458,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>See "Chapter 3.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20121209T095944Z">
-        <seg>「第３章：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>See "Chapter 3. Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T125942Z">
@@ -6807,6 +6970,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Summary of chapters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T140336Z">
+        <seg>各章の概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swedish</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121209T101349Z">
@@ -7172,6 +7343,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T180541Z">
+        <seg>もうひとつの章では、翻訳プロジェクトが含むさまざまなフォルダーやファイルとその役割について取り上げています。また OmegaT に関連付けられたユーザー設定ファイルとプログラムファイルについても、説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133752Z">
@@ -7253,6 +7432,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T084218Z">
+        <seg>翻訳メモリは、以前翻訳した文書を更新するときに非常に便利です。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These units have been skipped.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T172942Z">
@@ -7281,6 +7468,22 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134112Z">
         <seg>このコールは Swing スレッドで行われる必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter describes the project properties, such as the source and target languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T175548Z">
+        <seg>最初の章では、たとえば原文と訳文の言語設定のような、プロジェクトの設定について説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T141201Z">
+        <seg>この説明書は、チュートリアルとリファレンス両方の役割を兼ねることを意図しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7581,6 +7784,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Translation memories can be very useful in a translation where there are numerous repetitions or reasonably similar segments of text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T083556Z">
+        <seg>翻訳メモリは、同じ分節の繰り返しや、似通った表現が多く現れる翻訳に非常に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165532Z">
@@ -7713,6 +7924,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135006Z">
         <seg>選択した辞書を削除できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T090813Z">
+        <seg>変更されていない文章は、自動的に翻訳されます。更新された文章は未翻訳として扱われますが、翻訳済みの文章の中から翻訳候補が表示されるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8115,6 +8334,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130121T062310Z">
         <seg>警告：不用意にタグ順序を入れ替えると訳文ファイルを開けなくなるおそれがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T135936Z">
+        <seg>翻訳し終えたら、訳文ファイルを生成して、適切なプログラムで開き、翻訳結果を完成形で見る…という具合です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T094902Z">
+        <seg>OmegaT は、指定された翻訳対象ファイル群をファイルフィルター機能によって検出し、各ファイルのテキスト部分を認識します。さらに、分節化機能によってそのテキスト部分を複数のまとまりに分割し、翻訳作業を行いやすいように順に表示します。</seg>
       </tuv>
     </tu>
     <tu>
