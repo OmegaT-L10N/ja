@@ -1132,6 +1132,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T172224Z">
+        <seg>分節化規則集には最初から多くの規則が定義されていますが、この章で説明される通り、ユーザーが独自に規則を追加することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143044Z">
@@ -1365,11 +1373,12 @@ The TMX file will not be loaded.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>https://code.google.com/p/omegat-jp/issues/detail?id=1&amp;can=1 により、「規則群」を「規則集」に変更。</note>
       <tuv lang="EN-US">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122323Z">
-        <seg>分節化規則群 {0} を削除してよいですか？ </seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T172526Z">
+        <seg>分節化規則集「{0}」を削除してよいですか？ </seg>
       </tuv>
     </tu>
     <tu>
@@ -6754,11 +6763,12 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>https://code.google.com/p/omegat-jp/issues/detail?id=1&amp;can=1 により、「規則群」を「規則集」に変更。</note>
       <tuv lang="EN-US">
         <seg>Sets of segmentation rules:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122313Z">
-        <seg>分節化規則群：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T172401Z">
+        <seg>分節化規則集：</seg>
       </tuv>
     </tu>
     <tu>
