@@ -939,6 +939,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T175646Z">
+        <seg>その一方で、複雑な条件にも対応しています。たとえば、2 個以上の連続するスペース文字を含む分節を検索したい、としましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151609Z">
@@ -4021,6 +4029,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T073930Z">
         <seg>&lt;g0&gt;プロジェクト&lt;/g0&gt;メニューから&lt;m1&gt;&lt;g2&gt;新規作成...&lt;/g2&gt;&lt;/m1&gt;&lt;i3/&gt;を選び、作成するプロジェクトの名前を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>「^s^s+」は原文バグ？ さらに、ふつうは「\s{2,}」の方を使うのでは…。</note>
+      <tuv lang="EN-US">
+        <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T180149Z">
+        <seg>この場合、「\s\s+」という正規表現を使うことによって、問題の分節を検索することができます。</seg>
       </tuv>
     </tu>
     <tu>
