@@ -5395,11 +5395,12 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
     </tu>
     <tu>
+      <note>"creative" の意味がいまひとつ不明。</note>
       <tuv lang="EN-US">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T164151Z">
-        <seg>段落単位の分節化はあまり使われませんが、いわゆる「」なテキストの場合に役に立ちます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T170330Z">
+        <seg>段落単位の分節化はあまり使いませんが、いわゆる「独創的」なテキストの場合は役に立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7404,6 +7405,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121205T103108Z">
         <seg>プロジェクトフォルダー「{0}」を作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T170655Z">
+        <seg>規則に基づく分節化は、たいていの場合、文単位の分節化を意味しています。</seg>
       </tuv>
     </tu>
     <tu>
