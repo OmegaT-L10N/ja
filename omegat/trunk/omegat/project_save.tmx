@@ -979,6 +979,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; and &lt;e2&gt;Spellchecker:&lt;/e2&gt; OmegaT allows one an extensive use of dictionaries and glossaries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T181944Z">
+        <seg>&lt;e0&gt;用語集&lt;/e0&gt;、&lt;e0&gt;辞書&lt;/e0&gt;、&lt;e1&gt;機械翻訳&lt;/e1&gt;および&lt;e2&gt;綴り確認：&lt;/e2&gt;OmegaT では辞書と用語集を幅広く活用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031021Z">
@@ -4036,8 +4044,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN-US">
         <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T180149Z">
-        <seg>この場合、「\s\s+」という正規表現を使うことによって、問題の分節を検索することができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T181136Z">
+        <seg>この場合、「\s\s+」という正規表現パターンを使うことによって、問題の分節を検索することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6025,6 +6033,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121231T140543Z">
         <seg>翻訳から削除すべき文字列の正規表現：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T181311Z">
+        <seg>正規表現は、分節化規則でも頻繁に使われています。</seg>
       </tuv>
     </tu>
     <tu>
