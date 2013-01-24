@@ -973,8 +973,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T183247Z">
-        <seg>&lt;e0&gt;翻訳入力行：&lt;/e0&gt;未翻訳の分節に関する翻訳入力行の設定をどのように行うか説明した、短い章です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031021Z">
+        <seg>&lt;e0&gt;翻訳入力行の動作：&lt;/e0&gt;未翻訳の分節に関する翻訳入力行の動作設定をどのように行うか説明した、短い章です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,8 +1458,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN-US">
         <seg>Back in history...</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141711Z">
-        <seg>前に移動した分節へ戻る</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T150131Z">
+        <seg>分節の選択履歴を戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -1965,8 +1965,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Create translated documents</seg>
       </tuv>
-      <tuv lang="JA" changeid="masa_36">
-        <seg>訳文ファイルの生成</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031407Z">
+        <seg>訳文ファイルを生成</seg>
       </tuv>
     </tu>
     <tu>
@@ -2333,8 +2333,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141734Z">
-        <seg>原文表示</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T150222Z">
+        <seg>原文を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -3431,8 +3431,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Forward in history...</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141714Z">
-        <seg>次に移動した分節へ進む</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T150146Z">
+        <seg>分節の選択履歴を進む</seg>
       </tuv>
     </tu>
     <tu>
@@ -3593,6 +3593,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135534Z">
         <seg>分節へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032837Z">
+        <seg>移動メニュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -3922,8 +3930,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN-US">
         <seg>Import From MediaWiki...</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141133Z">
-        <seg>MediaWikiから原文ファイルを追加…</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031327Z">
+        <seg>MediaWiki から原文ファイルを追加...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,8 +4411,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>Lower Case</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141519Z">
-        <seg>全てを小文字</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032717Z">
+        <seg>すべて小文字に</seg>
       </tuv>
     </tu>
     <tu>
@@ -5612,8 +5620,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Project Files...</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141158Z">
-        <seg>翻訳対象ファイル一覧…</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031428Z">
+        <seg>翻訳対象ファイル一覧...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5772,8 +5780,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Properties...</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141150Z">
-        <seg>設定…</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031420Z">
+        <seg>プロジェクト設定...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5908,8 +5916,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Redo Last Action</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141247Z">
-        <seg>操作繰り返し</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031647Z">
+        <seg>やり直す</seg>
       </tuv>
     </tu>
     <tu>
@@ -6396,8 +6404,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Search Project...</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141358Z">
-        <seg>プロジェクトを検索…</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032434Z">
+        <seg>プロジェクトを検索...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6460,8 +6468,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>See "Chapter 3. Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T125942Z">
-        <seg>OmegaT バージョン 2.3 以降の取扱説明書、「第３章：OmegaT のインストールと実行」を参照。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T014055Z">
+        <seg>取扱説明書の「第３章：OmegaT のインストールと実行」を参照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6492,8 +6500,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Segment number...</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141707Z">
-        <seg>分節番号…</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032903Z">
+        <seg>分節番号を指定...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6580,40 +6588,40 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Select Fuzzy Match 1</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141412Z">
-        <seg>参考訳文1を選択</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032534Z">
+        <seg>参考訳文 1 を選択</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Select Fuzzy Match 2</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141424Z">
-        <seg>参考訳文2を選択</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032536Z">
+        <seg>参考訳文 2 を選択</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Select Fuzzy Match 3</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141448Z">
-        <seg>参考訳文3を選択</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032539Z">
+        <seg>参考訳文 3 を選択</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Select Fuzzy Match 4</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141509Z">
-        <seg>参考訳文4を選択</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032544Z">
+        <seg>参考訳文 4 を選択</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Select Fuzzy Match 5</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141514Z">
-        <seg>参考訳文5を選択</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032702Z">
+        <seg>参考訳文 5 を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -6758,6 +6766,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141531Z">
         <seg>Shift+F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T150034Z">
+        <seg>Back in history</seg>
       </tuv>
     </tu>
     <tu>
@@ -7310,6 +7326,15 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
     </tu>
     <tu>
+      <note>現在の Instant start guide には、特に参考になりそうな記述はない。原文バグ？</note>
+      <tuv lang="EN-US">
+        <seg>The locations of the various different translation memories for a given project are user-defined (see Project dialog window in &lt;l0&gt;Instant start guide)&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T022436Z">
+        <seg>あるプロジェクトのために多種多様な翻訳メモリをどこに配置するかは、ユーザーに任されています（「&lt;l0&gt;5 分でわかる！ OmegaT の使い方&lt;/l0&gt;」のプロジェクト設定ダイアログを参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The memory named "omegat" can be used in OmegaT itself, in future projects that you create.</seg>
       </tuv>
@@ -7522,8 +7547,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN-US">
         <seg>Title Case</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141525Z">
-        <seg>先頭文字を大文字</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032833Z">
+        <seg>Title case（単語の先頭を大文字）に</seg>
       </tuv>
     </tu>
     <tu>
@@ -7532,6 +7557,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160511Z">
         <seg>アクセスするには URL をコピーして Web ブラウザへ貼り付けるか、取扱説明書（{0} ファイル）を Web ブラウザで開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T015650Z">
+        <seg>これらの言語版の「5 分でわかる！ OmegaT の使い方」を表示するには、言語と国の両方を指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7938,8 +7971,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN-US">
         <seg>Undo Last Action</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141230Z">
-        <seg>操作取り消し</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031604Z">
+        <seg>取り消す</seg>
       </tuv>
     </tu>
     <tu>
@@ -8108,8 +8141,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN-US">
         <seg>Upper Case</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120303T141521Z">
-        <seg>全てを大文字</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032726Z">
+        <seg>すべて大文字に</seg>
       </tuv>
     </tu>
     <tu>
