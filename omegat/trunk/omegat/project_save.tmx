@@ -979,6 +979,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T183801Z">
+        <seg>&lt;e0&gt;付録&lt;/e0&gt;は以下の情報を含みます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; and &lt;e2&gt;Spellchecker:&lt;/e2&gt; OmegaT allows one an extensive use of dictionaries and glossaries.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T181944Z">
@@ -999,6 +1007,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T171852Z">
         <seg>&lt;e0&gt;OmegaT のインストールと実行：&lt;/e0&gt;この章は、OmegaT を最初に使いはじめるときに役立つでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T183616Z">
+        <seg>&lt;e0&gt;雑多な話題：&lt;/e0&gt;「データを失わないために」など、その他の興味深い話題を扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T184047Z">
+        <seg>&lt;e0&gt;ウェブ上の OmegaT 情報：&lt;/e0&gt;OmegaT のオンライン リソースに関する情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -3887,12 +3911,28 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an Internet connection is available, various MT services such as Google Translate can be utilized from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T182440Z">
+        <seg>インターネットに接続していれば、Google Translate のような機械翻訳サービスを OmegaT の中から利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133840Z">
         <seg>指定した場所は、そこへアクセスできるようになった後に使用されます。その際、設定はすべて初期値があらためて使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T182706Z">
+        <seg>綴り確認機能を使うと、誤字脱字を検知し、翻訳中に修正することができます。</seg>
       </tuv>
     </tu>
     <tu>
