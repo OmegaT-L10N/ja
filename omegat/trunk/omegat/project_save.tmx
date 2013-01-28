@@ -3176,6 +3176,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130128T150837Z">
+        <seg>訳文ファイル生成後処理用外部コマンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130121T064039Z">
@@ -7723,6 +7731,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T175548Z">
         <seg>最初の章では、たとえば原文と訳文の言語設定のような、プロジェクトの設定について説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130128T150944Z">
+        <seg>このコマンドは、訳文ファイルを生成した後に実行されます。</seg>
       </tuv>
     </tu>
     <tu>
