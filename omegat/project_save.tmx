@@ -1180,6 +1180,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T202723Z">
+        <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;プロジェクト設定&lt;/s1&gt; &lt;s2&gt;言語設定&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T092025Z">
@@ -1248,6 +1256,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180431Z">
         <seg>ANTLR 3.4（ANTLR 3 ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abkhaz</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203451Z">
+        <seg>アブハズ語（Abkhaz）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1348,6 +1364,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Afar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203505Z">
+        <seg>アファル語（Afar）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Afrikaans</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203434Z">
+        <seg>アフリカーンス語（Afrikaans）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the source file has loaded in the Editor pane, you can close the Project files dialog.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T100627Z">
@@ -1368,6 +1400,23 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T101246Z">
         <seg>ひとつの分節を翻訳し終えたら、&lt;k0&gt;Ctrl+U&lt;/k0&gt; キーを押して、次の未翻訳文節へと移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Akan</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203543Z">
+        <seg>アカン語（Akan）
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Albanian</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203552Z">
+        <seg>アルバニア語（Albanian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,6 +1457,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142046Z">
         <seg>終了時に常に確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amharic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203603Z">
+        <seg>アムハラ語（Amharic）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1469,12 +1526,36 @@ The TMX file will not be loaded.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203609Z">
+        <seg>アラビア語（Arabic）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aragonese</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203642Z">
+        <seg>アラゴン語（Aragonese）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://code.google.com/p/omegat-jp/issues/detail?id=1&amp;can=1 により、「規則群」を「規則集」に変更。</note>
       <tuv lang="EN-US">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T172526Z">
         <seg>分節化規則集「{0}」を削除してよいですか？ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armenian</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203728Z">
+        <seg>アルメニア語（Armenian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1493,6 +1574,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133642Z">
         <seg>この場合、すべての設定が初期値となり、予期しない挙動が発生する可能性もありますが、動作としては正常です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assamese</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203806Z">
+        <seg>アッサム語（Assamese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1577,6 +1666,38 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avaric</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203833Z">
+        <seg>アヴァール語（Avaric）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avestan</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203900Z">
+        <seg>アヴェスター語（Avestan）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aymara</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203912Z">
+        <seg>アイマラ語（Aymara）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Azerbaijani</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203926Z">
+        <seg>アゼルバイジャン語（Azerbaijani）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164705Z">
@@ -1617,6 +1738,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bambara</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203951Z">
+        <seg>バンバラ語（Bambara）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160522Z">
@@ -1633,6 +1762,30 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bashkir</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204103Z">
+        <seg>バシキール語（Bashkir）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basque</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204109Z">
+        <seg>バスク語（Basque）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Belarusian</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204116Z">
+        <seg>ベラルーシ語（Belarusian）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Belazar</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140918Z">
@@ -1641,10 +1794,42 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bengali</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204121Z">
+        <seg>ベンガル語（Bengali）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bihari</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204145Z">
+        <seg>ビハール語（Bihari）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bislama</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204157Z">
+        <seg>ビスラマ語（Bislama）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174736Z">
         <seg>ブックマーク参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bosnian</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204202Z">
+        <seg>ボスニア語（Bosnian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1661,6 +1846,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121448Z">
         <seg>分節 または 例外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breton</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204226Z">
+        <seg>ブルトン語（Breton）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1685,6 +1878,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164706Z">
         <seg>参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204231Z">
+        <seg>ブルガリア語（Bulgarian）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Burmese</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204307Z">
+        <seg>ビルマ語（Burmese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3969,6 +4178,38 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ISO 639-1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203139Z">
+        <seg>ISO 639-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO 639-1/639-2 Language code list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203131Z">
+        <seg>ISO 639-1/639-2 言語コード一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO 639-2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203140Z">
+        <seg>ISO 639-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO language codes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T202500Z">
+        <seg>ISO 言語コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Iceni Infix (*.xml)</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T092931Z">
@@ -4517,6 +4758,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203138Z">
+        <seg>言語名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T172826Z">
@@ -4529,6 +4778,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T163730Z">
         <seg>言語設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Languages - ISO 639 code list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T202809Z">
+        <seg>言語設定 - ISO 639 コード一覧</seg>
       </tuv>
     </tu>
     <tu>
@@ -5685,6 +5942,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121451Z">
         <seg>分節前の構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check the&lt;u0&gt; ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203103Z">
+        <seg>言語コードに関する詳細な情報は &lt;u0&gt;ISO 639 コード表&lt;/u0&gt; を参照してください。（日本語訳注：言語の日本語表記は http://ja.wikipedia.org/wiki/ISO_639 を参照しました。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9036,10 +9301,346 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>aa</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203303Z">
+        <seg>aa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>aar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203305Z">
+        <seg>aar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203242Z">
+        <seg>ab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>abk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203244Z">
+        <seg>abk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ae</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203900Z">
+        <seg>ae</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>af</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203512Z">
+        <seg>af</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>afr</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203513Z">
+        <seg>afr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ak</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203544Z">
+        <seg>ak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>aka</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203545Z">
+        <seg>aka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>am</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203604Z">
+        <seg>am</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>amh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203605Z">
+        <seg>amh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>an</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203659Z">
+        <seg>an</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203610Z">
+        <seg>ar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ara</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203611Z">
+        <seg>ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>arg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203701Z">
+        <seg>arg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>as</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203806Z">
+        <seg>as</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>asm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203807Z">
+        <seg>asm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170236Z">
         <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>av</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203833Z">
+        <seg>av</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ava</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203835Z">
+        <seg>ava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203901Z">
+        <seg>ave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ay</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203913Z">
+        <seg>ay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>aym</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203914Z">
+        <seg>aym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>az</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203926Z">
+        <seg>az</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>aze</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203927Z">
+        <seg>aze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ba</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204103Z">
+        <seg>ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bak</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204104Z">
+        <seg>bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bam</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204036Z">
+        <seg>bam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>be</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204117Z">
+        <seg>be</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204118Z">
+        <seg>bel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ben</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204123Z">
+        <seg>ben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204231Z">
+        <seg>bg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204146Z">
+        <seg>bh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bi</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204158Z">
+        <seg>bi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bih</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204147Z">
+        <seg>bih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204159Z">
+        <seg>bis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203951Z">
+        <seg>bm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204122Z">
+        <seg>bn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bos</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204203Z">
+        <seg>bos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>br</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204226Z">
+        <seg>br</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bre</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204228Z">
+        <seg>bre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204203Z">
+        <seg>bs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bul</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204232Z">
+        <seg>bul</seg>
       </tuv>
     </tu>
     <tu>
@@ -9176,6 +9777,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141232Z">
         <seg>editUndoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>eu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204109Z">
+        <seg>eu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>eus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204112Z">
+        <seg>eus</seg>
       </tuv>
     </tu>
     <tu>
@@ -9324,6 +9941,30 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T202813Z">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203729Z">
+        <seg>hy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hye</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203730Z">
+        <seg>hye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T113156Z">
@@ -9344,6 +9985,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141520Z">
         <seg>lowerCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>my</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204307Z">
+        <seg>my</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mya</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204310Z">
+        <seg>mya</seg>
       </tuv>
     </tu>
     <tu>
@@ -9552,6 +10209,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155803Z">
         <seg>分節 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sq</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203557Z">
+        <seg>sq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sqi</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203559Z">
+        <seg>sqi</seg>
       </tuv>
     </tu>
     <tu>
