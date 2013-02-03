@@ -4017,6 +4017,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210452Z">
+        <seg>グルジア語（Georgian）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>German</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121458Z">
@@ -4165,6 +4173,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140916Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greek, Modern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210750Z">
+        <seg>ギリシャ語、近代（Greek, Modern）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9949,6 +9965,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>de</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210504Z">
+        <seg>de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>deu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210517Z">
+        <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>div</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205914Z">
@@ -10113,6 +10145,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210050Z">
         <seg>ee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>el</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210750Z">
+        <seg>el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210755Z">
+        <seg>ell</seg>
       </tuv>
     </tu>
     <tu>
@@ -10465,6 +10513,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203730Z">
         <seg>hye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ka</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210453Z">
+        <seg>ka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>kat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210454Z">
+        <seg>kat</seg>
       </tuv>
     </tu>
     <tu>
@@ -10985,6 +11049,17 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210146Z">
         <seg>フランス語（French）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/en/App_Languages.xml</prop>
+      <prop type="prev">kat</prop>
+      <prop type="next">de</prop>
+      <tuv lang="EN-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210504Z">
+        <seg>ドイツ語（German）</seg>
       </tuv>
     </tu>
   </body>
