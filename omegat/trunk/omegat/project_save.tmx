@@ -1156,6 +1156,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T180156Z">
+        <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k2&gt;Ctrl&lt;/k2&gt; or &lt;k3&gt;Control&lt;/k3&gt; key.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172940Z">
@@ -6665,6 +6673,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opens a previously created project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T175949Z">
+        <seg>すでに作成したプロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154216Z">
@@ -8080,6 +8096,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T175825Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See "Chapter 3. Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T014055Z">
@@ -9119,8 +9143,8 @@ instead.</seg>
       <tuv lang="EN-US">
         <seg>The dialog to create a project is the same as to edit the project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174733Z">
-        <seg>ここで表示されるウィンドウは&lt;a0&gt;［プロジェクト設定］&lt;/a0&gt;ウィンドウと同じです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T175808Z">
+        <seg>ここで表示されるウィンドウは&lt;a0&gt;［プロジェクト設定］&lt;/a0&gt;ウィンドウ（詳細は右リンク先を参照）と同じです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14475,6 +14499,28 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152129Z">
         <seg>スウェーデン語（Swedish）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/en/Menu.xml</prop>
+      <prop type="prev">Project menu</prop>
+      <prop type="next">Creates and opens a new project.</prop>
+      <tuv lang="EN-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T175925Z">
+        <seg>［新規作成...］</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/en/Menu.xml</prop>
+      <prop type="prev">See</prop>
+      <prop type="next">&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</prop>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T175948Z">
+        <seg>［開く...］</seg>
       </tuv>
     </tu>
     <tu>
