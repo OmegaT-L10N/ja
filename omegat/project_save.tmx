@@ -2431,6 +2431,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ctrl is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k0&gt;Ctrl&lt;/k0&gt; / &lt;k1&gt;Control key&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172133Z">
+        <seg>［Ctrl］キーは Windows で使用します。UNIX や UNIX 系のオペレーティングシステムでは&lt;k0&gt;［Ctrl］&lt;/k0&gt; または &lt;k1&gt;［Control］&lt;/k1&gt;キーが該当します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ctrl+1</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141414Z">
@@ -3067,6 +3075,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T163515Z">
         <seg>プロジェクト設定の確認と変更を行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172642Z">
+        <seg>編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -3941,6 +3957,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T172352Z">
         <seg>また上級者向けの話題として、コマンドラインモードとその可能性についても説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For readability purposes, letters are written in uppercase here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T171909Z">
+        <seg>判別しやすいよう、文字キーは大文字で表記します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5446,6 +5470,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mac users should instead use the &lt;g2&gt;cmd+key.&lt;/g2&gt; On Apple keyboards the &lt;g3&gt;cmd&lt;/g3&gt; key either has a command label or an Apple icon on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172630Z">
+        <seg>Mac ユーザーは &lt;g2&gt;［cmd］+キー&lt;/g2&gt;と読み替えてください。Apple キーボードでは、&lt;g3&gt;［cmd］&lt;/g3&gt;キーには &lt;g3&gt;command&lt;/g3&gt; または &lt;g3&gt;リンゴ&lt;/g3&gt; マークが記されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154901Z">
@@ -5850,6 +5882,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122303Z">
         <seg>上へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving around</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172650Z">
+        <seg>移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -6593,6 +6633,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172819Z">
+        <seg>その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175005Z">
@@ -7080,6 +7128,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project management</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172637Z">
+        <seg>プロジェクトの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project properties</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153948Z">
@@ -7276,6 +7332,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031647Z">
         <seg>やり直す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference windows</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172655Z">
+        <seg>ウィンドウの参照</seg>
       </tuv>
     </tu>
     <tu>
@@ -8243,8 +8307,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T155558Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; キーと文字キーを同時に押すと、ショートカットが動作します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T171605Z">
+        <seg>ショートカットは&lt;k0&gt;［Ctrl］&lt;/k0&gt;キーと文字キーを同時に押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8325,6 +8389,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165010Z">
         <seg>移動されたプロジェクトフォルダーがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some shortcuts involve other keys.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T171723Z">
+        <seg>他のキーを含めて使用するものもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14267,6 +14339,17 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152129Z">
         <seg>スウェーデン語（Swedish）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/en/Menu.xml</prop>
+      <prop type="prev">When another window is on the foreground, click on the main window to bring it to the foreground or press &lt;k0&gt;Esc&lt;/k0&gt; to close the other window.</prop>
+      <prop type="next">Some shortcuts involve other keys.</prop>
+      <tuv lang="EN-US">
+        <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T171712Z">
+        <seg>&lt;k0&gt;［Ctrl］&lt;/k0&gt;キーと文字キーを同時に押すと、ショートカットが動作します。</seg>
       </tuv>
     </tu>
   </body>
