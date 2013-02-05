@@ -839,6 +839,14 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T210848Z">
+        <seg>* これらのキーでは、カーソルが編集中の分節の外側にあると、動作が異なります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135717Z">
@@ -1007,6 +1015,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031021Z">
         <seg>&lt;e0&gt;翻訳入力行の動作：&lt;/e0&gt;未翻訳の分節に関する翻訳入力行の動作設定をどのように行うか説明した、短い章です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T211448Z">
+        <seg>&lt;e0&gt;End：&lt;/e0&gt;編集中の分節の末尾に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T211443Z">
+        <seg>&lt;e0&gt;Home：&lt;/e0&gt;編集中の分節の先頭に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2543,6 +2567,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ctrl+A</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205858Z">
+        <seg>Ctrl+A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ctrl+Backspace</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T204453Z">
@@ -2707,6 +2739,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141715Z">
         <seg>Ctrl+Shift+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205925Z">
+        <seg>Ctrl+Shift+O</seg>
       </tuv>
     </tu>
     <tu>
@@ -7520,6 +7560,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RTL-LTR switch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T210156Z">
+        <seg>文字列の方向（右から左、左から右）の切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160554Z">
@@ -9393,8 +9441,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN-US">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T203021Z">
-        <seg>以下で「分節に移動します」という説明が出てきますが、これはもしカーソルが分節よりも前にあった場合は、分節の先頭に移動することを、カーソルが分節の中にあった場合は、その分節の末尾に移動することを指しています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205810Z">
+        <seg>以下で「分節内に移動します」という説明が出てきた場合は、カーソルが分節よりも前にあれば、分節の先頭に移動することを、カーソルが分節の後にあれば、分節の末尾に移動することを指しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12967,8 +13015,8 @@ create its configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>move to the end of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T204349Z">
-        <seg>文書の末尾に移動します（Mac：&lt;e0&gt;Cmd+PgDn&lt;/e0&gt;）。&lt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205844Z">
+        <seg>文書の末尾に移動します（Mac：&lt;e0&gt;Cmd+PgDn&lt;/e0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13305,6 +13353,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T203651Z">
         <seg>一単語分、右に移動します。ただし分節の末尾よりも右には移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205856Z">
+        <seg>前の分節へ移動します（Mac：&lt;e0&gt;Cmd+Enter&lt;/e0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13817,6 +13873,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155803Z">
         <seg>分節 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205923Z">
+        <seg>分節全体を選択します（Mac：&lt;e0&gt;Cmd+A&lt;/e0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
