@@ -903,6 +903,14 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer 12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T174613Z">
+        <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer 12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -942,6 +950,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T163219Z">
         <seg> 75% -  84%：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>84528: Info: Source tokenizer: org.omegat.plugins.tokenizer.LuceneCJKTokenizer 84528: Info: Target tokenizer: org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173852Z">
+        <seg>84528: Info: Source tokenizer: org.omegat.plugins.tokenizer.LuceneCJKTokenizer 84528: Info: Target tokenizer: org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1337,6 +1353,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172940Z">
         <seg>&lt;k1&gt;［Ctrl］&lt;/k1&gt;キーは Windows で使用します。UNIX や UNIX 系のオペレーティングシステムでは&lt;k2&gt;［Ctrl］&lt;/k2&gt; または &lt;k3&gt;［Control］&lt;/k3&gt;キーが該当します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173503Z">
+        <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4474,8 +4498,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Follow the instructions above to access the &lt;f1&gt;info.plist&lt;/f1&gt; file and edit it so that it looks as follows for the example we just gave:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T172831Z">
-        <seg>上記で示した通り、&lt;f1&gt;info.plist&lt;/f1&gt; ファイルを探し</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173435Z">
+        <seg>上記の説明通り、&lt;f1&gt;info.plist&lt;/f1&gt; ファイルを探して編集します。先ほどの例を使うと、次のようになります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5183,6 +5207,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T035604Z">
         <seg>［設定...］でフィルター個別の設定変更も行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the tokenizers are not properly launched, the log will look like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T174611Z">
+        <seg>トークナイザーが正常起動しなかった場合は、次のようなログになります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6225,6 +6257,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T071539Z">
         <seg>ルバ・カタンガ語（Luba-Katanga）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173507Z">
+        <seg>LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10176,6 +10216,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The numbers on the left are likely to be different on your system so make sure that the source and target tokenizer names,specified in the start-up options, correspond to what the log is showing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T174447Z">
+        <seg>行頭の数値は、お使いのシステムによって異なりますので、気にする必要はありません。Source tokenizer と target tokenizer の名前を確認してください。起動オプションで指定した名前が、ログに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The original document is not changed; rather, a new document is created based on the content of an existing one.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T085202Z">
@@ -10561,6 +10609,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To make sure that the tokenizers are being used, open a project and check the log information from the console.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173808Z">
+        <seg>指定したトークナイザーが本当に使われているかどうかを確認するには、プロジェクトを開き、コンソール ウィンドウに出力されるログをチェックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To remind yourself of the project's initial settings, open the Project Settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210058Z">
@@ -10893,6 +10949,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154049Z">
         <seg>翻訳者のコメント：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troubleshooting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173614Z">
+        <seg>トラブルシューティング</seg>
       </tuv>
     </tu>
     <tu>
@@ -11639,6 +11703,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173853Z">
         <seg>Windows リソースファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the Mac OS X OmegaT.app package, you'll need to double-click on the &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; located in /OmegaT.app/Contents/MacOS/ (see above to access it) to launch OmegaT from the console and have immediate access to the log.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T175014Z">
+        <seg>Mac OS X の OmegaT.app パッケージでログを確認するには、/OmegaT.app/Contents/MacOS/（アクセス方法は前述の通り）にある &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; をダブルクリックして、OmegaT をコンソールから起動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the example above it should look like that:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173847Z">
+        <seg>たとえば、それはこんな風に出力されるはずです：</seg>
       </tuv>
     </tu>
     <tu>
