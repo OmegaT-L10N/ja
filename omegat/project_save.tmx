@@ -1119,8 +1119,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;NetRexx&lt;/e0&gt; (http://www.netrexx.org/): it supports a classic REXX syntax, with no reserved keywords, along with considerable additions to support object-oriented programming in a manner compatible with Java's object model.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T082445Z">
-        <seg>&lt;e0&gt;NetRexx&lt;/e0&gt;（http://www.netrexx.org/）： 旧来の REXX 文法をサポートしています、予約キーワードなし、Java のオブジェクト モデルと互換性のある方法でプログラミングをオブジェクト指向をサポートするためにかなりの追加と一緒に。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T083449Z">
+        <seg>&lt;e0&gt;NetRexx&lt;/e0&gt;（http://www.netrexx.org/）： 旧来の REXX 構文を利用できます。予約キーワードはありません。Java のオブジェクト モデルと互換性のある形でオブジェクト指向プログラミングをサポートするため、多くの拡張が施されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1593,6 +1593,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155040Z">
         <seg>{0} に対してプロジェクトをアラインする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All existing Java class libraries can be used unchanged and without special setup; at the same time, a Java programmer can opt to just use the Rexx class from the runtime package for improved string handling in Java syntax source programs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T084355Z">
+        <seg>環境に存在するすべての Java クラスライブラリを、特別な設定をすることなくそのまま利用できます。あるいは Java プログラマーであれば、強力な文字列処理機能を使うために、Java 構文のソースプログラムから、ランタイム パッケージから単純に Rexx クラスを使うこともできます。このパッケージは文字列処理機能が改善されているため、Java 構文で</seg>
       </tuv>
     </tu>
     <tu>
