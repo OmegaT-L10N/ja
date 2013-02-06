@@ -1301,6 +1301,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T113552Z">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; または &lt;k1&gt;Enter&lt;/k1&gt; または &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T113604Z">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; または &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; または &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T180156Z">
@@ -1377,6 +1393,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073127Z">
         <seg>&lt;p0&gt;プラグイン&lt;/p0&gt; &lt;s1&gt;スクリプト&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T114130Z">
+        <seg>&lt;p0&gt;プラグイン&lt;/p0&gt; &lt;s1&gt;トークナイザー&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10417,6 +10441,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tokenizer plugin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T114301Z">
+        <seg>トークナイザー プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tonga (Tonga Islands)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152432Z">
@@ -14290,6 +14322,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142230Z">
         <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T114013Z">
+        <seg>optionsSaveOptionsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
