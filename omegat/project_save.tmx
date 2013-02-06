@@ -4512,6 +4512,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if you wish to use the Lucene CJK tokenizer in source and the Lucene French tokenizer in target, your command will look like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170359Z">
+        <seg>たとえば、原文言語に Lucene CJK tokenizer を、訳文言語に Lucene French tokenizer を使う場合のコマンドは、次のようになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104741Z">
@@ -10232,6 +10240,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The syntax is as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170024Z">
+        <seg>構文は、次の通りです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T201606Z">
@@ -10244,6 +10260,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205810Z">
         <seg>以下で「分節内に移動します」という説明が出てきた場合は、カーソルが分節よりも前にあれば、分節の先頭に移動することを、カーソルが分節の後にあれば、分節の末尾に移動することを指しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tokenizer names are given in the Readme.txt file distributed with the tokenizer files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170233Z">
+        <seg>トークナイザー名は、トークナイザーのファイルと一緒に配布される Readme.txt ファイルに一覧が記載されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10517,6 +10541,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210058Z">
         <seg>プロジェクトの初期設定を確認したければ、&lt;k0&gt;Ctrl+E&lt;/k0&gt; キーを押してプロジェクト設定ダイアログを開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To run OmegaT with the tokenizer you need to specify which tokenizer you'll use for the source language and which tokenizer you'll use for the target language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170008Z">
+        <seg>OmegaT で実際にトークナイザーを使うには、原文言語と訳文言語それぞれについて、どのトークナイザーを使うのかを指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13510,6 +13542,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>java -jar OmegaT.jar --ITokenizer=[source language tokenizer name] --ITokenizerTarget=[target language tokenizer name]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170057Z">
+        <seg>java -jar OmegaT.jar --ITokenizer=[原文言語のトークナイザー名] --ITokenizerTarget=[訳文言語のトークナイザー名]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170546Z">
+        <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>jpn</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -15378,6 +15426,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tokenizer.LuceneCJKTokenizer --ITokenizerTarget=org.omegat.plugins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170551Z">
+        <seg>tokenizer.LuceneCJKTokenizer --ITokenizerTarget=org.omegat.plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tokenizer.LuceneFrenchTokenizer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170554Z">
+        <seg>tokenizer.LuceneFrenchTokenizer</seg>
       </tuv>
     </tu>
     <tu>
