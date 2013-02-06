@@ -863,6 +863,15 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T160231Z">
+        <seg>- 比較級、主格、男性形、女性形、中性形
+, resp. Plural form of the adjective</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135717Z">
@@ -1525,8 +1534,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T154347Z">
-        <seg>ステミングのアルゴリズムは「fishing」や「fished」、「fish」、「fisher」などの単語を、語幹の「fish」という単語に収斂します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T154933Z">
+        <seg>ステミングのアルゴリズムは、「fishing」や「fished」、「fish」、「fisher」などの単語を、語幹の「fish」という単語に収斂します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2173,6 +2182,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174736Z">
         <seg>ブックマーク参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T155928Z">
+        <seg>スロベニア語から例を拝借すると、「良い」という意味の単語は、文法的にまったく正しく次の変化形を取ります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10353,6 +10370,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T155140Z">
+        <seg>この処理は、語尾や語頭の変化形を持つ言語を扱う場合に、とても役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155949Z">
@@ -13754,6 +13779,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>lb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T160111Z">
+        <seg>lep, lepa, lepo - 単数形、男性形、女性形、中性形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lepši, lepša, lepše .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T160115Z">
+        <seg>lepši, lepša, lepše .</seg>
       </tuv>
     </tu>
     <tu>
