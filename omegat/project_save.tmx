@@ -1026,6 +1026,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111313Z">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; 2.5 &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T072637Z">
@@ -3078,6 +3086,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default shortcut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T112041Z">
+        <seg>デフォルトのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T204428Z">
@@ -5067,10 +5083,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T112023Z">
+        <seg>システム用のショートカットと衝突しない限り、新しいショートカットは OmegaT で機能するでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T101331Z">
         <seg>他の設定に興味があれば、&lt;k0&gt;Ctrl+E&lt;/k0&gt; キーを押して、いつでもこのダイアログに戻ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111616Z">
+        <seg>Mac 向けに&lt;g5&gt;［ツール］&lt;/g5&gt;→&lt;g6&gt;［翻訳状況］&lt;/g6&gt;を &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt; のショートカットで開けるようにしたければ、&lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt; に次の行を追加してください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5103,6 +5135,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T211508Z">
         <seg>翻訳メモリファイルをプロジェクトの &lt;filename&gt;tm&lt;/filename&gt; フォルダー内に配置しておくと、OmegaT はそこから「参考訳文」と呼ばれる類似分節を自動的に検索するようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111239Z">
+        <seg>プロジェクトを開くために &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; を使いたいと思ったら、&lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; ファイルを次のように修正してください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6389,6 +6429,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Menu Item</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T112031Z">
+        <seg>メニュー項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu Item Code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T112050Z">
+        <seg>メニュー項目コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Menu and Keyboard shortcuts</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153616Z">
@@ -6585,6 +6641,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T073914Z">
         <seg>ネパール語（Nepali）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T112237Z">
+        <seg>新規作成...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7212,6 +7276,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104645Z">
         <seg>デフォルトでは、最もよく使われると思われるメニュー項目にだけ、ショートカットが割り当てられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T112252Z">
+        <seg>開く...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8539,6 +8611,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152822Z">
         <seg>スクリプトを保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111650Z">
+        <seg>ファイルを保存したら、&lt;a0&gt;OmegaT&lt;/a0&gt; を再起動してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9890,6 +9970,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070916Z">
         <seg>これらの文書は有効活用されることを願って頒布されるものですが、その内容については全くの無保証となります。商品性の黙示保証、または特定目的への適合性は全く存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111034Z">
+        <seg>最初のショートカットは（プロジェクトを）&lt;g0&gt;［開く...］&lt;/g0&gt;用で、その次は&lt;g1&gt;［用語の追加］&lt;/g1&gt;用です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11633,6 +11721,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173112Z">
         <seg>このプロジェクトは文単位で分節化されていますが、 TMX ファイルは段落単位で分節化されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111824Z">
+        <seg>新しいショートカットが、修正したメニュー項目の隣に表示されるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15138,6 +15234,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142006Z">
         <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111619Z">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
     </tu>
     <tu>
