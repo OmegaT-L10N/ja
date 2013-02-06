@@ -1437,6 +1437,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Development, Localizing&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T184137Z">
+        <seg>&lt;p0&gt;ウェブ上の OmegaT 情報&lt;/p0&gt; &lt;s1&gt;開発、地域化&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Donating to OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T185138Z">
+        <seg>&lt;p0&gt;ウェブ上の OmegaT 情報&lt;/p0&gt; &lt;s1&gt;OmegaT への寄付&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Financial support&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T184233Z">
+        <seg>&lt;p0&gt;ウェブ上の OmegaT 情報&lt;/p0&gt; &lt;s1&gt;資金援助&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Reporting bugs&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181546Z">
@@ -3250,6 +3274,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T204428Z">
         <seg>Delete*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T185145Z">
+        <seg>辞書</seg>
       </tuv>
     </tu>
     <tu>
@@ -5359,6 +5391,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T172835Z">
         <seg>Mac OS X の OmegaT.app パッケージでトークナイザーを使う場合、トークナイザーのインストールは上記で説明されている通りです（OmegaT.app を右クリックすれば、OmegaT.jar の場所が分かります）。ただし、使用するトークナイザー名は Java 起動オプションに含まれる &lt;f0&gt;info.plist&lt;/f0&gt; で指定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;u0&gt; OmegaT PayPal account&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T185044Z">
+        <seg>OmegaT の継続的な開発をサポートしたい場合は、こちらのリンクをクリックして &lt;u0&gt;OmegaT PayPal アカウント&lt;/u0&gt;へ寄付していただければ幸いです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10777,6 +10817,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To support the OmegaT project financially</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T184645Z">
+        <seg>OmegaT プロジェクトを財政面から支援するには：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To translate &lt;a0&gt;OmegaT&lt;/a0&gt;'s user interface, user manual or other related documents:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T183149Z">
@@ -13158,6 +13206,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>first read the &lt;u0&gt;Localizing and Customizing &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt; guide, and join the &lt;a2&gt;OmegaT&lt;/a2&gt; translators' group via web or by sending an email to &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; with subject "subscribe".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T183857Z">
+        <seg>まず &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; をあなたの言語に翻訳するには&lt;/a0&gt;をお読みいただき、&lt;a2&gt;OmegaT&lt;/a2&gt; 翻訳者グループに参加してください（ウェブから登録するか、または「subscribe」という件名のメールを &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3 宛てに送信してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fj</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210126Z">
@@ -13634,6 +13690,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T202813Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99\ LL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T184653Z">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
       </tuv>
     </tu>
     <tu>
