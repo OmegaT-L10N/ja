@@ -4217,6 +4217,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the application</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T061626Z">
+        <seg>このプログラムについて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For your reference, OmegaT displays the translation of any words that happen to be present in the segment that currently has focus.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T093438Z">
@@ -5205,10 +5213,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can also detect some grammar mistakes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062125Z">
+        <seg>また、ある種の文法上の間違いも検出できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T172316Z">
         <seg>OmegaT のインストールと Windows、Mac OS X、Linux 各 OS 上での実行について、詳しい手順がここにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not include spell checking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062152Z">
+        <seg>しかし綴り確認機能は含みません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5578,6 +5602,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055208Z">
         <seg>LanguageTool プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062343Z">
+        <seg>LanguageTool は、言語固有の設定ファイルであらかじめ定義された規則に基づいて、間違いを見つけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8400,6 +8432,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the GNU General Public License for more details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T061827Z">
+        <seg>詳しくは &lt;a1&gt;GNU 一般公的使用許諾&lt;/a1&gt; を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T172833Z">
@@ -9376,6 +9416,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133937Z">
         <seg>半角 ? は、任意の 1 文字と一致します。たとえば run? は、runs, rung には一致しますが、run や running には一致しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LanguageTool in OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062522Z">
+        <seg>LanguageTool in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -10975,8 +11023,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN-US">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T061003Z">
-        <seg>LanguageTool は、単純な綴り確認機能では検出できないような間違いを</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062032Z">
+        <seg>LanguageTool は、単純な綴り確認機能では検出できないような間違いを検出するためのプログラムです。たとえば、there と their、no と now の取り違えなどが該当します。</seg>
       </tuv>
     </tu>
     <tu>
