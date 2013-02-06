@@ -4472,6 +4472,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow the instructions above to access the &lt;f1&gt;info.plist&lt;/f1&gt; file and edit it so that it looks as follows for the example we just gave:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T172831Z">
+        <seg>上記で示した通り、&lt;f1&gt;info.plist&lt;/f1&gt; ファイルを探し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Font</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T154006Z">
@@ -5247,6 +5255,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20121231T053255Z">
         <seg>インストール時の言語と同じ言語を使いたい場合は、下のチェックボックスにチェック印を付ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you wish to use the tokenizers with the Mac OS X OmegaT.app package, the tokenizer installation described above applies (right-click on OmegaT.app to find the location of OmegaT.jar), but you'll need to specify the tokenizer names in the &lt;f0&gt;info.plist &lt;/f0&gt;that contains the Java launch options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T172835Z">
+        <seg>Mac OS X の OmegaT.app パッケージでトークナイザーを使う場合、トークナイザーのインストールは上記で説明されている通りです（OmegaT.app を右クリックすれば、OmegaT.jar の場所が分かります）。ただし、使用するトークナイザー名は Java 起動オプションに含まれる &lt;f0&gt;info.plist&lt;/f0&gt; で指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6233,6 +6249,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180126Z">
         <seg>Steve Roy による MRJ Adapter 1.0.8（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mac OS X specifics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T171610Z">
+        <seg>Mac OS X での使い方</seg>
       </tuv>
     </tu>
     <tu>
