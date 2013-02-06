@@ -1302,6 +1302,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Scripting&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073127Z">
+        <seg>&lt;p0&gt;プラグイン&lt;/p0&gt; &lt;s1&gt;スクリプト&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T091530Z">
@@ -2286,6 +2294,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T095945Z">
         <seg>［原文ファイルを追加...］ボタンをクリックし、原文ファイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking &lt;g3&gt;Scripting&lt;/g3&gt; opens the Scripting dialog:&lt;s4&gt; &lt;s5&gt;Scripting dialog&lt;/s5&gt; &lt;m6&gt; &lt;i7&gt; &lt;i8/&gt; &lt;/i7&gt; &lt;/m6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T074423Z">
+        <seg>&lt;g3&gt;［スクリプト...］&lt;/g3&gt; をクリックすると、スクリプト ダイアログが開きます：&lt;s4&gt; &lt;s5&gt;スクリプト ダイアログ&lt;/s5&gt; &lt;m6&gt; &lt;i7&gt; &lt;i8/&gt; &lt;/i7&gt; &lt;/m6&gt; &lt;/s4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6945,6 +6961,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT-Scripting allows to run scripts written in different scripting languages in OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073325Z">
+        <seg>スクリプト プラグインを使うと、さまざまなスクリプト言語で書かれたスクリプトを OmegaT で実行することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT-{0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T142514Z">
@@ -8400,6 +8424,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scripting plugin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073139Z">
+        <seg>スクリプト プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scripts Folder</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152453Z">
@@ -9540,6 +9572,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Scripting plugin for OmegaT can be downloaded from the OmegaT plugins download site (&lt;u0&gt;http://sourceforge.net/projects/omegat-plugins/files/&lt;/u0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073423Z">
+        <seg>OmegaT 用のスクリプト プラグインは、OmegaT プラグインのダウンロードサイト（&lt;u0&gt;http://sourceforge.net/projects/omegat-plugins/files/&lt;/u0&gt;）から入手できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173005Z">
@@ -9593,8 +9633,8 @@ instead.</seg>
       <tuv lang="EN-US">
         <seg>The dialog to create a project is the same as to edit the project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T175808Z">
-        <seg>ここで表示されるウィンドウは&lt;a0&gt;［プロジェクト設定］&lt;/a0&gt;ウィンドウ（詳細は右リンク先を参照）と同じです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T074159Z">
+        <seg>ここで表示されるウィンドウは&lt;a0&gt;［プロジェクト設定］&lt;/a0&gt;ダイアログ（詳細は右リンク先を参照）と同じです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +9862,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T202039Z">
         <seg>タグは特に保護されてはいません。したがってふつうの文と同じように、削除したり、手入力したり、移動したりすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's five place holders available for scripts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073907Z">
+        <seg>インストールが完了すると、&lt;g0&gt;［ツール］&lt;/g0&gt;メニューに新たに&lt;g1&gt;［スクリプト...］&lt;/g1&gt;サブメニューが追加されます。また&lt;g2&gt;［スクリプト...］&lt;/g2&gt;サブメニューの下には、スクリプト用の五つのプレースホルダーも追加されます。</seg>
       </tuv>
     </tu>
     <tu>
