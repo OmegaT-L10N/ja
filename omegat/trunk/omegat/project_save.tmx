@@ -995,6 +995,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T102842Z">
+        <seg>&lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt; は次のいずれかの値を取ります：&lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; 2.5 &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T072637Z">
@@ -1402,6 +1410,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130117T171927Z">
         <seg>&lt;r0&gt;注意：&lt;/r0&gt;Mac ユーザーは、&lt;k3&gt;Ctrl&lt;/k3&gt; キーを &lt;k1&gt;Cmd&lt;/k1&gt; (⌘ マークが付いているキー) または &lt;k2&gt;Apple&lt;/k2&gt; キー (りんごマークが付いているキー) に読み替えてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;shortcut&gt; must be of the following form:0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T102814Z">
+        <seg>&lt;shortcut&gt; は次の形式に従います：0 個以上の &lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt;、続いて 0 個または 1 個の &lt;c1&gt;&lt;イベント&gt;&lt;/c1&gt;、続いて 1 個の &lt;c2&gt;&lt;キー&gt;&lt;/c2&gt;。ただし：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9839,6 +9855,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T102047Z">
+        <seg>キーストローク（ショートカット）の完全な構文定義は、Oracle による次の Java 1.6 技術文書（ページの最後）を参照してください：&lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;（&lt;ulink url="http://docs.oracle.com/javase/jp/6/api/javax/swing/KeyStroke.html"&gt;日本語&lt;/ulink&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160539Z">
@@ -9941,6 +9965,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T100131Z">
         <seg>ショートカット定義ファイルには必ず &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; という名前を付け、ショートカット定義を少なくとも一行は記述しておく必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T101218Z">
+        <seg>ショートカット定義構文は、次の通りです：&lt;c0&gt;&lt;メニュー項目コード&gt;=&lt;ショートカット&gt;&lt;/c0&gt;。&lt;e1&gt;&lt;メニュー項目コード&gt;&lt;/e1&gt; の値は、後述する表を参照してください。&lt;e2&gt;&lt;ショートカット&gt;&lt;/e2&gt; には割り当てたいキーの組み合わせを指定します</seg>
       </tuv>
     </tu>
     <tu>
@@ -12839,6 +12871,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T101057Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://groups.yahoo.com/group/omegat/</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191635Z">
@@ -15557,6 +15597,17 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152129Z">
         <seg>スウェーデン語（Swedish）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</prop>
+      <prop type="next">&lt;shortcut&gt; must be of the following form:0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</prop>
+      <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T101253Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
