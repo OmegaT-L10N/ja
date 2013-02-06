@@ -847,6 +847,22 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103159Z">
+        <seg>、&lt;e0&gt;alt&lt;/e0&gt;、&lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>, one can find:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104409Z">
+        <seg>は次のようになっています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135717Z">
@@ -862,12 +878,11 @@ To add files to the project, click on the Import Source Files... button in the P
       </tuv>
     </tu>
     <tu>
-      <note>おそらく原文の typo と思われる。とりあえず、翻訳しない。</note>
       <tuv lang="EN-US">
         <seg>.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T214136Z">
-        <seg></seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103901Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
@@ -995,10 +1010,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103304Z">
+        <seg>&lt;c0&gt;&lt;イベント&gt;&lt;/c0&gt; は次の値を取ります：&lt;e1&gt;typed&lt;/e1&gt;、&lt;e2&gt;pressed&lt;/e2&gt;、&lt;e3&gt;released&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T102842Z">
-        <seg>&lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt; は次のいずれかの値を取ります：&lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103139Z">
+        <seg>&lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt; は次の値を取ります：&lt;e1&gt;shift&lt;/e1&gt;、&lt;e2&gt;control&lt;/e2&gt;、&lt;e3&gt;ctrl&lt;/e3&gt;、&lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4385,6 +4408,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104741Z">
+        <seg>例として、OmegaT のデフォルトのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For readability purposes, letters are written in uppercase here.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T171909Z">
@@ -7121,6 +7152,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103035Z">
+        <seg>Mac では、修飾子 &lt;e0&gt;meta&lt;/e0&gt; の代わりに &lt;e1&gt;command&lt;/e1&gt; キーを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once installed, the plugin will be used automatically by OmegaT, if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T064744Z">
@@ -7171,8 +7210,8 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       <tuv lang="EN-US">
         <seg>Only the most commonly used menu items are assigned a shortcut by default.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094813Z">
-        <seg>既定では、最もよく使われると思われるメニュー項目にだけ、ショートカットが割り当てられています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104645Z">
+        <seg>デフォルトでは、最もよく使われると思われるメニュー項目にだけ、ショートカットが割り当てられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9913,6 +9952,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104135Z">
+        <seg>利用できるキーイベント（キー）の一覧は、Oracle による次の Java 1.6 技術文書を参照してください：&lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;（&lt;ulink url="http://docs.oracle.com/javase/jp/6/api/java/awt/event/KeyEvent.html"&gt;日本語&lt;/ulink&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155141Z">
@@ -11719,6 +11766,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103406Z">
+        <seg>そして &lt;c0&gt;&lt;キー&gt;&lt;/c0&gt; には、キーボード上で利用可能な任意のキーを指定できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ar</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203610Z">
@@ -12871,6 +12926,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103416Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T101057Z">
@@ -12883,6 +12946,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191635Z">
         <seg>http://groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104411Z">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-5/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -15608,6 +15679,17 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T101253Z">
         <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/en/InstantStartGuide.xml</prop>
+      <prop type="prev">If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</prop>
+      <prop type="next">You can create a glossary by pressing &lt;g0&gt;Ctrl+Shift+G&lt;/g0&gt;, or copy existing glossaries to the&lt;f1&gt;/glossary/&lt;/f1&gt;subfolder of your project folder, and OmegaT will automatically look up words in them.</prop>
+      <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103805Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
