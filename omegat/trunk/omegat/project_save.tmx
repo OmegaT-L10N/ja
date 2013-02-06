@@ -865,9 +865,8 @@ To add files to the project, click on the Import Source Files... button in the P
       <tuv lang="EN-US">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T160231Z">
-        <seg>- 比較級、主格、男性形、女性形、中性形
-, resp. Plural form of the adjective</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T160817Z">
+        <seg>- 比較級、主格、男性形、女性形、中性形、それぞれに形容詞の複数形あり</seg>
       </tuv>
     </tu>
     <tu>
@@ -1536,6 +1535,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T154933Z">
         <seg>ステミングのアルゴリズムは、「fishing」や「fished」、「fish」、「fisher」などの単語を、語幹の「fish」という単語に収斂します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A tokenizer package adapted from the Lucene project is distributed as an OmegaT plug-in at http://sourceforge.net/projects/omegat-plugins/files/.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T161537Z">
+        <seg>Lucene プロジェクトを組み込んだトークナイザーのパッケージは、OmegaT プラグインのダウンロードサイト（http://sourceforge.net/projects/omegat-plugins/files/）から入手できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3459,6 +3466,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154012Z">
         <seg>チームプロジェクトをダウンロード...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download the most recent files (OmegaT-tokenizers_0.4_2-2.1.zip at the time of this writing).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T162209Z">
+        <seg>最新のファイルをダウンロードしてください（執筆時点では、OmegaT-tokenizers_0.4_2-2.1.zip が最新です）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5465,6 +5480,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T063515Z">
         <seg>インストールと使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation and command line use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T161301Z">
+        <seg>インストールとコマンドラインの使い方</seg>
       </tuv>
     </tu>
     <tu>
@@ -14131,6 +14154,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>na</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T161239Z">
+        <seg>najlepših - 最上級、複数形、M,F,N（男性，女性，中性）の所有格</seg>
       </tuv>
     </tu>
     <tu>
