@@ -1069,6 +1069,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T090022Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt;（http://groovy.codehaus.org）：Java 仮想マシン向けの動的言語です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T211443Z">
@@ -1218,6 +1226,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T155851Z">
         <seg>&lt;e0&gt;プレーンテキストを扱う&lt;/e0&gt;と&lt;e1&gt;整形されたテキストを扱う：&lt;/e1&gt;この二つの章は、翻訳するテキストに関するいくつかの重要な点について説明しています。たとえば、文字エンコーディング（プレーンテキストファイルの場合）や、タグの取り扱い（整形されたテキストの場合）などです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;XSLT&lt;/e0&gt; (Extensible Stylesheet Language Transformations): is a declarative, XML-based language used for the transformation of XML documents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T085104Z">
+        <seg>&lt;e0&gt;XSLT&lt;/e0&gt;（Extensible Stylesheet Language Transformations）：XML 文書を変換するために用いられる、宣言的な XML ベースの言語です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1599,8 +1615,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>All existing Java class libraries can be used unchanged and without special setup; at the same time, a Java programmer can opt to just use the Rexx class from the runtime package for improved string handling in Java syntax source programs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T084355Z">
-        <seg>環境に存在するすべての Java クラスライブラリを、特別な設定をすることなくそのまま利用できます。あるいは Java プログラマーであれば、強力な文字列処理機能を使うために、Java 構文のソースプログラムから、ランタイム パッケージから単純に Rexx クラスを使うこともできます。このパッケージは文字列処理機能が改善されているため、Java 構文で</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T084754Z">
+        <seg>環境に存在するすべての Java クラスライブラリを、特別な設定をすることなくそのまま利用できます。あるいは Java プログラマーであれば、Java のソースプログラムからランタイム パッケージ経由で単純に Rexx クラスを呼び出し、強力な文字列処理を行うこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5329,6 +5345,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064140Z">
         <seg>アイルランド語（Irish）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T090337Z">
+        <seg>構文的に Java との互換性を最大限に保った上で、さらに Python や Ruby、Smalltalk に触発された強力な拡張機能を持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9761,6 +9785,22 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The new document may be serialized (output) by the processor in standard XML syntax or in another format, such as HTML or plain text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T085722Z">
+        <seg>プロセッサーは、文書を標準的な XML 形式や、HTML、プレーンテキストなどの形式に変換（出力）できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The original document is not changed; rather, a new document is created based on the content of an existing one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T085202Z">
+        <seg>原文書には一切変更を加えません。既存の文書を元に、新しい文書を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155141Z">
@@ -11248,6 +11288,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173927Z">
         <seg>XLIFF ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XSLT is most often used to convert data between different XML schemas or to convert XML data into web pages or PDF documents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T085900Z">
+        <seg>XSLT は、異なる XML スキーマ間での変換や、XML データをウェブページや PDF 文書などに変換する用途で、最もよく使われています。</seg>
       </tuv>
     </tu>
     <tu>
