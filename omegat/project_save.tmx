@@ -10505,6 +10505,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To install the tokenizer, create a folder with the name "plugins" in the folder where OmegaT.jar is found and unpack the above files within that folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T163458Z">
+        <seg>トークナイザーをインストールするには、OmegaT.jar が配置されているフォルダー配下に「plugins」という名前のフォルダーを（まだ無ければ）作成し、そのフォルダー内にパッケージを解凍します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To remind yourself of the project's initial settings, open the Project Settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210058Z">
