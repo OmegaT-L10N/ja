@@ -1743,6 +1743,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T100350Z">
+        <seg>「//」から行末までは、すべて無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apertium</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140921Z">
@@ -3507,6 +3515,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160541Z">
         <seg>docs フォルダーの場所を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T100223Z">
+        <seg>空行も含めることができます。また「//」で始まる行はコメント行として扱われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7097,6 +7113,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T100625Z">
+        <seg>&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; ファイルを修正した場合は、新しいショートカット設定を反映させるために、忘れず &lt;a1&gt;OmegaT&lt;/a1&gt; を再起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target file, which will be created in the&lt;f1&gt; /target/&lt;/f1&gt;subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T204258Z">
@@ -9913,6 +9937,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T100131Z">
+        <seg>ショートカット定義ファイルには必ず &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; という名前を付け、ショートカット定義を少なくとも一行は記述しておく必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133752Z">
@@ -11392,6 +11424,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135002Z">
         <seg>現在プロジェクトが使用している辞書を削除しようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T095631Z">
+        <seg>OmegaT の個人設定フォルダー（詳しくは&lt;l0&gt;ユーザー設定ファイル&lt;/l0&gt;を参照のこと）にショートカット定義ファイルを配置することによって、既存のショートカットを変更したり、新しいショートカットを追加することができるようになります。</seg>
       </tuv>
     </tu>
     <tu>
