@@ -2503,6 +2503,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create the "plugins" folder first, if it does not exist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T064212Z">
+        <seg>もし「plugins」フォルダーが見当たらなければ、先にフォルダーを作成してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create translated documents</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031407Z">
@@ -5125,6 +5133,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation and Use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T063515Z">
+        <seg>インストールと使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="JA" changeid="masa_36">
@@ -5231,8 +5247,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN-US">
         <seg>It does not include spell checking.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062152Z">
-        <seg>しかし綴り確認機能は含みません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T063402Z">
+        <seg>綴り確認機能は含みません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6877,6 +6893,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T142521Z">
         <seg>OmegaT バージョン {0} アップデート {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once installed, the plugin will be used automatically by OmegaT, if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T064744Z">
+        <seg>これでインストールは完了です。&lt;g0&gt;［設定］→［言語チェッカー］&lt;/g0&gt;にチェックを入れておくと、OmegaT はプラグインを自動的に利用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9422,8 +9446,16 @@ current folder will be used instead.</seg>
       <tuv lang="EN-US">
         <seg>The LanguageTool in OmegaT</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062522Z">
-        <seg>LanguageTool in OmegaT</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T063500Z">
+        <seg>LanguageTool を OmegaT に組み込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LanguageTool plugin for OmegaT can be downloaded from the OmegaT plugins download site (&lt;u0&gt;http://sourceforge.net/projects/omegat-plugins/files/&lt;/u0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T063641Z">
+        <seg>OmegaT 用の LanguageTool プラグインは、OmegaT プラグインのダウンロードサイト（&lt;u0&gt;http://sourceforge.net/projects/omegat-plugins/files/&lt;/u0&gt;）から入手できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9541,6 +9573,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T170655Z">
         <seg>規則に基づく分節化は、たいていの場合、文単位の分節化を意味しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065025Z">
+        <seg>プロジェクトの原文と訳文の言語に応じて、規則が（もしあれば）適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10424,6 +10464,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T130015Z">
         <seg>バージョン {0} のプロジェクトファイルには対応していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unzip the files, and put them all in the "plugins" folder located in OmegaT installation folder, that is the folder that contains the OmegaT.jar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T064124Z">
+        <seg>Zip 圧縮ファイルを解凍して、展開されたすべてのファイルを「plugins」フォルダーに移動してください。「plugins」フォルダーは通常、OmegaT のインストール先フォルダー（OmegaT.jar ファイルを含む）の配下にあります。</seg>
       </tuv>
     </tu>
     <tu>
