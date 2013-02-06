@@ -9838,6 +9838,22 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T105304Z">
+        <seg>デフォルトの OmegaT のショートカット定義ファイルは Sourceforge から入手できます：&lt;u0&gt;デフォルトの OmegaT ショートカット&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T105619Z">
+        <seg>Mac 向けのデフォルトの OmegaT のショートカット定義ファイルも Sourceforge から入手できます。それらはすべて「ctrl」の代わりに「meta」を使用しています：&lt;u0&gt;デフォルトの Mac 向け OmegaT ショートカット&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dialog to create a project is the same as to edit the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T074159Z">
@@ -12278,6 +12294,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T105631Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>editExportSelectionMenuItem</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141350Z">
@@ -12946,6 +12970,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191635Z">
         <seg>http://groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat//branches/release-2-5/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T105240Z">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-5/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -14418,6 +14450,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141025Z">
         <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T105629Z">
+        <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
     </tu>
     <tu>
