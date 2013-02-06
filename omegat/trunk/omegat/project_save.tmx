@@ -1429,6 +1429,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Contributing to OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182533Z">
+        <seg>&lt;p0&gt;ウェブ上の OmegaT 情報&lt;/p0&gt; &lt;s1&gt;OmegaT へ貢献する&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Reporting bugs&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181546Z">
+        <seg>&lt;p0&gt;ウェブ上の OmegaT 情報&lt;/p0&gt; &lt;s1&gt;バグ報告&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;SourceForge Project&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T175647Z">
@@ -2297,6 +2313,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bug reports</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181550Z">
+        <seg>バグ報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bulgarian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204231Z">
@@ -2690,6 +2714,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T145730Z">
         <seg>接続済み。プロジェクトはチームプロジェクトモードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182435Z">
+        <seg>OmegaT プロジェクトに貢献する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5315,6 +5347,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182313Z">
+        <seg>報告するバグの経過を知りたいときは、SourceForge ユーザー登録後、ログインしてから報告するか、報告ページ上部の Monitor をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you wish to use the tokenizers with the Mac OS X OmegaT.app package, the tokenizer installation described above applies (right-click on OmegaT.app to find the location of OmegaT.jar), but you'll need to specify the tokenizer names in the &lt;f0&gt;info.plist &lt;/f0&gt;that contains the Java launch options.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T172835Z">
@@ -6725,6 +6765,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182033Z">
+        <seg>詳しくは、Joel Spolsky の&lt;a0&gt;『やさしいバグトラッキング（Painless Bug Tracking）』&lt;/a0&gt;（&lt;ulink url="http://japanese.joelonsoftware.com/Articles/PainlessBugTracking.html"&gt;日本語訳&lt;/ulink&gt;）を見てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most functions are also available via keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153811Z">
@@ -7041,6 +7089,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T183451Z">
         <seg>もちろん、リポジトリを完全な状態に維持するための、彼の注意深さと働きぶりは、言うまでもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182218Z">
+        <seg>バグ報告や機能改善の要望は公開されますので、機密を含むファイルは追加しないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8407,6 +8463,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember that every good bug report needs just three things:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181631Z">
+        <seg>良いバグ報告には、次の 3 点が含まれていることを覚えておいてください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T084951Z">
@@ -9616,6 +9680,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steps to reproduce</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181640Z">
+        <seg>再現するまでの手順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SubRip Subtitles Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174537Z">
@@ -10617,6 +10689,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To contribute to &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182548Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; に貢献するには：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T074849Z">
@@ -10637,6 +10717,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T035545Z">
         <seg>フィルター対象とするファイルやエンコーディングを変更する場合は［編集...］をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T183013Z">
+        <seg>&lt;a3&gt;OmegaT&lt;/a3&gt; の開発に協力したい場合は、開発者グループへ参加してください。ウェブから登録するか、または「subscribe」という件名のメールを &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; に送信してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10685,6 +10773,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T073310Z">
         <seg>まずプロジェクトを作成しましょう。プロジェクトには、原文ファイルをはじめ、翻訳メモリや用語集、そしていずれ生成するはずの訳文ファイルなど、すべてのファイルが保持されることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To translate &lt;a0&gt;OmegaT&lt;/a0&gt;'s user interface, user manual or other related documents:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T183149Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; のユーザーインターフェースや取扱説明書、その他関連文書を翻訳するには：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11659,6 +11755,22 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What you expected to see</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181644Z">
+        <seg>その操作によって期待される動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What you saw instead</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181710Z">
+        <seg>実際の動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whatever the inconsistencies, omissions and straightforward errors you may find in the present version, I declare them all my own.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T172014Z">
@@ -11939,6 +12051,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also file &lt;u6&gt;bug reports&lt;/u6&gt; and &lt;u7&gt;requests for enhancements.&lt;/u7&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181510Z">
+        <seg>&lt;u6&gt;バグ報告&lt;/u6&gt;や&lt;u7&gt;機能改善リクエスト&lt;/u7&gt;も行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T095631Z">
@@ -12032,6 +12152,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133200Z">
         <seg>JDK 1.6 を最新バージョンに更新するか、OmegaT の lib フォルダーから jaxb-*.jar ファイルを削除してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182206Z">
+        <seg>開発者がバグを発見し、修正するのに助けとなる情報を添付してください。たとえば、該当ファイルやログの一部、スクリーンショットなどです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13022,6 +13150,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182805Z">
+        <seg>まず&lt;u0&gt;ユーザーグループ&lt;/u0&gt;に参加してください（ウェブから登録するか、または &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt; 宛にメールを送信してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fj</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210126Z">
@@ -13390,6 +13526,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182552Z">
+        <seg>http://groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://groups.yahoo.com/group/omegat/</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191635Z">
@@ -13454,10 +13598,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181725Z">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://www.omegat.org/</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191633Z">
         <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T183305Z">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -14162,6 +14322,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>mah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182558Z">
+        <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182602Z">
+        <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T183309Z">
+        <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
       </tuv>
     </tu>
     <tu>
