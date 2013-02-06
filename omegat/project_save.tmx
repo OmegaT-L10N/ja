@@ -10804,6 +10804,22 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065430Z">
+        <seg>規則が適用されると、編集ウィンドウ上の対応する語句には青い下線が引かれます（上の画像の「&lt;e1&gt;also&lt;/e1&gt;」と「&lt;e2&gt;I didn't do nothing&lt;/e2&gt;」に注目してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065504Z">
+        <seg>下線が引かれた語句の上にマウスカーソルをかざすと、説明が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T135936Z">
