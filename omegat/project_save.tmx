@@ -1254,6 +1254,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055159Z">
+        <seg>&lt;p0&gt;プラグイン&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T091530Z">
@@ -1306,6 +1314,12 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130117T171927Z">
         <seg>&lt;r0&gt;注意：&lt;/r0&gt;Mac ユーザーは、&lt;k3&gt;Ctrl&lt;/k3&gt; キーを &lt;k1&gt;Cmd&lt;/k1&gt; (⌘ マークが付いているキー) または &lt;k2&gt;Apple&lt;/k2&gt; キー (りんごマークが付いているキー) に読み替えてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>URL 不正。バグ登録済み（https://sourceforge.net/tracker/?func=detail&amp;aid=3603510&amp;group_id=68187&amp;atid=912617）。</note>
+      <tuv lang="EN-US">
+        <seg>???</seg>
       </tuv>
     </tu>
     <tu>
@@ -5143,6 +5157,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055214Z">
+        <seg>はじめに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inuktitut</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T070510Z">
@@ -5540,6 +5562,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T172826Z">
         <seg>翻訳対変異の言語が指定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LanguageTool is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a lot of other languages - see the list of supported languages (&lt;u0&gt;http://www.languagetool.org/languages/&lt;/u0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T060506Z">
+        <seg>LanguageTool はオープンソースのスタイルと文法チェックツールです。英語、フランス語、ドイツ語、ポーランド語、オランダ語、ルーマニア語など数多くの言語に対応しています。完全な一覧は、&lt;u0&gt;http://www.languagetool.org/languages/&lt;/u0&gt; を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055208Z">
+        <seg>LanguageTool プラグイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -10931,6 +10969,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160351Z">
         <seg>詳細はこのファイルを参照してください：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T061003Z">
+        <seg>LanguageTool は、単純な綴り確認機能では検出できないような間違いを</seg>
       </tuv>
     </tu>
     <tu>
