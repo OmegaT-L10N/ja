@@ -1366,6 +1366,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094555Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;カスタマイズ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T092025Z">
@@ -1633,6 +1641,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153703Z">
         <seg>OmegaT のすべての機能は、編集ウィンドウ上部にあるメニューから実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T093247Z">
+        <seg>すべての言語から、プロジェクトを先頭のオブジェクトとする OmegaT のオブジェクトモデルにアクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,6 +2006,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204109Z">
         <seg>バスク語（Basque）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T093056Z">
+        <seg>Firefox（オープンソースの分野で普及し好まれているプログラミングツール）のような人気のあるプログラムで利用されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6398,6 +6422,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094658Z">
+        <seg>メインメニューに表示されるほとんどの項目には、新しいショートカットを割り当てることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160558Z">
@@ -7093,6 +7125,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T113150Z">
         <seg>(X)HTML ファイルにエンコーディング宣言がある場合のみ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the most commonly used menu items are assigned a shortcut by default.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094813Z">
+        <seg>既定では、最もよく使われると思われるメニュー項目にだけ、ショートカットが割り当てられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9759,6 +9799,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T093929Z">
+        <seg>次に示すコードスニペットは、現在のプロジェクトから全ファイルの全分節を簡易走査する groovy スクリプトです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T081756Z">
@@ -11991,6 +12039,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>currsegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094322Z">
+        <seg>currsegment = files[i].entries[j];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cv</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205523Z">
@@ -12239,6 +12295,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>else</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094327Z">
+        <seg>else</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210026Z">
@@ -12367,6 +12431,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094318Z">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fin</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210139Z">
@@ -12387,6 +12459,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210109Z">
         <seg>fo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094319Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094321Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -12859,6 +12947,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (project.getTranslationInfo(ste))</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094325Z">
+        <seg>if (project.getTranslationInfo(ste))</seg>
       </tuv>
     </tu>
     <tu>
@@ -14535,6 +14631,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>source = currsegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094323Z">
+        <seg>source = currsegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>spa</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -14683,6 +14787,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>target = null;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094328Z">
+        <seg>target = null;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>target = project.getTranslationInfo(currsegment).translation;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094326Z">
+        <seg>target = project.getTranslationInfo(currsegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15247,6 +15367,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094321Z">
+        <seg>{{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152353Z">
@@ -15259,6 +15387,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133954Z">
         <seg>{1} が {2} から実行されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094330Z">
+        <seg>}}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
