@@ -995,10 +995,36 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T045536Z">
+        <seg>&lt;e0&gt;任意の文字キー：&lt;/e0&gt;カーソルが編集中の分節の外側にある場合は、無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T183801Z">
         <seg>&lt;e0&gt;付録&lt;/e0&gt;は以下の情報を含みます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>実際の挙動と異なるため、バグ登録済み（https://sourceforge.net/tracker/?func=detail&amp;aid=3603484&amp;group_id=68187&amp;atid=912617）</note>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T044754Z">
+        <seg>&lt;e0&gt;Backspace：&lt;/e0&gt;何もしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>実際の挙動と異なるため、バグ登録済み（https://sourceforge.net/tracker/?func=detail&amp;aid=3603484&amp;group_id=68187&amp;atid=912617</note>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T044804Z">
+        <seg>&lt;e0&gt;Delete：&lt;/e0&gt;何もしません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9254,6 +9280,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T173544Z">
         <seg>Apple キーボードでは、「cmd」キーには「command」またはリンゴ マークが記されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T045912Z">
+        <seg>［Shift］キーは、特に機能を持ちません。［Shift］キーを押しながら</seg>
       </tuv>
     </tu>
     <tu>
