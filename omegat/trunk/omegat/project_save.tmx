@@ -4966,6 +4966,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In such a case the selection will of course be pared down to segment boundaries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055056Z">
+        <seg>そのような場合には、コマンド実行時点で、選択範囲が分節の境界まで縮小・調整されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt; &lt;g2&gt;New...&lt;/g2&gt; &lt;/m1&gt;&lt;i3/&gt; and type a name for your project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T073930Z">
@@ -9007,6 +9015,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160610Z">
         <seg>同期エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Windows では一部のショートカットキーが異なるため、バグ登録済み（https://sourceforge.net/tracker/?func=detail&amp;aid=3603509&amp;group_id=68187&amp;atid=912617）。</note>
+      <tuv lang="EN-US">
+        <seg>System-wide commands: Paste (&lt;e0&gt;Ctrl+V&lt;/e0&gt; or &lt;e1&gt;Ctrl+Insert&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt; or &lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on any selection, including those that extend beyond the current segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055005Z">
+        <seg>システム共通のコマンド：貼り付け（&lt;e0&gt;Ctrl+V&lt;/e0&gt; または &lt;e1&gt;Ctrl+Insert&lt;/e1&gt;）、切り取り（&lt;e2&gt;Ctrl+X&lt;/e2&gt; または &lt;e3&gt;Ctrl+C&lt;/e3&gt;）、参考訳文を挿入（&lt;e4&gt;Ctrl+I&lt;/e4&gt;）、原文を挿入（&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;）は、原理的に選択範囲が現在の分節を越える状態で実行されることもありえます。</seg>
       </tuv>
     </tu>
     <tu>
