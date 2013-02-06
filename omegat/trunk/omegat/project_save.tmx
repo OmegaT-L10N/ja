@@ -1515,6 +1515,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T154042Z">
+        <seg>英語用のステマー（訳注：単語から接尾辞などを取り除く処理をステミングと呼ぶことから）を例にとってみましょう。「cats」という文字列（「catlike」や「catty」でもよいですが）は、「cat」を語幹としています。同様に「stemmer」や「stemming」、「stemmed」は「stem」を語幹としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T154347Z">
+        <seg>ステミングのアルゴリズムは「fishing」や「fished」、「fish」、「fisher」などの単語を、語幹の「fish」という単語に収斂します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143044Z">
@@ -10273,6 +10289,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They also improve glossary matching.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T152656Z">
+        <seg>また用語集の照合精度も改善します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are not protected, so that you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T202039Z">
@@ -10461,6 +10485,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T114301Z">
         <seg>トークナイザー プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T152625Z">
+        <seg>トークナイザー（またはステマー）は、原文および翻訳メモリデータ内の単語の語尾変化を認識することによって、参考訳文の照合精度を改善します。</seg>
       </tuv>
     </tu>
     <tu>
