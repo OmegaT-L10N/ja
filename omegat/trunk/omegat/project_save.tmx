@@ -1509,6 +1509,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Segments with alternative translation&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T183421Z">
+        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;翻訳入力行&lt;/s1&gt; &lt;t2&gt;新しい訳文が入力された分節&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Translation equal to source&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175637Z">
@@ -5060,6 +5068,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153512Z">
         <seg>用語集ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T183330Z">
+        <seg>既定値訳文と違う新しい訳文がある場合［次の未翻訳分節］でその訳文へ移動する</seg>
       </tuv>
     </tu>
     <tu>
@@ -9455,6 +9471,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T183229Z">
+        <seg>詳しくは『&lt;u0&gt;OmegaT テキスト出力機能を使う&lt;/u0&gt;』（英語）を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapter 7: File Filters in the User Manual for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T205235Z">
@@ -10597,6 +10621,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182351Z">
+        <seg>ファイルの内容は、新しい分節に移動するタイミング（source.txt と target.txt）または新しい選択領域を出力するタイミング（selection.txt）で上書きされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181848Z">
@@ -10706,6 +10738,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181733Z">
         <seg>ファイルは OmegaT の個人設定フォルダー配下の script フォルダーに作成されます。内容は、次の通りです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The files are unformatted plain text files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182452Z">
+        <seg>ファイル形式は、整形されないプレーンテキストファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10952,6 +10992,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl-Shift-C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182207Z">
+        <seg>&lt;k0&gt;Ctrl-Shift-C&lt;/k0&gt; キーを押すか、またはメニュー&lt;g1&gt;［編集］→［選択領域を出力］&lt;/g1&gt;を選んだ時点で選択されているテキスト（&lt;f2&gt;selection.txt&lt;/f2&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tokenizer names are given in the Readme.txt file distributed with the tokenizer files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170233Z">
@@ -10972,6 +11020,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153426Z">
         <seg>OmegaT のユーザーインターフェイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182847Z">
+        <seg>このプロセス全体を、Tck/Tcl ベースのスクリプトを介して操作・制御することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14306,6 +14362,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T183305Z">
         <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182212Z">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
     </tu>
     <tu>
