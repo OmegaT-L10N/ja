@@ -1485,6 +1485,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Inserting fuzzy matches&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T171744Z">
+        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;翻訳入力行&lt;/s1&gt; &lt;t2&gt;参考訳文の挿入&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T073203Z">
@@ -3928,8 +3936,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Enable them in &lt;b&gt;Options &gt; Save...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T023749Z">
-        <seg>&lt;b&gt;設定メニューの「保存」&lt;/b&gt;から有効にできます。&lt;/html&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T170320Z">
+        <seg>&lt;b&gt;［設定］→［保存と訳文ファイル生成］&lt;/b&gt;から有効にできます。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12439,6 +12447,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153342Z">
         <seg>ヨルバ語（Yoruba）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T171617Z">
+        <seg>これは &lt;g4&gt;Ctrl+A&lt;/g4&gt; と &lt;g4&gt;Del&lt;/g4&gt; キーの組み合わせで翻訳入力行をクリアするのと、同じことです。</seg>
       </tuv>
     </tu>
     <tu>
