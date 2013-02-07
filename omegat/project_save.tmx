@@ -1477,6 +1477,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Converting numbers&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173238Z">
+        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;翻訳入力行&lt;/s1&gt; &lt;t2&gt;数値の変更&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090406Z">
@@ -2140,6 +2148,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T123301Z">
+        <seg>参考訳文挿入の場合は数値を変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173258Z">
         <seg>参考訳文挿入の場合は数値を変更する</seg>
       </tuv>
     </tu>
@@ -5491,6 +5507,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173404Z">
+        <seg>この設定にチェックを入れると</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173023Z">
+        <seg>何らかの文字列（たとえば [参考] のような）を先頭に付加しておくと、参考訳文が適切かどうか後で確認する際に、自動挿入以外の訳文と区別しやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T101331Z">
@@ -5807,6 +5839,14 @@ their defaults as a result of the location change.</seg>
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122608Z">
+        <seg>最も一致率の高い参考訳文を自動で挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert the best fuzzy match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T171821Z">
         <seg>最も一致率の高い参考訳文を自動で挿入</seg>
       </tuv>
     </tu>
@@ -7545,6 +7585,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T082053Z">
         <seg>OmegaT の特徴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T171946Z">
+        <seg>OmegaT はその原文に最も近い参考訳文を自動挿入します。挿入するかどうかの一致率のしきい値（最小一致率）は、このダイアログで変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10468,6 +10516,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173125Z">
+        <seg>ダイアログの下半分に並んでいるチェックボックスは、次の目的で用いられます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -10660,6 +10716,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165207Z">
         <seg>利用できるキーイベント（キー）の一覧は、Oracle による次の Java 1.6 技術文書を参照してください：&lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T172520Z">
+        <seg>先頭に付加する文字列（デフォルトでは何も付加しません）は、訳文が参考訳文の自動挿入によるものであることを示す目印に利用することができます。</seg>
       </tuv>
     </tu>
     <tu>
