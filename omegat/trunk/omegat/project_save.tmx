@@ -1493,6 +1493,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Exporting the current segment&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T180816Z">
+        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;翻訳入力行&lt;/s1&gt; &lt;t2&gt;現在分節を出力&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Inserting fuzzy matches&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T171744Z">
@@ -7629,6 +7637,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT is able to recognize that you have done this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T180621Z">
+        <seg>OmegaT にはそこを翻訳したものとして記憶させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
 your home folder.</seg>
@@ -10550,8 +10566,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN-US">
         <seg>The alternative is to enter a translation that is identical to the source text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T180043Z">
-        <seg>もう 1 つの方法として、原文とまったく同じでも、OmegaT にはそこを翻訳したものとして記憶させることができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T180211Z">
+        <seg>もう 1 つの方法として、原文とまったく同じ訳文を入力することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10581,11 +10597,35 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181848Z">
+        <seg>編集中の分節の原文テキスト（&lt;f0&gt;source.txt&lt;/f0&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The content of the segment target text (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181905Z">
+        <seg>編集中の分節の訳文テキスト（&lt;f0&gt;target.txt&lt;/f0&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134303Z">
         <seg>カレントフォルダーを代わりに使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The data are exported when the segment is opened.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181609Z">
+        <seg>データは、分節に移動したタイミングで出力されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10658,6 +10698,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T091112Z">
         <seg>同じポップアップメニューに表示される「&lt;e3&gt;訳文を削除&lt;/e3&gt;」という項目を選ぶと、現在の分節に入力済みの訳文を削除することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181733Z">
+        <seg>ファイルは OmegaT の個人設定フォルダー配下の script フォルダーに作成されます。内容は、次の通りです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10892,6 +10940,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205810Z">
         <seg>以下で「分節内に移動します」という説明が出てきた場合は、カーソルが分節よりも前にあれば、分節の先頭に移動することを、カーソルが分節の後にあれば、分節の末尾に移動することを指しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181541Z">
+        <seg>テキスト出力機能は、現在作業中の &lt;a0&gt;OmegaT&lt;/a0&gt; プロジェクトのデータをプレーンテキストファイルに出力するものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11269,6 +11325,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173808Z">
         <seg>指定したトークナイザーが本当に使われているかどうかを確認するには、プロジェクトを開き、コンソール ウィンドウに出力されるログをチェックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make this possible, go to &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; and check the box &lt;e3&gt;Allow translation to be equal to source&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T180738Z">
+        <seg>そうする場合は、 &lt;m0&gt;&lt;g1&gt;［設定］&lt;/g1&gt; &lt;g2&gt;［翻訳入力行...］&lt;/g2&gt;&lt;/m0&gt;でで表示される画面の&lt;e3&gt;［原文と同じ訳文を許可］&lt;/e3&gt;をチェックしてください。</seg>
       </tuv>
     </tu>
     <tu>
