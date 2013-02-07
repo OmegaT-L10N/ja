@@ -1663,8 +1663,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;shortcut&gt; must be of the following form:0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T102814Z">
-        <seg>&lt;shortcut&gt; は次の形式に従います：0 個以上の &lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt;、続いて 0 個または 1 個の &lt;c1&gt;&lt;イベント&gt;&lt;/c1&gt;、続いて 1 個の &lt;c2&gt;&lt;キー&gt;&lt;/c2&gt;。ただし：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165131Z">
+        <seg>&lt;ショートカット&gt; は次の形式に従います：0 個以上の &lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt;、続いて 0 個または 1 個の &lt;c1&gt;&lt;イベント&gt;&lt;/c1&gt;、続いて 1 個の &lt;c2&gt;&lt;キー&gt;&lt;/c2&gt;。ただし：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5525,8 +5525,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN-US">
         <seg>If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T211508Z">
-        <seg>翻訳メモリファイルをプロジェクトの &lt;filename&gt;tm&lt;/filename&gt; フォルダー内に配置しておくと、OmegaT はそこから「参考訳文」と呼ばれる類似分節を自動的に検索するようになります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165604Z">
+        <seg>翻訳メモリファイルをプロジェクトの tm フォルダー内に配置しておくと、OmegaT はそこから「参考訳文」と呼ばれる類似分節を自動的に検索するようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7007,8 +7007,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182033Z">
-        <seg>詳しくは、Joel Spolsky の&lt;a0&gt;『やさしいバグトラッキング（Painless Bug Tracking）』&lt;/a0&gt;（&lt;ulink url="http://japanese.joelonsoftware.com/Articles/PainlessBugTracking.html"&gt;日本語訳&lt;/ulink&gt;）を見てください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165540Z">
+        <seg>詳しくは、Joel Spolsky の&lt;a0&gt;『やさしいバグトラッキング（Painless Bug Tracking）』&lt;/a0&gt;（日本語訳は http://japanese.joelonsoftware.com/Articles/PainlessBugTracking.html）を見てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10520,8 +10520,8 @@ instead.</seg>
       <tuv lang="EN-US">
         <seg>The documentation is Copyright ©2012 Vito Smolej.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070850Z">
-        <seg>&lt;emphasis&gt;「5 分でわかる！ OmegaT の使い方」&lt;/emphasis&gt;以外の文書は ©2012 Vito Smolej の著作物です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T164859Z">
+        <seg>「5 分でわかる！ OmegaT の使い方」以外の文書は ©2012 Vito Smolej の著作物です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10584,8 +10584,8 @@ instead.</seg>
       <tuv lang="EN-US">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T102047Z">
-        <seg>キーストローク（ショートカット）の完全な構文定義は、Oracle による次の Java 1.6 技術文書（ページの最後）を参照してください：&lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;（&lt;ulink url="http://docs.oracle.com/javase/jp/6/api/javax/swing/KeyStroke.html"&gt;日本語&lt;/ulink&gt;）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165031Z">
+        <seg>キーストローク（ショートカット）の完全な構文定義は、Oracle による次の Java 1.6 技術文書（ページの最後）を参照してください：&lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10650,8 +10650,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN-US">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104135Z">
-        <seg>利用できるキーイベント（キー）の一覧は、Oracle による次の Java 1.6 技術文書を参照してください：&lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;（&lt;ulink url="http://docs.oracle.com/javase/jp/6/api/java/awt/event/KeyEvent.html"&gt;日本語&lt;/ulink&gt;）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165207Z">
+        <seg>利用できるキーイベント（キー）の一覧は、Oracle による次の Java 1.6 技術文書を参照してください：&lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13944,16 +13944,16 @@ create its configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103416Z">
-        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165158Z">
+        <seg>http://docs.oracle.com/javase/jp/6/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T101057Z">
-        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T164934Z">
+        <seg>http://docs.oracle.com/javase/jp/6/api/javax/swing/KeyStroke.html</seg>
       </tuv>
     </tu>
     <tu>
