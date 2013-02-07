@@ -5563,6 +5563,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt; Go To Next Untranslated Segment&lt;/e0&gt;stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T185012Z">
+        <seg>たとえば同一の原文に対して、いくつかの異なる訳文が対応する場合があります。このような分節が存在していて、翻訳を慎重に進めたい場合は、このチェックボックスにチェックを入れてください。&lt;e0&gt;［次の未翻訳分節］&lt;/e0&gt;で分節を移動するときに、翻訳済みか未翻訳かに関わらず、このような複数訳文に該当する分節で止まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173023Z">
