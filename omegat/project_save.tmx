@@ -986,6 +986,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090437Z">
+        <seg>&lt;/e1&gt;この状態で、空訳文として残すこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T175646Z">
@@ -1389,6 +1397,62 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014350Z">
+        <seg>&lt;p0&gt;辞書&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Downloading and installing&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T010024Z">
+        <seg>&lt;p0&gt;辞書&lt;/p0&gt; &lt;s1&gt;ダウンロードとインストール&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014340Z">
+        <seg>&lt;p0&gt;辞書&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;Dictionaries&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T015008Z">
+        <seg>&lt;p0&gt;辞書&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;辞書&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Problems with&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T015310Z">
+        <seg>&lt;p0&gt;辞書&lt;/p0&gt; &lt;s1&gt;トラブルシューティング&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict, FreeDict&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T010308Z">
+        <seg>&lt;p0&gt;辞書&lt;/p0&gt; &lt;s1&gt;StarDict, FreeDict&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014325Z">
+        <seg>&lt;p0&gt;辞書&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070949Z">
@@ -1413,10 +1477,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090406Z">
+        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;翻訳入力行&lt;/s1&gt; &lt;t2&gt;空訳文&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T073203Z">
         <seg>&lt;p0&gt;プロジェクトメニュー&lt;/p0&gt; &lt;s1&gt;新規作成...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T080333Z">
+        <seg>&lt;p0&gt;メニュー&lt;/p0&gt; &lt;s1&gt;設定&lt;/s1&gt; &lt;t2&gt;翻訳入力行...&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1529,6 +1609,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094555Z">
         <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;カスタマイズ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T065610Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;プロジェクト設定 - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2529,10 +2617,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T072350Z">
+        <seg>メニュー&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;［プロジェクト］&lt;/g6&gt; &lt;g7&gt;［プロジェクト設定...］&lt;/g7&gt;&lt;/m0&gt;で、辞書フォルダーの場所を確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131143Z">
         <seg>Java の簡単な MessageFormat 構図（{0} など）を確認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T071925Z">
+        <seg>プロジェクト設定で指定したフォルダー（もしくはそのサブフォルダー）中に、辞書ファイルが存在しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -3294,6 +3398,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StartDict Platform.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T060508Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は、StarDict ファイル形式の辞書に対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T132114Z">
@@ -3558,6 +3670,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Does the folder contain three files of the same name, with extensions ?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T072524Z">
+        <seg>そのフォルダには、（拡張子違いで）同じ名前のファイルが三つ存在していますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DokuWiki Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174546Z">
@@ -3570,6 +3690,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154012Z">
         <seg>チームプロジェクトをダウンロード...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T061053Z">
+        <seg>辞書ファイルをダウンロードします。これは &lt;f0&gt;TAR アーカイブ&lt;/f0&gt;（拡張子 &lt;e1&gt;tar.bz&lt;/e1&gt; または &lt;e2&gt;tar.bz2&lt;/e2&gt;）である必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3745,6 +3873,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
         <seg>Editing Behaviour Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122355Z">
+        <seg>翻訳入力行の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing behavior</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T080335Z">
+        <seg>翻訳入力行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing behavior options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T084000Z">
         <seg>翻訳入力行の設定</seg>
       </tuv>
     </tu>
@@ -5137,6 +5281,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T005946Z">
+        <seg>辞書のダウンロードとインストール方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated file might fail to open.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T202949Z">
@@ -5273,12 +5425,28 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T072849Z">
+        <seg>&lt;e0&gt;tar.bz&lt;/e0&gt; か &lt;e0&gt;tar.bz2&lt;/e0&gt;だったら、圧縮ファイルを展開し忘れています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133840Z">
         <seg>指定した場所は、そこへアクセスできるようになった後に使用されます。その際、設定はすべて初期値があらためて使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T072606Z">
+        <seg>もし一つしか見当たらなければ、拡張子を確認してみましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5455,6 +5623,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154026Z">
         <seg>原文ファイルを追加...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085046Z">
+        <seg>&lt;m0&gt;&lt;g1&gt;［設定］&lt;/g1&gt;&lt;g2&gt;［翻訳入力行...］&lt;/g2&gt;&lt;/m0&gt;から、以下の設定ができます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6221,6 +6397,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085957Z">
+        <seg>原文を挿入しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T203316Z">
@@ -6345,6 +6529,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165627Z">
         <seg>場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014343Z">
+        <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
     </tu>
     <tu>
@@ -6721,6 +6913,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153616Z">
         <seg>メニューとキーボードショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T071514Z">
+        <seg>Merriam Webster 10th dictionary - 使用中の様子</seg>
       </tuv>
     </tu>
     <tu>
@@ -7141,6 +7341,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T062310Z">
+        <seg>利用できるのは、対訳形式の辞書に限りません。この辞書機能を使って、多種多様な情報を参照できます。たとえば：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122240Z">
@@ -7356,6 +7564,14 @@ your home folder.</seg>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175229Z">
         <seg>
 OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT leaves the editing field blank.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085929Z">
+        <seg>OmegaT は翻訳入力行を空欄にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8027,6 +8243,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160807Z">
         <seg>プロジェクトのファイルを読み込む際に問題が発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T015634Z">
+        <seg>辞書に関するトラブルシューティング</seg>
       </tuv>
     </tu>
     <tu>
@@ -9047,6 +9271,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StartDict Platform&lt;/u0&gt; above or on &lt;u2&gt;FreeDict&lt;/u2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T060813Z">
+        <seg>必要な言語の組み合わせの辞書を探します。辞書を提供している場所には、たとえば上記の &lt;u0&gt;&lt;i1/&gt;StarDict&lt;/u0&gt;や &lt;u2&gt;FreeDict&lt;/u2&gt; などがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search for:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165544Z">
@@ -9516,6 +9748,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T151914Z">
         <seg>ソマリ語（Somali）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T065506Z">
+        <seg>辞書の中には文書が何も付属していないものがありますが、これは自由に使用できます。一方、上記に挙げたような辞書は GPL ライセンスに従います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10139,6 +10379,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014351Z">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LanguageTool in OmegaT</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T063500Z">
@@ -10246,6 +10494,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T083722Z">
+        <seg>&lt;m0&gt;&lt;g1&gt;［設定］&lt;/g1&gt;&lt;g2&gt;［翻訳入力行...］&lt;/g2&gt;&lt;/m0&gt;を選ぶと表示されるダイアログで、未翻訳の分節に移動した場合の翻訳入力行の初期値や、訳文の処理方法などを設定することができます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dialog to create a project is the same as to edit the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T074159Z">
@@ -10286,6 +10542,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T091112Z">
+        <seg>同じポップアップメニューに表示される「&lt;e3&gt;訳文を削除&lt;/e3&gt;」という項目を選ぶと、現在の分節に入力済みの訳文を削除することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111034Z">
@@ -10298,6 +10562,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T093929Z">
         <seg>次に示すコードスニペットは、現在のプロジェクトから全ファイルの全分節を簡易走査する groovy スクリプトです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014939Z">
+        <seg>以下は、Merriam Webster 10th dictionary を実際に参照している様子です：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10456,6 +10728,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The source text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085230Z">
+        <seg>原文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The syntax is as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170024Z">
@@ -10536,6 +10816,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T061330Z">
+        <seg>展開すると、拡張子が &lt;e1&gt;dz&lt;/e1&gt;、&lt;e1&gt;idx &lt;/e1&gt;、&lt;s1&gt;ifo&lt;/s1&gt; の三つのファイルができるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, press &lt;k0&gt;Ctrl+T&lt;/k0&gt; before you generate your translated file, to validate that your tags are correct.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T203859Z">
@@ -10581,6 +10869,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T152656Z">
         <seg>また用語集の照合精度も改善します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T092947Z">
+        <seg>このような訳文は、未翻訳分節と区別するために、編集ウィンドウ上では &lt;空訳文&gt; と表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10657,10 +10953,26 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085507Z">
+        <seg>商標や固有名詞など、あえて翻訳しない部分を多く含んでいるような文書の場合に非常に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T182524Z">
         <seg>この取扱説明書は、多くの人たちからの助けと支え無しには、存在し得ませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090222Z">
+        <seg>翻訳入力の前に、原文を削除するキー入力の手間（つまり &lt;e0&gt;Ctrl+A&lt;/e0&gt; と &lt;e0&gt;Del&lt;/e0&gt;）が省けます。&lt;e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10737,6 +11049,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090835Z">
+        <seg>空訳文に設定するには、分節を右クリックして「&lt;e2&gt;訳文を&lt;空訳文&gt;にする&lt;/e2&gt;」を選びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T074849Z">
@@ -10765,6 +11085,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T183013Z">
         <seg>&lt;a3&gt;OmegaT&lt;/a3&gt; の開発に協力したい場合は、開発者グループへ参加してください。ウェブから登録するか、または「subscribe」という件名のメールを &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; に送信してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To install the necessary files, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T055018Z">
+        <seg>辞書は、次の手順でインストールしてください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11531,6 +11859,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T061226Z">
+        <seg>untar コマンド（Windows であれば、たとえば &lt;f0&gt;WinRAR&lt;/f0&gt; などのユーティリティ）で、そのファイルを展開します。展開先は、プロジェクトフォルダー配下の「dictionary」フォルダーの中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User Group&lt;/u3&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T180952Z">
@@ -11787,6 +12123,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014330Z">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welsh</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152612Z">
@@ -11839,6 +12183,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065504Z">
         <seg>下線が引かれた語句の上にマウスカーソルをかざすと、説明が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T084219Z">
+        <seg>分節を移動したときは、参考訳文を挿入することもできますし、原文のままにしておくこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12156,6 +12508,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can have the source text inserted automatically into the editing field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085446Z">
+        <seg>翻訳入力行に、対応する原文を入力した状態にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 5).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T081458Z">
@@ -12217,6 +12577,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165019Z">
         <seg>新しい場所を指定するか、再作成してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You translate your files by moving from segment to segment, editing each current segment in turn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T084143Z">
+        <seg>翻訳作業は、分節間を行き来しながら、分節を編集することで進めていきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13110,6 +13478,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014401Z">
+        <seg>…などです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>eu</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204109Z">
@@ -13638,6 +14014,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://stardict.sourceforge.net/index.php</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T010242Z">
+        <seg>http://stardict.sourceforge.net/index.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212932Z">
@@ -13650,6 +14034,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191835Z">
         <seg>http://tech.groups.yahoo.com/group/omegat/database?method=reportRows&amp;amp;tbl=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.freedict.org/en/list.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T010524Z">
+        <seg>http://www.freedict.org/en/list.html</seg>
       </tuv>
     </tu>
     <tu>
