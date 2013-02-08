@@ -2201,6 +2201,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As this is the standard behavior for PO files, it is on by default.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T071220Z">
+        <seg>PO ファイルの場合はこれが一般的な状態ですので、デフォルトで有効になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203806Z">
@@ -10621,6 +10629,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142145Z">
         <seg>チーム...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T071123Z">
+        <seg>技術的な話をすると、PO ターゲットファイルの &lt;c0&gt;msgstr&lt;/c0&gt; 分節が空のままになる、ということです。</seg>
       </tuv>
     </tu>
     <tu>
