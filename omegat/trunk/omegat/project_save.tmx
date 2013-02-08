@@ -5739,6 +5739,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this option is selected, the first translated case for plurals will be propagated through the alternatives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T173518Z">
+        <seg>この設定にチェックを入れると、複数形用の分節が必要に応じて追加され、追加された分節には自動的に最初の訳文が（あれば）複製されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt; Go To Next Untranslated Segment&lt;/e0&gt;stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T185012Z">
