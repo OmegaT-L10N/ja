@@ -1148,6 +1148,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T183743Z">
+        <seg>&lt;e0&gt;&lt;meta&gt; タグ内の以下の属性と値は翻訳しない（カンマ区切りで複数指定）：&lt;/e0&gt;ここで指定した &lt;e0&gt;&lt;meta&gt;&lt;/e0&gt; タグは、翻訳されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T184145Z">
+        <seg>&lt;e0&gt;以下の属性と値を持つタグの内容は翻訳しない（カンマ区切りで複数指定）&lt;/e0&gt;：ここでキー＝値の形式で指定したタグは、翻訳されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031021Z">
@@ -1281,6 +1297,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T184808Z">
         <seg>&lt;e0&gt;ショートカットのカスタマイズ：&lt;/e0&gt;ショートカットをあなた好みにカスタマイズしましょう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T182603Z">
+        <seg>&lt;e0&gt;以下の正規表現に一致する文字列を翻訳しない：&lt;/e0&gt;指定した正規表現に一致するテキストは、翻訳対象とせずスキップすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,6 +6332,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is shown rendered red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T182925Z">
+        <seg>スキップした箇所は、タグ検証では赤く表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is sometimes useful to be able make some tags untranslatable based on the value of attributes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T184415Z">
+        <seg>この設定は、ある属性の値に応じてタグを翻訳しないようにするのに、役に立つことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122349Z">
@@ -10789,6 +10829,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121817Z">
         <seg>テキストファイルの分節化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text in source segment that matches is shown in italic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T183352Z">
+        <seg>参考訳文ウィンドウでは、スキップした箇所が原文分節にあると、そのテキストは斜体で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
