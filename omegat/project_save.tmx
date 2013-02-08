@@ -2203,8 +2203,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN-US">
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T071220Z">
-        <seg>PO ファイルの場合はこれが一般的な状態ですので、デフォルトで有効になっています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T084743Z">
+        <seg>PO ファイルの場合はこれが一般的な状態ですので、この設定はデフォルトで有効になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2284,6 +2284,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121205T111802Z">
+        <seg>ヘッダーの「nplurals=整数; plural=式;」を自動で置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T085058Z">
         <seg>ヘッダーの「nplurals=整数; plural=式;」を自動で置換</seg>
       </tuv>
     </tu>
@@ -5683,6 +5691,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the option is off, the source text will be copied to the target segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T084905Z">
+        <seg>この設定を無効にすると、原文が訳文分節にコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tokenizers are not properly launched, the log will look like this:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T174611Z">
@@ -8280,6 +8296,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PO header will be skipped and left unchanged, if this option is not checked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T085308Z">
+        <seg>この設定にチェックを入れると、PO ヘッダーを無視して未変更のままにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160530Z">
@@ -10080,6 +10104,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T084913Z">
+        <seg>PO ヘッダーを無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105610Z">
@@ -10635,8 +10667,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T071123Z">
-        <seg>技術的な話をすると、PO ターゲットファイルの &lt;c0&gt;msgstr&lt;/c0&gt; 分節が空のままになる、ということです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T084727Z">
+        <seg>もう少し技術的に立ち入った話をすると、PO 訳文ファイルの &lt;c0&gt;msgstr&lt;/c0&gt; 分節が空のままになる、ということです。</seg>
       </tuv>
     </tu>
     <tu>
