@@ -986,6 +986,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T181757Z">
+        <seg>&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090437Z">
@@ -1277,6 +1285,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Start a new paragraph on: the &lt;br&gt;&lt;/e0&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T182454Z">
+        <seg>&lt;e0&gt;以下のタグで分節化：&lt;/e0&gt; HTML の &lt;e0&gt;&lt;br&gt;&lt;/e0&gt; タグがある場所を段落とみなして分節化することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T092829Z">
@@ -1289,6 +1305,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T180430Z">
         <seg>&lt;e0&gt;ユーザーインターフェース&lt;/e0&gt;、&lt;e1&gt;メインメニューとキーボードショートカット：&lt;/e1&gt;この二つの章は、OmegaT のユーザーインターフェースおよび、メインメニューとキーボードショートカットから利用できる機能について、説明しています。おそらく頻繁に参照されるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T181957Z">
+        <seg>&lt;e0&gt;以下の属性を翻訳：&lt;/e0&gt;選択した属性を編集ウィンドウで分節として表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1935,6 +1959,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105604Z">
         <seg>以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files: &lt;e0&gt;frequently the target files must have the encoding character set different from the one in the the source file (be it explicitely defined or implied).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T180943Z">
+        <seg>以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更：&lt;e0&gt;訳文ファイルのエンコーディング文字セットを、原文ファイルのそれ（明示的に指定されたものであれ、暗黙に適用されたものであれ）とは違うものにしたいということは、よくあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4988,6 +5020,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104741Z">
         <seg>例として、OmegaT のデフォルトのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T181755Z">
+        <seg>たとえば、ファイルフィルターで訳文ファイルのエンコーディングが UTF-8 に指定されている場合、この設定によって、訳文ファイルに必ずその情報を含めるようにすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12575,6 +12615,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130808Z">
         <seg>ユーザー名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T181131Z">
+        <seg>この設定を使うと、訳文ファイルにエンコーディング宣言を含めるかどうかを指定できます。</seg>
       </tuv>
     </tu>
     <tu>
