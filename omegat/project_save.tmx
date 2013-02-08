@@ -1098,6 +1098,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T190314Z">
+        <seg>&lt;e0&gt;タグを結合&lt;/e0&gt;：チェックが入っていれば、翻訳対象テキストを含まない連続するタグを１つのタグに結合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T044027Z">
@@ -1176,6 +1184,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T211448Z">
         <seg>&lt;e0&gt;End：&lt;/e0&gt;編集中の分節の末尾に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185757Z">
+        <seg>&lt;e0&gt;Excel：&lt;/e0&gt;コメント、シート名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Global:&lt;/e0&gt; charts, diagrams, drawings, WordArt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185918Z">
+        <seg>&lt;e0&gt;共通：&lt;/e0&gt;表、ダイアグラム、図、ワードアート</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,6 +1288,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T184047Z">
         <seg>&lt;e0&gt;ウェブ上の OmegaT 情報：&lt;/e0&gt;OmegaT のオンライン リソースに関する情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185835Z">
+        <seg>&lt;e0&gt;Power Point：&lt;/e0&gt;スライドのコメント、スライド マスター、スライド レイアウト</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,6 +1401,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T031606Z">
         <seg>&lt;e0&gt;警告：&lt;/e0&gt;プロジェクトを開いているときにフィルター設定を変更すると、変更を適用するためにプロジェクトの再読み込みが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185735Z">
+        <seg>&lt;e0&gt;Word：&lt;/e0&gt;非表示の命令とテキスト、コメント、脚注、文末脚注、ヘッダー、フッター</seg>
       </tuv>
     </tu>
     <tu>
@@ -5032,6 +5072,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T184619Z">
+        <seg>たとえば、&lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; のようなタグは、キー＝値の形式で指定して翻訳対象外に設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if you wish to use the Lucene CJK tokenizer in source and the Lucene French tokenizer in target, your command will look like this:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170359Z">
@@ -5084,6 +5132,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065919Z">
         <seg>付属する文書について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T184858Z">
+        <seg>この例の場合、設定欄は次のようになります：&lt;l1&gt;class=hide, translate=no&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7305,6 +7361,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T071514Z">
         <seg>Merriam Webster 10th dictionary - 使用中の様子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185125Z">
+        <seg>Microsoft Office Open XML ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -11577,6 +11641,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185427Z">
+        <seg>選んだ要素は、翻訳時に個別の分節として表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's five place holders available for scripts.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073907Z">
@@ -13296,6 +13368,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085446Z">
         <seg>翻訳入力行に、対応する原文を入力した状態にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185211Z">
+        <seg>どの要素を翻訳するか、選ぶことができます。</seg>
       </tuv>
     </tu>
     <tu>
