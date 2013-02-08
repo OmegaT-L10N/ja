@@ -1299,6 +1299,14 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e., spaces and newlines) will be preserved, even if not set technically in the document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T191704Z">
+        <seg>&lt;e0&gt;すべてのタグの空白を維持&lt;/e0&gt;：チェックが入っていれば、空白文字（半角スペースや改行など）を保持します。たとえそれが技術的には意味が無い場合でも、残します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>「OmegaT 日本語版翻訳におけるスタイルガイド」（https://code.google.com/p/omegat-jp/wiki/Localization_Style_Guide#%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%83%BC%EF%BC%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%EF%BC%89%E3%81%AE%E8%A8%98%E8%BF%B0%EF%BC%9A%E3%81%9D%E3%81%AE1）参照</note>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Directories:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
