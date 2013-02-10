@@ -11238,6 +11238,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dialog is useful because it includes a special target filename pattern editor with which you can customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T103216Z">
+        <seg>このダイアログは、訳文ファイル名の構成例編集に特化したエディターを持っているため、出力するファイル名のカスタマイズに便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dialog to create a project is the same as to edit the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T074159Z">
@@ -11452,6 +11460,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065025Z">
         <seg>プロジェクトの原文と訳文の言語に応じて、規則が（もしあれば）適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T102451Z">
+        <seg>構成例の追加と編集には、同じダイアログを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11753,6 +11769,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T101908Z">
+        <seg>このダイアログでは、フィルターで処理する原文ファイル名の構成例の指定、訳文ファイル名のカスタマイズ、読み込む原文ファイルと生成する訳文ファイルのエンコーディングを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This dialog lists available file filters.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T035024Z">
@@ -11965,6 +11989,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T180738Z">
         <seg>そうする場合は、 &lt;m0&gt;&lt;g1&gt;［設定］&lt;/g1&gt; &lt;g2&gt;［翻訳入力行...］&lt;/g2&gt;&lt;/m0&gt;でで表示される画面の&lt;e3&gt;［原文と同じ訳文を許可］&lt;/e3&gt;をチェックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T102433Z">
+        <seg>ファイルフィルター構成例を編集するには、それぞれの欄をダブルクリックして直接修正するか、&lt;e0&gt;編集&lt;/e0&gt;ボタンをクリックします。新しいファイルフィルター構成例を追加するには&lt;e1&gt;追加&lt;/e1&gt;ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
