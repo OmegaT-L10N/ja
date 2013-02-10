@@ -1541,6 +1541,46 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153843Z">
+        <seg>&lt;l0&gt;${extension}&lt;/l0&gt; -- 原文ファイルの拡張子のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153530Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt; -- 拡張子なしの原文ファイル名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153838Z">
+        <seg>&lt;c0&gt;${targetLanguageCode}&lt;/c0&gt; -- 訳文の言語のみ（ "XX" ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153819Z">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt; -- 訳文の言語コードと国コードを合わせたもの（「XX-YY」形式）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153815Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt; -- 訳文のロケールコード（「xx_YY」形式）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;l0&gt;See Appendix - Shortcuts Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T173923Z">
@@ -1913,6 +1953,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143407Z">
         <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;エンコーディング&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Filenames&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152419Z">
+        <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;ファイル名&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3730,6 +3778,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121529Z">
         <seg>初期値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153455Z">
+        <seg>デフォルトは &lt;l0&gt;${filename}&lt;/l0&gt; です。 -- 拡張子を伴った完全な原文ファイル名で、これを指定すると、訳文ファイル名は原文ファイル名と同じになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6139,6 +6195,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you wish to revert to default configuration of the filter, click &lt;e2&gt;Defaults.&lt;/e2&gt; You may also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153131Z">
+        <seg>編集内容をそのフィルターの初期値に戻したい時は、&lt;e2&gt;初期値を復元&lt;/e2&gt; をクリックしてください。またファイルフィルターダイアログの中で、訳文ファイル名構成例を直接編集することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you wish to use the tokenizers with the Mac OS X OmegaT.app package, the tokenizer installation described above applies (right-click on OmegaT.app to find the location of OmegaT.jar), but you'll need to specify the tokenizer names in the &lt;f0&gt;info.plist &lt;/f0&gt;that contains the Java launch options.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T172835Z">
@@ -8292,6 +8356,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T093043Z">
         <seg>OmegaT には用語集（glossary）の機能があり、（たとえば特定分野向けの）2 言語間の対訳集として、1 単語または短いフレーズの対訳を翻訳中に参照することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152401Z">
+        <seg>テキストファイルには、OS デフォルトのエンコーディングを使用します</seg>
       </tuv>
     </tu>
     <tu>
@@ -10568,6 +10640,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152515Z">
+        <seg>翻訳するファイル名を自動的に変更したい時があると思います。たとえば、ファイル名のあとに言語コードを追加したい場合などです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source File Encoding</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173423Z">
@@ -11017,6 +11097,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Target filename</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152421Z">
+        <seg>訳文ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Target folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155212Z">
@@ -11263,6 +11351,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014351Z">
         <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Edit Pattern Dialog offers among others the following options:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153157Z">
+        <seg>構成例編集ダイアログでは、以下のような変数を使用できます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11740,6 +11836,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T201606Z">
         <seg>OmegaT はタグを灰色で描画するので、見分けるのは簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target filename pattern uses a special syntax, so if you wish to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the &lt;i1/&gt;Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153043Z">
+        <seg>訳文ファイル名構成例は特別な文法で記述されています。これを編集したい場合は、 &lt;e0&gt;編集...&lt;/e0&gt; をクリックして&lt;i1/&gt;構成例編集ダイアログを使用してください。</seg>
       </tuv>
     </tu>
     <tu>
