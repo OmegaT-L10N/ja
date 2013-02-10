@@ -8189,6 +8189,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T150504Z">
+        <seg>原文ファイルにエンコーディング宣言があれば、それに従います（HTML ファイル、 XML ベースのファイルの場合）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T171946Z">
@@ -8209,6 +8217,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T180621Z">
         <seg>OmegaT にはそこを翻訳したものとして記憶させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T150731Z">
+        <seg>いくつかのファイル形式（Java properties など）に対しては、その形式に必須のエンコーディングを設定します</seg>
       </tuv>
     </tu>
     <tu>
@@ -11981,6 +11997,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T155140Z">
         <seg>この処理は、語尾や語頭の変化形を持つ言語を扱う場合に、とても役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is how it works:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T150339Z">
+        <seg>エンコーディングは、次の仕組みで判定します：</seg>
       </tuv>
     </tu>
     <tu>
