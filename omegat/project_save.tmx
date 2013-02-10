@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>${extension-0} docx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163813Z">
+        <seg>${extension-0} docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${extension-1} xx.docx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163814Z">
+        <seg>${extension-1} xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${extension-2} Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163839Z">
+        <seg>${extension-2} Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>${file-source-encoding} - source file encoding</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T155605Z">
@@ -18,6 +42,30 @@
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T155616Z">
         <seg>${file-target-encoding} -- 訳文ファイルのエンコーディング名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${nameOnly-0} Document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163801Z">
+        <seg>${nameOnly-0} Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${nameOnly-1} Document.xx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163804Z">
+        <seg>${nameOnly-1} Document.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${nameOnly-2} Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163808Z">
+        <seg>${nameOnly-2} Document.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -6065,6 +6113,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163937Z">
+        <seg>たとえば原文ファイル名が「Document.xx.docx」だったとしましょう。その場合、各種の変数とその結果は次のようになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T072849Z">
@@ -6359,6 +6415,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T163508Z">
         <seg>OmegaT の分節は、段落単位か、あるいは分節化規則に基づく文単位です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;$(name only&lt;/l0&gt;&lt;e1&gt;-number of extensions&lt;/e1&gt;) and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;number of extensions} &lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163613Z">
+        <seg>ファイル名があいまいな場合、使用する構成要素を &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-拡張子の個数&lt;/e1&gt;} と &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;名前の個数}&lt;/e3&gt; の形式で指定することができます。</seg>
       </tuv>
     </tu>
     <tu>
