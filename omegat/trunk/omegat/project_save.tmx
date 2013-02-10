@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>${targetLocaleLCID) - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T160128Z">
+        <seg>${targetLocaleLCID) -- 訳文ファイルの Microsoft ロケール（「xx-yy」形式）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155002Z">
@@ -2239,6 +2247,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T180943Z">
         <seg>以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更：&lt;e0&gt;訳文ファイルのエンコーディング文字セットを、原文ファイルのそれ（明示的に指定されたものであれ、暗黙に適用されたものであれ）とは違うものにしたいということは、よくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T161325Z">
+        <seg>${nameOnly} と ${extension} に関しては、追加の変数を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
