@@ -5152,6 +5152,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, by default, XHTML filters are used for processing files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133904Z">
+        <seg>たとえばデフォルトでは、XHTML フィルターは拡張子 .xhtml のファイルを処理するのに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if you wish to use the Lucene CJK tokenizer in source and the Lucene French tokenizer in target, your command will look like this:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170359Z">
@@ -5164,6 +5172,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104741Z">
         <seg>例として、OmegaT のデフォルトのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133510Z">
+        <seg>たとえば、構成例 &lt;l0&gt;*.xhtml&lt;/l0&gt; は、拡張子が &lt;l1&gt;.xhtml&lt;/l1&gt; のあらゆるファイルに一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5879,6 +5895,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T182706Z">
         <seg>綴り確認機能を使うと、誤字脱字を検知し、翻訳中に修正することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133738Z">
+        <seg>適切なフィルターが見つかった時点で探索は終了し、そのフィルターが該当するファイルの処理に割り当てられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7529,6 +7553,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165540Z">
         <seg>詳しくは、Joel Spolsky の&lt;a0&gt;『やさしいバグトラッキング（Painless Bug Tracking）』&lt;/a0&gt;（日本語訳は http://japanese.joelonsoftware.com/Articles/PainlessBugTracking.html）を見てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133409Z">
+        <seg>もっと具体的に言うと、各フィルターの原文ファイル名構成例から、ファイル名と一致するものを探索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13107,6 +13139,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133004Z">
+        <seg>OmegaT は原文フォルダーにファイルを見つけると、まず拡張子から判別してファイルフィルターを選択しようとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065430Z">
@@ -13415,6 +13455,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181510Z">
         <seg>&lt;u6&gt;バグ報告&lt;/u6&gt;や&lt;u7&gt;機能改善リクエスト&lt;/u7&gt;も行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can change or add filename patterns for files to be handled by each file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T134422Z">
+        <seg>そのフィルターに扱わせたいファイルに応じて、ファイル名構成例を変更したり追加したりできます。</seg>
       </tuv>
     </tu>
     <tu>
