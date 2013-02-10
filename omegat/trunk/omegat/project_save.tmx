@@ -1645,6 +1645,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Source, target - encoding&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143538Z">
+        <seg>&lt;p0&gt;ファイルフィルター&lt;/p0&gt; &lt;s1&gt;原文ファイル、訳文ファイル - エンコーディング&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070949Z">
@@ -1861,6 +1869,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143351Z">
+        <seg>&lt;p0&gt;原文ファイル&lt;/p0&gt; &lt;s1&gt;エンコーディング&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T092025Z">
@@ -1881,6 +1897,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T140746Z">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;トークナイザー&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143407Z">
+        <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;エンコーディング&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4984,6 +5008,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143719Z">
+        <seg>エンコーディングを特に指定しないファイル形式の場合、その名前に対応した拡張子を用いる場合と同じエンコードが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133503Z">
@@ -5172,6 +5204,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133904Z">
         <seg>たとえばデフォルトでは、XHTML フィルターは拡張子 .xhtml のファイルを処理するのに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143737Z">
+        <seg>たとえばテキストフィルターを readme ファイル（&lt;l3&gt;readme&lt;/l3&gt;、&lt;l3&gt;read.me&lt;/l3&gt; や &lt;l4&gt;readme.txt&lt;/l4&gt;）にも対応させたい場合は、ファイル名構成例に &lt;l5&gt;read*&lt;/l5&gt; を指定してください。（日本語訳注：実際にはワイルドカード文字と衝突しない範囲で、正規表現も使用できます。たとえばファイル名の末尾に数字のついた、拡張子 .foo のファイルを扱いたい場合は、&lt;l5&gt;*\d.foo&lt;/l5&gt; のような指定が可能です。正規表現の詳細は、http://docs.oracle.com/javase/jp/6/api/java/util/regex/Pattern.html を参照してください）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8376,6 +8416,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143613Z">
+        <seg>エンコーディングの指定が必須のファイル形式は限られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105607Z">
@@ -10524,6 +10572,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164134Z">
         <seg>原文ファイルフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source and Target file encoding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143334Z">
+        <seg>原文ファイルと訳文ファイルのエンコーディング</seg>
       </tuv>
     </tu>
     <tu>
