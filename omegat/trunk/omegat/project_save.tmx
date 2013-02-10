@@ -1066,6 +1066,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145821Z">
+        <seg>&lt;自動&gt; は、&lt;a1&gt;OmegaT&lt;/a1&gt; に自動的に判断させます（日本語訳注：&lt;自動&gt; に設定されているといっても、テキストファイルの文字コードを内容によって自動判別するわけではない点に注意してください。たとえば日本語版の Windows OS では、シフト JIS 固定になります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103304Z">
@@ -2781,6 +2789,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204307Z">
         <seg>ビルマ語（Burmese）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145249Z">
+        <seg>デフォルトでは、訳文ファイルのエンコーディングは、原文ファイルと同じになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5010,8 +5026,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143719Z">
-        <seg>エンコーディングを特に指定しないファイル形式の場合、その名前に対応した拡張子を用いる場合と同じエンコードが使用されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T144047Z">
+        <seg>エンコーディングを特に指定しなかった場合（&lt;自動&gt; の場合）は、拡張子に応じたエンコーディングが使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5196,6 +5212,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T184619Z">
         <seg>たとえば、&lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; のようなタグは、キー＝値の形式で指定して翻訳対象外に設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145555Z">
+        <seg>たとえばデフォルトでは、&lt;l0&gt;.txt&lt;/l0&gt; ファイルには OS のデフォルト エンコーディングが使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10584,6 +10608,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145508Z">
+        <seg>原文ファイルと訳文ファイルのエンコーディングを指定する項目では、対応したすべてのエンコーディングをコンボボックスから選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160743Z">
@@ -10772,6 +10804,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T092817Z">
         <seg>SubRip 字幕ファイル（*.srt）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such files may also be written out in any encoding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145145Z">
+        <seg>まったく同様に、訳文ファイルを出力する際のエンコーディングも、任意に変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13664,6 +13704,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T153829Z">
         <seg>ファイルマネージャーを使用してプロジェクトの source フォルダーにファイルをコピーし、メニューの［プロジェクト］→［再読み込み］を行っても原文ファイルを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T144917Z">
+        <seg>原文ファイルのエンコーディングを、ファイル名構成例ごとに変更することもできます。</seg>
       </tuv>
     </tu>
     <tu>
