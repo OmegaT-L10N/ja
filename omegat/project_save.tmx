@@ -1162,6 +1162,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; works with three types of files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T170438Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は大きく分けて３種類のファイルを扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T152056Z">
@@ -1989,6 +1997,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Translation project files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T171744Z">
+        <seg>&lt;p0&gt;プロジェクトファイル&lt;/p0&gt; &lt;s1&gt;翻訳プロジェクトファイル&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T091530Z">
@@ -2530,6 +2546,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140921Z">
         <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application files: These are included in the package you download.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T171311Z">
+        <seg>アプリケーションファイル：ダウンロードしたパッケージに含まれるファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6129,6 +6153,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If for some reason these files are lost or corrupted, simply download and/or reinstall OmegaT to restore them all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T171729Z">
+        <seg>これらのファイルが何らかの理由で消失するか破損してしまった場合は、修復するために OmegaT を（必要であれば）再ダウンロードして、再インストールしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T072849Z">
@@ -7365,6 +7397,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T170507Z">
+        <seg>これらが欠けると、プロジェクトの整合性が失われ、作業を完了できなくなることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Losing them usually results in OmegaT reverting to its "factory settings".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T171207Z">
+        <seg>これらのファイルが失われると、OmegaT はいわゆる 「工場出荷時の（つまりデフォルトの）設定」に戻ることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lower Case</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032717Z">
@@ -7865,6 +7913,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094658Z">
         <seg>メインメニューに表示されるほとんどの項目には、新しいショートカットを割り当てることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of them are required in order for OmegaT to function properly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T171330Z">
+        <seg>ほとんどのファイルは、OmegaT を正常に動作させるために必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9339,6 +9395,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134237Z">
         <seg>プロジェクト作成の開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project files are the most important files in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T170528Z">
+        <seg>プロジェクトファイルは &lt;a0&gt;OmegaT&lt;/a0&gt; の中でも最も重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12177,6 +12241,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are the files you deal with on a daily basis while translating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T170547Z">
+        <seg>翻訳中、常に使用することになるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185427Z">
@@ -12205,6 +12277,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134112Z">
         <seg>このコールは Swing スレッドで行われる必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T171240Z">
+        <seg>この状態だと、翻訳途中で若干の問題が起きることもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12801,6 +12881,22 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Translation project files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T171732Z">
+        <seg>翻訳プロジェクトファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation project files: These constitute a translation project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T170407Z">
+        <seg>翻訳プロジェクトファイル：翻訳プロジェクトを構成するファイル群です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T171904Z">
@@ -13263,6 +13359,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20121231T053135Z">
         <seg>OmegaT のユーザーインターフェイス言語の選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User settings files: These are created when OmegaT's behavior is modified by user preference settings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T170831Z">
+        <seg>ユーザー設定ファイル：OmegaT の設定がユーザーによって変更されたときに作成されるファイルです。</seg>
       </tuv>
     </tu>
     <tu>
