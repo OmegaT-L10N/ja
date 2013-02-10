@@ -2468,6 +2468,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternate locations for some of the folders can be chosen at project creation or during the translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T172900Z">
+        <seg>フォルダーの中には、プロジェクト作成時や翻訳作業の途中で、デフォルトから別の場所に変更できるものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142046Z">
@@ -2480,6 +2488,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203603Z">
         <seg>アムハラ語（Amharic）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and directories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T172346Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の翻訳プロジェクトは、複数のファイルとフォルダーから構成されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8536,6 +8552,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T172704Z">
+        <seg>OmegaT プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143102Z">
@@ -13687,6 +13711,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T135936Z">
         <seg>翻訳し終えたら、訳文ファイルを生成して、適切なプログラムで開き、翻訳結果を完成形で見る…という具合です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T172655Z">
+        <seg>翻訳プロジェクトを作成すると、OmegaT は指定された名前のフォルダーを自動作成し、さらにその配下にいくつかのフォルダーを作成します：</seg>
       </tuv>
     </tu>
     <tu>
