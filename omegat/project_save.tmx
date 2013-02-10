@@ -6,6 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>${file-source-encoding} - source file encoding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T155605Z">
+        <seg>${file-source-encoding} -- 原文ファイルのエンコーディング名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${file-target-encoding} - target file encoding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T155616Z">
+        <seg>${file-target-encoding} -- 訳文ファイルのエンコーディング名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${system-host-name} - system host name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T155539Z">
+        <seg>${system-host-name} -- システムのホスト名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${system-os-name} - operating system of the computer used</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T155453Z">
+        <seg>${system-os-name} -- お使いのコンピューターの OS 名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${system-user-name) - system user name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T155521Z">
+        <seg>${system-user-name) -- システムのユーザー名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155002Z">
@@ -1541,6 +1581,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;l0&gt;$(timestamp-????)&lt;/l0&gt; - system date time at generation time in various patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T154214Z">
+        <seg>&lt;l0&gt;$(timestamp-????)&lt;/l0&gt; -- 各種の書式による訳文ファイル生成時のシステム日時です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153843Z">
@@ -1557,10 +1605,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T154035Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt; -- 訳文の国コードのみ（「YY」）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153838Z">
-        <seg>&lt;c0&gt;${targetLanguageCode}&lt;/c0&gt; -- 訳文の言語のみ（ "XX" ）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153947Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; -- 訳文の言語コードのみ（「XX」）です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10183,6 +10239,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T154732Z">
+        <seg>『SimpleDateFormat』の書式については、&lt;u0&gt;Oracle 技術文書&lt;/u0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T183229Z">
@@ -15242,6 +15306,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T154522Z">
+        <seg>http://docs.oracle.com/javase/jp/6/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
