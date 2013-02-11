@@ -5392,6 +5392,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; directory, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T083507Z">
+        <seg>&lt;f7&gt;source&lt;/f7&gt; フォルダーの中のファイルは、翻訳対象かどうかを問わずすべて生成されます。またフォルダーの階層構造もそのまま再現されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160007Z">
@@ -6311,6 +6319,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133738Z">
         <seg>適切なフィルターが見つかった時点で探索は終了し、そのフィルターが該当するファイルの処理に割り当てられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T082618Z">
+        <seg>翻訳したいファイルが（ウェブサイトのような）あるツリー構造の一部に入っている場合は、そのツリーの最上位のフォルダーを指定してください。そうすると OmegaT はツリー構造を保ったまま、全体を source フォルダーにコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8424,8 +8440,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T080718Z">
-        <seg>source フォルダーの階層構造をどうするかについては、完全にユーザーに任されています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T082621Z">
+        <seg>source フォルダー内部の階層構造をどうするかについては、完全にユーザーに任されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12702,6 +12718,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This subfolder is initially empty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T082955Z">
+        <seg>このフォルダーは、最初は空の状態です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This way an inadvertent data loss is averted - see Preventing Data Loss in chapter &lt;l2&gt;Miscellanea.&lt;/l2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T074014Z">
@@ -12746,6 +12770,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160511Z">
         <seg>アクセスするには URL をコピーして Web ブラウザへ貼り付けるか、取扱説明書（{0} ファイル）を Web ブラウザで開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T083204Z">
+        <seg>メニュー&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;プロジェクト&lt;/g5&gt; &lt;g6&gt;訳文ファイルを生成&lt;/g6&gt; &lt;/m0&gt;を選ぶと、この場所に訳文ファイルが生成されます。</seg>
       </tuv>
     </tu>
     <tu>
