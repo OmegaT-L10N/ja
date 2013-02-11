@@ -1132,8 +1132,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Directories</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T164211Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ファイルとディレクトリ</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063338Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ファイルとフォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -1997,6 +1997,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;File omegat.project&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T064721Z">
+        <seg>&lt;p0&gt;プロジェクトファイル&lt;/p0&gt; &lt;s1&gt;omegat.project ファイル&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Translation project files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T171744Z">
@@ -2183,6 +2191,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T161537Z">
         <seg>Lucene プロジェクトを組み込んだトークナイザーのパッケージは、OmegaT プラグインのダウンロードサイト（http://sourceforge.net/projects/omegat-plugins/files/）から入手できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A translation project &lt;e0&gt;Example_Project&lt;/e0&gt; created with the default settings will be created as a new subfolder with the following structure:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T064611Z">
+        <seg>新規プロジェクトをデフォルトの設定で作成した場合、以下の構成で新しいフォルダー群が作成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2568,8 +2584,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN-US">
         <seg>Application files: These are included in the package you download.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T171311Z">
-        <seg>アプリケーションファイル：ダウンロードしたパッケージに含まれるファイルです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063437Z">
+        <seg>プログラム ファイル：ダウンロードしたパッケージに含まれるファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4306,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174546Z">
         <seg>DokuWiki ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063902Z">
+        <seg>OmegaT アイコンをダブルクリックすると、プロジェクトが開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6566,8 +6590,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="EN-US">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025001Z">
-        <seg>下の図は OmegaT での表示例ですが、&lt;f0&gt;my projects&lt;/f0&gt; フォルダーに３つの OmegaT プロジェクトが含まれていることが分かります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063629Z">
+        <seg>下の図は OmegaT での表示例ですが、&lt;f0&gt;マイ プロジェクト&lt;/f0&gt;フォルダーに３つの OmegaT プロジェクトが含まれていることが分かります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8605,6 +8629,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T172704Z">
         <seg>OmegaT プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT projects and subdirectories</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063906Z">
+        <seg>OmegaT プロジェクトと通常のフォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -12734,6 +12766,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154234Z">
         <seg>ツールメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T064805Z">
+        <seg>トップ フォルダー</seg>
       </tuv>
     </tu>
     <tu>
