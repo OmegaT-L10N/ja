@@ -11225,6 +11225,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subfolder dictionary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T071159Z">
+        <seg>辞書フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such files may also be written out in any encoding.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145145Z">
@@ -12354,6 +12362,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They contain the one and the same translation memory contents in different forms, to be used in future projects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T071127Z">
+        <seg>これらのファイルには、将来のプロジェクトで再利用できるように、まったく同じ翻訳メモリの同一の内容が、それぞれ異なる形式で記録されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185427Z">
@@ -12774,6 +12790,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T064805Z">
         <seg>トップ フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top folder of a project always contains the file&lt;f0&gt; OmegaT.Project&lt;/f0&gt;, containing project parameters as defined in the Project properties window (&lt;g1&gt;Project &gt; Properties&lt;/g1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T070147Z">
+        <seg>トップ フォルダーには、必ず &lt;f0&gt;OmegaT.Project&lt;/f0&gt; ファイルが存在します。このファイルには、プロジェクトの設定ウィンドウ（&lt;g1&gt;［プロジェクト］→［プロジェクトの設定...］&lt;/g1&gt;）で設定された値が保存されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13848,6 +13872,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T102004Z">
         <seg>翻訳の成果を確認したくなったら、&lt;k1&gt;Ctrl+D&lt;/k1&gt; キーを押して、いつでも訳文ファイルを生成できます。訳文ファイルは、プロジェクトの target フォルダー内に作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the translation is progressing, additional files (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx and project_name-level2.tmx&lt;/f4&gt;) are created (and updated during the process of translation) in this folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T070931Z">
+        <seg>翻訳作業を開始すると、このフォルダーにいくつかのファイル（&lt;f3&gt;プロジェクト名-omegat.tmx&lt;/f3&gt;、&lt;f3&gt;プロジェクト名-level1.tmx&lt;/f3&gt;、&lt;f4&gt;プロジェクト名-level2.tmx&lt;/f4&gt;）が作成され、翻訳作業のあいだ絶えず更新されていきます。</seg>
       </tuv>
     </tu>
     <tu>
