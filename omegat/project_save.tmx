@@ -15643,6 +15643,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>folder, containing script files for the script plugin, if installed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T181703Z">
+        <seg>スクリプト プラグインをインストールした場合は、このフォルダーにスクリプト ファイルを置きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094319Z">
