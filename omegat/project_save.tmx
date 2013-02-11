@@ -6474,7 +6474,11 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Google 検索結果(2013/2/11)：
+      <note>元の訳文（2.0.5 ベース?）は：
+しかし、OmegaT 以外のファイルブラウザでは、そのプロジェクトフォルダは他のフォルダと同じアイコンで表示されます。 
+でした。
+
+Google 検索結果(2013/2/11)：
 "ファイルマネージャ" 746,000件
 "ファイルマネージャー" 347,000件
 "ファイルブラウザ" 96,100件
@@ -6483,13 +6487,15 @@ their defaults as a result of the location change.</seg>
 "ファイラ" 378,000件
 "ファイル管理ソフト" 116,000件
 
-"ファイルマネージャ" が一番多い。つまり、一般的と判断できる。
-ただし、OmegaT-jp のスタイルガイドで長音はつけることになっているので、"ファイルマネージャー" の方を採用する。</note>
+"ファイルマネージャ" が一番多い。つまり、一般的と判断できます。
+ただし、OmegaT-jp のスタイルガイドでは長音をつけることになっているので、"ファイルマネージャー" の方を採用します。
+
+また「同じアイコンで」のくだりですが、ファイラーの表示モードによっては特にアイコンは関係ない（表示されない）ので、少し表現を変えます。</note>
       <tuv lang="EN-US">
         <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T022823Z">
-        <seg>OmegaT 以外のファイルマネージャーでは、そのプロジェクトフォルダは他のフォルダと同じアイコンで表示されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T024733Z">
+        <seg>OmegaT 以外のファイルマネージャーで見ると、翻訳プロジェクトは他のフォルダーと特に区別無く表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6546,6 +6552,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T080852Z">
         <seg>上の画像では、二つのスクリプトがすでに（ボタン「&lt;1&gt;」と「&lt;2&gt;」に）設定済みです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025001Z">
+        <seg>下の図は OmegaT での表示例ですが、&lt;f0&gt;my projects&lt;/f0&gt; フォルダーに３つの OmegaT プロジェクトが含まれていることが分かります。</seg>
       </tuv>
     </tu>
     <tu>
