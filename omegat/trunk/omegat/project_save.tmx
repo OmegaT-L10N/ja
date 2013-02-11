@@ -991,6 +991,30 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/docs/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190957Z">
+        <seg>docs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/images/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191345Z">
+        <seg>images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/lib/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191402Z">
+        <seg>lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143112Z">
@@ -2540,6 +2564,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the user manual files can be found in this folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191247Z">
+        <seg>取扱説明書の全ファイルを格納します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow the translation to be equal to source</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175631Z">
@@ -3562,6 +3594,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T145730Z">
         <seg>接続済み。プロジェクトはチームプロジェクトモードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191456Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を利用するために必要な Java のファイルを格納します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190939Z">
+        <seg>内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -5432,6 +5480,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File/ subfolder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190937Z">
+        <seg>ファイル/ フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155801Z">
@@ -6305,6 +6361,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Icons and logo graphics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191401Z">
+        <seg>アイコンとロゴ画像を格納します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ido</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064608Z">
@@ -7057,6 +7121,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212812Z">
         <seg>原文や訳文から語句を検索したいときは、&lt;k0&gt;Ctrl+F&lt;/k0&gt; キーを押せば、いつでもプロジェクトの検索ダイアログを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is provided as a compressed file (zip or tar archive) that you must extract to the folder of your choice for installation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190701Z">
+        <seg>プラットフォーム非依存パッケージは圧縮ファイル（zip または TAR アーカイブ）で提供されているため、インストール先に選んだフォルダーに解凍する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9045,6 +9117,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T100625Z">
         <seg>&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; ファイルを修正した場合は、新しいショートカット設定を反映させるために、忘れず &lt;a1&gt;OmegaT&lt;/a1&gt; を再起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the archive has been extracted, a folder containing the following contents is created:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190902Z">
+        <seg>圧縮ファイルを解凍すると、以下の内容を含むフォルダーが生成されます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12227,6 +12307,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file can usually be extracted by double-clicking on the downloaded package.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190807Z">
+        <seg>たいていはダウンロードしたパッケージファイルをダブルクリックすれば、解凍できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181733Z">
@@ -12802,6 +12890,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T080439Z">
         <seg>このフォルダーは、最初は空の状態です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191650Z">
+        <seg>通常の HTML ファイルです。ウェブブラウザーで開くと（ウェブ閲覧が可能な状態であれば）リダイレクトされて、Yahoo! Groups 内にある OmegaT ユーザーグループのpe-ji が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14653,6 +14749,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085446Z">
         <seg>翻訳入力行に、対応する原文を入力した状態にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can open them in an Internet browser to obtain access to external links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191344Z">
+        <seg>取扱説明書に含まれる外部リンクへアクセスする場合は、これらのファイルをウェブブラウザーで開いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16599,6 +16703,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170546Z">
         <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191458Z">
+        <seg>join.html</seg>
       </tuv>
     </tu>
     <tu>
