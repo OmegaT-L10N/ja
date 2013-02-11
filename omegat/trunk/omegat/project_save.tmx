@@ -2283,6 +2283,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A relatively detailed list of modifications between this version and the preceding versions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201215Z">
+        <seg>過去のバージョンから現在のバージョンまでの変更点の詳細が記されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T154042Z">
@@ -6563,6 +6571,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are interested in modifying or distributing &lt;a1&gt;OmegaT&lt;/a1&gt;, read this document carefully and ensure you understand its implications before doing anything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201503Z">
+        <seg>OmegaT の改変や再配布に興味がある場合、実行する前に、この文書をよく読み、内容を全て理解しておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T101331Z">
@@ -7274,6 +7290,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180222Z">
         <seg>Jmyspell 2.1.4（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joining is not necessary, but will provide you with access to additional services, such as files, questionnaires, and the opportunity to take part in OmegaT-related discussions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T200927Z">
+        <seg>参加は必須ではありませんが、もし参加すれば、OmegaT に関するディスカッションに加われるほか、別途準備されたファイルの入手や、不定期に行われる調査などに参加することが可能になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12072,6 +12096,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201243Z">
+        <seg>GNU GENERAL PUBLIC LICENSE（GNU 一般公衆利用許諾契約書）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LanguageTool in OmegaT</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T063500Z">
@@ -12367,6 +12399,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165031Z">
         <seg>キーストローク（ショートカット）の完全な構文定義は、Oracle による次の Java 1.6 技術文書（ページの最後）を参照してください：&lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The group archives are public and can be viewed without subscription to the group.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201152Z">
+        <seg>過去ログは公開されており、閲覧するだけなら参加登録は必要ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12896,8 +12936,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN-US">
         <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo! Groups.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191650Z">
-        <seg>通常の HTML ファイルです。ウェブブラウザーで開くと（ウェブ閲覧が可能な状態であれば）リダイレクトされて、Yahoo! Groups 内にある OmegaT ユーザーグループのページが表示されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T200129Z">
+        <seg>通常の HTML ファイルです。ウェブブラウザーで開くと、Yahoo! の OmegaT ユーザーグループへリダイレクトされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12938,6 +12978,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085507Z">
         <seg>商標や固有名詞など、あえて翻訳しない部分を多く含んでいるような文書の場合に非常に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This license allows you to do certain things with &lt;a0&gt;OmegaT&lt;/a0&gt;, including modifying and distributing it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201655Z">
+        <seg>このライセンスにより、改変や再配布を含めた &lt;a0&gt;OmegaT&lt;/a0&gt; の自由な利用が認められています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13959,7 +14007,7 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
-     <tuv lang="EN-US">
+      <tuv lang="EN-US">
         <seg>User Manual...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154620Z">
@@ -15343,6 +15391,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204601Z">
         <seg>cha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>changes.txt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201157Z">
+        <seg>changes.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -17047,6 +17103,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>license.txt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201216Z">
+        <seg>license.txt</seg>
       </tuv>
     </tu>
     <tu>
