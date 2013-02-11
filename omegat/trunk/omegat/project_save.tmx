@@ -2590,6 +2590,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An xml file with all the GUI accessible option settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T183713Z">
+        <seg>GUI に関する情報（ウィンドウのレイアウト）が記録された XML ファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160623Z">
@@ -4338,6 +4346,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T092502Z">
         <seg>DocuWiki ファイル（*.txt）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184214Z">
+        <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8438,6 +8454,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that default segmentation rules and file filters can be overridden by project-specific setup (see above).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184034Z">
+        <seg>デフォルトの分節化規則とファイルフィルターよりも、プロジェクト専用の設定（前述）が存在した場合は、そちらが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T062310Z">
@@ -8733,6 +8757,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191920Z">
         <seg>ウェブ上の OmegaT 情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT preferences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T183406Z">
+        <seg>OmegaT の設定ファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12179,6 +12211,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The location of user files depends upon the platform you use:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184147Z">
+        <seg>個人設定ファイルの場所は、使用するプラットフォームによって異なります：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>現在の Instant start guide には、特に参考になりそうな記述はない。原文バグ？</note>
       <tuv lang="EN-US">
         <seg>The locations of the various different translation memories for a given project are user-defined (see Project dialog window in &lt;l0&gt;Instant start guide)&lt;/l0&gt;</seg>
@@ -14192,10 +14232,26 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windows 2000 and XP</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184228Z">
+        <seg>Windows 2000 および Windows XP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windows Resource Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173853Z">
         <seg>Windows リソースファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows Vista and 7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184224Z">
+        <seg>Windows Vista および Windows 7</seg>
       </tuv>
     </tu>
     <tu>
@@ -17347,6 +17403,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T183107Z">
+        <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T203433Z">
@@ -18523,6 +18587,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T183457Z">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>uig</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -18575,6 +18647,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user's default file filters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T182223Z">
+        <seg>ユーザー デフォルトのファイルフィルターです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user's default segmentation rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T183452Z">
+        <seg>ユーザー デフォルトの分節化規則です。</seg>
       </tuv>
     </tu>
     <tu>
