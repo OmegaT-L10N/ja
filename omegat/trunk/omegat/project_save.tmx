@@ -1527,8 +1527,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T180430Z">
-        <seg>&lt;e0&gt;ユーザーインターフェース&lt;/e0&gt;、&lt;e1&gt;メインメニューとキーボードショートカット：&lt;/e1&gt;この二つの章は、OmegaT のユーザーインターフェースおよび、メインメニューとキーボードショートカットから利用できる機能について、説明しています。おそらく頻繁に参照されるでしょう。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025050Z">
+        <seg>&lt;e0&gt;ユーザーインターフェース&lt;/e0&gt;、&lt;e1&gt;メインメニューとキーボードショートカット：&lt;/e1&gt;この２つの章は、OmegaT のユーザーインターフェースおよび、メインメニューとキーボードショートカットから利用できる機能について、説明しています。おそらく頻繁に参照されるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1559,8 +1559,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T163623Z">
-        <seg>&lt;e0&gt;翻訳作業の流れ：&lt;/e0&gt;翻訳対象がファイル 1 つのこともあれば、いろいろな形式のファイルを含んだたくさんのフォルダー、という場合もあると思います。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025232Z">
+        <seg>&lt;e0&gt;翻訳作業の流れ：&lt;/e0&gt;翻訳対象がファイル１つのこともあれば、いろいろな形式のファイルを含んだたくさんのフォルダー、という場合もあると思います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1583,8 +1583,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T155851Z">
-        <seg>&lt;e0&gt;プレーンテキストを扱う&lt;/e0&gt;と&lt;e1&gt;整形されたテキストを扱う：&lt;/e1&gt;この二つの章は、翻訳するテキストに関するいくつかの重要な点について説明しています。たとえば、文字エンコーディング（プレーンテキストファイルの場合）や、タグの取り扱い（整形されたテキストの場合）などです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025056Z">
+        <seg>&lt;e0&gt;プレーンテキストを扱う&lt;/e0&gt;と&lt;e1&gt;整形されたテキストを扱う：&lt;/e1&gt;この２つの章は、翻訳するテキストに関するいくつかの重要な点について説明しています。たとえば、文字エンコーディング（プレーンテキストファイルの場合）や、タグの取り扱い（整形されたテキストの場合）などです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2127,8 +2127,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;shortcut&gt; must be of the following form:0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165131Z">
-        <seg>&lt;ショートカット&gt; は次の形式に従います：0 個以上の &lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt;、続いて 0 個または 1 個の &lt;c1&gt;&lt;イベント&gt;&lt;/c1&gt;、続いて 1 個の &lt;c2&gt;&lt;キー&gt;&lt;/c2&gt;。ただし：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025302Z">
+        <seg>&lt;ショートカット&gt; は次の形式に従います：０個以上の &lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt;、続いて０個または１個の &lt;c1&gt;&lt;イベント&gt;&lt;/c1&gt;、続いて１個の &lt;c2&gt;&lt;キー&gt;&lt;/c2&gt;。ただし：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2643,8 +2643,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN-US">
         <seg>At the end of your translation, OmegaT exports three translation memories called "level1", "level2" and "omegat" to your project folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210436Z">
-        <seg>翻訳作業の最後に、OmegaT は「level1」、「level2」、「omegat」と呼ばれる三つの翻訳メモリをプロジェクトフォルダー内に出力します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025035Z">
+        <seg>翻訳作業の最後に、OmegaT は「level1」、「level2」、「omegat」と呼ばれる３つの翻訳メモリをプロジェクトフォルダー内に出力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4280,8 +4280,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Does the folder contain three files of the same name, with extensions ?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T072524Z">
-        <seg>そのフォルダには、（拡張子違いで）同じ名前のファイルが三つ存在していますか？</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025023Z">
+        <seg>そのフォルダには、（拡張子違いで）同じ名前のファイルが３つ存在していますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -5300,6 +5300,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165539Z">
         <seg>同名のファイルが既に存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files to translate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025424Z">
+        <seg>翻訳対象ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -6550,8 +6558,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="EN-US">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T080852Z">
-        <seg>上の画像では、二つのスクリプトがすでに（ボタン「&lt;1&gt;」と「&lt;2&gt;」に）設定済みです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025129Z">
+        <seg>上の画像では、２つのスクリプトがすでに（ボタン「&lt;1&gt;」と「&lt;2&gt;」に）設定済みです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9834,8 +9842,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Remember that every good bug report needs just three things:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181631Z">
-        <seg>良いバグ報告には、次の 3 点が含まれていることを覚えておいてください：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025219Z">
+        <seg>良いバグ報告には、次の３点が含まれていることを覚えておいてください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11598,16 +11606,16 @@ current folder will be used instead.</seg>
       <tuv lang="EN-US">
         <seg>The '*' character matches zero or more characters (the search term 'run*' would match 'run', 'runs', and 'running', for example).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133929Z">
-        <seg>半角 * は、0 個以上の任意の文字と一致します。たとえば run* で検索すると、run, runs, running などと一致します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025341Z">
+        <seg>半角 * は、０個以上の任意の文字と一致します。たとえば run* で検索すると、run, runs, running などと一致します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The '?' character matches exactly one character ('run?' would match 'runs' and 'rung', for example, but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133937Z">
-        <seg>半角 ? は、任意の 1 文字と一致します。たとえば run? は、runs, rung には一致しますが、run や running には一致しません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025334Z">
+        <seg>半角 ? は、任意の１文字と一致します。たとえば run? は、runs, rung には一致しますが、run や running には一致しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11711,8 +11719,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN-US">
         <seg>The alternative is to enter a translation that is identical to the source text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T180211Z">
-        <seg>もう 1 つの方法として、原文とまったく同じ訳文を入力することができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025311Z">
+        <seg>もう１つの方法として、原文とまったく同じ訳文を入力することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12235,8 +12243,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN-US">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T121529Z">
-        <seg>展開すると、拡張子が &lt;e1&gt;dz&lt;/e1&gt;、&lt;e1&gt;idx &lt;/e1&gt;、&lt;e2&gt;ifo&lt;/e2&gt; の三つのファイルができるはずです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025017Z">
+        <seg>展開すると、拡張子が &lt;e1&gt;dz&lt;/e1&gt;、&lt;e1&gt;idx &lt;/e1&gt;、&lt;e2&gt;ifo&lt;/e2&gt; の３つのファイルができるはずです。</seg>
       </tuv>
     </tu>
     <tu>
