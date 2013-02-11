@@ -10985,6 +10985,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should OmegaT appear to be behaving erratically, it is important to include this file or the relevant part in any bug report</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T104214Z">
+        <seg>もし OmegaT の動作がおかしいと思ったら、バグ報告の際に、このファイル自体または関連する箇所を抜き出して含めると、大いに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should you wish not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T035158Z">
@@ -12646,6 +12654,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This file records Java error messages while &lt;a0&gt;OmegaT&lt;/a0&gt; is running.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T103729Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 実行中の Java エラーメッセージが記録されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T080439Z">
@@ -13732,6 +13748,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T142330Z">
         <seg>ユーザーの認証に失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User files contain the information, applicable to all the projects for a given user;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T103702Z">
+        <seg>個人設定ファイルには、ユーザー固有の情報が格納されています。これはすべてのプロジェクト共通で使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16795,6 +16819,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>logs/OmegaT.log</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T103706Z">
+        <seg>logs/OmegaT.log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>lowerCaseMenuItem</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141520Z">
@@ -17855,6 +17887,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>sc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>script/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T104227Z">
+        <seg>script/</seg>
       </tuv>
     </tu>
     <tu>
