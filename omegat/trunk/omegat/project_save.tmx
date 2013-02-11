@@ -6474,6 +6474,25 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Google 検索結果(2013/2/11)：
+"ファイルマネージャ" 746,000件
+"ファイルマネージャー" 347,000件
+"ファイルブラウザ" 96,100件
+"ファイルブラウザー" 17,700件
+"ファイラー" 496,000件
+"ファイラ" 378,000件
+"ファイル管理ソフト" 116,000件
+
+"ファイルマネージャ" が一番多い。つまり、一般的と判断できる。
+ただし、OmegaT-jp のスタイルガイドで長音はつけることになっているので、"ファイルマネージャー" の方を採用する。</note>
+      <tuv lang="EN-US">
+        <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T022823Z">
+        <seg>OmegaT 以外のファイルマネージャーでは、そのプロジェクトフォルダは他のフォルダと同じアイコンで表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;$(name only&lt;/l0&gt;&lt;e1&gt;-number of extensions&lt;/e1&gt;) and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;number of extensions} &lt;/e3&gt;.</seg>
       </tuv>
@@ -6832,6 +6851,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T184415Z">
         <seg>この設定は、ある属性の値に応じてタグを翻訳しないようにするのに、役に立つことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is therefore possible to select existing folders or create folders in locations that reflect your work flow and project management habits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T021845Z">
+        <seg>変更先のフォルダーは、各自のワークフローとプロジェクト管理習慣に応じて、既存の場所を指定したり、新規作成したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12469,6 +12496,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160511Z">
         <seg>アクセスするには URL をコピーして Web ブラウザへ貼り付けるか、取扱説明書（{0} ファイル）を Web ブラウザで開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T022016Z">
+        <seg>プロジェクト作成後に場所を変更するときは、メニューから&lt;g0&gt;［プロジェクト］→［プロジェクト設定...］&lt;/g0&gt; を選ぶか、ショートカット &lt;g1&gt;Ctrl+E&lt;/g1&gt; で設定ダイアログを開き、必要な変更を行ってください。</seg>
       </tuv>
     </tu>
     <tu>
