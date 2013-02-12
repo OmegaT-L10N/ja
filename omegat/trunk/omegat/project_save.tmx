@@ -2277,6 +2277,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Formatted text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092930Z">
+        <seg>&lt;p0&gt;原文ファイル&lt;/p0&gt; &lt;s1&gt;整形されたテキストファイル&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T053508Z">
@@ -2321,6 +2329,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152419Z">
         <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;ファイル名&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Formatted text files&lt;/s1&gt; &lt;s2&gt;Tagged text&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092910Z">
+        <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;整形されたテキストファイル&lt;/s1&gt; &lt;s2&gt;タグ付きテキスト&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5984,6 +6000,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formatted text files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092936Z">
+        <seg>整形されたテキストファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T150146Z">
@@ -6601,6 +6625,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092547Z">
+        <seg>原文分節に対応する訳文がまだ翻訳メモリ（project_save.tmx）に存在しなければ、翻訳内容はデフォルトの対訳（既定値訳文）として project_save.tmx に保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163937Z">
@@ -6976,6 +7008,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163613Z">
         <seg>ファイル名があいまいな場合、使用する構成要素を &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-拡張子の個数&lt;/e1&gt;} と &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;名前の個数}&lt;/e3&gt; の形式で指定することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case, however, the same source segment already exists with a different translation, the new translation will be saved as an alternative.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092628Z">
+        <seg>もし原文分節に対応する別の訳文がすでに存在した場合、翻訳内容は（既定値訳文ではなく）「新しい訳文」として保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9796,8 +9836,8 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       <tuv lang="EN-US">
         <seg>Plain text files contain text only, so their translation is as simple as typing the translation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T040330Z">
-        <seg>プレーンテキストファイルにはテキストのみが含まれます。したがってその翻訳は、単純に翻訳文を入力していくだけで済みます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092732Z">
+        <seg>プレーンテキストファイルにはテキストのみが含まれます。したがってその翻訳は、単純に対訳を入力していくだけで済みます。</seg>
       </tuv>
     </tu>
     <tu>
