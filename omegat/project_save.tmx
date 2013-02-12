@@ -1242,6 +1242,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T034204Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は翻訳対象として数多くのファイル形式に対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T152056Z">
@@ -2261,6 +2269,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T035750Z">
+        <seg>&lt;p0&gt;原文ファイル&lt;/p0&gt; &lt;s1&gt;プレーンテキストファイル&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T140746Z">
@@ -2289,6 +2305,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152419Z">
         <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;ファイル名&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T035755Z">
+        <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;プレーンテキストファイル&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9698,6 +9722,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plain text files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T035759Z">
+        <seg>プレーンテキストファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check the&lt;u0&gt; ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203103Z">
@@ -12941,6 +12973,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are basically two types of file formats, plain text and formatted text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T035650Z">
+        <seg>ファイル形式は基本的に２種類に大別できます。プレーンテキスト形式と整形されたテキスト形式です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are two strategies for segments that contain only such invariable text.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175737Z">
@@ -14186,8 +14226,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN-US">
         <seg>Use "Software Update..." from the Apple menu to update your Java version.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T015651Z">
-        <seg>Apple メニューから「システム環境設定」を選択し、表示メニューから「ソフトウェアアップデート」を選択します。「今すぐ確認」をクリックして、最新バージョンの Java がインストールされているか確認してください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T035616Z">
+        <seg>Apple メニューから［システム環境設定］→［表示］→［ソフトウェアアップデート］→［今すぐ確認］で、最新バージョンの Java がインストールされているか確認してください。</seg>
       </tuv>
     </tu>
     <tu>
