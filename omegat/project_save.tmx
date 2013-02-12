@@ -9585,6 +9585,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T052337Z">
+        <seg>他の形式のプレーンテキストファイルでも、OmegaT で扱うことができます。まずその拡張子を &lt;a0&gt;OmegaT&lt;/a0&gt; が対応しているフィルター形式に追加します（たとえば .pod ファイルを「テキストファイル」フィルターに追加するなど）。次に、必要であれば適切な分節化規則を設定して前処理させればよいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other windows</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153810Z">
