@@ -8904,24 +8904,24 @@ inside the configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174534Z">
-        <seg>ご注意：DocBook ファイルを認識させる場合、拡張子に加え以下のような DOCTYPE 宣言文（DocBook 4 用） &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML ...&gt;、または名前空間（DocBook 5 用） xmlns="http://docbook.org/ns/docbook" が必要です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T081417Z">
+        <seg>注意：DocBook ファイルを認識させる場合、拡張子に加え以下のような DOCTYPE 宣言文（DocBook 4 用） &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML ...&gt;、または名前空間（DocBook 5 用） xmlns="http://docbook.org/ns/docbook" が必要です。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121413Z">
-        <seg>ご注意：HHC・HNK ファイル中にエンコーディング宣言が存在しない場合、以下の原文ファイルのエンコーディング設定が有効になります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T081429Z">
+        <seg>注意：HHC・HNK ファイル中にエンコーディング宣言が存在しない場合、以下の原文ファイルのエンコーディング設定が有効になります。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105549Z">
-        <seg>ご注意：HTML ファイル中にエンコーディング宣言が存在しない場合、以下の原文ファイルのエンコーディング設定が有効になります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T081423Z">
+        <seg>注意：HTML ファイル中にエンコーディング宣言が存在しない場合、以下の原文ファイルのエンコーディング設定が有効になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11194,8 +11194,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T064925Z">
-        <seg>その意味において、PO ファイルはプレーンテキストファイルである&lt;e1&gt;と同時に&lt;/e1&gt;、翻訳メモリでもあります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T081533Z">
+        <seg>したがって、PO ファイルはプレーンテキストファイルである&lt;e1&gt;と同時に&lt;/e1&gt;、翻訳メモリでもあるといえます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14642,8 +14642,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN-US">
         <seg>Warning</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T153836Z">
-        <seg>ご注意</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T081407Z">
+        <seg>注意</seg>
       </tuv>
     </tu>
     <tu>
