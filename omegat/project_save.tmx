@@ -1226,6 +1226,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;.bat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020039Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020236Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T152056Z">
@@ -2307,6 +2323,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020212Z">
+        <seg>Windows の コマンドライン（コマンドプロンプト）から &lt;a0&gt;OmegaT&lt;/a0&gt; を実行する際に使用するバッチファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T030715Z">
@@ -2511,6 +2535,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T180943Z">
         <seg>以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更：&lt;e0&gt;訳文ファイルのエンコーディング文字セットを、原文ファイルのそれ（明示的に指定されたものであれ、暗黙に適用されたものであれ）とは違うものにしたいということは、よくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to the Dock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T015911Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; のドックへの追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -7189,6 +7221,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It contains just the following line:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020216Z">
+        <seg>内容は以下の行のみです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T172316Z">
@@ -9269,6 +9309,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190902Z">
         <seg>圧縮ファイルを解凍すると、以下の内容を含むフォルダーが生成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have done this, you can delete the &lt;e5&gt;OmegaT_2.5.x_Mac.zip&lt;/e5&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T015839Z">
+        <seg>ここまでくれば、&lt;e5&gt;OmegaT_2.6.x_Mac.zip&lt;/e5&gt; ファイルを削除できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12573,6 +12621,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The main OmegaT application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020251Z">
+        <seg>主要な OmegaT のプログラムファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The memory named "omegat" can be used in OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210833Z">
@@ -12607,8 +12663,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN-US">
         <seg>The numbers on the left are likely to be different on your system so make sure that the source and target tokenizer names,specified in the start-up options, correspond to what the log is showing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T174447Z">
-        <seg>行頭の数値は、お使いのシステムによって異なりますので、気にする必要はありません。Source tokenizer と target tokenizer の名前を確認してください。起動オプションで指定した名前が、ログに表示されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T021721Z">
+        <seg>行頭の数値はシステムによって異なりますので、気にする必要はありません。Source tokenizer と target tokenizer の名前を確認してください。起動オプションで指定した名前が、ログに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13314,6 +13370,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T163458Z">
         <seg>トークナイザーをインストールするには、OmegaT.jar が配置されているフォルダー配下に「plugins」という名前のフォルダーを（まだ無ければ）作成し、そのフォルダー内にパッケージを解凍します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020458Z">
+        <seg>OmegaT を起動するには、このファイルをコマンドライン上から実行するか、ファイルマネージャー上から（多くの場合そのアイコンをダブルクリックすることで）実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15054,6 +15118,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T084143Z">
         <seg>翻訳作業は、分節間を行き来しながら、分節を編集することで進めていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will then be able to launch OmegaT by executing this file from the command line</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020033Z">
+        <seg>このファイルをコマンドラインから実行することで、OmegaT を起動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16903,6 +16975,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011926Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar $*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar %*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020233Z">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar %*</seg>
       </tuv>
     </tu>
     <tu>
