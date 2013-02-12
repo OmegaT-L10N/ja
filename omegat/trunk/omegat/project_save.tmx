@@ -9657,6 +9657,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PO files&lt;i0/&gt; can contain both the source and the target text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T064841Z">
+        <seg>PO ファイル&lt;i0/&gt;は、原文と訳文の両方を格納できるファイル形式です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PO header will be skipped and left unchanged, if this option is not checked.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T094100Z">
@@ -11180,6 +11188,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070823Z">
         <seg>詳しくは GNU 一般公衆利用許諾契約書を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T064925Z">
+        <seg>その意味において、PO ファイルはプレーンテキストファイルである&lt;e1&gt;と同時に&lt;/e1&gt;、翻訳メモリでもあります。</seg>
       </tuv>
     </tu>
     <tu>
