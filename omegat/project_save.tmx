@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>#!/bin/bash java</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011917Z">
+        <seg>#!/bin/bash java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>${extension-0} docx</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163813Z">
@@ -1170,6 +1178,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 2.5 requires Java 1.5 to run.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T013612Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 2.6 の実行には Java 1.5 が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Directories</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063338Z">
@@ -1252,16 +1268,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; 2.5 &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T072637Z">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.5&lt;/e0&gt; は有効活用されることを願って頒布されるものですが、その内容については全くの無保証となります。商品性の黙示保証、または特定目的への適合性は全く存在しません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012943Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.6&lt;/e0&gt; は有効活用されることを願って頒布されるものですが、その内容については全くの無保証となります。商品性の黙示保証、または特定目的への適合性は全く存在しません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.5&lt;/e0&gt; is Copyright © 2000-2012 Keith Godfrey, Maxym Mykhalchuk, Zoltan Bartko, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T164820Z">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.5&lt;/e0&gt; は © 2000-2012 Keith Godfrey, Maxym Mykhalchuk, Zoltan Bartko, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012919Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.6&lt;/e0&gt; は © 2000-2012 Keith Godfrey, Maxym Mykhalchuk, Zoltan Bartko, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1452,10 +1468,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;e1&gt;OmegaT_2.5.x_Linux.tar.bz2.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T013553Z">
+        <seg>&lt;e0&gt;いいえ / わかりません：&lt;/e0&gt;&lt;e1&gt;OmegaT_2.6.x_Linux.tar.bz2&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_2.5.x_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T013443Z">
+        <seg>&lt;e0&gt;いいえ / わかりません：&lt;/e0&gt;&lt;e1&gt; OmegaT_2.6.x_Windows.exe.&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;O&lt;/e0&gt;&lt;e1&gt;megaT 2.5&lt;/e1&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (if you prefer) any later version.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T071238Z">
-        <seg>&lt;e0&gt;OmegaT 2.5&lt;/e0&gt; は自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 2 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012929Z">
+        <seg>&lt;e0&gt;OmegaT 2.6&lt;/e0&gt; は自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 2 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1633,6 +1665,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T085104Z">
         <seg>&lt;e0&gt;XSLT&lt;/e0&gt;（Extensible Stylesheet Language Transformations）：XML 文書を変換するために用いられる、宣言的な XML ベースの言語です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_2.5.x_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T013404Z">
+        <seg>&lt;e0&gt;はい：&lt;/e0&gt;&lt;e1&gt;OmegaT_2.6.x_Windows_without_JRE.exe&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_2.5.x_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T013523Z">
+        <seg>&lt;e0&gt;はい：&lt;/e0&gt;&lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt; をダウンロードしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2303,6 +2351,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T154933Z">
         <seg>ステミングのアルゴリズムは、「fishing」や「fished」、「fish」、「fisher」などの単語を、語幹の「fish」という単語に収斂します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A text file containing two lines:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011912Z">
+        <seg>以下の 2 行からなるテキストファイルです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7133,6 +7189,22 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has been translated into a number of languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011856Z">
+        <seg>このファイルは多くの言語に翻訳されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011841Z">
+        <seg>このファイルには、追加情報の入手先や、貢献方法など、OmegaT に関する全般的な内容が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T091654Z">
@@ -7678,6 +7750,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linux and OS X users may find this file useful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012246Z">
+        <seg>Linux および Mac OS X のユーザーでしたら、役に立つことでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linux/Solaris/FreeBSD</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184623Z">
@@ -7930,6 +8010,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153642Z">
         <seg>メインメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make it executable (chmod +x OmegaT) from the command line after making sure you are in the /OmegaT_2.5/ directory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012534Z">
+        <seg>コマンドラインで OmegaT_2.6 フォルダーに移動してから、このファイルに実行権限をつけてください（chmod +x OmegaT）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8802,6 +8890,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T074251Z">
         <seg>古代教会スラヴ語（Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011859Z">
+        <seg>OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -12317,8 +12413,8 @@ instead.</seg>
       <tuv lang="EN-US">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; 2.5 includes the User Manual and the readme.txt document.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070044Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 2.5 とともに配布される文書には、取扱説明書と readme.txt ファイルが含まれます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012904Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 2.6 とともに配布される文書には、取扱説明書と readme.txt ファイルが含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12930,6 +13026,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T141201Z">
         <seg>この説明書は、チュートリアルとリファレンス両方の役割を兼ねることを意図しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011829Z">
+        <seg>このファイルは、大変重要なファイルです。OmegaT を使用する前に必ず読み、内容を理解しておいてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16767,6 +16871,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar $*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011926Z">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar $*</seg>
       </tuv>
     </tu>
     <tu>
