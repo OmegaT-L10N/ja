@@ -2467,6 +2467,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ASCII text (.txt, etc.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050603Z">
+        <seg>ASCII テキスト（.txt など）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203451Z">
@@ -4214,6 +4222,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050554Z">
+        <seg>現在の &lt;a1&gt;OmegaT&lt;/a1&gt; は、プレーンテキストファイルのうち以下の形式に対応しています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom tag(s) regular expression:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131344Z">
@@ -4584,8 +4600,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>DocuWiki files (*.txt)</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120304T092502Z">
-        <seg>DocuWiki ファイル（*.txt）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T051123Z">
+        <seg>DokuWiki ファイル（*.txt）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,6 +4930,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173406Z">
         <seg>有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encoded text (*.UTF8)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050723Z">
+        <seg>エンコードされたテキスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -6459,8 +6483,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>INI (key=value) files (*.ini)</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120304T092435Z">
-        <seg>INI ファイル（キー=値 形式）（*.ini）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T051116Z">
+        <seg>INI ファイル（キー＝値 形式）（*.ini）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8106,6 +8130,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174653Z">
         <seg>Magento CE Locale CSV ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magento CE Locale CSV files (*.csv)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T051506Z">
+        <seg>Magento CE Locale CSV ファイル（*.csv）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11871,8 +11903,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Such files do not contain any formatting information beyond the "white space" used to align text, indicate paragraphs or insert page breaks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T041418Z">
-        <seg>このようなファイルは、いわゆる「空白文字」（TAB、改行などの制御記号とスペース）以外には、整形用の情報を含んでいません。整形用の情報とは、テキスト揃えや段落、改ページなどの指定を指します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050304Z">
+        <seg>このようなファイルは、いわゆる「空白文字（ホワイトスペース）」以外には、整形用の情報を含んでいません。整形用の情報とは、テキスト揃えや段落、改ページなどの指定を指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13007,8 +13039,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN-US">
         <seg>There are several methods to specify the file's encoding so that its contents are not garbled when opened in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T040722Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; で開くファイルが文字化けしないよう、ファイルのエンコーディングを指定する方法がいくつか用意されています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050236Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; には、ファイルが文字化けしないよう、開く際のエンコーディングを指定する方法がいくつか用意されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13082,6 +13114,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T092947Z">
         <seg>このような訳文は、未翻訳分節と区別するために、編集ウィンドウ上では &lt;空訳文&gt; と表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are not able to contain or retain information regarding the color, font etc of the text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050428Z">
+        <seg>テキストの色や字体などの情報も、持ちません。</seg>
       </tuv>
     </tu>
     <tu>
