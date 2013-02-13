@@ -905,8 +905,8 @@ To add files to the project, click on the Import Source Files... button in the P
       <tuv lang="EN-US">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120304T092633Z">
-        <seg>(X)HTML（*.html, *.xhtml,*.xht）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T170951Z">
+        <seg>(X)HTML（*.html、*.xhtml、*.xht）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2993,6 +2993,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the time of writing, OmegaT supports the following formatted text formats:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T170044Z">
+        <seg>現在の OmegaT は、整形されたテキストファイルのうち以下の形式に対応しています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g0&gt;OK &lt;/g0&gt;to continue.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T095802Z">
@@ -4798,6 +4806,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each file type is handled differently in OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T170209Z">
+        <seg>OmegaT がファイルを処理する方法は、ファイル形式によって異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174227Z">
@@ -6298,8 +6314,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>HTML Help Compiler (*.hhc, *.hhk)</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120304T092640Z">
-        <seg>HTML Help Compiler（*.hhc, *.hhk）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T170955Z">
+        <seg>HTML ヘルプ コンパイラ（*.hhc、*.hhk）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6386,8 +6402,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Help (*.xml) and Manual (*.hmxp) files</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120304T092910Z">
-        <seg>Help (*.xml) とマニュアル（*.hmxp）ファイル</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T171047Z">
+        <seg>Help（*.xml）とマニュアル（*.hmxp）ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -7768,8 +7784,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>LaTex (*.tex, *.latex)</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120304T092834Z">
-        <seg>LaTex（*.tex, *.latex）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T171028Z">
+        <seg>LaTex（*.tex、*.latex）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8482,6 +8498,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T071514Z">
         <seg>Merriam Webster 10th dictionary - 使用中の様子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T170943Z">
+        <seg>Microsoft Office Open XML（*.docx、*.dotx、*.xlsx、*.xltx、*.pptx）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9585,6 +9609,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenOffice.org / OpenDocument (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T170922Z">
+        <seg>OpenOffice.org / OpenDocument（*.ods、*.ots、*.odt、*.ott、*.odp、*.otp）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opens a previously created project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T175949Z">
@@ -10350,8 +10382,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120304T092752Z">
-        <seg>QuarkXPress CopyFlowGold（*.tag, *.xtg）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T171011Z">
+        <seg>QuarkXPress CopyFlowGold（*.tag、*.xtg）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11607,8 +11639,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Simplifying the original text formatting greatly contributes to reducing the number of tags.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T164822Z">
-        <seg>元のテキストの書式を簡略化することが大幅タグの数を減らすことに貢献しています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T165438Z">
+        <seg>原文テキストの整形を単純にしておくと、タグは減ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11889,6 +11921,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152027Z">
         <seg>スペイン語、カスティーリャ語（Spanish, Castilian）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specific behavior can be set up in the file filters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T170321Z">
+        <seg>あるファイル形式特有の挙動は、ファイルフィルターの設定で管理できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14912,6 +14952,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where possible, unifying the fonts, font sizes, colors, etc. used in the document simplifies the task of translation and reduces the possible number of tag errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T165604Z">
+        <seg>もし可能であれば、文書中で使用する字体の種類や大きさ、色などをなるべく統一しておくと、翻訳作業を単純化でき、タグ関連のエラーを減らすことができます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While the translation is progressing, additional files (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx and project_name-level2.tmx&lt;/f4&gt;) are created (and updated during the process of translation) in this folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T070931Z">
@@ -14922,8 +14970,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN-US">
         <seg>WiX Localization (*.wxl)</seg>
       </tuv>
-      <tuv lang="JA" changeid="jchelary" changedate="20120304T092925Z">
-        <seg>WiX Localization（*.wxl）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T171227Z">
+        <seg>WiX ローカリゼーションファイル（*.wxl）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15116,6 +15164,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121418Z">
         <seg>XHTML フィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T171003Z">
+        <seg>XLIFF（*.xlf、*.xliff、*.sdlxliff）-「原文＝訳文」形式の一種</seg>
       </tuv>
     </tu>
     <tu>
