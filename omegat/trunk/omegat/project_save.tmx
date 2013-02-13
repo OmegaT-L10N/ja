@@ -9752,14 +9752,16 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"creative" の意味がいまひとつ不明。
+      <note>Yu-Tang）"creative" の意味がいまひとつ不明。
 
-エラリー）技術文よりは文学やマーケティングなど</note>
+エラリー）技術文よりは文学やマーケティングなど
+
+Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       <tuv lang="EN-US">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T170330Z">
-        <seg>段落単位の分節化はあまり使いませんが、いわゆる「独創的」なテキストの場合は役に立ちます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T162144Z">
+        <seg>段落単位の分節化はあまり使いませんが、いわゆる「文学的」なテキストの場合は役に立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12829,9 +12831,11 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
     </tu>
     <tu>
-      <note>現在の Instant start guide には、特に参考になりそうな記述はない。原文バグ？
+      <note>Yu-Tang）現在の Instant start guide には、特に参考になりそうな記述はない。原文バグ？
 
-エラリー）確かにISGが変わったので原文バグですね。</note>
+エラリー）確かにISGが変わったので原文バグですね。
+
+Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detail&amp;aid=3604534&amp;group_id=68187&amp;atid=912617）。</note>
       <tuv lang="EN-US">
         <seg>The locations of the various different translation memories for a given project are user-defined (see Project dialog window in &lt;l0&gt;Instant start guide)&lt;/l0&gt;</seg>
       </tuv>
