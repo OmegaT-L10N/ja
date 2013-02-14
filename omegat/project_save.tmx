@@ -3409,6 +3409,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T180816Z">
+        <seg>デフォルトでは、左から右へ表記する（LTR）言語は左寄せ、右から左へ表記する（RTL）言語は右寄せです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145249Z">
@@ -7674,6 +7682,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T200927Z">
         <seg>参加は必須ではありませんが、もし参加すれば、OmegaT に関するディスカッションに加われるほか、別途準備されたファイルの入手や、不定期に行われる調査などに参加することが可能になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Justification of source and target segments depends upon the project languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T180734Z">
+        <seg>原文と訳文の分節の行端寄せをどうするかは、プロジェクトの言語によって変わります。</seg>
       </tuv>
     </tu>
     <tu>
