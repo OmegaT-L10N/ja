@@ -2245,6 +2245,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Creating RTL target files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190815Z">
+        <seg>&lt;p0&gt;右から左へ表記する言語&lt;/p0&gt; &lt;s1&gt;RTL 訳文ファイルの作成&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Creating RTL target text&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190836Z">
+        <seg>&lt;p0&gt;右から左へ表記する言語&lt;/p0&gt; &lt;s1&gt;RTL 対訳テキストの作成&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Mixing RTL and LTR strings&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T182228Z">
@@ -2257,6 +2273,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T184617Z">
         <seg>&lt;p0&gt;右から左へ表記する言語&lt;/p0&gt; &lt;s1&gt;RTL（右から左）言語における OmegaT タグ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Target files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190649Z">
+        <seg>&lt;p0&gt;右から左へ表記する言語&lt;/p0&gt; &lt;s1&gt;訳文ファイル&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2487,6 +2511,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T030715Z">
         <seg>こうすると、フィルター設定のコピーがプロジェクト自体とセットで保持されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190546Z">
+        <seg>ヒント：翻訳作業はプレーンテキスト形式で行い、別のプログラムで必要な書式などを後から設定する方が、結果的には手間が省けるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4066,6 +4098,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174648Z">
         <seg>新しいプロジェクトを作成し、開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating translated RTL documents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190742Z">
+        <seg>翻訳した RTL 文書の作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -6216,6 +6256,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190158Z">
+        <seg>起こりうる問題をなるべく見つけやすくするために、こまめにタグ検証（「タグ検証」を参照してください）を実行し、定期的に訳文生成（下記および 「メニュー」を参照してください）を実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210313Z">
@@ -6919,6 +6967,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T084905Z">
         <seg>この設定を無効にすると、原文が訳文分節にコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190915Z">
+        <seg>もし原文が LTR であった場合、訳文の表記方向は、表示するアプリケーション上で、手動で RTL に変更する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15220,6 +15276,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T084219Z">
         <seg>分節を移動したときは、参考訳文を挿入することもできますし、原文のままにしておくこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190907Z">
+        <seg>訳文ファイルが生成されると、その表記方向は原文ファイルと同じになります。</seg>
       </tuv>
     </tu>
     <tu>
