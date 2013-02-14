@@ -6048,6 +6048,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T183400Z">
+        <seg>たとえば、OmegaT が使用するタグ文字列、原文ファイルで LTR 表記された製品名、翻訳ファイル中のプレースホルダー、あるいは文章中の数値などです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104741Z">
@@ -7164,6 +7172,22 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T183822Z">
+        <seg>このような場合、RTL（実際は両方向の）文章を適切に表示するため、RTL モードに切り替える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T183152Z">
+        <seg>しかし多くの場合、RTL 文章中に LTR 文章を混在させる必要が出てきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In most translation jobs, it is considered important for the formatting of the original text to be retained in the translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T235328Z">
@@ -7601,6 +7625,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122349Z">
         <seg>あなたが行った翻訳にマークする際に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T183841Z">
+        <seg>OmegaT が RTL モードであるときは、原文と訳文の両方が RTL モードで表示される点にご注意ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15140,6 +15172,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T084219Z">
         <seg>分節を移動したときは、参考訳文を挿入することもできますし、原文のままにしておくこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T183134Z">
+        <seg>右から左へ表記する文章だけを入力している時は、デフォルトの（左から右への）表記が使用されます。</seg>
       </tuv>
     </tu>
     <tu>
