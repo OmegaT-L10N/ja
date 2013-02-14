@@ -2405,6 +2405,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Numbering&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195658Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;番号付け&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143407Z">
@@ -12602,6 +12610,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tag numbering:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195655Z">
+        <seg>タグの番号付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tag validation failed</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154532Z">
@@ -12630,6 +12646,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193448Z">
         <seg>タグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tags are numbered incrementally by tag group.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195808Z">
+        <seg>タグに付けられる数字は、タググループごとに増えていきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13465,6 +13489,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T085046Z">
         <seg>もうひとつの章では、翻訳プロジェクトが含むさまざまなフォルダーやファイルとその役割について取り上げています。また OmegaT に関連付けられた個人設定ファイルとプログラムファイルについても、説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shortcut characters used try to reflect the underlying meaning of the tag (e.g. b for bold, i for italics, etc.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195543Z">
+        <seg>ショートカット文字は、できるだけタグの意味を反映するように選ばれます（たとえば太字の Bold には b、斜体の Italics には i など）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14842,6 +14874,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162146Z">
         <seg>繰り返しを除いた単語数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unique numbering allows tags, corresponding to each other to be grouped together and differentiates between tags, that have the same shortcut character, but are in fact different.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195720Z">
+        <seg>タグにはショートカット文字が割り当てられますが、異なるタグが同じショートカット文字を共有する場合もあります。しかしタグの種類に応じて異なる数字が割り振られるため、区別できるようになっています。</seg>
       </tuv>
     </tu>
     <tu>
