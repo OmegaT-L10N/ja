@@ -4974,6 +4974,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T191018Z">
+        <seg>それぞれの出力形式によって、RTL 表記を取り扱う方法が決まります。詳細は、関連するプログラムの取扱説明書を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174227Z">
@@ -13954,6 +13962,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T083204Z">
         <seg>メニュー&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;プロジェクト&lt;/g5&gt; &lt;g6&gt;訳文ファイルを生成&lt;/g6&gt; &lt;/m0&gt;を選ぶと、この場所に訳文ファイルが生成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To avoid changing the target files display parameters each time the files are opened, it may be possible to change the source file display parameters such that such parameters are inherited by the target files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T191831Z">
+        <seg>訳文ファイルを開くたびに表示設定を変えるという手間を避けるため、原文ファイルの表示設定を変えて保存しておく方法も検討に値します。この場合、訳文ファイルにとって適切な表示設定に合わせて、原文ファイルの表示設定を行うことになります。</seg>
       </tuv>
     </tu>
     <tu>
