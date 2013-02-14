@@ -2399,8 +2399,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Naming&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193541Z">
-        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;命名&lt;/s1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T194329Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;名前&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12596,8 +12596,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Tag naming:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193517Z">
-        <seg>タグ名：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T194345Z">
+        <seg>タグの名前：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13521,6 +13521,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170024Z">
         <seg>構文は、次の通りです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tags consist of one to three characters and a number.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T194416Z">
+        <seg>タグ名は１から３文字の文字と数字からなります。</seg>
       </tuv>
     </tu>
     <tu>
