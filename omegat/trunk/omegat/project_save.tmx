@@ -5960,6 +5960,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T172209Z">
+        <seg>たとえば拡張子に .doc がついた旧バージョンの Microsoft Word 形式ファイルは、既存のフィルターでは開けません。しかし、以下の手順で変換すれば、開けるようになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143737Z">
@@ -13215,8 +13223,8 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       <tuv lang="EN-US">
         <seg>The translated files will then need to be converted back to the original format.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171610Z">
-        <seg>訳文ファイルは、最終的には、逆変換で原文ファイルの形式に戻す必要があることを覚えておいてください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171741Z">
+        <seg>訳文ファイルは最終的に、逆変換で原文ファイルの形式に戻す必要がある点に留意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17291,6 +17299,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>import the file into OpenOffice.org writer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T172542Z">
+        <seg>ファイルを Apache OpenOffice あるいは LibreOffice の Writer で開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ina</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -18907,6 +18923,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>save the file in ODT format</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T172552Z">
+        <seg>ファイルを ODT 形式で保存しなおす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sc</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -19455,6 +19479,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>tr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>translate it into the target ODT file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T172709Z">
+        <seg>ODT 形式ファイル（既存フィルター対応済み）を OmegaT で翻訳する</seg>
       </tuv>
     </tu>
     <tu>
