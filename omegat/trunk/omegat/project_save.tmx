@@ -2341,6 +2341,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Formatted text&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193026Z">
+        <seg>&lt;p0&gt;原文ファイル&lt;/p0&gt; &lt;s1&gt;整形されたテキスト&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Mixing RTL and LTR strings&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T182311Z">
@@ -2385,6 +2393,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T140746Z">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;トークナイザー&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Naming&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193541Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;命名&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6248,6 +6264,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formatting information present in the source file usually needs to be reproduced in the target file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193057Z">
+        <seg>通常、原文ファイルにある整形情報は、訳文ファイルにも同じく必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193449Z">
+        <seg>整形タグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T150146Z">
@@ -9186,6 +9218,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174914Z">
         <seg>非表示の命令とテキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally tags are ignored when considering the similarity between different texts for matching purposes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193407Z">
+        <seg>参考訳文を探すため異なる文字列間の類似度を調べる場合、通常、タグは考慮されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12554,6 +12594,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tag naming:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193517Z">
+        <seg>タグ名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tag validation failed</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154532Z">
@@ -12574,6 +12622,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152339Z">
         <seg>タガログ語（Tagalog）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193448Z">
+        <seg>タグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tags reproduced in the translated segment will be present in the translated document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193446Z">
+        <seg>翻訳した分節にあるタグは訳文ファイルにも含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13219,6 +13283,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160539Z">
         <seg>docs フォルダーの場所を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The in-line formatting information made possible by the supported formats (in particular DocBook, HTML, XHTML, Open Document (OpenOffice.org) and Office Open XML (MS Office 2007 and later) at the time of writing) is presented as tags in OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193256Z">
+        <seg>対応しているフォーマット（具体的には DocBook、HTML、XHTML、Open Document（OpenOffice.org）、Office Open XML（MS Office 2007 以降））の行途中にある整形情報は OmegaT のなかでタグとして表示されます。</seg>
       </tuv>
     </tu>
     <tu>
