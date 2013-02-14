@@ -1154,6 +1154,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T202019Z">
+        <seg>&lt;&lt;l0&gt;稼動監視ログファイル（&lt;b0&gt;log.txt&lt;/b0&gt;）とエラー。&lt;segment 3167&gt;&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151609Z">
@@ -1198,6 +1206,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063338Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ファイルとフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; creates its tags before the process of sentence segmenting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T202110Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; では、文の分節化が行われる前にタグを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1278,6 +1294,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145821Z">
         <seg>&lt;自動&gt; は、&lt;a1&gt;OmegaT&lt;/a1&gt; に自動的に判断させます（日本語訳注：&lt;自動&gt; に設定されているといっても、テキストファイルの文字コードを内容によって自動判別するわけではない点に注意してください。たとえば日本語版の Windows OS では、シフト JIS 固定になります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt; and &lt;/b0&gt; below are paired and affect the text log.txt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201312Z">
+        <seg>下の例の &lt;b0&gt; と &lt;/b0&gt; がペアになっており、テキスト「log.txt」に作用しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9358,6 +9382,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the opening tag must always come before the corresponding closing tag:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201515Z">
+        <seg>開きタグは必ず、対応する閉じタグの前に現れる点に、注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T082621Z">
@@ -10189,6 +10221,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160530Z">
         <seg>docs フォルダーの場所を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paired tags usually indicate style information that applies to the text between the opening tag and the closing tag of a pair.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201131Z">
+        <seg>通常、ペアになったタグは、開きタグと閉じタグの間に挟まれた文字列に適用される整形情報を示しています。</seg>
       </tuv>
     </tu>
     <tu>
