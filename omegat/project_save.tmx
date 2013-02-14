@@ -2293,6 +2293,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Other file formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171149Z">
+        <seg>&lt;p0&gt;原文ファイル&lt;/p0&gt; &lt;s1&gt;その他のファイル形式&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T053508Z">
@@ -2325,6 +2333,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File conversion tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171239Z">
+        <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;ファイル変換ツール&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T033828Z">
@@ -2345,6 +2361,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092910Z">
         <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;整形されたテキストファイル&lt;/s1&gt; &lt;s2&gt;タグ付きテキスト&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Other file formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171145Z">
+        <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;その他のファイル形式&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5492,6 +5516,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T021206Z">
         <seg>外部コマンドの実行が中断しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External tools can be used to convert files to supported formats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171351Z">
+        <seg>外部ツールを使って、OmegaT が対応する形式に変換すればよいのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9705,10 +9737,34 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other file formats</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171152Z">
+        <seg>その他のファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other formatted text file types may also be handled by OmegaT by associating their file extensions to a supported file type, assuming that the corresponding segmentation rules will segment them correctly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171130Z">
+        <seg>他の形式の整形されたテキストファイルでも、OmegaT で扱うことができます。その形式にふさわしい分節化規則を持つフィルターを探して、拡張子を追加すればよいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T052337Z">
         <seg>他の形式のプレーンテキストファイルでも、OmegaT で扱うことができます。まずその拡張子を &lt;a0&gt;OmegaT&lt;/a0&gt; が対応しているフィルター形式に追加します（たとえば .pod ファイルを「テキストファイル」フィルターに追加するなど）。次に、必要であれば適切な分節化規則を設定して前処理させればよいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171220Z">
+        <seg>上記以外のプレーンテキストファイル、または整形されたテキストファイルの場合も、OmegaT で処理できる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13153,6 +13209,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133810Z">
         <seg>入力した訳文ファイルの言語が不正です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The translated files will then need to be converted back to the original format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171610Z">
+        <seg>訳文ファイルは、最終的には、逆変換で原文ファイルの形式に戻す必要があることを覚えておいてください。</seg>
       </tuv>
     </tu>
     <tu>
