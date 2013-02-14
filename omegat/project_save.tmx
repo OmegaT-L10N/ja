@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200311Z">
+        <seg>ここで言う「タググループ」とは、単一タグ（&lt;i0&gt; と &lt;/i0&gt; のような）を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#!/bin/bash java</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011917Z">
@@ -1274,6 +1282,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200947Z">
+        <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201005Z">
+        <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201008Z">
+        <seg>&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103304Z">
@@ -2409,6 +2441,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195658Z">
         <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;番号付け&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Pairs and singles&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200815Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;単一とペア&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10153,6 +10193,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pairs and singles:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200827Z">
+        <seg>単一とペア：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Panjabi, Punjabi</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T074336Z">
@@ -12029,6 +12077,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Single tags indicate formatting information that does not affect the surrounding text (an extra space or line break for example).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200942Z">
+        <seg>単一タグは、タグの周囲にあるテキストには影響しない整形情報を示します（たとえば、追加の空白や改行などです）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sinhala, Sinhalese</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T151906Z">
@@ -12650,6 +12706,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tags are always either singles or paired.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200859Z">
+        <seg>タグは常に単一であるか、ペアになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tags are numbered incrementally by tag group.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195808Z">
@@ -13243,6 +13307,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182452Z">
         <seg>ファイル形式は、整形されないプレーンテキストファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first example below has 3 tag groups (a pair, a single, and then another pair), the second example has one group only (a pair).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200746Z">
+        <seg>以下に示す最初の例には、３つのタググループ（ペア、単一、そしてまた別のペア）があります。２つめの例にあるのは、１つのグループ（ペア）だけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15608,6 +15680,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Within a segment, the first group (pair or single) receives the number 0, the second the number 1 etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200347Z">
+        <seg>分節のなかで最初のグループ（ペアもしくは単一）が数字 0 となり、次が 1 となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wolof</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152615Z">
@@ -17847,6 +17927,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is a single tag and does not affect any surrounding text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201047Z">
+        <seg>が単一タグで、周囲のテキストにはまったく影響しません。</seg>
       </tuv>
     </tu>
     <tu>
