@@ -2317,6 +2317,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Right to left languages&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T175415Z">
+        <seg>&lt;p0&gt;原文ファイル&lt;/p0&gt; &lt;s1&gt;右から左へ表記する言語&lt;/s1&gt;&lt;分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T140746Z">
@@ -2377,6 +2385,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T035755Z">
         <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;プレーンテキストファイル&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Right to left languages&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T175407Z">
+        <seg>&lt;p0&gt;訳文ファイル&lt;/p0&gt; &lt;s1&gt;右から左へ表記する言語&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3241,6 +3257,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before proceeding with such conversions, be sure to test all options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T174936Z">
+        <seg>変換作業の前に、可能な限りのすべての設定を試すことをおすすめします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T093056Z">
@@ -3589,6 +3613,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T071925Z">
         <seg>プロジェクト設定で指定したフォルダー（もしくはそのサブフォルダー）中に、辞書ファイルが存在しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T175329Z">
+        <seg>&lt;u0&gt;OmegaT のホームページ&lt;/u0&gt;で、翻訳支援ツールの最新リストをチェックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10864,6 +10896,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151657Z">
         <seg>結果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right to left languages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T175346Z">
+        <seg>右から左へ表記する言語</seg>
       </tuv>
     </tu>
     <tu>
