@@ -3721,6 +3721,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Care must be exercised with tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T080958Z">
+        <seg>タグを操作する場合には細心の注意が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121454Z">
@@ -4616,8 +4624,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T023908Z">
-        <seg>分節化規則によってはペアのタグが、連続する２つの分節にまたがって分かれることがあります。そのため、タグ検証でエラーが表示されることがあります</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T080939Z">
+        <seg>そのため、分節化規則によってはペアのタグが、連続する２つの分節にまたがって分かれることがあります。これは必ずしもタグの破損を意味しませんが、タグ検証機能は大事を取って、分節を両方ともエラーとして報告します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7119,6 +7127,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T174611Z">
         <seg>トークナイザーが正常起動しなかった場合は、次のようなログになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If they are accidentally changed, the formatting of the final file may be corrupted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T081006Z">
+        <seg>もし誤って変更してしまうと、最終的なファイルの整形が壊れてしまうかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
