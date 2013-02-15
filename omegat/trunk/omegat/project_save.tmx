@@ -2707,6 +2707,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184020Z">
+        <seg>もし削除した文字列が他の候補に無かった場合は、５％の固定ペナルティが与えられます。そのためこのような場合に、削除した文字列を含む参考訳文の類似度が１００％になることはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190546Z">
