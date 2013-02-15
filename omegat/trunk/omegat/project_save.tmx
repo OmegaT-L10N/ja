@@ -9798,6 +9798,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT can check that programming variables (like %s for instance) in the source exist in the translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T095858Z">
+        <seg>OmegaT は、プログラミング言語で使用される（たとえば %s のような）変数（書式化文字列）も検出できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT features highly customizable filters, enabling you to configure numerous aspects.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T015056Z">
