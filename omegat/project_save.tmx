@@ -1001,8 +1001,8 @@ To add files to the project, click on the Import Source Files... button in the P
       <tuv lang="EN-US">
         <seg>.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103901Z">
-        <seg>。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T161049Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3933,6 +3933,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131143Z">
         <seg>Java の簡単な MessageFormat 構図（{0} など）を確認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check simple java MessageFormat patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T161516Z">
+        <seg>Java の簡単な MessageFormat 構図を確認する</seg>
       </tuv>
     </tu>
     <tu>
@@ -16332,6 +16340,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T173655Z">
         <seg>必要であれば、既存のショートカットをカスタマイズしたり、新しいショートカットを追加することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can decide not to check at all, check for simple printf variables (like %s %d etc) or for print variables of all types.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T161032Z">
+        <seg>検出レベルは、何も確認しない、単純な printf 変数（%s, %d など）を確認、すべての変数を確認、の３つから選択できます。</seg>
       </tuv>
     </tu>
     <tu>
