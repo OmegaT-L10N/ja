@@ -1156,8 +1156,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T202019Z">
-        <seg>&lt;&lt;l0&gt;稼動監視ログファイル（&lt;b0&gt;log.txt&lt;/b0&gt;）とエラー。&lt;segment 3167&gt;&lt;/l0&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T171249Z">
+        <seg>&lt;&lt;l0&gt;稼動監視ログファイル（&lt;b0&gt;log.txt&lt;/b0&gt;）とエラー。&lt;分節 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1372,8 +1372,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201005Z">
-        <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T171239Z">
+        <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;分節 2132&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3226,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T092827Z">
         <seg>Android リソース・ファイル（*.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any matches in the target segment will then be painted red, i.e. easy to identify and correct.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T170141Z">
+        <seg>その文字列が訳文分節に存在した場合は、気づきやすいように該当箇所が赤字で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10195,8 +10203,8 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       <tuv lang="EN-US">
         <seg>One can enter a regular expression for unwanted contents in the target.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T163534Z">
-        <seg>訳文ファイルに含めたくない内容を、正規表現で入力します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T170131Z">
+        <seg>訳文ファイルに含めたくない文字列を、正規表現で入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15932,6 +15940,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065504Z">
         <seg>下線が引かれた語句の上にマウスカーソルをかざすと、説明が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When looking for fuzzy matches the remove pattern is ignored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T171327Z">
+        <seg>参考訳文の検索時には、削除すべき文字列は無視されます。</seg>
       </tuv>
     </tu>
     <tu>
