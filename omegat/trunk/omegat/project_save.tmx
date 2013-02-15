@@ -4616,8 +4616,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T010800Z">
-        <seg>分節化規則によっては、連続する２つの分節にペアのタグが分かれることがあります。そのため、タグ検証でエラーが表示されることがあります</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T023908Z">
+        <seg>分節化規則によってはペアのタグが、連続する２つの分節にまたがって分かれることがあります。そのため、タグ検証でエラーが表示されることがあります</seg>
       </tuv>
     </tu>
     <tu>
