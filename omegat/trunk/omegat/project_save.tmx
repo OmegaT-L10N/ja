@@ -2731,6 +2731,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A regular expression entered here will cause OmegaT treat the detected instances as customer tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T162913Z">
+        <seg>独自にタグとして認識させたい文字列の正規表現を、ここに入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A relatively detailed list of modifications between this version and the preceding versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201215Z">
@@ -2863,6 +2871,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T203302Z">
         <seg>動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T162631Z">
+        <seg>このチェックボックスにチェックを入れると、OmegaT は単純な Java の MessageFormat タグ（{0} など）を認識するようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4674,6 +4690,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050554Z">
         <seg>現在の &lt;a1&gt;OmegaT&lt;/a1&gt; は、プレーンテキストファイルのうち以下の形式に対応しています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom tag(s) regular expression</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T162701Z">
+        <seg>独自タグの正規表現：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6528,6 +6552,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fragment(s) that should be removed from the translation regular expressiom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T163333Z">
+        <seg>翻訳から削除すべき文字列の正規表現：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fragment(s) that should be removed from translation regular expression:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131432Z">
@@ -7937,6 +7969,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T181739Z">
         <seg>表示モードは、編集、参考訳文、用語集の３つのウィンドウそれぞれで個別に切り替えることができます。目的のウィンドウをクリックしてから、表示モードを切り替えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It checks that the number of tags and their order is identical, just like it is the case for omegat-tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T163313Z">
+        <seg>タグ検証機能は、独自タグについても、OmegaT のタグと同じように、個数と順番が変わっていないか確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10149,6 +10189,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T204258Z">
         <seg>翻訳にタグのエラーが無いことを確認したら、&lt;k0&gt;Ctrl+D&lt;/k0&gt; キーを押して訳文ファイルを生成しましょう。訳文ファイルは、プロジェクトの &lt;f1&gt;target&lt;/f1&gt; フォルダー内に作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One can enter a regular expression for unwanted contents in the target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T163534Z">
+        <seg>訳文ファイルに含めたくない内容を、正規表現で入力します。</seg>
       </tuv>
     </tu>
     <tu>
