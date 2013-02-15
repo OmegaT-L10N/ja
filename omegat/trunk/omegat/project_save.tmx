@@ -2421,6 +2421,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+T&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184135Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;タグ検証 - Ctrl+T&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143351Z">
@@ -2537,6 +2545,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T090820Z">
         <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;グループの重なり&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Group validation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184046Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;グループの検証&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184214Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;ヒント&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7021,6 +7045,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064123Z">
         <seg>ヒンディー語（Hindi）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hints for tags management</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184206Z">
+        <seg>タグ管理についてのヒント</seg>
       </tuv>
     </tu>
     <tu>
@@ -13022,6 +13054,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T090812Z">
         <seg>タググループの重なり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag group validation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184048Z">
+        <seg>タググループの検証</seg>
       </tuv>
     </tu>
     <tu>
