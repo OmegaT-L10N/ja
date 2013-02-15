@@ -1428,8 +1428,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: Always (default), Only if (X)HTML file has a header, Only if (X)HTML file has an encoding declaration, Never</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T100438Z">
-        <seg>以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更：&lt;e0&gt;常に（デフォルト）、(X)HTML ファイルにヘッダーがある場合のみ、(X)HTML ファイルにエンコーディング宣言がある場合のみ、しない</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T191636Z">
+        <seg>&lt;e0&gt;以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更：&lt;/e0&gt;常に（デフォルト）、(X)HTML ファイルにヘッダーがある場合のみ、(X)HTML ファイルにエンコーディング宣言がある場合のみ、しない</seg>
       </tuv>
     </tu>
     <tu>
@@ -2733,8 +2733,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184020Z">
-        <seg>もし削除した文字列が他の候補に無かった場合は、５％の固定ペナルティが与えられます。そのためこのような場合に、削除した文字列を含む参考訳文の類似度が１００％になることはありません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T190959Z">
+        <seg>もし削除文字列を含む参考訳文と含まない参考訳文とがあった場合は、削除文字列を含む参考訳文に対して５％の固定ペナルティが与えられます。このような場合に、削除した文字列を含む参考訳文の類似度が１００％になることは、ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8590,6 +8590,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launching this function – &lt;g0&gt;Ctrl+T&lt;i1/&gt;&lt;/g0&gt; - opens a window containing all segments in the file containing suspected broken or bad tags in the translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T192050Z">
+        <seg>&lt;g0&gt;Ctrl+T&lt;i1/&gt;&lt;/g0&gt; でこの機能を使用できます。専用のウィンドウには、壊れたもしくは誤ったと思しきタグを含む分節がすべて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T051958Z">
@@ -9304,8 +9312,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165540Z">
-        <seg>詳しくは、Joel Spolsky の&lt;a0&gt;『やさしいバグトラッキング（Painless Bug Tracking）』&lt;/a0&gt;（日本語訳は http://japanese.joelonsoftware.com/Articles/PainlessBugTracking.html）を見てください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T191724Z">
+        <seg>詳しくは、Joel Spolsky の&lt;u0&gt;『やさしいバグトラッキング（Painless Bug Tracking）』&lt;/u0&gt;（日本語訳は http://japanese.joelonsoftware.com/Articles/PainlessBugTracking.html）を見てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11468,6 +11476,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repairing the tags and recreating the target documents is easy with the validate tags function.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T192250Z">
+        <seg>タグ検証機能により、タグの修正と翻訳文書の再生成が簡単になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repetitions:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162509Z">
@@ -13098,6 +13114,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tag validation entry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T192450Z">
+        <seg>タグ検証項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tag validation failed</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154532Z">
@@ -14085,6 +14109,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T192806Z">
+        <seg>原文と訳文で比較しやすいよう、タグは青い太字で強調表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tags consist of one to three characters and a number.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T194416Z">
@@ -14165,10 +14197,26 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The validate tags function detects changes to tag sequences (whether deliberate or accidental), and shows the affected segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T191119Z">
+        <seg>タグ検証機能は、（故意か過失かによらず）変更されたタグを検知し、影響のあるセグメントを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182847Z">
         <seg>このプロセス全体を、Tck/Tcl ベースのスクリプトを介して操作・制御することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The window that opens when &lt;g2&gt;Ctrl+T&lt;/g2&gt; is pressed features a 3-column table with a link to the segment, the original segment and the target segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T192400Z">
+        <seg>&lt;g2&gt;Ctrl+T&lt;/g2&gt; により表示されるウインドウには３列の表があります。それぞれ分節へのリンク、原文の分節、訳文の分節です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15698,16 +15746,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN-US">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T181509Z">
-        <seg>Ctrl+Shift+O を押すと、OmegaT 内のテキスト入力と表示の両方を、上記の 3 通りのいずれかに順に切り替えます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T191419Z">
+        <seg>&lt;k2&gt;&lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt;&lt;/k2&gt; を押すと、&lt;a6&gt;OmegaT&lt;/a6&gt; 内のテキスト入力と表示の両方を、上記の３通りのいずれかに順に切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T181105Z">
-        <seg>OmegaT で RTL モードを使用しても、作成した訳文ファイルの表示モードには何の影響も与えません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T191542Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; で RTL モードを使用しても、作成した訳文ファイルの表示モードには何の影響も与えません。</seg>
       </tuv>
     </tu>
     <tu>
