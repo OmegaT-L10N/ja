@@ -1314,6 +1314,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;This formatting&lt;/b0&gt; has been &lt;b0&gt;duplicated here&lt;/b0&gt;.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082443Z">
+        <seg>&lt;b0&gt;この見映え設定&lt;/b0&gt;は、&lt;b0&gt;こちらにも適用&lt;/b0&gt;させましょう。&lt;分節 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be duplicated here.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082454Z">
+        <seg>&lt;b0&gt;この見映え設定&lt;/b0&gt;は、こちらにも適用させましょう。&lt;分節 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201005Z">
@@ -2453,6 +2469,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Duplication&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T081932Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;複製&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Group deletion&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082525Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;グループの削除&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Naming&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T194329Z">
@@ -2871,6 +2903,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203434Z">
         <seg>アフリカーンス語（Afrikaans）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After duplication:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082324Z">
+        <seg>複製後：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5608,6 +5648,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082204Z">
+        <seg>例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174920Z">
@@ -6865,6 +6913,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it is possible, if certain rules are strictly followed, to deviate from this basic rule.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T081844Z">
+        <seg>しかし、ある一定のルールを遵守すれば、この基本原則を曲げることも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064131Z">
@@ -8050,6 +8106,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T070730Z">
         <seg>カザフ語（Kazakh）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep in mind that in a pair group, the opening tag must come before the closing tag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082038Z">
+        <seg>タグがペアになっているタググループでは、開きタグは閉じタグの前になければならないということを忘れないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12722,6 +12786,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tag duplication:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T081953Z">
+        <seg>タグの複製：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag group deletion:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082538Z">
+        <seg>タググループの削除：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170209Z">
@@ -13213,6 +13293,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The basic rule is that the sequence of tags must be preserved in the same order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T081709Z">
+        <seg>基本原則は「タグが連続する場合は、その順番を崩さない」です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173125Z">
@@ -13435,6 +13523,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T143737Z">
         <seg>整形情報は、「文字を太字にする」ような単純なものから、異なる字体のサイズ、色、位置などが混在する表のような複雑なものまで、さまざまです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The formatting represented by the group you have duplicated will be applied to both sections.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082156Z">
+        <seg>グループを複製した箇所は、元と同じように整形されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14286,10 +14382,26 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To delete tag groups, just remove them from the segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082601Z">
+        <seg>タググループを削除するには、分節から取り除けばいいだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T015650Z">
         <seg>これらの言語版の「5 分でわかる！ OmegaT の使い方」を表示するには、言語と国の両方を指定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082022Z">
+        <seg>タググループを複製するには、単に好きな場所にコピーするだけです。</seg>
       </tuv>
     </tu>
     <tu>
