@@ -2469,6 +2469,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Operations&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T010823Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;操作&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Pairs and singles&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200815Z">
@@ -4602,6 +4610,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T204428Z">
         <seg>Delete*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T010800Z">
+        <seg>分節化規則によっては、連続する２つの分節にペアのタグが分かれることがあります。そのため、タグ検証でエラーが表示されることがあります</seg>
       </tuv>
     </tu>
     <tu>
@@ -12710,6 +12726,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195655Z">
         <seg>タグの番号付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag operations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T010810Z">
+        <seg>タグ操作</seg>
       </tuv>
     </tu>
     <tu>
