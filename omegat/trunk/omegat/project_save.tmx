@@ -1316,8 +1316,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; has been &lt;b0&gt;duplicated here&lt;/b0&gt;.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082443Z">
-        <seg>&lt;b0&gt;この見映え設定&lt;/b0&gt;は、&lt;b0&gt;こちらにも適用&lt;/b0&gt;させましょう。&lt;分節 0001&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082911Z">
+        <seg>&lt;b0&gt;この見映え設定&lt;/b0&gt;は、&lt;b0&gt;こちらにも適用&lt;/b0&gt;されました。&lt;分節 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be deleted.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082759Z">
+        <seg>&lt;b0&gt;この見映え設定&lt;/b0&gt;は削除されます。&lt;分節 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2485,6 +2493,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Group nesting&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082832Z">
+        <seg>&lt;p0&gt;タグ&lt;/p0&gt; &lt;s1&gt;グループの入れ子&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Naming&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T194329Z">
@@ -2903,6 +2919,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203434Z">
         <seg>アフリカーンス語（Afrikaans）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After deletion:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082801Z">
+        <seg>削除後：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3645,6 +3669,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145249Z">
         <seg>デフォルトでは、訳文ファイルのエンコーディングは、原文ファイルと同じになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By deleting a tag group you will remove the related formatting from the translated file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082710Z">
+        <seg>タググループを削除することで、関連する整形情報が訳文ファイルから削除されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7516,6 +7548,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T083249Z">
+        <seg>言いかえると、ペアになったタグを動かす場合、開きタグと閉じタグの両方が他のタググループのなかに収まるか、あるいは外に出ていればよいのです。そうでない場合は、翻訳ファイルが壊れてしまい、開かなくなる危険性もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165548Z">
@@ -8106,6 +8146,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T070730Z">
         <seg>カザフ語（Kazakh）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082702Z">
+        <seg>ペアになっているタググループでは、整形情報を適切に削除するため、開きタグと閉じタグの両方を削除しなければならないことに注意してください。さもなければ訳文ファイルが壊れてしまう可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9082,6 +9130,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T091101Z">
         <seg>従って、元の文書の翻訳修正という点でも、とても簡単に扱えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T083049Z">
+        <seg>タググループの順序を変更することで、タググループが他のタググループのなかに入れ子になることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12802,6 +12858,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tag group nesting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082849Z">
+        <seg>タググループの入れ子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170209Z">
@@ -14162,6 +14226,22 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T080439Z">
         <seg>このフォルダーは、最初は空の状態です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This formatting has been deleted.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082852Z">
+        <seg>この見映え設定は削除されました。&lt;分節 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is acceptable, provided the enclosing group totally encloses the enclosed group.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T083113Z">
+        <seg>この場合、外側のタググループが内側のタググループを完全に囲む限り、問題ありません。</seg>
       </tuv>
     </tu>
     <tu>
