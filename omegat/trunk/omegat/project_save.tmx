@@ -12581,6 +12581,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some tag manipulations are necessary and are benign, others will cause problems when the translated document is created.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T202746Z">
+        <seg>タグ操作には、必要なもの、行っても問題ないものもありますが、中には翻訳後の文書を作成した際に問題となるものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152515Z">
@@ -13062,6 +13070,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T081953Z">
         <seg>タグの複製：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag errors are tag sequences in the translation in which the same tag order and number as in the original segment is not reproduced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T202627Z">
+        <seg>タグエラーは、訳文分節にある一連のタグの順序や個数が、原文の分節のそれと一致しない場合に発生します。</seg>
       </tuv>
     </tu>
     <tu>
