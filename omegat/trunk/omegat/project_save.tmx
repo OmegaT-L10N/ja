@@ -1154,6 +1154,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/e0&gt;To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T192330Z">
+        <seg>&lt;/e0&gt;新しいバージョンをインストールする際、単純にインストール先として既存の OmegaT と同じフォルダーを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090437Z">
@@ -1584,6 +1592,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T211443Z">
         <seg>&lt;e0&gt;Home：&lt;/e0&gt;編集中の分節の先頭に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Install over the existing installation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T192157Z">
+        <seg>&lt;e0&gt;上書きインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Install to a new folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T193632Z">
+        <seg>&lt;e0&gt;新しいフォルダーへインストール</seg>
       </tuv>
     </tu>
     <tu>
@@ -7768,6 +7792,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173023Z">
         <seg>何らかの文字列（たとえば [参考] のような）を先頭に付加しておくと、参考訳文が適切かどうか後で確認する際に、自動挿入以外の訳文と区別しやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T192117Z">
+        <seg>OmegaT をすでにインストール済みで、それをより新しいバージョンにアップグレードしたい場合は、２つの選択肢があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14063,6 +14095,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T192510Z">
+        <seg>「古い」バージョンの OmegaT は上書きされますが、個人設定は引き継がれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &amp;source text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122459Z">
@@ -15357,6 +15397,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082852Z">
         <seg>この見映え設定は削除されました。&lt;分節 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T192946Z">
+        <seg>この中には、OmegaT の各種設定、&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; ファイルに対する変更、そして（もしあれば）独自に作成した起動スクリプト（バッチファイル）が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17175,6 +17223,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173847Z">
         <seg>たとえば、それはこんな風に出力されるはずです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T193533Z">
+        <seg>この方法では、「Windows without JRE」版の方をダウンロードしても構いません。その場合、新しいバージョンは実行時に既存の JRE を使います。</seg>
       </tuv>
     </tu>
     <tu>
