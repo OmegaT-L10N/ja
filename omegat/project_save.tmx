@@ -7724,6 +7724,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T180732Z">
+        <seg>システムオプションで［タブ区切り出力］を用いた場合は、残したい 2 つの項目の前にある、先頭の 5 つの列（Seq. Nr、Date created など）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have an existing terminology handling system - MultiTerm for example - it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T171814Z">
