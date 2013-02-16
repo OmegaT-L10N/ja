@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191128Z">
+        <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=JA # Country -Duser.country=JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#!/bin/bash java</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011917Z">
@@ -1877,6 +1885,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190823Z">
+        <seg>この場合の起動時の引数は、OmegaT.exe ファイルと同じ場所にある &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini&lt;/e3&gt; ファイルから読み込まれます。このファイルを編集することで起動引数を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T113552Z">
@@ -2526,6 +2542,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt; &lt;t2&gt;INI file&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190631Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt; &lt;t2&gt;INI ファイル&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Shortcuts Customization&lt;/p0&gt; &lt;s1&gt;View Menu&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174208Z">
@@ -2810,6 +2834,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T093216Z">
         <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;参考訳文&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Upgrading OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191203Z">
+        <seg>&lt;p0&gt;OmegaT のアップグレード&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8429,6 +8461,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）Oracle の日本語ページで正式に「Java Web Start」と表記されているため、特に日本語に訳しません。</note>
+      <tuv lang="EN-US">
+        <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T192017Z">
+        <seg>Java Web Start 版（自動更新されます）や、Windows 上にインストールされたクロスプラットフォーム版は対象外です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>It does not include spell checking.</seg>
       </tuv>
@@ -10647,6 +10688,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103035Z">
         <seg>Mac では、修飾子 &lt;e0&gt;meta&lt;/e0&gt; の代わりに &lt;e1&gt;command&lt;/e1&gt; キーを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190601Z">
+        <seg>いったん &lt;a0&gt;OmegaT&lt;/a0&gt; をインストールしたならば、&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; をクリックして直接起動することができます。また、コマンドラインから起動することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14441,6 +14490,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191013Z">
+        <seg>以下に示した INI ファイルは、最大で 1GB のメモリーを確保し、ユーザー言語として日本語を、国に日本を指定した例です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014939Z">
@@ -14556,8 +14613,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN-US">
         <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190034Z">
-        <seg>インストールの最後の画面では、リードミー（Readme）ファイルと、インストールしたバージョンの変更点を記載したファイルを見るかどうか、選ぶことができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190525Z">
+        <seg>インストールの最後の画面では、リードミー（Readme）ファイルと、インストールしたバージョンの変更点を記載したファイルを見るかどうかを、選ぶことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14787,6 +14844,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T101218Z">
         <seg>ショートカット定義構文は、次の通りです：&lt;c0&gt;&lt;メニュー項目コード&gt;=&lt;ショートカット&gt;&lt;/c0&gt;。&lt;e1&gt;&lt;メニュー項目コード&gt;&lt;/e1&gt; の値は、後述する表を参照してください。&lt;e2&gt;&lt;ショートカット&gt;&lt;/e2&gt; には割り当てたいキーの組み合わせを指定します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The simplest way to launch OmegaT, however, is to execute the&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt; program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190732Z">
+        <seg>しかし、一番簡単なのはプログラム &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt; を実行することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15292,6 +15357,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082852Z">
         <seg>この見映え設定は削除されました。&lt;分節 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191433Z">
+        <seg>この情報は「通常の」Windows 版 OmegaT のみを対象としています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16398,6 +16471,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T175113Z">
         <seg>用語集ファイルの更新は、割合簡単です。&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; を押して、新しい用語、その訳文、任意のコメントを入力（入力欄は TAB キーで移動できます）し、保存するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrading OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191205Z">
+        <seg>OmegaT のアップグレード</seg>
       </tuv>
     </tu>
     <tu>
