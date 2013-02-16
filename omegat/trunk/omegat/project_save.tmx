@@ -9574,6 +9574,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T090733Z">
+        <seg>新しい用語は、翻訳中でも手動で（テキストエディターなどを別途用いて）用語集ファイルに追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T090850Z">
+        <seg>追加した用語は、用語集ファイルの変更を保存するまでは反映されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154521Z">
@@ -14063,6 +14079,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T090625Z">
+        <seg>用語集が機能するのは、用語集の項目と完全一致する部分のみです（その活用形などは検索されません）。（訳注：トークナイザー プラグインを使用すると、改善される場合があります。詳細は付録 A を参照してください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The group archives are public and can be viewed without subscription to the group.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201152Z">
@@ -14317,6 +14341,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T091254Z">
+        <seg>用語は、必ずしも１つの単語である必要はありません。次の例を見てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085230Z">
@@ -14425,6 +14457,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T191119Z">
         <seg>タグ検証機能は、（故意か過失かによらず）変更されたタグを検知し、影響のあるセグメントを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vocabulary entry can have a comment added (see "transitive verb" for the second item).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T090419Z">
+        <seg>見出し語ごとにコメントを追加できます（上の図の「意味：」で始まる行がコメントです）</seg>
       </tuv>
     </tu>
     <tu>
