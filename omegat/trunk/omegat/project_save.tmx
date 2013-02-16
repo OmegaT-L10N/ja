@@ -1282,6 +1282,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064311Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; はプロジェクトを開いた際、自動的にそのファイルを検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T152056Z">
@@ -2273,6 +2281,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T064721Z">
         <seg>&lt;p0&gt;プロジェクトファイル&lt;/p0&gt; &lt;s1&gt;omegat.project ファイル&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Glossary subfolder&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064118Z">
+        <seg>&lt;p0&gt;プロジェクトファイル&lt;/p0&gt; &lt;s1&gt;用語集フォルダー&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3365,6 +3381,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T184634Z">
         <seg>上で述べたように、OmegaT が使用するタグは LTR 文字列です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064049Z">
+        <seg>このとき、既存の内容は変更されません。したがって、既存のファイルへの影響は最小限に留まります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7367,6 +7391,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T185734Z">
         <seg>対象の文書にもよりますが、翻訳者に強くお勧めする点があります。原文の構成が許す限り、OmegaT 上に出てくるタグを減らすために、原文の見栄えを単純化してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T063958Z">
+        <seg>ファイルがすでに存在した場合、その形式と文字コードに問題が無ければ、特にメッセージは表示されません。新しい用語は常にタブ区切り形式の文字コード UTF-8 で追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15078,6 +15110,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To use an existing glossary, simply place it in the&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064236Z">
+        <seg>すでにある用語集を使用する場合は、プロジェクトを作成後、&lt;i0/&gt;&lt;f1&gt;glossary&lt;/f1&gt; フォルダーにそのファイルを置いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tokenizer plugin</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T114301Z">
@@ -15780,6 +15820,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152503Z">
         <seg>ウルドゥー語（Urdu）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064100Z">
+        <seg>使い方</seg>
       </tuv>
     </tu>
     <tu>
