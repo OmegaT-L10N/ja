@@ -14040,6 +14040,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The location of the file must be within the &lt;f1&gt;/glossary &lt;/f1&gt;folder, but it can be in a deeper directory (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T054018Z">
+        <seg>ファイルの場所は &lt;f1&gt;glossary &lt;/f1&gt; フォルダー内を指定する必要があります。ただし、直下ではなくもっと深い階層に置いてもかまいません（たとえば &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The location of user files depends upon the platform you use:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184147Z">
