@@ -9830,6 +9830,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T134421Z">
+        <seg>このとき、もし訳文が語形変化のある言語（図の場合はスロベニア語）だった場合は、これで終わりではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that the opening tag must always come before the corresponding closing tag:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201515Z">
@@ -14463,8 +14471,8 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       <tuv lang="EN-US">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T130549Z">
-        <seg>下線が引かれた項目「pop-up menu」は、用語集ウィンドウに「ポップアップメニュー」として表示されています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T134352Z">
+        <seg>下線が引かれた項目「pop-up menu」は、用語集ウィンドウに「pojavni menu」の見出しで表示されています。</seg>
       </tuv>
     </tu>
     <tu>
