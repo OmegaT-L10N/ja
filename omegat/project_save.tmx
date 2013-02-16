@@ -7499,6 +7499,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T031803Z">
+        <seg>原文のタグを確認する必要はあるが、翻訳後の文書に整形情報を含む必要があまりないのであれば、訳文にタグを入れる必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165604Z">
@@ -10678,6 +10686,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay extra attention to tag pairs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T031501Z">
+        <seg>ペアになったタグに特に注意する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T074407Z">
@@ -11268,6 +11284,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read the tag operations section to see what can be done with tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T031113Z">
+        <seg>タグに対してどういった操作が可能か、タグ操作のセクションを見てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read-only</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155733Z">
@@ -11424,6 +11448,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025219Z">
         <seg>良いバグ報告には、次の３点が含まれていることを覚えておいてください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember that if you find tags a problem in OmegaT and formatting is not extremely relevant for the current translation, removing tags may be the easiest way out of problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T031306Z">
+        <seg>もし、タグの取り扱いが面倒な場合や整形が翻訳内容にそれほど影響しないときは、訳文にタグを付けないことが、もっとも簡単な解決策になりうることを忘れないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12469,6 +12501,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simplify the original text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T030448Z">
+        <seg>原文テキストを単純にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simplifying the original formatting greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T030418Z">
+        <seg>原文の整形を単純にしておくと、タグは減ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simplifying the original text formatting greatly contributes to reducing the number of tags.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T165438Z">
@@ -13206,6 +13254,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195808Z">
         <seg>タグに付けられる数字は、タググループごとに増えていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tags generally represent formatting in some form of the original text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T030337Z">
+        <seg>タグがあるということは、多くの場合、ある種のフォーマット・整形がそこで行われているということを表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16156,6 +16212,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T102004Z">
         <seg>翻訳の成果を確認したくなったら、&lt;k1&gt;Ctrl+D&lt;/k1&gt; キーを押して、いつでも訳文ファイルを生成できます。訳文ファイルは、プロジェクトの target フォルダー内に作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where circumstances permit, unifying used fonts, font sizes, colors, etc. should be considered, as it could simplify the translation and reduce the potential for tag errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T030913Z">
+        <seg>もし可能であれば、文書中で使用する字体の種類、大きさ、色などをなるべく統一しておくと、翻訳作業を単純化でき、タグ関連のエラーを減らすことができます。</seg>
       </tuv>
     </tu>
     <tu>
