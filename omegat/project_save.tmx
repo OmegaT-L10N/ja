@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T203324Z">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>${extension-0} docx</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163813Z">
@@ -2238,6 +2246,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T202342Z">
+        <seg>&lt;p0&gt;OmegaT のインストール&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T183149Z">
@@ -3192,6 +3208,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T015911Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; のドックへの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T203411Z">
+        <seg>メニュー（KDE）またはパネル（GNOME）への OmegaT の追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -5507,6 +5531,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T183221Z">
         <seg>パッケージのダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading the right package</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T202558Z">
+        <seg>適切なパッケージのダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -7982,8 +8014,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN-US">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T202126Z">
-        <seg>既存の OmegaT が「Windows with JRE」バージョンの場合は、新しいバージョンも「Windows with JRE」でなければなりません（）。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T202332Z">
+        <seg>既存の OmegaT が「Windows with JRE」バージョンの場合は、新しいバージョンも「Windows with JRE」でなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9149,6 +9181,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174859Z">
         <seg>リンク（URL）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linux (Intel) Users</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T202350Z">
+        <seg>Linux（Intel）ユーザー</seg>
       </tuv>
     </tu>
     <tu>
@@ -15609,6 +15649,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will create an omegat/ folder in the working folder in which you will find all the files needed to run &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T203028Z">
+        <seg>作業フォルダーに omegat フォルダーが作成され、&lt;a0&gt;OmegaT&lt;/a0&gt; の実行に必要なすべてのファイルが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133948Z">
@@ -15869,6 +15917,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T183149Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; のユーザーインターフェースや取扱説明書、その他関連文書を翻訳するには：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To untar the &lt;e1&gt;.tar.gz&lt;/e1&gt; file:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T203317Z">
+        <seg>&lt;e1&gt;.tar.gz&lt;/e1&gt; ファイルを展開するコマンドは以下の通りです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16501,6 +16557,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173308Z">
         <seg>{0} のプラグインの型が不明です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unpack/untar the downloaded file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T202927Z">
+        <seg>ダウンロードしたファイルを展開（unpack/untar）してください。</seg>
       </tuv>
     </tu>
     <tu>
