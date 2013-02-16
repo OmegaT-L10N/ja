@@ -2518,6 +2518,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190046Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Shortcuts Customization&lt;/p0&gt; &lt;s1&gt;View Menu&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174208Z">
@@ -7780,6 +7788,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T184354Z">
+        <seg>該当するチェックボックスにチェックを入れた場合は、選択した言語を使うように OmegaT.l4J.ini ファイルをカスタマイズします（詳細は次節を参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T180732Z">
@@ -8089,6 +8105,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063629Z">
         <seg>下の図は OmegaT での表示例ですが、&lt;f0&gt;マイ プロジェクト&lt;/f0&gt;フォルダーに３つの OmegaT プロジェクトが含まれていることが分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T184141Z">
+        <seg>続く画面で、インストール中に使用する言語を OmegaT 自体でも使うかどうか設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8931,6 +8955,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T164247Z">
         <seg>{0} が更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Yu-Tang）左ボタンによる通常のドラッグ操作だと、デスクトップへ移動になってしまうので、ショートカットを作れるよう「右ボタン」を明記しました。</note>
+      <tuv lang="EN-US">
+        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T185636Z">
+        <seg>ライセンスに同意した後、セットアッププログラムで&lt;e0&gt;スタート&lt;/e0&gt;メニューにフォルダーを作成するかどうかと、デスクトップとクイック起動バーに OmegaT アイコンを追加するかを指定できます。&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; をデスクトップやスタートメニューへ右ボタンでドラッグすることにより、ショートカットを別途、作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12109,6 +12142,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Running &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190058Z">
+        <seg>&lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt; の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Russian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121528Z">
@@ -14509,6 +14550,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165145Z">
         <seg>言語コードの書式は xx-YY、xx_YY、xxx-YY、xxx-YY のいずれかです。xx や xxx は言語コード、YY は地域コード（任意）をそれぞれ表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190034Z">
+        <seg>インストールの最後の画面では、リードミー（Readme）ファイルと、インストールしたバージョンの変更点を記載したファイルを見るかどうか、選ぶことができます。</seg>
       </tuv>
     </tu>
     <tu>
