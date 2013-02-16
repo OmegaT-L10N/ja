@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170551Z">
+        <seg>"This is a source term, which contains a comma","これは訳文の用語です, カンマも含みます"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#!/bin/bash java</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011917Z">
@@ -2101,6 +2109,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Creating a glossary&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T172226Z">
+        <seg>&lt;p0&gt;用語集&lt;/p0&gt; &lt;s1&gt;用語集の作成&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;File format&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T160442Z">
@@ -2113,6 +2129,23 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T092030Z">
         <seg>&lt;p0&gt;用語集&lt;/p0&gt; &lt;s1&gt;用語集ウィンドウ&lt;/s1&gt; &lt;t2&gt;複数単語による項目&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>https://www.microsoft.com/Language/ja-JP/Terminology.aspx</note>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Microsoft Terminology collection&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170808Z">
+        <seg>&lt;p0&gt;用語集&lt;/p0&gt; &lt;s1&gt;マイクロソフト用語集&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;TBX format&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170611Z">
+        <seg>&lt;p0&gt;用語集&lt;/p0&gt; &lt;s1&gt;TBX 形式&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2753,6 +2786,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025302Z">
         <seg>&lt;ショートカット&gt; は次の形式に従います：０個以上の &lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt;、続いて０個または１個の &lt;c1&gt;&lt;イベント&gt;&lt;/c1&gt;、続いて１個の &lt;c2&gt;&lt;キー&gt;&lt;/c2&gt;。ただし：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u1&gt;Microsoft Terminology Collection&lt;/u1&gt; &lt;i2/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T172202Z">
+        <seg>&lt;u1&gt;マイクロソフト用語集&lt;/u1&gt; &lt;i2/&gt;は 100 種類近くの言語でダウンロード提供されており、基本的な IT 用語集として使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7217,6 +7258,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to create glossaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T172243Z">
+        <seg>用語集の作成手順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to download and install dictionaries</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T005946Z">
@@ -7627,6 +7676,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have an existing terminology handling system - MultiTerm for example - it is quite possible it offers the export of terminology data via TBX format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T171814Z">
+        <seg>もし何か用語を扱うシステム（たとえば MultiTerm）を使っているなら、用語集データを TBX 形式で出力できる機能を備えている可能性が十分にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T031237Z">
@@ -7800,6 +7857,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T024733Z">
         <seg>OmegaT 以外のファイルマネージャーで見ると、翻訳プロジェクトは他のフォルダーと特に区別無く表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170913Z">
+        <seg>プレーンテキストファイルだけでなく、TBX 形式&lt;i0/&gt;にも対応しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13282,6 +13347,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T171446Z">
+        <seg>TBX（Term Base eXchange）は、オープンな XML ベースの標準規格で、構造化された用語集データの互換を目的としています。TBX は国際標準規格として、LISA と ISO によって承認されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173011Z">
@@ -18663,6 +18736,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181725Z">
         <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170719Z">
+        <seg>https://www.microsoft.com/Language/ja-JP/Terminology.aspx</seg>
       </tuv>
     </tu>
     <tu>
