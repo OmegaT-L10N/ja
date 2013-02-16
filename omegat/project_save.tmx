@@ -6754,8 +6754,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T042316Z">
-        <seg>用語集は、OmegaT で参照用として使用できる、手動で作成と更新を行うファイルです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T045802Z">
+        <seg>用語集は &lt;a0&gt;OmegaT&lt;/a0&gt; から参照用として使用できるファイルで、作成と更新は手動で行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7261,6 +7261,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T204828Z">
         <seg>ファイルが編集ウィンドウに読み込まれない場合は、OmegaT が原文ファイルのファイル形式に対応していないのかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T045915Z">
+        <seg>ある OmegaT のプロジェクトに１つ以上の用語集がある場合、現在の分節中に見つかった用語が、用語集ウィンドウに自動的に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16757,6 +16765,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T074323Z">
         <seg>&lt;g0&gt;メニューの［ツール］→［翻訳状況］&lt;/g0&gt;から参照できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You define its location and name in the project properties dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T050023Z">
+        <seg>用語集ファイルの場所と名前は、プロジェクト設定ダイアログで設定できます。</seg>
       </tuv>
     </tu>
     <tu>
