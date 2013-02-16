@@ -13927,6 +13927,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T063221Z">
+        <seg>場所を指定した時点では、ファイルが必ずしも存在する必要はありません。用語を追加するときに、（必要であれば）自動的に作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181733Z">
