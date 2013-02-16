@@ -7763,6 +7763,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>In this case pay extra attention to tag pairs since deleting one side of the pair but forgetting to delete the other is guaranteed to corrupt your document's formatting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T032204Z">
+        <seg>この場合、ペアになっているタグには特に注意を払ってください。片方のタグだけ削除してしまうと文書の整形情報が壊れてしまうからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>「^s^s+」は原文バグ？ さらに、ふつうは「\s{2,}」の方を使うのでは…。</note>
       <tuv lang="EN-US">
         <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
@@ -9994,6 +10002,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T150731Z">
         <seg>いくつかのファイル形式（Java properties など）に対しては、その形式に必須のエンコーディングを設定します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT is not yet able to detect mistakes in formatting fully automatically, so it will not prompt you if you make an error or change formatting to fit your target language better.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T041006Z">
+        <seg>OmegaT はまだ整形に関する誤りを、すべて自動で見つけだすことはできません。何か間違いがあったり、訳文言語にあうよう整形情報を変えたにもかかわらず、検出できないこともあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12525,6 +12541,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T032224Z">
+        <seg>タグはテキストの中に含まれているので、分節化規則を使ってタグの少ない分節を生成することが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T151703Z">
@@ -12641,6 +12665,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152515Z">
         <seg>翻訳するファイル名を自動的に変更したい時があると思います。たとえば、ファイル名のあとに言語コードを追加したい場合などです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes, however, your translated file may look strange, and – in the worst case – may even refuse to open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T041001Z">
+        <seg>しかしながら、OpenDocumentかOpenOffice.orgのファイルで訳文ファイルが何かおかしい場合は、ファイルを開くことができないことがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14594,6 +14626,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T083113Z">
         <seg>この場合、外側のタググループが内側のタググループを完全に囲む限り、問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an advanced feature and some experience is required in order for it to be applied properly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T032531Z">
+        <seg>これは比較的高度な機能であり、うまく使いこなすにはあるていどの経験が必要です。</seg>
       </tuv>
     </tu>
     <tu>
