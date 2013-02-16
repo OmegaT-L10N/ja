@@ -2820,6 +2820,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T174412Z">
+        <seg>ダイアログが開くので、そこで原文の用語、対応する訳文、任意のコメントを入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T190959Z">
@@ -3064,6 +3072,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T015911Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; のドックへの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding new entries is done by using the keyboard shortcut &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T173851Z">
+        <seg>新しい用語は、キーボードショートカット &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; で追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14426,6 +14442,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121205T103108Z">
         <seg>プロジェクトフォルダー「{0}」を作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project setting allows one can enter a name for a writable glossary file (see beginning of this chapter).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T173804Z">
+        <seg>プロジェクト設定では、書き込み可能な用語集ファイルの名前を入力することができます（本章の最初を参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
