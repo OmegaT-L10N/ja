@@ -2693,6 +2693,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T042336Z">
+        <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;用語集ウィンドウ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt;On an Apple Mac, use the &lt;k1&gt;Cmd&lt;/k1&gt; or &lt;k2&gt;Apple&lt;/k2&gt; key instead of the &lt;k3&gt;Ctrl&lt;/k3&gt; key</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T121815Z">
@@ -6732,6 +6740,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174934Z">
         <seg>共通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T042252Z">
+        <seg>用語集 (Glossaries)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T042316Z">
+        <seg>用語集は、OmegaT で参照用として使用できる、手動で作成と更新を行うファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12671,8 +12695,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN-US">
         <seg>Sometimes, however, your translated file may look strange, and – in the worst case – may even refuse to open.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T041001Z">
-        <seg>しかしながら、OpenDocumentかOpenOffice.orgのファイルで訳文ファイルが何かおかしい場合は、ファイルを開くことができないことがあります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T041840Z">
+        <seg>したがって、タグのエラーが見過ごされた時には、生成した訳文ファイルが何かおかしかったり、最悪の場合は、ファイルを開くことができなくなるおそれもあります。</seg>
       </tuv>
     </tu>
     <tu>
