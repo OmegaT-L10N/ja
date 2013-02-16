@@ -2341,6 +2341,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;User files&lt;/s1&gt; &lt;s2&gt;Glossaries&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T164722Z">
+        <seg>&lt;p0&gt;プロジェクトファイル&lt;/p0&gt; &lt;s1&gt;個人設定ファイル&lt;/s1&gt; &lt;s2&gt;用語集&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;User settings files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T085147Z">
@@ -3200,6 +3208,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T034046Z">
         <seg>プロジェクト専用の外部コマンドを許可する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also supported is the CSV format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T165801Z">
+        <seg>また CSV 形式にも対応しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4202,6 +4218,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174924Z">
         <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment fields are separated by a comma ','.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170239Z">
+        <seg>ただし列は、カンマ（コンマ）記号「,」で区切られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6248,6 +6272,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T164723Z">
+        <seg>ファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File formats</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T033830Z">
@@ -6836,6 +6868,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130749Z">
         <seg>用語集ファイル：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T164803Z">
+        <seg>用語集ファイルは単純なテキストファイルで、タブ区切りの３つの列（カラム）からなるリストの形をしています。最初の列と２番目の列はそれぞれ原文、訳文の用語が入ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glossary files can be either in system default encoding (and indicated by the extension .tab) or in UTF-8 (the extension .utf8).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T165208Z">
+        <seg>用語集ファイルの文字エンコードには、システムのデフォルト（拡張子を .tab とします）または UTF-8 （拡張子を .utf8　または .txt とします）のいずれかを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13061,6 +13109,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170414Z">
+        <seg>また文字列は引用符「"」で括られます。そのため、列区切りと区別して、文字列内にカンマを含むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SubRip Subtitles Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174537Z">
@@ -13829,6 +13885,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Unicode encoding (UTF8) is preferred for obvious reasons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T165731Z">
+        <seg>エンコーディングはユニコード（UTF8）が明らかに好まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The alternative is to enter a translation that is identical to the source text.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025311Z">
@@ -14469,6 +14533,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The third column can be used for additional information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T164811Z">
+        <seg>３番目の列には追加情報を入れることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tokenizer names are given in the Readme.txt file distributed with the tokenizer files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170233Z">
@@ -14818,6 +14890,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T080439Z">
         <seg>このフォルダーは、最初は空の状態です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This format is the same as the tab separated one: source term, target term.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T165959Z">
+        <seg>この形式は、タブ区切りと同じように、原文の用語、訳文の用語、そしてコメントの列から構成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16893,6 +16973,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160351Z">
         <seg>詳細はこのファイルを参照してください：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T165026Z">
+        <seg>訳文用の列は、空にしておくこともできます。たとえば、原文の用語とコメントのみを含む登録も可能です。</seg>
       </tuv>
     </tu>
     <tu>
