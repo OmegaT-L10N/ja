@@ -2264,8 +2264,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164201Z">
-        <seg>&lt;p0&gt;OmegaT のインストール&lt;/p0&gt; &lt;s1&gt;Mac OS X&lt;/s1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T165953Z">
+        <seg>&lt;p0&gt;OmegaT のインストール&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,6 +2602,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163430Z">
         <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T170007Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5595,6 +5603,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174941Z">
         <seg>図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag and drop &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T165907Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; ファイルをドックへドラッグ＆ドロップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14777,6 +14793,15 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）どうも Apple（jp）は「アプリケーション」フォルダを正式名称にしているっぽい…。訳語の方針（「フォルダー」と伸ばす）と矛盾しますが、とりあえず公式に合わせておきます。</note>
+      <tuv lang="EN-US">
+        <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T165426Z">
+        <seg>フォルダーには２つのファイルが含まれています。index.html と &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app&lt;/e3&gt; です。このフォルダーを適切な場所（アプリケーションフォルダなど）へコピーしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project:</seg>
       </tuv>
@@ -15598,6 +15623,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130128T150944Z">
         <seg>このコマンドは、訳文ファイルを生成した後に実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This creates a folder called &lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; &lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164820Z">
+        <seg>&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;&lt;/e1&gt; フォルダーが作成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16875,6 +16908,7 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）手順については、https://www.apple.com/jp/softwareupdate/ を参照しました。</note>
       <tuv lang="EN-US">
         <seg>Use "Software Update..." from the Apple menu to update your Java version.</seg>
       </tuv>
