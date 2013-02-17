@@ -5863,6 +5863,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T041826Z">
+        <seg>［新規アイテム名］として &lt;a2&gt;OmegaT&lt;/a2&gt; と入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130423Z">
@@ -8091,12 +8099,11 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Yu-Tang）KDE 環境を持たないので、詳細不明。検索しても、そもそも日本語化されているのか（できるのか）も分からなかったので、英語のメニューのままにしておきます。</note>
       <tuv lang="EN-US">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T040344Z">
-        <seg>KMenuEditor から［File］→［New Item］を選びます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T041549Z">
+        <seg>KMenuEditor から［ファイル］→［新規アイテム］を選びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8218,6 +8225,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055056Z">
         <seg>そのような場合には、コマンド実行時点で、選択範囲が分節の境界まで縮小・調整されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T043115Z">
+        <seg>［コマンド］欄には、ナビゲーションボタンを使用して &lt;a0&gt;OmegaT&lt;/a0&gt; 起動スクリプト（展開したフォルダーの中にある &lt;a0&gt;OmegaT&lt;/a0&gt; という名称のファイル）を指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15232,6 +15247,7 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）2.0.5からの流用訳だけれど、メニュー構成が合致しているか未確認。</note>
       <tuv lang="EN-US">
         <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
       </tuv>
