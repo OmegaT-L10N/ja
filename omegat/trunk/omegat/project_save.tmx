@@ -1540,6 +1540,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T171944Z">
+        <seg>&lt;e0&gt;用語集&lt;/e0&gt;、&lt;e0&gt;辞書&lt;/e0&gt;、&lt;e1&gt;機械翻訳&lt;/e1&gt;、&lt;e2&gt;綴り確認&lt;/e2&gt;、&lt;e2&gt;LanguageTool：&lt;/e2&gt;OmegaT では辞書と用語集を幅広く活用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; and &lt;e2&gt;Spellchecker:&lt;/e2&gt; OmegaT allows one an extensive use of dictionaries and glossaries.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T181944Z">
@@ -1668,6 +1676,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T172529Z">
+        <seg>&lt;e0&gt;使用言語と言語コード：&lt;/e0&gt;言語名と言語コードの ISO コード表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T183616Z">
@@ -1769,6 +1785,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T161307Z">
         <seg>&lt;e0&gt;原文の分節化：&lt;/e0&gt;翻訳メモリツールは、分節と呼ばれるテキスト単位で処理を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T172549Z">
+        <seg>&lt;e0&gt;ショートカットのカスタマイズ：&lt;/e0&gt;ショートカットをあなた好みにカスタマイズしましょう</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,6 +7762,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T172048Z">
+        <seg>インターネットに接続していれば、Google Translate や Microsoft Translator のような機械翻訳サービスを OmegaT の中から利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an Internet connection is available, various MT services such as Google Translate can be utilized from within OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T182440Z">
@@ -8582,6 +8614,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction into Tokenizer and Scripting plugins</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T172652Z">
+        <seg>トークナイザー プラグインとスクリプト プラグインの導入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inuktitut</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T070510Z">
@@ -9285,6 +9325,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T184827Z">
         <seg>法律上の表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T172922Z">
+        <seg>法律上の表示と謝辞</seg>
       </tuv>
     </tu>
     <tu>
@@ -14197,6 +14245,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Team Projects - in preparation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T172737Z">
+        <seg>チームプロジェクト - 準備作業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Team synchronization</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160521Z">
@@ -14338,6 +14394,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T173544Z">
         <seg>Apple キーボードでは、「cmd」キーには「command」またはリンゴ マークが記されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line brak into the text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T173252Z">
+        <seg>［Shift］キー自体は、特に機能を持ちません。［Shift］キーを押しながら何かのキーを押しても、そのキー本来の動作をするだけです。ただし &lt;l0&gt;Shift+Enter&lt;/l0&gt; の組み合わせに限っては、テキストに改行を挿入します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15029,6 +15093,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T021721Z">
         <seg>行頭の数値はシステムによって異なりますので、気にする必要はありません。Source tokenizer と target tokenizer の名前を確認してください。起動オプションで指定した名前が、ログに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The openSource LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T172414Z">
+        <seg>オープンソースのツール LanguageTool は、文法や文体のありがちなミスを教えてくれます。</seg>
       </tuv>
     </tu>
     <tu>
