@@ -2262,6 +2262,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164201Z">
+        <seg>&lt;p0&gt;OmegaT のインストール&lt;/p0&gt; &lt;s1&gt;Mac OS X&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T183149Z">
@@ -2586,6 +2594,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190649Z">
         <seg>&lt;p0&gt;右から左へ表記する言語&lt;/p0&gt; &lt;s1&gt;訳文ファイル&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163430Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,6 +4266,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check "Command line launching" below for more information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164139Z">
+        <seg>詳細は「コマンドラインからの起動」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T144955Z">
@@ -4358,6 +4382,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T043421Z">
         <seg>［アイコン］ボタン（［Name/Description/Comment］欄の右にあります）をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the icon button, then hit &lt;e0&gt;Browse...&lt;/e0&gt; and navigate to the /images subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T162846Z">
+        <seg>［アイコン］ボタンを押し、&lt;e0&gt;［閲覧...］&lt;/e0&gt;を押し、&lt;a1&gt;OmegaT&lt;/a1&gt; のプログラムフォルダーにある images フォルダーを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7041,6 +7073,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;a4&gt;OmegaT&lt;/a4&gt;.png can be selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163413Z">
+        <seg>GNOME は、何も指定しないとアイコンに SVG ファイルを想定するらしく、ファイル形式に対応しているはずのアイコンファイルを表示できないことがあります。しかし、上記のようにフォルダーを選択すれば、OmegaT.png を選択できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Galician</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210318Z">
@@ -9449,6 +9489,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mac OS X Users</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164214Z">
+        <seg>Mac OS X ユーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mac OS X specifics</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T171610Z">
@@ -9549,6 +9597,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012534Z">
         <seg>コマンドラインで OmegaT_2.6 フォルダーに移動してから、このファイルに実行権限をつけてください（chmod +x OmegaT）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that your &lt;e2&gt;PATH &lt;/e2&gt;settings are correct and that .&lt;e3&gt;jar&lt;/e3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164132Z">
+        <seg>&lt;e2&gt;PATH&lt;/e2&gt; の設定が正しいことと、&lt;e3&gt;.jar&lt;/e3&gt; ファイルが正しく Java に関連づけられていることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9805,6 +9861,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T071514Z">
         <seg>Merriam Webster 10th dictionary - 使用中の様子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Methods differ depending on the distribution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164022Z">
+        <seg>その方法はディストリビューションによって異なります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13059,6 +13123,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T043607Z">
         <seg>アイコンとして &lt;a1&gt;OmegaT&lt;/a1&gt;.png を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T162911Z">
+        <seg>アイコンとして &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt; を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17793,6 +17865,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085446Z">
         <seg>翻訳入力行に、対応する原文を入力した状態にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163958Z">
+        <seg>OmegaT の実行は、起動オプションを記述したスクリプトを使ってコマンドラインから可能です。あるいは &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; をクリックして直接起動することもできます。</seg>
       </tuv>
     </tu>
     <tu>
