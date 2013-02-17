@@ -10481,6 +10481,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174322Z">
+        <seg>ショートカットは個人設定でカスタマイズできることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122240Z">
@@ -12919,6 +12927,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174353Z">
+        <seg>詳しくは&lt;l0&gt;付録 ショートカットのカスタマイズ&lt;/l0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T072822Z">
@@ -13931,6 +13947,14 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174206Z">
+        <seg>システム共通のコマンド：すべて選択（&lt;k0&gt;Ctrl+A&lt;/k0&gt;）、貼り付け（&lt;e0&gt;Ctrl+V&lt;/e0&gt;）、切り取り（&lt;e2&gt;Ctrl+X&lt;/e2&gt;）、コピー（&lt;e3&gt;Ctrl+C&lt;/e3&gt;）、参考訳文を挿入（&lt;e4&gt;Ctrl+I&lt;/e4&gt;）、原文を挿入（&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;）は、原理的に現在編集中の分節内のテキストに対してだけ実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Windows では一部のショートカットキーが異なるため、バグ登録済み（https://sourceforge.net/tracker/?func=detail&amp;aid=3603509&amp;group_id=68187&amp;atid=912617）。</note>
       <tuv lang="EN-US">
         <seg>System-wide commands: Paste (&lt;e0&gt;Ctrl+V&lt;/e0&gt; or &lt;e1&gt;Ctrl+Insert&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt; or &lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on any selection, including those that extend beyond the current segment.</seg>
@@ -14551,6 +14575,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Scripting plugin for OmegaT can be downloaded from the &lt;u0&gt;OmegaT plugins download site&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174542Z">
+        <seg>OmegaT 用のスクリプト プラグインは、&lt;u0&gt;OmegaT プラグインのダウンロードサイト&lt;/u0&gt;から入手できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Scripting plugin for OmegaT can be downloaded from the OmegaT plugins download site (&lt;u0&gt;http://sourceforge.net/projects/omegat-plugins/files/&lt;/u0&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073423Z">
@@ -14863,6 +14895,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T165426Z">
         <seg>フォルダーには２つのファイルが含まれています。index.html と &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app&lt;/e3&gt; です。このフォルダーを適切な場所（アプリケーションフォルダなど）へコピーしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translatione xists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174844Z">
+        <seg>次に示すコードスニペットは、現在のプロジェクトから全ファイルの全分節を走査する groovy スクリプトの例です。このスクリプトは、もし訳文が存在していれば、その分節の原文と訳文を出力します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16495,6 +16535,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130128T045024Z">
         <seg>{0} が {1} {2} に更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation memories</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T175144Z">
+        <seg>翻訳メモリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -18649,6 +18697,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T175002Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>contains the current statistics of the current project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T074217Z">
@@ -18709,6 +18765,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>cu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174926Z">
+        <seg>currsegment = files[i].entries[j];</seg>
       </tuv>
     </tu>
     <tu>
@@ -19593,6 +19657,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174455Z">
+        <seg>http://sourceforge.net/projects/omegat-plugins/files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://sourceforge.net/tracker/?group_id=68187&amp;amp;atid=520347</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191625Z">
@@ -19797,6 +19869,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174932Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
       </tuv>
     </tu>
     <tu>
@@ -21753,6 +21833,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174944Z">
+        <seg>source = currsegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>source = currsegment.getSrcText();</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094323Z">
@@ -21925,6 +22013,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094328Z">
         <seg>target = null;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174955Z">
+        <seg>target = project.getTranslationInfo(currsegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22555,8 +22651,8 @@ create its configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>{</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094321Z">
-        <seg>{{</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174907Z">
+        <seg>{</seg>
       </tuv>
     </tu>
     <tu>
@@ -22579,8 +22675,8 @@ create its configuration folder.</seg>
       <tuv lang="EN-US">
         <seg>}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094330Z">
-        <seg>}}</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T175008Z">
+        <seg>}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
