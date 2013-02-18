@@ -8188,6 +8188,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you wish to add values to&lt;e0&gt; VMOptions&lt;/e0&gt;, put a space between them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T040227Z">
+        <seg>&lt;e0&gt;VMOptions&lt;/e0&gt; に値を追加したい場合は、間に空白を入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182313Z">
@@ -16189,8 +16197,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN-US">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T034833Z">
-        <seg>まず &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; を右クリックして、［パッケージの内容を表示］を選びます。次に、ファイル &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt; を右クリックして、任意のテキストエディターで開きます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T035756Z">
+        <seg>まず &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; を右クリックして、［パッケージの内容を表示］を選びます。次に、Contents フォルダーにある &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt; を右クリックして、任意のテキストエディターで開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18086,6 +18094,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Info.plist&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T035511Z">
+        <seg>あるいはコマンドラインから「cd」コマンドで目的の階層に移動し、&lt;a4&gt;emacs&lt;/a4&gt; や &lt;a4&gt;vi&lt;/a4&gt; のようなコマンドラインエディターで &lt;e5&gt;Info.plist&lt;/e5&gt; を開いてもよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T025347Z">
@@ -18211,6 +18227,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163958Z">
         <seg>OmegaT の実行は、起動オプションを記述したスクリプトを使ってコマンドラインから可能です。あるいは &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; をクリックして直接起動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can modify the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;VMOptions&lt;/e1&gt; part.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T040134Z">
+        <seg>「Java」の下にある &lt;e0&gt;Properties&lt;/e0&gt; 部分と &lt;e1&gt;VMOptions&lt;/e1&gt; 部分がカスタマイズの対象になります。</seg>
       </tuv>
     </tu>
     <tu>
