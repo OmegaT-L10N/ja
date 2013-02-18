@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"XX" in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143148Z">
+        <seg>引数の中の「XX」は、指定したい言語の 2 桁の言語コードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191128Z">
@@ -1490,6 +1498,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; This argument effects anti-aliasing of the fonts, thereby improving their appearance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144032Z">
+        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143538Z">
+        <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; 言語と合わせて、国を指定することもできます。例えば日本の場合、JP を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; Normally, i.e. when &lt;a2&gt;OmegaT&lt;/a2&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T142917Z">
+        <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; 通常、何も引数を指定せずに &lt;a2&gt;OmegaT&lt;/a2&gt; を起動した場合は、プログラムはまず OS の言語を検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.5&lt;/e0&gt; is Copyright © 2000-2012 Keith Godfrey, Maxym Mykhalchuk, Zoltan Bartko, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T010702Z">
@@ -1624,6 +1656,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185757Z">
         <seg>&lt;e0&gt;Excel：&lt;/e0&gt;コメント、シート名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Font antialiasing&lt;/e0&gt; - (Java 1.5 only)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143933Z">
+        <seg>&lt;e0&gt;字体のアンチエイリアス&lt;/e0&gt; -（Java 1.5 のみ）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2766,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Font antialiasing&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144008Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;字体のアンチエイリアス&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;User country&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143448Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;ユーザーの地域設定&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;User interface language&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143004Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;ユーザーインターフェース言語&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163430Z">
@@ -3172,6 +3236,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list of possible arguments is given below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T142452Z">
+        <seg>指定できる引数の一覧を以下に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133255Z">
@@ -3440,6 +3512,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165614Z">
         <seg>詳細設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T142729Z">
+        <seg>上級者のユーザーは、ターミナルウィンドウ上で &lt;e0&gt;man java&lt;/e0&gt; と入力すると、引数の詳細情報を得られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8018,6 +8098,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T142958Z">
+        <seg>&lt;a3&gt;OmegaT&lt;/a3&gt; のユーザーインターフェースがその言語に対応していれば、&lt;a3&gt;OmegaT&lt;/a3&gt; はそれを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T045915Z">
@@ -8152,6 +8240,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T035604Z">
         <seg>［設定...］でフィルター個別の設定変更も行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the language of the user's system is not available, &lt;a6&gt;OmegaT&lt;/a6&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143104Z">
+        <seg>もし OS の言語に対応していない場合、&lt;a6&gt;OmegaT&lt;/a6&gt; はデフォルトの英語で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11388,6 +11484,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On Mac OS X, you can change the &lt;e5&gt;Info.plist&lt;/e5&gt; located in &lt;e6&gt;&lt;a7&gt;OmegaT&lt;/a7&gt;.app/Contents/&lt;/e6&gt; to do the same.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T142448Z">
+        <seg>Mac OS X の場合は、&lt;e6&gt;&lt;a7&gt;OmegaT&lt;/a7&gt;.app/Contents/&lt;/e6&gt; にある &lt;e5&gt;Info.plist&lt;/e5&gt; ファイルを使って同様に変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On Windows</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131815Z">
@@ -13960,6 +14064,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So, if the user's operating system is Russian and &lt;a4&gt;OmegaT&lt;/a4&gt; has been localized in Russian, &lt;a5&gt;OmegaT&lt;/a5&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143050Z">
+        <seg>したがって、たとえば OS がロシア語であれば、&lt;a4&gt;OmegaT&lt;/a4&gt; のユーザーインターフェースやメニューなどはロシア語で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T151914Z">
@@ -14987,6 +15099,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T135153Z">
         <seg>ワイルドカード「?」は任意の１文字と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143140Z">
+        <seg>「&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;」引数の指定により、&lt;a1&gt;OmegaT&lt;/a1&gt; は OS の言語よりも優先して、指定した言語を使用するようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16491,10 +16611,26 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143642Z">
+        <seg>「ポルトガル語 - ブラジル」の組み合わせに対する pt_BR のように、１つの言語に１つの国のみの組み合わせである場合であっても、これは必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the default.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175833Z">
         <seg>こちらが初期設定です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the standard behavior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143113Z">
+        <seg>これが基本的な仕組みです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16749,8 +16885,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN-US">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T015650Z">
-        <seg>これらの言語版の「5 分でわかる！ OmegaT の使い方」を表示するには、言語と国の両方を指定する必要があります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143606Z">
+        <seg>特定の言語版の「5 分でわかる！ OmegaT の使い方」を表示するには、言語と国の両方を指定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16823,6 +16959,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131236Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の起動には、通常は２つのコマンド実行が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To launch &lt;a2&gt;OmegaT&lt;/a2&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143222Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; を（たとえばロシア語 OS 上で）日本語のユーザーインターフェースで使用したい場合は、実行コマンドは以下のようになります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17782,6 +17926,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User country</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143443Z">
+        <seg>ユーザーの地域設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T142330Z">
@@ -17794,6 +17946,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T103702Z">
         <seg>個人設定ファイルには、ユーザー固有の情報が格納されています。これはすべてのプロジェクト共通で使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User interface language</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143023Z">
+        <seg>ユーザーインターフェース言語</seg>
       </tuv>
     </tu>
     <tu>
@@ -20925,6 +21085,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143251Z">
+        <seg>java -Duser.language=ja -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
     </tu>
     <tu>
