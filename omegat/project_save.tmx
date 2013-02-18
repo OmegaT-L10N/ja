@@ -1378,6 +1378,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033530Z">
+        <seg>&lt;b0&gt;見映え設定&lt;b1&gt;１番&lt;/b0&gt;&lt;/b1&gt;は、大変なことになりました！&lt;分節 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b1&gt;&lt;/b0&gt; has been nested inside formatting zero.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T090749Z">
@@ -2105,6 +2113,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T035253Z">
         <seg>&lt;p0&gt;OmegaT のカスタマイズ&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Customizing OmegaT&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt; &lt;t2&gt;Launch parameters&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T034025Z">
+        <seg>&lt;p0&gt;OmegaT のカスタマイズ&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt; &lt;t2&gt;起動引数&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,8 +3054,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T174412Z">
-        <seg>ダイアログが開くので、そこで原文の用語、対応する訳文、任意のコメントを入力します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033823Z">
+        <seg>ダイアログが開くので、そこで原文の用語、対応する訳文、任意のコメントを入力してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5619,6 +5635,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063902Z">
         <seg>OmegaT アイコンをダブルクリックすると、プロジェクトが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click on&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033934Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; をダブルクリックするか、ドックのアイコンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12559,6 +12583,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033812Z">
+        <seg>用語集ウィンドウを右クリックするか、&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; を押して、新しい用語を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;5&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T080431Z">
@@ -13964,6 +13996,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such modifications are possible in ODF files for example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033250Z">
+        <seg>たとえば ODF ファイルはこのような変更が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such modifications are possible in OpenOffice.org files for example.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T192052Z">
@@ -15115,6 +15155,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The in-line formatting information made possible by the supported formats (in particular DocBook, HTML, XHTML, Open Document Format(ODF) and Office Open XML (MS Office 2007 and later) at the time of writing) is presented as tags in OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033359Z">
+        <seg>対応しているフォーマット（具体的には DocBook、HTML、XHTML、Open Document Format（ODF）、Office Open XML（MS Office 2007 以降））のテキスト中にある整形情報は OmegaT のなかでタグとして表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T182552Z">
@@ -15556,6 +15604,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
         <seg>The vocabulary entry can have a comment added (see "transitive verb" for the second item).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T090419Z">
+        <seg>見出し語ごとにコメントを追加できます（上の図の「意味：」で始まる行がコメントです）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033619Z">
         <seg>見出し語ごとにコメントを追加できます（上の図の「意味：」で始まる行がコメントです）</seg>
       </tuv>
     </tu>
@@ -16131,6 +16187,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T034833Z">
+        <seg>まず &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; を右クリックして、［パッケージの内容を表示］を選びます。次に、ファイル &lt;a0&gt;&lt;e1&gt;Info.plist&lt;/e1&gt;&lt;/a0&gt; を右クリックして、任意のテキストエディターで開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160511Z">
@@ -16149,8 +16213,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN-US">
         <seg>To avoid changing the target files display parameters each time the files are opened, it may be possible to change the source file display parameters such that such parameters are inherited by the target files.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T192158Z">
-        <seg>訳文ファイルを開くたびに表示設定を変えるという手間を避けるため、あらかじめ原文ファイルの表示設定を変えて保存しておく方法も検討してみましょう。この場合、訳文ファイルにとって適切な表示設定に合わせて、原文ファイルの表示設定を行うことになります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033302Z">
+        <seg>訳文ファイルを開くたびに表示設定を変えるという手間を避けるため、あらかじめ原文ファイルの表示設定を変えて保存しておく方法も検討してみましょう。この場合、訳文ファイルにとって適切な表示設定に合わせて、原文ファイルの表示を設定することになります。</seg>
       </tuv>
     </tu>
     <tu>
