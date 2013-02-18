@@ -6937,6 +6937,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with 1024MB of memory and with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T041848Z">
+        <seg>たとえば &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; とすると、最大 1024MB のメモリーを確保できる設定で、日本語のユーザーインターフェースで&lt;a2&gt;OmegaT&lt;/a2&gt; を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T184619Z">
@@ -8190,8 +8198,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN-US">
         <seg>If you wish to add values to&lt;e0&gt; VMOptions&lt;/e0&gt;, put a space between them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T040227Z">
-        <seg>&lt;e0&gt;VMOptions&lt;/e0&gt; に値を追加したい場合は、間に空白を入れてください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T041927Z">
+        <seg>&lt;e0&gt;VMOptions&lt;/e0&gt; に値を追加したい場合は、値と値のあいだに空白を入れてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16343,6 +16351,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020458Z">
         <seg>OmegaT を起動するには、このファイルをコマンドライン上から実行するか、ファイルマネージャー上から（多くの場合そのアイコンをダブルクリックすることで）実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;JavaApplicationStub&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T042231Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; を複数起動したい場合は、代わりに &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/Contents/MacOS/&lt;/e3&gt; にある &lt;e2&gt;JavaApplicationStub&lt;/e2&gt; ファイルをダブルクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
