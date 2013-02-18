@@ -3124,6 +3124,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A command line window is also referred to as a "terminal window".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131009Z">
+        <seg>コマンドラインウィンドウは「ターミナルウィンドウ」とも呼ばれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T030715Z">
@@ -7818,6 +7826,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T130421Z">
+        <seg>しかしコマンドライン起動からだと、ユーザーの好みに応じてプログラムを制御し、その挙動を変えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064131Z">
@@ -8517,6 +8533,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In its most basic form, this command is:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T132056Z">
+        <seg>もっとも基本的な形式では、このコマンドは次のようになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T183152Z">
@@ -8553,6 +8577,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T083249Z">
         <seg>言いかえると、ペアになったタグを動かす場合、開きタグと閉じタグの両方が他のタググループのなかに収まるか、あるいは外に出ていればよいのです。そうでない場合は、翻訳ファイルが壊れてしまい、開かなくなる危険性もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In practice, this command will therefore be something like this:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131812Z">
+        <seg>たとえば、以下のように実行します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11284,6 +11316,38 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On Linux</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131921Z">
+        <seg>Linux の場合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Mac OS X</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131840Z">
+        <seg>MAC OS X の場合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Windows</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131815Z">
+        <seg>Windows の場合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131404Z">
+        <seg>Windows では「コマンドプロンプト（または MS-DOS プロンプト）」と呼ばれ、［スタートメニュー］→［すべてのプログラム］→［アクセサリ］→［コマンドプロンプト］と選択して開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103035Z">
@@ -11472,6 +11536,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T170922Z">
         <seg>OpenOffice.org / OpenDocument（*.ods、*.ots、*.odt、*.ott、*.odp、*.otp）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening a command line window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131001Z">
+        <seg>コマンドラインウィンドウを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -14935,6 +15007,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Mac OS X equivalent is the application Terminal located in Applications → Utilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131224Z">
+        <seg>Mac OS X の場合は、［アプリケーション］→［ユーティリティ］フォルダにある「ターミナル］プログラムがこれにあたります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173834Z">
@@ -15270,6 +15350,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111034Z">
         <seg>最初のショートカットは（プロジェクトを）&lt;g0&gt;［開く...］&lt;/g0&gt;用で、その次は&lt;g1&gt;［用語の追加］&lt;/g1&gt;用です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first of these is:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131309Z">
+        <seg>まず最初に：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15657,6 +15745,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T132004Z">
+        <seg>２番目のコマンドで実際に &lt;a1&gt;OmegaT&lt;/a1&gt; を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T085046Z">
@@ -15978,6 +16074,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T130433Z">
+        <seg>コマンドラインを使用した &lt;a1&gt;OmegaT&lt;/a1&gt; の起動方法は、大きく２つあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T182809Z">
@@ -16143,6 +16247,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T175548Z">
         <seg>最初の章では、たとえば原文と訳文の言語設定のような、プロジェクトの設定について説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131952Z">
+        <seg>このコマンドで、カレントフォルダーを、&lt;a0&gt;OmegaT&lt;/a0&gt; 実行ファイルがあるフォルダーに移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16615,6 +16727,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T163458Z">
         <seg>トークナイザーをインストールするには、OmegaT.jar が配置されているフォルダー配下に「plugins」という名前のフォルダーを（まだ無ければ）作成し、そのフォルダー内にパッケージを解凍します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To launch &lt;a0&gt;OmegaT&lt;/a0&gt;, you must normally type two commands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131236Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の起動には、通常は２つのコマンド実行が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19177,6 +19297,38 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131926Z">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cd &lt;&lt;a0&gt;OmegaT&lt;/a0&gt;.app location&gt;/&lt;a1&gt;OmegaT&lt;/a1&gt;.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131918Z">
+        <seg>cd &lt;&lt;a0&gt;OmegaT&lt;/a0&gt;.app location&gt;/&lt;a1&gt;OmegaT&lt;/a1&gt;.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131827Z">
+        <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cd {folder}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131417Z">
+        <seg>cd （フォルダー）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ce</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204610Z">
@@ -20677,6 +20829,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T132024Z">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -23141,6 +23301,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>wa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where&lt;e0&gt; {folder}&lt;/e0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131801Z">
+        <seg>&lt;e0&gt;（フォルダー）&lt;/e0&gt; には、&lt;a1&gt;OmegaT&lt;/a1&gt; プログラムのうち &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt; がある場所のフォルダー名を、絶対パスで指定します。</seg>
       </tuv>
     </tu>
     <tu>
