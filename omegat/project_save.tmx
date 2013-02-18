@@ -3276,6 +3276,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files: &lt;e0&gt;frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T024938Z">
+        <seg>以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更：&lt;e0&gt;訳文ファイルのエンコーディング文字セットを、原文ファイルのそれ（明示的に指定されたものであれ、暗黙に適用されたものであれ）とは違うものにしたいということは、よくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files: &lt;e0&gt;frequently the target files must have the encoding character set different from the one in the the source file (be it explicitely defined or implied).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T180943Z">
@@ -11156,6 +11164,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T025031Z">
+        <seg>OpenDocument Format (ODF) ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164132Z">
@@ -11392,6 +11408,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T064841Z">
         <seg>PO ファイル&lt;i0/&gt;は、原文と訳文の両方を格納できるファイル形式です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PO header will be skipped and left unchanged, if this option is checked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T023904Z">
+        <seg>この設定にチェックを入れると、PO ヘッダーを翻訳対象外とみなして、原文のままにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13304,6 +13328,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T023836Z">
+        <seg>以下のフィルター（テキストファイル、PO ファイル、XHTML ファイル、HTML ファイル・XHTML ファイル、OpenDocument ファイル、Microsoft Open XML ファイル）では、いくつかの専用オプションを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shift+Ctrl+C</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141348Z">
@@ -15181,6 +15213,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T172414Z">
         <seg>オープンソースのツール LanguageTool は、文法や文体のありがちなミスを教えてくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T024847Z">
+        <seg>この設定にチェックを入れると、PO ファイルのヘッダーにある複数形指定を、訳文言語に合わせて自動変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18041,6 +18081,14 @@ on line {1}, column {2}.</seg>
         <seg>You can enable project specific filters via the &lt;e0&gt;Options → Properties...&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T030222Z">
+        <seg>プロジェクト専用ファイルフィルターを設定するには、まずメニューから&lt;e0&gt;［プロジェクト］→［プロジェクト設定...］を選びます。&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can enable project specific filters via the &lt;e0&gt;Project → Properties...&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T023540Z">
         <seg>プロジェクト専用ファイルフィルターを設定するには、まずメニューから&lt;e0&gt;［プロジェクト］→［プロジェクト設定...］を選びます。&lt;/e0&gt;</seg>
       </tuv>
     </tu>
