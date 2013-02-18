@@ -1811,6 +1811,14 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T125341Z">
+        <seg>&lt;e0&gt;プライバシーについて&lt;/e0&gt;：&lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start は、実行中のコンピューターに関するいかなる情報も外部へ保存することはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>「OmegaT 日本語版翻訳におけるスタイルガイド」（https://code.google.com/p/omegat-jp/wiki/Localization_Style_Guide#%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%83%BC%EF%BC%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%EF%BC%89%E3%81%AE%E8%A8%98%E8%BF%B0%EF%BC%9A%E3%81%9D%E3%81%AE1）参照</note>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Directories:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
@@ -2702,6 +2710,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Command line launching&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T125943Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;コマンドライン起動&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163430Z">
@@ -3456,6 +3472,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T090308Z">
         <seg>入れ子になった後：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the initial installation you can, of course, also use &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124941Z">
+        <seg>最初のインストールが終わっていれば、オフラインであっても &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5731,6 +5755,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T061053Z">
         <seg>辞書ファイルをダウンロードします。これは &lt;f0&gt;TAR アーカイブ&lt;/f0&gt;（拡張子 &lt;e1&gt;tar.bz&lt;/e1&gt; または &lt;e2&gt;tar.bz2&lt;/e2&gt;）である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download the file&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.jnlp&lt;/e0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124547Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jnlp&lt;/e0&gt; ファイルをダウンロードし、それをクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9080,6 +9112,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124138Z">
+        <seg>Java Web Start を使うと、適切なバージョンの Java 実行環境（JRE）と、最新バージョンのプログラムとを確実に配布できるという利点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Java Web Start technology (part of Java 1.5 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T122614Z">
@@ -10601,6 +10641,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T130052Z">
+        <seg>通常は、コマンドラインから &lt;a0&gt;OmegaT&lt;/a0&gt; を起動する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>North Ndebele</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T073911Z">
@@ -10669,6 +10717,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184034Z">
         <seg>デフォルトの分節化規則とファイルフィルターよりも、プロジェクト専用の設定（前述）が存在した場合は、そちらが優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T125911Z">
+        <seg>もし、起動時に何らかの引数を指定したい場合（上記参照）は、通常のインストールを行う必要がある点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14148,6 +14204,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subsequent clicks on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jnlp&lt;/e2&gt; will check for any upgrades, install them, if there are any, and then start &lt;a4&gt;OmegaT&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124912Z">
+        <seg>インストール後は、&lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jnlp&lt;/e2&gt; をクリックすると、プログラムの更新がないか検索し、もしあればインストールした後、&lt;a4&gt;OmegaT&lt;/a4&gt; を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such file formats are designed to hold formatting information.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T145540Z">
@@ -14944,6 +15008,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The application runs on your machine only.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T125536Z">
+        <seg>プログラムは導入されたコンピューター上のみで実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T120918Z">
@@ -15477,6 +15549,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T085202Z">
         <seg>原文書には一切変更を加えません。既存の文書を元に、新しい文書を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124751Z">
+        <seg>この（Java Web Start 版）実行ファイルに与える権限（「コンピューターへの無制限アクセス」と表示される可能性があります）は、通常のローカル版に対して適用するものと同一で、コンピューターのハードディスクにアクセスすることを許可するものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16615,6 +16695,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T024916Z">
         <seg>OmegaT が対応しているファイル形式は、メニューの&lt;g0&gt;［設定］→［ファイルフィルター］&lt;/g0&gt;から一覧できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124311Z">
+        <seg>Java Web Start を使用して OmegaT を最初に起動する場合は、ブラウザ上で以下の URL にアクセスしてください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18632,6 +18720,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T125838Z">
+        <seg>作成した文書や翻訳メモリは使用しているコンピューターに保存され、&lt;a2&gt;OmegaT&lt;/a2&gt; 開発プロジェクトがその作業内容やその他の情報へアクセスすることはありません。&lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111824Z">
@@ -20093,6 +20189,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191635Z">
         <seg>http://groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124318Z">
+        <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
     </tu>
     <tu>
