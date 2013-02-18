@@ -1652,6 +1652,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type "java -version".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110648Z">
+        <seg>&lt;e0&gt;わからない：&lt;/e0&gt; ターミナルウィンドウを開いて、コマンド「java -version」を実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;Install over the existing installation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T192157Z">
@@ -1744,6 +1752,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T183413Z">
         <seg>&lt;e0&gt;いいえ / わかりません：&lt;/e0&gt;&lt;e1&gt; OmegaT_2.6.x_Windows.exe&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;e1&gt;OmegaT_2.5.x_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110801Z">
+        <seg>&lt;e0&gt;いいえ：&lt;/e0&gt; システムに適した Java JRE（下記参照） を入手してください。その後 &lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt; をダウンロードしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1945,6 +1961,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T085104Z">
         <seg>&lt;e0&gt;XSLT&lt;/e0&gt;（Extensible Stylesheet Language Transformations）：XML 文書を変換するために用いられる、宣言的な XML ベースの言語です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_2.5.x_Windows_without_JRE.&lt;/e1&gt;zip.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110530Z">
+        <seg>&lt;e0&gt;はい：&lt;/e0&gt;&lt;e1&gt;OmegaT_2.6.x_Windows_without_JRE.zip&lt;/e1&gt; をダウンロードしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,6 +2714,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T170007Z">
         <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Other systems&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111414Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;その他のシステム&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Using Java Web Start&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111724Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;Java Web Start の使用&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6913,10 +6953,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow the installation instructions of the package you need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111038Z">
+        <seg>必要なパッケージ各々のインストール指示に従ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow the instructions above to access the &lt;f1&gt;info.plist&lt;/f1&gt; file and edit it so that it looks as follows for the example we just gave:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173435Z">
         <seg>上記の説明通り、&lt;f1&gt;info.plist&lt;/f1&gt; ファイルを探して編集します。先ほどの例を使うと、次のようになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111356Z">
+        <seg>便利な場所に &lt;a0&gt;OmegaT&lt;/a0&gt; のショートカットを作成するには、それぞれのシステムのマニュアルを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7754,6 +7810,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111008Z">
+        <seg>IBM は Linux PowerPC 向けに JRE を提供しています：&lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INI (key=value) files (*.ini)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T051116Z">
@@ -7838,6 +7902,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105553Z">
         <seg>HTML ファイル中にエンコーディング宣言が存在する場合、以下の設定は反映されず、その宣言が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110705Z">
+        <seg>「command not found」のようなメッセージが表示された場合は、そのシステムには Java がインストールされていない可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8690,6 +8762,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T121723Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; のインストールと実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing convenient shortcuts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111310Z">
+        <seg>起動に便利なショートカットの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -9797,6 +9877,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164132Z">
         <seg>&lt;e2&gt;PATH&lt;/e2&gt; の設定が正しいことと、&lt;e3&gt;.jar&lt;/e3&gt; ファイルが正しく Java に関連づけられていることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that your &lt;e3&gt;PATH&lt;/e3&gt; settings are correct and that &lt;e4&gt;.jar &lt;/e4&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111638Z">
+        <seg>&lt;e3&gt;PATH&lt;/e3&gt;の設定が正しいことと、&lt;e4&gt;.jar &lt;/e4&gt; ファイルが正しく Java に関連づけられていることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11148,6 +11236,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111540Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; をインストールした後は、コマンドラインからの直接実行や、起動引数を記述したスクリプトによる実行も可能です。あるいは &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; をクリックして直接起動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once installed, the plugin will be used automatically by OmegaT, if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T064744Z">
@@ -11336,6 +11432,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142018Z">
         <seg>設定メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 1.5) and for Linux x64, Solaris x64, Windows x64 (Java 1.5) at &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110912Z">
+        <seg>Oracle は以下のシステム向けの JRE を提供しています：Solaris SPARC/x86（Java 1.5）と Linux x64、Solaris x64、Windows x64（Java 1.5） &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15971,6 +16075,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This creates an &lt;e2&gt;./OmegaT_2.5.x_Without_JRE/&lt;/e2&gt; directory in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111259Z">
+        <seg>作業フォルダーに &lt;e2&gt;./OmegaT_2.6.x_Without_JRE/&lt;/e2&gt; フォルダーと、&lt;a3&gt;OmegaT&lt;/a3&gt; の実行に必要なすべてのファイルが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T101908Z">
@@ -16167,6 +16279,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090222Z">
         <seg>翻訳入力の前に、原文を削除するキー入力の手間（つまり &lt;e0&gt;Ctrl+A&lt;/e0&gt; と &lt;e0&gt;Del&lt;/e0&gt;）が省けます。&lt;e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This package can be used on any platform where a Java 1.5 JRE compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110541Z">
+        <seg>Java 1.5 JRE 互換の JRE がインストールされていれば、どのプラットフォームであっても、このパッケージが使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16383,6 +16503,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T183559Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; をインストールするには、ダウンロードしたファイルをダブルクリックしてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;e1&gt;OmegaT_2.5.x_Without_JRE.zip&lt;/e1&gt; file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111138Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; をインストールするには、&lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt; ファイルを展開してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17442,6 +17570,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T191419Z">
         <seg>&lt;k2&gt;&lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt;&lt;/k2&gt; を押すと、&lt;a6&gt;OmegaT&lt;/a6&gt; 内のテキスト入力と表示の両方を、上記の３通りのいずれかに順に切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using Java Web Start</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111707Z">
+        <seg>Java Web Start の使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -20033,6 +20169,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110921Z">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181725Z">
@@ -20101,6 +20245,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212927Z">
         <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110809Z">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
       </tuv>
     </tu>
     <tu>
