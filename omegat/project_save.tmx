@@ -1039,6 +1039,14 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154435Z">
+        <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T161049Z">
@@ -1522,6 +1530,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;e0&gt;-Dmicrosoft.api.client_id=&lt;/e0&gt;&lt;e1&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154409Z">
+        <seg>&lt;e0&gt;-Dmicrosoft.api.client_id=&lt;/e0&gt;&lt;e1&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; This argument effects anti-aliasing of the fonts, thereby improving their appearance.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144211Z">
@@ -1550,6 +1566,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144931Z">
         <seg>&lt;e0&gt;-XmxZZM&lt;/e0&gt;&lt;i1/&gt; この引数により、&lt;a2&gt;OmegaT&lt;/a2&gt; により多くのメモリを割り当てられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;-no-team&lt;/e0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154748Z">
+        <seg>&lt;e0&gt;-no-team&lt;/e0&gt; チーム作業用のプロジェクトに関連する引数です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,6 +2822,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Command line mode&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155147Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;コマンドラインモード&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T141317Z">
@@ -2866,6 +2898,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143004Z">
         <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;ユーザーインターフェース言語&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;no-team option&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154452Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;no-team オプション&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3956,6 +3996,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T141403Z">
         <seg>引数を追加する位置は、最初の「&lt;e0&gt;java&lt;/e0&gt;」の直後、「&lt;e1&gt;-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt;」の直前です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154941Z">
+        <seg>複数の引数を、組み合わせて指定することもできます。上記で例示したすべての引数を使用して &lt;a0&gt;OmegaT&lt;/a0&gt; を起動する場合、コマンドは以下のようになります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8484,6 +8532,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific directory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160038Z">
+        <seg>仮に、&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り起動できない（GUI 環境がない）場合は次の方法をとってください：同じ端末の他の場所、または別の端末にある OmegaT の設定ファイルを、あらかじめ決めたフォルダーにコピーしておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T184354Z">
@@ -8532,6 +8588,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you need altered settings, the configuration files must be available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155743Z">
+        <seg>別の設定を用いる場合は、有効な設定ファイルも存在している必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T214130Z">
@@ -8552,6 +8616,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165604Z">
         <seg>翻訳メモリファイルをプロジェクトの tm フォルダー内に配置しておくと、OmegaT はそこから「参考訳文」と呼ばれる類似分節を自動的に検索するようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155910Z">
+        <seg>そのままコンソールモードで起動すると、同じ設定を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11329,6 +11401,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT in the command line mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155212Z">
+        <seg>OmegaT をコマンドラインモードで使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T171946Z">
@@ -12399,6 +12479,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155607Z">
+        <seg>必要な条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T035554Z">
@@ -13235,6 +13323,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T074555Z">
         <seg>レト・ロマン語（Romansh）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155845Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り（GUI 経由で）起動して、設定しておきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15037,6 +15133,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Team project option</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154608Z">
+        <seg>チームプロジェクトのオプション設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Team synchronization</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160521Z">
@@ -15876,6 +15980,22 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The location does not matter, since you can add it to the command line at startup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160050Z">
+        <seg>そのディレクトリの場所は、起動時にコマンドライン上で指定するので、どこであってもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155727Z">
+        <seg>プロジェクトの場所は、起動時にコマンドライン上で指定するので、どこであってもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The location of the file must be within the &lt;f1&gt;/glossary &lt;/f1&gt;folder, but it can be in a deeper directory (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T054018Z">
@@ -16045,6 +16165,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T173804Z">
         <seg>プロジェクト設定では、書き込み可能な用語集ファイルの名前を入力することができます（本章の最初を参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155334Z">
+        <seg>コンソールモードは、スクリプト環境で OmegaT を翻訳ツールとして用いる場合に使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16583,6 +16711,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134112Z">
         <seg>このコールは Swing スレッドで行われる必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be achieved in two ways:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155754Z">
+        <seg>その場合は、次の２つのうちいずれかの方法をとってください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17175,6 +17311,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210058Z">
         <seg>プロジェクトの初期設定を確認したければ、&lt;k0&gt;Ctrl+E&lt;/k0&gt; キーを押してプロジェクト設定ダイアログを開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155712Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; をコマンドラインモードで実行するためには、有効な &lt;a1&gt;OmegaT&lt;/a1&gt; プロジェクトが存在している必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18054,6 +18198,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154921Z">
+        <seg>この引数を指定すると、チームプロジェクトを開いても同期しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120525T030517Z">
@@ -18506,6 +18658,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T084219Z">
         <seg>分節を移動したときは、参考訳文を挿入することもできますし、原文のままにしておくこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155605Z">
+        <seg>コンソールモードで開始すると、どのコンソール上でも動作するように、GUI を表示しません。そして、指定されたプロジェクトを自動的に処理します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21265,6 +21425,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-DDhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155137Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M -DDhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -&lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143251Z">
@@ -23317,6 +23485,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>tha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154352Z">
+        <seg>&lt;u1&gt;アカウント情報&lt;/u1&gt;のページにある２つの情報、プライマリ アカウント キーと顧客 ID が必要になります。</seg>
       </tuv>
     </tu>
     <tu>
