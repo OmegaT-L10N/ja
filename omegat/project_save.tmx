@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"ZZ" stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145426Z">
+        <seg>「ZZ」には、割り当てたいメモリ容量を MB（メガバイト）単位で指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191128Z">
@@ -1092,8 +1100,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143131Z">
-        <seg>2) コマンドラインまたは OmegaT 起動スクリプトで java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar と指定し、OmegaT が使用できるメモリーを増やす（現在の設定：{0} MB）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145136Z">
+        <seg>2) コマンドラインまたは OmegaT 起動スクリプトで java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar と指定し、OmegaT が使用できるメモリを増やす（現在の設定：{0} MB）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1500,8 +1508,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN-US">
         <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; This argument effects anti-aliasing of the fonts, thereby improving their appearance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144032Z">
-        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; </seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144211Z">
+        <seg>&lt;e0&gt;-Dswing.aatext=true&lt;i1/&gt;&lt;/e0&gt; この引数は、字体のアンチエイリアスを有効にするかどうかを設定します。有効にすると、字体の見た目を改善できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1526,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T142917Z">
         <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; 通常、何も引数を指定せずに &lt;a2&gt;OmegaT&lt;/a2&gt; を起動した場合は、プログラムはまず OS の言語を検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;-XmxZZM &lt;/e0&gt;&lt;i1/&gt;This command assigns more memory to &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144931Z">
+        <seg>&lt;e0&gt;-XmxZZM&lt;/e0&gt;&lt;i1/&gt; この引数により、&lt;a2&gt;OmegaT&lt;/a2&gt; により多くのメモリを割り当てられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1542,6 +1558,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T105613Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; は Mac OS X の「サービス」を利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;&lt;e1&gt;-Dhttp.proxyHost=nnn.nnn.nnn.nnn&lt;/e1&gt; &lt;i2/&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T150141Z">
+        <seg>&lt;e0&gt;&lt;e1&gt;-Dhttp.proxyHost=nnn.nnn.nnn.nnn&lt;/e1&gt;&lt;i2/&gt;&lt;/e0&gt; プロキシサーバーの IP アドレス。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,6 +2794,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144008Z">
         <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;字体のアンチエイリアス&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Memory assignment&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144934Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;メモリの割り当て&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Proxy host IP address&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T150026Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;プロキシのホストと IP アドレス&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,6 +4378,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, 512 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145400Z">
+        <seg>デフォルトでは 512 MB が割り当てられます。そのため、これより小さな値をこの引数で指定しても効果はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T180816Z">
@@ -5361,8 +5409,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T152006Z">
-        <seg>現在 VM が使用しているメモリーは {0} MB です。空き容量は {1} MB で、最大 {2} MB が使用可能です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145237Z">
+        <seg>現在 VM が使用しているメモリは {0} MB です。空き容量は {1} MB で、最大 {2} MB が使用可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7171,8 +7219,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN-US">
         <seg>For example, &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with 1024MB of memory and with the user interface in Japanese.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T041848Z">
-        <seg>たとえば &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; とすると、最大 1024MB のメモリーを確保できる設定で、日本語のユーザーインターフェースで&lt;a2&gt;OmegaT&lt;/a2&gt; を起動します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145100Z">
+        <seg>たとえば &lt;f1&gt;-Xmx1024M -Duser.language=ja&lt;/f1&gt; とすると、最大 1024MB のメモリを確保できる設定で、日本語のユーザーインターフェースで&lt;a2&gt;OmegaT&lt;/a2&gt; を起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10329,6 +10377,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Memory assignment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144959Z">
+        <seg>メモリの割り当て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153634Z">
@@ -11318,8 +11374,8 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       <tuv lang="EN-US">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143102Z">
-        <seg>メモリー不足のため OmegaT が動作しません。OK を押すと、OmegaT を終了します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145123Z">
+        <seg>メモリ不足のため OmegaT が動作しません。OK を押すと、OmegaT を終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12563,6 +12619,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130753Z">
         <seg>プロキシ認証の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proxy host IP address</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145518Z">
+        <seg>プロキシのホストと IP アドレス</seg>
       </tuv>
     </tu>
     <tu>
@@ -15336,6 +15400,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145444Z">
+        <seg>1024MB（1GB）のメモリを割り当てて &lt;a3&gt;OmegaT&lt;/a3&gt; を起動する場合のコマンドは：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -15371,8 +15443,8 @@ instead.</seg>
       <tuv lang="EN-US">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T174616Z">
-        <seg>用語集ファイルの内容はプロジェクトを開いたときと再読み込み時に読み込まれ、メモリー上に保持されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145040Z">
+        <seg>用語集ファイルの内容はプロジェクトを開いたときと再読み込み時に読み込まれ、メモリ上に保持されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15589,8 +15661,8 @@ instead.</seg>
       <tuv lang="EN-US">
         <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191013Z">
-        <seg>以下に示した INI ファイルは、最大で 1GB のメモリーを確保し、ユーザー言語として日本語を、国に日本を指定した例です：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145053Z">
+        <seg>以下に示した INI ファイルは、最大で 1GB のメモリを確保し、ユーザー言語として日本語を、国に日本を指定した例です：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21093,6 +21165,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143251Z">
         <seg>java -Duser.language=ja -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145451Z">
+        <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
     </tu>
     <tu>
