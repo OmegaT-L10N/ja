@@ -5599,6 +5599,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DokuWiki files (*.txt)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T030029Z">
+        <seg>DokuWiki ファイル（*.txt）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double click on &lt;e0&gt;OmegaT_2.5.x_Mac.zip&lt;/e0&gt; to unpack it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T015814Z">
@@ -8317,6 +8325,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;) and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T030016Z">
+        <seg>ファイル名があいまいな場合、使用する構成要素を &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-拡張子の個数&lt;/e1&gt;} と &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;名前の個数}&lt;/e3&gt; の形式で指定することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case, however, the same source segment already exists with a different translation, the new translation will be saved as an alternative.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092628Z">
@@ -10645,6 +10661,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T104230Z">
         <seg>設定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T030107Z">
+        <seg>ODF - OASIS Open Document Format（*.ods、*.ots、*.odt、*.ott、*.odp、*.otp）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20081,6 +20105,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>import the file into ODF writer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T030259Z">
+        <seg>ファイルを ODF 形式に対応したプログラム（Apache OpenOffice や LibreOffice の Writer など）で開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>import the file into OpenOffice.org writer</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T172542Z">
@@ -20637,6 +20669,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>lo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>load the target file in ODF writer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T030402Z">
+        <seg>翻訳後に生成した訳文ファイルを、ODF 対応プログラムで開く</seg>
       </tuv>
     </tu>
     <tu>
