@@ -2277,6 +2277,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; (see text)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170815Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt;（右を参照）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T113552Z">
@@ -3470,6 +3478,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Case selection - Shift+F3&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170844Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;大/小文字設定 - Shift+F3&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094555Z">
@@ -4373,6 +4389,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows the user create an entry in the default glossary file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170528Z">
+        <seg>デフォルトの用語集ファイルに項目を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133110Z">
@@ -5270,6 +5294,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165621Z">
         <seg>これ以前の変更：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case or Title case).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T171026Z">
+        <seg>訳文分節中の選択したテキストに対し、ケースを変更します（すべて小文字→すべて大文字→Title case：単語先頭のみ大文字）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7497,6 +7529,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exports the current selection to a text file for processing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T165958Z">
+        <seg>選択した領域を別のテキストファイルに出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T134455Z">
@@ -9128,6 +9168,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133840Z">
         <seg>指定した場所は、そこへアクセスできるようになった後に使用されます。その際、設定はすべて初期値があらためて使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no text has been selected, the current source segment is written to this file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170013Z">
+        <seg>選択領域がない場合、現在開いている原文がこのファイルに書き込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no text is selected, &lt;a1&gt;OmegaT&lt;/a1&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T171140Z">
+        <seg>テキストを何も選択していない場合、&lt;a1&gt;OmegaT&lt;/a1&gt; はカーソル右にある単語をその場で選択して実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13036,6 +13092,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170606Z">
+        <seg>&lt;l0&gt;［検索］&lt;/l0&gt;ウィンドウを新しく開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a previously created project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T175949Z">
@@ -15151,6 +15215,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Fuzzy Match #N</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T171204Z">
+        <seg>参考訳文 #N を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fuzzy Match 1</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032534Z">
@@ -17054,6 +17126,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T091112Z">
         <seg>同じポップアップメニューに表示される「&lt;e3&gt;訳文を削除&lt;/e3&gt;」という項目を選ぶと、現在の分節に入力済みの訳文を削除することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170425Z">
+        <seg>出力された内容は、個人設定フォルダー（「&lt;x2/&gt;」を参照してください）の &lt;f1&gt;selection.txt&lt;/f1&gt; というファイルにコピーされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19654,6 +19734,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the three alternatives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T171116Z">
+        <seg>［Shift+F3］&lt;i0/&gt;で、上記３通りを順に切り替えて実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154306Z">
@@ -20162,6 +20250,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190907Z">
         <seg>訳文ファイルが生成されると、その表記方向は原文ファイルと同じになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170114Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を閉じるとき、このファイルは空の状態ではなく、通常のクリップボードと同じように機能します。</seg>
       </tuv>
     </tu>
     <tu>
