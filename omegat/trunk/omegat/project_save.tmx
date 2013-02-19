@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T152236Z">
+        <seg>「Google Translate returned HTTP response code: 403 ...」：pinfo.list ファイル（Mac の場合）に入力した 38 文字のキーが正しいか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200311Z">
@@ -5010,6 +5018,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check in Options &gt; Machine Translate, that Google Translate V2 is checked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T152701Z">
+        <seg>［設定］→［機械翻訳］→［Google Translate v2］にチェックが入っているか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131143Z">
@@ -5022,6 +5038,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T161516Z">
         <seg>Java の簡単な MessageFormat 構図を確認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that &lt;u0&gt;Translate API service &lt;/u0&gt;has been activated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T152352Z">
+        <seg>また &lt;u0&gt;Translate API サービス&lt;/u0&gt;が有効になっているか、確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8141,6 +8165,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T150826Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate V2 reports "Bad request" - check the source and target languages for your project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T152838Z">
+        <seg>Google Translate v2 が「Bad request」しか表示しません：プロジェクトの原文言語と訳文言語の設定を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate does not work: - with the Google API key entered as requested.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T152558Z">
+        <seg>正しい Google API キーを入力したのに、Google Translate が動きません：</seg>
       </tuv>
     </tu>
     <tu>
