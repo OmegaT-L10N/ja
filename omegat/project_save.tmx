@@ -5367,6 +5367,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T161635Z">
+        <seg>選択したファイルをプロジェクトの &lt;c0&gt;source&lt;/c0&gt; フォルダーにコピーし、その新しいファイルを読み込むために、プロジェクトを再読み込みします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140815Z">
@@ -8297,6 +8305,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Having no languages defined elicits this kind or a response.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T160011Z">
+        <seg>言語が未設定の場合に、このような結果が返ってきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174918Z">
@@ -9240,6 +9256,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154026Z">
         <seg>原文ファイルを追加...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Imports units from MediaWiki pages, based on the URL entered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T161704Z">
+        <seg>入力した URL をもとに MediaWiki 形式のページを開き、編集可能な部分を原文として追加します。</seg>
       </tuv>
     </tu>
     <tu>
