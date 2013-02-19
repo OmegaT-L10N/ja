@@ -1047,6 +1047,14 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T012504Z">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--mode=console-translate|console-createpseudotranslatetmx|console-align</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T161053Z">
@@ -1638,6 +1646,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T150141Z">
         <seg>&lt;e0&gt;&lt;e1&gt;-Dhttp.proxyHost=nnn.nnn.nnn.nnn&lt;/e1&gt;&lt;i2/&gt;&lt;/e0&gt; プロキシサーバーの IP アドレス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T012503Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; この引数を指定すると、&lt;a2&gt;OmegaT&lt;/a2&gt; がコンソールモードで起動し、以下に示すサービスを自動的に実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2261,6 +2277,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; in which directory the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T011529Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; 設定ファイルがどの場所にあるかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184618Z">
@@ -2273,6 +2297,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184745Z">
         <seg>&lt;l0&gt;&lt;ユーザーホームフォルダー&gt;/.omegat&lt;/l0&gt;（.omegat はフォルダーで、先頭にドットがあるため、ls -a やそれに準じるコマンドでなければ一覧表示されません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T011316Z">
+        <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; プロジェクトがどの場所にあるかを指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8346,6 +8378,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T011454Z">
+        <seg>この引数を指定すると、OmegaT がコンソールモードで起動し、指定されたプロジェクトを翻訳します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T202147Z">
@@ -8368,6 +8408,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133840Z">
         <seg>指定した場所は、そこへアクセスできるようになった後に使用されます。その際、設定はすべて初期値があらためて使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If not given, &lt;a2&gt;OmegaT&lt;/a2&gt; reverts to default values (&lt;a3&gt;OmegaT&lt;/a3&gt; folder under user home or, if unavailable, the current working directory).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T011814Z">
+        <seg>このオプションが指定されない場合は、&lt;a2&gt;OmegaT&lt;/a2&gt; は初期設定を使用します（ユーザーホームディレクトリの下の &lt;a3&gt;OmegaT&lt;/a3&gt; フォルダーか、それが存在しない場合は現在のワーキングディレクトリ）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9018,6 +9066,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T201957Z">
         <seg>ただし、次のような制限があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this mode, OmegaT will attempt to translate the files in /source/ with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T013014Z">
+        <seg>このモードでは、source フォルダーのファイルを翻訳メモリを使って翻訳します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11109,6 +11165,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T183451Z">
         <seg>もちろん、リポジトリを完全な状態に維持するための、彼の注意深さと働きぶりは、言うまでもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note double - character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T012319Z">
+        <seg>引数は二重のハイフン記号（-）で始まることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
