@@ -2646,6 +2646,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Google Translate&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T113238Z">
+        <seg>&lt;p0&gt;機械翻訳&lt;/p0&gt; &lt;s1&gt;Google Translate&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Introduction&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T161556Z">
@@ -4214,6 +4222,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133642Z">
         <seg>この場合、すべての設定が初期値となり、予期しない挙動が発生する可能性もありますが、動作としては正常です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T111939Z">
+        <seg>翻訳メモリを使ってユーザーが行う翻訳（&lt;a0&gt;OmegaT&lt;/a0&gt; が、そうですが）に対して、機械翻訳（MT）はルールベースや統計ベースの自動翻訳ツールです。翻訳メモリは使いません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8003,8 +8019,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Google Translate</seg>
       </tuv>
-      <tuv lang="JA" changeid="masa_36">
-        <seg>機械翻訳</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T113430Z">
+        <seg>Google Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -10537,6 +10553,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine translation services have been achieving good and steadfastly improving results in research evaluations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T112855Z">
+        <seg>機械翻訳サービスは、研究評価段階では良好で堅実な結果を達成しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Magento CE Locale CSV Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174653Z">
@@ -11453,6 +11477,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T082621Z">
         <seg>source フォルダー内部の階層構造をどうするかについては、完全にユーザーに任されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T113216Z">
+        <seg>これらはすべて、ウェブサービスです。利用する際は、オンラインでなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14968,6 +15000,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Statistical learning techniques, based on source and target texts, are used to build a translation model.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T112339Z">
+        <seg>統計的学習手法は、原文とその対訳を大量に解析して、翻訳モデルを構築したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162225Z">
@@ -17559,6 +17599,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160511Z">
         <seg>アクセスするには URL をコピーして Web ブラウザへ貼り付けるか、取扱説明書（{0} ファイル）を Web ブラウザで開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T113020Z">
+        <seg>機械翻訳サービスを利用するには、メニューから&lt;g0&gt;［設定］→［機械翻訳］&lt;/g0&gt;を選び、任意のサービスを有効にします。</seg>
       </tuv>
     </tu>
     <tu>
