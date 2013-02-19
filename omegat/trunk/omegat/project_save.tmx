@@ -1087,6 +1087,14 @@ To add files to the project, click on the Import Source Files... button in the P
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--output-tag-validation-={regexp}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052932Z">
+        <seg>--output-tag-validation-={正規表現}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T013621Z">
@@ -1115,6 +1123,14 @@ To add files to the project, click on the Import Source Files... button in the P
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T161049Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T051947Z">
+        <seg>.*\.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -3844,6 +3860,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Again note that the backslash is escaped as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052926Z">
+        <seg>パス区切り文字の「\」は、やはり「\\」のようにエスケープする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Akan</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203543Z">
@@ -3865,6 +3889,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155040Z">
         <seg>{0} に対してプロジェクトをアラインする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052607Z">
+        <seg>すべての HTML ファイルを処理します。正規表現の規則にしたがって、拡張子の区切りを示すドット「.」は「\.」のようにエスケープする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8138,6 +8170,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here's few typical examples to limit your choice:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T051945Z">
+        <seg>以下に、典型的な指定例をいくつか挙げます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Herero</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064930Z">
@@ -8564,10 +8604,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the parameter is not specified, all files will be processed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T051904Z">
+        <seg>引数を省略した場合は、すべてのファイルが処理されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tokenizers are not properly launched, the log will look like this:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T174611Z">
         <seg>トークナイザーが正常起動しなかった場合は、次のようなログになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are other files named test.html in other directories, they will be ignored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052739Z">
+        <seg>他のフォルダーに「test.html」という同名のファイルがあったとしても、無視されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12024,6 +12080,22 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175552Z">
         <seg>整数と単純な小数（小数点の記号としてピリオドを使うこと。たとえば 5.4 は小数とみなすが、5,4 や 54E-01 は小数とみなさない）だけを対象とする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the file test.html at the root of the source directory will be translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052758Z">
+        <seg>source フォルダーにある「test.html」というファイルのみを処理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the file test.html in the directory dir-10 will be processed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052829Z">
+        <seg>dir-10 フォルダーにある「test.html」というファイルのみを処理します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18910,6 +18982,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T051838Z">
+        <seg>この引数を指定すると、どのファイルを自動処理するのか、絞り込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T084219Z">
@@ -20397,6 +20477,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210517Z">
         <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052803Z">
+        <seg>dir-10\\test\.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -23717,6 +23805,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>tel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>test\.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052611Z">
+        <seg>test\.html</seg>
       </tuv>
     </tu>
     <tu>
