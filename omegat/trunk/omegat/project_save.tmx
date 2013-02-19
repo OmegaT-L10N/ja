@@ -4047,6 +4047,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet.&lt;/l0&gt; In the quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054853Z">
+        <seg>追加のコンソールモードのオプションとして、&lt;l0&gt;--quiet&lt;/l0&gt; があります。このオプションを指定すると、画面出力が極力抑えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An xml file with all the GUI accessible option settings</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T183713Z">
@@ -4075,6 +4083,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T092827Z">
         <seg>Android リソース・ファイル（*.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; When this parameter is added, tag validation is done prior to translation/aligning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T055228Z">
+        <seg>もう１つ別の追加のコンソールモードのオプションとして、&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt; があります。このオプションを指定すると、翻訳や整列の処理時にタグ検証を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8426,6 +8442,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If abort is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054425Z">
+        <seg>「abort」を指定した場合は、不正なタグを見つけた時点で、タグ検証を中止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T045915Z">
@@ -8664,6 +8688,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T173518Z">
         <seg>この設定にチェックを入れると、複数形用の分節が必要に応じて追加され、追加された分節には自動的に最初の訳文が（あれば）複製されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If warn is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054536Z">
+        <seg>「warn」を指定した場合は、すべての分節についてタグ検証を実施し、不正なタグについては警告を出力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13111,6 +13143,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quiet option</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054638Z">
+        <seg>サイレントオプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141202Z">
@@ -15253,6 +15293,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tag validation option</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054827Z">
+        <seg>タグ検証の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tag validation options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T092055Z">
@@ -16329,6 +16377,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The messages you would usually find in the status bar are not displayed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054803Z">
+        <seg>通常ステータスバーに表示されるようなメッセージは、表示されなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T072323Z">
@@ -17303,6 +17359,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T201538Z">
         <seg>この方法でも、OmegaT の設定を引き継ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option allows batch mode validation of tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054205Z">
+        <seg>このオプションは、バッチ処理モードにおけるタグ検証の挙動を設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18473,6 +18537,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064100Z">
         <seg>使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054821Z">
+        <seg>使い方: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
