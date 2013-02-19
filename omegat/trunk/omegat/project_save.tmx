@@ -2662,6 +2662,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Apertium&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T133849Z">
+        <seg>&lt;p0&gt;機械翻訳&lt;/p0&gt; &lt;s1&gt;Apertium&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Belazar&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T132240Z">
@@ -3466,6 +3474,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025302Z">
         <seg>&lt;ショートカット&gt; は次の形式に従います：０個以上の &lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt;、続いて０個または１個の &lt;c1&gt;&lt;イベント&gt;&lt;/c1&gt;、続いて１個の &lt;c2&gt;&lt;キー&gt;&lt;/c2&gt;。ただし：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T135415Z">
+        <seg>&lt;u0&gt;Apertium&lt;/u0&gt; はフリー／オープンソースの機械翻訳プラットフォームです。カタルーニャ語、スペイン語、アイルランド語、ポルトガル語、オック語、フランス語など、もともとは言語的に近い関係の言語を対象としていましたが、近年はもっと離れた言語間（たとえば英語 - カタルーニャ語）も扱えるように拡張されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;Belazar&lt;/u0&gt; is a Machine language translation tool for the Russian-Belarusian language pair.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T133843Z">
+        <seg>&lt;u0&gt;Belazar&lt;/u0&gt; は、ロシア語 - ベラルーシ語用の機械翻訳ツールです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4982,6 +5006,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T175329Z">
         <seg>&lt;u0&gt;OmegaT のホームページ&lt;/u0&gt;で、翻訳支援ツールの最新リストをチェックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the web site for the latest list of implemented language pairs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T135540Z">
+        <seg>翻訳可能な最新の言語ペアの一覧は、ウェブサイトで確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16745,6 +16777,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The platform provides</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T135556Z">
+        <seg>プラットフォームが提供するもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The platform-independent package can be used on any platform with a working Java 1.5 runtime environment, including the platforms for which a specific package also exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190226Z">
@@ -21789,6 +21829,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191835Z">
         <seg>http://tech.groups.yahoo.com/group/omegat/database?method=reportRows&amp;amp;tbl=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.apertium.org/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T133909Z">
+        <seg>http://www.apertium.org/</seg>
       </tuv>
     </tu>
     <tu>
