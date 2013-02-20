@@ -15409,6 +15409,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T030205Z">
+        <seg>タグを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180742Z">
@@ -16137,6 +16145,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T072817Z">
         <seg>詳しくは&lt;l0&gt;用語集&lt;/l0&gt;の章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l1&gt;Tag Validation&lt;/l1&gt; and &lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T030146Z">
+        <seg>詳しくは「&lt;l1&gt;タグ検証&lt;/l1&gt;」および「&lt;x2/&gt;」を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21704,6 +21720,14 @@ program proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When enabled, all the formatting tags are removed from source segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T030519Z">
+        <seg>この設定にチェックを入れると、原文分節からすべての整形用のタグを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065504Z">
@@ -21902,6 +21926,14 @@ price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155533Z">
         <seg>次回同期されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will display a list of segments with tag errors and possible inconsistencies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T030049Z">
+        <seg>タグの間違いや不整合の可能性がある分節の一覧が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
