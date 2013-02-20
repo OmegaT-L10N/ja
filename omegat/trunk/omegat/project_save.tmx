@@ -1576,6 +1576,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023108Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は分節を選択した履歴を記憶しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; sites and &lt;a1&gt;OmegaT&lt;/a1&gt; SourceForge project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T180145Z">
@@ -3252,6 +3260,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Goto&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022141Z">
+        <seg>&lt;p0&gt;メニュー&lt;/p0&gt; &lt;s1&gt;移動&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T080333Z">
@@ -3264,6 +3280,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174440Z">
         <seg>&lt;p0&gt;メニュー&lt;/p0&gt; &lt;s1&gt;プロジェクト&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;View&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023625Z">
+        <seg>&lt;p0&gt;メニュー&lt;/p0&gt; &lt;s1&gt;表示&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9003,6 +9027,14 @@ make exceptions for this.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022207Z">
+        <seg>移動メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174240Z">
@@ -9682,6 +9714,22 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the translated segments will be marked in yellow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023646Z">
+        <seg>チェックがある場合、翻訳済みの分節が黄色でハイライト表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the untranslated segments will be marked in violet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023700Z">
+        <seg>チェックがある場合、未翻訳の分節が紫色でハイライト表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If distribution of executable or object code is made by offering
 access to copy from a designated place, then offering equivalent
 access to copy the source code from the same place counts as
@@ -9844,6 +9892,22 @@ Foundation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133738Z">
         <seg>適切なフィルターが見つかった時点で探索は終了し、そのフィルターが該当するファイルの処理に割り当てられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022525Z">
+        <seg>現在の分節がファイル先頭である場合は、前のファイルの末尾の分節へ移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022334Z">
+        <seg>現在の分節がファイル末尾である場合は、次のファイルの最初の分節へ移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12651,6 +12715,30 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022231Z">
+        <seg>プロジェクトの翻訳メモリにまだ存在していない（未翻訳の）次の分節に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the next segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022247Z">
+        <seg>次の分節に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the previous segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022401Z">
+        <seg>一つ前の分節に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving around</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172650Z">
@@ -12766,6 +12854,14 @@ impose that choice.</seg>
         <seg>Next N&amp;ote</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154514Z">
+        <seg>次のメモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022602Z">
         <seg>次のメモ</seg>
       </tuv>
     </tu>
@@ -14585,6 +14681,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022918Z">
+        <seg>前のメモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous Segment</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141647Z">
@@ -16225,6 +16329,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T162911Z">
         <seg>アイコンとして &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt; を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022126Z">
+        <seg>このメニュー項目を選ぶと、その訳文は現在の分節固有のものになります。同じ内容の他の原文分節には影響を与えません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18491,6 +18603,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The next segment with a note attached to it, will open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022911Z">
+        <seg>メモが添付された次の文節を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T174917Z">
@@ -18593,6 +18713,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T172520Z">
         <seg>先頭に付加する文字列（デフォルトでは何も付加しません）は、訳文が参考訳文の自動挿入によるものであることを示す目印に利用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The previous segment with a note will open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022926Z">
+        <seg>メモが添付された前の文節を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18721,6 +18849,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T085046Z">
         <seg>もうひとつの章では、翻訳プロジェクトが含むさまざまなフォルダーやファイルとその役割について取り上げています。また OmegaT に関連付けられた個人設定ファイルとプログラムファイルについても、説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The segment is opened when its segment number is entered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022557Z">
+        <seg>指定した番号の分節を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21256,6 +21392,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023626Z">
+        <seg>表示メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View or edit file filters.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T181043Z">
@@ -21702,6 +21846,22 @@ price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173847Z">
         <seg>たとえば、それはこんな風に出力されるはずです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history... &lt;/g0&gt;command below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023617Z">
+        <seg>１つ前に選択していた分節へ戻ることができます。後で現在の分節に復帰するには、上にある&lt;g0&gt;［分節の選択履歴を進む］&lt;/g0&gt;コマンドを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;...command.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023319Z">
+        <seg>このコマンドを実行すると、&lt;g1&gt;［分節の選択履歴を戻る］&lt;/g1&gt;コマンドによって移動した履歴をたどり、戻る前に選択していた分節へ移動できます。</seg>
       </tuv>
     </tu>
     <tu>
