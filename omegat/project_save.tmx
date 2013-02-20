@@ -4669,6 +4669,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows you to activate/deactivate &lt;e0&gt;TransTips &lt;/e0&gt;feature and set its option&lt;e1&gt; Exact Match.&lt;/e1&gt; With &lt;e2&gt;TransTips&lt;/e2&gt; activated a right click on a highlighted word in the source will open a pop up menu with the glossary entries for the word you clicked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T152434Z">
+        <seg>&lt;e0&gt;用語ヒント&lt;/e0&gt;機能と、そのオプションの&lt;e1&gt;完全一致&lt;/e1&gt;を有効または無効にします。&lt;e2&gt;用語ヒント&lt;/e2&gt;が有効な状態では、原文分節に含まれる用語に下線が引かれ、その上で右クリックするとポップアップメニューに用語の対訳が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T151518Z">
@@ -22090,6 +22098,14 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With &lt;e3&gt;TransTips/Exact Match &lt;/e3&gt; checked, only complete words will be checked, otherwise parts of words will be matched as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T152931Z">
+        <seg>&lt;e3&gt;［用語ヒント］→［完全一致］&lt;/e3&gt;にチェックを入れると、語句が完全に一致する用語のみ表示されます。チェックを入れないと、部分一致する用語も表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the Mac OS X OmegaT.app package, double-click on the &lt;l0&gt;JavaApplicationStub&lt;/l0&gt; located in /OmegaT.app/Contents/MacOS/ (see above to access it) to launch OmegaT from the console and get immediate access to the log.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T011621Z">
@@ -22555,6 +22571,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T081458Z">
         <seg>また&lt;g0&gt;［ツール］&lt;/g0&gt;メニューからスクリプトを選んだり、割り当てられたショートカットキー &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt;（# は 1 から 5）を使うことでも、同じようにスクリプトを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then click on the preferred translation to insert it into the target segment at the current position.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T152626Z">
+        <seg>対訳をクリックすると、訳文分節のカーソル位置に対訳が挿入されます。</seg>
       </tuv>
     </tu>
     <tu>
