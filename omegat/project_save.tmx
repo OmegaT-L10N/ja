@@ -9892,6 +9892,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not checked, source segments will not be shown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T104339Z">
+        <seg>チェックがない場合、原文の分節は表示されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not given, &lt;a2&gt;OmegaT&lt;/a2&gt; reverts to default values (&lt;a3&gt;OmegaT&lt;/a3&gt; folder under user home or, if unavailable, the current working directory).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T011814Z">
@@ -13099,6 +13107,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is kept in the target document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T105328Z">
+        <seg>非視覚的な整形（OmegaT の編集画面上には表示されません）は、訳文ファイルに引き継がれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normally tags are ignored when considering the similarity between different texts for matching purposes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T193407Z">
@@ -14134,6 +14150,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170606Z">
         <seg>&lt;l0&gt;［検索］&lt;/l0&gt;ウィンドウを新しく開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T105550Z">
+        <seg>新しいウィンドウに、プロジェクトの翻訳状況を表示します。これには、プロジェクト全体の翻訳状況と、ファイルごとの翻訳状況が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19813,6 +19837,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T013322Z">
         <seg>OmegaT が TMX ファイルと共にサーバーで実行され、プロジェクトを自動処理するような状況に向いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful when dealing with texts where inline formatting has no real use (e.g., OCRed PDF, bad converted .odt or .docx, etc.) Only inline tags are removed, so normally there should be no problem with opening the target documents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T105216Z">
+        <seg>これはインラインの整形を実際には使わないテキスト（たとえば OCR ソフトが出力した PDF ファイルや、変換精度の低い .odt ファイルや .docx ファイルなど）を扱う場合に役に立ちます。削除されるのはインラインのタグのみです。したがって通常は、訳文ファイルを開くのに特に支障は無いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
