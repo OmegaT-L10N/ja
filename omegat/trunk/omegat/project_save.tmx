@@ -2827,6 +2827,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;&lt;p1&gt; outputFileName&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T020025Z">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;&lt;p1&gt; 出力ファイル名&lt;/p1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184618Z">
@@ -9982,6 +9990,14 @@ authors' reputations.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T143736Z">
         <seg>機械翻訳ウィンドウに何も表示されない場合は、以下の確認をしてください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T021237Z">
+        <seg>現在の原文分節に対して複数の対訳が存在し、かつ現在の訳文分節が既定値ではない場合に、現在の訳文分節を既定値に設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17653,6 +17669,14 @@ language.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;x0/&gt; describes the color coding in detail.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T020914Z">
+        <seg>「&lt;x0/&gt;」に、色表示を含めた詳細の説明があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T014351Z">
@@ -18088,6 +18112,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The entry will be greyed, if there's just one translation available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T021342Z">
+        <seg>現在の原文分節に対して１つの対訳しか存在しない場合は、この項目はグレーアウトして選択できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170425Z">
@@ -18471,6 +18503,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T021721Z">
         <seg>行頭の数値はシステムによって異なりますので、気にする必要はありません。Source tokenizer と target tokenizer の名前を確認してください。起動オプションで指定した名前が、ログに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The one and the same segment may, depending on the context, require different translations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T021730Z">
+        <seg>同じ内容の原文分節が複数存在し、それぞれの文脈に応じて異なる対訳を要求されることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22583,6 +22623,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103406Z">
         <seg>そして &lt;c0&gt;&lt;キー&gt;&lt;/c0&gt; には、キーボード上で利用可能な任意のキーを指定できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and the output would contain remaining tag validation errors that could be given back to the translator.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T020150Z">
+        <seg>タグ検証で発生したエラー内容は、翻訳者に分かるように出力されます。</seg>
       </tuv>
     </tu>
     <tu>
