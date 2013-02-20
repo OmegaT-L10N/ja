@@ -2411,6 +2411,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025420Z">
+        <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;：整形されたファイルの中で、タグが欠けていたり、位置が変わったりしている箇所がないかを調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T022120Z">
@@ -3196,6 +3204,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches statistics&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025149Z">
+        <seg>&lt;p0&gt;参考訳文&lt;/p0&gt; &lt;s1&gt;参考訳文の一致率&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Converting numbers&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173238Z">
@@ -3280,6 +3296,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174440Z">
         <seg>&lt;p0&gt;メニュー&lt;/p0&gt; &lt;s1&gt;プロジェクト&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025032Z">
+        <seg>&lt;p0&gt;メニュー&lt;/p0&gt; &lt;s1&gt;ツール&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3460,6 +3484,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025206Z">
+        <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;参考訳文の一致率&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T121934Z">
@@ -3472,6 +3504,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T202723Z">
         <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;プロジェクト設定&lt;/s1&gt; &lt;s2&gt;言語設定&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Statistics&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025222Z">
+        <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;翻訳状況&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9714,6 +9754,38 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, non-breakable spaces in the segment will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024505Z">
+        <seg>チェックがある場合、ノーブレークスペース（自動改行しないスペース文字）を含む分節が灰色の背景色で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, non-unique segments will be marked in pale grey.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024008Z">
+        <seg>チェックがある場合、繰り返しのある分節が淡い灰色の文字色で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, segments with notes will be marked in cyan.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024112Z">
+        <seg>チェックがある場合、メモ付きの分節が水色でハイライト表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, source segments will be shown and marked in green.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023853Z">
+        <seg>チェックがある場合、各分節に対応した原文が緑色にハイライト表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the translated segments will be marked in yellow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023646Z">
@@ -12363,6 +12435,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024310Z">
+        <seg>ノーブレークスペースを色付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T201920Z">
@@ -12374,6 +12454,14 @@ impose that choice.</seg>
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135255Z">
+        <seg>メモ付き分節を色付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024009Z">
         <seg>メモ付き分節を色付け</seg>
       </tuv>
     </tu>
@@ -12583,6 +12671,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T182338Z">
         <seg>分節中での LTR（左から右） と RTL（右から左） 文字列の混在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024537Z">
+        <seg>更新情報を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -16390,6 +16486,22 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting it to&lt;e1&gt; All &lt;/e1&gt;shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025025Z">
+        <seg>&lt;e1&gt;［すべての分節で表示」&lt;/e1&gt;を選ぶと、すべての分節について同様の情報を表示します。&lt;e2&gt;［表示しない」&lt;/e2&gt;を選ぶと、何も表示しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting the Display Modification option to &lt;e0&gt;Selected&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024851Z">
+        <seg>更新情報の表示に関するオプション設定です。&lt;e0&gt;［現在の分節で表示］&lt;/e0&gt;を選ぶと、現在の分節を最後に更新した作業者と更新日時の情報を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153933Z">
@@ -19713,6 +19825,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This marking has priority over Mark Translated Segments and Mark Untranslated Segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024308Z">
+        <seg>この色付けは、［翻訳済み分節を色づけ］や［未翻訳分節を色づけ］よりも優先度が上です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T184114Z">
@@ -20296,6 +20416,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
         <seg>Tools Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154234Z">
+        <seg>ツールメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025033Z">
         <seg>ツールメニュー</seg>
       </tuv>
     </tu>
