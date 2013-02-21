@@ -4894,8 +4894,8 @@ covered by this License; they are outside its scope.</seg>
       <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U &lt;/k0&gt;to move to the next untranslated segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T101246Z">
-        <seg>ひとつの分節を翻訳し終えたら、&lt;k0&gt;Ctrl+U&lt;/k0&gt; キーを押して、次の未翻訳文節へと移動します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143214Z">
+        <seg>ひとつの分節を翻訳し終えたら、&lt;k0&gt;Ctrl+U&lt;/k0&gt; キーを押して、次の未翻訳分節へと移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5125,6 +5125,14 @@ software.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T172346Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の翻訳プロジェクトは、複数のファイルとフォルダーから構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An area for setting project source and target languages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143702Z">
+        <seg>プロジェクトの原文言語と訳文言語の設定領域</seg>
       </tuv>
     </tu>
     <tu>
@@ -11020,8 +11028,8 @@ may not distribute the Program at all.</seg>
       <tuv lang="EN">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T184354Z">
-        <seg>該当するチェックボックスにチェックを入れた場合は、選択した言語を使うように OmegaT.l4J.ini ファイルをカスタマイズします（詳細は次節を参照してください）。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143202Z">
+        <seg>該当するチェックボックスにチェックを入れた場合は、選択した言語を使うように OmegaT.l4J.ini ファイルをカスタマイズします（詳細は次の項を参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12039,6 +12047,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>It contains:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143611Z">
+        <seg>次の要素から構成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Yu-Tang）Oracle の日本語ページで正式に「Java Web Start」と表記されているため、特に日本語に訳しません。</note>
       <tuv lang="EN">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
@@ -12109,6 +12125,14 @@ implemented by public license practices.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T041326Z">
         <seg>原文や訳文から語句を検索したいときは、&lt;k0&gt;Ctrl+F&lt;/k0&gt; キーを押せば、いつでもプロジェクトの検索ウィンドウを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to modify the project properties during a translation session.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T142157Z">
+        <seg>翻訳作業の途中でプロジェクトの設定を変更することも、可能ではありますが、</seg>
       </tuv>
     </tu>
     <tu>
@@ -14155,6 +14179,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that changes to the project setup may have some consequences, especially, when the project has already been started.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T142716Z">
+        <seg>そのような変更は、予期しない結果をもたらすことがあります。特に翻訳作業が始まってからの変更には、注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that default segmentation rules and file filters can be overridden by project-specific setup (see above).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184034Z">
@@ -16081,6 +16113,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project properties window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143343Z">
+        <seg>プロジェクト設定ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155552Z">
@@ -17409,6 +17449,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070823Z">
         <seg>詳しくは GNU 一般公衆利用許諾契約書を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the section Preventing data loss for ways and means of protecting your work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143037Z">
+        <seg>作業中のデータを守る対策については「データを失わないために」の項を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19149,6 +19197,14 @@ language.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties...&lt;/g6&gt; &lt;/m0&gt; dialog is used to define and modify the project folders and languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T142056Z">
+        <seg>&lt;m0&gt;&lt;s1&gt;&lt;k2&gt;&lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt;&lt;/k2&gt;&lt;/s1&gt; &lt;g5&gt;プロジェクト&lt;/g5&gt; &lt;g6&gt;プロジェクト設定...&lt;/g6&gt;&lt;/m0&gt; ダイアログは、プロジェクトの言語や使用フォルダーを変更する場合に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181136Z">
@@ -19904,8 +19960,8 @@ freedom to share and change it.</seg>
       <tuv lang="EN">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045823Z">
-        <seg>フォルダーの場所は、起動時にコマンドライン上で指定するので、どこであってもかまいません（次の節を参照してください）。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143243Z">
+        <seg>フォルダーの場所は、起動時にコマンドライン上で指定するので、どこであってもかまいません（次の項を参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20053,8 +20109,8 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       <tuv lang="EN">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022911Z">
-        <seg>メモが添付された次の文節を開きます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143223Z">
+        <seg>メモが添付された次の分節を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20167,8 +20223,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The previous segment with a note will open.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022926Z">
-        <seg>メモが添付された前の文節を開きます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143226Z">
+        <seg>メモが添付された前の分節を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22583,6 +22639,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Until you have some experience with OmegaT, it is safest to consider all settings final once the translation has started – unless of course you realize a major mistake has been made.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T142952Z">
+        <seg>OmegaT であるていど経験を積むまでは、一度翻訳を開始したら、何か致命的な誤りに気づいたのでない限り、設定を変えずにおくことがもっとも安全です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments will hereby remain in the source language.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T084918Z">
@@ -22722,8 +22786,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154306Z">
-        <seg>TAB キーで次の文節へ</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143141Z">
+        <seg>TAB キーで次の分節へ</seg>
       </tuv>
     </tu>
     <tu>
