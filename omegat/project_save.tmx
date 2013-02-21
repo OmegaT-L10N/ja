@@ -1992,6 +1992,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;g1&gt;File Filters...&lt;/g1&gt; &lt;/e0&gt;button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T171851Z">
+        <seg>&lt;e0&gt;&lt;g1&gt;ファイルフィルター...&lt;/g1&gt; &lt;/e0&gt;ボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;g1&gt;Segmentation...&lt;/g1&gt; &lt;/e0&gt;button</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T162249Z">
@@ -2150,6 +2158,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T090022Z">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt;（http://groovy.codehaus.org）：Java 仮想マシン向けの動的言語です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T171511Z">
+        <seg>&lt;e0&gt;ヒント：&lt;/e0&gt;分節化規則集は &lt;f1&gt;project/omegat/segmentation.conf&lt;/f1&gt; に保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3299,6 +3315,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;global vs project file filters&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T171549Z">
+        <seg>&lt;p0&gt;ファイルフィルター&lt;/p0&gt; &lt;s1&gt;グローバル vs プロジェクト専用フィルター&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;File formats&lt;/p0&gt; &lt;s1&gt;Unformatted&lt;/s1&gt; &lt;s2&gt;Source files&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T040220Z">
@@ -4094,8 +4118,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;global vs project rules&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T162219Z">
-        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;大域 vs プロジェクト専用規則&lt;/s1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T170533Z">
+        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;グローバル vs プロジェクト専用規則&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17485,6 +17509,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See chapter &lt;l1&gt;Source Segmentation&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T171339Z">
+        <seg>分節化規則の詳細については「&lt;l1&gt;原文の分節化&lt;/l1&gt;」の章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See chapter &lt;l2&gt;Installing and Running&lt;/l2&gt;, section Launch command arguments, for details on how to add this key to the OmegaT environment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T122852Z">
@@ -20173,8 +20205,8 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       <tuv lang="EN">
         <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T163004Z">
-        <seg>新しい規則集は、</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T170648Z">
+        <seg>新しい規則集は、プロジェクトと共に保存されます。またプログラム共通の分節化規則集には干渉しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21729,6 +21761,14 @@ collective works based on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T170756Z">
+        <seg>プロジェクト専用の分節化規則を削除したい場合は、チェックボックスのチェックを外してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To delete tag groups, just remove them from the segment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082601Z">
@@ -22946,8 +22986,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use this button to open a dialog,activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T162935Z">
-        <seg>その場合は、このボタンを押してダイアログを開き、&lt;g0&gt;分節化規則をプロジェクト専用にする&lt;/g0&gt;チェックボックスにチェックを入れてから、分節化規則を必要な状態に変更してください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T170251Z">
+        <seg>その場合は、このボタンを押してダイアログを開き、&lt;g0&gt;［分節化規則をプロジェクト専用にする］&lt;/g0&gt;チェックボックスにチェックを入れてから、分節化規則を必要な状態に変更してください。</seg>
       </tuv>
     </tu>
     <tu>
