@@ -1109,6 +1109,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T102427Z">
+        <seg>拡張子 &lt;f0&gt;.txt &lt;/f0&gt; のファイルを例に取ります。ファイルフィルターダイアログから&lt;e1&gt;テキストファイル&lt;/e1&gt;のフィルターを編集し、&lt;e2&gt;原文ファイルのエンコーディング&lt;/e2&gt;を「&lt;自動&gt;」から対象の &lt;f3&gt;.txt&lt;/f3&gt; ファイルに適したエンコーディングに変更します。たとえば上の例で言えば、日本語に対応したエンコーディングに変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135717Z">
@@ -5966,6 +5974,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T101521Z">
         <seg>ファイルのエンコーディングをユニコードに変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the extensions of your plain text source files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T102448Z">
+        <seg>プレーンテキストファイルの拡張子を変更する</seg>
       </tuv>
     </tu>
     <tu>
@@ -25527,6 +25543,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094321Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for instance from &lt;f0&gt;.txt&lt;/f0&gt; to &lt;f1&gt;.jp&lt;/f1&gt; for Japanese plain texts: in the &lt;e2&gt;Text files&lt;/e2&gt; section of the file filters dialog, add new &lt;e3&gt;Source Filename Pattern&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; for this example) and select the appropriate parameters for the source and target encoding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T103402Z">
+        <seg>たとえば日本語のファイルであれば、拡張子を &lt;f0&gt;.txt&lt;/f0&gt; から &lt;f1&gt;.jp&lt;/f1&gt; に変えます。次に、ファイルフィルターダイアログから&lt;e2&gt;テキストファイル&lt;/e2&gt;のフィルターを編集し、&lt;e3&gt;原文ファイル名の構成例&lt;/e3&gt;を新しく追加します。例の場合は「&lt;f4&gt;*.jp&lt;/f4&gt;」とします。エンコーディングには、適切な値を設定してください。</seg>
       </tuv>
     </tu>
     <tu>
