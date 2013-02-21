@@ -6122,6 +6122,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T150433Z">
+        <seg>このフラグを変更しても、翻訳メモリにすでに記録された分節は変更されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162116Z">
@@ -11058,6 +11066,14 @@ may not distribute the Program at all.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T150628Z">
+        <seg>すなわち、翻訳の途中で分節化を</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.</seg>
@@ -11545,6 +11561,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165548Z">
         <seg>原文を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T150219Z">
+        <seg>めったにないことですが、段落単位での分節化のような、別の方法が必要とされることもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20239,8 +20263,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T145633Z">
-        <seg>原文の分節化で一般的な方法は、</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T150339Z">
+        <seg>原文の分節化は、文単位で行うのが一般的です。したがって通常は、このチェックボックスにチェックを入れておくのがよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
