@@ -1624,6 +1624,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window (Editor, Match viewer, Glossary viewer)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T065631Z">
+        <seg>メインウィンドウ（編集ウィンドウ、参考訳文ウィンドウ、用語集ウィンドウ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; provides a powerful range of search functions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T164536Z">
@@ -2455,6 +2463,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T165438Z">
         <seg>&lt;e0&gt;5 分でわかる！ OmegaT の使い方：&lt;/e0&gt;初心者と「とりあえずインストールしてみた」人を対象にした、お手軽なスタートガイドです。新しいプロジェクトの作成から翻訳完了まで、一通りの流れを見ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064345Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; には、プロジェクトの訳文言語に翻訳された訳文ファイルを配置しておく必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3400,6 +3416,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175637Z">
         <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;翻訳入力行&lt;/s1&gt; &lt;t2&gt;原文と同じ訳文&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Font...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T065541Z">
+        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;字体...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7575,6 +7599,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E.g., if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064403Z">
+        <seg>たとえばプロジェクトが英→日翻訳の言語設定になっている場合、alignDir フォルダーには、ファイル名が「_ja」で終わるバンドルが存在しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>END OF TERMS AND CONDITIONS</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010740Z">
@@ -10830,6 +10862,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have the source and the target Properties files for one and the same contents in your language pair, this procedure will create a corresponding tmx file for these contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T062000Z">
+        <seg>すなわち、原文とその対訳の Properties ファイルから、対応する TMX ファイルを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T162853Z">
@@ -11340,6 +11380,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T201957Z">
         <seg>ただし、次のような制限があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064455Z">
+        <seg>このダイアログでは、&lt;a0&gt;OmegaT&lt;/a0&gt; の以下のウィンドウで使用される字体を変更できます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16893,6 +16941,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064553Z">
+        <seg>検索ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Searches</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T192205Z">
@@ -18337,6 +18393,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag validation window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064559Z">
+        <seg>タグ検証ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154338Z">
@@ -19136,6 +19200,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog can be accessed via the &lt;i0/&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt; item in the Main menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T065855Z">
+        <seg>このダイアログはメインメニューの &lt;i0/&gt;&lt;m1&gt;&lt;g2&gt;設定&lt;/g2&gt; &lt;g3&gt;字体...&lt;/g3&gt;&lt;/m1&gt; を選択すると表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T083722Z">
@@ -19841,6 +19913,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T045843Z">
         <seg>整列した TMX ファイルは、&lt;f2&gt;align.tmx&lt;/f2&gt; という名前で &lt;f1&gt;omegat&lt;/f1&gt; フォルダーに出力されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting tmx is stored in the &lt;l1&gt;omegat &lt;/l1&gt;folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064421Z">
+        <seg>整列した TMX ファイルは、&lt;f2&gt;align.tmx&lt;/f2&gt; という名前で &lt;l1&gt;omegat&lt;/l1&gt; フォルダーに出力されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22155,6 +22235,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064100Z">
         <seg>使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T062005Z">
+        <seg>使い方：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26071,6 +26159,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T011303Z">
         <seg>java -jar OmegaT.jar --ITokenizer=org.omegat.plugins.tokenizer.TinySegmenterJapaneseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064320Z">
+        <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
       </tuv>
     </tu>
     <tu>
