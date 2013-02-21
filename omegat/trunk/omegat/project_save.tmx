@@ -1624,6 +1624,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has by default the following short list available to make it easier for you to deal with some plain text files:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T120853Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は、プレーンテキストの取り扱いを簡単にするために、デフォルトで次の拡張子に対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T082307Z">
@@ -3027,6 +3035,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;.txt1&lt;/l0&gt; files are files in ISO-8859-1, covering most &lt;e1&gt;Western Europe&lt;/e1&gt; languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T121402Z">
+        <seg>&lt;l0&gt;.txt1&lt;/l0&gt; ファイルは&lt;e1&gt;西ヨーロッパ&lt;/e1&gt;言語のほとんどに対応する ISO-8859-1 エンコーディングとして解釈されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;.txt&lt;/l0&gt; files are automatically (&lt;auto&gt;) interpreted by &lt;a1&gt;OmegaT&lt;/a1&gt; as being encoded in the computer's default encoding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T121223Z">
+        <seg>&lt;l0&gt;.txt&lt;/l0&gt; ファイルは、エンコーディングを「&lt;自動&gt;」で認識します。これは、コンピューターのデフォルトのエンコーディングに合わせることを意味します。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184618Z">
@@ -3167,6 +3191,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T092134Z">
         <seg>&lt;p0&gt;エンコーディング&lt;/p0&gt; &lt;s1&gt;プレーンテキストファイル&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Encoding&lt;/p0&gt; &lt;s1&gt;Western&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T121412Z">
+        <seg>&lt;p0&gt;エンコーディング&lt;/p0&gt; &lt;s1&gt;西ヨーロッパ&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
