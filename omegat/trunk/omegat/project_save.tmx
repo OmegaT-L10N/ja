@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$&gt; java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050722Z">
+        <seg>$&gt; java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${extension-0} docx</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163813Z">
@@ -1157,6 +1165,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=console-translate \</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050839Z">
+        <seg>--mode=console-translate \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=console-translate|console-createpseudotranslatetmx|console-align</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T161053Z">
@@ -1185,6 +1201,22 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T050831Z">
         <seg>--source-pattern={正規表現}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--source-pattern={regexp} \</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050852Z">
+        <seg>--source-pattern={正規表現} \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[block|warn]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050907Z">
+        <seg>--tag-validation=[block|warn]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1484,6 +1516,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T120758Z">
         <seg>&lt;/e4&gt;その一方で、複雑な条件にも対応しています。たとえば、2 個以上の連続するスペース文字を含む分節を検索したい、としましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/l1&gt;Example:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050645Z">
+        <seg>&lt;/l1&gt;があります。例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2867,10 +2907,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; enables OmegaT to be instructed in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051036Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; 設定ファイルの場所を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; in which directory the configuration files are stored.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T011529Z">
         <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; 設定ファイルがどの場所にあるかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; launches in console mode and translates the given project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051347Z">
+        <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; この引数を指定すると、&lt;a1&gt;OmegaT&lt;/a1&gt; がコンソールモードで起動し、指定されたプロジェクトを翻訳します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--source-pattern={regexp} &lt;/l0&gt;The files to be translated can be specified this way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051451Z">
+        <seg>&lt;l0&gt;--source-pattern={正規表現}&lt;/l0&gt; 翻訳したいファイルを指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2903,6 +2967,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T165949Z">
         <seg>たとえば &lt;l0&gt;&lt;f0&gt;&lt;f1&gt;これはテキストです&lt;/f0&gt;&lt;/f1&gt;&lt;/l0&gt; は &lt;l1&gt;&lt;f0&gt;&lt;f1&gt;スペース文字１個&lt;/f0&gt;&lt;/f1&gt;&lt;/l1&gt; としてコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to be translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050936Z">
+        <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; プロジェクトの場所を指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9675,6 +9747,14 @@ make exceptions for this.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here is an example of the regular expression: &lt;f1&gt;test\.html&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051537Z">
+        <seg>正規表現を指定した例：&lt;f1&gt;test\.html&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165044Z">
@@ -10170,6 +10250,14 @@ compelled to copy the source along with the object code.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; launches in console mode and translates the given project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051002Z">
+        <seg>この引数を指定すると、&lt;a2&gt;OmegaT&lt;/a2&gt; がコンソールモードで起動し、指定されたプロジェクトを翻訳します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T011454Z">
@@ -10230,8 +10318,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not given, &lt;a2&gt;OmegaT&lt;/a2&gt; reverts to default values (&lt;a3&gt;OmegaT&lt;/a3&gt; folder under user home or, if unavailable, the current working directory).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T011814Z">
-        <seg>このオプションが指定されない場合は、&lt;a2&gt;OmegaT&lt;/a2&gt; は初期設定を使用します（ユーザーホームディレクトリの下の &lt;a3&gt;OmegaT&lt;/a3&gt; フォルダーか、それが存在しない場合は現在のワーキングディレクトリ）。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051315Z">
+        <seg>このオプションが指定されない場合は、&lt;a2&gt;OmegaT&lt;/a2&gt; は初期設定を使用します（ユーザーホームフォルダーの下の &lt;a3&gt;OmegaT&lt;/a3&gt; フォルダーか、それが存在しない場合は現在の作業ディレクトリ）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working directory).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051245Z">
+        <seg>このオプションが指定されない場合は、OmegaT は初期設定を使用します（ユーザーホームフォルダーの下の OmegaT フォルダーか、それが存在しない場合は現在の作業ディレクトリ）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12277,6 +12373,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T141313Z">
         <seg>起動コマンドの引数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT in console mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050447Z">
+        <seg>コンソールモードで起動する</seg>
       </tuv>
     </tu>
     <tu>
@@ -19344,8 +19448,8 @@ freedom to share and change it.</seg>
       <tuv lang="EN">
         <seg>The location does not matter, since you can add it to the command line at startup.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160050Z">
-        <seg>そのディレクトリの場所は、起動時にコマンドライン上で指定するので、どこであってもかまいません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050027Z">
+        <seg>そのフォルダーの場所は、起動時にコマンドライン上で指定するので、どこであってもかまいません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19447,6 +19551,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160916Z">
         <seg>最も重要な引数は、&lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt; です。他に任意の引数として、&lt;l2&gt; --config-dir=&lt;config-dir&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important of these is &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt;, and optionally&lt;l1&gt;--config-dir=&lt;config-dir&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050657Z">
+        <seg>最も重要な引数は、&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; です。他に任意の引数として、&lt;l1&gt;--config-dir=&lt;config-dir&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19661,10 +19773,18 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The relevant files &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; can be found in the user home directory (E.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050415Z">
+        <seg>設定ファイルは、 &lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home directory (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160434Z">
-        <seg>関連ファイルは、 &lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt;、そしてユーザーのホームディレクトリ（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあるファイルです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050252Z">
+        <seg>設定ファイルは、 &lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21005,6 +21125,14 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143222Z">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; を（たとえばロシア語 OS 上で）日本語のユーザーインターフェースで使用したい場合は、実行コマンドは以下のようになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch OmegaT in console mode, additional parameters must be specified at launch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050500Z">
+        <seg>コンソールモードで OmegaT を起動する場合、いくつかの引数が必要になります。</seg>
       </tuv>
     </tu>
     <tu>
