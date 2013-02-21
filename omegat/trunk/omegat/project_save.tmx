@@ -3476,6 +3476,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Miscellanea&lt;/p0&gt; &lt;s1&gt;Automatic aligner for Java properties&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T053722Z">
+        <seg>&lt;p0&gt;その他&lt;/p0&gt; &lt;s1&gt;Java properties ファイルの自動整列&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Miscellanea&lt;/p0&gt; &lt;s1&gt;Font settings&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T155754Z">
@@ -5328,6 +5336,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T085058Z">
         <seg>ヘッダーの「nplurals=整数; plural=式;」を自動で置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatic Java Properties Aligner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T053749Z">
+        <seg>Java properties ファイルの自動整列機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -14171,6 +14187,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T162224Z">
         <seg>OmegaT はデフォルトで 10 分ごとに翻訳を自動保存します。プロジェクトを閉じる時や、OmegaT の終了時も同様です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can align Java .properties in console mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T053823Z">
+        <seg>OmegaT は Java の .properties ファイルをコンソールモードで整列することができます。</seg>
       </tuv>
     </tu>
     <tu>
