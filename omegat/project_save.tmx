@@ -2699,6 +2699,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens Help browser displaying this manual in a separate window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024856Z">
+        <seg>&lt;k0&gt;F1：&lt;/k0&gt;取扱説明書を独立したウィンドウで開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl+C&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T164244Z">
@@ -3140,6 +3148,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Keyboard shortcuts&lt;/p0&gt; &lt;s1&gt;Project&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025229Z">
+        <seg>&lt;p0&gt;キーボードショートカット&lt;/p0&gt; &lt;s1&gt;プロジェクト&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070949Z">
@@ -3280,6 +3296,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022141Z">
         <seg>&lt;p0&gt;メニュー&lt;/p0&gt; &lt;s1&gt;移動&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Help&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024801Z">
+        <seg>&lt;p0&gt;メニュー&lt;/p0&gt; &lt;s1&gt;ヘルプ&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3504,6 +3528,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025206Z">
         <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;参考訳文の一致率&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Project management shortcuts&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025436Z">
+        <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;キーボードショートカット&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4673,6 +4705,14 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T174828Z">
         <seg>外部の（OmegaT が生成したものではない）TMX ファイルのタグをどのように扱うか、設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024125Z">
+        <seg>プロジェクトを自動的に保存する間隔を、分と秒で指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6087,6 +6127,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains the option to have all source segments in bold and to mark the first non-unique segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024033Z">
+        <seg>表示に関する設定です。［原文を太字で表示］と［繰り返しのある分節を色づけする場合、最初の分節を含む］の有効と無効を切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190939Z">
@@ -6951,6 +6999,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays copyright, credits and license information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024902Z">
+        <seg>著作権やクレジット、ライセンス情報を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the &lt;l0&gt;File filters&lt;/l0&gt; dialogue to configure file handling and parsing.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T160432Z">
@@ -7617,6 +7673,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T174645Z">
         <seg>翻訳した分節の更新情報に記録する更新者名を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your user name and your password, if you use a proxy to access your projects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024212Z">
+        <seg>プロキシサーバーを使う場合は、ここでユーザー名とパスワードを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9407,6 +9471,14 @@ make exceptions for this.</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153836Z">
         <seg>ヘルプウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024802Z">
+        <seg>ヘルプメニュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -11280,6 +11352,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024751Z">
+        <seg>また、OmegaT をバージョンアップし、いくつかのウィンドウが表示されなくなったような場合にも、使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also detect some grammar mistakes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062125Z">
@@ -11716,6 +11796,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174542Z">
         <seg>「キー=値」形式のテキストファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024903Z">
+        <seg>キーボードショートカット</seg>
       </tuv>
     </tu>
     <tu>
@@ -14202,6 +14290,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025606Z">
+        <seg>開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174709Z">
@@ -15131,8 +15227,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project management</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T172637Z">
-        <seg>プロジェクトの管理</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025447Z">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project management shortcuts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025311Z">
+        <seg>プロジェクト管理用のショートカット</seg>
       </tuv>
     </tu>
     <tu>
@@ -15725,6 +15829,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154602Z">
         <seg>ウインドウを初期位置に復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restores the components of the main OmegaT window to their default state.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024438Z">
+        <seg>OmegaT で使用する各ウィンドウを、初期位置に戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18641,6 +18753,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following shortcuts are available from the main window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025038Z">
+        <seg>以下のショートカットは、メインウィンドウ上で使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following window shows an example of a) the English source b) Spanish and c) Slovenian Google Translate translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T131012Z">
@@ -18855,6 +18975,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054803Z">
         <seg>通常ステータスバーに表示されるようなメッセージは、表示されなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The minimum is 10 seconds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024143Z">
+        <seg>設定可能な最小間隔は、10 秒です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21448,6 +21576,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this feature when you have undocked, moved, or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024531Z">
+        <seg>切り離されたり、移動したり、隠れてしまったウィンドウを元の状態に戻したいときに、使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T061226Z">
@@ -21924,6 +22060,14 @@ program proprietary.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T151814Z">
         <seg>有効な場合、&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; を押すと、現在の分節に機械翻訳の結果を挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When another window is on the foreground, click on the main window to bring it to the foreground or press &lt;k0&gt;Esc&lt;/k0&gt; to close the other window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025116Z">
+        <seg>他のウィンドウが前面に表示されている場合、&lt;k0&gt;［Esc］&lt;/k0&gt;を押してそのウィンドウを閉じるか、メインウィンドウを一度クリックして、前面に出してください。</seg>
       </tuv>
     </tu>
     <tu>
