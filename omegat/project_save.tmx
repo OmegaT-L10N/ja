@@ -2939,6 +2939,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn] &lt;/l0&gt; On abort, the program is aborted when tag validation finds errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051632Z">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt; 「abort」を指定した場合は、不正なタグを見つけた時点で、タグ検証を中止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;&lt;p1&gt; outputFileName&lt;/p1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T020025Z">
@@ -11117,6 +11125,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In all other cases no tag validation is done.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051858Z">
+        <seg>上記以外の値を指定した場合はすべて、タグ検証を行いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;$(name only&lt;/l0&gt;&lt;e1&gt;-number of extensions&lt;/e1&gt;) and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;number of extensions} &lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163613Z">
@@ -14526,6 +14542,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103035Z">
         <seg>Mac では、修飾子 &lt;e0&gt;meta&lt;/e0&gt; の代わりに &lt;e1&gt;command&lt;/e1&gt; キーを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On warn the errors are printed but the program continues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051803Z">
+        <seg>「warn」を指定した場合は、エラーを出力しますが、プログラムは処理を継続します。</seg>
       </tuv>
     </tu>
     <tu>
