@@ -6122,6 +6122,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T161217Z">
+        <seg>分節化設定を変更した場合、翻訳済みの分節が分割されたり、結合されることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T150433Z">
