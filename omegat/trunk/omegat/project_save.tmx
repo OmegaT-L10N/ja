@@ -7391,6 +7391,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091540Z">
+        <seg>多言語に対応しているので、自分が一番書きやすい言語（日本語でも）で投稿してかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105949Z">
@@ -10634,6 +10642,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091001Z">
+        <seg>翻訳を開始した後に原文ファイルを変更すると、&lt;a1&gt;OmegaT&lt;/a1&gt; は既に翻訳した分節を見つけられなくなるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the tokenizers are not properly launched, the log will look like this:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T174611Z">
@@ -12953,6 +12969,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090841Z">
+        <seg>omegat フォルダーにある project_save.tmx ファイルを、CD や DVD のような外部メディアや、クラウド ストレージに、定期的にコピーをとっておきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T153317Z">
@@ -14275,6 +14299,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T011859Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT - User's Guide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091723Z">
+        <seg>OmegaT - 取扱説明書</seg>
       </tuv>
     </tu>
     <tu>
@@ -17614,6 +17646,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091350Z">
+        <seg>それでも問題が解決しない場合は、&lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; ユーザーグループ&lt;/u0&gt;に投稿してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should you wish not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T035158Z">
@@ -18565,6 +18605,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152132Z">
         <seg>タジク語（Tajik）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take particular care when making changes to the files in &lt;l0&gt;/source &lt;/l0&gt;while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090938Z">
+        <seg>翻訳作業全体の途中で &lt;l0&gt;source&lt;/l0&gt; にあるファイルを変更した場合は、特に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20761,6 +20809,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091847Z">
+        <seg>この文書は OmegaT（自由に使用できる、コンピューター翻訳支援ツール）の公式な取扱説明書です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T141201Z">
@@ -21213,6 +21269,14 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033302Z">
         <seg>訳文ファイルを開くたびに表示設定を変えるという手間を避けるため、あらかじめ原文ファイルの表示設定を変えて保存しておく方法も検討してみましょう。この場合、訳文ファイルにとって適切な表示設定に合わせて、原文ファイルの表示を設定することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid losing important data:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090708Z">
+        <seg>大切なデータを失わないためには：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22279,6 +22343,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Until you are familiar with &lt;a0&gt;OmegaT&lt;/a0&gt;, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090917Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の使用に慣れるまでは、翻訳ファイルを定期的に作成し、翻訳後のファイルに最新の翻訳内容が反映されているかを、こまめに確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments will hereby remain in the source language.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T084918Z">
@@ -22444,6 +22516,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T181732Z">
         <seg>OmegaT のユーザーインターフェイスにインストール時の言語を使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use these Help texts to get started.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091300Z">
+        <seg>まず、このヘルプに書かれた内容を参照して、解決を試みてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22796,6 +22876,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T063221Z">
         <seg>Microsoft Visio ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vito Smolej</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091728Z">
+        <seg>Vito Smolej</seg>
       </tuv>
     </tu>
     <tu>
@@ -24667,6 +24755,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>close the project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090519Z">
+        <seg>プロジェクトを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>co</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205547Z">
@@ -25085,8 +25181,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>en</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210026Z">
-        <seg>en</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091652Z">
+        <seg>ja</seg>
       </tuv>
     </tu>
     <tu>
@@ -25750,6 +25846,14 @@ create its configuration folder.</seg>
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T212932Z">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/Omegat/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091006Z">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
     </tu>
@@ -27339,6 +27443,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>open the project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090704Z">
+        <seg>プロジェクトを再度開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142047Z">
@@ -27779,6 +27891,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>rename it &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090701Z">
+        <seg>そのファイル名を &lt;l0&gt;project_save.tmx&lt;/l0&gt; に変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090557Z">
+        <seg>現在の &lt;f0&gt;project_save.tmx&lt;/f0&gt; ファイルの名前を一時的に変更する（たとえば &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt; ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>reserved for future use by plugins</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T151932Z">
@@ -27959,6 +28087,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205923Z">
         <seg>分節全体を選択します（Mac：&lt;e0&gt;Cmd+A&lt;/e0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090615Z">
+        <seg>探している内容ともっとも近い翻訳メモリのバックアップファイルを選択する</seg>
       </tuv>
     </tu>
     <tu>
@@ -28855,6 +28991,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>vol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091730Z">
+        <seg>vs</seg>
       </tuv>
     </tu>
     <tu>
