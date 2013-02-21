@@ -10028,6 +10028,14 @@ parties remain in full compliance.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T083947Z">
+        <seg>しかし、他のプログラムを使用するときと同様、万が一データが消えてしまった場合の対策を考えておくべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064131Z">
@@ -10816,6 +10824,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130759Z">
         <seg>認証が必要なプロキシを使用している場合、ユーザー名とパスワードを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T085309Z">
+        <seg>翻訳データが消えた場合、以下の手順にしたがって、直近に保存されたバックアップ（デフォルトの設定であれば過去 10 分以内）からプロジェクトを復元してください:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14291,6 +14307,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T164925Z">
         <seg>OmegaT は整形情報を持つ文字列や単語に、扱いやすいタグを付けることで、この互換性を実現しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T084459Z">
+        <seg>OmegaT は、また、プロジェクトを開くか再読み込みするたびに、翻訳メモリのバックアップファイル（同じく omegat フォルダーの project_save.tmx.YYYYMMDDHHNN.bak ファイル）を作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23074,6 +23098,14 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat &lt;/l4&gt;subfolder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T084230Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; は、翻訳作業のすべての内容を翻訳メモリ（&lt;l4&gt;omegat&lt;/l4&gt; フォルダーの &lt;l3&gt;project_save.tmx&lt;/l3&gt; ファイル）に保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you wish to use the filter again, just tick the check box.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T035748Z">
@@ -23430,6 +23462,14 @@ price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153310Z">
         <seg>コサ語（Xhosa）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T084959Z">
+        <seg>「YYYY」は西暦年を表す４桁の数字です。「MM」は月を、「DD」は日を、「HH」と「NN」はそれぞれ時分を示し、全体で翻訳メモリが前回保存された日時を表します。</seg>
       </tuv>
     </tu>
     <tu>
