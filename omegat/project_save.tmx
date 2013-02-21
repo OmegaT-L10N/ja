@@ -3043,10 +3043,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;.txt2&lt;/l0&gt; files are files in ISO-8859-2, that covers most &lt;e1&gt;Central and Eastern Europe&lt;/e1&gt; languages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T130830Z">
+        <seg>&lt;l0&gt;.txt2&lt;/l0&gt; ファイルは&lt;e1&gt;中央、東ヨーロッパ&lt;/e1&gt;の言語のほとんどに対応する ISO-8859-2 エンコーディングとして解釈されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;.txt&lt;/l0&gt; files are automatically (&lt;auto&gt;) interpreted by &lt;a1&gt;OmegaT&lt;/a1&gt; as being encoded in the computer's default encoding.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T121223Z">
         <seg>&lt;l0&gt;.txt&lt;/l0&gt; ファイルは、エンコーディングを「&lt;自動&gt;」で認識します。これは、コンピューターのデフォルトのエンコーディングに合わせることを意味します。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;.utf8&lt;/l0&gt; files are interpreted by &lt;a1&gt;OmegaT&lt;/a1&gt; as being encoded in UTF-8 (an encoding that covers almost all languages in the world).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T131206Z">
+        <seg>&lt;l0&gt;.utf8&lt;/l0&gt; ファイルは &lt;a1&gt;OmegaT&lt;/a1&gt; によって、（世界中ほぼすべての言語に対応する）UTF-8 エンコーディングとして解釈されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3187,6 +3203,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Encoding&lt;/p0&gt; &lt;s1&gt;Central and Eastern European&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T130802Z">
+        <seg>&lt;p0&gt;エンコーディング&lt;/p0&gt; &lt;s1&gt;中央、東ヨーロッパ言語&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Encoding&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T092134Z">
@@ -3195,10 +3219,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Encoding&lt;/p0&gt; &lt;s1&gt;Unicode&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T130850Z">
+        <seg>&lt;p0&gt;エンコーディング&lt;/p0&gt; &lt;s1&gt;ユニコード&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Encoding&lt;/p0&gt; &lt;s1&gt;Western&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T121412Z">
-        <seg>&lt;p0&gt;エンコーディング&lt;/p0&gt; &lt;s1&gt;西ヨーロッパ&lt;/s1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T130756Z">
+        <seg>&lt;p0&gt;エンコーディング&lt;/p0&gt; &lt;s1&gt;西ヨーロッパ言語&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5155,6 +5187,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And of course, if you wish to be on the safe side, consider converting this kind of file to Unicode, i.e. to the &lt;l6&gt;.utf8 &lt;/l6&gt;file format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T131941Z">
+        <seg>もちろん、安全のため、こうしたファイルはユニコード形式（たとえば &lt;l6&gt;.utf8&lt;/l6&gt; ファイル）への変換を検討してもいいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And you must show them these terms so they know their
 rights.</seg>
       </tuv>
@@ -6276,8 +6316,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Closes or opens the &lt;l0&gt;Project files window&lt;/l0&gt; (depending on whether it is open or closed).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T162606Z">
-        <seg>&lt;l0&gt;［翻訳対象ファイル一覧］&lt;/l0&gt;ウィンドウを開くか、あるいは閉じます（どの動作をするかは、その時点でウィンドウが開いているかどうかによります）。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T132208Z">
+        <seg>&lt;l0&gt;翻訳対象ファイル一覧&lt;/l0&gt;ウィンドウを開くか、あるいは閉じます（どの動作をするかは、その時点でウィンドウが開いているかどうかによります）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7329,8 +7369,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T162403Z">
-        <seg>プロジェクトの言語や使用フォルダーを変更するため&lt;l0&gt;［プロジェクト設定］&lt;/l0&gt;ウィンドウを表示します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T132121Z">
+        <seg>プロジェクトの言語や使用フォルダーを変更するため&lt;l0&gt;プロジェクト設定&lt;/l0&gt;ダイアログを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9175,6 +9215,14 @@ you have.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133510Z">
         <seg>たとえば、構成例 &lt;l0&gt;*.xhtml&lt;/l0&gt; は、拡張子が &lt;l1&gt;.xhtml&lt;/l1&gt; のあらゆるファイルに一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, when you have a Czech text file (very probably written in the &lt;e2&gt;ISO-8859-2&lt;/e2&gt; code) you just need to change the extension&lt;l3&gt; .txt&lt;/l3&gt; to &lt;l4&gt;.txt2 &lt;/l4&gt;and &lt;a5&gt;OmegaT&lt;/a5&gt; will interpret its contents correctly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T131759Z">
+        <seg>たとえば、チェコ語で書かれたテキストファイル（ほとんどの場合 &lt;e2&gt;ISO-9959-2&lt;/e2&gt; で書かれているでしょう）を扱う場合、拡張子を &lt;l3&gt;.txt&lt;/l3&gt; から &lt;l4&gt;.txt2&lt;/l4&gt; に変更するたけで、&lt;a5&gt;OmegaT&lt;/a5&gt; は内容を正しく解釈します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16061,6 +16109,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160445Z">
         <seg>プロジェクトは更新されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Properties dialog</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T132313Z">
+        <seg>プロジェクト設定変更ダイアログ</seg>
       </tuv>
     </tu>
     <tu>
@@ -23858,6 +23914,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T085110Z">
         <seg>OmegaT の個人設定フォルダー（詳しくは&lt;l0&gt;個人設定ファイル&lt;/l0&gt;を参照のこと）にショートカット定義ファイルを配置することによって、既存のショートカットを変更したり、新しいショートカットを追加することができるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T131342Z">
+        <seg>これらは&lt;e1&gt;［設定］&lt;/e1&gt;メニューの&lt;e0&gt;［ファイルフィルター］&lt;/e0&gt;一覧で［テキストファイル］を選択し、［編集...］を押すと［フィルターの編集］一覧で確認できます。</seg>
       </tuv>
     </tu>
     <tu>
