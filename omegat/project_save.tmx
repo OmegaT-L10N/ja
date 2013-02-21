@@ -4897,6 +4897,14 @@ software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045300Z">
+        <seg>たとえば、あるプログラム用のプロジェクトで、GUI をたくさんの言語に地域化する必要があるとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An exception occurred while parsing the TMX file
 {0}
 The TMX file will not be loaded.</seg>
@@ -10596,6 +10604,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific directory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045706Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り起動できない（GUI 環境がない）場合は、次の方法をとってください：同じ端末の他の場所、または別の端末にある OmegaT の設定ファイルを、あらかじめ決めたフォルダーにコピーしておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130759Z">
@@ -10726,6 +10742,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need non-standard settings, the corresponding configuration files (&lt;l0&gt;filters.conf&lt;/l0&gt; and &lt;l1&gt;segmentation.conf)&lt;/l1&gt; must be present.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045546Z">
+        <seg>標準とは別の設定を指定したい場合は、有効な設定ファイル（&lt;l0&gt;filters.conf&lt;/l0&gt; と &lt;l1&gt;segmentation.conf）も用意する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T031803Z">
@@ -10745,6 +10769,14 @@ free software which everyone can redistribute and change under these terms.</seg
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155910Z">
+        <seg>そのままコンソールモードで起動すると、同じ設定を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the settings you configured.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045620Z">
         <seg>そのままコンソールモードで起動すると、同じ設定を使用します。</seg>
       </tuv>
     </tu>
@@ -13943,6 +13975,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of interest for advanced users only!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T044856Z">
+        <seg>興味のある上級者のユーザーのみを対象としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important.In the source file (and in the translated file), A source sentence might look like</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T200832Z">
@@ -16269,6 +16309,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T074555Z">
         <seg>レト・ロマン語（Romansh）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and set the settings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045607Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り（GUI 経由で）起動して設定しておきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19286,6 +19334,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045823Z">
+        <seg>フォルダーの場所は、起動時にコマンドライン上で指定するので、どこであってもかまいません（次の節を参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location does not matter, since you can add it to the command line at startup.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160050Z">
@@ -19298,6 +19354,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155727Z">
         <seg>プロジェクトの場所は、起動時にコマンドライン上で指定するので、どこであってもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location is irrelevant, since it must be specified explicitly on the command-line at launch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045454Z">
+        <seg>場所はどこであってもかまいません。起動時にコマンドライン上で指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19553,6 +19617,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T173804Z">
         <seg>プロジェクト設定では、書き込み可能な用語集ファイルの名前を入力することができます（本章の最初を参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045026Z">
+        <seg>コンソール（コマンドラインとも）モードは、スクリプト環境で &lt;a0&gt;OmegaT&lt;/a0&gt; を翻訳ツールとして用いる場合に使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21029,6 +21101,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To run OmegaT, a valid OmegaT project must be available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045421Z">
+        <seg>このモードで OmegaT を起動するためには、有効な OmegaT プロジェクトが存在している必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To see a list of files in the project, open the Project Files dialog by pressing &lt;k1&gt;Ctrl+L&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210051Z">
@@ -22160,6 +22240,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045346Z">
+        <seg>コンソールモードを使うと、そのプログラムをビルドする工程に、インターフェースを地域化する作業を組み込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T181131Z">
@@ -22508,6 +22596,14 @@ program proprietary.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065504Z">
         <seg>下線が引かれた語句の上にマウスカーソルをかざすと、説明が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When launched in console mode, no GUI is loaded ( it will work therefore on any console) and the given project is automatically translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045048Z">
+        <seg>コンソールモードで開始すると、どのコンソール上でも動作するように、GUI を表示しません。そして、指定されたプロジェクトを自動的に処理します。</seg>
       </tuv>
     </tu>
     <tu>
