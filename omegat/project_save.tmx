@@ -20801,6 +20801,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is especially the case when a large file containing many segments is open in the editor, and/or slow hardware is used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T075503Z">
+        <seg>これは特に、多くの分節を含む巨大なファイルを編集ウィンドウで開いているときや、負荷の高い処理を並列実行してハードウェアが遅くなっているときに、見られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T155140Z">
