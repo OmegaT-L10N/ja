@@ -5962,6 +5962,22 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the encoding of your files to Unicode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T101521Z">
+        <seg>ファイルのエンコーディングをユニコードに変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the file extension from &lt;l1&gt;.txt&lt;/l1&gt; to &lt;l2&gt;.utf8.&lt;/l2&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; will automatically interpret the file as a UTF-8 file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T100521Z">
+        <seg>このとき、拡張子を &lt;l1&gt;.txt&lt;/l1&gt; から &lt;l2&gt;.utf8&lt;/l2&gt; に変更してください。OmegaT はこのファイルを UTF-8 ファイルとして自動的に認識します。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165621Z">
@@ -18086,6 +18102,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify the encoding for your plain text files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T101511Z">
+        <seg>プレーンテキストファイルのエンコーディングを指定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spell &amp;Checking...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154954Z">
@@ -20677,6 +20701,14 @@ distribute copies of the software, or if you modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They all involve the application of file filters in the&lt;e1&gt; Options &lt;/e1&gt;menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T100200Z">
+        <seg>いずれも&lt;e1&gt;設定&lt;/e1&gt;メニューにあるファイルフィルターを利用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They also improve glossary matching.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T152656Z">
@@ -21053,6 +21085,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175833Z">
         <seg>こちらが初期設定です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the most common-sense alternative, sparing you problems in the long run.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T101442Z">
+        <seg>これは最も理にかなった解決策で、あなたを厄介ごとから救ってくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27543,6 +27583,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090704Z">
         <seg>プロジェクトを再度開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open your source file in a text editor that correctly interprets its encoding and save the file in &lt;e0&gt;"UTF-8"&lt;/e0&gt; encoding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T100344Z">
+        <seg>原文ファイルをテキストエディターで開き、エンコーディング &lt;e0&gt;UTF-8&lt;/e0&gt; で保存しなおします。</seg>
       </tuv>
     </tu>
     <tu>
