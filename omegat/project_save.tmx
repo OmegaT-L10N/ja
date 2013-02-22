@@ -3341,8 +3341,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;global vs project file filters&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T171549Z">
-        <seg>&lt;p0&gt;ファイルフィルター&lt;/p0&gt; &lt;s1&gt;グローバル vs プロジェクト専用フィルター&lt;/s1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T031802Z">
+        <seg>&lt;p0&gt;ファイルフィルター&lt;/p0&gt; &lt;s1&gt;ユーザーレベル vs プロジェクト専用フィルター&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,8 +3902,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Changing the folder structure&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T030248Z">
-        <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;フォルダー構造を変更する&lt;/s1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T031912Z">
+        <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;フォルダー構造の変更&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3968,6 +3968,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025222Z">
         <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;翻訳状況&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032011Z">
+        <seg>&lt;p0&gt;正規表現&lt;/p0&gt; &lt;s1&gt;分節化&lt;/s1&gt; &lt;s2&gt;検索&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4166,8 +4174,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;global vs project rules&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T170533Z">
-        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;グローバル vs プロジェクト専用規則&lt;/s1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T031734Z">
+        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;ユーザーレベル vs プロジェクト専用規則&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14453,8 +14461,8 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T021559Z">
-        <seg>&lt;g2&gt;［設定］→［ファイルフィルター...］&lt;/g2&gt;メニューからグローバルなユーザーレベルのファイルフィルター設定を変更しても、プロジェクト専用のファイルフィルター設定は変更されないことに注意してください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T031820Z">
+        <seg>&lt;g2&gt;［設定］→［ファイルフィルター...］&lt;/g2&gt;メニューからユーザーレベルのファイルフィルター設定を変更しても、プロジェクト専用のファイルフィルター設定は変更されないことに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16641,6 +16649,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Flags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032851Z">
+        <seg>正規表現 - マッチフラグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regular expression for custom tags:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121231T140514Z">
@@ -16653,6 +16669,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121231T140543Z">
         <seg>翻訳から削除すべき文字列の正規表現：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032013Z">
+        <seg>正規表現</seg>
       </tuv>
     </tu>
     <tu>
@@ -17645,6 +17669,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See additional references and examples below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032538Z">
+        <seg>以下の構文一覧と使用例も参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See chapter &lt;l1&gt;Source Segmentation&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T171339Z">
@@ -18106,6 +18138,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T104214Z">
         <seg>もし OmegaT の動作がおかしいと思ったら、バグ報告の際に、このファイル自体または関連する箇所を抜き出して含めると、大いに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032530Z">
+        <seg>より詳細な情報については &lt;u0&gt;Java の正規表現に関する技術文書&lt;/u0&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19743,6 +19783,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The construct</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032859Z">
+        <seg>構文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182351Z">
@@ -20565,6 +20613,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032333Z">
+        <seg>文字列検索と分節化規則で使用する正規表現は、Java がサポートしているものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The relevant files &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; can be found in the user home directory (E.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050415Z">
@@ -21309,6 +21365,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T175548Z">
         <seg>最初の章では、たとえば原文と訳文の言語設定のような、プロジェクトの設定について説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032735Z">
+        <seg>この章は上級者のユーザーを対象にしています。独自の分節化規則を定義したり、こみいった条件での検索を必要とする場合に、参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26423,6 +26487,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T164934Z">
         <seg>http://docs.oracle.com/javase/jp/6/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032259Z">
+        <seg>http://docs.oracle.com/javase/jp/1.5.0/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
