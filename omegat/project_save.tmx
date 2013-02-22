@@ -7719,6 +7719,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T182952Z">
+        <seg>信頼できる分節化規則が多くの言語で設定済みのため、新たな独自規則を作成する必要は、あまりないでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T080939Z">
@@ -11216,6 +11224,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T163841Z">
         <seg>もし訳文の一部を選択した状態であれば、その部分を上書きします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T182720Z">
+        <seg>文単位の分節化を選択した場合、分節化規則は、メインメニューの &lt;m5&gt;&lt;g6&gt;&lt;i7/&gt;設定&lt;/g6&gt; &lt;g8&gt;分節化...&lt;/g8&gt;&lt;/m5&gt; で設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16251,6 +16267,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T074336Z">
         <seg>パンジャーブ語（Punjabi）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T182612Z">
+        <seg>段落単位の分節化は、高度に文学的または芸術的な翻訳のような、一部のケースでは有用です。これらの翻訳では、文脈に応じて翻訳者が文の順番を入れ替えることがあるためです。しかし大半のプロジェクトでは、文単位の分節化が望ましいでしょう。その方が、過去の翻訳と一致しやすい（再利用しやすい）ためです。</seg>
       </tuv>
     </tu>
     <tu>
