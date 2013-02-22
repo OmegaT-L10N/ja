@@ -4044,6 +4044,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171908Z">
+        <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;設定&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Project management shortcuts&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025436Z">
@@ -5818,6 +5826,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171139Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は、同一の分節を１つの実体として扱うので、見つかった最初の分節のみを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -6782,6 +6798,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T074423Z">
         <seg>&lt;g3&gt;［スクリプト...］&lt;/g3&gt; をクリックすると、スクリプト ダイアログが開きます：&lt;s4&gt; &lt;s5&gt;スクリプト ダイアログ&lt;/s5&gt; &lt;m6&gt; &lt;i7&gt; &lt;i8/&gt; &lt;/i7&gt; &lt;/m6&gt; &lt;/s4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on a segment opens it in the Editor for modifications.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171431Z">
+        <seg>結果表示欄の分節をダブルクリックすると、修正できるように、編集ウィンドウ上で該当する分節に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11198,8 +11222,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T025828Z">
-        <seg>［翻訳自動反映］チェックボックスにチェックを入れないと、原文が同じ他の分節は未翻訳のまま残されます。通常の分節と同じように、その文節に移動して都度、翻訳することになります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171445Z">
+        <seg>［翻訳自動反映］チェックボックスにチェックを入れないと、原文が同じ他の分節は未翻訳のまま残されます。通常の分節と同じように、その分節に移動して都度、翻訳することになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18176,8 +18200,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Search results display</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T170858Z">
-        <seg>検索結果表示</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T172041Z">
+        <seg>検索結果の表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -21614,6 +21638,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segments are displayed in order of appearance in the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171149Z">
+        <seg>検索された分節は、プロジェクト中で現れる順に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcut characters used try to reflect the underlying meaning of the tag (e.g. b for bold, i for italics, etc.)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T195543Z">
@@ -23462,6 +23494,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171204Z">
+        <seg>翻訳済みの分節は、その原文とともに表示されます。上段が原文、下段が訳文です。未翻訳の分節は、原文のみが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160356Z">
@@ -23530,6 +23570,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155238Z">
         <seg>参考翻訳メモリフォルダー {0} は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T172510Z">
+        <seg>翻訳メモリツールは、分節と呼ばれるテキスト単位で処理を行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25584,6 +25632,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171846Z">
+        <seg>検索ウィンドウのウィンドウタイトルには検索文字列が設定されるため、検索ウィンドウが複数開いていても、容易に識別できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185211Z">
@@ -25612,6 +25668,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T152626Z">
         <seg>対訳をクリックすると、訳文分節のカーソル位置に対訳が挿入されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171553Z">
+        <seg>必要であれば、用語の修正を行うため、検索ウィンドウに戻って、検索された次の分節を確認することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25710,6 +25774,14 @@ copyright notice and disclaimer of warranty; keep intact all the
 notices that refer to this License and to the absence of any warranty;
 and give any other recipients of the Program a copy of this License
 along with the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may have several Search windows open at the same time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171605Z">
+        <seg>同時に複数の検索ウィンドウを開くことができます。</seg>
       </tuv>
     </tu>
     <tu>
