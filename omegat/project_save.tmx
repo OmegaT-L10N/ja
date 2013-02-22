@@ -5505,6 +5505,14 @@ software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T103817Z">
+        <seg>完全一致検索は、指定された文字列を「語句」として検索します。たとえば、複数の単語を指定した場合、それらの単語の並びまで同じ語句を含む検索結果のみが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045300Z">
@@ -18013,6 +18021,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for segments containing the exact string you specified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T103624Z">
+        <seg>指定した文字列をそのまま含む分節を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StartDict Platform&lt;/u0&gt; above or on &lt;u2&gt;FreeDict&lt;/u2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T060813Z">
@@ -18039,8 +18055,8 @@ REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Search methods and options</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T102210Z">
-        <seg>&lt;p0&gt;検索&lt;/p0&gt; &lt;s1&gt;詳細設定&lt;/s1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T102617Z">
+        <seg>検索方法と設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -18513,6 +18529,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T162911Z">
         <seg>アイコンとして &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt; を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the method using the radio buttons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T102634Z">
+        <seg>ラジオボタンで検索方法を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25262,6 +25286,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can choose between two methods to search:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T102641Z">
+        <seg>以下の２通りから選択できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a glossary by pressing &lt;g0&gt;Ctrl+Shift+G&lt;/g0&gt;, or copy existing glossaries to the&lt;f1&gt;/glossary/&lt;/f1&gt;subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130117T171935Z">
@@ -27247,6 +27279,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210050Z">
         <seg>ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>exact search</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T102642Z">
+        <seg>完全一致検索</seg>
       </tuv>
     </tu>
     <tu>
