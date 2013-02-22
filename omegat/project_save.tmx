@@ -4236,6 +4236,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Search window&lt;/p0&gt; &lt;s1&gt;Example&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T050502Z">
+        <seg>&lt;p0&gt;検索ウィンドウ&lt;/p0&gt; &lt;s1&gt;使用例&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;global vs project rules&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T031734Z">
@@ -4280,6 +4288,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T065610Z">
         <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;プロジェクト設定 - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search - Ctrl+F&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051157Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;検索 - Ctrl+F&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8465,6 +8481,22 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121455Z">
         <seg>英語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T050353Z">
+        <seg>英語：子音で始まる単語の前に「a」でなく「an」がある箇所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T050335Z">
+        <seg>英語：母音で始まる単語の前に「an」でなく「a」がある箇所</seg>
       </tuv>
     </tu>
     <tu>
@@ -16099,6 +16131,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T050130Z">
+        <seg>ピリオドの直後に大文字が続く箇所 - 新しい文章の前の空白が欠落している可能性あり？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T074407Z">
@@ -19697,6 +19737,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text search Window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T050544Z">
+        <seg>テキスト検索ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121231T150227Z">
@@ -20052,6 +20100,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T141033Z">
         <seg>上記の起動方法は、日常的に行うプログラム実行の手順としては、あまり実用的ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The above search finds all target segments that contain characters, rather improbable in the target - i.e. Slovenian - language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051134Z">
+        <seg>上の検索例では、すべての訳文分節から、訳文言語（たとえばスロヴェニア語）ではありえなさそうな文字が使われている箇所を検索しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25563,6 +25619,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T045847Z">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\0mnn</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033924Z">
@@ -25667,6 +25731,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T050133Z">
+        <seg>\bis\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\cx</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033721Z">
@@ -25751,6 +25823,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T044235Z">
         <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T045526Z">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T050338Z">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T045832Z">
+        <seg>\s{2,}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26943,6 +27039,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210050Z">
         <seg>ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extra spaces after the period at the end of the line</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T045707Z">
+        <seg>行末で、ピリオドの後ろに余分なスペースがある箇所</seg>
       </tuv>
     </tu>
     <tu>
@@ -28763,6 +28867,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T045845Z">
+        <seg>2 個以上の空白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>move to the beginning of the line in the segment</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T204134Z">
@@ -29799,6 +29911,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>search for “is”, not “this” or “isn't” etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T050446Z">
+        <seg>「is」を検索（「this」や「isn't」などに一致させない）</seg>
       </tuv>
     </tu>
     <tu>
