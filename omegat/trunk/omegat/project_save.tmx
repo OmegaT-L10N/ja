@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(?i)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033317Z">
+        <seg>(?i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Exception: if the Program itself is interactive but</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010416Z">
@@ -1253,10 +1261,26 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>... matches the following</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033301Z">
+        <seg>一致対象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T183101Z">
         <seg>拡張子とファイルの文字エンコーディングが一致していない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034036Z">
+        <seg>一致対象</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,6 +4610,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034706Z">
+        <seg>ギリシャ語ブロックの文字（単純 &lt;u0&gt;ブロック&lt;/u0&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A command line window is also referred to as a "terminal window".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131009Z">
@@ -4606,6 +4638,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T030715Z">
         <seg>こうすると、フィルター設定のコピーがプロジェクト自体とセットで保持されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A currency symbol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034731Z">
+        <seg>通貨記号</seg>
       </tuv>
     </tu>
     <tu>
@@ -5307,6 +5347,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034728Z">
+        <seg>大文字（単純 &lt;u0&gt;カテゴリ&lt;/u0&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An xml file with all the GUI accessible option settings</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T183713Z">
@@ -5373,6 +5421,30 @@ void, and will automatically terminate your rights under this License.</seg>
         <seg>Any attempt
 otherwise to copy, modify, sublicense or distribute the Program is
 void, and will automatically terminate your rights under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character except a, b, or c (negation)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034907Z">
+        <seg>a、b、c 以外の文字（否定）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character except one in the Greek block (negation)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034739Z">
+        <seg>ギリシャ語ブロック以外の文字（否定）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any letter except an uppercase letter (subtraction)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034755Z">
+        <seg>大文字以外の文字（減算）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8205,6 +8277,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034330Z">
+        <seg>大文字と小文字を区別しない一致を有効にします（デフォルトでは大文字と小文字を区別します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoded text (*.UTF8)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050723Z">
@@ -9375,6 +9455,14 @@ you have.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T133510Z">
         <seg>たとえば、構成例 &lt;l0&gt;*.xhtml&lt;/l0&gt; は、拡張子が &lt;l1&gt;.xhtml&lt;/l1&gt; のあらゆるファイルに一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, this is the backslash character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034358Z">
+        <seg>たとえば、この構文ではバックスラッシュ文字を表します</seg>
       </tuv>
     </tu>
     <tu>
@@ -14603,6 +14691,30 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing, but ends quoting started by \Q</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034516Z">
+        <seg>\Q で開始された引用をエスケープします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034413Z">
+        <seg>\E までのすべての文字をエスケープします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034044Z">
+        <seg>次の文字をエスケープします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165618Z">
@@ -16649,10 +16761,50 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033402Z">
+        <seg>正規表現 - 文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Character classes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034811Z">
+        <seg>正規表現 - 文字クラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034544Z">
+        <seg>正規表現 - Unicode ブロックとカテゴリのクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032851Z">
-        <seg>正規表現 - マッチフラグ</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033306Z">
+        <seg>正規表現 - フラグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Predefined character classes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035007Z">
+        <seg>正規表現 - 定義済みの文字クラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034022Z">
+        <seg>正規表現 - 引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -19686,6 +19838,14 @@ Program (independent of having been made by running the Program).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alert (bell) character ('\u0007')</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033644Z">
+        <seg>警告 (ベル) 文字（'\u0007'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The alternative is to enter a translation that is identical to the source text.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025311Z">
@@ -19746,6 +19906,62 @@ Program (independent of having been made by running the Program).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T093815Z">
         <seg>そこでカスタマイズした設定は、すべての原文ファイルに適用されます。整形されたテキストのような、一部のファイル形式にだけ適用されるわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The carriage-return character ('\u000D')</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033621Z">
+        <seg>キャリッジリターン（CR）文字（'\u000D'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with hexadecimal value 0xhh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034012Z">
+        <seg>16 進値 0xhh を持つ文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with hexadecimal value 0xhhhh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033533Z">
+        <seg>16 進値 0xhhhh を持つ文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034000Z">
+        <seg>8 進値 0mnn を持つ文字（0 &lt;= m &lt;= 3、0 &lt;= n &lt;= 7）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033844Z">
+        <seg>8 進値 0n を持つ文字（0 &lt;= n &lt;= 7）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0nn (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033922Z">
+        <seg>8 進値 0nn を持つ文字（0 &lt;= n &lt;= 7）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character x, except the following...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033439Z">
+        <seg>文字 x（以下に示すもの以外）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19835,6 +20051,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T084715Z">
         <seg>生成されるファイルは、その時点の翻訳作業の進行状況を反映した内容になります。つまり、&lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt; に保存された翻訳メモリの内容が反映されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The control character corresponding to x</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033742Z">
+        <seg>x に対応する制御文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -19984,6 +20208,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The escape character ('\u001B')</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033658Z">
+        <seg>エスケープ文字（'\u001B'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170425Z">
@@ -20117,6 +20349,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T131012Z">
         <seg>次のウィンドウには、a）英語の原文、b）スペイン語の訳文、c）スロヴェニア語の訳文、が表示されています。b と c は共に、Google Translate による翻訳です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The form-feed character ('\u000C')</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033634Z">
+        <seg>用紙送り文字（'\u000C'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20407,6 +20647,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T182257Z">
         <seg>MultiTerm の新しいバージョンでは、TBX 形式での出力に対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The newline (line feed) character ('\u000A')</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033609Z">
+        <seg>改行（ラインフィード、LF）文字（'\u000A'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20827,6 +21075,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170024Z">
         <seg>構文は、次の通りです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tab character ('\u0009')</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033548Z">
+        <seg>タブ文字（'\u0009'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21597,6 +21853,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T093024Z">
         <seg>ファイルが 16 ビットでエンコードされたユニコード文字セットの場合は、特に問題は起きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034326Z">
+        <seg>以下のメタ文字（!$()*+.&lt;&gt;?[\]^{|}）自体を一致対象としたい場合に入力が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -24859,10 +25123,202 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034745Z">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[^abc]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034842Z">
+        <seg>[^abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034914Z">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[abc]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034813Z">
+        <seg>[abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122658Z">
         <seg>[参考] </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034038Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0mnn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033924Z">
+        <seg>\0mnn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0n</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033744Z">
+        <seg>\0n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0nn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033849Z">
+        <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\E</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034414Z">
+        <seg>\E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034732Z">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\Q</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034359Z">
+        <seg>\Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\\</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034336Z">
+        <seg>\\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033636Z">
+        <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\cx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033721Z">
+        <seg>\cx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\e</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033644Z">
+        <seg>\e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\f</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033621Z">
+        <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033548Z">
+        <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034547Z">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{Lu}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034717Z">
+        <seg>\p{Lu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{Sc}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034729Z">
+        <seg>\p{Sc}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\r</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033610Z">
+        <seg>\r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\t</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033534Z">
+        <seg>\t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\uhhhh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033441Z">
+        <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\xhh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034002Z">
+        <seg>\xhh</seg>
       </tuv>
     </tu>
     <tu>
@@ -24879,6 +25335,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T140204Z">
         <seg>言語に依存しない機械翻訳エンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a through z or A through Z, inclusive (range)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034951Z">
+        <seg>a 〜 z または A から Z（範囲）</seg>
       </tuv>
     </tu>
     <tu>
@@ -24903,6 +25367,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010408Z">
         <seg>a) You must cause the modified files to carry prominent notices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a, b, or c (simple class)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034841Z">
+        <seg>a、b または c（単純クラス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26495,6 +26967,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032259Z">
         <seg>http://docs.oracle.com/javase/jp/1.5.0/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034638Z">
+        <seg>http://docs.oracle.com/javase/jp/1.5.0/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
     </tu>
     <tu>
@@ -29799,6 +30279,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>wol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033405Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
