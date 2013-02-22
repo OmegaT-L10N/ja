@@ -18021,6 +18021,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for segments containing all keywords you specified, in any order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T150857Z">
+        <seg>指定したすべてのキーワードを含む分節を検索します。指定した順序は問いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for segments containing the exact string you specified.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T103624Z">
@@ -18121,6 +18129,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051421Z">
         <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T150845Z">
+        <seg>文字列「&lt;l0&gt;open file&lt;/l0&gt;」を検索した場合、「&lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;」とは一致しますが、「&lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt;」や「&lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;」とは一致しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18505,6 +18521,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="masa_36">
         <seg>最後に［OK］をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T150951Z">
+        <seg>複数の単語の登場順を問わないような検索を行いたい場合は、それらの単語を空白で区切って入力し、［キーワード検索］を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28551,6 +28575,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>kaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>keyword search</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T145131Z">
+        <seg>キーワード検索</seg>
       </tuv>
     </tu>
     <tu>
