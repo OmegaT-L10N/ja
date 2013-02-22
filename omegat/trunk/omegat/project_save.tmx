@@ -4372,6 +4372,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202729Z">
+        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;規則&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Sentence level segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202619Z">
+        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;文単位の分節化&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Source level segmentation&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T194841Z">
@@ -5304,6 +5320,14 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T090308Z">
         <seg>入れ子になった後：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202712Z">
+        <seg>原文ファイルを論理的な区切りで分節化した後、&lt;a0&gt;OmegaT&lt;/a0&gt; はさらにそれらを文単位で分節化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8311,6 +8335,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T201311Z">
+        <seg>この処理のあいだ、分節作成のために参照される内容は、原文ファイルの構造のみです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During translation additional files may get created in this subdirectory as follows</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T074126Z">
@@ -9511,6 +9543,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202133Z">
+        <seg>見映えの情報を持ったファイル（ODF 文書、HTML 文書など）は、ブロックレベル（段落）のタグを基準に分節化されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files to translate</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025424Z">
@@ -9839,6 +9879,14 @@ you have.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104741Z">
         <seg>例として、OmegaT のデフォルトのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T201340Z">
+        <seg>たとえば、テキストファイルの場合は、改行で分節化するか、空行で分節化するか、または、まったく分節化しないかのいずれかです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11364,8 +11412,8 @@ countries not thus excluded.</seg>
       <tuv lang="EN">
         <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T185734Z">
-        <seg>対象の文書にもよりますが、翻訳者に強くお勧めする点があります。原文の構成が許す限り、OmegaT 上に出てくるタグを減らすために、原文の見栄えを単純化してください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T201952Z">
+        <seg>対象の文書にもよりますが、翻訳者に強くお勧めする点があります。原文の構成が許す限り、OmegaT 上に出てくるタグを減らすために、原文の見映えを単純化してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18622,6 +18670,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202730Z">
+        <seg>分節化規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation rules are applied in the following order:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122319Z">
@@ -18810,6 +18866,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152553Z">
         <seg>選択された言語：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sentence level segmentation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202609Z">
+        <seg>文単位の分節化</seg>
       </tuv>
     </tu>
     <tu>
@@ -21526,6 +21590,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202849Z">
+        <seg>分節化の流れは以下のように示すことができます：テキスト中を 1 文字ずつ動くカーソルをイメージしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The program will see confirmation before closing down.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T151347Z">
@@ -23506,6 +23578,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154413Z">
         <seg>用語ヒント / 完全一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202559Z">
+        <seg>XHTML や HTML ファイルでは、オブジェクトの属性も翻訳の対象になることがあります。このような場合は、属性値だけを分節として取り出します。</seg>
       </tuv>
     </tu>
     <tu>
