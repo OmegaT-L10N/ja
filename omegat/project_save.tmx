@@ -4762,6 +4762,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T041223Z">
+        <seg>正規表現の作成やテストを行える対話式のツールは、たくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T172224Z">
@@ -12722,8 +12730,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Java Web Start technology (part of Java 1.5 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T122614Z">
-        <seg>Java Web Start テクノロジー（Java 1.5 以降が対応）を用いると、スタンドアローンの Java アプリケーションを、１クリックでネットワーク上からローカル環境に配置することができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T041411Z">
+        <seg>Java Web Start テクノロジー（Java 1.5 以降が対応）を用いると、独立型の Java アプリケーションを、１クリックでネットワーク上からローカル環境に配置することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16969,6 +16977,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex Tester</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T042336Z">
+        <seg>Regex Tester</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex tools and examples of use</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040941Z">
@@ -17953,6 +17969,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T154732Z">
         <seg>『SimpleDateFormat』の書式については、&lt;u0&gt;Oracle 技術文書&lt;/u0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T043156Z">
+        <seg>Windows、Linux、FreeBSD 向けの単体ツールを探しているなら、&lt;u0&gt;The Regex Coach&lt;/u0&gt; を確認してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21705,6 +21729,14 @@ distribute copies of the software, or if you modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T071127Z">
         <seg>これらのファイルには、将来のプロジェクトで再利用できるように、まったく同じ翻訳メモリの同一の内容が、それぞれ異なる形式で記録されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T042322Z">
+        <seg>それらのツールは、たいてい同じ使い方ができます（実例は、下の Regular Expression Tester を参照してください）。入力した正規表現（図では最上段の「Regular Expression」）にしたがって対象テキスト（中段の「Search Text」）を検索し、その結果（下段の「Result」）を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27447,6 +27479,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191835Z">
         <seg>http://tech.groups.yahoo.com/group/omegat/database?method=reportRows&amp;amp;tbl=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T042342Z">
+        <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
     </tu>
     <tu>
