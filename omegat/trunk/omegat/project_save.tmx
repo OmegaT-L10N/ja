@@ -17217,6 +17217,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expressions are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T163645Z">
+        <seg>正規表現は、文字列を検索するにあたって、とても効果的な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T181311Z">
@@ -18305,6 +18313,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T155726Z">
         <seg>詳しくは「&lt;l0&gt;その他&lt;/l0&gt;」の「字体の設定」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See more in the chapter&lt;l0&gt; Regular Expressions.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T164547Z">
+        <seg>詳しくは「&lt;l0&gt;正規表現&lt;/l0&gt;」の章を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21449,6 +21465,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151727Z">
         <seg>スクリプト {0} を実行中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T163440Z">
+        <seg>たとえば上の図で指定されている「[a-zA-Z]+[öäüqwß]」という検索文字列は、ドイツ語配列のキーボードでは不自然な文字が使われている箇所を訳文から検索しています。</seg>
       </tuv>
     </tu>
     <tu>
