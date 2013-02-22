@@ -11573,6 +11573,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T023237Z">
+        <seg>同じ内容の分節が何箇所か原文に存在する場合、［翻訳自動反映］チェックボックスにチェックを入れると、最初にその内容を一箇所翻訳した時点で、それが既定値訳文に設定され、他の訳文分節にも同じ内容が設定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case, however, the same source segment already exists with a different translation, the new translation will be saved as an alternative.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092628Z">
@@ -13695,6 +13703,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T042129Z">
         <seg>その他の話題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T023626Z">
+        <seg>原文が同じでも、文脈によっては他と同じ内容が適さない分節があるかもしれません。その場合はもちろん、後で&lt;g0&gt;［新しい訳文を登録］&lt;/g0&gt;コマンドを使って手修正することができます。</seg>
       </tuv>
     </tu>
     <tu>
