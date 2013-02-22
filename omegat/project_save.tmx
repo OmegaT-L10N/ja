@@ -4244,6 +4244,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Searches&lt;/p0&gt; &lt;s1&gt;Advanced Options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T062449Z">
+        <seg>&lt;p0&gt;検索&lt;/p0&gt; &lt;s1&gt;詳細設定&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;global vs project rules&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T031734Z">
@@ -6867,6 +6875,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T145730Z">
         <seg>接続済み。プロジェクトはチームプロジェクトモードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T063040Z">
+        <seg>そのため、OmegaT は &lt;f1&gt;tmx&lt;/f1&gt; ファイルの検索にも対応していますが、ファイル検索機能からは対象外になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24432,6 +24448,14 @@ program proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When searching through files (as opposed to translation memories), &lt;a0&gt;OmegaT&lt;/a0&gt; restricts the search to files in source file formats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T062813Z">
+        <seg>（翻訳メモリではない）複数のファイルを検索する場合、対象となるファイルは、&lt;a0&gt;OmegaT&lt;/a0&gt; が対応している原文ファイル形式に限定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155605Z">
@@ -25971,6 +25995,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a single file or a folder containing a set of files (check &lt;e0&gt;Search files)&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T062424Z">
+        <seg>任意のファイル、または複数ファイルを含む任意のフォルダー（&lt;e0&gt;ファイル検索&lt;/e0&gt;を参照してください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a through z or A through Z, inclusive (range)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034951Z">
@@ -26407,6 +26439,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204203Z">
         <seg>bos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>both the project and the reference translation memories in /tm/ (check &lt;e0&gt;Search TMs)&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T061951Z">
+        <seg>プロジェクトの内部翻訳メモリと、tm フォルダーにある翻訳メモリ（&lt;e0&gt;参考翻訳メモリ検索&lt;/e0&gt;を参照してください）の両方</seg>
       </tuv>
     </tu>
     <tu>
