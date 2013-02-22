@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040051Z">
+        <seg>$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T062529Z">
@@ -1049,6 +1057,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105557Z">
         <seg>(X)HTML フィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040836Z">
+        <seg>(XY)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3996,10 +4012,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Examples of use&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040934Z">
+        <seg>&lt;p0&gt;正規表現&lt;/p0&gt; &lt;s1&gt;使用例&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T032011Z">
         <seg>&lt;p0&gt;正規表現&lt;/p0&gt; &lt;s1&gt;分節化&lt;/s1&gt; &lt;s2&gt;検索&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040944Z">
+        <seg>&lt;p0&gt;正規表現&lt;/p0&gt; &lt;s1&gt;関連ツール&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4690,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A digit: [0-9]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035915Z">
+        <seg>数字：[0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T190959Z">
@@ -4678,6 +4718,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T142452Z">
         <seg>指定できる引数の一覧を以下に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-digit: [^0-9]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035922Z">
+        <seg>数字以外：[^0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-whitespace character: [^\s]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035952Z">
+        <seg>非空白文字：[^\s]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-word boundary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040056Z">
+        <seg>非単語境界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-word character: [^\w]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040011Z">
+        <seg>非単語文字：[^\w]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,6 +4822,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T064611Z">
         <seg>新規プロジェクトをデフォルトの設定で作成した場合、以下の構成で新しいフォルダー群が作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035946Z">
+        <seg>空白文字：[ \t\n\x0B\f\r]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A word boundary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040054Z">
+        <seg>単語境界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A word character: [a-zA-Z_0-9]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035959Z">
+        <seg>単語構成文字：[a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5421,6 +5517,14 @@ void, and will automatically terminate your rights under this License.</seg>
         <seg>Any attempt
 otherwise to copy, modify, sublicense or distribute the Program is
 void, and will automatically terminate your rights under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character (except for line terminators)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035704Z">
+        <seg>任意の文字（行末記号を除く）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8237,6 +8341,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either X or Y</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040834Z">
+        <seg>X または Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160541Z">
@@ -9347,6 +9459,22 @@ control compilation and installation of the executable.</seg>
 code means all the source code for all modules it contains, plus any
 associated interface definition files, plus the scripts used to
 control compilation and installation of the executable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040746Z">
+        <seg>たとえば &lt;e0&gt;a+?&lt;/e0&gt; は文字列 &lt;e1&gt;aaabbb&lt;/e1&gt; にある &lt;e1&gt;aaa&lt;/e1&gt; と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040733Z">
+        <seg>たとえば &lt;e0&gt;a+?&lt;/e0&gt; は文字列 &lt;e2&gt;aaabbb&lt;/e2&gt; にある最初の &lt;e1&gt;a&lt;/e1&gt; と一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16761,6 +16889,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Boundary matchers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040032Z">
+        <seg>正規表現 - 境界正規表現エンジン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Character</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033402Z">
@@ -16793,6 +16929,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Greedy quantifiers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040117Z">
+        <seg>正規表現 - 最長一致数量子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Logical operators</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040800Z">
+        <seg>正規表現 - 論理演算子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035007Z">
@@ -16805,6 +16957,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034022Z">
         <seg>正規表現 - 引用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040534Z">
+        <seg>正規表現 - 最短一致数量子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex tools and examples of use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040941Z">
+        <seg>正規表現関連ツールとその使用例</seg>
       </tuv>
     </tu>
     <tu>
@@ -19902,6 +20070,14 @@ Program (independent of having been made by running the Program).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The beginning of a line</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040049Z">
+        <seg>行の先頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The behaviour, stated here, applies to all the source files and not just to some of the file types, like formatted text.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T093815Z">
@@ -20188,6 +20364,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070916Z">
         <seg>これらの文書は有効活用されることを願って頒布されるものですが、その内容については全くの無保証となります。商品性の黙示保証、または特定目的への適合性は全く存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The end of a line</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040052Z">
+        <seg>行の末尾</seg>
       </tuv>
     </tu>
     <tu>
@@ -24474,6 +24658,86 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X followed by Y</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040821Z">
+        <seg>X の直後に Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040543Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040546Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, once or not at all</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040157Z">
+        <seg>X、1 または 0 回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, one or more times</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040225Z">
+        <seg>X、1 回以上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, zero or more times</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040213Z">
+        <seg>X、0 回以上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040202Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040216Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040132Z">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040539Z">
+        <seg>X??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XHTML Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121417Z">
@@ -24514,10 +24778,34 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040801Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XY as a single group</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040857Z">
+        <seg>XY を 1 つのグループとして扱います</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Xhosa</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153310Z">
         <seg>コサ語（Xhosa）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040825Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -25195,6 +25483,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\B</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040055Z">
+        <seg>\B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\D</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035916Z">
+        <seg>\D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\E</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034414Z">
@@ -25219,6 +25523,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\S</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035947Z">
+        <seg>\S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\W</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040000Z">
+        <seg>\W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\\</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034336Z">
@@ -25235,10 +25555,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040053Z">
+        <seg>\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\cx</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033721Z">
         <seg>\cx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\d</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035904Z">
+        <seg>\d</seg>
       </tuv>
     </tu>
     <tu>
@@ -25299,6 +25635,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\s</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035923Z">
+        <seg>\s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\t</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033534Z">
@@ -25315,10 +25659,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\w</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035953Z">
+        <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\xhh</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034002Z">
         <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>^</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040048Z">
+        <seg>^</seg>
       </tuv>
     </tu>
     <tu>
@@ -26743,6 +27103,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141709Z">
         <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>greedy quantifiers will match as much as they can.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040253Z">
+        <seg>最長一致数量子は、指定した文字となるべく多い文字数で一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28511,6 +28879,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>nob</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>non-greedy quantifiers will match as little as they can.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040629Z">
+        <seg>最短一致数量子は、指定した文字となるべく少ない文字数で一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30559,6 +30935,17 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">doc_src/en/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</prop>
+      <prop type="next">For example, in the default OmegaT shortcuts</prop>
+      <tuv lang="EN">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035412Z">
+        <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">doc_src/en/InstantStartGuide.xml</prop>
       <prop type="prev">If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</prop>
       <prop type="next">You can create a glossary by pressing &lt;g0&gt;Ctrl+Shift+G&lt;/g0&gt;, or copy existing glossaries to the&lt;f1&gt;/glossary/&lt;/f1&gt;subfolder of your project folder, and OmegaT will automatically look up words in them.</prop>
@@ -30578,6 +30965,17 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T171712Z">
         <seg>&lt;k0&gt;［Ctrl］&lt;/k0&gt;キーと文字キーを同時に押すと、ショートカットが動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/en/Regexp.xml</prop>
+      <prop type="prev">...matches the following</prop>
+      <prop type="next">Any character (except for line terminators)</prop>
+      <tuv lang="EN">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035654Z">
+        <seg>.</seg>
       </tuv>
     </tu>
   </body>
