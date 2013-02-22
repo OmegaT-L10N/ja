@@ -1696,6 +1696,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T175950Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; がテキストを分節化する方法は２つあります。段落単位の分節化と、文単位の分節化（「ルールベースの分節化」とも呼ばれます）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T082307Z">
@@ -12154,6 +12162,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155017Z">
         <seg>変更を反映させるため OmegaT を終了し、プロジェクトを再度開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T180118Z">
+        <seg>分節化の方法を選択するには、メインメニューから &lt;m1&gt;&lt;g2&gt;&lt;i3/&gt;プロジェクト&lt;/g2&gt; &lt;g4&gt;プロジェクト設定...&lt;/g4&gt;&lt;/m1&gt; を開き、表示されるチェックボックスを使用してください。</seg>
       </tuv>
     </tu>
     <tu>
