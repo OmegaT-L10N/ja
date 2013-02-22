@@ -1688,6 +1688,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T201248Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は、まず構造単位の分節化を行うため、文書の構文を解析します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has by default the following short list available to make it easier for you to deal with some plain text files:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T120853Z">
