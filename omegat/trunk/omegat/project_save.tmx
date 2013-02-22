@@ -13064,6 +13064,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T151730Z">
+        <seg>キーワード検索は、Google などのインターネット検索エンジンにおける「すべてを含む」検索（AND 検索）に似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170013Z">
@@ -15203,6 +15211,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T095858Z">
         <seg>OmegaT は、プログラミング言語で使用される（たとえば %s のような）変数（書式化文字列）も検出できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T151257Z">
+        <seg>OmegaT は、指定した単語をすべて含む、すべての分節の一覧を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24180,6 +24196,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T180438Z">
         <seg>TRADOS Multiterm の使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T151953Z">
+        <seg>キーワード「&lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt;」を検索した場合、「&lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt;」と一致するのはもちろんですが、「&lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;」や「&lt;l6&gt;open input file&lt;/l6&gt;」「&lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;」などとも同じように一致します。</seg>
       </tuv>
     </tu>
     <tu>
