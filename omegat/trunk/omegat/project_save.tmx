@@ -4604,6 +4604,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T154439Z">
+        <seg>&lt;p0&gt;綴り確認&lt;/p0&gt; &lt;s1&gt;使用時のヒント&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Spell checker setup&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T102410Z">
@@ -5641,6 +5649,14 @@ covered by this License; they are outside its scope.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T034046Z">
         <seg>プロジェクト専用の外部コマンドを許可する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T155347Z">
+        <seg>また、プロジェクトの設定から、訳文の言語コードと辞書の言語が一致しているかを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11020,6 +11036,14 @@ make exceptions for this.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hints</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T154433Z">
+        <seg>使用時のヒント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hints for tags management</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184206Z">
@@ -11782,6 +11806,14 @@ authors' reputations.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091001Z">
         <seg>翻訳を開始した後に原文ファイルを変更すると、&lt;a1&gt;OmegaT&lt;/a1&gt; は既に翻訳した分節を見つけられなくなるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T154739Z">
+        <seg>綴り確認機能が動作しない場合は、まず［綴り確認機能の設定］ダイアログ（&lt;g1&gt;［設定］→［綴り確認...］&lt;/g1&gt;）の&lt;g0&gt;［テキストの綴り確認を自動で行う］&lt;/g0&gt;チェックボックスにチェックが入っているか確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18318,6 +18350,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T050901Z">
         <seg>パネルを右クリックし、&lt;e0&gt;［新規ランチャーを追加］&lt;/e0&gt;を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T154114Z">
+        <seg>下線が引かれた単語（上図では「Artund」）の上で右クリックすると、訂正候補（上図では「Art und」）が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26283,6 +26323,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181510Z">
         <seg>&lt;u6&gt;バグ報告&lt;/u6&gt;や&lt;u7&gt;機能改善リクエスト&lt;/u7&gt;も行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T154407Z">
+        <seg>加えて、検出された単語を［すべて無視］（Ignore all）させることもできますし、［辞書へ追加］（Add to dictionary）することもできます。</seg>
       </tuv>
     </tu>
     <tu>
