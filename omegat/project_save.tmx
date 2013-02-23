@@ -5657,6 +5657,14 @@ software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T055837Z">
+        <seg>表の最下部に新しい行が作成されます（確認のために下までスクロールさせる必要があるでしょう）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occured</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151735Z">
@@ -12390,6 +12398,22 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T055716Z">
+        <seg>新しい言語コード構成例を追加するには、上部の表の横にある &lt;e0&gt;［追加］&lt;/e0&gt; をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T055711Z">
+        <seg>規則集を編集するには、［分節化規則の設定］ウィンドウ上部にある表から、目的の項目をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T180118Z">
@@ -14070,6 +14094,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153642Z">
         <seg>メインメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T055135Z">
+        <seg>分節化規則を大きく変更することは、特に最初の下訳が終わった後では、避けるべきです。しかし略称を認識させるために規則を追加するような、限定的な変更であれば、それは改善に値します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21882,6 +21914,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065025Z">
         <seg>プロジェクトの原文と訳文の言語に応じて、規則が（もしあれば）適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rules for that set will appear in the bottom half of the window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T055528Z">
+        <seg>するとウィンドウ下部に、選択した規則集の内容が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
