@@ -6866,6 +6866,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T150124Z">
+        <seg>しかし、言語コードと同一の辞書ファイルが存在するかどうかは、確認してもいいでしょう。たとえばプロジェクトの訳文言語が「FR」に設定されている場合、「FR-FR」の辞書ファイルは使われません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check if the selected service offers it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T144046Z">
@@ -11504,6 +11512,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133840Z">
         <seg>指定した場所は、そこへアクセスできるようになった後に使用されます。その際、設定はすべて初期値があらためて使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T150206Z">
+        <seg>必要であれば、辞書ファイルの名前を変更するか、または逆にプロジェクトの言語設定を変更してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22761,6 +22777,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T145857Z">
+        <seg>OmegaT に、どの辞書を使うか指示する必要はありません。OmegaT はプロジェクトの言語設定に基づいて、正しい言語用の辞書を使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025017Z">
@@ -23766,6 +23790,14 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T121707Z">
         <seg>フィルター対象とするファイルやエンコーディングを変更する場合は&lt;e1&gt;［編集...］&lt;/e1&gt;をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T150417Z">
+        <seg>綴り確認機能を有効にするには、&lt;g0&gt;［設定］→［綴り確認...］&lt;/g0&gt;を選び、&lt;g1&gt;［テキストの綴り確認を自動で行う］&lt;/g1&gt;チェックボックスにチェックを入れます（上図を参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25141,6 +25173,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T162622Z">
         <seg>キーワード「&lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt;」を検索した場合、「&lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt;」と一致するのはもちろんですが、「&lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;&lt;/e4&gt;」や「&lt;e4&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e4&gt;」「&lt;e4&gt;&lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;」などとも同じように一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using spellchecker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T150558Z">
+        <seg>綴り確認機能の使用</seg>
       </tuv>
     </tu>
     <tu>
