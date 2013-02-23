@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"\." stands for the period character.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T065433Z">
+        <seg>正規表現「\.」は、文字「.」を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T065513Z">
+        <seg>正規表現「\s」は任意の空白文字（スペース、タブ、改行など）を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191128Z">
@@ -8255,6 +8271,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not segment after Mr.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T065526Z">
+        <seg>「Mr.」の後では分節化しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105949Z">
@@ -14840,6 +14864,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173855Z">
         <seg>Mozilla DTD ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mr\.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T070222Z">
+        <seg>Mr\.</seg>
       </tuv>
     </tu>
     <tu>
