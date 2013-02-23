@@ -4372,6 +4372,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules priority&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052100Z">
+        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;規則の優先順位&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202729Z">
@@ -4382,8 +4390,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Break rule&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045138Z">
-        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;規則&lt;/s1&gt; &lt;t2&gt;分節&lt;/t2&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051401Z">
+        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;規則&lt;/s1&gt; &lt;t2&gt;分節規則&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Exception rule&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051409Z">
+        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;規則&lt;/s1&gt; &lt;t2&gt;例外規則&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5437,6 +5453,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052121Z">
+        <seg>言語の構成例について一致する分節化規則は、すべて与えられた優先順で適用されます。したがって、特定の言語のために設定した規則は、デフォルトのものより高い優先順位を与えるほうがよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T093247Z">
@@ -6344,8 +6368,8 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Break rule</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045129Z">
-        <seg>分節</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051354Z">
+        <seg>分節規則</seg>
       </tuv>
     </tu>
     <tu>
@@ -9111,6 +9135,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception rule</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051411Z">
+        <seg>例外規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121340Z">
@@ -9911,6 +9943,14 @@ you have.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T104741Z">
         <seg>例として、OmegaT のデフォルトのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052258Z">
+        <seg>たとえば、カナダフランス語（FR-CA）用の規則は、フランス語（FR.*）用の規則よりも優先順位を高くし、なおかつデフォルト（.*）の規則よりも高くしておきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12382,6 +12422,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051623Z">
+        <seg>「&lt;e0&gt;Mrs. Dalloway&lt;/e0&gt;」というテキストはピリオドを含みますが、２つに分節化されるべきではありません。したがって、ピリオドの前に「Mrs」（他に Mr、Dr、prof など）がある場合についての例外規則が必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In such a case the selection will of course be pared down to segment boundaries.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055056Z">
@@ -12517,6 +12565,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165549Z">
         <seg>訳文を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052042Z">
+        <seg>翻訳しようとする言語に対して、より意味のあるわかりやすい分節化を行うために、さらに柔軟に例外規則を追加してもよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17946,6 +18002,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule priority</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052058Z">
+        <seg>規則の優先順位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and set the settings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045607Z">
@@ -21630,6 +21694,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051828Z">
+        <seg>ほとんどのヨーロッパ言語と日本語については、定義済みの分節規則で十分なはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T150339Z">
@@ -23074,6 +23146,14 @@ collective works based on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052607Z">
+        <seg>こうしておけば、カナダフランス語を原文とするプロジェクトでは、まずカナダフランス語用の規則が適用され、次にフランス語用の規則、最後にデフォルトの規則、という順序で適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tibetan Standard, Tibetan, Central</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152333Z">
@@ -23190,6 +23270,22 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T093327Z">
         <seg>タグの取り扱いをカスタマイズするには、メニューの&lt;g0&gt;［設定］→［タグ検証...］&lt;/g0&gt;を選んでください。表示されるダイアログ上で、いくつかの規則を設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051317Z">
+        <seg>改節するための規則を定義する場合は、［分節 または 例外］チェックボックスにチェックを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051704Z">
+        <seg>改節を禁止するための規則を定義する場合は、［分節 または 例外］チェックボックスにチェックを入れずにおきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30864,6 +30960,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>specify what parts of text should NOT be separated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051456Z">
+        <seg>分けられるべき「でない」テキストを指定します。</seg>
       </tuv>
     </tu>
     <tu>
