@@ -5948,6 +5948,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T044230Z">
+        <seg>それぞれのカーソル位置について、規則を適用できるかどうか、決められた順序で確認します。すなわち、カーソル位置の左側にあるテキスト全体が、&lt;e0&gt;分節前の&lt;/e0&gt; 構成例に合致するかどうか。合致した場合はさらに、カーソル位置の右側にあるテキストが、&lt;e1&gt;分節後の&lt;/e1&gt; 構成例に合致するかどうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T184015Z">
@@ -11480,6 +11488,14 @@ when it starts in an interactive mode:</seg>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010800Z">
         <seg>If the program is interactive, make it output a short notice like this
 when it starts in an interactive mode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045001Z">
+        <seg>適用できる規則が見つかれば、そのカーソル位置についてはそれ以上規則を確認しません。見つかった規則が「例外」の場合は、何もせずにカーソルを次へ進めます。「分節」の場合は、カーソル位置で改節してから、カーソルを次へ進めます。</seg>
       </tuv>
     </tu>
     <tu>
