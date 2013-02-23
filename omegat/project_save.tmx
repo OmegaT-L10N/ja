@@ -10075,6 +10075,14 @@ you have.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T143128Z">
+        <seg>たとえば、訳文言語が「ES-MX」（メキシコスペイン語）の場合、辞書ファイル名を「es_MX.dic」と「es_MX.aff」にする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143737Z">
@@ -21888,6 +21896,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T092653Z">
         <seg>このような場合、OmegaT はテキストがコンピューターの言語設定と同じ言語で書かれているものとみなします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T142754Z">
+        <seg>ファイル名は、プロジェクトの設定ダイアログ（&lt;g0&gt;［プロジェクト］→［プロジェクト設定...］&lt;/g0&gt;）で設定されている訳文言語に対応した言語コードと同じ名前にしてください。</seg>
       </tuv>
     </tu>
     <tu>
