@@ -8271,6 +8271,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T080926Z">
+        <seg>「M.」、「Mr.」、「Mrs.」、「Ms.」の後ろでは分節化しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not segment after Mr.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T065526Z">
@@ -14868,6 +14876,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T075735Z">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mr\.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T070222Z">
@@ -15256,6 +15272,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T102126Z">
         <seg>「*」と「?」は正規表現において特別な意味を持つことに注意してください。ここで説明したワイルドカード文字は、あくまで完全一致検索とキーワード検索にだけ当てはまるものです（下記を参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T075716Z">
+        <seg>&lt;l0&gt;［分節後の構成例］&lt;/l0&gt; は空欄としておいてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19190,6 +19214,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a segment after "。" (Japanese period)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T075647Z">
+        <seg>「。」（日本語の句点）の後ろで分節化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151543Z">
@@ -22782,6 +22814,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073907Z">
         <seg>インストールが完了すると、&lt;g0&gt;［ツール］&lt;/g0&gt;メニューに新たに&lt;g1&gt;［スクリプト...］&lt;/g1&gt;サブメニューが追加されます。また&lt;g2&gt;［スクリプト...］&lt;/g2&gt;サブメニューの下には、スクリプト用の五つのプレースホルダーも追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This an exception rule, so the rule check box must not be ticked</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T075629Z">
+        <seg>これは例外規則です。［分節 または 例外］チェックボックスには、チェックを入れずにおきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32120,6 +32160,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T175008Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>。</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T075650Z">
+        <seg>。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
