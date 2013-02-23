@@ -12159,6 +12159,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T144313Z">
+        <seg>もし通常のスペイン語辞書しか入手できなかった場合は、ファイル名を「es_es.dic」と「 es_es.aff」から、「es_MX.dic」と「es_MX.aff」に変更してください。そうすれば、綴り確認用辞書として使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165604Z">
@@ -15512,6 +15520,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T143841Z">
         <seg>これらはすべて、ウェブサービスです。利用する際は、インターネットに接続していなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T144933Z">
+        <seg>この場合はもちろん、メキシコスペイン語ではなく、標準のスペイン語として綴りを確認することになる点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25125,6 +25141,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T162622Z">
         <seg>キーワード「&lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt;」を検索した場合、「&lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt;」と一致するのはもちろんですが、「&lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;&lt;/e4&gt;」や「&lt;e4&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e4&gt;」「&lt;e4&gt;&lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;」などとも同じように一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T145031Z">
+        <seg>綴り確認用辞書の使用</seg>
       </tuv>
     </tu>
     <tu>
