@@ -4628,6 +4628,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;TMX&lt;/p0&gt; &lt;s1&gt;Translation memories&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T161329Z">
+        <seg>&lt;p0&gt;TMX&lt;/p0&gt; &lt;s1&gt;翻訳メモリ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Duplication&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T081932Z">
@@ -11882,6 +11890,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T160833Z">
+        <seg>その辞書を他のプログラムと共有していた場合は、他のプログラムからも参照できなくなってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T112023Z">
@@ -12135,6 +12151,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.arr&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt._BR.arr&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T160509Z">
+        <seg>すでにテキストの大部分を翻訳した後で、プロジェクト設定中の訳文の言語コードが辞書の言語と一致していないことに気づいた場合（たとえば言語コードが pt_BR であるのに、pt_BR 用の辞書が存在しない場合）は、単純に２つの辞書ファイルの名前を変更すれば問題ありません（&lt;e0&gt;pt_PT.aff&lt;/e0&gt; と &lt;e1&gt;pt_PT.dic&lt;/e1&gt; をそれぞれ &lt;e2&gt;pt_BR.aff&lt;/e2&gt; と &lt;e3&gt;pt_BR.dic&lt;/e3&gt; に変更）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have an existing terminology handling system - MultiTerm for example - it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T171814Z">
@@ -12363,6 +12387,14 @@ infringement or for any other reason (not limited to patent issues),
 conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
 excuse you from the conditions of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T161314Z">
+        <seg>理由はさておき、ときどき削除をするのであれば、念のため別のフォルダーにファイルのコピーを取っておいたほうがよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15436,6 +15468,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T160632Z">
+        <seg>&lt;f0&gt;［削除］&lt;/f0&gt;ボタンを押すと、選択した辞書は物理的に削除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T075716Z">
@@ -15768,6 +15808,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T074214Z">
         <seg>オック語（Occitan）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T160532Z">
+        <seg>もちろん、少し休憩を取ってから、適切な辞書ファイルをダウンロードしたほうがより賢明です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22488,6 +22536,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T155518Z">
+        <seg>綴り確認機能は、訳文の言語コードから使用する言語を判別します。たとえば、訳文言語がブラジルポルトガル語（PT_BR）である場合、辞書が存在するフォルダーには次の２つのファイル &lt;e0&gt;pt_br.aff&lt;/e0&gt; と &lt;e1&gt;pt_br.dic&lt;/e1&gt; が存在する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The syntax is as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170024Z">
@@ -24402,6 +24458,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T083556Z">
         <seg>翻訳メモリは、同じ分節の繰り返しや、似通った表現が多く現れる翻訳に非常に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memories in OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T161342Z">
+        <seg>OmegaT の翻訳メモリ</seg>
       </tuv>
     </tu>
     <tu>
