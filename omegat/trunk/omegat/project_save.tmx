@@ -4604,6 +4604,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Spell checker setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T102410Z">
+        <seg>&lt;p0&gt;綴り確認&lt;/p0&gt; &lt;s1&gt;綴り確認機能の設定&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T140746Z">
@@ -7307,6 +7315,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T163211Z">
         <seg>コピー／切り取り／貼り付けのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your OpenOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T102041Z">
+        <seg>手動でファイルをコピーする方法は、コンピューター内のどこかに使いたい辞書ファイルがある場合に適しています。たとえば OpenOffice や Firefox、Thunderbird をインストール済みの場合が該当します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13292,6 +13308,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T182925Z">
         <seg>スキップした箇所は、タグ検証では赤く表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T102330Z">
+        <seg>もっとも、&lt;e0&gt;オンライン辞書の URL&lt;/e0&gt; 欄を使って、インターネット上から辞書を探すほうが、簡単かもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19903,6 +19927,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellchecker setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T102405Z">
+        <seg>綴り確認機能の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T113636Z">
@@ -22258,6 +22290,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171149Z">
         <seg>検索された分節は、プロジェクト中で現れる順に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T101841Z">
+        <seg>選んだ言語の辞書が組み込まれると、［綴り確認機能の設定］ウィンドウの［組み込まれた辞書］欄に表示されます（表示されるまでしばらく時間がかかります）。</seg>
       </tuv>
     </tu>
     <tu>
