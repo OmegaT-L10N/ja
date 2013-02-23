@@ -2755,6 +2755,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T163816Z">
+        <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064345Z">
@@ -4832,6 +4840,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T161712Z">
         <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;omegat フォルダー&lt;/s1&gt; &lt;s2&gt;プロジェクトファイル&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolder tm&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T163801Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;tm フォルダー&lt;/s1&gt; &lt;s2&gt;プロジェクトファイル&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23114,6 +23130,14 @@ distribute copies of the software, or if you modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T170547Z">
         <seg>翻訳中、常に使用することになるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They carry appropriately changed names, so that its contents still remain identifiable, when used elsewhere, for instance in the&lt;f1&gt; tm&lt;/f1&gt; subfolder of some other project (see below).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T163746Z">
+        <seg>これらのファイルは名前が変わっただけで、その内容については同一性を保っています。そのため、別のプロジェクトの &lt;f1&gt;tm&lt;/f1&gt; フォルダーにコピーして使うことができます（次の項を参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
