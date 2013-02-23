@@ -4380,6 +4380,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Break rule&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045138Z">
+        <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;規則&lt;/s1&gt; &lt;t2&gt;分節&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Sentence level segmentation&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202619Z">
@@ -6330,6 +6338,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170048Z">
         <seg>どの検索でもワイルドカードとして半角 * と ? を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045129Z">
+        <seg>分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -9775,6 +9791,14 @@ control compilation and installation of the executable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045243Z">
+        <seg>たとえば「&lt;e0&gt;Did it make sense? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040746Z">
@@ -10027,6 +10051,14 @@ make exceptions for this.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T141150Z">
         <seg>そこで、２つのコマンドをファイル（「スクリプト」または Windows 上では「&lt;e0&gt;.bat&lt;/e0&gt; ファイル（バッチファイル）」と呼ばれます）に記述しておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051025Z">
+        <seg>そのためには「?」に関する分節規則（後ろにスペースと大文字で始まる単語が続く場合、という条件付きで）があるほうがよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10904,6 +10936,14 @@ parties remain in full compliance.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180147Z">
         <seg>László Németh などによる Hunspell（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045406Z">
+        <seg>I was not sure.&lt;/e1&gt;」というテキストは、意味的に２つの分節に分けられるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18894,6 +18934,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045213Z">
+        <seg>原文テキストを２つの分節に分割します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180412Z">
@@ -22036,6 +22084,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171741Z">
         <seg>訳文ファイルは最終的に、逆変換で原文ファイルの形式に戻す必要がある点に留意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045043Z">
+        <seg>規則には、次に示す２種類があります：</seg>
       </tuv>
     </tu>
     <tu>
