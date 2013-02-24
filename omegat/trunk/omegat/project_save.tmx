@@ -1437,6 +1437,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2 letters (e.g. JA for Japanese), or</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T145703Z">
+        <seg>２文字の言語コード（例：日本語は JA）、または</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -1444,6 +1452,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145136Z">
         <seg>2) コマンドラインまたは OmegaT 起動スクリプトで java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar と指定し、OmegaT が使用できるメモリを増やす（現在の設定：{0} MB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2- or 3-letter language code followed by the 2-letter country code (e.g. EN-US - See &lt;x0/&gt; for a partial list of language and country codes).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T150343Z">
+        <seg>２文字か３文字の言語コードに続けて２文字の国コード（例：EN-US - 代表的な言語コードと国コードの一覧については「&lt;x0/&gt;」を参照）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11996,6 +12012,14 @@ when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the project language codes and the tmx language codes fully match, the segments are loaded in memory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T145655Z">
+        <seg>プロジェクトの言語コードと TMX の言語コードが完全に一致する場合、分節はメモリに読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045001Z">
@@ -16403,6 +16427,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT recognizes the language codes using the following two standard conventions :</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T145420Z">
+        <seg>OmegaT は言語コードの指定方法として、次の２種類の標準規約を認識します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments in previous memory files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T111009Z">
@@ -16413,8 +16445,8 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       <tuv lang="EN">
         <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T144315Z">
-        <seg>OmegaT は、プロジェクトの原文言語に対応する翻訳単位言語要素を原文の分節として扱い、訳文言語に対応する翻訳単位言語要素を訳文の分節として扱います。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T144616Z">
+        <seg>OmegaT は、プロジェクトの原文言語と訳文言語に対応する翻訳単位言語要素を参照し、それぞれ原文分節と訳文分節として使用します。</seg>
       </tuv>
     </tu>
     <tu>
