@@ -15620,6 +15620,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T021758Z">
+        <seg>他のコンピューター翻訳支援ツールがエクスポート（あるいはインポート）できる TMX ファイルの形式も、たいていはこの３つのうちのどれかです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T095127Z">
@@ -21355,6 +21363,14 @@ Program (independent of having been made by running the Program).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T093815Z">
         <seg>そこでカスタマイズした設定は、すべての原文ファイルに適用されます。整形されたテキストのような、一部のファイル形式にだけ適用されるわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T022254Z">
+        <seg>可能であれば、OmegaT 専用形式の TMX ファイル（上記を参照）を使うのが、もちろん望ましい方法です。そうすれば、分節内の整形情報も利用できます。</seg>
       </tuv>
     </tu>
     <tu>
