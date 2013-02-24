@@ -6382,6 +6382,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back-ups of the project translation memory are produced regularly (see next chapter), and &lt;f0&gt;project_save.tmx&lt;/f0&gt; is also saved/updated when the project is closed or loaded again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T074910Z">
+        <seg>プロジェクトのメイン翻訳メモリについては、バックアップが定期的に作成されます（次章を参照）。そして &lt;f0&gt;project_save.tmx&lt;/f0&gt; もまた、プロジェクトを閉じるか再読み込みした時点で保存または更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backspace*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T204355Z">
@@ -15630,8 +15638,8 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Note that all the translation memories are loaded into memory when the project is opened.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T074417Z">
-        <seg>すべての翻訳メモリ</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T074547Z">
+        <seg>すべての翻訳メモリはプロジェクトを開いた時点でメモリ上に読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22204,6 +22212,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The locations of the various different translation memories for a given project are user-defined (see Project dialog window in &lt;l0&gt;Project properties)&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T080443Z">
+        <seg>あるプロジェクトのために多種多様な翻訳メモリをどこに配置するかは、ユーザーに任されています（「&lt;l0&gt;プロジェクトの設定&lt;/l0&gt;」のプロジェクト設定ダイアログを参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main OmegaT application.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020251Z">
@@ -23798,6 +23814,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024308Z">
         <seg>この色付けは、［翻訳済み分節を色づけ］や［未翻訳分節を色づけ］よりも優先度が上です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means for instance that you do not need to exit a project you are currently working on if you decide to add another ancillary TM to it: you simply reload the project, and the changes you have made will be included.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T080115Z">
+        <seg>したがって、翻訳作業の途中で補助的な翻訳メモリをフォルダーに追加した場合でも、それを使うために作業中のプロジェクトをいったん終了する必要はありません。単純にプロジェクトを再読み込みしてください。そうすれば、追加した翻訳メモリを使えるようになります。</seg>
       </tuv>
     </tu>
     <tu>
