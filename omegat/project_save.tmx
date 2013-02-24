@@ -7313,8 +7313,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T063040Z">
-        <seg>そのため、OmegaT は &lt;f1&gt;tmx&lt;/f1&gt; ファイルの検索にも対応していますが、ファイル検索機能からは対象外になります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T020033Z">
+        <seg>そのため、OmegaT は &lt;f1&gt;TMX&lt;/f1&gt; ファイルの検索にも対応していますが、ファイル検索機能からは対象外になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7585,8 +7585,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Creates the translated documents in the project's Target folder and creates translation memory files (level1, level2 and omegat tmx files) in the project's root folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T040249Z">
-        <seg>プロジェクトの target フォルダーに訳文ファイルを生成します。また翻訳メモリファイル（level1、level2 および omegat 形式の tmx）をプロジェクトのルートフォルダーに生成します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T015952Z">
+        <seg>プロジェクトの target フォルダーに訳文ファイルを生成します。また翻訳メモリファイル（level1、level2 および omegat 形式の TMX ファイル）をプロジェクトのルートフォルダーに生成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20267,6 +20267,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such files can be created in any of the three varieties indicated above.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T020704Z">
+        <seg>これらのファイルは、上記で説明した３つの形態のいずれでも使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such files do not contain any formatting information beyond the "white space" used to align text, indicate paragraphs or insert page breaks.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050304Z">
@@ -20994,6 +21002,14 @@ language.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T135153Z">
         <seg>ワイルドカード「?」は任意の１文字と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T015927Z">
+        <seg>tm フォルダーには補助的な翻訳メモリ（TMX ファイル）をいくつでも置いておくことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22038,8 +22054,8 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       <tuv lang="EN">
         <seg>The main project folder contains 3 tmx files, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; and &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name being the name of your project).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T162630Z">
-        <seg>メインプロジェクトフォルダーには３つの tmx ファイルが作成されます。&lt;f0&gt;プロジェクト名-omegat.tmx&lt;/f0&gt;、&lt;f1&gt;プロジェクト名-level1.tmx&lt;/f1&gt;、&lt;f2&gt;プロジェクト名-level2.tmx&lt;/f2&gt; です。「プロジェクト名」の部分には、実際のプロジェクト名が入ります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T020106Z">
+        <seg>メインプロジェクトフォルダーには３つの TMX ファイルが作成されます。&lt;f0&gt;プロジェクト名-omegat.tmx&lt;/f0&gt;、&lt;f1&gt;プロジェクト名-level1.tmx&lt;/f1&gt;、&lt;f2&gt;プロジェクト名-level2.tmx&lt;/f2&gt; です。「プロジェクト名」の部分には、実際のプロジェクト名が入ります。</seg>
       </tuv>
     </tu>
     <tu>
