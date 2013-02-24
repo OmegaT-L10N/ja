@@ -1696,6 +1696,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; also backups translation memory to &lt;f1&gt;project_save.tmx.YEARMMDDHHNN.bak&lt;/f1&gt; in the same subfolder whenever a project is opened or reloaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T121543Z">
+        <seg>またプロジェクトが開かれたり、再読み込みされたりするたびに、同じフォルダーに &lt;f1&gt;project_save.tmx.YEARMMDDHHNN.bak&lt;/f1&gt; という名前でバックアップファイルを保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; creates its tags before the process of sentence segmenting.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T202110Z">
@@ -16130,8 +16138,8 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       <tuv lang="EN">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T084459Z">
-        <seg>OmegaT は、また、プロジェクトを開くか再読み込みするたびに、翻訳メモリのバックアップファイル（同じく omegat フォルダーの project_save.tmx.YYYYMMDDHHNN.bak ファイル）を作成します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T121628Z">
+        <seg>また、プロジェクトを開くか再読み込みするたびに、翻訳メモリのバックアップファイル（同じく omegat フォルダーの project_save.tmx.YYYYMMDDHHNN.bak ファイル）を作成します。</seg>
       </tuv>
     </tu>
     <tu>
