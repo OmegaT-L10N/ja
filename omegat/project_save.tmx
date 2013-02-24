@@ -5947,8 +5947,8 @@ software.</seg>
       <tuv lang="EN">
         <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T103817Z">
-        <seg>完全一致検索は、指定された文字列を「語句」として検索します。たとえば、複数の単語を指定した場合、それらの単語の並びまで同じ語句を含む検索結果のみが表示されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T170158Z">
+        <seg>完全一致検索は、指定された文字列を「語句」として検索します。つまり、複数の単語を指定した場合、それらの単語の並びまで同じ語句を含む検索結果のみが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6005,8 +6005,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>And of course, if you wish to be on the safe side, consider converting this kind of file to Unicode, i.e. to the &lt;l6&gt;.utf8 &lt;/l6&gt;file format.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T131941Z">
-        <seg>もちろん、安全のため、こうしたファイルはユニコード形式（たとえば &lt;l6&gt;.utf8&lt;/l6&gt; ファイル）への変換を検討してもいいでしょう。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T170134Z">
+        <seg>もちろん、安全のため、こうしたファイルはユニコード形式（ここでは &lt;l6&gt;.utf8&lt;/l6&gt; ファイル）への変換を検討してもいいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20087,6 +20087,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T170339Z">
+        <seg>過去のプロジェクトで使用した翻訳メモリを再利用したいとき（例えば、今度作成する新しいプロジェクトが「過去のものと非常に似ている」または「以前に使用したかもしれない専門用語を含んでいる」というような場合など）、この翻訳メモリを「入力用翻訳メモリ」として、新しいプロジェクトにインポートできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the dialogue to modify the text display font.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T155328Z">
@@ -21683,8 +21691,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The above search finds all target segments that contain characters, rather improbable in the target - i.e. Slovenian - language.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051134Z">
-        <seg>上の検索例では、すべての訳文分節から、訳文言語（たとえばスロヴェニア語）ではありえなさそうな文字が使われている箇所を検索しています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T170141Z">
+        <seg>上の検索例では、すべての訳文分節から、訳文言語（ここではスロヴェニア語）ではありえなさそうな文字が使われている箇所を検索しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26487,6 +26495,14 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T165500Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; プロジェクト内で訳文ファイルを生成すると、プロジェクトの翻訳メモリは、そのプロジェクトフォルダーに３種類のファイルとして出力されます（前述の説明を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T080944Z">
@@ -27189,8 +27205,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T095012Z">
-        <seg>ひとつは手動でファイルをコピーする方法です。たとえばコンピューター内の他の場所からファイルマネージャーを使ってコピーするとか、OmegaT の&lt;e0&gt;［新しい辞書を組み込み］&lt;/e0&gt;ボタンを押して、利用可能な辞書の一覧から選ぶという形になります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T170243Z">
+        <seg>ひとつは手動でファイルをコピーする方法です。コンピューター内の他の場所からファイルマネージャーを使ってコピーするとか、OmegaT の&lt;e0&gt;［新しい辞書を組み込み］&lt;/e0&gt;ボタンを押して、利用可能な辞書の一覧から選ぶという形になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27230,8 +27246,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T165026Z">
-        <seg>訳文用の列は、空にしておくこともできます。たとえば、原文の用語とコメントのみを含む登録も可能です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T170104Z">
+        <seg>訳文用の列は、空にしておくこともできます。つまり、原文の用語とコメントのみを含む登録も可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27280,6 +27296,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171846Z">
         <seg>検索ウィンドウのウィンドウタイトルには検索文字列が設定されるため、検索ウィンドウが複数開いていても、容易に識別できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T165907Z">
+        <seg>これら 3 つの TMX ファイル（&lt;f2&gt;-omegat.tmx&lt;/f2&gt;、&lt;f3&gt;-level1.tmx&lt;/f3&gt;、&lt;f4&gt;-level2.tmx&lt;/f4&gt;）を「エクスポートした翻訳メモリ」として、つまり現在のプロジェクトについて外部出力した2言語での要約として、扱うことができます。</seg>
       </tuv>
     </tu>
     <tu>
