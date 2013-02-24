@@ -5969,6 +5969,14 @@ void, and will automatically terminate your rights under this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T032513Z">
+        <seg>これらのファイルに記録された翻訳済みの分節情報は、現在の原文分節とじゅうぶん一致した場合、参考訳文ウィンドウに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T100350Z">
@@ -21516,6 +21524,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T084715Z">
         <seg>生成されるファイルは、その時点の翻訳作業の進行状況を反映した内容になります。つまり、&lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt; に保存された翻訳メモリの内容が反映されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T032234Z">
+        <seg>tm フォルダーに配置された翻訳メモリの内容は、参考訳文の候補を探す際に参照されます。</seg>
       </tuv>
     </tu>
     <tu>
