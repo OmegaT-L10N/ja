@@ -4940,6 +4940,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;multilingual, handling of&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T151004Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;多言語の取り扱い&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Upgrading OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191203Z">
@@ -11762,6 +11770,14 @@ compelled to copy the source along with the object code.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If languages match but not the country, the segments still get loaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T150839Z">
+        <seg>言語コードが一致して国コードが一致しない場合でも、分節はやはり読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -11776,6 +11792,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T150206Z">
         <seg>必要であれば、辞書ファイルの名前を変更するか、または逆にプロジェクトの言語設定を変更してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If neither the language code not the country code match, the segments will be ignored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T150910Z">
+        <seg>言語コードと国コードいずれも一致しない場合、その分節は無視されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12014,8 +12038,8 @@ when it starts in an interactive mode:</seg>
       <tuv lang="EN">
         <seg>If the project language codes and the tmx language codes fully match, the segments are loaded in memory.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T145655Z">
-        <seg>プロジェクトの言語コードと TMX の言語コードが完全に一致する場合、分節はメモリに読み込まれます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T150647Z">
+        <seg>プロジェクトの言語コードと TMX の言語コードが完全に一致すると、分節がメモリに読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20750,6 +20774,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T043104Z">
         <seg>複数の TMX ファイルは、そのファイル名の順番で読み込まれます。また TMX ファイル内の分節は、一行ずつ順次読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX files can generally contain translation units with several candidate languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T151422Z">
+        <seg>TMX ファイルには通常、複数の異なる言語要素から成る翻訳単位が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
