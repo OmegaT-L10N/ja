@@ -5242,6 +5242,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A translation unit comprises at least two translation unit variations (TUV).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T142211Z">
+        <seg>翻訳単位は、少なくとも２つの翻訳単位言語要素（tuv）からできています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035946Z">
@@ -24191,6 +24199,16 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032833Z">
         <seg>Title case（単語の先頭を大文字）に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Yu-Tang）"translation unit"の訳語を「翻訳対」から
+「翻訳単位」に変更。経緯については https://groups.google.com/forum/?hl=ja&amp;fromgroups=#!topic/omegat-doc-ja/vK6rL6jCqFs を参照。</note>
+      <tuv lang="EN">
+        <seg>Tmx files contain translation units, made of a number of equivalent segments in several languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140723Z">
+        <seg>TMX ファイルには、ある同じ分節に対し、複数の異なる言語で表記された翻訳単位が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
