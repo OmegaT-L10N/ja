@@ -4124,6 +4124,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Pretranslation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T044038Z">
+        <seg>&lt;p0&gt;プロジェクト&lt;/p0&gt; &lt;s1&gt;下訳&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Project management shortcuts&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025436Z">
@@ -4844,10 +4852,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolder tm/auto&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T044003Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;tm/auto フォルダー&lt;/s1&gt; &lt;s2&gt;プロジェクトファイル&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolder tm&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T163801Z">
         <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;tm フォルダー&lt;/s1&gt; &lt;s2&gt;プロジェクトファイル&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;compressed&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T043844Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;圧縮&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11594,6 +11618,14 @@ compelled to copy the source along with the object code.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T044619Z">
+        <seg>補助的な翻訳メモリの内容がすべて正しい、ということがあらかじめはっきりと分かっている場合は、そのファイルを &lt;e0&gt;tm/auto&lt;/e0&gt; フォルダーに置いてください。そこから自動挿入される訳文には、「&lt;e1&gt;[fuzzy]&lt;/e1&gt;」という接頭辞が付きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -15664,6 +15696,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T095127Z">
         <seg>後者の組み込みには、インターネットへの接続が必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T043937Z">
+        <seg>tm フォルダーに配置する TMX ファイルは、gzip 形式で圧縮しておくこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22009,6 +22049,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190525Z">
         <seg>インストールの最後の画面では、リードミー（Readme）ファイルと、インストールしたバージョンの変更点を記載したファイルを見るかどうかを、選ぶことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T043814Z">
+        <seg>この場合、原文分節が一致する最後の分節が、優先的に使われることになります（注意：もちろん、そもそもこのような事態が起こらないようにできるなら、それが一番望ましい対応です）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32120,6 +32168,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>tl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/auto folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T044048Z">
+        <seg>tm/auto フォルダー</seg>
       </tuv>
     </tu>
     <tu>
