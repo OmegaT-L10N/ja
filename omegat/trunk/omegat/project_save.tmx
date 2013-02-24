@@ -4892,6 +4892,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Orphan segments&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T153457Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;現在の原文に存在しない分節&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Project main folder&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T162422Z">
@@ -10427,6 +10435,14 @@ you have.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the language pair of the project is DE-FR, it can be still be of some help to see hits in the DE-EN translation, if there's none in the DE-FR pair.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T153432Z">
+        <seg>たとえばプロジェクトの言語ペアが DE-FR だったとしましょう。この場合、翻訳メモリに DE-FR ペアが見つからず、DE-EN しかなかったとしても、それを表示することによって何がしかの助けにはなるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T050745Z">
@@ -11710,6 +11726,14 @@ compelled to copy the source along with the object code.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092547Z">
         <seg>原文分節に対応する訳文がまだ翻訳メモリ（project_save.tmx）に存在しなければ、翻訳内容はデフォルトの対訳（既定値訳文）として project_save.tmx に保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If for a given source segment there is no entry for the selected target language, all other target segments are loaded, regardless of the language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T153122Z">
+        <seg>もし原文分節と一致する言語要素が見つかったにもかかわらず、訳文言語に当たる言語要素が存在しない場合は、他のすべての言語要素が（その言語が何であるかに関わらず）読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22061,6 +22085,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T053114Z">
         <seg>拡張子は必ず &lt;f0&gt;.txt &lt;/f0&gt; にしてください（拡張子を指定しなければ、自動的に付加されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file &lt;f0&gt;project_save.tmx&lt;/f0&gt; contains all the segments that have been translated since you started the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T153616Z">
+        <seg>&lt;f0&gt;project_save.tmx&lt;/f0&gt; ファイルには、プロジェクトを開始してから翻訳したすべての分節が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
