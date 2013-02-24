@@ -5244,8 +5244,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A translation unit comprises at least two translation unit variations (TUV).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T142211Z">
-        <seg>翻訳単位は、少なくとも２つの翻訳単位言語要素（tuv）からできています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T143817Z">
+        <seg>翻訳単位は、少なくとも２つの翻訳単位言語要素（tuv）から構成されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9025,6 +9025,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040834Z">
         <seg>X または Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Either can be used as the source or target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T143812Z">
+        <seg>ある言語要素は、原文にも訳文にもなりえます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16403,6 +16411,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T144315Z">
+        <seg>OmegaT は、プロジェクトの原文言語に対応する翻訳単位言語要素を原文の分節として扱い、訳文言語に対応する翻訳単位言語要素を訳文の分節として扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T093043Z">
@@ -22874,6 +22890,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T101841Z">
         <seg>選んだ言語の辞書が組み込まれると、［綴り確認機能の設定］ウィンドウの［組み込まれた辞書］欄に表示されます（表示されるまでしばらく時間がかかります）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The settings in your project indicate which is the source and which the target language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T143933Z">
+        <seg>プロジェクトの設定によって、どの言語要素が原文で、どの言語要素が訳文かが決まります。</seg>
       </tuv>
     </tu>
     <tu>
