@@ -2747,6 +2747,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;several projects on the same subject: &lt;/e0&gt;keep the project structure, and change source and target directories (Source = source/order1, target = target/order1 etc).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T102927Z">
+        <seg>&lt;e0&gt;同じ案件に対して複数のプロジェクトがある場合：&lt;/e0&gt;プロジェクトの構造を共通化し、原文フォルダーと訳文フォルダーのみを個別化します（Source = source/order1、target = target/order1 など）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; Instant start guide:&lt;/e0&gt; this chapter is intended as an Instant Start Guide for beginners and “tyre kickers”, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T165438Z">
@@ -8097,8 +8105,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Depending on the situation, different strategies are thus possible, for instance:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T080651Z">
-        <seg>状況に応じて、異なる作業方針がありえます。たとえば：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T102735Z">
+        <seg>状況に応じて、いろいろな作業方針が考えられます。たとえば：</seg>
       </tuv>
     </tu>
     <tu>
