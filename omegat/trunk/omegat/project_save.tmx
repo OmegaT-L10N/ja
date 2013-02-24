@@ -4844,6 +4844,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Backup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T115925Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;バックアップ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Matches&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T093216Z">
@@ -6184,6 +6192,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T084743Z">
         <seg>PO ファイルの場合はこれが一般的な状態ですので、この設定はデフォルトで有効になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you translate your files, &lt;a0&gt;OmegaT&lt;/a0&gt; stores your work continually in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in the project's /&lt;f2&gt;omegat&lt;/f2&gt; subdirectory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T120257Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は、翻訳内容をプロジェクト内の &lt;f1&gt;omegat/project_save.tmx&lt;/f1&gt; ファイルに随時蓄積していきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22944,6 +22960,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The team can also use the same subfolder structure for the target files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T114816Z">
+        <seg>訳文フォルダーの構造は、チーム共通で問題ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T205810Z">
@@ -23478,6 +23502,15 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073907Z">
         <seg>インストールが完了すると、&lt;g0&gt;［ツール］&lt;/g0&gt;メニューに新たに&lt;g1&gt;［スクリプト...］&lt;/g1&gt;サブメニューが追加されます。また&lt;g2&gt;［スクリプト...］&lt;/g2&gt;サブメニューの下には、スクリプト用の五つのプレースホルダーも追加されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Yu-Tang）"the target version for the complete project" の意味がよく分からず。</note>
+      <tuv lang="EN">
+        <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T115743Z">
+        <seg>こうしておくと、プロジェクト全体の訳文ファイルが問題ないか、いつでもチェックできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32328,6 +32361,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T051042Z">
         <seg>tm/penalty-xxx フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tmx backup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T115936Z">
+        <seg>TMX ファイルのバックアップ</seg>
       </tuv>
     </tu>
     <tu>
