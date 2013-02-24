@@ -10391,6 +10391,14 @@ make exceptions for this.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For translation memories in folders with a name "penalty-xxx" (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called Penalty-30 for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T071443Z">
+        <seg>「penalty-xxx」（「xxx」は 0 から 100 までの数値）という名前のフォルダーに翻訳メモリを置くと、そこから見つかった参考訳文の一致率は、フォルダー名の末尾に付いた数値の分だけ引き下げられます。たとえば「Penalty-30」という名前のフォルダーがあったとします。そこに置かれた翻訳メモリから 100% 一致する分節が見つかった場合、一致率は 70% に引き下げられて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any words that happen to be present in the segment that currently has focus.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T093438Z">
@@ -19971,6 +19979,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T041840Z">
         <seg>したがって、タグのエラーが見過ごされた時には、生成した訳文ファイルが何かおかしかったり、最悪の場合は、ファイルを開くことができなくなるおそれもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T062854Z">
+        <seg>品質の高い翻訳メモリと、そうではない翻訳メモリを区別できると役に立つ場合があります。分野の違いや依頼主の都合、改版の状態など、理由はいろいろあるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
