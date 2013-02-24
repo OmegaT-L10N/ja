@@ -4860,6 +4860,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Language&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140435Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;言語&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Matches&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T093216Z">
@@ -7234,6 +7242,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140101Z">
+        <seg>プロジェクトを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes or opens the &lt;l0&gt;Project files window&lt;/l0&gt; (depending on whether it is open or closed).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T132208Z">
@@ -7483,6 +7499,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140815Z">
         <seg>コピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy it to &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140426Z">
+        <seg>そのファイルをコピーして、名前を &lt;f0&gt;project_save.tmx&lt;/f0&gt; に変更する</seg>
       </tuv>
     </tu>
     <tu>
@@ -12220,6 +12244,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you believe you have lost translation data, follow the following procedure:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140054Z">
+        <seg>もし翻訳中のデータを失ってしまったと気づいた場合、以下の手順に従ってください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific directory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160038Z">
@@ -16755,6 +16787,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140420Z">
+        <seg>プロジェクトを再度開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174709Z">
@@ -18370,6 +18410,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file ( e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140142Z">
+        <seg>現在の &lt;f0&gt;project_save.tmx&lt;/f0&gt; ファイルの名前を一時的に変更する（たとえば &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt; ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155019Z">
@@ -19642,6 +19690,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T162911Z">
         <seg>アイコンとして &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt; を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the backup translation memory that is most likely - e.g. the most recent one, or the last version from the day before) to contain the data you are looking for</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140336Z">
+        <seg>探している内容（直近だったり、前日の最終だったり）にもっとも近い翻訳メモリのバックアップファイルを選択する</seg>
       </tuv>
     </tu>
     <tu>
@@ -26724,10 +26780,18 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>YEAR is 4-digit year, MM is a month, DD day of the month, HH and NN are hours and minutes when the previous translation memory was saved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T135908Z">
+        <seg>「YYYYMMDDHHNN」の部分は、前回保存した日付を 4 桁の年（YYYY）、月（MM）、日（DD）、時（HH）、分（NN）で表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T084959Z">
-        <seg>「YYYY」は西暦年を表す４桁の数字です。「MM」は月を、「DD」は日を、「HH」と「NN」はそれぞれ時分を示し、全体で翻訳メモリが前回保存された日時を表します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140000Z">
+        <seg>「YYYYMMDDHHNN」の部分は、前回保存した日付を 4 桁の年（YYYY）、月（MM）、日（DD）、時（HH）、分（NN）で表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32377,6 +32441,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T115936Z">
         <seg>TMX ファイルのバックアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tmx files and language</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140437Z">
+        <seg>TMX ファイルと言語</seg>
       </tuv>
     </tu>
     <tu>
