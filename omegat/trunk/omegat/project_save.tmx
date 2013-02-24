@@ -4868,6 +4868,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolders tm/penalty-xxx&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T051025Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;tm/penalty-xxx フォルダー&lt;/s1&gt; &lt;s2&gt;プロジェクトファイル&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;compressed&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T043844Z">
@@ -23892,6 +23900,14 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will effectively &lt;e2&gt;pre-translate &lt;/e2&gt;the source text: all the segments in the source text, for which translations can be found in those "auto" TMs, will land in the main TM of the project without any user intervention.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T051009Z">
+        <seg>この方法は、効率の良い&lt;e2&gt;下訳&lt;/e2&gt;になります。「auto」の翻訳メモリから原文が一致する分節が見つかった箇所は、ユーザーの手を一切わずらわせることなく、すべてプロジェクトのメイン翻訳メモリに移し替えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T162010Z">
@@ -32176,6 +32192,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T044048Z">
         <seg>tm/auto フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/penalty-xxx folders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T051042Z">
+        <seg>tm/penalty-xxx フォルダー</seg>
       </tuv>
     </tu>
     <tu>
