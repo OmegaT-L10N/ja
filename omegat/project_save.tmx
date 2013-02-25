@@ -1872,6 +1872,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; 2.5 can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T183304Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; 2.6 では、参考訳文の品質を向上し、すでに存在する翻訳内容をより活用するため、このような古い形式の TMX ファイルを見つけると、その場で新しい形式に更新します。そのために手作業で何かを行う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064311Z">
@@ -4992,6 +5000,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T051025Z">
         <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;tm/penalty-xxx フォルダー&lt;/s1&gt; &lt;s2&gt;プロジェクトファイル&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Upgrading to sentence segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182621Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;翻訳メモリの更新&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14113,6 +14129,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Its value is either &lt;l3&gt;equal&lt;/l3&gt; (default value, for source=target) or &lt;l4&gt;empty&lt;/l4&gt; (target segment is empty).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182354Z">
+        <seg>設定値は &lt;l3&gt;equal&lt;/l3&gt;（既定値、原文＝訳文）または &lt;l4&gt;empty&lt;/l4&gt;（訳文分節が空）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JAXB (GPLv2 + classpath exception)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180249Z">
@@ -18955,6 +18979,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working directory (the directory you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T181851Z">
+        <seg>&lt;l0&gt;&lt;ファイル名&gt;&lt;/l0&gt; には、作成したいファイル名を指定します。絶対パスか、あるいは &lt;a1&gt;OmegaT&lt;/a1&gt; の起動フォルダーを基準にした相対パスで指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Match</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135939Z">
@@ -23431,6 +23463,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second argument &lt;l2&gt;--pseudotranslatetype&lt;/l2&gt; is optional.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182120Z">
+        <seg>２つ目の引数 &lt;l2&gt;--pseudotranslatetype&lt;/l2&gt; は省略可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T132004Z">
@@ -25283,6 +25323,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To reuse it in &lt;a5&gt;OmegaT&lt;/a5&gt; rename it to &lt;e6&gt;project_save.tmx &lt;/e6&gt; and place it in the &lt;l7&gt;omegat&lt;/l7&gt;-folder of your project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182600Z">
+        <seg>これを &lt;a5&gt;OmegaT&lt;/a5&gt; で流用する場合は、ファイル名を &lt;e6&gt;project_save.tmx&lt;/e6&gt; に変更し、プロジェクトの &lt;l7&gt;omegat&lt;/l7&gt; フォルダーに置いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155712Z">
@@ -26206,6 +26254,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upgrading translation memories</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182604Z">
+        <seg>翻訳メモリの更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173106Z">
@@ -26667,6 +26723,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170639Z">
         <seg>バージョン：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Very early versions of &lt;a0&gt;OmegaT&lt;/a0&gt; were capable of segmenting source files into paragraphs only and were inconsistent when numbering formatting tags in HTML and Open Document files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182836Z">
+        <seg>ごく初期のバージョンの &lt;a0&gt;OmegaT&lt;/a0&gt; は、段落単位でしか原文を分節化できず、また HTML と Open Document ファイルに対しては、フォーマットタグに対する番号付けを適切に行えない場合がありました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27882,6 +27946,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191344Z">
         <seg>取扱説明書に含まれる外部リンクへアクセスする場合は、これらのファイルをウェブブラウザーで開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can process the generated tmx with any tool you want.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182405Z">
+        <seg>作成した TMX ファイルは、任意のツールで処理することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31020,8 +31092,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;filename&gt; [pseudotranslatetype=[equal|empty]]</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T181004Z">
-        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;ファイル名&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T181947Z">
+        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;ファイル名&gt; [--pseudotranslatetype=[equal|empty]]</seg>
       </tuv>
     </tu>
     <tu>
