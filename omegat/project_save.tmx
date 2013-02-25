@@ -13086,6 +13086,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T040909Z">
+        <seg>翻訳者のチームで作業する場合、配布された専用のプロジェクトで各自が孤立して作業するよりも、ひとつの翻訳メモリを共有して作業できるほうが望ましいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T132056Z">
@@ -16612,6 +16620,15 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T171946Z">
         <seg>OmegaT はその原文に最も近い参考訳文を自動挿入します。挿入するかどうかの一致率のしきい値（最小一致率）は、このダイアログで変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Yu-Tang）"Revision Control System"（特定の OSS の固有名詞）と激しく混同しやすいので、該当箇所はあえて翻訳を省略します。</note>
+      <tuv lang="EN">
+        <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T041404Z">
+        <seg>OmegaT は SVN と Git という、２つの一般的なバージョン管理システムに対応しています。これらは、オープンソースのライセンスで利用可能になっています。</seg>
       </tuv>
     </tu>
     <tu>
