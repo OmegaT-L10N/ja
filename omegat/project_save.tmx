@@ -4876,6 +4876,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Importing and exporting&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T021827Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;インポートとエクスポート&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Language&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140435Z">
@@ -6826,6 +6834,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T020617Z">
+        <seg>デフォルトでは、&lt;e0&gt;tm&lt;/e0&gt; フォルダーはプロジェクトのルートフォルダーの下（たとえば &lt;e0&gt;MyProject/tm&lt;/e0&gt;）にあります。しかし必要であれば、プロジェクトの設定でその位置を変えてもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T145249Z">
@@ -7715,6 +7731,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165120Z">
         <seg>プロジェクトの新規作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T020644Z">
+        <seg>特定の顧客や分野の翻訳メモリ用として、ハードディスク内に１つフォルダー（たとえば「保管フォルダー」）を作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -12791,6 +12815,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing and exporting translation memories</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T021838Z">
+        <seg>翻訳メモリのインポートとエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Imports units from MediaWiki pages, based on the URL entered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T161704Z">
@@ -13149,6 +13181,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T181136Z">
         <seg>この場合、「\s\s+」という正規表現パターンを使うことによって、問題の分節を検索することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, a useful procedure would be:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T020629Z">
+        <seg>この場合、使いやすい手順は以下の通りです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15892,6 +15932,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T021453Z">
+        <seg>プロジェクトを開くときに、tm フォルダー内の全 TMX ファイルが読み込まれます。持っているすべての TMX ファイルをそこに置いておくと、OmegaT の動作が不必要に遅くなることがあるので、注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that all the translation memories are loaded into memory when the project is opened.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T074547Z">
@@ -16575,6 +16623,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T111009Z">
         <seg>翻訳中は、その翻訳内容を記憶し、以前の翻訳メモリからよく似た分節を探し出して提示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T021904Z">
+        <seg>OmegaT は TMX バージョン 1.1 から 1.4b （レベル 1 と レベル 2 の両方）をインポートすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23955,6 +24011,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T022107Z">
+        <seg>これにより、他のツールで作成された翻訳メモリを、OmegaT で読み込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This feature, however, is not implemented in OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T132228Z">
@@ -24167,6 +24231,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085507Z">
         <seg>商標や固有名詞など、あえて翻訳しない部分を多く含んでいるような文書の場合に非常に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T020557Z">
+        <seg>これは、過去に作成した翻訳メモリを何度も使用するような場合に便利です。たとえば、同じ顧客向けであったり、同じ分野の翻訳であったりする場合が挙げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26551,6 +26623,14 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T020832Z">
+        <seg>同じ顧客または分野について、プロジェクトを新しく作成するときは、&lt;g0&gt;［プロジェクト］→「プロジェクト設定...］&lt;/g0&gt; ウィンドウで、［翻訳メモリフォルダー］にその保管フォルダーを指定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T172655Z">
@@ -26595,6 +26675,14 @@ price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T035748Z">
         <seg>再びフィルターを使用したくなったら、対象のチェックボックスにチェックを入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T020712Z">
+        <seg>プロジェクトを閉じて終了したとき、常に「エクスポートした」３つの翻訳メモリファイルを、プロジェクトのルートフォルダーから、その保管フォルダーにコピーしておく</seg>
       </tuv>
     </tu>
     <tu>
@@ -27506,6 +27594,14 @@ copyright notice and disclaimer of warranty; keep intact all the
 notices that refer to this License and to the absence of any warranty;
 and give any other recipients of the Program a copy of this License
 along with the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx &lt;/f0&gt;file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T021801Z">
+        <seg>それらの内容がいったん現在のプロジェクトの &lt;f0&gt;project_save.tmx&lt;/f0&gt; に蓄積されたなら、もう必要ないファイルを削除してもよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
