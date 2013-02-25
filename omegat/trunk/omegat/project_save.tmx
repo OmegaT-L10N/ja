@@ -4924,6 +4924,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Sharing&lt;/s1&gt; &lt;s2&gt;Project,Download Team Project...&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T034508Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;共有&lt;/s1&gt; &lt;s2&gt;プロジェクト、チームプロジェクトをダウンロード...&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Subfolder omegat&lt;/s1&gt; &lt;s2&gt;Project files&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T161712Z">
@@ -7611,6 +7619,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T032114Z">
         <seg>元の（上記文書の翻訳を含む）翻訳メモリを、新しいプロジェクトの &lt;f0&gt;tm/auto&lt;/f0&gt; フォルダーにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy them to a safe place for future referrals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T033013Z">
+        <seg>あとで使うために、それらを安全な場所にコピーしておきましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20207,6 +20223,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sharing translation memories</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T034520Z">
+        <seg>翻訳メモリの共有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+C</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141348Z">
@@ -24713,6 +24737,14 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090708Z">
         <seg>大切なデータを失わないためには：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid reusing the project and thus possibly poluting future cases, delete the project folder or archive it away from your workplace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T034414Z">
+        <seg>このプロジェクトを再利用するのは、避けたほうが賢明です。他と取り違えかねないので、用が済んだらプロジェクトごと削除するか、あるいはアーカイブ化して作業スペースから追い出しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32940,6 +32972,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010417Z">
         <seg>the Program is not required to print an announcement.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the TMX files in the main project folder (see above) now contain the transltions in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T032959Z">
+        <seg>メインのプロジェクトフォルダーに３つの TMX ファイル（上記参照）が出力されているはずです。これには、指定した言語ペアの、かつ source フォルダーにコピーした文書だけの翻訳が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
