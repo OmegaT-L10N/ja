@@ -23297,8 +23297,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The result will thus depend on the order in which the source segments have been loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T164317Z">
-        <seg>結果は、原文分節の読み込まれる順番に表示されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T170951Z">
+        <seg>複数訳文になる場合、翻訳が「既定値訳文」になるか「新しい訳文」になるかは、原文分節の読み込まれる順番に依存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23766,6 +23766,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T192400Z">
         <seg>&lt;g2&gt;Ctrl+T&lt;/g2&gt; により表示されるウインドウには３列の表があります。それぞれ分節へのリンク、原文の分節、訳文の分節です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word [Fuzzy] is displayed on the source segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T171036Z">
+        <seg>また原文分節に「[Fuzzy]」と表示されます。</seg>
       </tuv>
     </tu>
     <tu>
