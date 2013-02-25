@@ -13161,6 +13161,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T015858Z">
+        <seg>この場合は、使いたい翻訳メモリを新しいプロジェクトの &lt;e0&gt;tm&lt;/e0&gt; フォルダーか &lt;e1&gt;tm/auto&lt;/e1&gt; フォルダーに配置してください。前者では、翻訳メモリから見つかった分節が参考訳文ウィンドウに表示されます。後者では、下訳として訳文分節に自動挿入されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064455Z">
