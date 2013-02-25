@@ -13298,8 +13298,8 @@ the limitation as if written in the body of this License.</seg>
       <tuv lang="EN">
         <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL-ZH translation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T090413Z">
-        <seg>このような状況では、オランダ語から中国語への翻訳を、オランダ語から英語への翻訳メモリを利用して行うことができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T124830Z">
+        <seg>このような状況では、蘭中翻訳を、蘭英の翻訳メモリを介して行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23415,6 +23415,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm subfolder and rename it ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T125039Z">
+        <seg>この例における解決策は、既存の翻訳メモリを tm フォルダーにコピーし、訳文言語を示すために ZH_CN.tmx とリネームすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source code for a work means the preferred form of the work for
 making modifications to it.</seg>
       </tuv>
@@ -23828,7 +23836,7 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T085939Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T124640Z">
         <seg>ここに、完了したプロジェクト（たとえばオランダ語の原文を英語に翻訳したもの）があるとします。</seg>
       </tuv>
     </tu>
