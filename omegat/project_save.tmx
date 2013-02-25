@@ -5298,6 +5298,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A project's tmx will be upgraded only once, and will be written in upgraded form into the &lt;f0&gt;project-save.tmx&lt;/f0&gt;; legacy tmx files will be upgraded on the fly each time the project is loaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T183743Z">
+        <seg>プロジェクトのメインの TMX ファイルがバージョンアップされるのは１度だけです。最新の形式で &lt;f0&gt;project-save.tmx&lt;/f0&gt; に書き込まれます。それ以外の以前の TMX ファイルは、プロジェクトが読み込まれるたびにその場で更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A pseudo-translated memory can be generated with the following command line parameters:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180934Z">
@@ -16240,6 +16248,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T062310Z">
         <seg>利用できるのは、対訳形式の辞書に限りません。この辞書機能を使って、多種多様な情報を参照できます。たとえば：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in some cases changes in file filters in &lt;a1&gt;OmegaT&lt;/a1&gt; 2.5 may lead to totally different segmentation; as a result, you will have to upgrade your translation manually in such rare cases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T184103Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; 2.6 ではファイルフィルターに変更が加えられたため、分節化の内容がまったく異なる可能性があります。ごくまれに、翻訳メモリを手動で更新する必要があるかもしれませんので、注意してください。</seg>
       </tuv>
     </tu>
     <tu>
