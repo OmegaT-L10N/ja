@@ -7114,6 +7114,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T032324Z">
+        <seg>タグのエラーが無いか、&lt;k0&gt;Ctrl+T&lt;/k0&gt; で確認してください。未翻訳分節は &lt;k1&gt;Ctrl+U&lt;/k1&gt; で確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T150124Z">
@@ -7591,6 +7599,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the documents, you need the translation memory for, into the source folder of the project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T031930Z">
+        <seg>翻訳メモリの対象にしたい原文文書を、source フォルダーにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the translation memories, containing the translations of the documents above, into&lt;f0&gt; tm\auto&lt;/f0&gt; subfolder of the new project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T032114Z">
+        <seg>元の（上記文書の翻訳を含む）翻訳メモリを、新しいプロジェクトの &lt;f0&gt;tm/auto&lt;/f0&gt; フォルダーにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy/cut/paste shortcuts</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T163211Z">
@@ -7739,6 +7763,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T020644Z">
         <seg>特定の顧客や分野の翻訳メモリ用として、ハードディスク内に１つフォルダー（たとえば「保管フォルダー」）を作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T031750Z">
+        <seg>まず、まったく新しくプロジェクトをひとつ作成します。共有したい TMX に合わせて、言語ペアやプロジェクト名を適切に設定します（このあと作成される TMX ファイルには、このプロジェクトの名前が付きます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13002,6 +13034,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T023237Z">
         <seg>同じ内容の分節が何箇所か原文に存在する場合、［翻訳自動反映］チェックボックスにチェックを入れると、最初にその内容を一箇所翻訳した時点で、それが既定値訳文に設定され、他の訳文分節にも同じ内容が設定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case translators need like to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T031058Z">
+        <seg>翻訳者のあいだで、TMX ファイルを共有したい場合があるとします。しかし、特定の文書に関する分節を除外したいか、逆にそれだけを含めたいという状況です。&lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; そのものを共有するのは、論外です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20727,6 +20767,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T032141Z">
+        <seg>新しいプロジェクトを開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting OmegaT from the command line</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T105044Z">
@@ -22438,6 +22486,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T043657Z">
         <seg>以下は、特に翻訳メモリを検索する場合に便利な正規表現の一覧です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T031403Z">
+        <seg>以下に示す解決法は、いろいろあるやり方のひとつにすぎません。しかし試すのはとても簡単で、ファイルを破損する危険性もありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24669,6 +24725,14 @@ collective works based on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T032426Z">
+        <seg>問題が無ければ、&lt;k2&gt;Ctrl+D&lt;/k2&gt; を押して訳文ファイルを生成し、その内容を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T062756Z">
@@ -26731,6 +26795,14 @@ price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T165500Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; プロジェクト内で訳文ファイルを生成すると、プロジェクトの翻訳メモリは、そのプロジェクトフォルダーに３種類のファイルとして出力されます（前述の説明を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you exit the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T032433Z">
+        <seg>プロジェクトを終了しましょう。</seg>
       </tuv>
     </tu>
     <tu>
