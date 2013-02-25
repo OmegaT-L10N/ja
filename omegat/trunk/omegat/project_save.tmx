@@ -13030,6 +13030,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T075617Z">
+        <seg>OmegaT の場合は、すべてのプロジェクトフォルダーが　VCS の管理下に入ります。原文フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;$(name only&lt;/l0&gt;&lt;e1&gt;-number of extensions&lt;/e1&gt;) and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;number of extensions} &lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163613Z">
@@ -16623,12 +16631,12 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Yu-Tang）"Revision Control System"（特定の OSS の固有名詞）と激しく混同しやすいので、該当箇所はあえて翻訳を省略します。</note>
+      <note>Yu-Tang）"Revision Control System"（特定の OSS の固有名詞）と激しく混同しやすいので、以降、略語の "RCS" も含めて、該当箇所はあえて翻訳を省略します。</note>
       <tuv lang="EN">
         <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T074302Z">
-        <seg>OmegaT は SVN と Git という、２つの一般的なバージョン管理システムに対応しています。これらは、オープンソースのライセンス下で利用可能です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T075522Z">
+        <seg>OmegaT は SVN と Git という、２つの一般的なバージョン管理システム（VCS）に対応しています。これらは、オープンソースのライセンス下で利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
