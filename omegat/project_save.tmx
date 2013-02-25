@@ -11396,6 +11396,14 @@ make exceptions for this.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T024138Z">
+        <seg>しかし、OmegaT はレベル 2 の（文書情報だけでなく、整形情報も含む） TMX ファイルに完全には対応していません。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, as a
 special exception, the source code distributed need not include
 anything that is normally distributed (in either source or binary
@@ -14442,6 +14450,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T024234Z">
+        <seg>それでも、レベル 2 の TMX ファイルをインポートして、テキスト情報を OmegaT で利用することは可能です。ただし参考訳文の一致率は多少下がるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010415Z">
@@ -16436,6 +16452,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T015056Z">
         <seg>OmegaT には高度にカスタマイズ可能なフィルター機能があり、さらにその多くの挙動設定を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T024324Z">
+        <seg>OmegaT が翻訳メモリファイル（TMX ファイル）を読み込む際には、非常に厳密な処理が行われます。</seg>
       </tuv>
     </tu>
     <tu>
