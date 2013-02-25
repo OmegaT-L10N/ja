@@ -7807,6 +7807,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a translation memory for selected documents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T030542Z">
+        <seg>特定文書向け翻訳メモリの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T190742Z">
@@ -10161,6 +10169,14 @@ patents.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T025451Z">
+        <seg>修正は簡単な操作で行えることが多く、OmegaT が出力するエラーメッセージはじゅうぶんその助けになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Flash XML export</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174435Z">
@@ -11716,6 +11732,14 @@ sections when you distribute them as separate works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T024631Z">
+        <seg>ファイルに何かのエラーを見つけると、OmegaT はその場所を通知します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If any portion of this section is held invalid or unenforceable under
 any particular circumstance, the balance of the section is intended to
 apply and the section as a whole is intended to apply in other
@@ -12615,6 +12639,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T030319Z">
+        <seg>もし、テキスト情報のみが必要な場合（整形情報が必要でない場合）は、OmegaT が作成したレベル 1 ファイルの方を使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you place translation memory files in the /tm/ subfolder of your project folder, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165604Z">
@@ -12695,6 +12727,14 @@ to ask for permission.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153131Z">
         <seg>編集内容をそのフィルターの初期値に戻したい時は、&lt;e2&gt;初期値を復元&lt;/e2&gt; をクリックしてください。またファイルフィルターダイアログの中で、訳文ファイル名構成例を直接編集することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T025103Z">
+        <seg>そのような翻訳メモリを OmegaT に参照させるには、事前にファイルを修復しておく必要があります。でなければ、OmegaT はエラーでそのファイルを読み込めないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16444,6 +16484,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T151257Z">
         <seg>OmegaT は、指定した単語をすべて含む、すべての分節の一覧を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T025615Z">
+        <seg>OmegaT はバージョン 1.4 の TMX ファイル（レベル 1、レベル 2 とも）を出力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20407,6 +20455,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T024804Z">
+        <seg>一部で、不正な TMX ファイルを生成してしまうツールがあることが確認されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152515Z">
@@ -22553,6 +22609,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T043814Z">
         <seg>この場合、原文分節が一致する最後の分節が、優先的に使われることになります（注意：もちろん、そもそもこのような事態が起こらないようにできるなら、それが一番望ましい対応です）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T030240Z">
+        <seg>出力されたレベル 2 TMXファイルは、レベル 2 の仕様に完全に準拠してはいませんが、それに近い水準です。TMX レベル 2 に対応した他の翻訳ツールは、このファイルから参考訳文を問題なく利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27295,6 +27359,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T105946Z">
         <seg>また AppleScript や Automator を使用して、よく行う作業をサービスやスクリプトとして登録しておくこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can ask the user group for advice if you have problems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T025541Z">
+        <seg>不明な点があればユーザーグループに問い合わせてください。</seg>
       </tuv>
     </tu>
     <tu>
