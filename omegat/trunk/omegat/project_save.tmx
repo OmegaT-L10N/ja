@@ -2348,8 +2348,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T135538Z">
-        <seg>&lt;e0&gt;重要：&lt;/e0&gt;補助用の TMX ファイルは必ず「XX_YY.tmx」形式にリネームしなければなりません。「XX_YY」 はawhere XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T142709Z">
+        <seg>&lt;e0&gt;重要：&lt;/e0&gt;補助用の TMX ファイルは必ず「XX_YY.tmx」形式にリネームしなければなりません。「XX_YY」はプロジェクトの訳文言語と同じコードです。たとえば上の例では、「ZH_CN.tmx」となっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,6 +4920,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T153457Z">
         <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;現在の原文に存在しない分節&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;PO and OKAPI TTX files&lt;/s1&gt; &lt;s2&gt;Translation memories Subfolder tm/auto&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T143346Z">
+        <seg>&lt;p0&gt;翻訳メモリ&lt;/p0&gt; &lt;s1&gt;&gt;PO ファイルと OKAPI TTX ファイル&lt;/s1&gt; &lt;s2&gt;tm/auto 翻訳メモリフォルダー&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13248,6 +13256,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In such cases, an existing translation, found in the file, is included in the &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T144459Z">
+        <seg>この場合、原文ファイルに付属する対訳は、&lt;f0&gt;project_save.tmx&lt;/f0&gt; に移行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T043115Z">
@@ -20576,6 +20592,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some types of source files (for instance PO, TTX, etc.) are bilingual, i.e. they serve both as a source and as a translation memory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T144252Z">
+        <seg>ある種の原文ファイル（PO ファイルや TTX ファイルなど）は二ヶ国語形式、すなわち原文と翻訳メモリを兼ねた状態になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152515Z">
@@ -20740,6 +20764,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155742Z">
         <seg>原文と訳文の長さ（文字数）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sources with existing translations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T143525Z">
+        <seg>対訳付きの原文ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -23143,6 +23175,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T143001Z">
+        <seg>プロジェクトの原文言語コードと TMX の原文言語コードは、同一でなければなりません。例では「NL」がそれです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155141Z">
@@ -23422,6 +23462,7 @@ modification follow.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）この記述は不明点があるため、下記で確認中です。はっきりするまで、訳出を控えます。https://sourceforge.net/tracker/?func=detail&amp;atid=912617&amp;aid=3605912&amp;group_id=68187</note>
       <tuv lang="EN">
         <seg>The solution in our example is to copy the existing translation memory into the tm subfolder and rename it ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
