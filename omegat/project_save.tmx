@@ -5282,6 +5282,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A pseudo-translated memory can be generated with the following command line parameters:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180934Z">
+        <seg>疑似翻訳メモリは、次のコマンドラインで作成できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A regular expression entered here will cause OmegaT treat the detected instances as customer tags.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T162913Z">
@@ -10503,6 +10511,14 @@ you have.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143737Z">
         <seg>たとえばテキストフィルターを readme ファイル（&lt;l3&gt;readme&lt;/l3&gt;、&lt;l3&gt;read.me&lt;/l3&gt; や &lt;l4&gt;readme.txt&lt;/l4&gt;）にも対応させたい場合は、ファイル名構成例に &lt;l5&gt;read*&lt;/l5&gt; を指定してください。（日本語訳注：実際にはワイルドカード文字と衝突しない範囲で、正規表現も使用できます。たとえばファイル名の末尾に数字のついた、拡張子 .foo のファイルを扱いたい場合は、&lt;l5&gt;*\d.foo&lt;/l5&gt; のような指定が可能です。正規表現の詳細は、http://docs.oracle.com/javase/jp/6/api/java/util/regex/Pattern.html を参照してください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you wish to create a pseudo-translation for testing purposes, OmegaT enables you to create an additional tmx file that contains all segments of the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180624Z">
+        <seg>たとえば、テストのために疑似的な翻訳を行いたいような場合です。OmegaT はプロジェクトの全文節を含む、別の TMX ファイルを作成することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23690,6 +23706,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tmx file can be given any name you specify.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180835Z">
+        <seg>この TMX ファイルには任意の名称を付けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tokenizer names are given in the Readme.txt file distributed with the tokenizer files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T170233Z">
@@ -23710,6 +23734,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T171741Z">
         <seg>訳文ファイルは最終的に、逆変換で原文ファイルの形式に戻す必要がある点に留意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation in this tmx can be either</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180724Z">
+        <seg>この TMX ファイル中の翻訳内容は以下のいずれかです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30986,6 +31018,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;filename&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T181004Z">
+        <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;ファイル名&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>join.html</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191458Z">
@@ -33406,6 +33446,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T172709Z">
         <seg>ODT 形式ファイル（既存フィルター対応済み）を OmegaT で翻訳する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation equals source (default)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180735Z">
+        <seg>翻訳（訳文）が原文とまったく同じであるもの（既定の設定）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation segment is empty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180739Z">
+        <seg>翻訳（訳文）が空のもの</seg>
       </tuv>
     </tu>
     <tu>
