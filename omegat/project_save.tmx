@@ -5805,6 +5805,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All translations from source documents are also displayed in the Comment pane, in addition to the Match pane.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T164606Z">
+        <seg>原文ファイルに付属する対訳情報はすべて、コメントウィンドウと参考訳文ウィンドウにも表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow the translation to be equal to source</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175631Z">
@@ -13062,6 +13070,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case of PO files, a 20% penalty applied to the alternative translation (i.e., a 100% match becomes an 80% match).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T164921Z">
+        <seg>PO ファイルの場合は、複数訳文の「新しい訳文」扱いになった対訳情報に対して 20% のペナルティが課せられます（たとえば 100% 一致しても、80% に減点されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;$(name only&lt;/l0&gt;&lt;e1&gt;-number of extensions&lt;/e1&gt;) and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;number of extensions} &lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163613Z">
@@ -13996,6 +14012,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T021845Z">
         <seg>変更先のフォルダーは、各自のワークフローとプロジェクト管理習慣に応じて、既存の場所を指定したり、新規作成したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is treated as a default translation, if no match has been found, or as an alternative translation, in case the same source segment exists, but with a target text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T164024Z">
+        <seg>翻訳メモリ内に他に一致する分節がなければ、移行された翻訳は、デフォルトの翻訳になります。翻訳メモリ内に他の一致する分節が記録済みの場合、移行された翻訳は、複数訳文の「新しい訳文」の方として扱われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23267,6 +23291,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050252Z">
         <seg>設定ファイルは、 &lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result will thus depend on the order in which the source segments have been loaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T164317Z">
+        <seg>結果は、原文分節の読み込まれる順番に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
