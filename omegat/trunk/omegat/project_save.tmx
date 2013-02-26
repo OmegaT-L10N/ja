@@ -8591,6 +8591,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays a dialog to conduct searches in the project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073343Z">
+        <seg>検索ウィンドウを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays a dialog to locate an existing project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073335Z">
+        <seg>既存のプロジェクトを選択するウィンドウを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays a dialogue to conduct searches in the project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T041309Z">
@@ -8635,6 +8651,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T042116Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 取扱説明書を別ウィンドウで表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the &lt;l0&gt;File filters&lt;/l0&gt; dialog to configure file handling and parsing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073314Z">
+        <seg>ファイルの取り扱いを設定する&lt;l0&gt;［ファイルフィルター］&lt;/l0&gt;ダイアログを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11796,6 +11820,22 @@ sections when you distribute them as separate works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073134Z">
+        <seg>「&lt;l0&gt;abort&lt;/l0&gt;」を指定した場合は、不正なタグを見つけた時点で、タグ検証を中止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073145Z">
+        <seg>「&lt;l1&gt;warn&lt;/l1&gt;」を指定した場合は、すべての分節についてタグ検証を実施し、不正なタグについては警告を出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105553Z">
@@ -12338,6 +12378,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073730Z">
+        <seg>また補助的な翻訳メモリの中の原文分節と、翻訳中のテキストとが同一の場合の挙動を、&lt;m0&gt;&lt;g1&gt;設定&lt;/g1&gt; &lt;g2&gt;翻訳入力行...&lt;/g2&gt;&lt;/m0&gt; ダイアログで設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialogue window.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T040957Z">
@@ -12683,6 +12731,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T131345Z">
         <seg>その候補を適用したい場合は、&lt;k0&gt;&lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;/k0&gt; を押すと、編集中の訳文分節が置換されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt._BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073642Z">
+        <seg>すでにテキストの大部分を翻訳した後で、プロジェクト設定中の訳文の言語コードが辞書の言語と一致していないことに気づいた場合（たとえば言語コードが pt_BR であるのに、pt_BR 用の辞書が存在しない場合）は、単純に２つの辞書ファイルの名前を変更すれば問題ありません（&lt;e0&gt;pt_PT.aff&lt;/e0&gt; と &lt;e1&gt;pt_PT.dic&lt;/e1&gt; をそれぞれ &lt;e2&gt;pt_BR.aff&lt;/e2&gt; と &lt;e3&gt;pt_BR.dic&lt;/e3&gt; に変更）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17412,6 +17468,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialog to configure text segmentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073327Z">
+        <seg>テキストの分節化を設定する&lt;l0&gt;［分節化規則の設定］&lt;/l0&gt;ダイアログを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialogue to configure text segmentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T164513Z">
@@ -20528,6 +20592,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the dialog to modify the text display font.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073248Z">
+        <seg>表示用の字体を設定するダイアログを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the dialogue to modify the text display font.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T155328Z">
@@ -22727,6 +22799,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T081756Z">
         <seg>以下のスクリプト言語は、最初から使える状態になっています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following search methods are available:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073610Z">
+        <seg>以下の検索方法を利用できます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25027,6 +25107,14 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090708Z">
         <seg>大切なデータを失わないためには：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073753Z">
+        <seg>このプロジェクトを再利用するのは、避けたほうが賢明です。他と取り違えかねないので、用が済んだらプロジェクトごと削除するか、あるいはアーカイブ化して作業スペースから追い出しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30694,6 +30782,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T144128Z">
         <seg>https://developers.google.com/translate/v2/faq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073225Z">
+        <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
       </tuv>
     </tu>
     <tu>
