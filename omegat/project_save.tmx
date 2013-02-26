@@ -3868,6 +3868,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T174158Z">
+        <seg>&lt;p0&gt;プロジェクトメニュー&lt;/p0&gt; &lt;s1&gt;プロジェクト設定&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T173921Z">
+        <seg>&lt;p0&gt;ツールメニュー&lt;/p0&gt; &lt;s1&gt;参考訳文の一致率&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;statistics&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T173648Z">
@@ -5064,6 +5080,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172333Z">
         <seg>&lt;p0&gt;ユーザーインターフェース&lt;/p0&gt; &lt;s1&gt;その他のウィンドウ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Settings dialogs&lt;/s1&gt; &lt;s2&gt;Project Settings&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T174135Z">
+        <seg>&lt;p0&gt;ユーザーインターフェース&lt;/p0&gt; &lt;s1&gt;設定ダイアログ&lt;/s1&gt; &lt;s2&gt;プロジェクトの設定&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26590,10 +26614,26 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt;to open it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T174104Z">
+        <seg>プロジェクトの参考訳文の一致率を閲覧できます。&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;ツール&lt;/g1&gt; &lt;g3&gt;参考訳文の一致率&lt;/g3&gt;&lt;/m0&gt; からウィンドウを開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;, close with &lt;k1&gt;Esc)&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T173426Z">
         <seg>取扱説明書を閲覧できます。&lt;k0&gt;F1&lt;/k0&gt; で開き、&lt;k1&gt;［Esc］&lt;/k1&gt; で閉じます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to open the window with the statistics of the project, display it, using &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Statistics.&lt;/g3&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T173909Z">
+        <seg>プロジェクトの翻訳状況を表示します。&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;ツール&lt;/g1&gt; &lt;g3&gt;翻訳状況&lt;/g3&gt;&lt;/m0&gt; からウィンドウを開きます</seg>
       </tuv>
     </tu>
     <tu>
