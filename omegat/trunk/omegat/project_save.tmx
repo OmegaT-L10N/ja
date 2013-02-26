@@ -16348,6 +16348,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that only one TMX for a given language pair is possible, so If several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T170910Z">
+        <seg>特定の言語ペアについて関連付けできるのは、TMX ファイルひとつだけです。したがって、関連付けたい翻訳メモリが複数ある場合は、それらを XX_YY.tmx にマージする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T021758Z">
@@ -17873,6 +17881,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121451Z">
         <seg>分節前の構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;e0&gt;omegat&lt;/e0&gt; instead of &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T170103Z">
+        <seg>大文字、小文字の区別に注意してください。Windows 以外の OS では、&lt;e1&gt;OmegaT&lt;/e1&gt; ではなく &lt;e0&gt;omegat&lt;/e0&gt; と入力すると、起動しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23678,7 +23694,6 @@ modification follow.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Yu-Tang）この記述は不明点があるため、下記で確認中です。はっきりするまで、訳出を控えます。https://sourceforge.net/tracker/?func=detail&amp;atid=912617&amp;aid=3605912&amp;group_id=68187</note>
       <tuv lang="EN">
         <seg>The solution in our example is to copy the existing translation memory into the tm subfolder and rename it ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
@@ -24865,6 +24880,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054205Z">
         <seg>このオプションは、バッチ処理モードにおけるタグ検証の挙動を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows the tag validation in a batch mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T170255Z">
+        <seg>この設定は、バッチモードでタグ検証を可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30797,6 +30820,14 @@ create its configuration folder.</seg>
         <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99\ LL</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T184653Z">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=Wumx5AKXybfb0RFlBA4Zve2v75W1qGfK9-ujQ1vYZQGSOnjY-hjIb4st1aG&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d569c51c61ce57e9125f793ea33988004</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T165955Z">
         <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
       </tuv>
     </tu>
