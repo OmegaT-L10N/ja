@@ -12714,6 +12714,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T190238Z">
+        <seg>ファイル名が付記されていないものは、プロジェクトの内部翻訳メモリからの表示です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there's nothing appearing in the Machine Translate pane, then check the following:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T143736Z">
@@ -17277,6 +17285,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT match, including numbers, tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T191431Z">
+        <seg>数字とタグを含む OmegaT の一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on the web</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191920Z">
@@ -17913,6 +17929,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162058Z">
         <seg>現在の原文に存在しない分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T190509Z">
+        <seg>孤立した分節&lt;i2/&gt;（上図での２番目の参考訳文）とは、そのプロジェクトの翻訳メモリ中に存在するが、原文の分節とは一致しなくなった分節を指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23441,6 +23465,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T185730Z">
+        <seg>一致率を表示している行には他にも、その参考訳文を収録している翻訳メモリ&lt;i1/&gt;の名前が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143243Z">
@@ -24555,6 +24587,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are actually three match estimates available (66/66/30 in the case of the match #4 above).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T190715Z">
+        <seg>一致率には３種類の数値が表示されます（上図の４番目の参考訳文で言うと「66/66/30」の部分）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T095504Z">
@@ -24756,6 +24796,14 @@ distribute copies of the software, or if you modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T145523Z">
         <seg>ワードプロセッサーや HTML エディターで作成した文書に、よく見られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are defined as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T190730Z">
+        <seg>定義は、次の通りです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30282,6 +30330,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>default OmegaT match - number of matched words - with numerals and tags ignored - divided by the total word count</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T191522Z">
+        <seg>デフォルトの OmegaT の一致率 - 数字とタグを除外して一致した単語数を、総単語数で割った数値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>default justification, that is as defined by the language</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T181042Z">
@@ -32454,6 +32510,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>match percentage when the tokenizer plugin is used</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T190749Z">
+        <seg>トークナイザープラグインによる一致率</seg>
       </tuv>
     </tu>
     <tu>
