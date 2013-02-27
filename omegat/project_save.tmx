@@ -14352,6 +14352,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the segment that is displayed in two parts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T164459Z">
+        <seg>現在分節を見ると、２つの部分から構成されていることが分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is therefore possible to select existing folders or create folders in locations that reflect your work flow and project management habits.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T021845Z">
@@ -17524,6 +17532,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the above segments is the current segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T164427Z">
+        <seg>その分節のうちの１つは、現在分節です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T182928Z">
@@ -20363,6 +20379,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T172833Z">
         <seg>翻訳対変異の外側に分節が見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment marker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T164927Z">
+        <seg>分節番号</seg>
       </tuv>
     </tu>
     <tu>
@@ -24233,6 +24257,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: &lt;i0/&gt;the marker is &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T165319Z">
+        <seg>上側には原文が緑色背景の太字で表示されます。下側が翻訳入力行で、最後は分節番号です。&lt;i0/&gt;分節番号は &lt;l1&gt;&lt;分節 nnnn&gt;&lt;/l1&gt; の形式で表示され、「nnnn」はプロジェクト中における分節の番号を表しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user interface</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172227Z">
@@ -26842,6 +26874,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172408Z">
         <seg>OmegaT のユーザーインターフェースにインストール時の言語を使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T165353Z">
+        <seg>上側の原文を参照しながら、下側の翻訳入力行の内容を修正または上書きし翻訳を進めてください。</seg>
       </tuv>
     </tu>
     <tu>
