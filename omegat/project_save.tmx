@@ -4076,6 +4076,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Restoring to factory setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T091420Z">
+        <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;初期状態の復元&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Windows and panes in OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T091235Z">
+        <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;OmegaT のウィンドウ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055159Z">
@@ -5167,6 +5183,14 @@ The current setting is {0}MB;</seg>
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Main window&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084732Z">
+        <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;メインウィンドウ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Pane widgets&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T085746Z">
         <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;メインウィンドウ&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -12756,6 +12780,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T085731Z">
+        <seg>本来、開いていたり最小化していたりするはずのウィンドウが見当たらない場合は、&lt;g0&gt; ［設定］→［ウィンドウを初期値に復元］&lt;/g0&gt;を選んでください。ウィンドウの配置をインストール直後の状態に復元します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific directory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160038Z">
@@ -17916,6 +17948,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200827Z">
         <seg>単一とペア：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pane widgets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T090453Z">
+        <seg>ウィンドウ表示アイコン</seg>
       </tuv>
     </tu>
     <tu>
@@ -27422,6 +27462,14 @@ program proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When this is done the panes display a tab at the top.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T091452Z">
+        <seg>この場合、ウィンドウの上部にタブが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T184905Z">
@@ -28305,6 +28353,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191344Z">
         <seg>取扱説明書に含まれる外部リンクへアクセスする場合は、これらのファイルをウェブブラウザーで開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can overlap panes if desired.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T091439Z">
+        <seg>ウィンドウは重ねて表示させることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32049,6 +32105,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>maximizes the pane</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T090723Z">
+        <seg>ウィンドウを最大化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mg</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -32069,6 +32133,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>mi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T090701Z">
+        <seg>ウィンドウを最小化します。そのウィンドウの名称だけが、メインウィンドウの下部に表示されます。&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32953,6 +33025,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>puts the pane back within the main window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T091013Z">
+        <seg>ウィンドウを、独立したウィンドウから、メインウィンドウ内の子ウィンドウ表示に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>qu</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -33045,6 +33125,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T151932Z">
         <seg>プラグイン用に予約されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>restores the layout before the maximizing step</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T090751Z">
+        <seg>ウィンドウを最大化される前の状態に戻します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34037,6 +34125,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010802Z">
         <seg>under certain conditions; type `show c' for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>undocks the pane from the main window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T090910Z">
+        <seg>ウィンドウをメインウィンドウから切り離して、独立したウィンドウとして表示します。</seg>
       </tuv>
     </tu>
     <tu>
