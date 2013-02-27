@@ -13728,6 +13728,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T181457Z">
+        <seg>上記の例では、「&lt;e0&gt;Context menu command&lt;/e0&gt;」が原文分節です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T025129Z">
@@ -23542,6 +23550,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T180857Z">
+        <seg>一致率は、簡単に言えば、比較する分節どうしで共通している単語数を、長い方の分節の単語数で割ったものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named "omegat" can be used in OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T210833Z">
@@ -24060,6 +24076,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171149Z">
         <seg>検索された分節は、プロジェクト中で現れる順に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T181400Z">
+        <seg>選択された状態の参考訳文は太字で表示されます。翻訳しようとしている分節に存在しない単語は青字で、それに隣接する単語は緑字で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26023,6 +26047,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064236Z">
         <seg>すでにある用語集を使用する場合は、プロジェクトを作成後、&lt;i0/&gt;&lt;f1&gt;glossary&lt;/f1&gt; フォルダーにそのファイルを置いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T180440Z">
+        <seg>選択した（太字で表示された）参考訳文を、現在編集中の訳文と置換して使用するには&lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; を押します。現在のカーソル位置に挿入する場合は &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28878,6 +28910,14 @@ restrictions on the recipients' exercise of the rights granted herein.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T054519Z">
         <seg>以下を検索できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T180251Z">
+        <seg>ここで&lt;g0&gt;［Ctrl+2］&lt;/g0&gt;、&lt;g0&gt;［Ctrl+3］&lt;/g0&gt;、&lt;g0&gt;［Ctrl+4］&lt;/g0&gt;または&lt;g0&gt;［Ctrl+5］&lt;/g0&gt; を押して、別の参考訳文を選択することもできます。&lt;i1/&gt;もちろん、５番目の参考訳文が存在しないときに［&lt;k2&gt;&lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt;&lt;/k2&gt;］を押しても、何も起こりません。</seg>
       </tuv>
     </tu>
     <tu>
