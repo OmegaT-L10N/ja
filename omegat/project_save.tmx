@@ -4724,6 +4724,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Insert text - Ctrl+I&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T175351Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;参考訳文を挿入 - Ctrl+I&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Machine Translate - Ctrl+M&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T131028Z">
@@ -4740,10 +4748,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Replace text - Ctrl+R&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T175332Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;参考訳文に置換 - Ctrl+R&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search - Ctrl+F&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051157Z">
         <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;検索 - Ctrl+F&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Selecting the match - Ctrl+N&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T175406Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;参考訳文の選択 - Ctrl+#N&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23502,6 +23526,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T175037Z">
+        <seg>参考訳文ウィンドウは、翻訳メモリの中から最も一致率の高い分節を表示します。検索対象となるのは、そのプロジェクトの翻訳中にリアルタイムで蓄積されていく内部翻訳メモリはもちろん、過去の翻訳作業で使用したものや、顧客や翻訳会社から受け取ったものをインポートして使用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The matches will be displayed in bold blue.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T101759Z">
@@ -27813,6 +27845,14 @@ price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T170424Z">
         <seg>別の分節に移ると、入力した訳文が確定され、翻訳メモリに蓄積されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T175353Z">
+        <seg>次の分節に移動すると、最初の参考訳文（最も一致率の高いもの）が自動的に選択されます。</seg>
       </tuv>
     </tu>
     <tu>
