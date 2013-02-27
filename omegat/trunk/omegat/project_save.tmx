@@ -32577,6 +32577,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>number of segments - translated vs total for the current file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T103833Z">
+        <seg>現在のファイルの分節数：翻訳済み / すべて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of source and target characters in the current segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T105405Z">
+        <seg>現在分節の文字数：原文 / 訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>number of unique segments - translated vs total in the project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T095050Z">
