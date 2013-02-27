@@ -24601,6 +24601,15 @@ making modifications to it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）日本語版は図を差し替えているため、用語集は独自ファイルになっています。そのため、当てはまらない原文の翻訳を一部省略しました。</note>
+      <tuv lang="EN">
+        <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T203653Z">
+        <seg>下図の原文は「&lt;e0&gt;Context menu command&lt;/e0&gt;」ですが、そこに見つかった用語を用語集から表示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The source subfolder contains files to be translated.</seg>
       </tuv>
@@ -33086,6 +33095,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>multi-word entry in the glossary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T203424Z">
+        <seg>用語集ウィンドウ</seg>
       </tuv>
     </tu>
     <tu>
