@@ -1776,6 +1776,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084709Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; メインウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window (Editor, Match viewer, Glossary viewer)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T065631Z">
@@ -3796,6 +3804,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing Behavior&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084342Z">
+        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;翻訳入力行...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Converting numbers&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T173238Z">
@@ -3856,6 +3872,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T065541Z">
         <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;字体...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083753Z">
+        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;分節化規則...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4076,6 +4100,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;Editing Behavior&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084332Z">
+        <seg>&lt;p0&gt;プロジェクト設定&lt;/p0&gt; &lt;s1&gt;翻訳入力行&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;File filters&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083222Z">
@@ -4088,6 +4120,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T082050Z">
         <seg>&lt;p0&gt;プロジェクト設定&lt;/p0&gt; &lt;s1&gt;字体設定&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083649Z">
+        <seg>&lt;p0&gt;プロジェクト設定&lt;/p0&gt; &lt;s1&gt;分節化規則&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5120,6 +5160,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T042336Z">
         <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;用語集ウィンドウ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Main window&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084732Z">
+        <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;メインウィンドウ&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7593,8 +7641,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Comments by the author in PO files, or the name of the attribute being translated (in XHTML)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T173558Z">
-        <seg>PO ファイルのコメントや、翻訳中の属性値の名前（XHTML ファイルの場合）を表示します</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083602Z">
+        <seg>PO ファイルのコメントや、翻訳中の属性値の名前（XHTML ファイルの場合）を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8467,6 +8515,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T182952Z">
         <seg>信頼できる分節化規則が多くの言語で設定済みのため、新たな独自規則を作成する必要は、あまりないでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084919Z">
+        <seg>各ウィンドウの右上角には、その表示状態によって異なる、以下のようなボタンが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16996,6 +17052,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT main window</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084713Z">
+        <seg>OmegaT メインウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT main window contains the main menu, status bar and several panes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T171544Z">
@@ -23189,6 +23253,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084743Z">
+        <seg>メインウィンドウは、いくつかのウィンドウ、メインメニュー、ステータスバーからなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The matches will be displayed in bold blue.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T101759Z">
@@ -26646,18 +26718,34 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used to change how &lt;a0&gt;OmegaT&lt;/a0&gt; behaves when you iterate between the segments (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Behavior...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084539Z">
+        <seg>分節を移動する際の &lt;a0&gt;OmegaT&lt;/a0&gt; の挙動を設定します。&lt;m1&gt;&lt;g2&gt;設定&lt;/g2&gt; &lt;g3&gt;翻訳入力行...&lt;/g3&gt;&lt;/m1&gt;で開き、&lt;k4&gt;［Esc］&lt;/k4&gt;で閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to change the way your text is segmented into sentences (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Segmentation&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084235Z">
+        <seg>文章を分節化する方法を設定します。&lt;m0&gt;&lt;g1&gt;設定&lt;/g1&gt; &lt;g2&gt;分節化規則...&lt;/g2&gt;&lt;/m0&gt;で開き、&lt;k3&gt;［Esc］&lt;/k3&gt;で閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt;to open it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T174104Z">
-        <seg>プロジェクトの参考訳文の一致率を閲覧できます。&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;ツール&lt;/g1&gt; &lt;g3&gt;参考訳文の一致率&lt;/g3&gt;&lt;/m0&gt; からウィンドウを開きます</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083624Z">
+        <seg>プロジェクトの参考訳文の一致率を閲覧できます。&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;ツール&lt;/g1&gt; &lt;g3&gt;参考訳文の一致率&lt;/g3&gt;&lt;/m0&gt; からウィンドウを開きます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;, close with &lt;k1&gt;Esc)&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T173426Z">
-        <seg>取扱説明書を閲覧できます。&lt;k0&gt;F1&lt;/k0&gt; で開き、&lt;k1&gt;［Esc］&lt;/k1&gt; で閉じます</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083614Z">
+        <seg>取扱説明書を閲覧できます。&lt;k0&gt;F1&lt;/k0&gt; で開き、&lt;k1&gt;［Esc］&lt;/k1&gt; で閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26680,16 +26768,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Used to open the window with the statistics of the project, display it, using &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Statistics.&lt;/g3&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T173909Z">
-        <seg>プロジェクトの翻訳状況を表示します。&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;ツール&lt;/g1&gt; &lt;g3&gt;翻訳状況&lt;/g3&gt;&lt;/m0&gt; からウィンドウを開きます</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083620Z">
+        <seg>プロジェクトの翻訳状況を表示します。&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;ツール&lt;/g1&gt; &lt;g3&gt;翻訳状況&lt;/g3&gt;&lt;/m0&gt; からウィンドウを開きます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Used to read the user manual (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, close with &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T173612Z">
-        <seg>タグ検証の結果を閲覧できます。&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; で開き、&lt;k3&gt;Esc&lt;/k3&gt; で閉じます</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083610Z">
+        <seg>タグ検証の結果を閲覧できます。&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; で開き、&lt;k3&gt;Esc&lt;/k3&gt; で閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28056,6 +28144,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T085110Z">
         <seg>OmegaT の個人設定フォルダー（詳しくは&lt;l0&gt;個人設定ファイル&lt;/l0&gt;を参照のこと）にショートカット定義ファイルを配置することによって、既存のショートカットを変更したり、新しいショートカットを追加することができるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T084858Z">
+        <seg>ウィンドウの名称部分をドラッグすると、表示位置を変更したり、独立したウィンドウとして表示させることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29803,32 +29899,32 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>displays dictionary hits found for items in the current segment</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172703Z">
-        <seg>現在の分節で見つかった辞書項目を表示します</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083553Z">
+        <seg>現在の分節で見つかった辞書項目を表示します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>displays terminology found for items in the current segment</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172607Z">
-        <seg>現在の分節で見つかった用語を表示します</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083550Z">
+        <seg>現在の分節で見つかった用語を表示します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>displays the most similar segments from translation memories</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172429Z">
-        <seg>翻訳メモリから、最も類似した分節を表示します</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083548Z">
+        <seg>翻訳メモリから、最も類似した分節を表示します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>displays the translation, provided by MT services</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172730Z">
-        <seg>機械翻訳サービスによる翻訳を表示します</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083555Z">
+        <seg>機械翻訳サービスによる翻訳を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34155,8 +34251,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>where you type and edit the translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172305Z">
-        <seg>翻訳内容を入力、編集する場所です</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083545Z">
+        <seg>翻訳内容を入力、編集する場所です。</seg>
       </tuv>
     </tu>
     <tu>
