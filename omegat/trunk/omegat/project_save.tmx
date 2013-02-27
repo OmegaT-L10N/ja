@@ -8607,6 +8607,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T170408Z">
+        <seg>翻訳入力行の設定により、未翻訳の分節の編集領域は、空欄になっているか、原文と同じテキスト、または最も一致率の高い参考訳文が入った状態になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T080939Z">
@@ -13091,6 +13099,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T065933Z">
         <seg>&lt;e2&gt;&lt;i3/&gt;詳細設定&lt;/e2&gt;を表示すると、翻訳者の名前や、翻訳が最後に更新された日時を指定して、検索することができるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T170744Z">
+        <seg>その分節の訳文を原文と同じにしたいときは、編集領域のテキストを削除して空欄にしておいてください（&lt;k0&gt;［Ctrl+A］&lt;/k0&gt;で全選択して&lt;k1&gt;［Del］&lt;/k1&gt;で削除するか、右クリックから&lt;k1&gt;［訳文を削除］&lt;/k1&gt;を選びます）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27724,6 +27740,14 @@ price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T171636Z">
         <seg>分節化された TTX ファイルを読み込む際は、［設定］→［翻訳入力行...］の［原文と同じ訳文を許可］にチェックが入っていれば、原文＝訳文の状態で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you move to another segment, the translation is validated and stored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T170424Z">
+        <seg>別の分節に移ると、入力した訳文が確定され、翻訳メモリに蓄積されます。</seg>
       </tuv>
     </tu>
     <tu>
