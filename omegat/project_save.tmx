@@ -3932,6 +3932,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Match Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200919Z">
+        <seg>&lt;p0&gt;参考訳文の一致率&lt;/p0&gt; &lt;s1&gt;ツールメニュー&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T173318Z">
@@ -3952,6 +3960,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025149Z">
         <seg>&lt;p0&gt;参考訳文&lt;/p0&gt; &lt;s1&gt;参考訳文の一致率&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;Help browser&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200803Z">
+        <seg>&lt;p0&gt;ヘルプメニュー&lt;/p0&gt; &lt;s1&gt;取扱説明書&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;User Manual...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200734Z">
+        <seg>&lt;p0&gt;ヘルプメニュー&lt;/p0&gt; &lt;s1&gt;取扱説明書...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4820,6 +4844,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Copy text - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T201200Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;コピー - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T094555Z">
@@ -4852,6 +4884,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Paste text - Ctrl+V&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200900Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;貼り付け - Ctrl+V&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T065610Z">
@@ -4876,6 +4916,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Select All - Ctrl+A&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200826Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;すべて選択 - Ctrl+A&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Selecting the match - Ctrl+N&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T175406Z">
@@ -4888,6 +4936,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184135Z">
         <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;タグ検証 - Ctrl+T&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;copy text - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200838Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;コピー - Ctrl+C&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14073,6 +14129,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200618Z">
+        <seg>参考訳文がファジーであることを示す（今のところ #fuzzy マークのついた PO ファイルの翻訳でのみ有効）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162135Z">
@@ -14676,6 +14740,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T183956Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を RTL モードにすると、原文と訳文の両方が RTL モードで表示される点に留意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It shows translation of terms found in the current segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T201951Z">
+        <seg>現在の分節中に見つかった用語を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15920,6 +15992,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194431Z">
         <seg>参考訳文ウィンドウの設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match statistics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200903Z">
+        <seg>参考訳文の一致率</seg>
       </tuv>
     </tu>
     <tu>
@@ -22814,6 +22894,14 @@ of the General Public License from time to time.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201243Z">
         <seg>GNU GENERAL PUBLIC LICENSE（GNU 一般公衆利用許諾契約書）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T201520Z">
+        <seg>用語集ウィンドウには、用語集ファイルにあらかじめ蓄積した、表現や専門用語の対訳を表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33630,6 +33718,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>project statistics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200935Z">
+        <seg>プロジェクトの翻訳状況</seg>
       </tuv>
     </tu>
     <tu>
