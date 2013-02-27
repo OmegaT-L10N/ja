@@ -3836,6 +3836,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane setup - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T192541Z">
+        <seg>&lt;p0&gt;参考訳文&lt;/p0&gt; &lt;s1&gt;参考訳文ウィンドウの設定 - 図&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches statistics&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025149Z">
@@ -4860,6 +4868,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Translating updated source&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T192156Z">
+        <seg>&lt;p0&gt;原文ファイル&lt;/p0&gt; &lt;s1&gt;更新された原文の翻訳&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T154439Z">
@@ -5260,6 +5276,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Fuzzy matches pane&lt;/s1&gt; &lt;t2&gt;Customizing&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T191940Z">
+        <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;参考訳文ウィンドウ&lt;/s1&gt; &lt;t2&gt;カスタマイズ&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T042336Z">
@@ -5280,6 +5304,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T172911Z">
         <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;参考訳文ウィンドウ - 図&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Matches pane setup - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T192554Z">
+        <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;参考訳文ウィンドウの設定 - 図&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8531,6 +8563,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131344Z">
         <seg>独自タグの正規表現：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing the Fuzzy matches pane</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T192210Z">
+        <seg>参考訳文ウィンドウのカスタマイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13383,6 +13423,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T192356Z">
+        <seg>&lt;g0&gt;［設定］→［外部 TMX ファイル...］&lt;/g0&gt;で表示されるダイアログから、参考訳文ウィンドウの表示方法を設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T085046Z">
@@ -15752,6 +15800,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T084231Z">
         <seg>参考訳文ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches pane setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T193446Z">
+        <seg>参考訳文ウィンドウの設定</seg>
       </tuv>
     </tu>
     <tu>
