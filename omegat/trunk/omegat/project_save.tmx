@@ -118,6 +118,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194444Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${creationDate}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194450Z">
+        <seg>${creationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${creationID}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194449Z">
+        <seg>${creationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diff}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194440Z">
+        <seg>${diff}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${extension-0} docx</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163813Z">
@@ -158,6 +190,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194445Z">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${filePath}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194447Z">
+        <seg>${filePath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194448Z">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194452Z">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${id}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194436Z">
+        <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${nameOnly-0} Document</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163801Z">
@@ -178,6 +250,30 @@
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T163808Z">
         <seg>${nameOnly-2} Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194443Z">
+        <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194442Z">
+        <seg>${score}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${sourceText}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194438Z">
+        <seg>${sourceText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +306,14 @@
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T160128Z">
         <seg>${targetLocaleLCID) -- 訳文ファイルの Microsoft ロケール（「xx-yy」形式）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${targetText}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194439Z">
+        <seg>${targetText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5236,6 +5340,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;User Interface&lt;/p0&gt; &lt;s1&gt;Match pane setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194428Z">
+        <seg>&lt;p0&gt;ユーザーインターフェース&lt;/p0&gt; &lt;s1&gt;参考訳文ウィンドウの設定&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Other windows&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172333Z">
@@ -6752,6 +6864,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155832Z">
         <seg>認証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Author of the match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195825Z">
+        <seg>参考訳文の翻訳者</seg>
       </tuv>
     </tu>
     <tu>
@@ -8627,6 +8747,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T180546Z">
         <seg>TRADOS Multiterm のテキスト出力機能を用いて作成した用語集は、拡張子を &lt;f1&gt;.tab&lt;/f1&gt; として、最初のフィールドを原文の用語、２番目を訳文の用語としておけば、特に修正を加えることなく &lt;a0&gt;OmegaT&lt;/a0&gt; で使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195844Z">
+        <seg>参考訳文の更新日</seg>
       </tuv>
     </tu>
     <tu>
@@ -11195,6 +11323,14 @@ make exceptions for this.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130925Z">
         <seg>すべてを検出する設定にすると、通常のテキストに対しては誤検出をもたらす可能性もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full path of the TMX</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195719Z">
+        <seg>TMX ファイルのフルパス</seg>
       </tuv>
     </tu>
     <tu>
@@ -15780,6 +15916,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match pane setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194431Z">
+        <seg>参考訳文ウィンドウの設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match statistics window</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153856Z">
@@ -16240,6 +16384,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010737Z">
         <seg>NO WARRANTY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the TMX</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195707Z">
+        <seg>TMX ファイル名</seg>
       </tuv>
     </tu>
     <tu>
@@ -16968,6 +17120,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165646Z">
         <seg>検索結果の上限数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of the match from 1 to 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194607Z">
+        <seg>1 から 5 までの、参考訳文の番号</seg>
       </tuv>
     </tu>
     <tu>
@@ -18302,6 +18462,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path of the TMX starting from the root of /tm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195811Z">
+        <seg>tm フォルダーを起点にした TMX ファイルの相対パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133522Z">
@@ -18346,6 +18514,30 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T031501Z">
         <seg>ペアになったタグに特に注意する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage adjusted</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195657Z">
+        <seg>補正した一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage with tokenizer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195359Z">
+        <seg>トークナイザーの一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage without numbers and tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195548Z">
+        <seg>数字とタグを除いた一致率</seg>
       </tuv>
     </tu>
     <tu>
@@ -21441,6 +21633,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source text of the match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194614Z">
+        <seg>参考訳文の原文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155742Z">
@@ -21605,6 +21805,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181640Z">
         <seg>再現するまでの手順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text, you are translated, that has been updated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195348Z">
+        <seg>原文と参考訳文との差異を表示します。&lt;e0&gt;ヒント：&lt;/e0&gt;更新された文書の翻訳時に使うとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22160,6 +22368,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130427Z">
         <seg>対応する訳文：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target text of the match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194621Z">
+        <seg>参考訳文の訳文</seg>
       </tuv>
     </tu>
     <tu>
@@ -22954,6 +23170,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents can be customized using following variables:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194412Z">
+        <seg>表示内容は、次の変数を使ってカスタマイズできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145040Z">
@@ -23183,6 +23407,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T053114Z">
         <seg>拡張子は必ず &lt;f0&gt;.txt &lt;/f0&gt; にしてください（拡張子を指定しなければ、自動的に付加されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The figure above shows the default match display template.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194346Z">
+        <seg>上の図は、参考訳文表示テンプレートのデフォルトの状態を示しています。</seg>
       </tuv>
     </tu>
     <tu>
