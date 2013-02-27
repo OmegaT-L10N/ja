@@ -5212,6 +5212,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Editor pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T155409Z">
+        <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;編集ウィンドウ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T042336Z">
@@ -13628,6 +13636,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T130920Z">
         <seg>一方、スロヴェニア語の方は、どちらの単語も名詞として翻訳されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above case, the segments already translated are shown in yellow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T160856Z">
+        <seg>上記の例では、翻訳済みの分節が黄色でハイライト表示されています（［表示］→［翻訳済み分節を色づけ］を有効に設定しているため）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22343,6 +22359,14 @@ language.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T155734Z">
+        <seg>編集ウィンドウには、部分的に翻訳されたテキストが表示されます。つまり、翻訳済みのテキストは訳文言語で表示され、未翻訳のテキストは原文言語で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Free Software Foundation may publish revised and/or new versions
 of the General Public License from time to time.</seg>
       </tuv>
@@ -22854,6 +22878,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T181429Z">
         <seg>訳文ファイルの表示モードは、表示や編集に使用するプログラム（Microsoft Word のような）の中で修正する必要があります（詳細は、そのプログラムの取扱説明書を参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T160521Z">
+        <seg>テキストは分節の集まりとして分割表示され、スクロールで文書内を移動でき、どの分節でもダブルクリックすることで編集できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23667,6 +23699,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121205T103108Z">
         <seg>プロジェクトフォルダー「{0}」を作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T155358Z">
+        <seg>例示されたプロジェクトは、繰り返しを除いたプロジェクトの分節がすべて翻訳済みになっていることから明らかなように、翻訳が完了していることが分かります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25064,6 +25104,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T105216Z">
         <seg>これはインラインの整形を実際には使わないテキスト（たとえば OCR ソフトが出力した PDF ファイルや、変換精度の低い .odt ファイルや .docx ファイルなど）を扱う場合に役に立ちます。削除されるのはインラインのタグのみです。したがって通常は、訳文ファイルを開くのに特に支障は無いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is where you type and edit your translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T155414Z">
+        <seg>翻訳内容を入力、編集する場所です。</seg>
       </tuv>
     </tu>
     <tu>
