@@ -1776,6 +1776,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/g0&gt;The window features a 3 column table with a link to the segment and its source and target contents:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055518Z">
+        <seg>ウィンドウは３列の表からなり、リンク付きの分節番号、原文、訳文の内容がそれぞれ表示されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/l1&gt;Example:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050645Z">
@@ -2300,6 +2308,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T162249Z">
         <seg>&lt;e0&gt;&lt;g1&gt;分節化規則...&lt;/g1&gt; &lt;/e0&gt;ボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;i1/&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g2&gt;Import Source Files..."&lt;/g2&gt; button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054507Z">
+        <seg>&lt;e0&gt;&lt;i1/&gt;プロジェクトへのファイル追加：&lt;/e0&gt;&lt;g2&gt;［原文ファイル追加...］&lt;/g2&gt;ボタンをクリックして、原文ファイルを追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4972,6 +4988,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Adding files to the project&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054205Z">
+        <seg>&lt;p0&gt;原文ファイル&lt;/p0&gt; &lt;s1&gt;プロジェクトへのファイル追加&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T143351Z">
@@ -5096,6 +5120,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T161329Z">
         <seg>&lt;p0&gt;TMX&lt;/p0&gt; &lt;s1&gt;翻訳メモリ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tag validation&lt;/p0&gt; &lt;s1&gt;Shortcuts, Tags&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055130Z">
+        <seg>&lt;p0&gt;タグ検証&lt;/p0&gt; &lt;s1&gt;ショートカット、タグ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tag validation&lt;/p0&gt; &lt;s1&gt;Window - figure&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055542Z">
+        <seg>&lt;p0&gt;タグ検証&lt;/p0&gt; &lt;s1&gt;ウィンドウ - 図&lt;/s1&gt; &lt;s2&gt;タグ&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7906,6 +7946,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the link to jump to the segment in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055649Z">
+        <seg>分節番号をクリックすると、編集ウィンドウにその分節を表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the Import source files... to select your source file.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T095945Z">
@@ -8323,6 +8371,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T202237Z">
         <seg>必要に応じて訳文を修正（上の例でいえばタグ &lt;i2&gt;&lt;/i2&gt; ペアの欠落）します。&lt;g0&gt;Ctrl+T&lt;/g0&gt; を押すと、他のエラーを修正するためにタグ検証ウィンドウに戻ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Correct the error if necessary and press &lt;g0&gt;Ctrl+T&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055733Z">
+        <seg>必要に応じて訳文を修正し、 &lt;g0&gt;［Ctrl+T］&lt;/g0&gt;を押すと再度タグ検証ウィンドウに戻り、その他のエラーを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14144,6 +14200,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the first and third case above tags are paired incorrectly, and in the second case the &lt; sign is missing from the starting tag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055838Z">
+        <seg>上図の例のうち、１番目と３番目はタグの組み合わせが間違っている例で、２番目は開始タグの &lt; 文字が抜けている例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063629Z">
@@ -18276,6 +18340,15 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）フォーマットの問題で、閉じタグが後ろの分節に別れているため、この分節でタグを指定することができません。</note>
+      <tuv lang="EN">
+        <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055446Z">
+        <seg>［Ctrl+T］でウィンドウを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
@@ -21056,10 +21129,26 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054148Z">
+        <seg>詳しくは「&lt;e0&gt;分節化規則&lt;/e0&gt;」の章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the chapter on &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T062822Z">
         <seg>詳しくは「&lt;l2&gt;正規表現&lt;/l2&gt;」の章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the chapter&lt;e3&gt; &lt;l4&gt;Searches&lt;/l4&gt; &lt;/e3&gt;for more information about the search window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055107Z">
+        <seg>検索ウィンドウの詳細については「&lt;e3&gt;&lt;l4&gt;検索&lt;/l4&gt;&lt;/e3&gt;」の章を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22508,6 +22597,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag errors are cases in which the tags in the translation do not correspond in order and number to the original segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055932Z">
+        <seg>タグエラーは、タグ操作によって、原文の分節にあるタグの登場順序や数が、訳文と一致しない場合におこります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag errors are tag sequences in the translation in which the same tag order and number as in the original segment is not reproduced.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T202627Z">
@@ -22656,6 +22753,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T200859Z">
         <seg>タグは常に単一であるか、ペアになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055556Z">
+        <seg>原文と訳文で比較しやすいよう、タグは青い太字で強調表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24784,6 +24889,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search window consists of a text field for search strings or keywords, flags and radio buttons for setting up the search and a display area containing the results of the search.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054934Z">
+        <seg>検索ウィンドウは、検索文字列またはキーワードを入力するテキスト領域と、検索の設定を行うラジオボタンやチェックボックス、そしてその下の検索結果を表示する領域からなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second argument &lt;l2&gt;--pseudotranslatetype&lt;/l2&gt; is optional.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182120Z">
@@ -25023,6 +25136,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033548Z">
         <seg>タブ文字（'\u0009'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tag validation window detects and lists any tag errors and inconsistencies in the translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055256Z">
+        <seg>タグ検証ウィンドウには、訳文中のタグの間違いや不整合の可能性がある分節の一覧が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25814,6 +25935,14 @@ under the terms of this General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054629Z">
+        <seg>これを行うと、選択したファイルが &lt;f3&gt;source&lt;/f3&gt; フォルダーへ追加され、プロジェクトが再読み込みされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This creates a folder called &lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; &lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164820Z">
@@ -26352,6 +26481,14 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This, however, should generally be avoided once you have started translating the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054121Z">
+        <seg>しかし、いったんプロジェクトの翻訳を開始したら、規則の変更はなるべく行わないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T133948Z">
@@ -26756,6 +26893,14 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T042047Z">
         <seg>設定を変更する場合は、フィルターを選択して&lt;e0&gt;［設定...］&lt;/e0&gt; を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open a new search window, use &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; in the Main window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054907Z">
+        <seg>新しい検索ウィンドウは、メインウィンドウ上で &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; を押すと開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29326,6 +29471,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054756Z">
+        <seg>&lt;g4&gt;［MediaWiki から原文ファイルを追加...］&lt;/g4&gt;ボタンを押して URL を指定すると、MediaWiki 形式で記述されたウェブページを原文ファイルとして追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T025347Z">
@@ -29338,6 +29491,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181510Z">
         <seg>&lt;u6&gt;バグ報告&lt;/u6&gt;や&lt;u7&gt;機能改善リクエスト&lt;/u7&gt;も行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also have several search windows open simultaneously.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054833Z">
+        <seg>同時に複数の検索ウィンドウを開くこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29659,6 +29820,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T180922Z">
         <seg>&lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt;（アルファベットの O です。数字の 0 ではありません）を押すと、この表示を切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the search window to find specific segments in a project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054818Z">
+        <seg>プロジェクト内のある分節を見つけるために、検索ウィンドウを活用できます。</seg>
       </tuv>
     </tu>
     <tu>
