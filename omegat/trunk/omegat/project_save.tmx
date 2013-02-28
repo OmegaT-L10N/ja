@@ -21738,6 +21738,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplifying the original text formatting in the source file before commencing translation greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T060137Z">
+        <seg>原文テキストの整形を単純にしておくと、タグは減ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T032224Z">
@@ -21893,6 +21901,14 @@ REPAIR OR CORRECTION.</seg>
         <seg>Some tag manipulations are necessary and are benign, others will cause problems when the translated document is created.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T202746Z">
+        <seg>タグ操作には、必要なもの、行っても問題ないものもありますが、中には翻訳後の文書を作成した際に問題となるものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some tag scenarios flagged in the tag validation window are necessary and are benign, others will cause problems when the translated document is created.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T060012Z">
         <seg>タグ操作には、必要なもの、行っても問題ないものもありますが、中には翻訳後の文書を作成した際に問題となるものもあります。</seg>
       </tuv>
     </tu>
@@ -22776,6 +22792,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
         <seg>Tags generally represent formatting in some form of the original text.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T030337Z">
+        <seg>タグがあるということは、多くの場合、ある種のフォーマット・整形がそこで行われているということを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags generally represent some kind of formatting in the original text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T060037Z">
         <seg>タグがあるということは、多くの場合、ある種のフォーマット・整形がそこで行われているということを表します。</seg>
       </tuv>
     </tu>
@@ -24391,6 +24415,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T061401Z">
+        <seg>参考訳文の一致率は、&lt;g0&gt;［ツール］→［参考訳文の一致率］&lt;/g0&gt;から開きます。値の計算には CPU を多く使用し、時間がかかることがあります。そのため、処理中にはプログレスバーが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T175037Z">
@@ -25104,6 +25136,22 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T155518Z">
         <seg>綴り確認機能は、訳文の言語コードから使用する言語を判別します。たとえば、訳文言語がブラジルポルトガル語（PT_BR）である場合、辞書が存在するフォルダーには次の２つのファイル &lt;e0&gt;pt_br.aff&lt;/e0&gt; と &lt;e1&gt;pt_br.dic&lt;/e1&gt; が存在する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The statistics shown is available as a tab-separated &lt;f1&gt;project_stats.txt&lt;/f1&gt; file (subfolder &lt;f2&gt;omegat&lt;/f2&gt;), ready to be loaded into a spreadsheet program for the user's convenience.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T060748Z">
+        <seg>翻訳状況は &lt;f2&gt;omegat&lt;/f2&gt; フォルダーに &lt;f1&gt;project_stats.txt&lt;/f1&gt; ファイルとしても出力されます。タブ区切り形式になっており、任意の表計算プログラムで開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The statistics window - accessed via &lt;e0&gt;Tools&gt;Statistics &lt;/e0&gt;- shows the statistics of the current OmegaT project, both in the summary form as well as in detail for every file to be translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T060516Z">
+        <seg>翻訳状況ウィンドウは、&lt;e0&gt;［ツール］→［翻訳状況］&lt;/e0&gt;から開きます。現在のプロジェクトの翻訳状況について、全体の概要とファイル単位の詳細な統計情報の両方を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29820,6 +29868,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T180922Z">
         <seg>&lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt;（アルファベットの O です。数字の 0 ではありません）を押すと、この表示を切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use &lt;g3&gt;Ctrl+A &lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;, Ctrl+C &lt;i6/&gt;&lt;/g5&gt;, &lt;g7&gt;Ctrl+V &lt;i8/&gt;&lt;/g7&gt; to copy/paste the contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T060934Z">
+        <seg>またウィンドウの内容は &lt;g3&gt;［Ctrl+A］&lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;、［Ctrl+C］ &lt;i6/&gt;&lt;/g5&gt;、&lt;g7&gt;［Ctrl+V］&lt;i8/&gt;&lt;/g7&gt; でコピー/貼り付けできます。</seg>
       </tuv>
     </tu>
     <tu>
