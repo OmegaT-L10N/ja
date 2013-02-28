@@ -5682,6 +5682,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A given source segment may require several different translations, depending on the context.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T025048Z">
+        <seg>同じ内容の原文分節が複数存在し、それぞれの文脈に応じて異なる対訳が必要になることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T064428Z">
@@ -12812,6 +12820,14 @@ Foundation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T022334Z">
         <seg>現在の分節がファイル末尾である場合は、次のファイルの最初の分節へ移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T025202Z">
+        <seg>もし現在の翻訳がしっくりこない場合は、&lt;g0&gt;［編集］→［新しい訳文を登録］&lt;/g0&gt;コマンドを選んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24216,8 +24232,8 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       <tuv lang="EN">
         <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T021730Z">
-        <seg>同じ内容の原文分節が複数存在し、それぞれの文脈に応じて異なる対訳を要求されることがあります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T024435Z">
+        <seg>同じ内容の原文分節が複数存在し、それぞれの文脈に応じて異なる対訳が必要になることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24807,6 +24823,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153043Z">
         <seg>訳文ファイル名構成例は特別な文法で記述されています。これを編集したい場合は、 &lt;e0&gt;編集...&lt;/e0&gt; をクリックして&lt;i1/&gt;構成例編集ダイアログを使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T025749Z">
+        <seg>その後に入力した訳文は、「新しい訳文」として扱われます。同じ内容の他の原文に対する既存の訳文には影響しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29162,6 +29186,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175915Z">
         <seg>まず、そのような箇所をまったく翻訳せずに残しておくことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T025743Z">
+        <seg>また、「新しい訳文」のうちの（もっとも普遍的な）１つを、既定値に設定することもできます。この場合は、&lt;g1&gt;［編集］→［既定値訳文として使用］&lt;/g1&gt;を選んでください。</seg>
       </tuv>
     </tu>
     <tu>
