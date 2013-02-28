@@ -4300,6 +4300,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T092823Z">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;チームプロジェクト&lt;/s1&gt; &lt;s2&gt;チームプロジェクト&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055159Z">
@@ -7982,6 +7990,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T112352Z">
         <seg>&lt;g0&gt;［新しい辞書を組み込み］&lt;/g0&gt;ボタンをクリックして［辞書の組み込み］ウィンドウを表示し、組み込みたい辞書を選んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on a link as you would do in a web browser brings the desired page to the front.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T092250Z">
+        <seg>ウェブブラウザー上での操作と同様に、各リンクをクリックすると対応したページを表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17664,6 +17680,14 @@ mouse-clicks or menu items--whatever suits your program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Team Projects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T092829Z">
+        <seg>OmegaT チームプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT User Interface Language</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172340Z">
@@ -18450,6 +18474,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131001Z">
         <seg>コマンドラインウィンドウを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening the user manual in this way also enables you to follow external links, as the built-in help browser does not accept external Internet links.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T092650Z">
+        <seg>こうすることで、OmegaT 組み込みのヘルプブラウザーからは開けない外部サイトへのリンクも、たどって開くことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25508,6 +25540,22 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual is an HTML document with links to different chapters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T092054Z">
+        <seg>この取扱説明書は、章から章へリンクした HTML 形式の文書です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual is located in the docs subfolder under the OmegaT installation folder, so you may can, for instance, view the English documentation by opening the &lt;f0&gt;docs/en/index.html &lt;/f0&gt;file in your browser.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T092306Z">
+        <seg>取扱説明書は OmegaT のインストールフォルダー内の docs フォルダーにあります。たとえば英語版を見たければ &lt;f0&gt;docs/en/index.html&lt;/f0&gt; ファイルをウェブブラウザーで開けば閲覧できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T162655Z">
@@ -26259,6 +26307,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T070322Z">
         <seg>この情報は、文節数、単語数、文字数（空白を除く）、文字数（空白を含む）それぞれについて、計算されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a preliminary, unfinished material - feb 17th 2013</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T093338Z">
+        <seg>これは未完の草稿です - 2013/2/17</seg>
       </tuv>
     </tu>
     <tu>
@@ -28605,6 +28661,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152544Z">
         <seg>ヴェンダ語（Venda）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version control - introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T093219Z">
+        <seg>バージョンコントロール - はじめに</seg>
       </tuv>
     </tu>
     <tu>
@@ -32436,6 +32500,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://git-scm.com/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T093348Z">
+        <seg>http://git-scm.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182552Z">
@@ -32512,6 +32584,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T010242Z">
         <seg>http://stardict.sourceforge.net/index.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://subversion.apache.org</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T093345Z">
+        <seg>http://subversion.apache.org/</seg>
       </tuv>
     </tu>
     <tu>
