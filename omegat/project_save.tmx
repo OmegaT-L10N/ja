@@ -20117,6 +20117,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repetitions stand for identical segments present several times in the text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T072345Z">
+        <seg>「繰り返し」は、同一内容の分節が何度も使用されている場合を表しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162509Z">
@@ -22154,6 +22162,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spaces between segments are not taken into account in the last column.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T072108Z">
+        <seg>最終列の「文字数（空白を含む）」の値には、分節と分節のあいだの空白文字は含まれていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121456Z">
@@ -24040,6 +24056,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131309Z">
         <seg>まず最初に：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first segment and its contents will be classified as "no match", and the rest of them as a repetition of the first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T072623Z">
+        <seg>最初の分節とその内容は「一致しない」に分類されます。そして残りは、最初の分節の「繰り返し」として分類されます。</seg>
       </tuv>
     </tu>
     <tu>
