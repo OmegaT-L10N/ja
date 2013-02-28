@@ -1173,6 +1173,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T051651Z">
+        <seg>ここでいう「重複」は、大文字と小文字を区別します。「Run」と「run」は別物として数えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This alternative is</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010704Z">
@@ -2829,8 +2837,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T193800Z">
-        <seg>&lt;e0&gt;警告：&lt;/e0&gt;ファイルフィルターの設定を変更すると、文節が変化することがあります。場合によっては、翻訳を一からやり直すことになるかもしれません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T050547Z">
+        <seg>&lt;e0&gt;警告：&lt;/e0&gt;ファイルフィルターの設定を変更すると、分節が変化することがあります。場合によっては、翻訳を一からやり直すことになるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7930,6 +7938,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on any file will open it for translation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T050203Z">
+        <seg>クリックすると、翻訳作業のために開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141140Z">
@@ -10703,6 +10719,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T050957Z">
+        <seg>各ファイル項目には、ファイル名、ファイルフィルターの形式、エンコーディング、分節数が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File filters</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T154010Z">
@@ -11149,8 +11173,8 @@ you have.</seg>
       <tuv lang="EN">
         <seg>For example, if you wish to create a pseudo-translation for testing purposes, OmegaT enables you to create an additional tmx file that contains all segments of the project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180624Z">
-        <seg>たとえば、テストのために疑似的な翻訳を行いたいような場合です。OmegaT はプロジェクトの全文節を含む、別の TMX ファイルを作成することができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T050556Z">
+        <seg>たとえば、テストのために疑似的な翻訳を行いたいような場合です。OmegaT はプロジェクトの全分節を含む、別の TMX ファイルを作成することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19068,6 +19092,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt;Enter&lt;/k0&gt; will move the Editor pane to the top of the file selected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T050404Z">
+        <seg>&lt;k0&gt;Enter&lt;/k0&gt; キーを押すと、編集ウィンドウに遷移して、選択したファイルの先頭に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171034Z">
@@ -24800,6 +24832,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T051601Z">
+        <seg>&lt;e0&gt;繰り返しを除いた&lt;/e0&gt;分節数とは、すべての分節から重複するものを除いて数えた合計です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The settings in your project indicate which is the source and which the target language.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T143933Z">
@@ -25411,6 +25451,14 @@ prohibited by law if you do not accept this License.</seg>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010714Z">
         <seg>These actions are
 prohibited by law if you do not accept this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the files present in the Source files folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T050153Z">
+        <seg>対象は、原文ファイルフォルダーに存在し、OmegaT が扱える形式のファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34979,10 +35027,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the file currently available in the Editor pane is highlighted with a blue background.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T050247Z">
+        <seg>現在、編集ウィンドウで開かれているファイルは、青い背景色でハイライト表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T050002Z">
+        <seg>プロジェクト中の翻訳可能なファイルの全リスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the project only (default setting)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T054616Z">
         <seg>プロジェクトのみ（デフォルトの設定）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T051207Z">
+        <seg>表の最下部には、「すべての分節数」と「繰り返しを除いた分節数」、「繰り返しを除いた翻訳済み分節数」が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
