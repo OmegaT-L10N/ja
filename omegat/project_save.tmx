@@ -3563,6 +3563,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Comments&lt;/p0&gt; &lt;s1&gt;Comments pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T031734Z">
+        <seg>&lt;p0&gt;コメント&lt;/p0&gt; &lt;s1&gt;コメントウィンドウ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Customizing OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T035253Z">
@@ -5472,6 +5480,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T042336Z">
         <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;用語集ウィンドウ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Machine Translation pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T031748Z">
+        <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;機械翻訳ウィンドウ&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14088,6 +14104,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T031716Z">
+        <seg>下記の例では、翻訳者向けに書かれた、訳文の文字数制限に関する注意事項をコメントウィンドウに表示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063629Z">
@@ -15742,6 +15766,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T132750Z">
         <seg>機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translation pane</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T031745Z">
+        <seg>機械翻訳ウィンドウ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21633,6 +21665,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T031405Z">
+        <seg>ファイルの中には、翻訳作業向けに特化した形式があります。たとえば PO ファイルは、翻訳者向けのコメント情報を格納できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165010Z">
@@ -24931,6 +24971,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T030734Z">
+        <seg>翻訳者は現在の分節にメモを添付することができます。後で現在の分節に戻って翻訳しなおしたい場合や、複数訳文の他の値を確認してまわる場合、同僚に意見を聞きたい場合などに使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translaiton.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T132410Z">
@@ -26052,6 +26100,14 @@ be a consequence of the rest of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T074014Z">
         <seg>これにより、データはどこへ消えた？という事態を未然に防ぐことができます。詳しくは&lt;l2&gt;その他&lt;/l2&gt;の章に収録されている『データを失わないために』を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This way the translator can be provided the context about the segment to be translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T031341Z">
+        <seg>これによって翻訳者は、翻訳する分節に関する文脈を知ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29098,6 +29154,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T025541Z">
         <seg>不明な点があればユーザーグループに問い合わせてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T030854Z">
+        <seg>メモを見るには、&lt;g0&gt;［移動］→［次のメモ］&lt;/g0&gt; and &lt;g1&gt;［移動］→［前のメモ］&lt;/g1&gt;を使います。</seg>
       </tuv>
     </tu>
     <tu>
