@@ -12854,8 +12854,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If one does not wish to use external TMs for counting, one will either have to empty the /tm folder or change the project setup (temporarily) so that the value for /tm points to a different location.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T083324Z">
-        <seg>外部補助メモリを一致率に含めたくない場合は、tm フォルダーを空にしておくか、またはプロジェクトの設定で（一時的に）翻訳メモリフォルダーを</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T083409Z">
+        <seg>外部補助メモリを一致率に含めたくない場合は、tm フォルダーを空にしておくか、またはプロジェクトの設定で翻訳メモリフォルダーを（一時的に）別の場所に変更してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23435,6 +23435,14 @@ of the General Public License from time to time.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Match Statistics are tab-separated and you can use &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; to copy/paste them, for instance into a spreadsheet or into your cost-accounting application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T084004Z">
+        <seg>参考訳文の一致率はタブ区切り形式になっており、&lt;g0&gt;［Ctrl+A］&lt;i1/&gt;&lt;/g0&gt;、&lt;g2&gt;［Ctrl+C］&lt;i3/&gt;&lt;/g2&gt;、&lt;g4&gt;［Ctrl+V］&lt;i5/&gt;&lt;/g4&gt;でコピー/貼り付けして、任意の表計算プログラムや原価計算プログラムで利用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173834Z">
@@ -29978,8 +29986,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>You can use &lt;g3&gt;Ctrl+A &lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;, Ctrl+C &lt;i6/&gt;&lt;/g5&gt;, &lt;g7&gt;Ctrl+V &lt;i8/&gt;&lt;/g7&gt; to copy/paste the contents.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T060934Z">
-        <seg>またウィンドウの内容は &lt;g3&gt;［Ctrl+A］&lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;、［Ctrl+C］ &lt;i6/&gt;&lt;/g5&gt;、&lt;g7&gt;［Ctrl+V］&lt;i8/&gt;&lt;/g7&gt; でコピー/貼り付けできます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T083820Z">
+        <seg>またウィンドウの内容は &lt;g3&gt;［Ctrl+A］&lt;i4/&gt;&lt;/g3&gt;、&lt;g5&gt;［Ctrl+C］&lt;i6/&gt;&lt;/g5&gt;、&lt;g7&gt;［Ctrl+V］&lt;i8/&gt;&lt;/g7&gt;でコピー/貼り付けできます。</seg>
       </tuv>
     </tu>
     <tu>
