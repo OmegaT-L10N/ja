@@ -16420,6 +16420,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T053934Z">
+        <seg>分節化規則を修正すると、「すべての分節数」と「繰り返しを除いた分節数」が変わる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mongolian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T073718Z">
@@ -17024,6 +17032,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T012319Z">
         <seg>引数は二重のハイフン記号（-）で始まることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T053732Z">
+        <seg>ただし、その数から、繰り返しの内容にどのていど強い相関があるかを推し量ることはできません。とても長い文章が何度も繰り返し登場する場合もありますし（おめでとうございます）、短いキーワードが並んだ表が含まれているだけの場合もあります（気を落とさずに）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23072,6 +23088,14 @@ language.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T052812Z">
+        <seg>omegat フォルダーにある &lt;f0&gt;project_stats.txt&lt;/f0&gt; には、各ファイルに含まれる分節についての詳細な情報が記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;project_save.tmx&lt;/f1&gt; file contains all the segments that have been recorded in memory since you started the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T162117Z">
@@ -23687,6 +23711,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T164520Z">
         <seg>ここで表示されるウィンドウは［プロジェクト設定］ダイアログ（詳細は右リンク先を参照）と同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T052636Z">
+        <seg>「すべての分節数」と「繰り返しを除いた分節数」の差から、すべての文中に繰り返しの表現がどれくらいあるかを大まかに見積もることができます。</seg>
       </tuv>
     </tu>
     <tu>
