@@ -13114,6 +13114,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the translation for several identical source segments already exists in the translation memory of the project, these segments, together with other, already translated unique segments, will be classified as an "Exact match".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T081556Z">
+        <seg>プロジェクトの翻訳メモリの中に、同一の複数分節に対応する翻訳が存在する場合、これらの分節は、他の翻訳済みの繰り返しの無い分節と一緒に、「完全に一致」に分類されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T060009Z">
@@ -24607,6 +24615,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The number of unique segments, if needed, is provided in the standard statistics window, regardless of whether they have been translated or not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T081819Z">
+        <seg>繰り返しの無い分節数が必要であれば、翻訳済みか否かにかかわらず、翻訳状況ウィンドウの方で確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T174917Z">
@@ -24869,6 +24885,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050252Z">
         <seg>設定ファイルは、 &lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rest of the categories (50-100%) involves untranslated segments with a fuzzy match.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T081949Z">
+        <seg>残りのグループ（50 - 100%）は、参考訳文を伴う未翻訳の分節から構成されます。</seg>
       </tuv>
     </tu>
     <tu>
