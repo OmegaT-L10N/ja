@@ -14256,6 +14256,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the window, the manual and two buttons are displayed: Back and Contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T090906Z">
+        <seg>ウィンドウには［戻る］と［目次］の２つのボタンがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL-ZH translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T124830Z">
@@ -18193,6 +18201,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111540Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; をインストールした後は、コマンドラインからの直接実行や、起動引数を記述したスクリプトによる実行も可能です。あるいは &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; をクリックして直接起動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T090609Z">
+        <seg>いったん計算が終了すると、そのデータは &lt;f6&gt;omegat/project_stats_match.txt&lt;/f6&gt; としてファイルに保存されます。ファイルの中には、タイムスタンプも出力されています。翻訳状況と違い、参考訳文の一致率はリアルタイムで計算されないので、すぐに古くなってしまいます。利用する際は、タイムスタンプをよく確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24257,6 +24273,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201152Z">
         <seg>過去ログは公開されており、閲覧するだけなら参加登録は必要ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help browser (which displays this manual) can be opened by pressing &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; or navigating to &lt;g2&gt;&lt;i3/&gt;Help → User Manual...&lt;/g2&gt; in the main menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T090837Z">
+        <seg>この取扱説明書を表示するには、&lt;k0&gt;&lt;i1/&gt;［F1］&lt;/k0&gt;を押すか、メニューから&lt;g2&gt;&lt;i3/&gt;［ヘルプ］→［取扱説明書...］&lt;/g2&gt;を選びます。</seg>
       </tuv>
     </tu>
     <tu>
