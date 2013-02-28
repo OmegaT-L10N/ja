@@ -17308,6 +17308,22 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that there could be minor differences between the OmegaT counts and the numbers, provided by other CAT tools.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T070456Z">
+        <seg>OmegaT と他の翻訳支援ツールでは、一致率に相違が見られる場合がありますので、注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that these totals are a good (or as good as they can be) approximation of the work involved in the project and thus can serve as a basis for your cost and price calculations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T071429Z">
+        <seg>これらの合計値は、そのプロジェクトに必要な作業を示す、かなり（少なくとも可能な限り）良い指標になります。したがって、翻訳の費用と価格を見積もるための基礎資料として使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T143841Z">
@@ -26131,6 +26147,14 @@ under the terms of this General Public License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110123Z">
         <seg>この情報は、Solaris SPARC/x86/x64、Linux x64/PowerPC、Windows x64 などのシステムを対象としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This information is computed for segments as well as for words and for characters (without and including spaces).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T070322Z">
+        <seg>この情報は、文節数、単語数、文字数（空白を除く）、文字数（空白を含む）それぞれについて、計算されます。</seg>
       </tuv>
     </tu>
     <tu>
