@@ -11583,6 +11583,14 @@ make exceptions for this.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy matches can come from the &lt;f0&gt;/tm&lt;/f0&gt; folder as well - and not just from the internal translation memory in &lt;f1&gt;/omegaT,&lt;/f1&gt; as is the case for repetitions and exact matches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T082556Z">
+        <seg>「繰り返し」と「完全に一致」に対する参考訳文は、&lt;f1&gt;omegat&lt;/f1&gt; フォルダーの内部翻訳メモリのみならず、&lt;f0&gt;tm&lt;/f0&gt; フォルダーの外部補助メモリも参照します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy matches pane</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T172823Z">
@@ -12840,6 +12848,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T044814Z">
         <seg>この設定を有効にすると、未翻訳の PO 分節（たいていは段落全体）を空のままにして訳文ファイルを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If one does not wish to use external TMs for counting, one will either have to empty the /tm folder or change the project setup (temporarily) so that the value for /tm points to a different location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T083324Z">
+        <seg>外部補助メモリを一致率に含めたくない場合は、tm フォルダーを空にしておくか、またはプロジェクトの設定で（一時的に）翻訳メモリフォルダーを</seg>
       </tuv>
     </tu>
     <tu>
@@ -24659,6 +24675,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T132204Z">
         <seg>オンライン版の Google 翻訳には、他の候補を表示したり、フィードバックを送信する機能があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only difference with matches from the &lt;f2&gt;project_save&lt;/f2&gt; translation memory is that external TMs cannot give exact matches, only 100%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T083141Z">
+        <seg>内部翻訳メモリである &lt;f2&gt;project_save.tmx&lt;/f2&gt; との唯一の違いは、外部補助メモリの方は「完全に一致」ではなく「100%」に分類されるという点です。</seg>
       </tuv>
     </tu>
     <tu>
