@@ -1808,6 +1808,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/u2&gt;Other operating systems (Linux, OS X) offer similar packages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T141620Z">
+        <seg>Linux や Mac OS X など、他の OS 向けにも同様のパッケージが存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T171249Z">
@@ -2850,11 +2858,12 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）原文の表現が微妙。OmegaT とは別にクライアントが必要とも読めるような。意訳します。</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or GIT client must be installed on computers, involved in the OmegaT project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T123357Z">
-        <seg>&lt;e0&gt;VCS クライアント：&lt;/e0&gt;To interface with the server an SVN or GIT client must be installed on computers, involved in the OmegaT project.</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T141444Z">
+        <seg>&lt;e0&gt;VCS クライアント：&lt;/e0&gt;サーバーへのインターフェースです。SVN または Git 用のクライアントをコンピューターにインストールして使います。OmegaT も、翻訳に特化した一種の VCS クライアントです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28803,6 +28812,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182836Z">
         <seg>ごく初期のバージョンの &lt;a0&gt;OmegaT&lt;/a0&gt; は、段落単位でしか原文を分節化できず、また HTML と Open Document ファイルに対しては、フォーマットタグに対する番号付けを適切に行えない場合がありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Very popular clients for Windows environment are &lt;u1&gt;TortoiseSVN&lt;/u1&gt; and &lt;u2&gt;TortoiseGIT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T141539Z">
+        <seg>Windows 向けの汎用クライアントとしては、 &lt;u1&gt;TortoiseSVN&lt;/u1&gt; や &lt;u2&gt;TortoiseGit&lt;/u2&gt; が有名です。</seg>
       </tuv>
     </tu>
     <tu>
