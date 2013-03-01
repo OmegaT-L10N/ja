@@ -9305,8 +9305,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T145435Z">
-        <seg>繰り返しのある分節のために作られた複数の翻訳を表示する。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T093726Z">
+        <seg>ある原文と同一内容の分節が複数ある場合に、文脈に応じて作られたその原文向けの複数の翻訳を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18249,6 +18249,15 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）終了しなくても、自動保存や訳文ファイル生成のタイミングで共有されるんじゃなかったっけ？</note>
+      <tuv lang="EN">
+        <seg>Once any team member terminates the current translation session, an updated version of data shared is available to the rest of the team</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T095306Z">
+        <seg>あるメンバーがいったん翻訳作業を終了すると、チームの他のメンバーは更新された翻訳データを共有できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
       </tuv>
@@ -21690,6 +21699,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T023836Z">
         <seg>以下のフィルター（テキストファイル、PO ファイル、XHTML ファイル、HTML ファイル・XHTML ファイル、OpenDocument ファイル、Microsoft Open XML ファイル）では、いくつかの専用オプションを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T093943Z">
+        <seg>複数のチームメンバーが、お互いに邪魔することなく、同じ翻訳プロジェクトで同時に作業できます</seg>
       </tuv>
     </tu>
     <tu>
@@ -25368,6 +25385,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The system maintains versioning for data shared</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T095337Z">
+        <seg>システムが共有データのバージョン管理を行います</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033548Z">
@@ -25978,6 +26003,14 @@ distribute copies of the software, or if you modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T170547Z">
         <seg>翻訳中、常に使用することになるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can share common material, like project translation memory and its glossary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T094615Z">
+        <seg>プロジェクトの翻訳メモリや用語集などを、共有できます</seg>
       </tuv>
     </tu>
     <tu>
