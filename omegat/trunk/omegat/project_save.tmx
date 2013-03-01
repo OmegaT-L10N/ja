@@ -8214,6 +8214,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）2.6.2 だと、黙って上書きされる仕様なので、監視できないと思うけれど。もしかしたら、将来そうできるようになるということ？</note>
+      <tuv lang="EN">
+        <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T112454Z">
+        <seg>競合（たとえば、同じ分節や用語を複数人が同時に編集している状態）を監視して、マージし、解決できます</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
