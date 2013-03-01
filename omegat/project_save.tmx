@@ -2947,6 +2947,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）Git は「クローン」と呼ぶので、共通用語ではないけれど。</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T142305Z">
+        <seg>&lt;e0&gt;チェックアウト：&lt;/e0&gt;リポジトリの作業コピーをローカルコンピューター上に作成する操作を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;display all results: &lt;/e0&gt;clearing this check box will case OmegaT show just the first occurrence of a hit, if several hits exist</seg>
       </tuv>
@@ -2976,6 +2985,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T170011Z">
         <seg>&lt;e0&gt;訳文を検索：&lt;/e0&gt;訳文分節から検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T142024Z">
+        <seg>&lt;e0&gt;リポジトリ：&lt;/e0&gt;データを維持・管理する場所の単位です。ローカルに存在する場合もあれば、ローカルネットワークやインターネット上の場合もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23116,6 +23133,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team members connect with it via their VCS client.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T142126Z">
+        <seg>チームメンバーが、VCS クライアントを介して接続する先がこれになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team project option</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154608Z">
@@ -25276,6 +25301,12 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T121643Z">
         <seg>サーバーはローカルネットワーク上にも存在できますが、たいていの場合はインターネット上に存在し、URL を指定してアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Yu-Tang）サーバーはチェックアウトの情報を持たないと思うんだけれど…。ログくらいは残るだろうけど、たとえば匿名アクセスのチェックアウト情報を抱えていても使いみち無いし、どのみちチェックアウトされるのは特定リビジョンだから、最初からリビジョンとして持っているわけで。この説明が何を言いたいのか、よく分からない。</note>
+      <tuv lang="EN">
+        <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
       </tuv>
     </tu>
     <tu>
