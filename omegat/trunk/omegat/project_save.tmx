@@ -2853,8 +2853,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or GIT server is the environment where the common material is kept and maintained on the net.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T115608Z">
-        <seg>&lt;e0&gt;VCS サーバー：&lt;/e0&gt; SVN や Git サーバーは the environment where the common material is kept and maintained on the net.</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T121445Z">
+        <seg>&lt;e0&gt;VCS サーバー：&lt;/e0&gt; ここでは、SVN や Git のサーバーを指します。ネットワーク上で共有データを維持・管理する環境です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23826,8 +23826,8 @@ Program (independent of having been made by running the Program).</seg>
       <tuv lang="EN">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T163012Z">
-        <seg>OmegaT はバージョン管理に基づいた共同翻訳機能を提供します。バージョン管理はソフトウェアの分野で広く使われている手法で、プログラムのソースコードに関する変更を管理・保守し、チームによる共同開発作業を強力に支援します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T121129Z">
+        <seg>OmegaT はバージョン管理に基づいた共同翻訳機能を提供します。バージョン管理はソフトウェアの分野で広く使われている手法で、プログラムのソースコードに関する変更を維持・管理し、チームによる共同開発作業を強力に支援します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25243,6 +25243,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T091507Z">
         <seg>ウィンドウ間のセパレーターをドラッグすると、ウィンドウの大きさを変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T121643Z">
+        <seg>サーバーはローカルネットワーク上にも存在できますが、たいていの場合はインターネット上に存在し、URL を指定してアクセスします。</seg>
       </tuv>
     </tu>
     <tu>
