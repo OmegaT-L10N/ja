@@ -5852,8 +5852,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133255Z">
-        <seg>メモはこの分節に関する注釈です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T093035Z">
+        <seg>メモはこの分節に関する注釈で、翻訳者が作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6479,8 +6479,8 @@ covered by this License; they are outside its scope.</seg>
       <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133110Z">
-        <seg>現在の分節において、メモを閲覧、編集、追加、削除ができる。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T093104Z">
+        <seg>現在の分節について、メモを閲覧、編集、追加、削除できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9313,8 +9313,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134106Z">
-        <seg>コメントが存在するとき、およびファイルフィルターがコメントに対応する場合は（たとえば PO フィルター）現在の分節におけるコメントを表示する。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T093359Z">
+        <seg>現在の分節について、コメントを表示します。これは特定のファイルフィルター（たとえば PO フィルター）が原文ファイルから取得する参考情報で、翻訳者が作成するものではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9385,16 +9385,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T132450Z">
-        <seg>現在分節が含む単語が、プロジェクトの dictionary フォルダーに入れてある辞書に登録されている単語と一致した場合はその定義を表示する。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T092634Z">
+        <seg>現在の分節が含む単語が、プロジェクトの dictionary フォルダーに入れてある辞書ファイルに登録されている単語と一致した場合は、その定義を表示します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131926Z">
-        <seg>現在分節が含む単語が、プロジェクトの glossary フォルダーに入れてある用語集ファイルに登録されている用語と一致した場合はそれを表示する。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T092407Z">
+        <seg>現在の分節が含む単語や語句が、プロジェクトの glossary フォルダーに入れてある用語集ファイルに登録されている用語と一致した場合は、それを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9409,16 +9409,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131710Z">
-        <seg>現在の分節において一致率の高い翻訳メモリ参考訳文を表示する。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T091811Z">
+        <seg>現在の分節と一致率の高い参考訳文を、翻訳メモリから表示します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Options &gt; Machine Translate, if those services are available.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T132919Z">
-        <seg>設定メニューの「機械翻訳」で選択されている有効な機械翻訳サービスが提供した現在分節の翻訳を表示する。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T092906Z">
+        <seg>現在の分節について、機械翻訳サービスが提供する翻訳を表示します。［設定］→［機械翻訳］で有効になっているサービスが対象です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16316,8 +16316,8 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131802Z">
-        <seg>翻訳メモリ参考訳文というのは、現在のプロジェクトで翻訳してきた分節やプロジェクトの tm フォルダーに入れてある TMX ファイルが含む分節をいう。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T092348Z">
+        <seg>参考訳文とは、現在のプロジェクトの翻訳済み分節や、tm フォルダーに入れてある TMX ファイルが含む分節を指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29877,8 +29877,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit  menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T132112Z">
-        <seg>編集メニューの「用語の追加」を使うと、新しい用語を登録することができる。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T092511Z">
+        <seg>編集メニューの［用語の追加］から、新しい用語を登録することができます。</seg>
       </tuv>
     </tu>
     <tu>
