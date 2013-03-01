@@ -2851,10 +2851,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or GIT client must be installed on computers, involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T123357Z">
+        <seg>&lt;e0&gt;VCS クライアント：&lt;/e0&gt;To interface with the server an SVN or GIT client must be installed on computers, involved in the OmegaT project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or GIT server is the environment where the common material is kept and maintained on the net.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T121445Z">
-        <seg>&lt;e0&gt;VCS サーバー：&lt;/e0&gt; ここでは、SVN や Git のサーバーを指します。ネットワーク上で共有データを維持・管理する環境です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T123409Z">
+        <seg>&lt;e0&gt;VCS サーバー：&lt;/e0&gt;ここでは、SVN や Git のサーバーを指します。ネットワーク上で共有データを維持・管理する環境です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18352,6 +18360,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T202018Z">
         <seg>彼の貴重な助けがなかったら、いったい幾つの前置詞 the や a が欠落していたことやら。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T123336Z">
+        <seg>少なくともチームの誰か一人は、プロジェクトの管理者として、サーバー側の管理に通じている必要があります。環境設定や OmegaT プロジェクトのインポート、メンバーに対するアクセス権の賦与、競合の解決などが仕事です。</seg>
       </tuv>
     </tu>
     <tu>
