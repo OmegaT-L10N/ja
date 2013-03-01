@@ -1754,8 +1754,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090437Z">
-        <seg>&lt;/e1&gt;この状態で、空訳文として残すこともできます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T054452Z">
+        <seg>この状態で、空訳文として残すこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,8 +1770,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T120758Z">
-        <seg>&lt;/e4&gt;その一方で、複雑な条件にも対応しています。たとえば、2 個以上の連続するスペース文字を含む分節を検索したい、としましょう。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T054404Z">
+        <seg>&lt;/e4&gt;その一方で、複雑な条件にも対応しています。たとえば、２個以上の連続するスペース文字を含む分節を検索したい、としましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1796,6 +1796,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160942Z">
         <seg>&lt;/l2&gt;があります。例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/u1&gt;The advantages of a VC system for a team of translators can be summarized as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T055335Z">
+        <seg>翻訳者のチームが VCS を使う利点は、次の通りです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11638,8 +11646,6 @@ make exceptions for this.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>
-</note>
       <tuv lang="EN">
         <seg>GNU GENERAL PUBLIC LICENSE
 		       Version 2, June 1991</seg>
@@ -18443,12 +18449,11 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Yu-Tang）フォーマットの問題で、閉じタグが後ろの分節に別れているため、この分節でタグを指定することができません。</note>
       <tuv lang="EN">
         <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055446Z">
-        <seg>［Ctrl+T］でウィンドウを表示できます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T054900Z">
+        <seg>&lt;g0&gt;［Ctrl+T］&lt;/g0&gt;でウィンドウを表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26608,8 +26613,8 @@ under the terms of this General Public License.</seg>
       <tuv lang="EN">
         <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T090222Z">
-        <seg>翻訳入力の前に、原文を削除するキー入力の手間（つまり &lt;e0&gt;Ctrl+A&lt;/e0&gt; と &lt;e0&gt;Del&lt;/e0&gt;）が省けます。&lt;e1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T054448Z">
+        <seg>翻訳入力の前に、原文を削除するキー入力の手間（つまり &lt;e0&gt;Ctrl+A&lt;/e0&gt; と &lt;e1&gt;Del&lt;/e1&gt;）が省けます。</seg>
       </tuv>
     </tu>
     <tu>
