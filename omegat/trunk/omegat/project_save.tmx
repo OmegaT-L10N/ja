@@ -1558,8 +1558,9 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer 12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T174613Z">
-        <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer 12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130303T111733Z">
+        <seg>12719: Info: Source tokenizer: org.omegat.core.matching.Tokenizer
+12719: Info: Target tokenizer: org.omegat.core.matching.Tokenizer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1697,8 +1698,9 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>84528: Info: Source tokenizer: org.omegat.plugins.tokenizer.LuceneCJKTokenizer 84528: Info: Target tokenizer: org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173852Z">
-        <seg>84528: Info: Source tokenizer: org.omegat.plugins.tokenizer.LuceneCJKTokenizer 84528: Info: Target tokenizer: org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130303T111718Z">
+        <seg>84528: Info: Source tokenizer: org.omegat.plugins.tokenizer.LuceneCJKTokenizer
+84528: Info: Target tokenizer: org.omegat.plugins.tokenizer.LuceneFrenchTokenizer</seg>
       </tuv>
     </tu>
     <tu>
@@ -3446,8 +3448,15 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T011445Z">
-        <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.TinySegmenterJapaneseTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130303T111656Z">
+        <seg>&lt;key&gt;VMOptions&lt;/key&gt;
+&lt;string&gt;-Xmx1024M&lt;/string&gt;
+
+&lt;key&gt;Arguments&lt;/key&gt;
+&lt;array&gt;
+  &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.TinySegmenterJapaneseTokenizer&lt;/string&gt;
+  &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt;
+&lt;/array&gt;</seg>
       </tuv>
     </tu>
     <tu>
