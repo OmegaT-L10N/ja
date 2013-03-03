@@ -1,5 +1,8 @@
 body {
-	font-family: sans-serif;
+    font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', Sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: normal;
 	margin: 1em;
 }
 
@@ -11,13 +14,27 @@ h3, h4, ul a {
 	color: green;
 }
 
+pre, code, var, samp, kbd, .mono {
+    font-family: Consolas, 'Courier New', Courier, Monaco, monospace;
+    line-height: 1.2;
+}
+
+table {
+    font-size: 14px;
+    border-collapse : collapse;
+}
+
+td {
+    padding: 0.2em 0.5em;
+}
+
 code, .code {
 	color: black;
 	background: #ffffcc;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #ffff66;
-	vertical-align: top;
+	/*vertical-align: top;*/
 }
 
 .new {
