@@ -64,8 +64,15 @@
       <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T191128Z">
-        <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=JA # Country -Duser.country=JP</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130303T090048Z">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=JA
+# Country
+-Duser.country=JP</seg>
       </tuv>
     </tu>
     <tu>
@@ -28529,8 +28536,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Used to modify the project folders and languages (access via &lt;g0&gt;Ctrl+E &lt;/g0&gt;shortcut or &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;properties...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T081756Z">
-        <seg>プロジェクトで使用する言語とフォルダー構成を変更できます。ショートカット&lt;g0&gt;［Ctrl+E］&lt;/g0&gt;または&lt;m1&gt;&lt;g2&gt;プロジェクト&lt;/g2&gt; &lt;g3&gt;プロジェクト設定...&lt;/g3&gt;&lt;/m1&gt;で開き、&lt;g3&gt;［Esc］&lt;/g3&gt;で閉じます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130303T090420Z">
+        <seg>プロジェクトで使用する言語とフォルダー構成を変更できます。ショートカット&lt;g0&gt;［Ctrl+E］&lt;/g0&gt;または&lt;m1&gt;&lt;g2&gt;プロジェクト&lt;/g2&gt; &lt;g3&gt;プロジェクト設定...&lt;/g3&gt;&lt;/m1&gt;で開き、&lt;k4&gt;［Esc］&lt;/k4&gt;で閉じます。</seg>
       </tuv>
     </tu>
     <tu>
