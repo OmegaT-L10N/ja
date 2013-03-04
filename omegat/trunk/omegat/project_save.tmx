@@ -8364,8 +8364,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T161635Z">
-        <seg>選択したファイルをプロジェクトの &lt;c0&gt;source&lt;/c0&gt; フォルダーにコピーし、その新しいファイルを読み込むために、プロジェクトを再読み込みします。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T154551Z">
+        <seg>選択したファイルをプロジェクトの &lt;f0&gt;source&lt;/f0&gt; フォルダーにコピーし、その新しいファイルを読み込むために、プロジェクトを再読み込みします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9420,8 +9420,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays the &lt;l0&gt;File filters&lt;/l0&gt; dialog to configure file handling and parsing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073314Z">
-        <seg>ファイルの取り扱いを設定する&lt;l0&gt;［ファイルフィルター］&lt;/l0&gt;ダイアログを表示します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T154912Z">
+        <seg>ファイルの取り扱いを設定する［&lt;l0&gt;ファイルフィルター&lt;/l0&gt;］ダイアログを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9436,16 +9436,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays the &lt;l0&gt;Spell checker setup&lt;/l0&gt; window to install, configure and activate the spell checker.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T164626Z">
-        <seg>綴り確認機能を組み込み、設定するための &lt;l0&gt;［綴り確認機能の設定］&lt;/l0&gt;ダイアログを表示します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T154939Z">
+        <seg>綴り確認機能を組み込み、設定するための［&lt;l0&gt;綴り確認機能の設定&lt;/l0&gt;］ダイアログを表示します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the &lt;l0&gt;Translation editing&lt;/l0&gt; dialog to configure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T164654Z">
-        <seg>&lt;l0&gt;［翻訳入力行の設定］&lt;/l0&gt;ダイアログを表示します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T155226Z">
+        <seg>［&lt;l0&gt;翻訳入力行の設定&lt;/l0&gt;］ダイアログを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13798,8 +13798,8 @@ to ask for permission.</seg>
       <tuv lang="EN">
         <seg>If you wish to revert to default configuration of the filter, click &lt;e2&gt;Defaults.&lt;/e2&gt; You may also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153131Z">
-        <seg>編集内容をそのフィルターの初期値に戻したい時は、&lt;e2&gt;初期値を復元&lt;/e2&gt; をクリックしてください。またファイルフィルターダイアログの中で、訳文ファイル名構成例を直接編集することもできます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T155330Z">
+        <seg>編集内容をそのフィルターの初期値に戻したい時は、［&lt;e2&gt;初期値を復元&lt;/e2&gt;］をクリックしてください。またファイルフィルターダイアログの中で、訳文ファイル名構成例を直接編集することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18616,8 +18616,8 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       <tuv lang="EN">
         <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170606Z">
-        <seg>&lt;l0&gt;［検索］&lt;/l0&gt;ウィンドウを新しく開きます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T154713Z">
+        <seg>［&lt;l0&gt;検索&lt;/l0&gt;］ウィンドウを新しく開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18648,8 +18648,8 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialog to configure text segmentation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073327Z">
-        <seg>テキストの分節化を設定する&lt;l0&gt;［分節化規則の設定］&lt;/l0&gt;ダイアログを表示します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T154923Z">
+        <seg>テキストの分節化を設定する［&lt;l0&gt;分節化規則の設定&lt;/l0&gt;］ダイアログを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23523,8 +23523,8 @@ language.</seg>
       <tuv lang="EN">
         <seg>The &lt;x0/&gt; describes the color coding in detail.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T020914Z">
-        <seg>「&lt;x0/&gt;」に、色表示を含めた詳細の説明があります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T154900Z">
+        <seg>&lt;x0/&gt;に、色表示を含めた詳細の説明があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25564,8 +25564,8 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you wish to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the &lt;i1/&gt;Edit Pattern Dialog.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153043Z">
-        <seg>訳文ファイル名構成例は特別な文法で記述されています。これを編集したい場合は、 &lt;e0&gt;編集...&lt;/e0&gt; をクリックして&lt;i1/&gt;構成例編集ダイアログを使用してください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T155300Z">
+        <seg>訳文ファイル名構成例は特別な文法で記述されています。これを編集したい場合は、［&lt;e0&gt;編集...&lt;/e0&gt;］をクリックして&lt;i1/&gt;構成例編集ダイアログを使用してください。</seg>
       </tuv>
     </tu>
     <tu>
