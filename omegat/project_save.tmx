@@ -2361,6 +2361,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154320Z">
+        <seg>&lt;e0&gt;以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更&lt;/e0&gt;：訳文ファイルのエンコーディング文字セットを、原文ファイルのそれ（明示的に指定されたものであれ、暗黙に適用されたものであれ）とは違うものにしたいということは、よくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T190314Z">
@@ -3469,6 +3477,38 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;$(timestamp-????)&lt;/l0&gt; – system date time at generation time in various patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154449Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; -- 各種の書式による訳文ファイル生成時のシステム日時です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154726Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154724Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154722Z">
+        <seg>&lt;l0&gt;&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153843Z">
@@ -3477,10 +3517,74 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154549Z">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; -- 原文ファイルのエンコーディング名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154546Z">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; -- 訳文ファイルのエンコーディング名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154805Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154731Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154729Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153530Z">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt; -- 拡張子なしの原文ファイル名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - system host name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154554Z">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; -- システムのホスト名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154512Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; -- コンピューターの OS 名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-user-name)&lt;/l0&gt; - system user name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154643Z">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; -- システムのユーザー名です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3505,6 +3609,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T153819Z">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt; -- 訳文の言語コードと国コードを合わせたもの（「XX-YY」形式）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocaleLCID)&lt;/l0&gt; - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154543Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; -- 訳文ファイルの Microsoft ロケール（「xx-yy」形式）です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18277,6 +18389,22 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154830Z">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154841Z">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Linux</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131921Z">
@@ -28583,6 +28711,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt; &lt;/k0&gt;, close with &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T155031Z">
+        <seg>タグ検証の結果を閲覧できます。&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; で開き、&lt;k3&gt;Esc&lt;/k3&gt; で閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Manual...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154620Z">
@@ -30540,6 +30676,14 @@ them.</seg>
         <seg>You will then be able to launch OmegaT by executing this file from the command line</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T020033Z">
+        <seg>このファイルをコマンドラインから実行することで、OmegaT を起動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will then be able to launch OmegaT by executing this file from the command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154828Z">
         <seg>このファイルをコマンドラインから実行することで、OmegaT を起動できます。</seg>
       </tuv>
     </tu>
@@ -32650,6 +32794,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://belazar.info/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154859Z">
+        <seg>http://belazar.info/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://belsoft.tut.by/belazar/</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T132245Z">
@@ -33390,6 +33542,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T161043Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154836Z">
+        <seg>java -jar OmegaT.jar %*</seg>
       </tuv>
     </tu>
     <tu>
