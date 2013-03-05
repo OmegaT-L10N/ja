@@ -3661,6 +3661,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T164307Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; -- 各種の書式による訳文ファイル生成時のシステム日時です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; enables OmegaT to be instructed in which folder the configuration files are stored.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051036Z">
@@ -9346,6 +9354,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict Platform.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T164124Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は、StarDict ファイル形式の辞書に対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StartDict Platform.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T060508Z">
@@ -14250,6 +14266,14 @@ the scope of this License.</seg>
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;) and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T030016Z">
+        <seg>ファイル名があいまいな場合、使用する構成要素を &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-拡張子の個数&lt;/e1&gt;} と &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;名前の個数}&lt;/e3&gt; の形式で指定することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T164524Z">
         <seg>ファイル名があいまいな場合、使用する構成要素を &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-拡張子の個数&lt;/e1&gt;} と &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;名前の個数}&lt;/e3&gt; の形式で指定することができます。</seg>
       </tuv>
     </tu>
@@ -21217,6 +21241,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StarDict Platform&lt;/u0&gt; above or on &lt;u2&gt;FreeDict&lt;/u2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T164153Z">
+        <seg>必要な言語の組み合わせの辞書を探します。辞書を提供している場所には、たとえば上記の &lt;u0&gt;&lt;i1/&gt;StarDict&lt;/u0&gt;や &lt;u2&gt;FreeDict&lt;/u2&gt; などがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StartDict Platform&lt;/u0&gt; above or on &lt;u2&gt;FreeDict&lt;/u2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T060813Z">
@@ -25782,6 +25814,14 @@ making modifications to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T181541Z">
         <seg>テキスト出力機能は、現在作業中の &lt;a0&gt;OmegaT&lt;/a0&gt; プロジェクトのデータをプレーンテキストファイルに出力するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T164239Z">
+        <seg>&lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; キーを押すか、またはメニュー&lt;g1&gt;［編集］→［選択領域を出力］&lt;/g1&gt;を選んだ時点で選択されているテキスト（&lt;f2&gt;selection.txt&lt;/f2&gt;）</seg>
       </tuv>
     </tu>
     <tu>
