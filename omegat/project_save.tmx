@@ -7005,6 +7005,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164742Z">
+        <seg>コンソールモード用の追加設定として &lt;c0&gt;--quiet&lt;/c0&gt; があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034728Z">
@@ -7067,6 +7075,14 @@ rights.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T055228Z">
         <seg>もう１つ別の追加のコンソールモードのオプションとして、&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt; があります。このオプションを指定すると、翻訳や整列の処理時にタグ検証を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164908Z">
+        <seg>もう１つ別の追加のコンソールモードのオプションとして、&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt; があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8678,6 +8694,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T031930Z">
         <seg>翻訳メモリの対象にしたい原文文書を、source フォルダーにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165828Z">
+        <seg>翻訳メモリの対象にしたい原文文書を、source フォルダーにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165847Z">
+        <seg>元の（上記文書の翻訳を含む）翻訳メモリを、新しいプロジェクトの &lt;f0&gt;tm/auto&lt;/f0&gt; フォルダーにコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11782,6 +11814,14 @@ you have.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165725Z">
+        <seg>たとえば、検索文字列が「&lt;l0&gt;run?&lt;/l0&gt;」である場合は、「&lt;l1&gt;runs&lt;/l1&gt;」や、「&lt;l3&gt;running&lt;/l3&gt;」の中の「&lt;l2&gt;runn&lt;/l2&gt;」の部分に一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T181755Z">
@@ -14016,6 +14056,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need non-standard settings, the corresponding configuration files (&lt;l0&gt;filters.conf&lt;/l0&gt; and &lt;l1&gt;segmentation.conf&lt;/l1&gt;) must be present.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164532Z">
+        <seg>標準とは別の設定を指定したい場合は、有効な設定ファイル（&lt;l0&gt;filters.conf&lt;/l0&gt; と &lt;l1&gt;segmentation.conf&lt;/l1&gt;）も用意する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T031803Z">
@@ -14709,6 +14757,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T184141Z">
         <seg>続く画面で、インストール中に使用する言語を OmegaT 自体でも使うかどうか設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164756Z">
+        <seg>このオプションを指定すると、画面出力が極力抑えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15445,6 +15501,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122349Z">
         <seg>あなたが行った翻訳にマークする際に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165805Z">
+        <seg>&lt;f0&gt;tm&lt;/f0&gt; フォルダーの翻訳メモリに、同一の原文分節が複数存在し、しかもそれぞれの訳文が異なる、という事態はじゅうぶんに起こりえることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23525,6 +23589,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165018Z">
+        <seg>翻訳作業全体の途中で &lt;l0&gt;source&lt;/l0&gt; にあるファイルを変更した場合は、特に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tamil</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152114Z">
@@ -25287,6 +25359,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most important of these is &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt;, and optionally&lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164704Z">
+        <seg>最も重要な引数は、&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; です。他に任意の引数として、&lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt; もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most that OmegaT can do in such a case, is to assume that the text is written in the same language the computer itself uses.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T092653Z">
@@ -25717,6 +25797,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T162704Z">
         <seg>検索文字列が正規表現として扱われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165046Z">
+        <seg>たとえば、検索文字列が「&lt;l0&gt;run*&lt;/l0&gt;」である場合は、「&lt;l1&gt;run&lt;/l1&gt;」「&lt;l2&gt;runs&lt;/l2&gt;」「&lt;l3&gt;running&lt;/l3&gt;」に一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26644,6 +26732,14 @@ distribute copies of the software, or if you modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T111633Z">
         <seg>メンバーは各自でプロジェクトを作成し、作業が終わるか所定の段階まで達したら、自分の &lt;f1&gt;project_save.tmx&lt;/f1&gt; を送ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They carry appropriately changed names, so that its contents still remain identifiable, when used elsewhere, for instance in the &lt;f1&gt;tm&lt;/f1&gt; subfolder of some other project (see below).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165748Z">
+        <seg>これらのファイルは名前が変わっただけで、その内容については同一性を保っています。そのため、別のプロジェクトの &lt;f1&gt;tm&lt;/f1&gt; フォルダーにコピーして使うことができます（次の項を参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29791,6 +29887,14 @@ program proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When this parameter is added, tag validation is done prior to translation/aligning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164922Z">
+        <seg>このオプションを指定すると、翻訳や整列の処理時にタグ検証を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T184905Z">
@@ -29900,6 +30004,14 @@ price.</seg>
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat &lt;/l4&gt;subfolder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T084230Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; は、翻訳作業のすべての内容を翻訳メモリ（&lt;l4&gt;omegat&lt;/l4&gt; フォルダーの &lt;l3&gt;project_save.tmx&lt;/l3&gt; ファイル）に保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165001Z">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; は、翻訳作業のすべての内容を翻訳メモリ（&lt;l4&gt;omegat&lt;/l4&gt; フォルダーの &lt;l3&gt;project_save.tmx&lt;/l3&gt; ファイル）に保存します。</seg>
       </tuv>
     </tu>
@@ -30923,6 +31035,14 @@ along with the Program.</seg>
         <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx &lt;/f0&gt;file.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T021801Z">
+        <seg>それらの内容がいったん現在のプロジェクトの &lt;f0&gt;project_save.tmx&lt;/f0&gt; に蓄積されたなら、もう必要ないファイルを削除してもよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165812Z">
         <seg>それらの内容がいったん現在のプロジェクトの &lt;f0&gt;project_save.tmx&lt;/f0&gt; に蓄積されたなら、もう必要ないファイルを削除してもよいでしょう。</seg>
       </tuv>
     </tu>
