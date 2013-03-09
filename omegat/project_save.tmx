@@ -8978,6 +8978,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create an empty folder, where you will keep your project and right/click on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T035748Z">
+        <seg>プロジェクトを配置するための空のフォルダーを作成したら、その上で右クリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154844Z">
@@ -11994,6 +12002,14 @@ make exceptions for this.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T034817Z">
+        <seg>以下では、説明を単純にするために、ひとつの OmegaT プロジェクトに対してひとつのリポジトリを使うことにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181249Z">
@@ -14412,6 +14428,14 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T021838Z">
         <seg>翻訳メモリのインポートとエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importing the project to SVN repository - Windows</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T034846Z">
+        <seg>SVN リポジトリにプロジェクトをインポートする - Windows の場合</seg>
       </tuv>
     </tu>
     <tu>
@@ -22305,6 +22329,14 @@ REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T040045Z">
+        <seg>TortoiseSVN をインストールしてあれば、コンテキストメニューに&lt;g0&gt;［SVN チェックアウト(K)...］&lt;/g0&gt;というコマンドが出てきます。それを選ぶと、下図のようなダイアログが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152553Z">
@@ -24460,8 +24492,8 @@ Program (independent of having been made by running the Program).</seg>
       <tuv lang="EN">
         <seg>The alternative is to have one single repository with subfolders &lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., and share the common material via common &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; and &lt;l4&gt;dictionary&lt;/l4&gt; folders.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T023453Z">
-        <seg>あるいは、ひとつのリポジトリ内で「&lt;l0&gt;Project1&lt;/l0&gt;」、「&lt;l1&gt;Project2&lt;/l1&gt;」のようにサブフォルダーを作って分ける方法もあります（日本語訳註：この方法は、SVN でのみ有効です。Git では１リポジトリを部分使用できないため、たとえば前述の Backlog では Git のリポジトリ数を制限していません）。そして、共通のデータを &lt;l2&gt;tm&lt;/l2&gt; フォルダー、&lt;l3&gt;glossary&lt;/l3&gt; フォルダー、&lt;l4&gt;dictionary&lt;/l4&gt; フォルダーに置いて共有します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T034513Z">
+        <seg>あるいは、ひとつのリポジトリ内で「&lt;l0&gt;Project1&lt;/l0&gt;」、「&lt;l1&gt;Project2&lt;/l1&gt;」のようにサブフォルダーを作って分ける方法もあります（日本語訳註：この方法は、SVN でのみ有効です。Git では１リポジトリを部分使用できないため、たとえば前述の Backlog ではフリープランでも Git のリポジトリ数は制限されません）。そして共有したいデータを &lt;l2&gt;tm&lt;/l2&gt; フォルダー、&lt;l3&gt;glossary&lt;/l3&gt; フォルダー、&lt;l4&gt;dictionary&lt;/l4&gt; フォルダーに置きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25877,6 +25909,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050252Z">
         <seg>設定ファイルは、 &lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The repository is empty at this moment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T035417Z">
+        <seg>先ほど作成したリポジトリは、まだ空の状態です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31197,6 +31237,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T074323Z">
         <seg>&lt;g0&gt;メニューの［ツール］→［翻訳状況］&lt;/g0&gt;から参照できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You create first an empty client folder on your disk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T035508Z">
+        <seg>では、まずローカルコンピューターのディスク上に空のフォルダーを作成しましょう。</seg>
       </tuv>
     </tu>
     <tu>
