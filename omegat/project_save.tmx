@@ -14881,6 +14881,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the next step, we will add the OmegaT files to the local directory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T135915Z">
+        <seg>次の手順として、作業コピーフォルダーに OmegaT のファイルを追加しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164756Z">
@@ -18970,6 +18978,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190902Z">
         <seg>圧縮ファイルを解凍すると、以下の内容を含むフォルダーが生成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the operation has finished, you can check the said folder: it should now contain a subdirectory .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T135848Z">
+        <seg>この操作が完了すると、フォルダーは作業コピーとなって、サーバーの最新の状態に同期されます。フォルダーのアイコンの上には、緑色の OK バッジが重なって表示されます。またフォルダーの中には、管理用の .svn フォルダーが作成されています（ただし隠しフォルダーなので、シェルの設定によっては表示されません）。</seg>
       </tuv>
     </tu>
     <tu>
