@@ -6931,6 +6931,14 @@ software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T010019Z">
+        <seg>この問題を避けるために、プライベートな SVN サーバーを立てるという手もあります。たとえば、すでに Apache サーバーを管理しているのであれば、VisualSVN のようなプログラムをインストールすれば済むかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T185744Z">
@@ -11608,6 +11616,14 @@ patents.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T163046Z">
         <seg>.docx ファイルに関しては、以下の箇所が自動的に変更されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T010852Z">
+        <seg>Mac 向けのクライアントは &lt;u1&gt;SourceForge&lt;/u1&gt; などで見つけることができます。Linux 向けの情報は、『&lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;』（英語）を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18850,6 +18866,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T100625Z">
         <seg>&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; ファイルを修正した場合は、新しいショートカット設定を反映させるために、忘れず &lt;a1&gt;OmegaT&lt;/a1&gt; を再起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T010609Z">
+        <seg>SVN サーバーを利用可能になったら、プロジェクト用のファイルを管理できます。管理者はそのために、SVN クライアントをローカルコンピューター上にインストールしておく必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26566,6 +26590,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two possibilities to run an SVN server: you can install SVN on your own server or you can use a hosted service.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T004912Z">
+        <seg>SVN サーバーを使うには、２つの選択肢があります。自前のサーバーに SVN をインストールするか、ホスティングサービスを利用するか、です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are two strategies for segments that contain only such invariable text.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175737Z">
@@ -29966,6 +29998,14 @@ program proprietary.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T184905Z">
         <seg>RTL ⇔ LTR 言語間で翻訳作業を行うときは、原文ファイルからタグを正しく読み込み、それをまた訳文ファイルに適切に入力するため、翻訳作業者が RTL ⇔ LTR モードの切り替えを頻繁に行う必要があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using an external service you must be aware of the possible implications in terms of confidentiality, since you are loading the original document on a server outside of your direct control.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T005325Z">
+        <seg>外部サービスを利用するなら、元の文書を外部のサーバーにアップロードする前に、機密保持の観点から問題が無いか、よく検討した方が良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
