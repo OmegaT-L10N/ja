@@ -3111,8 +3111,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout directory and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T153736Z">
-        <seg>&lt;e0&gt;リポジトリの作業コピーにコピーしたファイルを追加：&lt;/e0&gt;ローカルにチェックアウトしたフォルダーを右クリックして、&lt;g1&gt;［TortoiseSVN］→［追加(A)...］&lt;/g1&gt;を選びます。ダイアログが開くので、デフォルトの設定のまま&lt;g2&gt;［OK］&lt;/g2&gt;ボタンをクリックします。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T154152Z">
+        <seg>&lt;e0&gt;リポジトリの作業コピーにコピーしたファイルを追加します：&lt;/e0&gt;ローカルにチェックアウトしたフォルダーを右クリックして、&lt;g1&gt;［TortoiseSVN］→［追加(A)...］&lt;/g1&gt;を選びます。ダイアログが開くので、デフォルトの設定のまま&lt;g2&gt;［OK］&lt;/g2&gt;ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3144,8 +3144,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout directory and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T154128Z">
-        <seg>&lt;e0&gt;ローカルの変更をサーバーにコミットします：&lt;/e0&gt; &lt;g1&gt; &lt;/g1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T154309Z">
+        <seg>&lt;e0&gt;ローカルの変更をサーバーにコミットします：&lt;/e0&gt;ローカルにチェックアウトしたフォルダーを右クリックして、&lt;g1&gt;［SVN コミット(C)...］&lt;/g1&gt;を選びます。下図のようなウィンドウが開きます。</seg>
       </tuv>
     </tu>
     <tu>
