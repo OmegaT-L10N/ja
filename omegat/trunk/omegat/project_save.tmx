@@ -24458,6 +24458,14 @@ Program (independent of having been made by running the Program).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative is to have one single repository with subfolders &lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., and share the common material via common &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; and &lt;l4&gt;dictionary&lt;/l4&gt; folders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T023453Z">
+        <seg>あるいは、ひとつのリポジトリ内で「&lt;l0&gt;Project1&lt;/l0&gt;」、「&lt;l1&gt;Project2&lt;/l1&gt;」のようにサブフォルダーを作って分ける方法もあります（日本語訳註：この方法は、SVN でのみ有効です。Git では１リポジトリを部分使用できないため、たとえば前述の Backlog では Git のリポジトリ数を制限していません）。そして、共通のデータを &lt;l2&gt;tm&lt;/l2&gt; フォルダー、&lt;l3&gt;glossary&lt;/l3&gt; フォルダー、&lt;l4&gt;dictionary&lt;/l4&gt; フォルダーに置いて共有します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T125536Z">
@@ -25747,8 +25755,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T011821Z">
-        <seg>ここでの説明には、&lt;u0&gt;ProjectLocker&lt;/u0&gt;（フリープランは２ユーザーまで）の SVN サーバーを例に取ることにします。（日本語訳注：日本語で使える同様のサービスには、フリープランが10ユーザーまでの www.backlog.jp などがあります）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T023206Z">
+        <seg>ここでの説明には、&lt;u0&gt;ProjectLocker&lt;/u0&gt;（フリープランは２ユーザーまで）の SVN サーバーを例に取ることにします。（日本語訳注：日本語で使える同様のサービスには、フリープランが10ユーザーまでの Backlog（www.backlog.jp）などがあります）</seg>
       </tuv>
     </tu>
     <tu>
