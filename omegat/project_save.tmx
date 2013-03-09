@@ -17965,6 +17965,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the team members have to be registered first, before you can add them to the project (Note: in the free version of ProjectLocker you are allowed only two users per project).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T013204Z">
+        <seg>チームメンバーを追加するには、そのメンバーが先にユーザー登録を済ませている必要があります。ProjectLocker のフリープランは、１プロジェクト２ユーザーまでなので、注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that there could be minor differences between the OmegaT counts and the numbers, provided by other CAT tools.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T070456Z">
@@ -20333,6 +20341,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Projects can be managed according to your development style and needs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T013502Z">
+        <seg>プロジェクトは、自分のニーズと開発スタイルに合わせて管理できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Properties dialog</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T132313Z">
@@ -22582,6 +22598,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T012146Z">
         <seg>まずサイトにログインします。サイトを利用するのがはじめての場合は、ユーザー登録をしましょう。後で必要になるので、ユーザー名とパスワードは忘れないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T013605Z">
+        <seg>OmegaT プロジェクトの場合と同様に、言語ペアごとにリポジトリを分けてもかまいません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30408,6 +30432,14 @@ price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T193533Z">
         <seg>この方法では、「Windows without JRE」版の方をダウンロードしても構いません。その場合、新しいバージョンは実行時に既存の JRE を使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T013941Z">
+        <seg>言語ペアが同じであっても、依頼主や案件が違うなら、やはりリポジトリを分けた方がよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
