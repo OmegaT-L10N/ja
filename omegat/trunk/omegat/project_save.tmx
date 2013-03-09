@@ -7566,6 +7566,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T150153Z">
+        <seg>&lt;f9&gt;omegat&lt;/f9&gt; フォルダー内の &lt;f6&gt;.bak&lt;/f6&gt; ファイルと &lt;f7&gt;project_stats.txt&lt;/f7&gt; および &lt;f8&gt;project_stats_match.txt&lt;/f8&gt; は、いかなる場合においても含めるべきではありません。これらのファイルを含めても、リポジトリが無意味に肥大化するだけで、何の役にも立ちません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aymara</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203912Z">
@@ -31449,6 +31457,14 @@ restrictions on the recipients' exercise of the rights granted herein.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143110Z">
         <seg>以下のような対処法があります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might want to apply the same to the &lt;f10&gt;target&lt;/f10&gt; folder and its contents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T150543Z">
+        <seg>&lt;f10&gt;target&lt;/f10&gt; フォルダーとその内容についても、同じ方針でよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
