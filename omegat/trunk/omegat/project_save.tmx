@@ -15738,6 +15738,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T084410Z">
+        <seg>これはサーバーのリポジトリに対するはじめてのコミットになります。続いてローカルの作業コピー（.svn フォルダーの内容）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121521Z">
@@ -25215,8 +25223,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following files are to be shared among the members of the team and thus have to be included in any case:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T140133Z">
-        <seg>以下は、チームメンバーと共有するファイルです。チームプロジェクトは、これらのファイルを必ず含みます：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T084537Z">
+        <seg>以下は、チームメンバーと共有するファイルです。チームプロジェクトは、これらのファイルを含みます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36912,8 +36920,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>the project-specific filters definition - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T144816Z">
-        <seg>プロジェクト専用のフィルター定義ファイル -- &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T084734Z">
+        <seg>プロジェクト専用のフィルター定義ファイル（省略可）-- &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
