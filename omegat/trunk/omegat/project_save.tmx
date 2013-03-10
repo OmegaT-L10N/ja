@@ -3111,8 +3111,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout directory and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T093743Z">
-        <seg>&lt;e0&gt;作業コピーにコピーしたファイルを「追加」します：&lt;/e0&gt;作業コピーフォルダーにファイルやフォルダーをコピーしただけでは、SVN の管理下に入りません。そのファイル/フォルダーを SVN が管理するよう、明示的に指定する必要があります。この操作を「追加」と呼びます。「追加」するには、ローカルにチェックアウトしたフォルダーを右クリックして、&lt;g1&gt;［TortoiseSVN］→［追加(A)...］&lt;/g1&gt;を選びます。ダイアログが開くので、デフォルトの設定のまま&lt;g2&gt;［OK］&lt;/g2&gt;ボタンをクリックします。（日本語訳註：右ドラッグでコピーすれば、一回の操作で追加まで完了します）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T124452Z">
+        <seg>&lt;e0&gt;作業コピーフォルダーにコピーしたファイルを「追加」します：&lt;/e0&gt;作業コピーフォルダーにファイルやフォルダーをコピーしただけでは、SVN の管理下に入りません。そのファイル/フォルダーを SVN が管理するよう、明示的に指定する必要があります。この操作を「追加」と呼びます。「追加」するには、ローカルにチェックアウトしたフォルダーを右クリックして、&lt;g1&gt;［TortoiseSVN］→［追加(A)...］&lt;/g1&gt;を選びます。ダイアログが開くので、デフォルトの設定のまま&lt;g2&gt;［OK］&lt;/g2&gt;ボタンをクリックします。（日本語訳註：右ドラッグでコピーすれば、一回の操作で追加まで完了します）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3143,8 +3143,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout directory and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T154309Z">
-        <seg>&lt;e0&gt;ローカルの変更をサーバーにコミットします：&lt;/e0&gt;ローカルにチェックアウトしたフォルダーを右クリックして、&lt;g1&gt;［SVN コミット(C)...］&lt;/g1&gt;を選びます。下図のようなウィンドウが開きます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T125307Z">
+        <seg>&lt;e0&gt;ローカルの変更をサーバーにコミットします：&lt;/e0&gt;作業コピーフォルダーを右クリックして、&lt;g1&gt;［SVN コミット(C)...］&lt;/g1&gt;を選びます。下図のようなウィンドウが開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3223,8 +3223,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;update local files from the local repository copy&lt;/e0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T093820Z">
-        <seg>&lt;e0&gt;ローカルの作業コピーを更新します：&lt;/e0&gt;作業コピーを、リポジトリの最新状態に同期します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T124533Z">
+        <seg>&lt;e0&gt;ローカルの作業コピーを「更新」します：&lt;/e0&gt;「更新」とは、作業コピーに対してリポジトリの最新状態を反映させる操作を指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8343,6 +8343,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T070931Z">
         <seg>同期したい変更にチェックを付けます。この場合は、追加したファイルとフォルダーが対象です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T130010Z">
+        <seg>作業コピーフォルダーを開き、リポジトリの最新の状態が反映されたことを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28486,6 +28494,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To update the local files, right/click on the checkout directory and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T125340Z">
+        <seg>作業コピーフォルダーの上で右クリックして、&lt;g1&gt;［SVN 更新(U)...］&lt;/g1&gt;を選びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use an existing glossary, simply place it in the&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064236Z">
@@ -29814,6 +29830,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045346Z">
         <seg>コンソールモードを使うと、そのプログラムをビルドする工程に、インターフェースを地域化する作業を組み込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the team project in OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T130101Z">
+        <seg>OmegaT でチームプロジェクトを使う</seg>
       </tuv>
     </tu>
     <tu>
