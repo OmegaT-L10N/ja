@@ -3132,12 +3132,11 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Yu-Tang）Git は「クローン」と呼ぶので、共通用語ではないけれど。</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T142305Z">
-        <seg>&lt;e0&gt;チェックアウト：&lt;/e0&gt;リポジトリの作業コピーをローカルコンピューター上に作成する操作を指します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T091423Z">
+        <seg>&lt;e0&gt;チェックアウト：&lt;/e0&gt;ローカルコンピューター上にリポジトリの作業コピーを作成する操作を指します。（日本語訳註：Git では同様の操作を「クローン」と呼びます）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3218,6 +3217,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T111332Z">
         <seg>&lt;e0&gt;同じ案件を複数の翻訳者で分担する場合：&lt;/e0&gt;原文ファイルを source/Alice、source/Bob のように分割し、それをチームメンバー（Alice、Bob など）に配分します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;update local files from the local repository copy&lt;/e0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T091046Z">
+        <seg>&lt;e0&gt;ローカルの作業コピーを更新します：&lt;/e0&gt;作業コピーを、サーバー側のリポジトリの最新状態に同期します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15737,11 +15744,12 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）.svn フォルダーは svn の開発者でもない限り、通常は意識する必要は無いはずなので、ここであえて言及する意図が不明。以後、和訳では省略します。</note>
       <tuv lang="EN">
         <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T084410Z">
-        <seg>これはサーバーのリポジトリに対するはじめてのコミットになります。続いてローカルの作業コピー（.svn フォルダーの内容）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T090842Z">
+        <seg>これはサーバー側のリポジトリに対する、はじめてのコミットになります。</seg>
       </tuv>
     </tu>
     <tu>
