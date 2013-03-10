@@ -9145,6 +9145,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Credentials are stored, so it isn't needed to enter them each time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T140354Z">
+        <seg>認証情報は記憶されます。毎回入力する必要は、ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cree</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205605Z">
@@ -27898,6 +27906,14 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will actually do a checkout of the project in a local folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T140225Z">
+        <seg>この操作によって、実際にはプロジェクトがローカルフォルダーにチェックアウトされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create a full distribution of &lt;a0&gt;OmegaT&lt;/a0&gt; in the ./dist/ folder, where you will find all the files necessary to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T062705Z">
@@ -29115,6 +29131,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T090813Z">
         <seg>変更されていない文章は、自動的に翻訳されます。更新された文章は未翻訳として扱われますが、翻訳済みの文章の中から翻訳候補が表示されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T140530Z">
+        <seg>Linux の場合、もし &lt;a2&gt;OmegaT&lt;/a2&gt; が認証情報の入力を毎回促してくるようであれば、［&lt;g3&gt;パスワードを暗号化しないで保存する］チェックボックスにチェックを入れてみてください。</seg>
       </tuv>
     </tu>
     <tu>
