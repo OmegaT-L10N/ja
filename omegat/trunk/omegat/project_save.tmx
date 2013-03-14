@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.7.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29009,8 +29009,8 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T171904Z">
-        <seg>TMX ヘッダーよりも前に翻訳対が見つかりました。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T110021Z">
+        <seg>TMX ヘッダーよりも前に翻訳単位が見つかりました。</seg>
       </tuv>
     </tu>
     <tu>
