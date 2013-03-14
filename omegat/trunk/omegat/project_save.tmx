@@ -17109,6 +17109,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T004840Z">
+        <seg>内部メモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memory assignment</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144959Z">
@@ -21061,6 +21069,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T005618Z">
+        <seg>先頭と末尾のタグを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180742Z">
@@ -21869,6 +21885,14 @@ REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130313T235142Z">
         <seg>以下を検索できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search in project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T005305Z">
+        <seg>プロジェクト検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -23657,6 +23681,14 @@ TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T151422Z">
         <seg>TMX ファイルには通常、複数の異なる言語要素から成る翻訳単位が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T005018Z">
+        <seg>翻訳メモリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28762,6 +28794,14 @@ anyone to deny you these rights or to ask you to surrender the rights.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174718Z">
         <seg>以下の要素を翻訳：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T005204Z">
+        <seg>未訳分節を除外</seg>
       </tuv>
     </tu>
     <tu>
@@ -37995,6 +38035,16 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035654Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
+      <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T005103Z">
+        <seg>用語集</seg>
       </tuv>
     </tu>
   </body>
