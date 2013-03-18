@@ -6854,6 +6854,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T044533Z">
+        <seg>タグの編集を許可する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow the translation to be equal to source</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175631Z">
@@ -12015,8 +12023,8 @@ you have.</seg>
       <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T042208Z">
-        <seg>たとえば、デフォルト設定のままであれば、補助的な翻訳メモリから自動挿入された訳文には、先頭に「&lt;e3&gt;[fuzzy]&lt;/e3&gt;」という接頭辞が付きます。これにより、翻訳者が後から翻訳を見直すときに、その訳文が参考訳文のままなのかどうかを簡単に識別できます（「&lt;l4&gt;翻訳入力行&lt;/l4&gt;」の章を参照してください）。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T044148Z">
+        <seg>たとえば、デフォルト設定のままであれば、補助的な翻訳メモリから自動挿入された訳文には、先頭に「&lt;e3&gt;[参考]&lt;/e3&gt;」という接頭辞が付きます。これにより、翻訳者が後から翻訳を見直すときに、その訳文が参考訳文のままなのかどうかを簡単に識別できます（「&lt;l4&gt;翻訳入力行&lt;/l4&gt;」の章を参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13484,8 +13492,8 @@ compelled to copy the source along with the object code.</seg>
       <tuv lang="EN">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T044619Z">
-        <seg>補助的な翻訳メモリの内容がすべて正しい、ということがあらかじめはっきりと分かっている場合は、そのファイルを &lt;e0&gt;tm/auto&lt;/e0&gt; フォルダーに置いてください。そこから自動挿入される訳文には、「&lt;e1&gt;[fuzzy]&lt;/e1&gt;」という接頭辞が付きません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T044141Z">
+        <seg>補助的な翻訳メモリの内容がすべて正しい、ということがあらかじめはっきりと分かっている場合は、そのファイルを &lt;e0&gt;tm/auto&lt;/e0&gt; フォルダーに置いてください。そこから自動挿入される訳文には、「&lt;e1&gt;[参考]&lt;/e1&gt;」という接頭辞が付きません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26895,8 +26903,8 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The word [Fuzzy] is displayed on the source segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T171036Z">
-        <seg>また原文分節に「[Fuzzy]」と表示されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T044134Z">
+        <seg>また原文分節に「[参考]」と表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30038,6 +30046,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142001Z">
         <seg>タグ検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T044642Z">
+        <seg>分節を離れる時にタグを検証する</seg>
       </tuv>
     </tu>
     <tu>
