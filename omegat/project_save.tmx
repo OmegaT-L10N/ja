@@ -6741,6 +6741,14 @@ covered by this License; they are outside its scope.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U &lt;/k0&gt;to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T091421Z">
+        <seg>ひとつの分節を翻訳し終えたら、&lt;k0&gt;Ctrl+U&lt;/k0&gt; キーを押して、次の未翻訳分節へと移動します（&lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt; キーを押すと、次の翻訳済み分節へ移動します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U &lt;/k0&gt;to move to the next untranslated segment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143214Z">
@@ -10309,6 +10317,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T102441Z">
         <seg>翻訳作業のあいだ、［&lt;g2&gt;編集&lt;/g2&gt;］メニューおよび［&lt;g3&gt;移動&lt;/g3&gt;］メニューから、さまざまな役に立つ機能を利用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During translation, use the &lt;g3&gt;Edit&lt;/g3&gt; and &lt;g4&gt;Go To&lt;/g4&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T091500Z">
+        <seg>翻訳作業のあいだ、［&lt;g3&gt;編集&lt;/g3&gt;］メニューおよび［&lt;g4&gt;移動&lt;/g4&gt;］メニューから、さまざまな役に立つ機能を利用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17673,6 +17689,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T090850Z">
         <seg>追加した用語は、用語集ファイルの変更を保存するまでは反映されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T091524Z">
+        <seg>次の翻訳済み分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -30655,6 +30679,14 @@ price.</seg>
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k1&gt;Ctrl+D&lt;/k1&gt; to generate the translated document, which will be created in the /target/ subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T102004Z">
+        <seg>翻訳の成果を確認したくなったら、&lt;k1&gt;Ctrl+D&lt;/k1&gt; キーを押して、いつでも訳文ファイルを生成できます。訳文ファイルは、プロジェクトの target フォルダー内に作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated document, which will be created in the /target/ subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T091309Z">
         <seg>翻訳の成果を確認したくなったら、&lt;k1&gt;Ctrl+D&lt;/k1&gt; キーを押して、いつでも訳文ファイルを生成できます。訳文ファイルは、プロジェクトの target フォルダー内に作成されます。</seg>
       </tuv>
     </tu>
