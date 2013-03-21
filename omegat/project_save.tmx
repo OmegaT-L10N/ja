@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.7.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15273,6 +15273,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert missing source &amp;tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130321T031839Z">
+        <seg>未使用の原文のタグを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert next missing tag</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130315T135759Z">
@@ -15293,6 +15301,14 @@ the limitation as if written in the body of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130315T135809Z">
         <seg>タグを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert tag {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130321T031745Z">
+        <seg>タグ {0} を挿入</seg>
       </tuv>
     </tu>
     <tu>
