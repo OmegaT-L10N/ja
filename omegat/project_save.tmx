@@ -12525,8 +12525,8 @@ make exceptions for this.</seg>
       <tuv lang="EN">
         <seg>Glossary files can be either in system default encoding (and indicated by the extension .tab) or in UTF-8 (the extension .utf8).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T165208Z">
-        <seg>用語集ファイルの文字エンコードには、システムのデフォルト（拡張子を .tab とします）または UTF-8 （拡張子を .utf8　または .txt とします）のいずれかを使用できます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130327T132701Z">
+        <seg>用語集ファイルの文字エンコードには、システムのデフォルト（拡張子を .tab とします）または UTF-8（拡張子を .utf8 または .txt とします）のいずれかを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25714,8 +25714,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T030240Z">
-        <seg>出力されたレベル 2 TMXファイルは、レベル 2 の仕様に完全に準拠してはいませんが、それに近い水準です。TMX レベル 2 に対応した他の翻訳ツールは、このファイルから参考訳文を問題なく利用できます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130327T132815Z">
+        <seg>出力されたレベル 2 TMX ファイルは、レベル 2 の仕様に完全に準拠してはいませんが、それに近い水準です。TMX レベル 2 に対応した他の翻訳ツールは、このファイルから参考訳文を問題なく利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25730,8 +25730,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The level2 file encapsulates &lt;a0&gt;OmegaT&lt;/a0&gt; specific tags in correct tmx tags so that the file can be used with its formatting information in a translation tool that supports tmx level 2 memories, or &lt;a1&gt;OmegaT&lt;/a1&gt; itself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T162818Z">
-        <seg>level2 ファイルには、&lt;a0&gt;OmegaT&lt;/a0&gt; 特有のタグが適切な TMX タグにカプセル化されて含まれます。したがってそのフォーマット情報は、TMX レベル2の翻訳メモリに対応した他の翻訳ツールや、&lt;a1&gt;OmegaT&lt;/a1&gt; 自身で使用することができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130327T132730Z">
+        <seg>level2 ファイルには、&lt;a0&gt;OmegaT&lt;/a0&gt; 特有のタグが適切な TMX タグにカプセル化されて含まれます。したがってそのフォーマット情報は、TMX レベル 2 の翻訳メモリに対応した他の翻訳ツールや、&lt;a1&gt;OmegaT&lt;/a1&gt; 自身で使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26195,8 +26195,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T023206Z">
-        <seg>ここでの説明には、&lt;u0&gt;ProjectLocker&lt;/u0&gt;（フリープランは２ユーザーまで）の SVN サーバーを例に取ることにします。（日本語訳注：日本語で使える同様のサービスには、フリープランが10ユーザーまでの Backlog（www.backlog.jp）などがあります）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130327T132604Z">
+        <seg>ここでの説明には、&lt;u0&gt;ProjectLocker&lt;/u0&gt;（フリープランは２ユーザーまで）の SVN サーバーを例に取ることにします。（日本語訳注：日本語で使える同様のサービスには、フリープランが 10 ユーザーまでの Backlog（www.backlog.jp）などがあります）</seg>
       </tuv>
     </tu>
     <tu>
