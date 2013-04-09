@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1149,6 +1149,14 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134127Z">
+        <seg>原文言語のトークナイザー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154551Z">
@@ -1177,6 +1185,14 @@ License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164232Z">
         <seg>訳文ファイル言語：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134143Z">
+        <seg>訳文言語のトークナイザー：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2585,8 +2601,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.6&lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130328T150804Z">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 2.6&lt;/e0&gt; は © 2000-2013  Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134021Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 3.0&lt;/e0&gt; は © 2000-2013  Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3029,6 +3045,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T160912Z">
         <seg>&lt;e0&gt;OmegaT 2.6&lt;/e0&gt; は自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 2 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT 2.6&lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134014Z">
+        <seg>&lt;e0&gt;OmegaT 3.0&lt;/e0&gt; は自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 3 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7859,6 +7883,14 @@ paragraph of section 11).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to fix all tags automatically?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134646Z">
+        <seg>すべてのタグを自動修正してよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://code.google.com/p/omegat-jp/issues/detail?id=1&amp;can=1 により、「規則群」を「規則集」に変更。</note>
       <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
@@ -11649,6 +11681,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134949Z">
+        <seg>タグ修正エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error in file</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174901Z">
@@ -12505,6 +12545,22 @@ patents.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T042418Z">
         <seg>以下の６つのフィルター（テキストファイル、PO ファイル、XHTML ファイル、HTML ファイル・XHTML ファイル、OpenDocument または OpenOffice.org ファイル、Microsoft Open XML ファイル）では、複数の詳細な設定が行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134531Z">
+        <seg>修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix all</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134535Z">
+        <seg>すべて修正</seg>
       </tuv>
     </tu>
     <tu>
@@ -18097,6 +18153,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134301Z">
+        <seg>Lucene（Apache ライセンス 2.0）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173507Z">
@@ -21745,6 +21809,14 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T062249Z">
         <seg>build.xml ファイルがそのフォルダーに存在することを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T135159Z">
+        <seg>タグ検証をやり直してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27136,6 +27208,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; 3.0 includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T133827Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 3.0 とともに配布される文書には、取扱説明書と readme.txt ファイルが含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation is Copyright ©2012 Vito Smolej.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T164859Z">
@@ -27156,6 +27236,14 @@ instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070705Z">
         <seg>これらの文書は自由な文書です。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 2 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is a free document; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T133900Z">
+        <seg>これらの文書は自由な文書です。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 3 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28833,6 +28921,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T135141Z">
+        <seg>訳文が変更されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation in this tmx can be either</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180724Z">
@@ -30046,6 +30142,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This operation will affect {0} segments and cannot be undone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134925Z">
+        <seg>この操作は {0} 個の分節を変更します。元に戻すことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option allows batch mode validation of tags.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054205Z">
@@ -30296,6 +30400,14 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152156Z">
         <seg>ティグリニャ語（Tigrinya）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TinySegmenter (public domain)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134333Z">
+        <seg>TinySegmenter（パブリックドメイン）</seg>
       </tuv>
     </tu>
     <tu>
