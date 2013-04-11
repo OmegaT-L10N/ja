@@ -28666,6 +28666,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user&lt;f3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="jchelary" changedate="20130411T140441Z">
+        <seg>ショートカット定義構文は、次の通りです：&lt;c0&gt;&lt;メニュー項目コード&gt;=&lt;ショートカット&gt;&lt;/c0&gt;。&lt;e1&gt;&lt;メニュー項目コード&gt;&lt;/e1&gt; の値は、後述する表を参照してください。&lt;e2&gt;&lt;ショートカット&gt;&lt;/e2&gt; には割り当てたいキーの組み合わせを指定します&lt;f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcut selects the Nth match displayed in the match window (the first match is selected by default)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T040809Z">
