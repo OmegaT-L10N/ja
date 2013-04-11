@@ -2039,6 +2039,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;, &lt;e1&gt;alt&lt;/e1&gt;, &lt;e2&gt;altGraph&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140643Z">
+        <seg>&lt;/f0&gt;、&lt;e1&gt;alt&lt;/e1&gt;、&lt;e2&gt;altGraph&lt;/e2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;, one can find:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140705Z">
+        <seg>は次のようになっています：&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140602Z">
+        <seg>&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/g0&gt;The window features a 3 column table with a link to the segment and its source and target contents:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055518Z">
@@ -2079,6 +2103,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Allow the translation to be equal to source&lt;i5/&gt;&lt;/t4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140835Z">
+        <seg>[100]原文と同じ訳文を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Change the extensions of your plain text source files&lt;/t4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111124Z">
@@ -2091,6 +2123,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111103Z">
         <seg>&lt;/v0&gt;&lt;/v1&gt;&lt;v2&gt;&lt;v3&gt;&lt;t4&gt;プレーンテキストファイルのエンコーディングを指定する&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;Insert the best fuzzy match&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140824Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;最も一致率の高い参考訳文を自動で挿入&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;Leave the segment empty&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140817Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;原文を挿入しない&lt;i3/&gt;&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2475,6 +2523,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103139Z">
         <seg>&lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt; は次の値を取ります：&lt;e1&gt;shift&lt;/e1&gt;、&lt;e2&gt;control&lt;/e2&gt;、&lt;e3&gt;ctrl&lt;/e3&gt;、&lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;&lt;f5&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140609Z">
+        <seg>&lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt; は次の値を取ります：&lt;e1&gt;shift&lt;/e1&gt;、&lt;e2&gt;control&lt;/e2&gt;、&lt;e3&gt;ctrl&lt;/e3&gt;、&lt;e4&gt;meta&lt;/e4&gt;&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4182,6 +4238,21 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184745Z">
         <seg>&lt;l0&gt;&lt;ユーザーホームフォルダー&gt;/.omegat&lt;/l0&gt;（.omegat はフォルダーで、先頭にドットがあるため、ls -a やそれに準じるコマンドでなければ一覧表示されません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;c1&gt; &lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;&lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt; &lt;s3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140746Z">
+        <seg>&lt;l0&gt;&lt;c1&gt;&lt;key&gt;VMOptions&lt;/key&gt;
+&lt;string&gt;-Xmx1024M&lt;/string&gt;
+
+&lt;key&gt;Arguments&lt;/key&gt;
+&lt;array&gt;
+  &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneJapaneseTokenizer&lt;/string&gt;
+  &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt;
+&lt;/array&gt;&lt;/c1&gt;&lt;/l0&gt;&lt;/s2&gt;&lt;s3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6363,10 +6434,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;Attempt to convert numbers when inserting a fuzzy match&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140846Z">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;参考訳文挿入の場合は数値を変更する&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;Change the encoding of your files to Unicode&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111034Z">
         <seg>&lt;v0&gt;&lt;v1&gt;&lt;t2&gt;ファイルのエンコーディングをユニコードに変更する&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;The source text&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140809Z">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;原文を挿入&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12967,6 +13054,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts&lt;f0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140701Z">
+        <seg>例として、OmegaT のデフォルトのショートカット&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052258Z">
@@ -15761,6 +15856,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111239Z">
         <seg>プロジェクトを開くために &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; を使いたいと思ったら、&lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; ファイルを次のように修正してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:&lt;c5&gt; &lt;/c5&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140726Z">
+        <seg>プロジェクトを開くために &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; を使いたいと思ったら、&lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; ファイルを次のように修正してください：&lt;c5&gt;&lt;/c5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35227,6 +35330,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103406Z">
         <seg>そして &lt;c0&gt;&lt;キー&gt;&lt;/c0&gt; には、キーボード上で利用可能な任意のキーを指定できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard&lt;f1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130411T140654Z">
+        <seg>そして &lt;c0&gt;&lt;キー&gt;&lt;/c0&gt; には、キーボード上で利用可能な任意のキーを指定できます&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
