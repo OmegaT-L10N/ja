@@ -31,7 +31,7 @@ external TMX file	外部TMXファイル
 field	領域	×フィールド
 file format	ファイル形式
 filename pattern	ファイル名構成例
-File with formatting	見映えの情報を持つファイル	×書式情報、見栄え
+File with formatting	書式情報付きファイル	×フォーマット、見栄え
 filter	フィルター	× フィルタ
 folder	フォルダー	× フォルダ
 font	字体	「フォント」ではなく「字体」で統一
@@ -47,6 +47,7 @@ language pattern	言語の構成例
 left justification	左寄せ
 load	読み込み	×読込み、読込
 locale code	ロケールコード	地域コードとは異なる
+localize	地域化	×現地化、ローカライズ
 LTR	左から右	Left To Right
 non translated segment	未翻訳の分節
 Note:	注意	訳語検討については https://groups.google.com/forum/?hl=ja&fromgroups=#!topic/omegat-doc-ja/jKCnWIja9Ow を参照
@@ -122,3 +123,4 @@ align	整列	未討議。一貫性を確保するため、とりあえずこの�
 Note	メモ	メモ ウィンドウまたはその内容を指す場合
 section	項	未討議。「節」とか「部」とか、候補があると思いますが、整合性の観点からとりあえず「項」で統一しておきます。
 global	ユーザーレベル	「プロジェクト専用」の設定との対比で使用される場合。
+localize	地域化	×現地化、ローカライズ
