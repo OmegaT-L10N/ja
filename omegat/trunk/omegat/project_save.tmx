@@ -7838,8 +7838,8 @@ paragraph of section 11).</seg>
       <tuv lang="EN">
         <seg>Apertium uses a shallow-transfer machine translation engine which processes the input text in stages, as in an assembly line: de-formatting, morphological analysis, part-of-speech disambiguation, shallow structural transfer, lexical transfer, morphological generation, and re-formatting.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T142543Z">
-        <seg>Apertium は浅い転移（shallow-transfer）の機械翻訳エンジンを使っています。これは入力テキストを、次のような工程の流れ作業に送り込みます。すなわち整形除去、形態素解析、品詞の曖昧性除去、浅い構造化転移、語彙の転移、形態素生成、そして再整形です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T015045Z">
+        <seg>Apertium は浅い転移（shallow-transfer）の機械翻訳エンジンを使っています。これは入力テキストを、次のような工程の流れ作業に送り込みます。すなわち書式設定の解除、形態素解析、品詞の曖昧性除去、浅い構造化転移、語彙の転移、形態素生成、そして書式の再設定です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12453,8 +12453,8 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202133Z">
-        <seg>見映えの情報を持ったファイル（ODF 文書、HTML 文書など）は、ブロックレベル（段落）のタグを基準に分節化されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T015201Z">
+        <seg>整形情報を持ったファイル（ODF 文書、HTML 文書など）は、ブロックレベル（段落）のタグを基準に分節化されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15887,8 +15887,8 @@ material under section 10.</seg>
       <tuv lang="EN">
         <seg>If your source file is a formatted file, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T103430Z">
-        <seg>もし原文ファイルが、Microsoft Word や LibreOffice Writer、HTML などの見映えの情報を持つファイル形式だった場合、OmegaT はその情報をタグに変換し、対象テキストをタグで括った形式で表示します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T014832Z">
+        <seg>もし原文ファイルが、Microsoft Word や LibreOffice Writer、HTML などの書式情報を持つファイル形式だった場合、OmegaT はその情報をタグに変換し、対象テキストをタグで括った形式で表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20181,8 +20181,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important.In the source file (and in the translated file), A source sentence might look like</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T200832Z">
-        <seg>また文書には、見映えとはまったく関係ないけれど、やはり重要なタグが含まれることがあります。原文ファイル（と訳文ファイル）では、原文は次のように見えるはずです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T014758Z">
+        <seg>また文書には、書式とはまったく関係ないけれど、やはり重要なタグが含まれることがあります。原文ファイル（と訳文ファイル）では、原文は次のように見えるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25967,8 +25967,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Tags generally represent some kind of formatting in the original text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T060037Z">
-        <seg>タグがあるということは、多くの場合、ある種のフォーマット・整形がそこで行われているということを表します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T015827Z">
+        <seg>タグがあるということは、多くの場合、ある種の書式整形がそこで行われているということを表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26443,8 +26443,8 @@ for making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; file includes &lt;a1&gt;OmegaT&lt;/a1&gt; specific formatting tags so that the file can be used in other &lt;a2&gt;OmegaT&lt;/a2&gt; projects</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T162901Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ファイルには、&lt;a1&gt;OmegaT&lt;/a1&gt; 特有のフォーマットを持ったタグが含まれるので、他の &lt;a2&gt;OmegaT&lt;/a2&gt; プロジェクトで使用できます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T015529Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ファイルには、&lt;a1&gt;OmegaT&lt;/a1&gt; 特有の整形情報を持ったタグが含まれるので、他の &lt;a2&gt;OmegaT&lt;/a2&gt; プロジェクトで使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27756,8 +27756,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The level2 file encapsulates &lt;a0&gt;OmegaT&lt;/a0&gt; specific tags in correct tmx tags so that the file can be used with its formatting information in a translation tool that supports tmx level 2 memories, or &lt;a1&gt;OmegaT&lt;/a1&gt; itself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130327T132730Z">
-        <seg>level2 ファイルには、&lt;a0&gt;OmegaT&lt;/a0&gt; 特有のタグが適切な TMX タグにカプセル化されて含まれます。したがってそのフォーマット情報は、TMX レベル 2 の翻訳メモリに対応した他の翻訳ツールや、&lt;a1&gt;OmegaT&lt;/a1&gt; 自身で使用することができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T015515Z">
+        <seg>level2 ファイルには、&lt;a0&gt;OmegaT&lt;/a0&gt; 特有のタグが適切な TMX タグに変換された状態で含まれます。したがって整形情報は、TMX レベル 2 の翻訳メモリに対応した他の翻訳ツールや、&lt;a1&gt;OmegaT&lt;/a1&gt; 自身で使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32580,8 +32580,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Very early versions of &lt;a0&gt;OmegaT&lt;/a0&gt; were capable of segmenting source files into paragraphs only and were inconsistent when numbering formatting tags in HTML and Open Document files.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T182836Z">
-        <seg>ごく初期のバージョンの &lt;a0&gt;OmegaT&lt;/a0&gt; は、段落単位でしか原文を分節化できず、また HTML と Open Document ファイルに対しては、フォーマットタグに対する番号付けを適切に行えない場合がありました。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T015628Z">
+        <seg>ごく初期のバージョンの &lt;a0&gt;OmegaT&lt;/a0&gt; は、段落単位でしか原文を分節化できず、また HTML と Open Document ファイルに対しては、整形用のタグに対する番号付けを適切に行えない場合がありました。</seg>
       </tuv>
     </tu>
     <tu>
