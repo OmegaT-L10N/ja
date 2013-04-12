@@ -2393,56 +2393,56 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033530Z">
-        <seg>&lt;b0&gt;見映え設定&lt;b1&gt;１番&lt;/b0&gt;&lt;/b1&gt;は、大変なことになりました！&lt;分節 0001&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T013730Z">
+        <seg>&lt;b0&gt;書式設定&lt;b1&gt;１番&lt;/b0&gt;&lt;/b1&gt;は、大変なことになりました！&lt;分節 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b1&gt;&lt;/b0&gt; has been nested inside formatting zero.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T090749Z">
-        <seg>&lt;b0&gt;見映え設定&lt;b1&gt;１番&lt;/b1&gt;&lt;/b0&gt;は、見映え設定０番の入れ子になりました。&lt;分節 0001&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T013607Z">
+        <seg>&lt;b0&gt;書式設定&lt;b1&gt;１番&lt;/b1&gt;&lt;/b0&gt;は、書式設定０番の入れ子になりました。&lt;分節 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting&lt;/b0&gt; &lt;b1&gt;one&lt;/b1&gt; is going to be messed up.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T164258Z">
-        <seg>&lt;b0&gt;見映え設定&lt;/b0&gt;&lt;b1&gt;１番&lt;/b1&gt;は、大変なことになります！&lt;分節 0001&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T013613Z">
+        <seg>&lt;b0&gt;書式設定&lt;/b0&gt;&lt;b1&gt;１番&lt;/b1&gt;は、大変なことになります！&lt;分節 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting&lt;/b0&gt; &lt;b1&gt;one&lt;/b1&gt; is going to be nested inside formatting zero.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T090302Z">
-        <seg>&lt;b0&gt;見映え設定&lt;/b0&gt;&lt;b1&gt;１番&lt;/b1&gt;は、見映え設定０番の入れ子にしましょう。&lt;分節 0001&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T013547Z">
+        <seg>&lt;b0&gt;書式設定&lt;/b0&gt;&lt;b1&gt;１番&lt;/b1&gt;を、書式設定０番の入れ子にしましょう。&lt;分節 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; has been &lt;b0&gt;duplicated here&lt;/b0&gt;.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082911Z">
-        <seg>&lt;b0&gt;この見映え設定&lt;/b0&gt;は、&lt;b0&gt;こちらにも適用&lt;/b0&gt;されました。&lt;分節 0001&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T013234Z">
+        <seg>&lt;b0&gt;この書式&lt;/b0&gt;を、&lt;b0&gt;こちらにも適用&lt;/b0&gt;しました。&lt;分節 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be deleted.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082759Z">
-        <seg>&lt;b0&gt;この見映え設定&lt;/b0&gt;は削除されます。&lt;分節 0001&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T013349Z">
+        <seg>&lt;b0&gt;この書式&lt;/b0&gt;を削除します。&lt;分節 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be duplicated here.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082454Z">
-        <seg>&lt;b0&gt;この見映え設定&lt;/b0&gt;は、こちらにも適用させましょう。&lt;分節 0001&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T013315Z">
+        <seg>&lt;b0&gt;この書式&lt;/b0&gt;を、こちらにも適用しましょう。&lt;分節 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20422,8 +20422,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT is not yet able to detect mistakes in formatting fully automatically, so it will not prompt you if you make an error or change formatting to fit your target language better.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T041006Z">
-        <seg>OmegaT はまだ整形に関する誤りを、すべて自動で見つけだすことはできません。何か間違いがあったり、訳文言語にあうよう整形情報を変えたにもかかわらず、検出できないこともあります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T014533Z">
+        <seg>OmegaT は今のところ、整形に関する誤りをすべて自動で見つけだすことはできません。また、それが間違いなのか、訳文言語にあうよう意図的に整形情報を改善したものなのか、区別することもできないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29894,8 +29894,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This formatting has been deleted.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082852Z">
-        <seg>この見映え設定は削除されました。&lt;分節 0001&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130412T013456Z">
+        <seg>この書式を削除しました。&lt;分節 0001&gt;</seg>
       </tuv>
     </tu>
     <tu>
