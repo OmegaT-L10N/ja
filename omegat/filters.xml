@@ -24,6 +24,7 @@
         <files targetEncoding="UTF-8" targetFilenamePattern="${filename}" sourceFilenameMask="*.csv"/>
     </filter>
     <filter enabled="true" className="org.omegat.filters2.text.ini.INIFilter">
+        <files targetEncoding="UTF-8" sourceEncoding="UTF-8" targetFilenamePattern="${nameOnly}_${targetLocale}.${extension}" sourceFilenameMask="CustomMessages.ini"/>
         <files targetFilenamePattern="${filename}" sourceFilenameMask="*.ini"/>
         <files targetFilenamePattern="${filename}" sourceFilenameMask="*.lng"/>
     </filter>
