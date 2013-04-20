@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2064,6 +2064,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;, &lt;e1&gt;alt&lt;/e1&gt;, &lt;e2&gt;altGraph&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103820Z">
+        <seg>&lt;/f0&gt;、&lt;e1&gt;alt&lt;/e1&gt;、&lt;e2&gt;altGraph&lt;/e2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;, one can find:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103922Z">
+        <seg>&lt;/f0&gt;は次のようになっています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103744Z">
+        <seg>&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/g0&gt;The window features a 3 column table with a link to the segment and its source and target contents:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055518Z">
@@ -2500,6 +2524,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103139Z">
         <seg>&lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt; は次の値を取ります：&lt;e1&gt;shift&lt;/e1&gt;、&lt;e2&gt;control&lt;/e2&gt;、&lt;e3&gt;ctrl&lt;/e3&gt;、&lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;&lt;f5&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103751Z">
+        <seg>&lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt; は次の値を取ります：&lt;e1&gt;shift&lt;/e1&gt;、&lt;e2&gt;control&lt;/e2&gt;、&lt;e3&gt;ctrl&lt;/e3&gt;、&lt;e4&gt;meta&lt;/e4&gt;&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4207,6 +4239,21 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184745Z">
         <seg>&lt;l0&gt;&lt;ユーザーホームフォルダー&gt;/.omegat&lt;/l0&gt;（.omegat はフォルダーで、先頭にドットがあるため、ls -a やそれに準じるコマンドでなければ一覧表示されません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;c1&gt; &lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;&lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt; &lt;s3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103957Z">
+        <seg>&lt;l0&gt;&lt;c1&gt;&lt;key&gt;VMOptions&lt;/key&gt;
+&lt;string&gt;-Xmx1024M&lt;/string&gt;
+
+&lt;key&gt;Arguments&lt;/key&gt;
+&lt;array&gt;
+  &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneJapaneseTokenizer&lt;/string&gt;
+  &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt;
+&lt;/array&gt;&lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt; &lt;s3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13032,6 +13079,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts&lt;f0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103916Z">
+        <seg>例として、OmegaT のデフォルトのショートカット&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052258Z">
@@ -15826,6 +15881,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111239Z">
         <seg>プロジェクトを開くために &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; を使いたいと思ったら、&lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; ファイルを次のように修正してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:&lt;c5&gt; &lt;/c5&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103937Z">
+        <seg>プロジェクトを開くために &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; を使いたいと思ったら、&lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; ファイルを次のように修正してください：&lt;c5&gt; &lt;/c5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28739,6 +28802,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user&lt;f3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103737Z">
+        <seg>ショートカット定義構文は、次の通りです：&lt;c0&gt;&lt;メニュー項目コード&gt;=&lt;ショートカット&gt;&lt;/c0&gt;。&lt;e1&gt;&lt;メニュー項目コード&gt;&lt;/e1&gt; の値は、後述する表を参照してください。&lt;e2&gt;&lt;ショートカット&gt;&lt;/e2&gt; には割り当てたいキーの組み合わせを指定します&lt;f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcut selects the Nth match displayed in the match window (the first match is selected by default)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T040809Z">
@@ -35292,6 +35363,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T103406Z">
         <seg>そして &lt;c0&gt;&lt;キー&gt;&lt;/c0&gt; には、キーボード上で利用可能な任意のキーを指定できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard&lt;f1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103827Z">
+        <seg>そして &lt;c0&gt;&lt;キー&gt;&lt;/c0&gt; には、キーボード上で利用可能な任意のキーを指定できます&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
