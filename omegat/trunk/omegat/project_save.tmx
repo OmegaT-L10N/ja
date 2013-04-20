@@ -2168,6 +2168,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;e3&gt;regular expressions&lt;/e3&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105046Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;e3&gt;正規表現&lt;/e3&gt;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;Insert the best fuzzy match&lt;i3/&gt;&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130420T104033Z">
@@ -2180,6 +2188,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130420T104025Z">
         <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;原文を挿入しない&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;keyword search&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105030Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;キーワード検索&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2660,6 +2676,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154748Z">
         <seg>&lt;e0&gt;-no-team&lt;/e0&gt; チーム作業用のプロジェクトに関連する引数です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt; &lt;/a1&gt;&lt;/e0&gt;Use &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt; file located in &lt;e4&gt;&lt;a5&gt;OmegaT&lt;/a5&gt;.app/Contents/Resources/Java/&lt;/e4&gt; to launch &lt;a6&gt;OmegaT&lt;/a6&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105005Z">
+        <seg>&lt;e0&gt;&lt;a1&gt; &lt;/a1&gt;&lt;/e0&gt;&lt;a6&gt;OmegaT&lt;/a6&gt; をコマンドラインから起動する場合は、&lt;e4&gt;&lt;a5&gt;OmegaT&lt;/a5&gt;.app/Contents/Resources/Java/&lt;/e4&gt; にある &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt; ファイルを指定してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6503,6 +6527,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130420T104006Z">
         <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;原文を挿入&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;exact search&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105016Z">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;完全一致検索&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26321,6 +26353,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154608Z">
         <seg>チームプロジェクトのオプション設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team project option&lt;p0&gt;&lt;i1/&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105010Z">
+        <seg>チームプロジェクトのオプション設定&lt;p0&gt;&lt;i1/&gt;&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
