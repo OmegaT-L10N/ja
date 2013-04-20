@@ -2128,6 +2128,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Allow the translation to be equal to source&lt;i5/&gt;&lt;/t4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104053Z">
+        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;原文と同じ訳文を許可&lt;i5/&gt;&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Change the extensions of your plain text source files&lt;/t4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111124Z">
@@ -2136,10 +2144,42 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Export the segment to text files&lt;i5/&gt;&lt;/t4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104107Z">
+        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;分節をテキストファイルへ出力&lt;i5/&gt;&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Go To Next Untranslated Segment stops where there is at least one alternative translation&lt;i5/&gt;&lt;/t4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104118Z">
+        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;既定値訳文と違う新しい訳文がある場合［次の未翻訳分節］でその訳文へ移動する&lt;i5/&gt;&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Specify the encoding for your plain text files&lt;/t4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111103Z">
         <seg>&lt;/v0&gt;&lt;/v1&gt;&lt;v2&gt;&lt;v3&gt;&lt;t4&gt;プレーンテキストファイルのエンコーディングを指定する&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;Insert the best fuzzy match&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104033Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;最も一致率の高い参考訳文を自動で挿入&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;Leave the segment empty&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104025Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;原文を挿入しない&lt;i3/&gt;&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,6 +4294,14 @@ The current setting is {0}MB;</seg>
   &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneJapaneseTokenizer&lt;/string&gt;
   &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt;
 &lt;/array&gt;&lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt; &lt;s3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;c1&gt;# OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA &lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt; &lt;s3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104142Z">
+        <seg>&lt;l0&gt;&lt;c1&gt;# OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA &lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt;  &lt;s3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6435,10 +6483,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;Attempt to convert numbers when inserting a fuzzy match&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104044Z">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;参考訳文挿入の場合は数値を変更する&lt;i3/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;Change the encoding of your files to Unicode&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111034Z">
         <seg>&lt;v0&gt;&lt;v1&gt;&lt;t2&gt;ファイルのエンコーディングをユニコードに変更する&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;The source text&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104006Z">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;原文を挿入&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14088,6 +14152,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T131355Z">
         <seg>用語集ウィンドウでテキストを選択し、その選択範囲内を右クリックすると、訳文分節のカーソル（キャレット）位置に選択テキストが挿入されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.&lt;f0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104123Z">
+        <seg>用語集ウィンドウでテキストを選択し、その選択範囲内を右クリックすると、訳文分節のカーソル（キャレット）位置に選択テキストが挿入されます。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
