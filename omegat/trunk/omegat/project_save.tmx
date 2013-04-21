@@ -2184,6 +2184,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;f3&gt;&lt;i4/&gt;tm&lt;/f3&gt; folder&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081724Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;f3&gt;&lt;i4/&gt;tm&lt;/f3&gt; フォルダー&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;Sentence level segmentation&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130421T071722Z">
@@ -2194,8 +2202,24 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;main project folder&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081644Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt; &lt;i3/&gt;メインプロジェクトフォルダー</seg>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081708Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;メインプロジェクトフォルダー&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/auto folder&lt;i4/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081736Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/auto フォルダー&lt;i4/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/penalty-xxx folders&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081747Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/penalty-xxx フォルダー&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,6 +3688,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T050239Z">
         <seg>&lt;f0&gt;alignDir&lt;/f0&gt; には、プロジェクトの訳文言語に翻訳された訳文ファイルを配置しておく必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f9&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081749Z">
+        <seg>&lt;f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20139,6 +20171,14 @@ measures.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T070456Z">
         <seg>OmegaT と他の翻訳支援ツールでは、一致率に相違が見られる場合がありますので、注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that there could be minor differences between the OmegaT counts and the numbers, provided by other CAT tools.&lt;f1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081755Z">
+        <seg>OmegaT と他の翻訳支援ツールでは、一致率に相違が見られる場合がありますので、注意してください。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
