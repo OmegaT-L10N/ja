@@ -98,6 +98,7 @@
         <files targetFilenamePattern="${filename}" sourceFilenameMask="*.wxl"/>
     </filter>
     <filter enabled="true" className="org.omegat.filters2.text.TextFilter">
+        <files targetEncoding="UTF-8" sourceEncoding="UTF-8" targetFilenamePattern="${nameOnly}_${targetLocale}.${extension}" sourceFilenameMask="readme.txt"/>
         <files targetFilenamePattern="${filename}" sourceFilenameMask="*.txt"/>
         <files targetEncoding="ISO-8859-1" sourceEncoding="ISO-8859-1" targetFilenamePattern="${filename}" sourceFilenameMask="*.txt1"/>
         <files targetEncoding="ISO-8859-2" sourceEncoding="ISO-8859-2" targetFilenamePattern="${filename}" sourceFilenameMask="*.txt2"/>

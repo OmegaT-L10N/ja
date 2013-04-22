@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1341,6 +1341,15 @@ the term "modification".)  Each licensee is addressed as "you".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project 
+but you don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044902Z">
+        <seg>（万が一、OmegaT プロジェクトへ大きく協力したのに、ここに名前がないという場合は、遠慮なくご連絡ください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -1367,6 +1376,14 @@ your programs, too.</seg>
         <seg>(Some other Free Software Foundation software is covered by
 the GNU Library General Public License instead.)  You can apply it to
 your programs, too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T040312Z">
+        <seg>（Java 実行ファイルは、Linux の場合は java、Windows の場合は java.exe です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1467,10 +1484,122 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* From the command line (all systems): 
+The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T040233Z">
+        <seg>* コマンドライン経由（全 OS 共通）：
+OmegaT 起動のためのコマンドは：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* From your file manager (all systems):
+Double-click on the file OmegaT.jar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T035725Z">
+        <seg>* ファイルマネージャー経由（全 OS 共通）：
+ファイル OmegaT.jar をダブルクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Linux users:
+For a more user-friendly way of launching OmegaT, you can use the Kaptain 
+script provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T041237Z">
+        <seg>* Linux ユーザー：
+Kaptain スクリプト（omegat.kaptn）を使うと、ユーザーに分かりやすい方法で OmegaT を起動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Linux users:
+If you used the installation script supplied, you should be able to launch OmegaT with:
+Alt+F2
+and then:
+omegat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T035535Z">
+        <seg>* Linux ユーザー：
+インストール スクリプトを使ってインストールした場合は、次のキー入力で起動できます：
+Alt+F2
+そして：
+omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Linux users:
+Place the archive in any suitable folder and unpack it; OmegaT is then 
+ready to be launched.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T150737Z">
+        <seg>* Linux ユーザー：
+アーカイブを任意のフォルダーに配置して、展開してください。これで、OmegaT を起動できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Mac users:
+Copy the OmegaT.zip archive to a suitable location and unpack it there 
+to obtain a folder that contains an HTML documentation index file and 
+OmegaT.app, the application file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T034022Z">
+        <seg>Mac ユーザー：
+OmegaT.zip アーカイブを任意のフォルダーにコピーし、展開してください。内容は、取扱説明書の一覧用 HTML ファイルと OmegaT.app、そしてプログラムファイルなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Mac users:
+Double-click on the file OmegaT.app.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T035658Z">
+        <seg>* Mac ユーザー：
+ファイル OmegaT.app をダブルクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Others (e.g., Solaris, FreeBSD: 
+To install OmegaT, simply create a suitable folder for OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T034219Z">
+        <seg>* その他のユーザー（Solaris、FreeBSD など）：
+OmegaT 用のフォルダーを適切な場所に作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T210848Z">
         <seg>* これらのキーでは、カーソルが編集中の分節の外側にあると、動作が異なります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Windows users: 
+If, during installation, you have created a shortcut on the desktop, 
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T034445Z">
+        <seg>* Windows ユーザー：
+インストール中に、デスクトップにショートカットを作成した場合は、それをダブルクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* Windows users: 
+The install program can create shortcuts for you in the start 
+menu, on the desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T040543Z">
+        <seg>* Windows ユーザー：
+インストールプログラムを実行すると、スタートメニューやデスクトップ、クイック起動バーへショートカットを作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1491,6 +1620,270 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- (X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T094801Z">
+        <seg>- (X)HTML（.html、.xhtml、.xht）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- ASCII text (.txt, etc.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075620Z">
+        <seg>- ASCII テキスト（.txt など）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Android resource (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095301Z">
+        <seg>- Android リソース・ファイル（.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Camtasia for Windows (*.camproj)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095402Z">
+        <seg>- Camtasia Studio for Windows（.camproj）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- DTD files (*.DTD)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T094347Z">
+        <seg>- DTD ファイル（.DTD）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- DocBook (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095001Z">
+        <seg>- DocBook（.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- DocuWiki files (*.txt)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T094356Z">
+        <seg>- DokuWiki ファイル（.txt）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Encoded text (*.UTF8)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075733Z">
+        <seg>- エンコードされたテキスト（.UTF8）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Flash XML export (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095352Z">
+        <seg>- Flash の XML 出力（.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- HTML Help Compiler (*.hhc, *.hhk)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T094812Z">
+        <seg>- HTML ヘルプ コンパイラ（.hhc、.hhk）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Help (*.xml) and Manual (*.hmxp) files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095318Z">
+        <seg>- Help（.xml）とマニュアル（.hmxp）ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- INI (key=value) files (*.ini)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075915Z">
+        <seg>- INI ファイル（キー＝値 形式）（.ini）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Iceni Infix (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095345Z">
+        <seg>- Iceni Infix（.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Java resource bundles (*.properties)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075728Z">
+        <seg>- Java リソースバンドル（.properties）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- LaTex (*.tex, *.latex)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095307Z">
+        <seg>- LaTex（.tex、.latex）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Magento CE Locale CSV (*.csv)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T094522Z">
+        <seg>- Magento CE Locale CSV ファイル（.csv）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T094741Z">
+        <seg>- Microsoft Open XML（.docx、.xlsx、.pptx）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- OpenOffice.org / OpenDocument (*.odt, *.ott, *.ods, *.ots, *.odp, *.otp)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T094545Z">
+        <seg>- OpenOffice.org / OpenDocument（.ods、.ots、.odt、.ott、.odp、.otp）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- PO files (*.po)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075757Z">
+        <seg>- PO ファイル（.po）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Plain text file formats</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075609Z">
+        <seg>- プレーンテキストファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095249Z">
+        <seg>- QuarkXPress CopyFlowGold（.tag、.xtg）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- ResX files (*.resx)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095255Z">
+        <seg>- ResX ファイル（.resx）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Steps to reproduce,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045401Z">
+        <seg>- 再現するまでの手順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- SubRip title files (*.srt)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T094518Z">
+        <seg>- SubRip 字幕ファイル（.srt）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Tagged text file formats</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T094455Z">
+        <seg>- タグ付きテキストファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Typo3 LocManager (*.xml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095323Z">
+        <seg>- Typo3 LocManager（.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Visio (*.vxd)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095408Z">
+        <seg>- Microsoft Visio ファイル（.vxd）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- What you expected to see, and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045412Z">
+        <seg>- その操作によって期待される動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- What you saw instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045416Z">
+        <seg>- 実際の動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- WiX Localization (*.wxl)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095329Z">
+        <seg>- WiX ローカリゼーションファイル（.wxl）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Wordfast TXML (*.txml)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095357Z">
+        <seg>- Wordfast TXML ファイル（.txml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- ability to run on any operating system supporting Java</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T074234Z">
+        <seg>- Java に対応したオペレーティングシステム上であれば動作可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- clear and comprehensive documentation and tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075456Z">
+        <seg>- 簡潔でわかりやすい取扱説明書やチュートリアル（お手軽スタートガイド）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T160817Z">
@@ -1499,10 +1892,106 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T074513Z">
+        <seg>- SRX（Segmentation Rules eXchange）に近い手法による、柔軟な分節化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- fuzzy matching</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T074829Z">
+        <seg>- 参考訳文の照合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T102427Z">
         <seg>拡張子 &lt;f0&gt;.txt &lt;/f0&gt; のファイルを例に取ります。ファイルフィルターダイアログから&lt;e1&gt;テキストファイル&lt;/e1&gt;のフィルターを編集し、&lt;e2&gt;原文ファイルのエンコーディング&lt;/e2&gt;を「&lt;自動&gt;」から対象の &lt;f3&gt;.txt&lt;/f3&gt; ファイルに適したエンコーディングに変更します。たとえば上の例で言えば、日本語に対応したエンコーディングに変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- localization in a number of languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075506Z">
+        <seg>- ソフトウェア自身が多数の言語へ翻訳されている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- monolingual XLIFF (*.xlf, *.xliff, *.sdlxliff)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095234Z">
+        <seg>- monolingual XLIFF（.xlf、.xliff、.sdlxliff）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- searches in the project and the reference translation memories</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T074551Z">
+        <seg>- プロジェクトや翻訳メモリ内の検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- searches of files in supported formats in any folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T074815Z">
+        <seg>- 任意のフォルダーにある、対応した形式を持つファイルの検索 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- smart handling of projects including complex folder hierarchies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095534Z">
+        <seg>- 複雑なフォルダー構造を含むプロジェクトでも、スマートな取り扱い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- support for OpenSource on-the-fly spell checkers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075315Z">
+        <seg>- オープンソースのオンザフライの綴り確認ツールへの対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- support for StarDict dictionaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075335Z">
+        <seg>- StarDict 辞書への対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- support for glossaries (terminology checks)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075128Z">
+        <seg>- 用語集（専門用語の確認）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- support for the Google Translate machine translation services</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075356Z">
+        <seg>- Google Translate などの機械翻訳サービスへの対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- use of any valid TMX file as a translation reference</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T074557Z">
+        <seg>- あらゆる有効な TMX ファイルを、翻訳の参照として利用可能</seg>
       </tuv>
     </tu>
     <tu>
@@ -1879,6 +2368,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T100023Z">
+        <seg>3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T145744Z">
+        <seg>3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T034322Z">
+        <seg>3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>31175</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T162902Z">
@@ -2064,30 +2577,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f0&gt;, &lt;e1&gt;alt&lt;/e1&gt;, &lt;e2&gt;altGraph&lt;/e2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103820Z">
-        <seg>&lt;/f0&gt;、&lt;e1&gt;alt&lt;/e1&gt;、&lt;e2&gt;altGraph&lt;/e2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f0&gt;, one can find:</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103922Z">
-        <seg>&lt;/f0&gt;は次のようになっています：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f0&gt;.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103744Z">
-        <seg>&lt;/f0&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/g0&gt;The window features a 3 column table with a link to the segment and its source and target contents:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T055518Z">
@@ -2128,22 +2617,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;&lt;i5/&gt;Exception rule&lt;/t4&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081627Z">
-        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;&lt;i5/&gt;例外規則&lt;/t4&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Allow the translation to be equal to source&lt;i5/&gt;&lt;/t4&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104053Z">
-        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;原文と同じ訳文を許可&lt;i5/&gt;&lt;/t4&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Change the extensions of your plain text source files&lt;/t4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111124Z">
@@ -2152,98 +2625,10 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Export the segment to text files&lt;i5/&gt;&lt;/t4&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104107Z">
-        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;分節をテキストファイルへ出力&lt;i5/&gt;&lt;/t4&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Go To Next Untranslated Segment stops where there is at least one alternative translation&lt;i5/&gt;&lt;/t4&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104118Z">
-        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;既定値訳文と違う新しい訳文がある場合［次の未翻訳分節］でその訳文へ移動する&lt;i5/&gt;&lt;/t4&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Specify the encoding for your plain text files&lt;/t4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111103Z">
         <seg>&lt;/v0&gt;&lt;/v1&gt;&lt;v2&gt;&lt;v3&gt;&lt;t4&gt;プレーンテキストファイルのエンコーディングを指定する&lt;/t4&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;e3&gt;regular expressions&lt;/e3&gt;&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105046Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;e3&gt;正規表現&lt;/e3&gt;&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;f3&gt;&lt;i4/&gt;tm&lt;/f3&gt; folder&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081724Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;f3&gt;&lt;i4/&gt;tm&lt;/f3&gt; フォルダー&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;Sentence level segmentation&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T071722Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;文単位の分節化&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;main project folder&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081708Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;メインプロジェクトフォルダー&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/auto folder&lt;i4/&gt;&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081736Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/auto フォルダー&lt;i4/&gt;&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/penalty-xxx folders&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081747Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/penalty-xxx フォルダー&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;Insert the best fuzzy match&lt;i3/&gt;&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104033Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;最も一致率の高い参考訳文を自動で挿入&lt;i3/&gt;&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;Leave the segment empty&lt;i3/&gt;&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104025Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;原文を挿入しない&lt;i3/&gt;&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;keyword search&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105030Z">
-        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;キーワード検索&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,8 +2763,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110337Z">
-        <seg>OmegaT は Linux（Intel x86）と Windows プラットフォーム向けにバンドルされた Oracle Java JRE で動作します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093625Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は Linux（Intel x86）と Windows プラットフォーム向けにバンドルされた Oracle Java JRE で動作します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2632,14 +3017,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;&lt;f5&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103751Z">
-        <seg>&lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt; は次の値を取ります：&lt;e1&gt;shift&lt;/e1&gt;、&lt;e2&gt;control&lt;/e2&gt;、&lt;e3&gt;ctrl&lt;/e3&gt;、&lt;e4&gt;meta&lt;/e4&gt;&lt;f5&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111313Z">
@@ -2724,14 +3101,6 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154748Z">
         <seg>&lt;e0&gt;-no-team&lt;/e0&gt; チーム作業用のプロジェクトに関連する引数です。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;&lt;a1&gt; &lt;/a1&gt;&lt;/e0&gt;Use &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt; file located in &lt;e4&gt;&lt;a5&gt;OmegaT&lt;/a5&gt;.app/Contents/Resources/Java/&lt;/e4&gt; to launch &lt;a6&gt;OmegaT&lt;/a6&gt; from the command line.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105005Z">
-        <seg>&lt;e0&gt;&lt;a1&gt; &lt;/a1&gt;&lt;/e0&gt;&lt;a6&gt;OmegaT&lt;/a6&gt; をコマンドラインから起動する場合は、&lt;e4&gt;&lt;a5&gt;OmegaT&lt;/a5&gt;.app/Contents/Resources/Java/&lt;/e4&gt; にある &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt; ファイルを指定してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3692,14 +4061,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f9&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081749Z">
-        <seg>&lt;f9&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025420Z">
@@ -4363,29 +4724,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;l0&gt;&lt;c1&gt; &lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;&lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt; &lt;s3&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103957Z">
-        <seg>&lt;l0&gt;&lt;c1&gt;&lt;key&gt;VMOptions&lt;/key&gt;
-&lt;string&gt;-Xmx1024M&lt;/string&gt;
-
-&lt;key&gt;Arguments&lt;/key&gt;
-&lt;array&gt;
-  &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneJapaneseTokenizer&lt;/string&gt;
-  &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt;
-&lt;/array&gt;&lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt; &lt;s3&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;l0&gt;&lt;c1&gt;# OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA &lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt; &lt;s3&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104142Z">
-        <seg>&lt;l0&gt;&lt;c1&gt;# OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA &lt;/c1&gt;&lt;/l0&gt; &lt;/s2&gt;  &lt;s3&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;f0&gt;&lt;f1&gt;This is text&lt;/f0&gt;&lt;/f1&gt;&lt;/l0&gt; thus will be copied as &lt;l1&gt;&lt;f0&gt;&lt;f1&gt;one_space&lt;/f0&gt;&lt;/f1&gt;&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T165949Z">
@@ -4414,6 +4752,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T173923Z">
         <seg>詳しくは&lt;l0&gt;付録 - ショートカットのカスタマイズ&lt;/l0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T040252Z">
+        <seg>&lt;Java 実行ファイルへのパス&gt; -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5653,7 +5999,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Creating a new rule&lt;/s1&gt; &lt;s2&gt;Regular expressions&lt;/s2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T082051Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T092343Z">
         <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;規則の新規作成&lt;/s1&gt; &lt;s2&gt;正規表現&lt;/s2&gt;</seg>
       </tuv>
     </tu>
@@ -6563,38 +6909,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;Break rule&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081614Z">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;分節規則&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;Structure level segmentation&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T120238Z">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;構造単位の分節化&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;omegat folder&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081637Z">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;omegat フォルダー&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;Attempt to convert numbers when inserting a fuzzy match&lt;i3/&gt;&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104044Z">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;参考訳文挿入の場合は数値を変更する&lt;i3/&gt;&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;Change the encoding of your files to Unicode&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111034Z">
@@ -6603,24 +6917,44 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;The source text&lt;/t2&gt;</seg>
+        <seg>==============================================================================</seg>
       </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104006Z">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;原文を挿入&lt;/t2&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073346Z">
+        <seg>==============================================================================</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;exact search&lt;/t2&gt;</seg>
+        <seg>==============================================================================
+6.</seg>
       </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105016Z">
-        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;完全一致検索&lt;/t2&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045037Z">
+        <seg>==============================================================================
+6.</seg>
       </tuv>
     </tu>
     <tu>
       <note>URL 不正。バグ登録済み（https://sourceforge.net/tracker/?func=detail&amp;aid=3603510&amp;group_id=68187&amp;atid=912617）。</note>
       <tuv lang="EN">
         <seg>???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>@@TRANSLATION_NOTICE@@</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T051701Z">
+        <seg>OmegaT の日本語版は、以下の貢献者によって作成されました：
+・1.4版全体：柳田 ひさし氏 copyright© 2004
+・1.6版 お手軽スタートガイド：可知 豊氏 copyright© 2006
+・1.6版 UI：林 たかゆき氏 copyright© 2006
+・1.6版 readme：中山 嘉孝氏 copyright© 2006
+・1.6版 ユーザーマニュアル：白方 健太郎氏 copyright© 2006
+・1.6版 全体チェック 横田 邦彦氏
+・1.6版 全体チェック エラリー ジャンクリストフ氏
+・1.6版 全体チェック＋差分翻訳 松谷 善久氏
+・1.8/2.0版 お手軽スタートガイド、UI、readme：エラリー ジャンクリストフ氏 copyright© 2009
+・1.8/2.0版 全体チェック 篠原 範子氏</seg>
       </tuv>
     </tu>
     <tu>
@@ -7095,6 +7429,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044050Z">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203451Z">
@@ -7273,8 +7615,8 @@ covered by this License; they are outside its scope.</seg>
       <tuv lang="EN">
         <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T203411Z">
-        <seg>メニュー（KDE）またはパネル（GNOME）への OmegaT の追加</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093258Z">
+        <seg>メニュー（KDE）またはパネル（GNOME）への &lt;a0&gt;OmegaT&lt;/a0&gt; の追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -7500,6 +7842,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203552Z">
         <seg>アルバニア語（Albanian）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alex Buloichik (lead developer)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044041Z">
+        <seg>Alex Buloichik（開発リーダー）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,6 +8088,15 @@ software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, double-click on the file 
+OmegaT.exe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T034555Z">
+        <seg>あるいは、インストール先にある OmegaT.exe をダブルクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051715Z">
@@ -7874,7 +8233,7 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T082036Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T092642Z">
         <seg>コンソールモード用の追加設定として &lt;l0&gt;--quiet&lt;/l0&gt; があります。</seg>
       </tuv>
     </tu>
@@ -7934,10 +8293,26 @@ to receive a copy likewise does not require acceptance.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And get a feel of what is going on in the OmegaT world...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043602Z">
+        <seg>そして、OmegaT の世界がどんな雰囲気であるのかをつかんでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And of course, if you wish to be on the safe side, consider converting this kind of file to Unicode, i.e. to the &lt;l6&gt;.utf8 &lt;/l6&gt;file format.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T170134Z">
         <seg>もちろん、安全のため、こうしたファイルはユニコード形式（ここでは &lt;l6&gt;.utf8&lt;/l6&gt; ファイル）への変換を検討してもいいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And subscribe to the translators' list:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043454Z">
+        <seg>そして翻訳者のメーリングリストに参加してください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7978,6 +8353,14 @@ rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Andrzej Sawuła</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044054Z">
+        <seg>Andrzej Sawuła</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; When this parameter is added, tag validation is done prior to translation/aligning.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T055228Z">
@@ -7990,6 +8373,14 @@ rights.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164908Z">
         <seg>もう１つ別の追加のコンソールモードのオプションとして、&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt; があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Antonio Vilei</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044055Z">
+        <seg>Antonio Vilei</seg>
       </tuv>
     </tu>
     <tu>
@@ -8177,6 +8568,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203728Z">
         <seg>アルメニア語（Armenian）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arno Peters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044052Z">
+        <seg>Arno Peters</seg>
       </tuv>
     </tu>
     <tu>
@@ -8633,6 +9032,15 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before reporting a bug, make sure that you have thoroughly checked the
+documentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045103Z">
+        <seg>バグ報告の前に、まず取扱説明書などをじゅうぶん確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before segments get translated, you may wish to pre-process them or address them in some other way than is possible with OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T172622Z">
@@ -8677,6 +9085,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204121Z">
         <seg>ベンガル語（Bengali）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Benjamin Siband</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044054Z">
+        <seg>Benjamin Siband</seg>
       </tuv>
     </tu>
     <tu>
@@ -8753,6 +9169,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044053Z">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164705Z">
@@ -8781,6 +9205,14 @@ FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181550Z">
         <seg>バグ報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bug reports (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073849Z">
+        <seg>バグ報告も同じく SourceForge 内の開発サイトへ（英語のみ）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9475,6 +9907,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043645Z">
+        <seg>コードに関する貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
@@ -9699,6 +10139,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributions to OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T050755Z">
+        <seg>OmegaT プロジェクトへの貢献</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conveying Modified Source Versions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130408T231242Z">
@@ -9785,6 +10233,15 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140426Z">
         <seg>そのファイルをコピーして、名前を &lt;f0&gt;project_save.tmx&lt;/f0&gt; に変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the 
+OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T034319Z">
+        <seg>そこに OmegaT の zip か tar.bz2 アーカイブをダウンロードし、展開してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10533,6 +10990,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizing your OmegaT launch experience:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T040433Z">
+        <seg>OmegaT 起動方法のカスタマイズ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140811Z">
@@ -10817,6 +11282,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel (development manager)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044035Z">
+        <seg>Didier Briel（開発担当）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191415Z">
@@ -11081,6 +11554,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dmitri Gabinski</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044109Z">
+        <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag issues</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130315T140018Z">
@@ -11133,6 +11614,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T183307Z">
         <seg>Oracle の Java 1.5 JRE 互換の Java を実行可能な環境ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you need help?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T050749Z">
+        <seg>報告の手順</seg>
       </tuv>
     </tu>
     <tu>
@@ -11305,6 +11794,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download in this case from:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T145629Z">
+        <seg>ダウンロード先は：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T061053Z">
@@ -11365,6 +11862,15 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130406T224052Z">
         <seg>重複</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During the installation, depending on your operating system, you may receive 
+several security warnings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T140557Z">
+        <seg>インストール中、OS によってはいくつかのセキュリティ警告が表示される場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11851,8 +12357,8 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T050958Z">
-        <seg>［名前］欄に &lt;a0&gt;OmegaT&lt;/a0&gt; と入力します。［コマンド］欄には、ナビゲーションボタンを使用して OmegaT 起動スクリプト（展開したフォルダの中にある OmegaT という名称のファイル）を指定します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093451Z">
+        <seg>［名前］欄に &lt;a0&gt;OmegaT&lt;/a0&gt; と入力します。［コマンド］欄には、ナビゲーションボタンを使用して &lt;a1&gt;OmegaT&lt;/a1&gt; 起動スクリプト（展開したフォルダの中にある &lt;a2&gt;OmegaT&lt;/a2&gt; という名称のファイル）を指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12179,6 +12685,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Every good bug report needs exactly three things.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045353Z">
+        <seg>よいバグ報告には、次の 3 点が含まれています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T161349Z">
@@ -12487,6 +13001,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141031Z">
         <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fabián Mandelbaum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044050Z">
+        <seg>Fabián Mandelbaum</seg>
       </tuv>
     </tu>
     <tu>
@@ -13035,6 +13557,15 @@ actually uses, or expects or is expected to use, the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a quick-start tutorial, launch OmegaT and read the displayed Instant Start 
+Tutorial.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T100000Z">
+        <seg>OmegaT を手早く使い慣れたい場合は、まず OmegaT を起動して「お手軽スタートガイド」をお読みください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T172352Z">
@@ -13255,14 +13786,6 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>For example, in the default OmegaT shortcuts&lt;f0&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103916Z">
-        <seg>例として、OmegaT のデフォルトのショートカット&lt;f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052258Z">
@@ -13385,6 +13908,15 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on the Kaptain script and on adding menu items and 
+launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T042934Z">
+        <seg>Kaptain スクリプトと、Linux におけるメニュー項目と起動アイコンの追加に関する詳細は、OmegaT ウェブサイトの Linux HowTo を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on this, and how to apply and follow the GNU GPL, see
 &lt;http://www.gnu.org/licenses/&gt;.</seg>
       </tuv>
@@ -13477,6 +14009,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181249Z">
         <seg>OmegaT の最新版については、www.omegat.org のダウンロード ページを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this purpose download the following file and then execute it:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T140333Z">
+        <seg>この場合、以下のファイルをダウンロードし、実行してください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13667,8 +14207,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;a4&gt;OmegaT&lt;/a4&gt;.png can be selected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163413Z">
-        <seg>GNOME は、何も指定しないとアイコンに SVG ファイルを想定するらしく、ファイル形式に対応しているはずのアイコンファイルを表示できないことがあります。しかし、上記のようにフォルダーを選択すれば、OmegaT.png を選択できるようになります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093519Z">
+        <seg>GNOME は、何も指定しないとアイコンに SVG ファイルを想定するらしく、ファイル形式に対応しているはずのアイコンファイルを表示できないことがあります。しかし、上記のようにフォルダーを選択すれば、&lt;a4&gt;OmegaT&lt;/a4&gt;.png を選択できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13707,6 +14247,17 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General
+In order to run, OmegaT requires the Java Runtime Environment (JRE) version 
+1.5 or higher to be installed on your system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T100210Z">
+        <seg>全般の確認事項
+OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 以降があらかじめインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T203946Z">
@@ -13727,6 +14278,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121458Z">
         <seg>ドイツ語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting involved in the OmegaT project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043345Z">
+        <seg>OmegaT プロジェクトへの貢献</seg>
       </tuv>
     </tu>
     <tu>
@@ -14019,6 +14578,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Guido Leenders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044049Z">
+        <seg>Guido Leenders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gujarati</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T063913Z">
@@ -14079,6 +14646,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064856Z">
         <seg>ハイチ語、ハイチクレオール語（Haitian, Haitian Creole）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hans-Peter Jacobs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044046Z">
+        <seg>Hans-Peter Jacobs</seg>
       </tuv>
     </tu>
     <tu>
@@ -14179,6 +14754,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Henry Pijffers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044052Z">
+        <seg>Henry Pijffers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here a platform-independent package in a standard Java form is considered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T185534Z">
@@ -14264,14 +14847,6 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T131355Z">
         <seg>用語集ウィンドウでテキストを選択し、その選択範囲内を右クリックすると、訳文分節のカーソル（キャレット）位置に選択テキストが挿入されます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.&lt;f0&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104123Z">
-        <seg>用語集ウィンドウでテキストを選択し、その選択範囲内を右クリックすると、訳文分節のカーソル（キャレット）位置に選択テキストが挿入されます。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14612,6 +15187,14 @@ SUCH DAMAGES.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ibai Lakunza Velasco</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044047Z">
+        <seg>Ibai Lakunza Velasco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Icelandic</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T065555Z">
@@ -14696,6 +15279,15 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full 
+path need not be entered.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T040349Z">
+        <seg>システムレベルで Java がインストールされている場合、フルパスを指定する必要はありません。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110705Z">
@@ -14776,8 +15368,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T045915Z">
-        <seg>ある OmegaT のプロジェクトに１つ以上の用語集がある場合、現在の分節中に見つかった用語が、用語集ウィンドウに自動的に表示されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093224Z">
+        <seg>ある &lt;a0&gt;OmegaT&lt;/a0&gt; のプロジェクトに１つ以上の用語集がある場合、現在の分節中に見つかった用語が、用語集ウィンドウに自動的に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14938,8 +15530,8 @@ compelled to copy the source along with the object code.</seg>
       <tuv lang="EN">
         <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T011454Z">
-        <seg>この引数を指定すると、OmegaT がコンソールモードで起動し、指定されたプロジェクトを翻訳します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093707Z">
+        <seg>この引数を指定すると、&lt;a2&gt;OmegaT&lt;/a2&gt; がコンソールモードで起動し、指定されたプロジェクトを翻訳します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15648,6 +16240,15 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are in any doubt, we recommend that you use the version supplied with 
+JRE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T141350Z">
+        <seg>JRE がインストールされているか不明な場合は、JRE が付属したパッケージをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in modifying or distributing &lt;a1&gt;OmegaT&lt;/a1&gt;, read this document carefully and ensure you understand its implications before doing anything.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T202004Z">
@@ -15660,6 +16261,15 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130302T155359Z">
         <seg>他の設定に用があれば、&lt;k0&gt;Ctrl+E&lt;/k0&gt; キーを押して、いつでもこのダイアログに戻ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are not very familiar with Linux, we therefore recommend 
+that you install an OmegaT version with JRE included.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T143310Z">
+        <seg>Linux に精通しているのでない限り、JRE が付属した OmegaT パッケージをインストールするのがよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15682,8 +16292,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific directory.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045706Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り起動できない（GUI 環境がない）場合は、次の方法をとってください：同じ端末の他の場所、または別の端末にある OmegaT の設定ファイルを、あらかじめ決めたフォルダーにコピーしておきます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093822Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り起動できない（GUI 環境がない）場合は、次の方法をとってください：同じ端末の他の場所、または別の端末にある &lt;a1&gt;OmegaT&lt;/a1&gt; の設定ファイルを、あらかじめ決めたフォルダーにコピーしておきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15716,6 +16326,16 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T030454Z">
         <seg>本来、開いていたり最小化していたりするはずのウィンドウが見当たらない場合は、&lt;g0&gt;［設定］→［ウィンドウを初期値に復元］&lt;/g0&gt;を選んでください。ウィンドウの配置をインストール直後の状態に復元します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your 
+File Manager (Windows Explorer), change the settings so that file 
+extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T035306Z">
+        <seg>もしファイルマネージャー（Windows エクスプローラー）上で見たときに、拡張子なしのファイル「OmegaT」しか見つからない場合は、設定を変更（Windows 7 の場合、[コントロールパネル]-[デスクトップのカスタマイズ]-[フォルダー オプション]-[すべてのファイルとフォルダーを表示]-[表示] タブ-[詳細設定]-[登録されている拡張子は表示しない] をオフに）してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15760,6 +16380,17 @@ not convey it at all.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T194423Z">
         <seg>またプロジェクトを開いているときに分節化の設定を変更すると、変更を適用するためにプロジェクトの再読み込みが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you check the OmegaT log and you see words like
+"Error", "Warning", "Exception", or "died unexpectedly" then you have probably
+discovered a genuine problem (the log.txt is located in the user preferences
+folder, see the manual for its location).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045253Z">
+        <seg>OmegaT のログに「Error」「Warning」「Exception」「died unexpectedly」といった単語が残っていれば、おそらく何らかの問題が生じています（log.txt はユーザー設定フォルダーに生成されます。ログファイルの場所については、取扱説明書を参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15893,6 +16524,15 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java, one way to install the current version of 
+OmegaT is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T140406Z">
+        <seg>すでに Java 実行環境があるなら、現バージョンの OmegaT をインストールするひとつの方法として、Java Web Start を使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt._BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073642Z">
@@ -15937,6 +16577,16 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T162853Z">
         <seg>まだ一度も手動で保存していなかった場合は、本当に閉じてもよいかどうか確認メッセージが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you install a version of Java at system level, you must either 
+ensure that it is in your launch path, or call it explicitly when launching 
+OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T143118Z">
+        <seg>Java をシステムレベルにインストールした場合は、起動パスが通っているか、あるいは OmegaT を起動する際にパスを明示して Java を呼んでいることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16069,14 +16719,6 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:&lt;c5&gt; &lt;/c5&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103937Z">
-        <seg>プロジェクトを開くために &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; を使いたいと思ったら、&lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; ファイルを次のように修正してください：&lt;c5&gt; &lt;/c5&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T181609Z">
@@ -16133,6 +16775,15 @@ to ask for permission.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T172835Z">
         <seg>Mac OS X の OmegaT.app パッケージでトークナイザーを使う場合、トークナイザーのインストールは上記で説明されている通りです（OmegaT.app を右クリックすれば、OmegaT.jar の場所が分かります）。ただし、使用するトークナイザー名は Java 起動オプションに含まれる &lt;f0&gt;info.plist&lt;/f0&gt; で指定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish, the 
+installation program can create shortcuts to launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T150407Z">
+        <seg>OmegaT を起動するためのショートカットも作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16339,8 +16990,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T041549Z">
-        <seg>KMenuEditor から［ファイル］→［新規アイテム］を選びます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093328Z">
+        <seg>KMenuEditor から&lt;e3&gt;［ファイル］→［新規アイテム］&lt;/e3&gt;を選びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16670,8 +17321,8 @@ the limitation as if written in the body of this License.</seg>
       <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T043115Z">
-        <seg>［コマンド］欄には、ナビゲーションボタンを使用して &lt;a0&gt;OmegaT&lt;/a0&gt; 起動スクリプト（展開したフォルダーの中にある &lt;a0&gt;OmegaT&lt;/a0&gt; という名称のファイル）を指定します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093418Z">
+        <seg>［コマンド］欄には、ナビゲーションボタンを使用して &lt;a0&gt;OmegaT&lt;/a0&gt; 起動スクリプト（展開したフォルダーの中にある &lt;a1&gt;OmegaT&lt;/a1&gt; という名称のファイル）を指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16959,6 +17610,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information about OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073446Z">
+        <seg>OmegaT について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T154353Z">
@@ -17167,6 +17826,18 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation
+* Windows users: 
+Simply launch the installation program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T150311Z">
+        <seg>OmegaT のインストール
+* Windows ユーザー：
+インストールプログラムを実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T063515Z">
@@ -17315,6 +17986,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064140Z">
         <seg>アイルランド語（Irish）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is OmegaT bugging you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T050654Z">
+        <seg>OmegaT のバグを見つけたら？</seg>
       </tuv>
     </tu>
     <tu>
@@ -17468,6 +18147,17 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T044326Z">
         <seg>OmegaT がプロジェクトを読み込むと、翻訳対象ファイル一覧が自動的に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is free, that is you 
+don't have to pay anything to be able to use it, even for professional use, 
+and you are free to modify it and/or re-distribute it as long as you respect 
+the user license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T074159Z">
+        <seg>そして自由なソフトウェアです。これはたとえ商用利用であっても、利用料を支払う必要が無いということを意味しています。ユーザーライセンスを遵守すれば、改変や再配布も自由に行えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17678,6 +18368,15 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application 
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T140456Z">
+        <seg>最初の実行時に、お使いのコンピューターに適した実行環境とアプリケーションを自動でインストールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121521Z">
@@ -17729,6 +18428,14 @@ inside the configuration folder.</seg>
         <seg>JSAP (LGPL License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T135624Z">
+        <seg>JSAP（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JSAP (LGPL)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044937Z">
         <seg>JSAP（LGPL ライセンス）</seg>
       </tuv>
     </tu>
@@ -17798,6 +18505,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044046Z">
+        <seg>Jean-Christophe Helary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (localization manager)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044159Z">
+        <seg>Jean-Christophe Helary（地域化担当）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191424Z">
@@ -17810,6 +18533,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180222Z">
         <seg>Jmyspell 2.1.4（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>John Moran</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044051Z">
+        <seg>John Moran</seg>
       </tuv>
     </tu>
     <tu>
@@ -17982,6 +18713,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kim Bruning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043717Z">
+        <seg>Kim Bruning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kinyarwanda</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T071028Z">
@@ -18042,6 +18781,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T071213Z">
         <seg>クワニャマ語（Kwanyama, Kuanyama）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kyle Katarn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044047Z">
+        <seg>Kyle Katarn</seg>
       </tuv>
     </tu>
     <tu>
@@ -18174,6 +18921,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Later calls do not need to be online.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T140552Z">
+        <seg>それ以降の実行時は、オンラインである必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Later license versions may give you additional or different
 permissions.</seg>
       </tuv>
@@ -18213,6 +18968,16 @@ permissions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T141313Z">
         <seg>起動コマンドの引数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT
+Launch OmegaT as follows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T034349Z">
+        <seg>OmegaT の起動
+いくつかの方法で起動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18353,10 +19118,43 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux on PowerPC systems: 
+Users will need to download IBM's JRE, as Sun does 
+not provide a JRE for PPC systems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T145626Z">
+        <seg>PowerPC 系システムの Linux ユーザー：
+Oracle 社は PPC 用 JRE を提供していないため、IBM 社が提供する JRE をあらかじめインストールしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux users: 
+OmegaT will run on the open-implementation source Java 
+packaged with many Linux distributions (for example, Ubuntu), but you may
+experience bugs, display problems or missing features.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T142532Z">
+        <seg>Linux ユーザー：
+多くのディストリビューション（Ubuntu など）に含まれているオープンソースの Java 実装上で OmegaT を使用した場合、何らかのトラブルや表示上の問題、機能の欠落などに遭遇する可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux/Solaris/FreeBSD</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184623Z">
         <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lion users will be prompted by the system when they first launch 
+an application that requires Java and the system will eventually 
+automatically download and install it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T145415Z">
+        <seg>Lion ユーザーは、Java を必要とするプログラムを最初に起動した時点で、Java ランタイムが必要であることを示すメッセージが表示されます。そしてシステムが自動でダウンロードとインストールを行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18589,6 +19387,28 @@ permissions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T033433Z">
         <seg>Mac ユーザーは&lt;g2&gt;［cmd］+キー&lt;/g2&gt;と読み替えてください。Apple キーボードでは、&lt;g3&gt;［cmd］&lt;/g3&gt;キーには「&lt;g3&gt;command&lt;/g3&gt;」または &lt;g3&gt;リンゴ&lt;/g3&gt; マークが記されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac users:
+Drag OmegaT.app to your dock or to the tool bar of a Finder window to be 
+able to launch it  from any location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043210Z">
+        <seg>* Mac ユーザー：
+OmegaT.app をドックか、ファインダーのツールバーへドラッグしてください。そこから起動できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac users: 
+The JRE is already installed on Mac OS X before Mac OS X 10.7 
+(Lion).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T143536Z">
+        <seg>Mac ユーザー：
+Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上にインストールされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18843,6 +19663,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044228Z">
+        <seg>Marc Prior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior is the coordinator of the OmegaT project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175250Z">
@@ -18971,6 +19799,22 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Martin Fleurke</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044043Z">
+        <seg>Martin Fleurke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Martin Wunderlich</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044056Z">
+        <seg>Martin Wunderlich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162228Z">
@@ -19059,6 +19903,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maxym Mykhalchuk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044052Z">
+        <seg>Maxym Mykhalchuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memory</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T004840Z">
@@ -19129,6 +19981,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T164022Z">
         <seg>その方法はディストリビューションによって異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044056Z">
+        <seg>Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -20175,14 +21035,6 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Note that there could be minor differences between the OmegaT counts and the numbers, provided by other CAT tools.&lt;f1&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081755Z">
-        <seg>OmegaT と他の翻訳支援ツールでは、一致率に相違が見られる場合がありますので、注意してください。&lt;f1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Note that these totals are a good (or as good as they can be) approximation of the work involved in the project and thus can serve as a basis for your cost and price calculations.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T031706Z">
@@ -20547,6 +21399,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 3.0, Read Me file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073419Z">
+        <seg>OmegaT 3.0 - お読みください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165121Z">
@@ -20615,6 +21475,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130919Z">
         <seg>OmegaT は、プログラミング言語で使用される（printf 関数の %s のような）変数も検出できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can be customized to support other file formats as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095433Z">
+        <seg>他のファイル形式に対しても、 カスタマイズにより対応可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20715,6 +21583,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a computer-assisted translation (CAT) tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073924Z">
+        <seg>OmegaT は翻訳支援ツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175151Z">
@@ -20776,9 +21652,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175229Z">
-        <seg>
-OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T150021Z">
+        <seg>OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20827,6 +21702,16 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191920Z">
         <seg>ウェブ上の OmegaT 情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT packages which include
+the Java Runtime Environment are now available to save users the trouble of 
+selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T100331Z">
+        <seg>JRE の選択や入手、またはインストールにおけるトラブルを回避するため、現在の OmegaT は JRE 付きパッケージが標準で提供されています。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -20883,6 +21768,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T021904Z">
         <seg>OmegaT は TMX バージョン 1.1 から 1.4b（レベル 1 と レベル 2 の両方）をインポートすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT supports the following file formats out of the box:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T075516Z">
+        <seg>OmegaT は以下のファイル形式に対応しています：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20967,6 +21860,16 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will automatically parse even the most complex source folder
+hierarchies, to access all the supported files, and produce a target folder
+with exactly the same structure, including copies of any non-supported files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095859Z">
+        <seg>OmegaT は、原文フォルダーの階層が非常に複雑な場合も、対応した形式のファイルをすべて自動的に検索します。そして訳文フォルダーの生成時にはまったく同じ階層を再現し、対応していない形式のファイルはそのままコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T152003Z">
@@ -21019,6 +21922,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173126Z">
         <seg>OmegaT が TMX ファイルを再度分節化しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT's main features are:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T074205Z">
+        <seg>OmegaT の主な特徴は以下の通りです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21352,6 +22263,16 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only when you are sure you are the first to have found some
+reproducible sequence of event that triggered something not supposed to
+happen should you file a bug report.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045342Z">
+        <seg>他にまだ報告されておらず、再現性がある現象であると確認できた場合、バグ報告を行ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T112252Z">
@@ -21652,6 +22573,14 @@ OmegaT のオリジナルは Keith Godfrey によるものです。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175938Z">
         <seg>他の貢献者については、readme_ja.txt ファイルに記載しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions by</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044108Z">
+        <seg>その他の貢献者</seg>
       </tuv>
     </tu>
     <tu>
@@ -22073,6 +23002,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Phillip Hall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044044Z">
+        <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the dictionary files you wish to use in this folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T094057Z">
@@ -22177,6 +23114,15 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T135159Z">
         <seg>タグ検証をやり直してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please see the file 'changes.txt' for detailed information about changes in
+this and all previous releases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045702Z">
+        <seg>現在のバージョンや、これまでにリリースされたバージョンの変更に関する詳細は、 changes.txt ファイルをご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22387,6 +23333,16 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141647Z">
         <seg>前の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous contributors include:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043618Z">
+        <seg>これまでに貢献してくれた方々：
+（アルファベット順）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22859,6 +23815,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rashid Umarov</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044055Z">
+        <seg>Rashid Umarov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160554Z">
@@ -23143,6 +24107,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T181311Z">
         <seg>正規表現は、分節化規則でも頻繁に使われています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release details</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073625Z">
+        <seg>リリースに関する詳細</seg>
       </tuv>
     </tu>
     <tu>
@@ -23475,6 +24447,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073823Z">
+        <seg>機能に関する要望は SourceForge 内の開発サイトへ（英語のみ）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX Files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173929Z">
@@ -23801,6 +24781,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sabine Cretella</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044108Z">
+        <seg>Sabine Cretella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samoan</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T151833Z">
@@ -23817,10 +24805,26 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Samuel Murray</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044215Z">
+        <seg>Samuel Murray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T183737Z">
         <seg>Samuel Murray へ。初心者向けの章「5 分でわかる！ OmegaT の使い方」に対して。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sandra Jean Chua</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044042Z">
+        <seg>Sandra Jean Chua</seg>
       </tuv>
     </tu>
     <tu>
@@ -25794,6 +26798,16 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subsequent clicks on  OmegaT.jnlp 
+will check for any upgrades, if you are online, install them if there are any, 
+and then start OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T141038Z">
+        <seg>インストール後は、OmegaT.jnlp をクリックすると、もしオンラインであればプログラムの更新がないか検索し、もしあればインストールした後、OmegaT を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subsequent clicks on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jnlp&lt;/e2&gt; will check for any upgrades, install them, if there are any, and then start &lt;a4&gt;OmegaT&lt;/a4&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124912Z">
@@ -26445,14 +27459,6 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Team project option&lt;p0&gt;&lt;i1/&gt;&lt;/p0&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T105010Z">
-        <seg>チームプロジェクトのオプション設定&lt;p0&gt;&lt;i1/&gt;&lt;/p0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Team synchronization</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160521Z">
@@ -26835,7 +27841,7 @@ for making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The &lt;f2&gt;project_save.tmx&lt;/f2&gt; files are then collected and possible conflicts as regards terminology for instance get resolved.</seg>
       </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T082108Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T092802Z">
         <seg>&lt;f2&gt;project_save.tmx&lt;/f2&gt; ファイルが集まったら、用語や表記揺れなどの不整合を直します。</seg>
       </tuv>
     </tu>
@@ -27214,6 +28220,15 @@ Program (independent of having been made by running the Program).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative ways and means of dowloading and installing OmegaT are
+shown below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T141103Z">
+        <seg>ダウンロードとインストールを行う他の方法は、下記に示す通りです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T125536Z">
@@ -27290,6 +28305,14 @@ Program (independent of having been made by running the Program).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033621Z">
         <seg>キャリッジリターン（CR）文字（'\u000D'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The certificate is self-signed by "Didier Briel".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T140714Z">
+        <seg>証明書は「Didier Briel」による自己署名がなされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28307,6 +29330,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T051206Z">
+        <seg>OmegaT に関する最新の情報は以下のウェブサイトで公開されています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T043701Z">
@@ -28399,6 +29430,15 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143223Z">
         <seg>メモが添付された次の分節を開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next thing to do is to confirm what you found with other users, to make 
+sure this has not already been reported.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045307Z">
+        <seg>次に、その現象がすでに他のユーザーから報告されていないかどうか、確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28506,6 +29546,17 @@ content, constitutes a covered work.</seg>
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124751Z">
+        <seg>この（Java Web Start 版）実行ファイルに与える権限（「コンピューターへの無制限アクセス」と表示される可能性があります）は、通常のローカル版に対して適用するものと同一で、コンピューターのハードディスクにアクセスすることを許可するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The permissions you give to this version (which might be mentioned as an 
+"unrestricted access to the computer") are identical  to permissions you give 
+to the local version, as installed by a procedure, described later: they allow 
+an access to the hard drive of the computer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T140939Z">
         <seg>この（Java Web Start 版）実行ファイルに与える権限（「コンピューターへの無制限アクセス」と表示される可能性があります）は、通常のローカル版に対して適用するものと同一で、コンピューターのハードディスクにアクセスすることを許可するものです。</seg>
       </tuv>
     </tu>
@@ -29002,14 +30053,6 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user&lt;f3&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103737Z">
-        <seg>ショートカット定義構文は、次の通りです：&lt;c0&gt;&lt;メニュー項目コード&gt;=&lt;ショートカット&gt;&lt;/c0&gt;。&lt;e1&gt;&lt;メニュー項目コード&gt;&lt;/e1&gt; の値は、後述する表を参照してください。&lt;e2&gt;&lt;ショートカット&gt;&lt;/e2&gt; には割り当てたいキーの組み合わせを指定します&lt;f3&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The shortcut selects the Nth match displayed in the match window (the first match is selected by default)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T040809Z">
@@ -29397,6 +30440,15 @@ combination as such.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T092054Z">
         <seg>この取扱説明書は、章から章へリンクした HTML 形式の文書です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual is in the package you just downloaded, you can access it from
+the [Help] menu after starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T100020Z">
+        <seg>取扱説明書は、ダウンロードしたパッケージに含まれており、OmegaT 起動後の［ヘルプ］メニューから読むことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30398,6 +31450,25 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is safe, 
+since this "local" JRE will not interfere with any other JRE installed 
+on your system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T143419Z">
+        <seg>すでに JRE がその OS にインストールされていたとしても、付属の JRE がそれと競合することは無いため、安全です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is safe, since even if the JRE is already installed on your system, 
+this version will not interfere with it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T141612Z">
+        <seg>すでに JRE がその OS にインストールされていたとしても、付属の JRE がそれと競合することは無いため、安全です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the default.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T175833Z">
@@ -30744,10 +31815,35 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will work only if the .jar
+file type is associated with Java on your system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T040202Z">
+        <seg>この方法は、拡張子 .jar を持つファイルが Java と関連づけられている場合のみ有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054121Z">
         <seg>しかし、いったんプロジェクトの翻訳を開始したら、規則の変更はなるべく行わないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thomas Cordonnier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044043Z">
+        <seg>Thomas Cordonnier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thomas Huriaux</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044046Z">
+        <seg>Thomas Huriaux</seg>
       </tuv>
     </tu>
     <tu>
@@ -30792,6 +31888,14 @@ collective works based on the Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T053047Z">
         <seg>こうしておけば、カナダフランス語を原文とするプロジェクトでは、まずカナダフランス語用の規則、次にフランス語用の規則、最後にデフォルトの規則、という順序で適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tiago Saboga</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044053Z">
+        <seg>Tiago Saboga</seg>
       </tuv>
     </tu>
     <tu>
@@ -30958,6 +32062,22 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To browse the archives of the user group, go to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045530Z">
+        <seg>ユーザーグループの過去ログは、以下のサイトで閲覧できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To browse the bug report page and file a new bug report if necessary, go to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045610Z">
+        <seg>バグ報告を閲覧したり、新規にバグ報告を行う場合は、以下を参照してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T042437Z">
@@ -30978,6 +32098,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T062756Z">
         <seg>追加する構成例が文法的に正しいか、また意図する対象にちゃんと適用されるか確認するためには、正規表現をその場でテストできるような支援ツールの使用をお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To contribute in other ways, subscribe first to the user group at:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043504Z">
+        <seg>他の何らかの方法で協力したい場合、まずユーザーグループに参加してください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31182,6 +32310,15 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To keep track of what is happening to your bug report you may want to register
+as a Source Forge user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045652Z">
+        <seg>バグ報告に関する進捗を確認したい場合は、SourceForge にユーザー登録してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To launch &lt;a0&gt;OmegaT&lt;/a0&gt;, you must normally type two commands.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131236Z">
@@ -31258,6 +32395,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T031550Z">
         <seg>新しい検索ウィンドウは、メインウィンドウ上で［&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;］を押すと開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To participate in the development of OmegaT, get in touch with the developers at:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043354Z">
+        <seg>OmegaT の開発に協力したい場合、以下のサイトから開発者たちと連絡を取ってください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31406,6 +32551,15 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To translate OmegaT's user interface, user manual or other related documents,
+read:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043444Z">
+        <seg>OmegaT のユーザーインターフェースや取扱説明書、他の関連文書の翻訳に協力したい場合、まず下記のファイルを読んでください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To untar the &lt;e1&gt;.tar.gz&lt;/e1&gt; file:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T203317Z">
@@ -31422,6 +32576,17 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use 
+this script, open a terminal window (console), change folder to the folder 
+containing OmegaT.jar and the linux-install.sh script, and execute the 
+script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T151539Z">
+        <seg>この場合は、ターミナルウィンドウ（コンソール）を開き、OmegaT.jar と linux-install.sh スクリプトを含むフォルダーに移動して、./linux-install.sh を実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use an existing glossary, simply place it in the&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064236Z">
@@ -31434,6 +32599,15 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T030927Z">
         <seg>選択した（太字で表示された）参考訳文を、現在編集中の訳文と置換して使用するには&lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; を押します。現在のカーソル位置に挿入する場合は［&lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt;］を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use this script you must first install 
+Kaptain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T042531Z">
+        <seg>そのためには、まず最初に Kaptain をインストールしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32666,6 +33840,15 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User support, at the Yahoo user group (multilingual), where the archives are
+searchable without subscription:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073802Z">
+        <seg>ユーザーサポートは Yahoo ユーザーグループで提供されています（多言語対応）。過去ログは、ユーザー登録しなくても検索できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User's Manual</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160357Z">
@@ -33034,10 +34217,26 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044214Z">
+        <seg>Vito Smolej（文書作成担当）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Volapük</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152605Z">
         <seg>ヴォラピュク（Volapük）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Volker Berlin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043647Z">
+        <seg>Volker Berlin</seg>
       </tuv>
     </tu>
     <tu>
@@ -33094,6 +34293,17 @@ distribute and/or modify the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We therefore recommend
+that you download and install either the Oracle Java Runtime Environment (JRE) 
+or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked 
+"Linux").</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T142857Z">
+        <seg>そのため、可能な限り Oracle 社が提供する Java Runtime Environment（JRE）をダウンロードしてインストールするか、JRE が付属した OmegaT パッケージを利用してください（「Linux」と記されている .tar.bz2 ファイルです）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We wish to avoid the danger that redistributors of a free
 program will individually obtain patent licenses, in effect making the
 program proprietary.</seg>
@@ -33142,6 +34352,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What is OmegaT?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073528Z">
+        <seg>OmegaT とは？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is the language pair you need?</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T143938Z">
@@ -33162,6 +34380,15 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181710Z">
         <seg>実際の動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you see may instead be a characteristic of OmegaT that
+you have just discovered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045122Z">
+        <seg>発見したその現象は、バグではなく OmegaT の特徴である可能性もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33498,7 +34725,7 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated document, which will be created in the /target/ subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130421T082019Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T092843Z">
         <seg>翻訳の成果を確認したくなったら、&lt;k2&gt;Ctrl+D&lt;/k2&gt; キーを押して、いつでも訳文ファイルを生成できます。訳文ファイルは、プロジェクトの target フォルダー内に作成されます。</seg>
       </tuv>
     </tu>
@@ -33556,6 +34783,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174324Z">
         <seg>WiX ローカリゼーションファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildrich Fourie</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044043Z">
+        <seg>Wildrich Fourie</seg>
       </tuv>
     </tu>
     <tu>
@@ -33620,6 +34855,17 @@ technological measures.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184224Z">
         <seg>Windows Vista および Windows 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and Linux users: if you are confident that your system already has a 
+suitable version of the JRE installed, you can install the version of OmegaT 
+without the JRE (this is indicated in the name of the version,"Without_JRE").</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T141702Z">
+        <seg>Windows、Linux ユーザー：
+適した JRE がすでにインストールされているとわかっている場合、JRE 無しのパッケージ（パッケージ名に「Without_JRE」がついています）をインストールしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34080,6 +35326,15 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add copies of files, portions of the log, screen shots, anything that
+you think will help the developers with finding and fixing your bug.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045447Z">
+        <seg>開発者がバグを発見し、修正するのに助けとなる情報を添付してください。たとえば、該当ファイルやログの一部、スクリーンショットなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add the files to it later.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T080104Z">
@@ -34096,18 +35351,19 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Info.plist&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.&lt;e6&gt; &lt;i7/&gt;&lt;/e6&gt;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T104319Z">
-        <seg>あるいはコマンドラインから「cd」コマンドで目的の階層に移動し、&lt;a4&gt;emacs&lt;/a4&gt; や &lt;a4&gt;vi&lt;/a4&gt; のようなコマンドラインエディターで &lt;e5&gt;Info.plist&lt;/e5&gt; を開いてもよいでしょう。&lt;e6&gt; &lt;i7/&gt;&lt;/e6&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054756Z">
         <seg>&lt;g4&gt;［MediaWiki から原文ファイルを追加...］&lt;/g4&gt;ボタンを押して URL を指定すると、MediaWiki 形式で記述されたウェブページを原文ファイルとして追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call it in the 
+Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043318Z">
+        <seg>Spotlight の検索欄から呼び出すこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34148,6 +35404,16 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T154407Z">
         <seg>加えて、検出された単語を［すべて無視］（Ignore all）させることもできますし、［辞書へ追加］（Add to dictionary）することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag 
+the file OmegaT.exe to the start menu, the desktop or the quick launch area
+to link it from there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T040902Z">
+        <seg>あるいは OmegaT.exe ファイルをマウスの右ボタンでドラッグすれば、ショートカットを自分で作成し、上記のような場所へ配置することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34347,6 +35613,15 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly 
+installation by using the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T151317Z">
+        <seg>あるいは、linux-install.sh のようなインストール スクリプトを使うと、もっとユーザーに分かりやすい形でインストールできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163958Z">
@@ -34435,6 +35710,18 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with
+Alt+F2
+omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T042635Z">
+        <seg>それが済めば、次のコマンドで Kaptain 起動スクリプトを実行できます：
+Alt+F2
+omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T171553Z">
@@ -34453,8 +35740,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You can thus select a word anywhere in &lt;a2&gt;OmegaT&lt;/a2&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T105918Z">
-        <seg>Spotlight や Google などをサービスとして登録しておくと、OmegaT で選択した任意の単語をサービスで検索することができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093539Z">
+        <seg>Spotlight や Google などをサービスとして登録しておくと、&lt;a2&gt;OmegaT&lt;/a2&gt; で選択した任意の単語をサービスで検索することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34479,6 +35766,15 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054818Z">
         <seg>プロジェクト内のある分節を見つけるために、検索ウィンドウを活用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can verify the bug report page at
+SourceForge too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045326Z">
+        <seg>SourceForge の OmegaT 開発サイトの、バグ報告のページで確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34975,10 +36271,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yu Tang</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044055Z">
+        <seg>Yu Tang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Zhuang, Chuang</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T153419Z">
         <seg>チワン語（Zhuang, Chuang）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoltan Bartko</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043646Z">
+        <seg>Zoltan Bartko</seg>
       </tuv>
     </tu>
     <tu>
@@ -35575,10 +36887,10 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard&lt;f1&gt;</seg>
+        <seg>and many, many more very helpful people</seg>
       </tuv>
-      <tuv lang="JA" changeid="JC Helary" changedate="20130420T103827Z">
-        <seg>そして &lt;c0&gt;&lt;キー&gt;&lt;/c0&gt; には、キーボード上で利用可能な任意のキーを指定できます&lt;f1&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044849Z">
+        <seg>そして、大いに貢献してくださった多くの方々</seg>
       </tuv>
     </tu>
     <tu>
@@ -36027,6 +37339,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131918Z">
         <seg>cd &lt;&lt;a0&gt;OmegaT&lt;/a0&gt;.app location&gt;/&lt;a1&gt;OmegaT&lt;/a1&gt;.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T040238Z">
+        <seg>cd &lt;OmegaT.jar が存在するフォルダー&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37399,10 +38719,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043358Z">
+        <seg>http://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://lists.sourceforge.net/mailman/listinfo/omegat-l10n</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043456Z">
+        <seg>http://lists.sourceforge.net/mailman/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124318Z">
         <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T140412Z">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -37471,6 +38815,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520347</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073854Z">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520347</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520350</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073838Z">
+        <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=520350</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://sourceforge.net/tracker/?group_id=68187&amp;atid=912617</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T190512Z">
@@ -37507,6 +38867,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T091006Z">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043506Z">
+        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
       </tuv>
     </tu>
     <tu>
@@ -37619,6 +38987,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182212Z">
         <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/translation-info.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043446Z">
+        <seg>http://www.omegat.org/en/translation-info.html</seg>
       </tuv>
     </tu>
     <tu>
