@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2617,6 +2617,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;&lt;i5/&gt;Exception rule&lt;/t4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081627Z">
+        <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;&lt;i5/&gt;例外規則&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;/v1&gt; &lt;v2&gt; &lt;v3&gt; &lt;t4&gt;Change the extensions of your plain text source files&lt;/t4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111124Z">
@@ -2629,6 +2637,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T111103Z">
         <seg>&lt;/v0&gt;&lt;/v1&gt;&lt;v2&gt;&lt;v3&gt;&lt;t4&gt;プレーンテキストファイルのエンコーディングを指定する&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;f3&gt;&lt;i4/&gt;tm&lt;/f3&gt; folder&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081724Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;f3&gt;&lt;i4/&gt;tm&lt;/f3&gt; フォルダー&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;main project folder&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081708Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;メインプロジェクトフォルダー&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/auto folder&lt;i4/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081736Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/auto フォルダー&lt;i4/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/penalty-xxx folders&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081747Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/penalty-xxx フォルダー&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4057,6 +4097,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T050239Z">
         <seg>&lt;f0&gt;alignDir&lt;/f0&gt; には、プロジェクトの訳文言語に翻訳された訳文ファイルを配置しておく必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f9&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081749Z">
+        <seg>&lt;f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5999,7 +6047,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Creating a new rule&lt;/s1&gt; &lt;s2&gt;Regular expressions&lt;/s2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T092343Z">
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T082051Z">
         <seg>&lt;p0&gt;分節化&lt;/p0&gt; &lt;s1&gt;規則の新規作成&lt;/s1&gt; &lt;s2&gt;正規表現&lt;/s2&gt;</seg>
       </tuv>
     </tu>
@@ -6905,6 +6953,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T172202Z">
         <seg>&lt;u1&gt;マイクロソフト用語集&lt;/u1&gt; &lt;i2/&gt;は 100 種類近くの言語でダウンロード提供されており、基本的な IT 用語集として使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;Break rule&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081614Z">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;分節規則&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;omegat folder&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081637Z">
+        <seg>&lt;v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;omegat フォルダー&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8233,7 +8297,7 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T092642Z">
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T082036Z">
         <seg>コンソールモード用の追加設定として &lt;l0&gt;--quiet&lt;/l0&gt; があります。</seg>
       </tuv>
     </tu>
@@ -21035,6 +21099,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that there could be minor differences between the OmegaT counts and the numbers, provided by other CAT tools.&lt;f1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T081755Z">
+        <seg>OmegaT と他の翻訳支援ツールでは、一致率に相違が見られる場合がありますので、注意してください。&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that these totals are a good (or as good as they can be) approximation of the work involved in the project and thus can serve as a basis for your cost and price calculations.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T031706Z">
@@ -27841,7 +27913,7 @@ for making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The &lt;f2&gt;project_save.tmx&lt;/f2&gt; files are then collected and possible conflicts as regards terminology for instance get resolved.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T092802Z">
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T082108Z">
         <seg>&lt;f2&gt;project_save.tmx&lt;/f2&gt; ファイルが集まったら、用語や表記揺れなどの不整合を直します。</seg>
       </tuv>
     </tu>
@@ -34725,7 +34797,7 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated document, which will be created in the /target/ subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T092843Z">
+      <tuv lang="JA" changeid="JC Helary" changedate="20130421T082019Z">
         <seg>翻訳の成果を確認したくなったら、&lt;k2&gt;Ctrl+D&lt;/k2&gt; キーを押して、いつでも訳文ファイルを生成できます。訳文ファイルは、プロジェクトの target フォルダー内に作成されます。</seg>
       </tuv>
     </tu>
