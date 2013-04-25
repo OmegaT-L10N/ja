@@ -41179,9 +41179,9 @@ create its configuration folder.</seg>
         <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words from Okapi
 (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T112030Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T112132Z">
         <seg>org.omegat.tokenizer.LuceneEnglishTokenizer）が利用する 
-Okapi（http://okapi.sourceforge.net）由来の stop words（LGPL ライセンス）</seg>
+  Okapi（http://okapi.sourceforge.net）由来の stop words（LGPL ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -43415,6 +43415,18 @@ Okapi（http://okapi.sourceforge.net）由来の stop words（LGPL ライセン�
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T035654Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">release/readme.txt</prop>
+      <prop type="prev">Is OmegaT bugging you?</prop>
+      <prop type="next">Before reporting a bug, make sure that you have thoroughly checked the
+documentation.</prop>
+      <tuv lang="EN">
+        <seg>Do you need help?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T112139Z">
+        <seg>と思ったら</seg>
       </tuv>
     </tu>
     <tu>
