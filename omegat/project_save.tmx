@@ -181,6 +181,16 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T103924Z">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#N is a digit from 1 to 5.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T040626Z">
@@ -2825,6 +2835,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; projects can have translation memory files - i.e. files with the extension tmx - in five different places:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T105505Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; のプロジェクトは、翻訳メモリファイル（拡張子 tmx）を５箇所に配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; projects can have translation memory files - i.e. files with the extension tmx - in four different places:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T161643Z">
@@ -4628,6 +4646,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - system user name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T103856Z">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; -- システムのユーザー名です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T154035Z">
@@ -4655,6 +4681,14 @@ The current setting is {0}MB;</seg>
         <seg>&lt;l0&gt;${targetLocaleLCID)&lt;/l0&gt; - Microsoft target locale</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154543Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; -- 訳文ファイルの Microsoft ロケール（「xx-yy」形式）です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T103911Z">
         <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; -- 訳文ファイルの Microsoft ロケール（「xx-yy」形式）です。</seg>
       </tuv>
     </tu>
@@ -10358,6 +10392,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, Libreoffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T105425Z">
+        <seg>手動でファイルをコピーする方法は、コンピューター内のどこかに使いたい辞書ファイルがある場合に適しています。たとえば Apache OpenOffice や LibreOffice、Firefox、Thunderbird をインストール済みの場合が該当します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your OpenOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T102041Z">
@@ -10602,6 +10644,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T031750Z">
         <seg>まず、まったく新しくプロジェクトをひとつ作成します。共有したい TMX に合わせて、言語ペアやプロジェクト名を適切に設定します（このあと作成される TMX ファイルには、このプロジェクトの名前が付きます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T103829Z">
+        <seg>プロジェクトを配置するための空のフォルダーを作成したら、その上で右クリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11032,8 +11082,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Custom tag(s) regular expression</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T162701Z">
-        <seg>独自タグの正規表現：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T104711Z">
+        <seg>独自タグの正規表現</seg>
       </tuv>
     </tu>
     <tu>
@@ -14183,6 +14233,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fragment(s) that should be removed from the translation regular expression</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T104739Z">
+        <seg>翻訳から削除すべき文字列の正規表現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fragment(s) that should be removed from translation regular expression:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131432Z">
@@ -16602,6 +16660,14 @@ OmegaT is to use Java Web Start.</seg>
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt._BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073642Z">
+        <seg>すでにテキストの大部分を翻訳した後で、プロジェクト設定中の訳文の言語コードが辞書の言語と一致していないことに気づいた場合（たとえば言語コードが pt_BR であるのに、pt_BR 用の辞書が存在しない場合）は、単純に２つの辞書ファイルの名前を変更すれば問題ありません（&lt;e0&gt;pt_PT.aff&lt;/e0&gt; と &lt;e1&gt;pt_PT.dic&lt;/e1&gt; をそれぞれ &lt;e2&gt;pt_BR.aff&lt;/e2&gt; と &lt;e3&gt;pt_BR.dic&lt;/e3&gt; に変更）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T105440Z">
         <seg>すでにテキストの大部分を翻訳した後で、プロジェクト設定中の訳文の言語コードが辞書の言語と一致していないことに気づいた場合（たとえば言語コードが pt_BR であるのに、pt_BR 用の辞書が存在しない場合）は、単純に２つの辞書ファイルの名前を変更すれば問題ありません（&lt;e0&gt;pt_PT.aff&lt;/e0&gt; と &lt;e1&gt;pt_PT.dic&lt;/e1&gt; をそれぞれ &lt;e2&gt;pt_BR.aff&lt;/e2&gt; と &lt;e3&gt;pt_BR.dic&lt;/e3&gt; に変更）。</seg>
       </tuv>
     </tu>
@@ -19607,6 +19673,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the /OmegaT_2.5/ directory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T104648Z">
+        <seg>コマンドラインで OmegaT_2.6 フォルダーに移動してから、このファイルに実行権限をつけてください（&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make it executable (chmod +x OmegaT) from the command line after making sure you are in the /OmegaT_2.5/ directory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012534Z">
@@ -21030,6 +21104,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T105541Z">
+        <seg>特定の言語ペアについて関連付けできるのは、TMX ファイルひとつだけです。したがって、関連付けたい翻訳メモリが複数ある場合は、それらを XX_YY.tmx にマージする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T021758Z">
@@ -21598,6 +21680,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T024324Z">
         <seg>OmegaT が翻訳メモリファイル（TMX ファイル）を読み込む際には、非常に厳密な処理が行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T104955Z">
+        <seg>OmegaT は組み込みの綴り確認機能を備えています。これは Apache OpenOffice や LibreOffice、Firefox、Thunderbird で使われているものと同じ機能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28901,6 +28991,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T103819Z">
+        <seg>次に示すコードスニペットは、現在のプロジェクトから全ファイルの全分節を走査する groovy スクリプトの例です。このスクリプトは、もし訳文が存在していれば、その分節の原文と訳文を出力します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translatione xists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T174844Z">
@@ -29435,6 +29533,14 @@ Yu-Tang）バグ報告しました（https://sourceforge.net/tracker/?func=detai
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160916Z">
         <seg>最も重要な引数は、&lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt; です。他に任意の引数として、&lt;l2&gt; --config-dir=&lt;config-dir&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important of these is &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T104842Z">
+        <seg>最も重要な引数は、&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; です。他に任意の引数として、&lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt; もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30481,6 +30587,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T105517Z">
+        <seg>編集ウィンドウの現在分節には、オランダ語の原文分節と共に英語の対訳も表示されます。翻訳者は両方を見ながら、中国語の訳文を作成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two types of rules behave as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045043Z">
@@ -31457,6 +31571,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T155140Z">
         <seg>この処理は、語尾や語頭の変化形を持つ言語を扱う場合に、とても役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T104937Z">
+        <seg>これはインラインの整形を実際には使わないテキスト（たとえば OCR ソフトが出力した PDF ファイルや、変換精度の低い .odt ファイルや .docx ファイルなど）を扱う場合に役に立ちます。削除されるのはインラインのタグのみです。したがって通常は、訳文ファイルを開くのに特に支障は無いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32641,6 +32763,14 @@ read:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T203317Z">
         <seg>&lt;e1&gt;.tar.gz&lt;/e1&gt; ファイルを展開するコマンドは以下の通りです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To update the local files, right-click on the checkout directory and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T103837Z">
+        <seg>作業コピーフォルダーの上で右クリックして、&lt;g1&gt;［SVN 更新(U)...］&lt;/g1&gt;を選びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39142,6 +39272,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T103848Z">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99\ LL</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T184653Z">
@@ -40114,6 +40252,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>lub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lucene-*.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T105717Z">
+        <seg>lucene-*.jar（Apache ライセンス 2.0）</seg>
       </tuv>
     </tu>
     <tu>
