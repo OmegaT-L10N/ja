@@ -2595,6 +2595,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T072950Z">
+        <seg>&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/l1&gt;Example:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050645Z">
@@ -4131,6 +4139,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025420Z">
         <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;：整形されたファイルの中で、タグが欠けていたり、位置が変わったりしている箇所がないかを調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T073001Z">
+        <seg>&lt;html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10400,6 +10416,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T072051Z">
+        <seg>手動でファイルをコピーする方法は、コンピューター内のどこかに使いたい辞書ファイルがある場合に適しています。たとえば Apache OpenOffice や LibreOffice、Firefox、Thunderbird をインストール済みの場合が該当します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, Libreoffice, Firefox or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T105425Z">
@@ -13607,6 +13631,22 @@ patents.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154421Z">
         <seg>字体...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fontbox-0.1.0.jar and JempBox-0.2.0.jar (Fonbox license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T072626Z">
+        <seg>Fontbox-0.1.0.jar and JempBox-0.2.0.jar（Fontbox ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fontbox-0.1.0.jar and JempBox-0.2.0.jar (Fontbox license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T072826Z">
+        <seg>Fontbox-0.1.0.jar and JempBox-0.2.0.jar（Fontbox ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19705,6 +19745,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the /OmegaT_3.0/ directory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T072040Z">
+        <seg>コマンドラインで OmegaT_3.0 フォルダーに移動してから、このファイルに実行権限をつけてください（&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make it executable (chmod +x OmegaT) from the command line after making sure you are in the /OmegaT_2.5/ directory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012534Z">
@@ -22888,6 +22936,14 @@ of promoting the sharing and reuse of software generally.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T090908Z">
         <seg>誤った操作の結果、複数のタグペアで囲まれた箇所が（入れ子ではなく）一部重なってしまうと確実に翻訳ファイルの整形が壊れてしまい、場合によっては翻訳ファイルがまったく開かなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T072754Z">
+        <seg>PDF ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -39400,6 +39456,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>icu4j-51_1.jar (ICU4J license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T072647Z">
+        <seg>icu4j-51_1.jar（ICU4J ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>id</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -41270,6 +41334,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010413Z">
         <seg>parties under the terms of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pdfbox-app-1.8.1.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T072122Z">
+        <seg>pdfbox-app-1.8.1.jar（Apache ライセンス 2.0）</seg>
       </tuv>
     </tu>
     <tu>
