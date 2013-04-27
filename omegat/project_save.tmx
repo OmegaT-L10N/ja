@@ -2707,6 +2707,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T140812Z">
+        <seg>&lt;候補はありません&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;User Home&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184841Z">
@@ -3059,10 +3067,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T140819Z">
+        <seg>&lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T201008Z">
         <seg>&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br&gt;Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T141116Z">
+        <seg>&lt;br&gt;候補 &lt;b&gt;{1}&lt;/b&gt; へ進むには、&lt;u&gt;{0}&lt;/u&gt; キーを押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br&gt;Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T141017Z">
+        <seg>&lt;br&gt;候補 &lt;b&gt;{1}&lt;/b&gt; に戻るには、&lt;u&gt;{0}&lt;/u&gt; キーを押してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14550,6 +14582,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T141754Z">
+        <seg>用語集の項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary file: {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130749Z">
@@ -20282,6 +20322,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130406T224204Z">
         <seg>未使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T141810Z">
+        <seg>未使用のタグ</seg>
       </tuv>
     </tu>
     <tu>
