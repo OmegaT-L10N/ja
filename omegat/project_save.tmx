@@ -4151,6 +4151,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;several projects on the same subject: &lt;/e0&gt;keep the project structure, and change source and target folders (Source = source/order1, target = target/order1 etc).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T032956Z">
+        <seg>&lt;e0&gt;同じ案件に対して複数のプロジェクトがある場合：&lt;/e0&gt;プロジェクトの構造を共通化し、原文フォルダーと訳文フォルダーのみを個別化します（Source = source/order1、target = target/order1 など）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;several translators working on the same project:&lt;/e0&gt; split the source files into source/Alice, source/Bob... and allocate them to team members (Alice, Bob ...).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T111332Z">
@@ -7399,6 +7407,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new version of the master TM is then created, either to be put in team members' &lt;e3&gt;tm/auto&lt;/e3&gt;subfolders or to replace their &lt;f4&gt;project_save.tmx&lt;/f4&gt; files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T033027Z">
+        <seg>こうして新しいバージョンのマスター翻訳メモリが作成され、メンバー各自の &lt;e3&gt;tm/auto&lt;/e3&gt; フォルダーに配置されるか、または &lt;f4&gt;project_save.tmx&lt;/f4&gt; ファイルと置き換えることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T043630Z">
@@ -8931,6 +8947,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>As you translate your files, &lt;a0&gt;OmegaT&lt;/a0&gt; stores your work continually in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in the project's /&lt;f2&gt;omegat&lt;/f2&gt; subdirectory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T120257Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は、翻訳内容をプロジェクト内の &lt;f1&gt;omegat/project_save.tmx&lt;/f1&gt; ファイルに随時蓄積していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you translate your files, &lt;a0&gt;OmegaT&lt;/a0&gt; stores your work continually in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in the project's /&lt;f2&gt;omegat&lt;/f2&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T033052Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; は、翻訳内容をプロジェクト内の &lt;f1&gt;omegat/project_save.tmx&lt;/f1&gt; ファイルに随時蓄積していきます。</seg>
       </tuv>
     </tu>
@@ -12614,6 +12638,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T033200Z">
+        <seg>&lt;b&gt;［設定］→［保存と訳文ファイル生成］&lt;/b&gt;から有効にできます。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173406Z">
@@ -16046,6 +16078,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T032859Z">
+        <seg>このオプションが指定されない場合は、OmegaT は初期設定を使用します（ユーザーホームフォルダーの下の OmegaT フォルダーか、それが存在しない場合は現在の作業フォルダー）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not, see &lt;http://www.gnu.org/licenses/&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130408T231319Z">
@@ -16713,6 +16753,14 @@ that you install an OmegaT version with JRE included.</seg>
         <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific directory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093822Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り起動できない（GUI 環境がない）場合は、次の方法をとってください：同じ端末の他の場所、または別の端末にある &lt;a1&gt;OmegaT&lt;/a1&gt; の設定ファイルを、あらかじめ決めたフォルダーにコピーしておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T032734Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り起動できない（GUI 環境がない）場合は、次の方法をとってください：同じ端末の他の場所、または別の端末にある &lt;a1&gt;OmegaT&lt;/a1&gt; の設定ファイルを、あらかじめ決めたフォルダーにコピーしておきます。</seg>
       </tuv>
     </tu>
@@ -24950,6 +24998,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T033111Z">
+        <seg>&lt;l0&gt;&lt;ファイル名&gt;&lt;/l0&gt; には、作成したいファイル名を指定します。絶対パスか、あるいは &lt;a1&gt;OmegaT&lt;/a1&gt; の起動フォルダーを基準にした相対パスで指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Match</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135939Z">
@@ -30454,6 +30510,14 @@ modification follow.</seg>
         <seg>The relevant files &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; can be found in the user home directory (E.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050415Z">
+        <seg>設定ファイルは、&lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The relevant files &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; can be found in the user home folder (E.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T032823Z">
         <seg>設定ファイルは、&lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
       </tuv>
     </tu>
