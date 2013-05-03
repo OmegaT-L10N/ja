@@ -2771,6 +2771,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025104Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ファイルとフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; also backups translation memory to &lt;f1&gt;project_save.tmx.YEARMMDDHHNN.bak&lt;/f1&gt; in the same subfolder whenever a project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T125912Z">
@@ -3750,6 +3758,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T024737Z">
+        <seg>&lt;e0&gt;プロジェクトの設定&lt;/e0&gt;、&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; のファイルとフォルダー：&lt;/e1&gt;OmegaT にとってプロジェクトとは、コンピューター翻訳支援ツールとして OmegaT が取り扱う作業単位を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Remove tags&lt;/e0&gt; check box</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T022033Z">
@@ -3865,6 +3881,14 @@ The current setting is {0}MB;</seg>
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subdirectories containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T161318Z">
+        <seg>&lt;e0&gt;翻訳メモリ：&lt;/e0&gt;翻訳メモリを配置できるさまざまなフォルダーの役割について説明するとともに、翻訳メモリに関連する多彩な情報を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T024751Z">
         <seg>&lt;e0&gt;翻訳メモリ：&lt;/e0&gt;翻訳メモリを配置できるさまざまなフォルダーの役割について説明するとともに、翻訳メモリに関連する多彩な情報を提供します。</seg>
       </tuv>
     </tu>
@@ -4015,6 +4039,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T024943Z">
+        <seg>&lt;e0&gt;作業コピーフォルダーにコピーしたファイルを「追加」します：&lt;/e0&gt;作業コピーフォルダーにファイルやフォルダーをコピーしただけでは、SVN の管理下に入りません。そのファイル/フォルダーを SVN が管理するよう、明示的に指定する必要があります。この操作を「追加」と呼びます。「追加」するには、ローカルにチェックアウトしたフォルダーを右クリックして、&lt;g1&gt;［TortoiseSVN］→［追加(A)...］&lt;/g1&gt;を選びます。ダイアログが開くので、デフォルトの設定のまま&lt;g2&gt;［OK］&lt;/g2&gt;ボタンをクリックします。（日本語訳註：右ドラッグでコピーすれば、一回の操作で追加まで完了します）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T004406Z">
@@ -4042,6 +4074,14 @@ The current setting is {0}MB;</seg>
         <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout directory and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T125307Z">
+        <seg>&lt;e0&gt;ローカルの変更をサーバーにコミットします：&lt;/e0&gt;作業コピーフォルダーを右クリックして、&lt;g1&gt;［SVN コミット(C)...］&lt;/g1&gt;を選びます。下図のようなウィンドウが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025013Z">
         <seg>&lt;e0&gt;ローカルの変更をサーバーにコミットします：&lt;/e0&gt;作業コピーフォルダーを右クリックして、&lt;g1&gt;［SVN コミット(C)...］&lt;/g1&gt;を選びます。下図のようなウィンドウが開きます。</seg>
       </tuv>
     </tu>
@@ -4782,6 +4822,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025813Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; 設定ファイルがどのフォルダーにあるかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; launches in console mode and translates the given project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051347Z">
@@ -4857,6 +4905,14 @@ The current setting is {0}MB;</seg>
         <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a directory, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184745Z">
+        <seg>&lt;l0&gt;&lt;ユーザーホームフォルダー&gt;/.omegat&lt;/l0&gt;（.omegat はフォルダーで、先頭にドットがあるため、ls -a やそれに準じるコマンドでなければ一覧表示されません）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a folder, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025240Z">
         <seg>&lt;l0&gt;&lt;ユーザーホームフォルダー&gt;/.omegat&lt;/l0&gt;（.omegat はフォルダーで、先頭にドットがあるため、ls -a やそれに準じるコマンドでなければ一覧表示されません）</seg>
       </tuv>
     </tu>
@@ -6983,6 +7039,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030237Z">
+        <seg>&lt;r0&gt;注意：&lt;/r0&gt;Mac ユーザーは、&lt;k1&gt;Ctrl&lt;/k1&gt; キーを &lt;k2&gt;Command&lt;/k2&gt; キー（⌘ マークが付いているキー）に読み替えてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt;On an Apple Mac, use the &lt;k1&gt;Cmd&lt;/k1&gt; or &lt;k2&gt;Apple&lt;/k2&gt; key instead of the &lt;k3&gt;Ctrl&lt;/k3&gt; key</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T121815Z">
@@ -7911,6 +7975,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T024849Z">
+        <seg>作業コピーフォルダーに必要なファイルをコピーしたら、フォルダーのアイコンが変化することに気づくでしょう。緑の OK バッジだったものが、作業コピーが変更されたことを示す赤い感嘆符に変わったはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After deletion:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082801Z">
@@ -7955,6 +8027,22 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T100627Z">
         <seg>原文ファイルが編集ウィンドウに読み込まれたら、翻訳対象ファイル一覧ダイアログを閉じましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030545Z">
+        <seg>原文ファイルが&lt;g3&gt;編集&lt;/g3&gt;ウィンドウに読み込まれたら、&lt;g4&gt;翻訳対象ファイル一覧&lt;/g4&gt;ダイアログを閉じましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030350Z">
+        <seg>プロジェクト名を入力して保存したら、&lt;g0&gt;プロジェクトの新規作成&lt;/g0&gt;ダイアログが開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,6 +8402,14 @@ organization, or merging organizations.</seg>
         <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and directories.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T172346Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の翻訳プロジェクトは、複数のファイルとフォルダーから構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and folders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025116Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の翻訳プロジェクトは、複数のファイルとフォルダーから構成されています。</seg>
       </tuv>
     </tu>
@@ -8892,6 +8988,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T095802Z">
         <seg>ダイアログの先頭で、原文ファイルの言語と訳文ファイルの言語を選び、［&lt;g0&gt;確定&lt;/g0&gt;］ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030411Z">
+        <seg>ダイアログの先頭で、原文ファイルの言語と訳文ファイルの言語を選び、［&lt;g1&gt;確定&lt;/g1&gt;］ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9929,6 +10033,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133957Z">
         <seg>メニュー項目 {0} をクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030500Z">
+        <seg>［&lt;g1&gt;原文ファイルを追加...&lt;/g1&gt;］ボタンをクリックし、原文ファイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12086,6 +12198,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation additional files may get created in this subfolder as follows</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025138Z">
+        <seg>他にも、翻訳作業中に必要に応じて以下のファイルが作成される場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During translation, use the &lt;g2&gt;Edit&lt;/g2&gt; and &lt;g3&gt;Go To&lt;/g3&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T102441Z">
@@ -13468,6 +13588,14 @@ these terms and conditions.</seg>
         <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; directory, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T083507Z">
+        <seg>&lt;f7&gt;source&lt;/f7&gt; フォルダーの中のファイルは、翻訳対象かどうかを問わずすべて生成されます。またフォルダーの階層構造もそのまま再現されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025159Z">
         <seg>&lt;f7&gt;source&lt;/f7&gt; フォルダーの中のファイルは、翻訳対象かどうかを問わずすべて生成されます。またフォルダーの階層構造もそのまま再現されます。</seg>
       </tuv>
     </tu>
@@ -15854,6 +15982,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not given, &lt;a2&gt;OmegaT&lt;/a2&gt; reverts to default values (&lt;a3&gt;OmegaT&lt;/a3&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025837Z">
+        <seg>このオプションが指定されない場合は、&lt;a2&gt;OmegaT&lt;/a2&gt; は初期設定を使用します（ユーザーホームフォルダーの下の &lt;a3&gt;OmegaT&lt;/a3&gt; フォルダーか、それが存在しない場合は現在の作業フォルダー）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working directory).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051245Z">
@@ -16314,6 +16450,14 @@ authors' reputations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025850Z">
+        <seg>他のフォルダーに「test.html」という同名のファイルがあったとしても、無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T190238Z">
@@ -16572,6 +16716,14 @@ extensions are displayed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T160038Z">
         <seg>仮に、&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り起動できない（GUI 環境がない）場合は次の方法をとってください：同じ端末の他の場所、または別の端末にある OmegaT の設定ファイルを、あらかじめ決めたフォルダーにコピーしておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025601Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を通常通り起動できない（GUI 環境がない）場合は、次の方法をとってください：同じ端末の他の場所、または別の端末にある &lt;a1&gt;OmegaT&lt;/a1&gt; の設定ファイルを、あらかじめ決めたフォルダーにコピーしておきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17571,6 +17723,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030329Z">
+        <seg>&lt;g0&gt;プロジェクト&lt;/g0&gt;メニューから&lt;m1&gt;&lt;g2&gt;新規作成...&lt;/g2&gt;&lt;/m1&gt;を選び、作成するプロジェクトの名前を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Slovenian version both words have been translated as nouns.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T130920Z">
@@ -17660,6 +17820,14 @@ sue for patent infringement).</seg>
         <seg>In the next step, we will add the OmegaT files to the local directory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T135915Z">
+        <seg>次の手順として、作業コピーフォルダーに OmegaT のファイルを追加しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T024820Z">
         <seg>次の手順として、作業コピーフォルダーに OmegaT のファイルを追加しましょう。</seg>
       </tuv>
     </tu>
@@ -19809,6 +19977,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the /OmegaT_3.0/ folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025325Z">
+        <seg>OmegaT_3.0 フォルダーに移動してから、このファイルにコマンドラインで実行権限をつけてください（&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make it executable (chmod +x OmegaT) from the command line after making sure you are in the /OmegaT_2.5/ directory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T012534Z">
@@ -20812,6 +20988,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141616Z">
         <seg>次の未翻訳分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030424Z">
+        <seg>続いて、&lt;g0&gt;翻訳対象ファイル一覧&lt;/g0&gt;ダイアログが開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22043,6 +22227,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT projects and subfolders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025124Z">
+        <seg>OmegaT プロジェクトと通常のフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145123Z">
@@ -22209,6 +22401,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T100349Z">
         <seg>OmegaT は選択されたファイルを、新しく作成されたプロジェクトの &lt;f0&gt;source&lt;/f0&gt; フォルダーへコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030515Z">
+        <seg>OmegaT は選択されたファイルを、新しく作成されたプロジェクトの &lt;f2&gt;source&lt;/f2&gt; フォルダーへコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22430,6 +22630,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T024810Z">
+        <seg>この操作が完了すると、フォルダーは作業コピーとなって、サーバーの最新の状態に同期されます。フォルダーのアイコンの上には、緑色の OK バッジが重なって表示されます。またフォルダーの中には、管理用の .svn フォルダーが作成されています（ただし隠しフォルダーなので、シェルの設定によっては表示されません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T140019Z">
@@ -22558,9 +22766,25 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the file test.html at the root of the source folder will be translated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025843Z">
+        <seg>source フォルダーにある「test.html」というファイルのみを処理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the file test.html in the directory dir-10 will be processed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052829Z">
+        <seg>dir-10 フォルダーにある「test.html」というファイルのみを処理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file test.html in the folder dir-10 will be processed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025900Z">
         <seg>dir-10 フォルダーにある「test.html」というファイルのみを処理します。</seg>
       </tuv>
     </tu>
@@ -28797,6 +29021,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents of the checkout folder will be marked accordingly:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T024952Z">
+        <seg>チェックアウトしたフォルダーの中身は、次のような状態になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T175205Z">
@@ -29540,6 +29772,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f1&gt;/glossary&lt;/f1&gt;folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025408Z">
+        <seg>ファイルの場所は &lt;f1&gt;glossary&lt;/f1&gt; フォルダー内を指定する必要があります。ただし、直下ではなくもっと深い階層に置いてもかまいません（たとえば &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T175407Z">
@@ -30110,6 +30350,14 @@ modification follow.</seg>
         <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home directory (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T050252Z">
+        <seg>設定ファイルは、&lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home folder (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025650Z">
         <seg>設定ファイルは、&lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
       </tuv>
     </tu>
@@ -31567,6 +31815,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates an &lt;e2&gt;./OmegaT_2.6.x_Without_JRE/&lt;/e2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025539Z">
+        <seg>作業フォルダーに &lt;e2&gt;OmegaT_2.6.x_Without_JRE&lt;/e2&gt; フォルダーと、&lt;a3&gt;OmegaT&lt;/a3&gt; の実行に必要なすべてのファイルが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T101908Z">
@@ -32951,6 +33207,14 @@ read:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025045Z">
+        <seg>作業コピーフォルダーの上で右クリックして、&lt;g1&gt;［SVN 更新(U)...］&lt;/g1&gt;を選びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To update the local files, right/click on the checkout directory and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T125340Z">
@@ -33751,6 +34015,14 @@ Kaptain.</seg>
         <seg>Unpack the &lt;e1&gt;OmegaT_2.6.x_Source.zip&lt;/e1&gt; file and enter the OmegaT_2.6.x_Source directory or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; directory of the SVN checked out code.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164448Z">
+        <seg>&lt;e1&gt;OmegaT_2.6.x_Source.zip&lt;/e1&gt; ファイルを展開し、OmegaT_2.6.x_Source フォルダーに移動するか、あるいは SVN リポジトリからソースコードをチェックアウトし、&lt;e2&gt;omegat&lt;/e2&gt; フォルダー（チェックアウト時に名前を変えた場合は何であれそのフォルダー）に移動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack the &lt;e1&gt;OmegaT_2.6.x_Source.zip&lt;/e1&gt; file and enter the OmegaT_2.6.x_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025950Z">
         <seg>&lt;e1&gt;OmegaT_2.6.x_Source.zip&lt;/e1&gt; ファイルを展開し、OmegaT_2.6.x_Source フォルダーに移動するか、あるいは SVN リポジトリからソースコードをチェックアウトし、&lt;e2&gt;omegat&lt;/e2&gt; フォルダー（チェックアウト時に名前を変えた場合は何であれそのフォルダー）に移動してください。</seg>
       </tuv>
     </tu>
