@@ -2971,6 +2971,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161133Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; では、参考訳文の品質を向上し、すでに存在する翻訳内容をより活用するために、このような古い形式の TMX ファイルを見つけると、その場で新しい形式に更新します。そのために手作業で何かを行う必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T064311Z">
@@ -12998,6 +13006,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161422Z">
+        <seg>プラグインの読み込み中にクラス '{0}': {1}: {2} でエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T021318Z">
@@ -13050,6 +13066,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T015359Z">
         <seg>外部コマンドの起動に失敗しました：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161631Z">
+        <seg>プラグインのアンロード中にクラス '{0}': {1} でエラーが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21640,6 +21664,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in some cases changes in file filters in &lt;a1&gt;OmegaT&lt;/a1&gt; may lead to totally different segmentation; as a result, you will have to upgrade your translation manually in such rare cases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161204Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; ではファイルフィルターに変更が加えられたため、分節化の内容がまったく異なる可能性があります。ごくまれに、翻訳メモリを手動で更新する必要があるかもしれませんので、注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T145022Z">
@@ -24064,6 +24096,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Possible it is already open in other OmegaT instance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161933Z">
+        <seg>他の OmegaT インスタンスがこのプロジェクトをすでに開いている可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174927Z">
@@ -24398,6 +24438,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134118Z">
         <seg>プロジェクト読み込みの開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161730Z">
+        <seg>プロジェクトがロックされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32710,8 +32758,8 @@ this version will not interfere with it.</seg>
       <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180711Z">
-        <seg>このプログラムは有効活用されることを願って頒布されるものですが、その内容については全くの無保証となります。商品性の黙示保証、または特定目的への適合性は全く存在しません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161714Z">
+        <seg>このプログラムは有効活用されることを願って頒布されるものですが、その内容についてはまったくの無保証となります。商品性の黙示保証、または特定目的への適合性はまったく存在しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39807,6 +39855,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161112Z">
+        <seg>http://docs.oracle.com/javase/jp/6/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://git-scm.com/</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T093348Z">
@@ -40740,6 +40796,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>jv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jwordsplitter-3.4.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161648Z">
+        <seg>jwordsplitter-3.4.jar（Apache ライセンス 2.0）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42726,6 +42790,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T110419Z">
         <seg>segment-1.3.0.jar（Segment ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment-1.4.1.jar (Segment License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161705Z">
+        <seg>segment-1.4.1.jar（Segment ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment-1.4.1.jar (Segment license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161221Z">
+        <seg>segment-1.4.1.jar（Segment ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
