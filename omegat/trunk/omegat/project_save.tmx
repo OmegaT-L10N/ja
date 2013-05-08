@@ -2891,6 +2891,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; requires Java 1.6 to run.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155817Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の実行には Java 1.6 が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; sites and &lt;a1&gt;OmegaT&lt;/a1&gt; SourceForge project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T180145Z">
@@ -3147,6 +3155,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155502Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/e0&gt; は有効活用されることを願って頒布されるものですが、その内容についてはまったくの無保証となります。商品性の黙示保証、または特定目的への適合性はまったく存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T151343Z">
@@ -3247,6 +3263,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134021Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 3.0&lt;/e0&gt; は © 2000-2013  Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155234Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;は © 2000-2013  Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3453,6 +3477,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Font antialiasing&lt;/e0&gt; - (Java 1.6 only)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T160644Z">
+        <seg>&lt;e0&gt;字体のアンチエイリアス&lt;/e0&gt; -（Java 1.5 のみ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Font:&lt;/e0&gt; drop-down to select one of the fonts available on your machine</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T071115Z">
@@ -3637,6 +3669,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;e1&gt;OmegaT_3.n.n_Linux.tar.bz2.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155805Z">
+        <seg>&lt;e0&gt;いいえ / わかりません：&lt;/e0&gt;&lt;e1&gt;OmegaT_3.n.n_Linux.tar.bz2&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_2.5.x_Windows.exe.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T183413Z">
@@ -3653,6 +3693,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_3.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155729Z">
+        <seg>&lt;e0&gt;いいえ / わかりません：&lt;/e0&gt;&lt;e1&gt; OmegaT_3.n.n_Windows.exe&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;e1&gt;OmegaT_2.5.x_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110801Z">
@@ -3665,6 +3713,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164309Z">
         <seg>&lt;e0&gt;いいえ：&lt;/e0&gt;システムに適した Java JRE（下記参照）を入手してください。その後 &lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155952Z">
+        <seg>&lt;e0&gt;いいえ：&lt;/e0&gt;システムに適した Java JRE（下記参照）を入手してください。その後 &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt; をダウンロードしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3705,6 +3761,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134014Z">
         <seg>&lt;e0&gt;OmegaT 3.0&lt;/e0&gt; は自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 3 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155247Z">
+        <seg>&lt;e0&gt;OmegaT&lt;/e0&gt; は自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 3 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4027,6 +4091,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164112Z">
         <seg>&lt;e0&gt;はい：&lt;/e0&gt;&lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_3.n.n_Windows_without_JRE.&lt;/e1&gt;zip.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155925Z">
+        <seg>&lt;e0&gt;はい：&lt;/e0&gt;&lt;e1&gt;OmegaT_3.n.n_Windows_without_JRE.zip&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_3.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155725Z">
+        <seg>&lt;e0&gt;はい：&lt;/e0&gt;&lt;e1&gt;OmegaT_3.n.n_Windows_without_JRE.exe&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155745Z">
+        <seg>&lt;e0&gt;はい：&lt;/e0&gt;&lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt; をダウンロードしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11964,6 +12052,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155650Z">
+        <seg>Oracle の Java 1.6 JRE 互換の Java を実行可能な環境ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you need help?</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T101433Z">
@@ -12077,6 +12173,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double click on &lt;e0&gt;OmegaT_3.n.n_Mac.zip&lt;/e0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155856Z">
+        <seg>&lt;e0&gt;OmegaT_3.n.n_Mac.zip&lt;/e0&gt; をダブルクリックして解凍してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063902Z">
@@ -12113,6 +12217,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164151Z">
         <seg>&lt;e0&gt;OmegaT_2.6.x_Mac.zip&lt;/e0&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &lt;e0&gt;OmegaT_3.n.n_Mac.zip.&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155846Z">
+        <seg>&lt;e0&gt;OmegaT_3.n.n_Mac.zip&lt;/e0&gt; をダウンロードしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18997,6 +19109,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Web Start technology (part of Java 1.6 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T160417Z">
+        <seg>Java Web Start テクノロジー（Java 1.6 以降が対応）を用いると、独立型の Java アプリケーションを、１クリックでネットワーク上からローカル環境に配置することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java resource bundles (*.properties)</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120304T092407Z">
@@ -20101,6 +20221,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025325Z">
         <seg>OmegaT_3.0 フォルダーに移動してから、このファイルにコマンドラインで実行権限をつけてください（&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155627Z">
+        <seg>OmegaT のプログラムフォルダーに移動してから、このファイルにコマンドラインで実行権限をつけてください（&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22004,6 +22132,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 3.0 - User's Guide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T160915Z">
+        <seg>OmegaT 3.0 - 取扱説明書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT 3.0, Read Me file</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073419Z">
@@ -22798,6 +22934,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have done this, you can delete the &lt;e5&gt;OmegaT_3.n.n_Mac.zip&lt;/e5&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155904Z">
+        <seg>ここまでくれば、&lt;e5&gt;OmegaT_3.n.n_Mac.zip&lt;/e5&gt; ファイルを削除してもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target file, which will be created in the&lt;f1&gt; /target/&lt;/f1&gt;subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T204258Z">
@@ -23156,6 +23300,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110912Z">
         <seg>Oracle は以下のシステム向けの JRE を提供しています：Solaris SPARC/x86（Java 1.5）と Linux x64、Solaris x64、Windows x64（Java 1.5）&lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 1.6) and for Linux x64, Solaris x64, Windows x64 (Java 1.6) at &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T160024Z">
+        <seg>Oracle は以下のシステム向けの JRE を提供しています：Solaris SPARC/x86（Java 1.6）と Linux x64、Solaris x64、Windows x64（Java 1.6）&lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29366,6 +29518,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155157Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; とともに配布される文書には、取扱説明書と readme.txt ファイルが含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation is Copyright ©2012 Vito Smolej.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T164859Z">
@@ -29400,8 +29560,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The documentation is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070916Z">
-        <seg>これらの文書は有効活用されることを願って頒布されるものですが、その内容については全くの無保証となります。商品性の黙示保証、または特定目的への適合性は全く存在しません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155514Z">
+        <seg>これらの文書は有効活用されることを願って頒布されるものですが、その内容についてはまったくの無保証となります。商品性の黙示保証、または特定目的への適合性はまったく存在しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30345,6 +30505,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The platform-independent package can be used on any platform with a working Java 1.6 runtime environment, including the platforms for which a specific package also exists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155554Z">
+        <seg>プラットフォーム非依存パッケージは、Java 実行環境（JRE）バージョン 1.6 が動くプラットフォームであれば、どこでも使用できます。そのプラットフォーム専用のパッケージがインストール済みの場合でも、共存できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T165207Z">
@@ -31195,6 +31363,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T160733Z">
+        <seg>&lt;u1&gt;アカウント情報&lt;/u1&gt;のページにある２つの情報、プライマリ アカウント キーと顧客 ID が必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two types of rules behave as follows:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045043Z">
@@ -32015,6 +32191,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates an &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T160119Z">
+        <seg>作業フォルダーに &lt;e2&gt;OmegaT_3.n.n_Without_JRE&lt;/e2&gt; フォルダーと、&lt;a3&gt;OmegaT&lt;/a3&gt; の実行に必要なすべてのファイルが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T101908Z">
@@ -32488,6 +32672,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T110541Z">
         <seg>Java 1.5 JRE 互換の JRE がインストールされていれば、どのプラットフォームであっても、このパッケージが使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This package can be used on any platform where a Java 1.6 JRE compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T155941Z">
+        <seg>Java 1.6 JRE 互換の JRE がインストールされていれば、どのプラットフォームであっても、このパッケージが使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33097,6 +33289,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T164322Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; をインストールするには、&lt;e1&gt;OmegaT_2.6.x_Without_JRE.zip&lt;/e1&gt; ファイルを展開してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt; file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T160054Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; をインストールするには、&lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt; ファイルを展開してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34232,6 +34432,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025950Z">
         <seg>&lt;e1&gt;OmegaT_2.6.x_Source.zip&lt;/e1&gt; ファイルを展開し、OmegaT_2.6.x_Source フォルダーに移動するか、あるいは SVN リポジトリからソースコードをチェックアウトし、&lt;e2&gt;omegat&lt;/e2&gt; フォルダー（チェックアウト時に名前を変えた場合は何であれそのフォルダー）に移動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack the &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; file and enter the OmegaT_3.n.n_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T160821Z">
+        <seg>&lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; ファイルを展開し、OmegaT_3.n.n_Source フォルダーに移動するか、あるいは SVN リポジトリからソースコードをチェックアウトし、&lt;e2&gt;omegat&lt;/e2&gt; フォルダー（チェックアウト時に名前を変えた場合は何であれそのフォルダー）に移動してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39587,6 +39795,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034638Z">
         <seg>http://docs.oracle.com/javase/jp/1.5.0/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161012Z">
+        <seg>http://docs.oracle.com/javase/jp/6/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
