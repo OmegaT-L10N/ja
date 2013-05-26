@@ -18238,6 +18238,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T002328Z">
+        <seg>互換性に関する注意点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200618Z">
@@ -19027,6 +19035,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T001825Z">
+        <seg>&lt;g0&gt;［設定］→［言語チェッカー］&lt;/g0&gt;にチェックを入れておくと、OmegaT は LanguageTool を自動的に利用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T071557Z">
@@ -19561,6 +19577,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062343Z">
         <seg>LanguageTool は、言語固有の設定ファイルであらかじめ定義された規則に基づいて、間違いを見つけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T003254Z">
+        <seg>LanguageTool は、plugin フォルダーに古いバージョンのファイルが存在すると、正常に機能しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25126,6 +25150,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T003338Z">
+        <seg>plugin フォルダーに LanguageTool があれば、OmegaT を起動する前に削除してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T153844Z">
@@ -28992,6 +29024,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T063641Z">
         <seg>OmegaT 用の LanguageTool プラグインは、OmegaT プラグインのダウンロードサイト（&lt;u0&gt;http://sourceforge.net/projects/omegat-plugins/files/&lt;/u0&gt;）から入手できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T001658Z">
+        <seg>LanguageTool プラグインは OmegaT 本体に統合されました。</seg>
       </tuv>
     </tu>
     <tu>
