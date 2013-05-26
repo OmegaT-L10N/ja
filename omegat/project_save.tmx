@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18530,6 +18530,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation and use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T023008Z">
+        <seg>インストールと使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="JA" changeid="masa_36">
@@ -18874,6 +18882,14 @@ implemented by public license practices.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T142157Z">
         <seg>翻訳作業の途中でプロジェクトの設定を変更することも、可能ではありますが、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to select another tokenizer or a different version of the tokenizer from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T023526Z">
+        <seg>プロジェクト設定ウィンドウから、トークナイザーの種類やバージョンを変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22292,6 +22308,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T023155Z">
+        <seg>プロジェクトの原文と訳文の言語に応じて、OmegaT がトークナイザーを自動的に設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT can align Java .properties in console mode.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T053823Z">
@@ -22721,6 +22745,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T095859Z">
         <seg>OmegaT は、原文フォルダーの階層が非常に複雑な場合も、対応した形式のファイルをすべて自動的に検索します。そして訳文フォルダーの生成時にはまったく同じ階層を再現し、対応していない形式のファイルはそのままコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T023541Z">
+        <seg>トークナイザーは、plugin フォルダーに古いバージョンのファイルが存在すると、正常に機能しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25178,6 +25210,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T030205Z">
         <seg>タグを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T023616Z">
+        <seg>plugin フォルダーにトークナイザーがあれば、OmegaT を起動する前にすべて削除してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33807,6 +33847,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T152625Z">
         <seg>トークナイザー（またはステマー）は、原文および翻訳メモリデータ内の単語の語尾変化を認識することによって、参考訳文の照合精度を改善します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T023044Z">
+        <seg>トークナイザー プラグインは OmegaT 本体に統合されました。</seg>
       </tuv>
     </tu>
     <tu>
