@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.3_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1323,6 +1323,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T011155Z">
         <seg>参考訳文ウィンドウに表示された N 番目の参考訳文を選択します（#N は 1 から 5 の数字）。選択された参考訳文は、現在の分節に対して置換または挿入できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130619T155013Z" creationid="Yu-Tang" creationdate="20130619T155013Z">
+        <seg>（他 {0} 箇所）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14701,6 +14709,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T150146Z">
         <seg>分節の選択履歴を進む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130619T154857Z" creationid="Yu-Tang" creationdate="20130619T154857Z">
+        <seg>以下から見つかりました：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33120,6 +33136,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130531T132626Z">
         <seg>このプログラムは自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 3 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130619T154927Z" creationid="Yu-Tang" creationdate="20130619T154927Z">
+        <seg>現在のプロジェクト</seg>
       </tuv>
     </tu>
     <tu>
