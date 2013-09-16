@@ -871,6 +871,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171823Z" creationid="Yu-Tang" creationdate="20130916T171823Z">
+        <seg>読み込み...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Lower Case</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135102Z">
@@ -1115,6 +1123,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154150Z">
         <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172322Z" creationid="Yu-Tang" creationdate="20130916T172322Z">
+        <seg>別名保存...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9272,6 +9288,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171639Z" creationid="Yu-Tang" creationdate="20130916T171639Z">
+        <seg>定型文の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-text file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172450Z" creationid="Yu-Tang" creationdate="20130916T172450Z">
+        <seg>定型文ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T053749Z">
@@ -10061,6 +10093,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T173218Z" creationid="Yu-Tang" creationdate="20130916T173218Z">
+        <seg>文字一覧の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162116Z">
@@ -10471,6 +10511,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex 
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174924Z">
+        <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172657Z" creationid="Yu-Tang" creationdate="20130916T172657Z">
         <seg>コメント</seg>
       </tuv>
     </tu>
@@ -11852,6 +11900,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171303Z" creationid="Yu-Tang" creationdate="20130916T171303Z">
+        <seg>表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135336Z">
@@ -13018,6 +13074,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024212Z">
         <seg>プロキシサーバーを使う場合は、ここでユーザー名とパスワードを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171814Z" creationid="Yu-Tang" creationdate="20130916T171814Z">
+        <seg>登録項目</seg>
       </tuv>
     </tu>
     <tu>
@@ -14853,6 +14917,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195719Z">
         <seg>TMX ファイルのフルパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172650Z" creationid="Yu-Tang" creationdate="20130916T172650Z">
+        <seg>テキスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -27293,6 +27365,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172648Z" creationid="Yu-Tang" creationdate="20130916T172648Z">
+        <seg>ショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T171605Z">
@@ -27641,10 +27721,26 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort alphabetically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171237Z" creationid="Yu-Tang" creationdate="20130916T171237Z">
+        <seg>アルファベット順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171621Z" creationid="Yu-Tang" creationdate="20130916T171621Z">
+        <seg>ショートカットではなくテキストを基準にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by length</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171104Z" creationid="Yu-Tang" creationdate="20130916T171104Z">
-        <seg>文字数で並べ替え</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171438Z" creationid="Yu-Tang" creationdate="20130916T171104Z">
+        <seg>文字数順</seg>
       </tuv>
     </tu>
     <tu>
@@ -34776,6 +34872,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165126Z">
         <seg>プロジェクトファイルを読み込めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172645Z" creationid="Yu-Tang" creationdate="20130916T172645Z">
+        <seg>定型文を保存できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
