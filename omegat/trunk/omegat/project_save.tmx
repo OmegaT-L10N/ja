@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -551,6 +551,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Character table...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152805Z" creationid="Yu-Tang" creationdate="20130916T152805Z">
+        <seg>文字一覧...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Check simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T144934Z">
@@ -739,6 +747,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154902Z">
         <seg>用語集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossary...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152354Z" creationid="Yu-Tang" creationdate="20130916T152354Z">
+        <seg>用語集...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7771,6 +7787,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175005Z">
         <seg>タグを結合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152348Z" creationid="Yu-Tang" creationdate="20130916T152348Z">
+        <seg>入力補完</seg>
       </tuv>
     </tu>
     <tu>
