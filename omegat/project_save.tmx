@@ -503,6 +503,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-text...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T165735Z" creationid="Yu-Tang" creationdate="20130916T165735Z">
+        <seg>定型文...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134534Z">
@@ -9284,6 +9292,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T023954Z">
         <seg>訳文ファイルの生成時に、原文分節を訳文に置き換えたり、規則に基づきファイル名を修正するなどの自動処理を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T170911Z" creationid="Yu-Tang" creationdate="20130916T170911Z">
+        <seg>定型文</seg>
       </tuv>
     </tu>
     <tu>
@@ -24490,16 +24506,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T155313Z" creationid="Yu-Tang" creationdate="20130916T155313Z">
-        <seg>&lt;u&gt;{0}&lt;/u&gt; キーで候補集&lt;b&gt;{1}&lt;/b&gt;へ進みます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T170903Z" creationid="Yu-Tang" creationdate="20130916T155313Z">
+        <seg>&lt;u&gt;{0}&lt;/u&gt; キーで&lt;b&gt;{1}&lt;/b&gt;候補集へ進みます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T155200Z" creationid="Yu-Tang" creationdate="20130916T155200Z">
-        <seg>&lt;u&gt;{0}&lt;/u&gt; キーで候補集&lt;b&gt;{1}&lt;/b&gt;に戻ります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T165839Z" creationid="Yu-Tang" creationdate="20130916T155200Z">
+        <seg>&lt;u&gt;{0}&lt;/u&gt; キーで&lt;b&gt;{1}&lt;/b&gt;候補集に戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27621,6 +27637,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T062854Z">
         <seg>品質の高い翻訳メモリと、そうではない翻訳メモリを区別できると役に立つ場合があります。分野の違いや依頼主の都合、改版の状態など、理由はいろいろあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by length</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171104Z" creationid="Yu-Tang" creationdate="20130916T171104Z">
+        <seg>文字数で並べ替え</seg>
       </tuv>
     </tu>
     <tu>
