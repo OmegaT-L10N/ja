@@ -12012,6 +12012,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display source terms</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T062711Z" creationid="Yu-Tang" creationdate="20130917T062711Z">
+        <seg>用語の原文も表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T132121Z">
@@ -12136,6 +12144,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T092634Z">
         <seg>現在の分節が含む単語が、プロジェクトの dictionary フォルダーに入れてある辞書ファイルに登録されている単語と一致した場合は、その定義を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064257Z" creationid="Yu-Tang" creationdate="20130917T064257Z">
+        <seg>用語を「&lt;訳文&gt; → &lt;原文&gt;」形式で表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16300,6 +16316,22 @@ circumstances.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023853Z">
         <seg>チェックがある場合、各分節に対応した原文が緑色にハイライト表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064136Z" creationid="Yu-Tang" creationdate="20130917T064136Z">
+        <seg>チェックを入れると、用語をアルファベット順に並べ替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063417Z" creationid="Yu-Tang" creationdate="20130917T062953Z">
+        <seg>チェックを入れると、訳文が長い用語を先に表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27493,6 +27525,30 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show longer target terms first</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063317Z" creationid="Yu-Tang" creationdate="20130917T062927Z">
+        <seg>訳文が長い用語を先に表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show source term first</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064311Z" creationid="Yu-Tang" creationdate="20130917T064311Z">
+        <seg>原文を前に表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show target term first</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064223Z" creationid="Yu-Tang" creationdate="20130917T064223Z">
+        <seg>訳文を前に表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the dialog to modify the text display font.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073248Z">
@@ -27797,6 +27853,22 @@ can do so.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171438Z" creationid="Yu-Tang" creationdate="20130916T171104Z">
         <seg>文字数順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term alphabetically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063143Z" creationid="Yu-Tang" creationdate="20130917T063143Z">
+        <seg>用語の原文のアルファベット順に並べ替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort target terms alphabetically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063310Z" creationid="Yu-Tang" creationdate="20130917T063310Z">
+        <seg>用語の訳文のアルファベット順に並べ替え</seg>
       </tuv>
     </tu>
     <tu>
@@ -29018,6 +29090,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T070521Z">
         <seg>用語集のファイルにある用語が現在の分節中に見つかれば、用語集ウィンドウに表示されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064443Z" creationid="Yu-Tang" creationdate="20130917T064443Z">
+        <seg>訳文を複数持つ用語</seg>
       </tuv>
     </tu>
     <tu>
@@ -36213,6 +36293,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T025116Z">
         <seg>他のウィンドウが前面に表示されている場合、&lt;k0&gt;［Esc］&lt;/k0&gt;を押してそのウィンドウを閉じるか、メインウィンドウを一度クリックして、前面に出してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063049Z" creationid="Yu-Tang" creationdate="20130917T062836Z">
+        <seg>チェックを入れると、入力補完の用語集ビューに用語の原文もあわせて表示します。</seg>
       </tuv>
     </tu>
     <tu>
