@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9328,6 +9328,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131106T121712Z" creationid="Yu-Tang" creationdate="20131106T121712Z">
+        <seg>定型文ファイル（*.autotext）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T053749Z">
@@ -11085,6 +11093,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T145703Z">
         <seg>新しい訳文を登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131106T121645Z" creationid="Yu-Tang" creationdate="20131106T121645Z">
+        <seg>現在の訳文ファイルのみ生成</seg>
       </tuv>
     </tu>
     <tu>
