@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14010,6 +14010,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165317Z" creationid="Yu-Tang" creationdate="20131107T165317Z">
+        <seg>ファイル：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filename</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160006Z">
@@ -14383,6 +14391,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T172352Z">
         <seg>また上級者向けの話題として、コマンドラインモードとその可能性についても説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165350Z" creationid="Yu-Tang" creationdate="20131107T165350Z">
+        <seg>全ファイル：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20998,6 +21014,22 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T164952Z" creationid="Yu-Tang" creationdate="20131107T164952Z">
+        <seg>参考訳文の一致率（ファイル別）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165052Z" creationid="Yu-Tang" creationdate="20131107T165052Z">
+        <seg>参考訳文の一致率（ファイル別）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match display template</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T123351Z">
@@ -25760,10 +25792,26 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165235Z" creationid="Yu-Tang" creationdate="20131107T165235Z">
+        <seg>他のファイルとの繰り返し：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions stand for identical segments present several times in the text.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T072345Z">
         <seg>「繰り返し」は、同一内容の分節が何度も使用されている場合を表しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165242Z" creationid="Yu-Tang" creationdate="20131107T165214Z">
+        <seg>このファイル内での繰り返し：</seg>
       </tuv>
     </tu>
     <tu>
