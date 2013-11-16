@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -505,7 +505,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Auto-text...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T165735Z" creationid="Yu-Tang" creationdate="20130916T165735Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T165735Z">
         <seg>定型文...</seg>
       </tuv>
     </tu>
@@ -561,7 +561,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Character table...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152805Z" creationid="Yu-Tang" creationdate="20130916T152805Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152805Z">
         <seg>文字一覧...</seg>
       </tuv>
     </tu>
@@ -761,7 +761,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Glossary...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152354Z" creationid="Yu-Tang" creationdate="20130916T152354Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152354Z">
         <seg>用語集...</seg>
       </tuv>
     </tu>
@@ -873,7 +873,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Load...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171823Z" creationid="Yu-Tang" creationdate="20130916T171823Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171823Z">
         <seg>読み込み...</seg>
       </tuv>
     </tu>
@@ -1129,7 +1129,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Save...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172322Z" creationid="Yu-Tang" creationdate="20130916T172322Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172322Z">
         <seg>別名保存...</seg>
       </tuv>
     </tu>
@@ -7817,7 +7817,7 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A&amp;uto-completion</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152348Z" creationid="Yu-Tang" creationdate="20130916T152348Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152348Z">
         <seg>入力補完</seg>
       </tuv>
     </tu>
@@ -7977,7 +7977,7 @@ covered by this License; they are outside its scope.</seg>
       <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174510Z" creationid="Yu-Tang" creationdate="20130916T174510Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174510Z">
         <seg>カスタム文字一覧に追加したい文字をダブルクリックするか、または文字を選択してから Insert キーを押してください。</seg>
       </tuv>
     </tu>
@@ -8416,7 +8416,7 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Allow only unique characters</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T060742Z" creationid="Yu-Tang" creationdate="20130916T174327Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T060742Z">
         <seg>二重登録を許可しない</seg>
       </tuv>
     </tu>
@@ -9306,7 +9306,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completer Glossary View configuration</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174704Z" creationid="Yu-Tang" creationdate="20130916T174704Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174704Z">
         <seg>用語集の設定</seg>
       </tuv>
     </tu>
@@ -9314,7 +9314,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171639Z" creationid="Yu-Tang" creationdate="20130916T171639Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171639Z">
         <seg>定型文の設定</seg>
       </tuv>
     </tu>
@@ -9322,7 +9322,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-text file</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172450Z" creationid="Yu-Tang" creationdate="20130916T172450Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172450Z">
         <seg>定型文ファイル</seg>
       </tuv>
     </tu>
@@ -9330,7 +9330,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131106T121712Z" creationid="Yu-Tang" creationdate="20131106T121712Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131106T121712Z">
         <seg>定型文ファイル（*.autotext）</seg>
       </tuv>
     </tu>
@@ -9363,7 +9363,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T170911Z" creationid="Yu-Tang" creationdate="20130916T170911Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T170911Z">
         <seg>定型文</seg>
       </tuv>
     </tu>
@@ -10120,7 +10120,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Character table</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T155341Z" creationid="Yu-Tang" creationdate="20130916T155341Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T155341Z">
         <seg>文字一覧</seg>
       </tuv>
     </tu>
@@ -10128,7 +10128,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Character table auto-completer options</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T173218Z" creationid="Yu-Tang" creationdate="20130916T173218Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T173218Z">
         <seg>文字一覧の設定</seg>
       </tuv>
     </tu>
@@ -10320,7 +10320,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Clear</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T060808Z" creationid="Yu-Tang" creationdate="20130917T060808Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T060808Z">
         <seg>全削除</seg>
       </tuv>
     </tu>
@@ -10559,7 +10559,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex 
       <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172657Z" creationid="Yu-Tang" creationdate="20130916T172657Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172657Z">
         <seg>コメント</seg>
       </tuv>
     </tu>
@@ -11099,7 +11099,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131106T121645Z" creationid="Yu-Tang" creationdate="20131106T121645Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131106T121645Z">
         <seg>現在の訳文ファイルのみ生成</seg>
       </tuv>
     </tu>
@@ -11595,7 +11595,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174400Z" creationid="Yu-Tang" creationdate="20130916T174400Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174400Z">
         <seg>カスタム文字一覧</seg>
       </tuv>
     </tu>
@@ -11619,7 +11619,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Customize character table</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T173733Z" creationid="Yu-Tang" creationdate="20130916T173733Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T173733Z">
         <seg>文字一覧をカスタマイズする</seg>
       </tuv>
     </tu>
@@ -11967,7 +11967,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171303Z" creationid="Yu-Tang" creationdate="20130916T171303Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171303Z">
         <seg>表示</seg>
       </tuv>
     </tu>
@@ -12031,7 +12031,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display source terms</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T062711Z" creationid="Yu-Tang" creationdate="20130917T062711Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T062711Z">
         <seg>用語の原文も表示する</seg>
       </tuv>
     </tu>
@@ -12167,7 +12167,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064257Z" creationid="Yu-Tang" creationdate="20130917T064257Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064257Z">
         <seg>用語を「&lt;訳文&gt; → &lt;原文&gt;」形式で表示します。</seg>
       </tuv>
     </tu>
@@ -13161,7 +13161,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Entries</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171814Z" creationid="Yu-Tang" creationdate="20130916T171814Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171814Z">
         <seg>登録項目</seg>
       </tuv>
     </tu>
@@ -13169,7 +13169,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130924T091348Z" creationid="Yu-Tang" creationdate="20130924T091348Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130924T091348Z">
         <seg>書き込み可能な用語集からの用語は、太字で表示されます。</seg>
       </tuv>
     </tu>
@@ -13233,7 +13233,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130828T094107Z" creationid="Yu-Tang" creationdate="20130828T094107Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130828T094107Z">
         <seg>MyMemory から機械翻訳を取得できませんでした。エラーは次の通りです：</seg>
       </tuv>
     </tu>
@@ -14012,7 +14012,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>File: {0}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165317Z" creationid="Yu-Tang" creationdate="20131107T165317Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165317Z">
         <seg>ファイル：{0}</seg>
       </tuv>
     </tu>
@@ -14230,7 +14230,7 @@ patents.</seg>
       <tuv lang="EN">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130922T115733Z" creationid="Yu-Tang" creationdate="20130922T115733Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130922T115733Z">
         <seg>入力テキストに合わせて大文字・小文字を切り替える</seg>
       </tuv>
     </tu>
@@ -14397,7 +14397,7 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165350Z" creationid="Yu-Tang" creationdate="20131107T165350Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165350Z">
         <seg>全ファイル：</seg>
       </tuv>
     </tu>
@@ -14419,7 +14419,7 @@ control compilation and installation of the executable.</seg>
       <tuv lang="EN">
         <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131016T175213Z" creationid="Yu-Tang" creationdate="20131016T173639Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131016T175213Z">
         <seg>最良の結果を得るには［設定］→［綴り確認...］から適切な辞書をインストールしてください。</seg>
       </tuv>
     </tu>
@@ -15044,7 +15044,7 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Full table</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174336Z" creationid="Yu-Tang" creationdate="20130916T174336Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174336Z">
         <seg>全文字一覧</seg>
       </tuv>
     </tu>
@@ -15052,7 +15052,7 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Full text</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172650Z" creationid="Yu-Tang" creationdate="20130916T172650Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172650Z">
         <seg>テキスト</seg>
       </tuv>
     </tu>
@@ -16380,7 +16380,7 @@ circumstances.</seg>
       <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064136Z" creationid="Yu-Tang" creationdate="20130917T064136Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064136Z">
         <seg>チェックを入れると、用語をアルファベット順に並べ替えます。</seg>
       </tuv>
     </tu>
@@ -16388,7 +16388,7 @@ circumstances.</seg>
       <tuv lang="EN">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063417Z" creationid="Yu-Tang" creationdate="20130917T062953Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063417Z">
         <seg>チェックを入れると、訳文が長い用語を先に表示します。</seg>
       </tuv>
     </tu>
@@ -21016,7 +21016,7 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T164952Z" creationid="Yu-Tang" creationdate="20131107T164952Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T164952Z">
         <seg>参考訳文の一致率（ファイル別）</seg>
       </tuv>
     </tu>
@@ -21024,7 +21024,7 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per File</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165052Z" creationid="Yu-Tang" creationdate="20131107T165052Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165052Z">
         <seg>参考訳文の一致率（ファイル別）</seg>
       </tuv>
     </tu>
@@ -21636,7 +21636,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>MyMemory (human)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130828T094034Z" creationid="Yu-Tang" creationdate="20130828T094034Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130828T094034Z">
         <seg>MyMemory（人力）</seg>
       </tuv>
     </tu>
@@ -21644,7 +21644,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>MyMemory (machine)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130828T094040Z" creationid="Yu-Tang" creationdate="20130828T094040Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130828T094040Z">
         <seg>MyMemory（機械）</seg>
       </tuv>
     </tu>
@@ -24740,7 +24740,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130925T071817Z" creationid="Yu-Tang" creationdate="20130916T155313Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130925T071817Z">
         <seg>&lt;u&gt;{0}&lt;/u&gt; キーで&lt;b&gt;{1}&lt;/b&gt;の候補へ進みます。</seg>
       </tuv>
     </tu>
@@ -24748,7 +24748,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130925T071814Z" creationid="Yu-Tang" creationdate="20130916T155200Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130925T071814Z">
         <seg>&lt;u&gt;{0}&lt;/u&gt; キーで&lt;b&gt;{1}&lt;/b&gt;の候補に戻ります。</seg>
       </tuv>
     </tu>
@@ -25794,7 +25794,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Repetitions from other files:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165235Z" creationid="Yu-Tang" creationdate="20131107T165235Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165235Z">
         <seg>他のファイルとの繰り返し：</seg>
       </tuv>
     </tu>
@@ -25810,7 +25810,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Repetitions within this file:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165242Z" creationid="Yu-Tang" creationdate="20131107T165214Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131107T165242Z">
         <seg>このファイル内での繰り返し：</seg>
       </tuv>
     </tu>
@@ -26084,6 +26084,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033812Z">
         <seg>用語集ウィンドウを右クリックするか、&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; を押して、新しい用語を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131116T174334Z">
+        <seg>下部にある「1」から「12」のどれかのボタンの上で右クリックし、［スクリプトを設定］を選びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27545,7 +27553,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172648Z" creationid="Yu-Tang" creationdate="20130916T172648Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172648Z">
         <seg>ショートカット</seg>
       </tuv>
     </tu>
@@ -27617,7 +27625,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Show longer target terms first</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063317Z" creationid="Yu-Tang" creationdate="20130917T062927Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063317Z">
         <seg>訳文が長い用語を先に表示する</seg>
       </tuv>
     </tu>
@@ -27625,7 +27633,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Show source term first</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064311Z" creationid="Yu-Tang" creationdate="20130917T064311Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064311Z">
         <seg>原文を前に表示する</seg>
       </tuv>
     </tu>
@@ -27633,7 +27641,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Show target term first</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064223Z" creationid="Yu-Tang" creationdate="20130917T064223Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064223Z">
         <seg>訳文を前に表示する</seg>
       </tuv>
     </tu>
@@ -27925,7 +27933,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sort alphabetically</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171237Z" creationid="Yu-Tang" creationdate="20130916T171237Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171237Z">
         <seg>アルファベット順</seg>
       </tuv>
     </tu>
@@ -27933,7 +27941,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sort by full text, not shortcut</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T055808Z" creationid="Yu-Tang" creationdate="20130916T171621Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T055808Z">
         <seg>ショートカットではなくテキストを基準に並べ替え</seg>
       </tuv>
     </tu>
@@ -27941,7 +27949,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sort by length</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171438Z" creationid="Yu-Tang" creationdate="20130916T171104Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171438Z">
         <seg>文字数順</seg>
       </tuv>
     </tu>
@@ -27949,7 +27957,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sort by source term alphabetically</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063143Z" creationid="Yu-Tang" creationdate="20130917T063143Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063143Z">
         <seg>用語の原文のアルファベット順に並べ替え</seg>
       </tuv>
     </tu>
@@ -27957,7 +27965,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sort target terms alphabetically</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063310Z" creationid="Yu-Tang" creationdate="20130917T063310Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063310Z">
         <seg>用語の訳文のアルファベット順に並べ替え</seg>
       </tuv>
     </tu>
@@ -29186,7 +29194,7 @@ this License.</seg>
       <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064443Z" creationid="Yu-Tang" creationdate="20130917T064443Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064443Z">
         <seg>訳文を複数持つ用語</seg>
       </tuv>
     </tu>
@@ -32523,7 +32531,7 @@ covered work, you indicate your acceptance of this License to do so.</seg>
       <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130926T163509Z" creationid="Yu-Tang" creationdate="20130926T163509Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130926T163509Z">
         <seg>そうならないよう、訳文ファイルを生成する前に &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; キーを押して、タグが正しいか検証しておくとよいでしょう。</seg>
       </tuv>
     </tu>
@@ -32876,6 +32884,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T161404Z">
         <seg>この翻訳メモリは、翻訳作業を通じて徐々に蓄積していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's 12 place holders available for scripts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131116T174323Z">
+        <seg>インストールが完了すると、&lt;g0&gt;［ツール］&lt;/g0&gt;メニューに新たに&lt;g1&gt;［スクリプト...］&lt;/g1&gt;サブメニューが追加されます。また&lt;g2&gt;［スクリプト...］&lt;/g2&gt;サブメニューの下には、スクリプト用の 12 のプレースホルダーも追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35112,7 +35128,7 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unable to save data.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172645Z" creationid="Yu-Tang" creationdate="20130916T172645Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172645Z">
         <seg>定型文を保存できませんでした。</seg>
       </tuv>
     </tu>
@@ -36228,7 +36244,7 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warning!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131016T173030Z" creationid="Yu-Tang" creationdate="20131016T173030Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131016T173030Z">
         <seg>警告：</seg>
       </tuv>
     </tu>
@@ -36405,7 +36421,7 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063049Z" creationid="Yu-Tang" creationdate="20130917T062836Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063049Z">
         <seg>チェックを入れると、入力補完の用語集ビューに用語の原文もあわせて表示します。</seg>
       </tuv>
     </tu>
@@ -37338,7 +37354,7 @@ this License.</seg>
       <tuv lang="EN">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131016T175344Z" creationid="Yu-Tang" creationdate="20131016T173430Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131016T175344Z">
         <seg>言語「{0}」のトークナイザーに HunspellTokenizer が設定されていますが、その言語の綴り確認用辞書はインストールされていません。</seg>
       </tuv>
     </tu>
@@ -37568,7 +37584,7 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130924T084535Z" creationid="Yu-Tang" creationdate="20130924T084535Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20130924T084535Z">
         <seg>編集メニューの［用語の追加］から、新しい用語を登録することができます。</seg>
       </tuv>
     </tu>
@@ -37748,6 +37764,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T101246Z">
         <seg>どの要素を翻訳するか、選ぶことができます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131116T174351Z">
+        <seg>また&lt;g0&gt;［ツール］&lt;/g0&gt;メニューからスクリプトを選んだり、割り当てられたショートカットキー &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt;（# は 1 から 12）を使うことでも、同じようにスクリプトを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
