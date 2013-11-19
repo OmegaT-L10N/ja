@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.7" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13990,6 +13990,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170512Z">
         <seg>ファイル {0} は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T103412Z" creationid="Yu-Tang" creationdate="20131119T103412Z">
+        <seg>ファイル {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35982,6 +35990,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142001Z">
         <seg>タグ検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T103252Z" creationid="Yu-Tang" creationdate="20131119T103252Z">
+        <seg>タグ検証（現在の文書のみ）</seg>
       </tuv>
     </tu>
     <tu>
