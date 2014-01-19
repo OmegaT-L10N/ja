@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.7_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -743,6 +743,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022414Z" creationid="Yu-Tang" creationdate="20140119T022414Z">
+        <seg>&lt;it pos="end"&gt; タグのショートカットに「f」を割り当てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags (applies to 3.x filter only)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20131210T181532Z" creationid="Yu-Tang" creationdate="20131210T181532Z">
@@ -1267,6 +1275,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154548Z">
         <seg>ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022241Z" creationid="Yu-Tang" creationdate="20140119T022241Z">
+        <seg>未訳分節を除外</seg>
       </tuv>
     </tu>
     <tu>
@@ -10987,6 +11003,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2014 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022512Z" creationid="Yu-Tang" creationdate="20140119T022512Z">
+        <seg>Copyright © 2000-2014 Keith Godfrey, Maxym Mykhalchuk など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205537Z">
@@ -13872,6 +13896,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T204627Z">
         <seg>覚えておきたい使い方のヒント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fi&amp;les</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022256Z" creationid="Yu-Tang" creationdate="20140119T022256Z">
+        <seg>ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -19905,6 +19937,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>KoreanAnalyzer-3x-120223.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022207Z" creationid="Yu-Tang" creationdate="20140119T022207Z">
+        <seg>KoreanAnalyzer-3x-120223.jar（Apache ライセンス 2.0）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kurdish</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T071138Z">
@@ -24481,6 +24521,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044044Z">
         <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Piotr Kulik</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022142Z" creationid="Yu-Tang" creationdate="20140119T022142Z">
+        <seg>Piotr Kulik</seg>
       </tuv>
     </tu>
     <tu>
@@ -41688,6 +41736,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155137Z">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M -DDhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -&lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>タグは誤混入の可能性が強いため、削除しました。</note>
+      <tuv lang="EN">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022123Z" creationid="Yu-Tang" creationdate="20140119T022123Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
