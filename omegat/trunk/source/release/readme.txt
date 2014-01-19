@@ -279,6 +279,7 @@ Code has been contributed by
   Thomas Huriaux
   Hans-Peter Jacobs
   Kyle Katarn
+  Piotr Kulik
   Ibai Lakunza Velasco
   Guido Leenders
   Aaron Madlon-Kay
@@ -337,6 +338,7 @@ OmegaT uses the following libraries:
   morfologik-*.jar (Morfologik license)
   segment-1.4.1.jar (Segment license)
   pdfbox-app-1.8.1.jar (Apache License 2.0)
+  KoreanAnalyzer-3x-120223.jar (Apache License 2.0)
 
 ==============================================================================
  5.  Is OmegaT bugging you? Do you need help?
