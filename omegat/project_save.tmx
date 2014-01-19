@@ -807,6 +807,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T145907Z" creationid="Yu-Tang" creationdate="20140119T145907Z">
+        <seg>&lt;ph&gt; タグのショートカットを決める際に、type および ctype 属性を無視する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Import Source Files...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154018Z">
