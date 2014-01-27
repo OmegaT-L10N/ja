@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26618,8 +26618,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T153815Z">
-        <seg>スクリプト "{0}" はスロット #{1} に設定されています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140127T154904Z">
+        <seg>スロット #{1} にスクリプト「{0}」を設定しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26634,8 +26634,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Script "{0}" unbound from slot #{1}.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T153536Z">
-        <seg>スクリプト "{0}" はスロット #{1} から解除されました。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140127T154757Z">
+        <seg>スロット #{1} からスクリプト「{0}」を解除しました。</seg>
       </tuv>
     </tu>
     <tu>
