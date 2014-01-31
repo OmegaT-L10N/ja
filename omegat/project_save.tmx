@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5034,6 +5034,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051347Z">
         <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; この引数を指定すると、&lt;a1&gt;OmegaT&lt;/a1&gt; がコンソールモードで起動し、指定されたプロジェクトを翻訳します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T183517Z" creationid="0011s_000" creationdate="20140131T183517Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; チーム作業用のプロジェクトに関連する引数です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17803,6 +17811,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T181609Z">
         <seg>インストール時の言語と同じ言語を OmegaT で使いたい場合は、下のチェックボックスにチェックを入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to add values to &lt;e0&gt;VMOptions&lt;/e0&gt;, put a space between them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T183429Z" creationid="0011s_000" creationdate="20140131T183429Z">
+        <seg>&lt;e0&gt;VMOptions&lt;/e0&gt; に値を追加したい場合は、値と値のあいだに空白を入れてください。</seg>
       </tuv>
     </tu>
     <tu>
