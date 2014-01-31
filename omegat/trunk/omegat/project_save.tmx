@@ -5030,6 +5030,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T183840Z" creationid="0011s_000" creationdate="20140131T183840Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; Windows において、OmegaT の複数のインスタンスが同じプロジェクトを開けるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; launches in console mode and translates the given project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T051347Z">
