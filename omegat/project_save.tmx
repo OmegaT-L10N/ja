@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.9" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9994,6 +9994,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T165916Z">
         <seg>Camtasia Studio for Windows ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T092417Z" creationid="Yu-Tang" creationdate="20140201T092417Z">
+        <seg>取り消し</seg>
       </tuv>
     </tu>
     <tu>
@@ -25970,6 +25978,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T092150Z" creationid="Yu-Tang" creationdate="20140201T092150Z">
+        <seg>置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working directory (the directory you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T181851Z">
@@ -25982,6 +25998,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T033111Z">
         <seg>&lt;l0&gt;&lt;ファイル名&gt;&lt;/l0&gt; には、作成したいファイル名を指定します。絶対パスか、あるいは &lt;a1&gt;OmegaT&lt;/a1&gt; の起動フォルダーを基準にした相対パスで指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T092157Z" creationid="Yu-Tang" creationdate="20140201T092157Z">
+        <seg>すべて置換</seg>
       </tuv>
     </tu>
     <tu>
@@ -26046,6 +26070,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T040908Z">
         <seg>原文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T093239Z" creationid="Yu-Tang" creationdate="20140201T093239Z">
+        <seg>置換後の文字列：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26756,6 +26788,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165625Z">
         <seg>翻訳メモリを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T093113Z" creationid="Yu-Tang" creationdate="20140201T093113Z">
+        <seg>検索と置換...</seg>
       </tuv>
     </tu>
     <tu>
