@@ -1289,8 +1289,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Translated</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022241Z" creationid="Yu-Tang" creationdate="20140119T022241Z">
-        <seg>未訳分節を除外</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102114Z" creationid="Yu-Tang" creationdate="20140119T022241Z">
+        <seg>翻訳済み分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -12400,6 +12400,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102537Z" creationid="Yu-Tang" creationdate="20140201T102537Z">
+        <seg>よろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130531T132444Z">
@@ -18295,6 +18303,14 @@ the scope of this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T040909Z">
         <seg>翻訳者のチームで作業する場合、配布された専用のプロジェクトで各自が孤立して作業するよりも、ひとつの翻訳メモリを共有して作業できるほうが望ましいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T101707Z" creationid="Yu-Tang" creationdate="20140201T101707Z">
+        <seg>コメントを検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -28309,6 +28325,22 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102334Z" creationid="Yu-Tang" creationdate="20140201T102334Z">
+        <seg>原文のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source or translation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102330Z" creationid="Yu-Tang" creationdate="20140201T102330Z">
+        <seg>原文と訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T110036Z">
@@ -29454,6 +29486,14 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173901Z">
         <seg>テキストフィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102351Z" creationid="Yu-Tang" creationdate="20140201T102351Z">
+        <seg>テキストの置換</seg>
       </tuv>
     </tu>
     <tu>
@@ -34969,8 +35009,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translated</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T005204Z">
-        <seg>未訳分節を除外</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102108Z">
+        <seg>翻訳済み分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -35035,6 +35075,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130121T064611Z">
         <seg>訳文ファイルフォルダーが設定されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated or untranslated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T101944Z" creationid="Yu-Tang" creationdate="20140201T101944Z">
+        <seg>全分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -35140,6 +35188,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T172510Z">
         <seg>翻訳メモリツールは、分節と呼ばれるテキスト単位で処理を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102337Z" creationid="Yu-Tang" creationdate="20140201T102337Z">
+        <seg>訳文のみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -35646,6 +35702,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T142952Z">
         <seg>OmegaT であるていど経験を積むまでは、一度翻訳を開始したら、何か致命的な誤りに気づいたのでない限り、設定を変えずにおくことがもっとも安全です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102053Z" creationid="Yu-Tang" creationdate="20140201T102053Z">
+        <seg>未翻訳分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -37566,6 +37630,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T171617Z">
         <seg>これは &lt;g4&gt;Ctrl+A&lt;/g4&gt; と &lt;g4&gt;Del&lt;/g4&gt; キーの組み合わせで翻訳入力行をクリアするのと、同じことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102525Z" creationid="Yu-Tang" creationdate="20140201T102525Z">
+        <seg>{0} 個の分節を更新します。</seg>
       </tuv>
     </tu>
     <tu>
