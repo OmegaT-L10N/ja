@@ -10767,6 +10767,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T130242Z" creationid="Yu-Tang" creationdate="20140203T130242Z">
+        <seg>{1} 個中 {0} 個目の競合</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Yu-Tang）2.6.2 だと、黙って上書きされる仕様なので、監視できないと思うけれど。もしかしたら、将来そうできるようになるということ？</note>
       <tuv lang="EN">
         <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
@@ -25083,6 +25091,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135003Z">
         <seg>続行しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T130146Z" creationid="Yu-Tang" creationdate="20140203T130146Z">
+        <seg>解決しています...</seg>
       </tuv>
     </tu>
     <tu>
