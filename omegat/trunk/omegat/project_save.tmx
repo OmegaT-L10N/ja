@@ -2310,6 +2310,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124145Z" creationid="Yu-Tang" creationdate="20140203T124145Z">
+        <seg>競合数 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124123Z" creationid="Yu-Tang" creationdate="20140203T124123Z">
+        <seg>分節数 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143112Z">
@@ -10743,6 +10759,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124529Z" creationid="Yu-Tang" creationdate="20140203T124529Z">
+        <seg>競合の解決</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Yu-Tang）2.6.2 だと、黙って上書きされる仕様なので、監視できないと思うけれど。もしかしたら、将来そうできるようになるということ？</note>
       <tuv lang="EN">
         <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
@@ -11884,6 +11908,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124213Z" creationid="Yu-Tang" creationdate="20140203T124213Z">
+        <seg>詳細情報はありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers that use the GNU GPL protect your rights with two steps:
 (1) assert copyright on the software, and (2) offer you this License
 giving you legal permission to copy, distribute and/or modify it.</seg>
@@ -12501,6 +12533,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T030029Z">
         <seg>DokuWiki ファイル（*.txt）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124323Z" creationid="Yu-Tang" creationdate="20140203T124323Z">
+        <seg>完了</seg>
       </tuv>
     </tu>
     <tu>
@@ -24722,6 +24762,14 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T123918Z" creationid="Yu-Tang" creationdate="20140203T123918Z">
+        <seg>以下の各分節について、訳文を採用して競合を解決してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please see the file 'changes.txt' for detailed information about changes in
 this and all previous releases.</seg>
       </tuv>
@@ -35916,6 +35964,30 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124242Z" creationid="Yu-Tang" creationdate="20140203T124242Z">
+        <seg>自分の変更をすべて採用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124315Z" creationid="Yu-Tang" creationdate="20140203T124315Z">
+        <seg>サーバー（変更前）をすべて採用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124320Z" creationid="Yu-Tang" creationdate="20140203T124320Z">
+        <seg>サーバー（変更後）をすべて採用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T145529Z">
@@ -45568,10 +45640,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124141Z" creationid="Yu-Tang" creationdate="20140203T124141Z">
+        <seg>競合数 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152353Z">
         <seg>{0} 読み込み完了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124116Z" creationid="Yu-Tang" creationdate="20140203T124116Z">
+        <seg>分節数 {0}</seg>
       </tuv>
     </tu>
     <tu>
