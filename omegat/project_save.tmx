@@ -10161,8 +10161,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code (see &lt;x1/&gt; for a list of language codes).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T073543Z">
-        <seg>言語名と、言語コード構成例を変更してください（言語コードの一覧は&lt;x1/&gt;を参照してください）。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213733Z">
+        <seg>言語名と、言語コード正規表現を変更してください（言語コードの一覧は&lt;x1/&gt;を参照してください）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11872,6 +11872,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T204428Z">
         <seg>Delete*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213335Z" creationid="Yu-Tang" creationdate="20140207T213335Z">
+        <seg>削除されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -18416,8 +18424,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T073529Z">
-        <seg>新しい言語コード構成例を追加するには、上部の表の横にある&lt;e0&gt;［追加］&lt;/e0&gt;をクリックしてください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213719Z">
+        <seg>新しい言語コード正規表現を追加するには、上部の表の横にある&lt;e0&gt;［追加］&lt;/e0&gt;をクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20132,8 +20140,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Language Pattern</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121445Z">
-        <seg>言語コード構成例</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213923Z">
+        <seg>言語コード正規表現</seg>
       </tuv>
     </tu>
     <tu>
@@ -22237,6 +22245,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213447Z" creationid="Yu-Tang" creationdate="20140207T213447Z">
+        <seg>存在しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T183451Z">
@@ -22583,8 +22599,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122240Z">
-        <seg>言語コード構成例に一致する分節化規則は、設定した順に適用されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213941Z">
+        <seg>言語コード正規表現に一致する分節化規則は、設定した順に適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32342,8 +32358,8 @@ making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T061947Z">
-        <seg>定義する構成例の文法は正規表現の文法に従います。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213838Z">
+        <seg>定義する言語コードの文法は正規表現の文法に従います。</seg>
       </tuv>
     </tu>
     <tu>
