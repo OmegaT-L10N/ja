@@ -1135,6 +1135,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T183614Z" creationid="Yu-Tang" creationdate="20140210T183614Z">
+        <seg>未翻訳分節を訳文ファイルに出力しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154954Z">
@@ -10603,6 +10611,16 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043645Z">
         <seg>コードに関する貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T183810Z" creationid="Yu-Tang" creationdate="20140210T183810Z">
+        <seg>コードに関する貢献者： 
+Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex Buloichik（開発リーダー）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -21845,6 +21863,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T182659Z" creationid="Yu-Tang" creationdate="20140210T182659Z">
+        <seg>Mozilla DTD フィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173855Z">
@@ -30197,6 +30223,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T084004Z">
         <seg>参考訳文の一致率はタブ区切り形式になっており、&lt;g0&gt;［Ctrl+A］&lt;i1/&gt;&lt;/g0&gt;、&lt;g2&gt;［Ctrl+C］&lt;i3/&gt;&lt;/g2&gt;、&lt;g4&gt;［Ctrl+V］&lt;i5/&gt;&lt;/g4&gt;でコピー/貼り付けして、任意の表計算プログラムや原価計算プログラムで利用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T183136Z" creationid="Yu-Tang" creationdate="20140210T183136Z">
+        <seg>Mozilla DTD フィルターの例外が発生しました：</seg>
       </tuv>
     </tu>
     <tu>
