@@ -567,6 +567,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Character Table...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183537Z" creationid="Yu-Tang" creationdate="20140215T183537Z">
+        <seg>文字一覧...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Character table...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T152805Z">
@@ -9408,6 +9416,30 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184429Z" creationid="Yu-Tang" creationdate="20140215T184429Z">
+        <seg>入力補完→定型文...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184451Z" creationid="Yu-Tang" creationdate="20140215T184445Z">
+        <seg>入力補完→文字一覧...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184414Z" creationid="Yu-Tang" creationdate="20140215T184414Z">
+        <seg>入力補完→用語集...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171639Z">
@@ -11262,6 +11294,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183719Z" creationid="Yu-Tang" creationdate="20140215T183719Z">
+        <seg>現在の訳文ファイルのみ生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130404Z">
@@ -11598,6 +11638,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+K</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183752Z" creationid="Yu-Tang" creationdate="20140215T183752Z">
+        <seg>Ctrl+K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+L</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141159Z">
@@ -11710,6 +11758,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+T</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183729Z" creationid="Yu-Tang" creationdate="20140215T183729Z">
+        <seg>Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+U</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141617Z">
@@ -11730,6 +11786,22 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141231Z">
         <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183926Z" creationid="Yu-Tang" creationdate="20140215T183926Z">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183932Z" creationid="Yu-Tang" creationdate="20140215T183932Z">
+        <seg>Ctrl+↓</seg>
       </tuv>
     </tu>
     <tu>
@@ -11802,6 +11874,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140811Z">
         <seg>切り取り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cycle Case To...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184147Z" creationid="Yu-Tang" creationdate="20140215T184147Z">
+        <seg>上記を順に切り替え...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20268,6 +20348,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184512Z" creationid="Yu-Tang" creationdate="20140215T184512Z">
+        <seg>最近の更新履歴...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T191124Z">
@@ -20614,6 +20702,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165627Z">
         <seg>場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184533Z" creationid="Yu-Tang" creationdate="20140215T184533Z">
+        <seg>ログ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22067,6 +22163,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141619Z">
         <seg>次の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184205Z" creationid="Yu-Tang" creationdate="20140215T184205Z">
+        <seg>次の翻訳済み分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -25501,6 +25605,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184503Z" creationid="Yu-Tang" creationdate="20140215T184503Z">
+        <seg>プロキシ認証...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130753Z">
@@ -25873,6 +25985,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040941Z">
         <seg>正規表現関連ツールとその使用例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183527Z" creationid="Yu-Tang" creationdate="20140215T183527Z">
+        <seg>原文と同一訳文を登録</seg>
       </tuv>
     </tu>
     <tu>
@@ -27659,6 +27779,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183931Z" creationid="Yu-Tang" creationdate="20140215T183931Z">
+        <seg>次の参考訳文を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183924Z" creationid="Yu-Tang" creationdate="20140215T183924Z">
+        <seg>前の参考訳文を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
       <tuv lang="JA" changeid="masa_36">
@@ -27908,6 +28044,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+D</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183723Z" creationid="Yu-Tang" creationdate="20140215T183723Z">
+        <seg>Shift+Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+G</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141352Z">
@@ -27924,6 +28068,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183617Z" creationid="Yu-Tang" creationdate="20140215T183617Z">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+R</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141330Z">
@@ -27936,6 +28088,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141341Z">
         <seg>Shift+Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+U</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184207Z" creationid="Yu-Tang" creationdate="20140215T184207Z">
+        <seg>Shift+Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+V</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184212Z" creationid="Yu-Tang" creationdate="20140215T184212Z">
+        <seg>Shift+Ctrl+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -29038,6 +29206,30 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="JA" changeid="0011s_000" changedate="20140131T184306Z" creationid="0011s_000" creationdate="20140131T184306Z">
         <seg>Swing-Layout 1.0.4（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Lower Case</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184013Z" creationid="Yu-Tang" creationdate="20140215T184013Z">
+        <seg>大/小文字設定→すべて小文字に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184053Z" creationid="Yu-Tang" creationdate="20140215T184053Z">
+        <seg>大/小文字設定→Title case（単語の先頭を大文字）に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184018Z" creationid="Yu-Tang" creationdate="20140215T184018Z">
+        <seg>大/小文字設定→すべて大文字に</seg>
       </tuv>
     </tu>
     <tu>
@@ -36527,6 +36719,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184229Z" creationid="Yu-Tang" creationdate="20140215T184229Z">
+        <seg>タグ検証（現在の文書のみ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate tags when leaving a segment</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130318T044642Z">
@@ -40606,6 +40806,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184158Z" creationid="Yu-Tang" creationdate="20140215T184158Z">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183758Z" creationid="Yu-Tang" creationdate="20140215T183758Z">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editSelectFuzzy1MenuItem</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141414Z">
@@ -40642,6 +40858,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141516Z">
         <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183934Z" creationid="Yu-Tang" creationdate="20140215T183934Z">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183927Z" creationid="Yu-Tang" creationdate="20140215T183927Z">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183744Z" creationid="Yu-Tang" creationdate="20140215T183744Z">
+        <seg>editTagNextMissedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -41086,6 +41326,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184208Z" creationid="Yu-Tang" creationdate="20140215T184208Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gotoNextUntranslatedMenuItem</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141618Z">
@@ -41218,6 +41466,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142244Z">
         <seg>helpContentsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184517Z" creationid="Yu-Tang" creationdate="20140215T184517Z">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184537Z" creationid="Yu-Tang" creationdate="20140215T184537Z">
+        <seg>helpLogMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -43576,6 +43840,30 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184430Z" creationid="Yu-Tang" creationdate="20140215T184430Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184455Z" creationid="Yu-Tang" creationdate="20140215T184455Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184417Z" creationid="Yu-Tang" creationdate="20140215T184417Z">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142222Z">
@@ -43958,6 +44246,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141143Z">
         <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183727Z" creationid="Yu-Tang" creationdate="20140215T183727Z">
+        <seg>projectSingleCompileMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -45098,6 +45394,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184235Z" creationid="Yu-Tang" creationdate="20140215T184235Z">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142006Z">
@@ -45110,6 +45414,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T111619Z">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184232Z" creationid="Yu-Tang" creationdate="20140215T184232Z">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
