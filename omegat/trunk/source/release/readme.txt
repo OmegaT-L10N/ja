@@ -272,6 +272,7 @@ Code has been contributed by
   Alex Buloichik (lead developer)
   Sandra Jean Chua
   Thomas Cordonnier
+  Enrique Estévez Fernández
   Martin Fleurke  
   Wildrich Fourie
   Phillip Hall
@@ -312,7 +313,6 @@ but you don't see your name on the lists, feel free to contact us.)
 
 OmegaT uses the following libraries:
   HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)
-  MRJ Adapter 1.0.8 by Steve Roy (LGPL License)
   VLDocking Framework 2.1.4 by VLSolutions (CeCILL License)
   Hunspell by László Németh and others (LGPL License)
   JNA by Todd Fast, Timothy Wall and others (LGPL License)
@@ -339,7 +339,6 @@ OmegaT uses the following libraries:
   segment-1.4.1.jar (Segment license)
   pdfbox-app-1.8.1.jar (Apache License 2.0)
   KoreanAnalyzer-3x-120223.jar (Apache License 2.0)
-  beansbinding-1.2.1.jar (LGPL license)
   SuperTMXMerge-for_OmegaT.jar (LGPL license)
 
 ==============================================================================
