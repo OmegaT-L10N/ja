@@ -21831,8 +21831,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Modified Segments:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T122444Z" creationid="Yu-Tang" creationdate="20140320T122444Z">
-        <seg>変更された分節：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T035251Z" creationid="Yu-Tang" creationdate="20140320T122444Z">
+        <seg>変更された分節数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27277,8 +27277,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T122426Z" creationid="Yu-Tang" creationdate="20140320T122426Z">
-        <seg>検索</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T034005Z" creationid="Yu-Tang" creationdate="20140320T122426Z">
+        <seg>検索文字列</seg>
       </tuv>
     </tu>
     <tu>
@@ -27317,8 +27317,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Search and Replace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T122430Z" creationid="Yu-Tang" creationdate="20140320T122430Z">
-        <seg>検索と置換</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T034141Z" creationid="Yu-Tang" creationdate="20140320T122430Z">
+        <seg>置換を実行</seg>
       </tuv>
     </tu>
     <tu>
@@ -46611,6 +46611,16 @@ documentation.</prop>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T111114Z">
         <seg>OmegaT とは？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">scripts/search_replace.properties</prop>
+      <prop type="id">replace</prop>
+      <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T034033Z" creationid="Yu-Tang" creationdate="20140321T034033Z">
+        <seg>置換後の文字列</seg>
       </tuv>
     </tu>
     <tu>
