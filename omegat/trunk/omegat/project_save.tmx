@@ -24295,6 +24295,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Current File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052252Z" creationid="Yu-Tang" creationdate="20140323T052252Z">
+        <seg>開く - 現在の原文ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T025031Z">
@@ -24303,10 +24311,34 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Glossary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052441Z" creationid="Yu-Tang" creationdate="20140323T052441Z">
+        <seg>開く - 用語集ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164132Z">
         <seg>プロジェクトを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Project Folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052321Z" creationid="Yu-Tang" creationdate="20140323T052321Z">
+        <seg>開く - プロジェクトフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open TM Folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052638Z" creationid="Yu-Tang" creationdate="20140323T052638Z">
+        <seg>開く - TM フォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -24327,10 +24359,42 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open project_save.tmx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052623Z" creationid="Yu-Tang" creationdate="20140323T052623Z">
+        <seg>開く - project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open project_save.tmx in an editor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052631Z" creationid="Yu-Tang" creationdate="20140323T052631Z">
+        <seg>project_save.tmx をエディターで開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the /tm folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052722Z" creationid="Yu-Tang" creationdate="20140323T052722Z">
+        <seg>/tm フォルダー（参考訳文用の翻訳メモリ配置フォルダー）を開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search window with &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; and enter the word or phrase you wish to search for in the Search for box.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051521Z">
         <seg>&lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt;&lt;/k1&gt; で文字列検索ウィンドウを開き、［検索文字列］欄に検索したい単語または語句を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the current translated file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052312Z" creationid="Yu-Tang" creationdate="20140323T052312Z">
+        <seg>現在翻訳中の原文ファイルを開きます</seg>
       </tuv>
     </tu>
     <tu>
@@ -24343,10 +24407,26 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the project folder in the operating system</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052431Z" creationid="Yu-Tang" creationdate="20140323T052431Z">
+        <seg>現在のプロジェクトフォルダーを OS のシェル上で開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T054900Z">
         <seg>&lt;g0&gt;［Ctrl+T］&lt;/g0&gt;でウィンドウを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the writeable glossary in an editor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052611Z" creationid="Yu-Tang" creationdate="20140323T052611Z">
+        <seg>書き込み可能な用語集ファイルをエディターで開きます</seg>
       </tuv>
     </tu>
     <tu>
@@ -26449,6 +26529,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180742Z">
         <seg>構成例を削除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052800Z" creationid="Yu-Tang" creationdate="20140323T052800Z">
+        <seg>現在の訳文からタグを削除します</seg>
       </tuv>
     </tu>
     <tu>
@@ -29258,6 +29346,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170414Z">
         <seg>また文字列は引用符「"」で括られます。そのため、列区切りと区別して、文字列内にカンマを含むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052728Z" creationid="Yu-Tang" creationdate="20140323T052728Z">
+        <seg>タグを削除</seg>
       </tuv>
     </tu>
     <tu>
