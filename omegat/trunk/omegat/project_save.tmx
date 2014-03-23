@@ -11838,6 +11838,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Currency Translator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050122Z" creationid="Yu-Tang" creationdate="20140323T050122Z">
+        <seg>通貨表記の変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145237Z">
@@ -13823,10 +13831,58 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example - GUI Scripting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050800Z" creationid="Yu-Tang" creationdate="20140323T050800Z">
+        <seg>サンプル - GUI の表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example - Key Binding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T051611Z" creationid="Yu-Tang" creationdate="20140323T051611Z">
+        <seg>サンプル - キーバインディングの変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example - Modify Segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T051710Z" creationid="Yu-Tang" creationdate="20140323T051710Z">
+        <seg>サンプル - 分節の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example - Search and Replace</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T125359Z" creationid="Yu-Tang" creationdate="20140320T122410Z">
         <seg>サンプル - 訳文の置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example of GUI scripting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050837Z" creationid="Yu-Tang" creationdate="20140323T050837Z">
+        <seg>GUI を表示するサンプルです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example of keybinding event</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T051624Z" creationid="Yu-Tang" creationdate="20140323T051624Z">
+        <seg>キーバインディング イベントのサンプルです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example of segment modification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052011Z" creationid="Yu-Tang" creationdate="20140323T052011Z">
+        <seg>現在の訳文を変更するサンプルです</seg>
       </tuv>
     </tu>
     <tu>
@@ -34613,6 +34669,14 @@ be a consequence of the rest of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will translate a string like "$123,399.99" to "123 399,99 USD"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050417Z" creationid="Yu-Tang" creationdate="20140323T050417Z">
+        <seg>たとえば原文に「$123,399.99」とあれば、これを「123 399,99 USD」に変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will work only if the .jar
 file type is associated with Java on your system.</seg>
       </tuv>
@@ -35614,6 +35678,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202559Z">
         <seg>XHTML や HTML ファイルでは、オブジェクトの属性も翻訳の対象になることがあります。このような場合は、属性値だけを分節として取り出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate currencies representation according to source and target locale.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050230Z" creationid="Yu-Tang" creationdate="20140323T050200Z">
+        <seg>原文中の通貨表記を、訳文の言語設定に応じて変換します。</seg>
       </tuv>
     </tu>
     <tu>
