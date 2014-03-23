@@ -10794,6 +10794,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit source file changes to SVN remote repository</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062417Z" creationid="Yu-Tang" creationdate="20140323T062417Z">
+        <seg>原文ファイルの変更（追加/削除/更新）をリモートリポジトリに対してコミットします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T182410Z">
@@ -12302,6 +12310,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T150222Z">
         <seg>原文を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display a list of segments where source and target identical content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061730Z" creationid="Yu-Tang" creationdate="20140323T061730Z">
+        <seg>原文と訳文が同一の分節一覧を表示します</seg>
       </tuv>
     </tu>
     <tu>
@@ -15616,6 +15632,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174934Z">
         <seg>共通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global Spell Checking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062010Z" creationid="Yu-Tang" creationdate="20140323T062010Z">
+        <seg>プロジェクト全体（訳文）のスペルチェックを実施します</seg>
       </tuv>
     </tu>
     <tu>
@@ -25104,6 +25128,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perform SVN cleanup on any local SVN repository</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062329Z" creationid="Yu-Tang" creationdate="20140323T062329Z">
+        <seg>ローカルの任意の SVN リポジトリ（作業コピー）に対して、クリーンアップ（矛盾した状態を解決する）を実行します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130513T095748Z">
@@ -26693,6 +26725,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace current target with tag-free match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061610Z" creationid="Yu-Tang" creationdate="20140323T061610Z">
+        <seg>タグを削除した参考訳文に置換します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154254Z">
@@ -27135,6 +27175,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155331Z">
         <seg>SVN '{0}' 実行開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Cleanup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062146Z" creationid="Yu-Tang" creationdate="20140323T062146Z">
+        <seg>SVN - クリーンアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Commit Source File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062341Z" creationid="Yu-Tang" creationdate="20140323T062341Z">
+        <seg>SVN - 原文ファイルをコミット</seg>
       </tuv>
     </tu>
     <tu>
@@ -28564,6 +28620,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show Same Segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061651Z" creationid="Yu-Tang" creationdate="20140323T061651Z">
+        <seg>原文と訳文が同一の分節を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show longer target terms first</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063317Z">
@@ -29220,6 +29284,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154506Z">
         <seg>綴り確認...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061734Z" creationid="Yu-Tang" creationdate="20140323T061734Z">
+        <seg>スペルチェック</seg>
       </tuv>
     </tu>
     <tu>
@@ -29949,6 +30021,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064559Z">
         <seg>タグ検証ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag-Free Match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061623Z" creationid="Yu-Tang" creationdate="20140323T061424Z">
+        <seg>参考訳文（タグ削除済み）に置換</seg>
       </tuv>
     </tu>
     <tu>
@@ -32708,8 +32788,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The rules are based on the Checkmate Quality check</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T055703Z" creationid="Yu-Tang" creationdate="20140323T055500Z">
-        <seg>Checkmate の品質チェックに準じた規則を適用できます</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061220Z" creationid="Yu-Tang" creationdate="20140323T055500Z">
+        <seg>CheckMate（Okapi Framework）の品質チェックに準じた規則を適用できます</seg>
       </tuv>
     </tu>
     <tu>
