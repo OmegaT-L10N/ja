@@ -783,6 +783,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164907Z" creationid="Yu-Tang" creationdate="20140414T164907Z">
+        <seg>用語集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Glossary</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154902Z">
@@ -835,6 +843,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154018Z">
         <seg>原文ファイルを追加...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T165236Z" creationid="Yu-Tang" creationdate="20140414T165236Z">
+        <seg>訳文を検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -1143,10 +1159,34 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164718Z" creationid="Yu-Tang" creationdate="20140414T164718Z">
+        <seg>フィルターを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T183614Z" creationid="Yu-Tang" creationdate="20140210T183614Z">
         <seg>未翻訳分節を訳文ファイルに出力しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164606Z" creationid="Yu-Tang" creationdate="20140414T164606Z">
+        <seg>置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164713Z" creationid="Yu-Tang" creationdate="20140414T164713Z">
+        <seg>置換して次へ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1227,6 +1267,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155943Z">
         <seg>大きさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164708Z" creationid="Yu-Tang" creationdate="20140414T164708Z">
+        <seg>次を検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -10255,6 +10303,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164840Z" creationid="Yu-Tang" creationdate="20140414T164840Z">
+        <seg>これ以降の変更：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170832Z" creationid="Yu-Tang" creationdate="20140310T170832Z">
@@ -18752,6 +18808,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164740Z" creationid="Yu-Tang" creationdate="20140414T164740Z">
+        <seg>メモを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155017Z">
@@ -21711,6 +21775,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044052Z">
         <seg>Maxym Mykhalchuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164900Z" creationid="Yu-Tang" creationdate="20140414T164900Z">
+        <seg>内部メモリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -26189,6 +26261,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164644Z" creationid="Yu-Tang" creationdate="20140414T164644Z">
+        <seg>すべて置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;place with Source</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154302Z">
@@ -29823,6 +29903,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055005Z">
         <seg>システム共通のコマンド：貼り付け（&lt;e0&gt;Ctrl+V&lt;/e0&gt; または &lt;e1&gt;Ctrl+Insert&lt;/e1&gt;）、切り取り（&lt;e2&gt;Ctrl+X&lt;/e2&gt; または &lt;e3&gt;Ctrl+C&lt;/e3&gt;）、参考訳文を挿入（&lt;e4&gt;Ctrl+I&lt;/e4&gt;）、原文を挿入（&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;）は、原理的に選択範囲が現在の分節を越える状態で実行されることもありえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164903Z" creationid="Yu-Tang" creationdate="20140414T164903Z">
+        <seg>翻訳メモリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -35922,6 +36010,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T165242Z" creationid="Yu-Tang" creationdate="20140414T165242Z">
+        <seg>全分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TransTips</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T151933Z">
@@ -36344,6 +36440,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174316Z">
         <seg>TYPO3 l10nmgr ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T165003Z" creationid="Yu-Tang" creationdate="20140414T165003Z">
+        <seg>未翻訳分節</seg>
       </tuv>
     </tu>
     <tu>
