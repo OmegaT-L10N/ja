@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -735,6 +735,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T140710Z" creationid="Yu-Tang" creationdate="20140426T140710Z">
+        <seg>フィルターを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130406T223939Z">
@@ -1177,8 +1185,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164606Z" creationid="Yu-Tang" creationdate="20140414T164606Z">
-        <seg>置換</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T140625Z" creationid="Yu-Tang" creationdate="20140414T164606Z">
+        <seg>置換フィルター</seg>
       </tuv>
     </tu>
     <tu>
@@ -27295,6 +27303,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174326Z">
         <seg>SVG 画像ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T141501Z" creationid="Yu-Tang" creationdate="20140426T140831Z">
+        <seg>SVG 画像と Adobe Illustrator 出力</seg>
       </tuv>
     </tu>
     <tu>
