@@ -116,7 +116,7 @@ It will install the correct environment for your computer and the application
 itself on the first run. Later calls do not need to be online.
 
 During the installation, depending on your operating system, you may receive 
-several security warnings. The certificate is self-signed by "Didier Briel". 
+several security warnings. The certificate is by "PnS Concept". 
 The permissions you give to this version (which might be mentioned as an 
 "unrestricted access to the computer") are identical  to permissions you give 
 to the local version, as installed by a procedure, described later: they allow 
@@ -285,6 +285,7 @@ Code has been contributed by
   Guido Leenders
   Aaron Madlon-Kay
   Fabián Mandelbaum
+  Manfred Martin
   John Moran
   Maxym Mykhalchuk 
   Arno Peters
@@ -340,6 +341,7 @@ OmegaT uses the following libraries:
   pdfbox-app-1.8.1.jar (Apache License 2.0)
   KoreanAnalyzer-3x-120223.jar (Apache License 2.0)
   SuperTMXMerge-for_OmegaT.jar (LGPL license)
+  groovy-all-2.2.2.jar (Apache Licence 2.0)
 
 ==============================================================================
  5.  Is OmegaT bugging you? Do you need help?
