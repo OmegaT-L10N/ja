@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8622,6 +8622,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T170030Z" creationid="Yu-Tang" creationdate="20140501T170030Z">
+        <seg>原文が空の分節を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T170528Z">
@@ -10757,6 +10765,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T195145Z" creationid="Yu-Tang" creationdate="20140210T183810Z">
         <seg>コードに関する貢献者： 
 Zoltan Bartko, Volker Berlin, Didier Briel（開発マネージャー）, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich そして Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T170259Z" creationid="Yu-Tang" creationdate="20140501T170259Z">
+        <seg>コードに関する貢献者：
+Zoltan Bartko, Volker Berlin, Didier Briel（開発マネージャー）, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -21480,6 +21498,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manfred Martin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T165746Z" creationid="Yu-Tang" creationdate="20140501T165746Z">
+        <seg>Manfred Martin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manx</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T071617Z">
@@ -22347,6 +22373,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173855Z">
         <seg>Mozilla DTD ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T170313Z" creationid="Yu-Tang" creationdate="20140501T170313Z">
+        <seg>Mozilla Lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -31359,6 +31393,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T033621Z">
         <seg>キャリッジリターン（CR）文字（'\u000D'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The certificate is by "PnS Concept".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T165712Z" creationid="Yu-Tang" creationdate="20140501T165712Z">
+        <seg>証明書は「PnS Concept」によって署名されています。</seg>
       </tuv>
     </tu>
     <tu>
