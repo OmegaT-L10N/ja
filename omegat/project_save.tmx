@@ -7903,6 +7903,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143230Z" creationid="Yu-Tang" creationdate="20140604T143230Z">
+        <seg>現在の OmegaT プロジェクトに対する基本的な QA チェック集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A source sentence might look like:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030855Z">
@@ -10455,6 +10463,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143351Z" creationid="Yu-Tang" creationdate="20140604T143351Z">
+        <seg>規則集によるチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T032324Z">
@@ -12388,6 +12404,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144432Z" creationid="Yu-Tang" creationdate="20140604T144432Z">
+        <seg>句読点の不一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144542Z" creationid="Yu-Tang" creationdate="20140604T144542Z">
+        <seg>先頭の大文字・小文字の不一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dis&amp;play all results</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134735Z">
@@ -12905,6 +12937,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033934Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; をダブルクリックするか、ドックのアイコンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144156Z" creationid="Yu-Tang" creationdate="20140604T144156Z">
+        <seg>連続する空白文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144347Z" creationid="Yu-Tang" creationdate="20140604T144347Z">
+        <seg>単語の繰り返し</seg>
       </tuv>
     </tu>
     <tu>
@@ -13662,6 +13710,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144646Z" creationid="Yu-Tang" creationdate="20140604T144646Z">
+        <seg>原文と訳文が同一</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143055Z">
@@ -13834,6 +13890,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T141008Z">
         <seg>エラー {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143853Z" creationid="Yu-Tang" creationdate="20140604T143853Z">
+        <seg>エラー数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25625,6 +25689,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143559Z" creationid="Yu-Tang" creationdate="20140604T143559Z">
+        <seg>プロジェクトを開いてから、再試行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154045Z">
@@ -26258,6 +26330,14 @@ public, and in some countries other activities as well.</seg>
         <seg>QA - Check Rules</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T055634Z" creationid="Yu-Tang" creationdate="20140323T055434Z">
+        <seg>QA - 規則集によるチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA - Check rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143025Z" creationid="Yu-Tang" creationdate="20140604T143025Z">
         <seg>QA - 規則集によるチェック</seg>
       </tuv>
     </tu>
@@ -27263,6 +27343,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143858Z" creationid="Yu-Tang" creationdate="20140604T143858Z">
+        <seg>規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052058Z">
@@ -28233,6 +28321,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T081533Z">
         <seg>したがって、PO ファイルはプレーンテキストファイルである&lt;e1&gt;と同時に&lt;/e1&gt;、翻訳メモリでもあるといえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143856Z" creationid="Yu-Tang" creationdate="20140604T143856Z">
+        <seg>分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -30419,6 +30515,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143918Z" creationid="Yu-Tang" creationdate="20140604T143901Z">
+        <seg>訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target filename</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T152421Z">
@@ -30431,6 +30535,22 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155212Z">
         <seg>訳文ファイルフォルダー {0} は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144406Z" creationid="Yu-Tang" creationdate="20140604T144406Z">
+        <seg>長すぎる訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144401Z" creationid="Yu-Tang" creationdate="20140604T144401Z">
+        <seg>短すぎる訳文</seg>
       </tuv>
     </tu>
     <tu>
@@ -36928,6 +37048,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144654Z" creationid="Yu-Tang" creationdate="20140604T144654Z">
+        <seg>未翻訳分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments will hereby remain in the source language.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T084918Z">
@@ -38329,6 +38457,22 @@ technological measures.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130406T224539Z">
         <seg>空白文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144205Z" creationid="Yu-Tang" creationdate="20140604T144053Z">
+        <seg>先頭の空白文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144211Z" creationid="Yu-Tang" creationdate="20140604T144058Z">
+        <seg>末尾の空白文字</seg>
       </tuv>
     </tu>
     <tu>
