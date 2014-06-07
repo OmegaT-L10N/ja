@@ -10215,6 +10215,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151644Z" creationid="Yu-Tang" creationdate="20140607T151644Z">
+        <seg>取り消されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Canceled creating new team project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T033730Z">
@@ -10743,6 +10751,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose SVN repository to perform cleanup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151601Z" creationid="Yu-Tang" creationdate="20140607T151601Z">
+        <seg>クリーンアップを実行したいリポジトリを選んでください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T012523Z">
@@ -10755,6 +10771,15 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205522Z">
         <seg>チュヴァシ語（Chuvash）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cleanup done!!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151700Z" creationid="Yu-Tang" creationdate="20140607T151700Z">
+        <seg>クリーンアップを実行しました
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -18793,6 +18818,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145917Z" creationid="Yu-Tang" creationdate="20140607T145917Z">
+        <seg>辞書の大文字・小文字を無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140311T235552Z" creationid="Yu-Tang" creationdate="20140311T235552Z">
@@ -20838,6 +20871,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151352Z" creationid="Yu-Tang" creationdate="20140607T151352Z">
+        <seg>辞書に追加：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LaTeX</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130531T131901Z">
@@ -21079,6 +21120,14 @@ Launch OmegaT as follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T192050Z">
         <seg>&lt;g0&gt;Ctrl+T&lt;i1/&gt;&lt;/g0&gt; でこの機能を使用できます。専用のウィンドウには、壊れたもしくは誤ったと思しきタグを含む分節がすべて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151355Z" creationid="Yu-Tang" creationdate="20140607T151355Z">
+        <seg>辞書に追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -23125,6 +23174,14 @@ measures.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T073930Z">
         <seg>ニーノシュク（ノルウェー語）（Norwegian Nynorsk）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not a local repository</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151725Z" creationid="Yu-Tang" creationdate="20140607T151725Z">
+        <seg>ローカルのリポジトリではありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -25610,6 +25667,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151533Z" creationid="Yu-Tang" creationdate="20140607T151533Z">
+        <seg>現在のプロジェクトまたはローカルの任意の SVN リポジトリ（作業コピー）に対して、クリーンアップ（矛盾した状態を解決する）を実行します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130513T095748Z">
@@ -27047,6 +27112,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145829Z" creationid="Yu-Tang" creationdate="20140607T145829Z">
+        <seg>小文字に隣接する OmegaT タグを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T153844Z">
@@ -27075,6 +27148,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T023616Z">
         <seg>plugin フォルダーにトークナイザーがあれば、OmegaT を起動する前にすべて削除してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151125Z" creationid="Yu-Tang" creationdate="20140607T151125Z">
+        <seg>定義済みの削除すべき文字列を削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -27267,6 +27348,22 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061610Z" creationid="Yu-Tang" creationdate="20140323T061610Z">
         <seg>タグを削除した参考訳文に置換します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T150535Z" creationid="Yu-Tang" creationdate="20140607T150514Z">
+        <seg>独自タグをスペース文字に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T150541Z" creationid="Yu-Tang" creationdate="20140607T150320Z">
+        <seg>エスケープシーケンスをスペース文字に置換</seg>
       </tuv>
     </tu>
     <tu>
@@ -29862,6 +29959,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061734Z" creationid="Yu-Tang" creationdate="20140323T061734Z">
         <seg>スペルチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151425Z" creationid="Yu-Tang" creationdate="20140607T151425Z">
+        <seg>スペルチェック - エラー数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -37533,6 +37638,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T145529Z">
         <seg>既定値訳文として使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151340Z" creationid="Yu-Tang" creationdate="20140607T145858Z">
+        <seg>用語集を使用</seg>
       </tuv>
     </tu>
     <tu>
