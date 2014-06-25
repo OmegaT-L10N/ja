@@ -16345,6 +16345,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T181118Z" creationid="Yu-Tang" creationdate="20140625T180622Z">
+        <seg>https://demo.taas-project.eu/account/keys/create?system=omegaT にアクセスし、専用の API キーを作成してください。それを Java の起動オプション -Dtaas.user.key=xxxxx に指定して OmegaT を起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GoTo Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T032837Z">
