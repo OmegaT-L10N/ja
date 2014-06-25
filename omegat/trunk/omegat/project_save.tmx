@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.1_2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12556,10 +12556,26 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T071637Z" creationid="Yu-Tang" creationdate="20140625T071637Z">
+        <seg>Didier Briel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel (development manager)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T195154Z">
         <seg>Didier Briel（開発マネージャー）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T071627Z" creationid="Yu-Tang" creationdate="20140625T071627Z">
+        <seg>現在は、Didier Briel が OmegaT のプロジェクトマネージャーを務めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12592,6 +12608,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144542Z" creationid="Yu-Tang" creationdate="20140604T144542Z">
         <seg>先頭の大文字・小文字の不一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dis&amp;play all matching segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T072332Z" creationid="Yu-Tang" creationdate="20140625T072332Z">
+        <seg>繰り返し分節も表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -21884,6 +21908,14 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior (webmaster)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T071801Z" creationid="Yu-Tang" creationdate="20140625T071801Z">
+        <seg>Marc Prior（ウェブサイト管理者）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior is the coordinator of the OmegaT project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T102048Z">
@@ -23695,6 +23727,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T073515Z" creationid="Yu-Tang" creationdate="20140625T073515Z">
+        <seg>見つかった分節数：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nr of results: {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170154Z">
@@ -23715,6 +23755,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160346Z">
         <seg>分節数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T073105Z" creationid="Yu-Tang" creationdate="20140625T073105Z">
+        <seg>見つかった分節数：</seg>
       </tuv>
     </tu>
     <tu>
