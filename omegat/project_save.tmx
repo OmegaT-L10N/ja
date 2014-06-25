@@ -561,8 +561,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T081757Z" creationid="Yu-Tang" creationdate="20140625T081757Z">
-        <seg>TaaS 用語集を参照...</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174340Z" creationid="Yu-Tang" creationdate="20140625T081757Z">
+        <seg>TaaS 用語集をダウンロード...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1271,6 +1271,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175207Z" creationid="Yu-Tang" creationdate="20140625T175207Z">
+        <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Select TaaS Terminology Lookup Domain...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T082027Z" creationid="Yu-Tang" creationdate="20140625T082027Z">
@@ -1353,8 +1361,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T082345Z" creationid="Yu-Tang" creationdate="20140625T082345Z">
-        <seg>TaaS 用語自動参照</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174911Z" creationid="Yu-Tang" creationdate="20140625T082345Z">
+        <seg>TaaS 用語を参照</seg>
       </tuv>
     </tu>
     <tu>
@@ -8568,6 +8576,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175139Z" creationid="Yu-Tang" creationdate="20140625T175139Z">
+        <seg>すべての分野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All existing Java class libraries can be used unchanged and without special setup; at the same time, a Java programmer can opt to just use the Rexx class from the runtime package for improved string handling in Java syntax source programs.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T084754Z">
@@ -12434,6 +12450,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174947Z" creationid="Yu-Tang" creationdate="20140625T174947Z">
+        <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170204Z" creationid="Yu-Tang" creationdate="20140310T170204Z">
@@ -12696,8 +12720,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display Context Description for TaaS</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T082430Z" creationid="Yu-Tang" creationdate="20140625T082430Z">
-        <seg>TaaS 文脈説明文を表示</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174929Z" creationid="Yu-Tang" creationdate="20140625T082430Z">
+        <seg>TaaS 説明文を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -13135,6 +13159,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175028Z" creationid="Yu-Tang" creationdate="20140625T175028Z">
+        <seg>分野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124323Z" creationid="Yu-Tang" creationdate="20140203T124323Z">
@@ -13199,6 +13231,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175058Z" creationid="Yu-Tang" creationdate="20140625T175058Z">
+        <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154012Z">
@@ -13251,6 +13291,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130410T152133Z">
         <seg>チームプロジェクトをダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175404Z" creationid="Yu-Tang" creationdate="20140625T175404Z">
+        <seg>{0} 用語集をダウンロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -14108,6 +14156,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130508T161631Z">
         <seg>プラグインのアンロード中にクラス '{0}': {1} でエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175758Z" creationid="Yu-Tang" creationdate="20140625T175758Z">
+        <seg>用語集ファイルの更新に失敗しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -22867,6 +22923,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174939Z" creationid="Yu-Tang" creationdate="20140625T174939Z">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name of the TMX</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195707Z">
@@ -27561,6 +27625,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175412Z" creationid="Yu-Tang" creationdate="20140625T175412Z">
+        <seg>リクエストエラー：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Request to TaaS: {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T081724Z" creationid="Yu-Tang" creationdate="20140625T081724Z">
@@ -27653,6 +27725,22 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151657Z">
         <seg>結果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175226Z" creationid="Yu-Tang" creationdate="20140625T175226Z">
+        <seg>用語集の一覧を取得しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175319Z" creationid="Yu-Tang" creationdate="20140625T175319Z">
+        <seg>分野の一覧を取得しています...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28975,6 +29063,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175254Z" creationid="Yu-Tang" creationdate="20140625T175237Z">
+        <seg>TaaS 用語分野を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
       <tuv lang="JA" changeid="masa_36">
@@ -29836,6 +29932,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175012Z" creationid="Yu-Tang" creationdate="20140625T175012Z">
+        <seg>原文出現数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160743Z">
@@ -30645,6 +30749,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS API key not found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175916Z" creationid="Yu-Tang" creationdate="20140625T175916Z">
+        <seg>TaaS API キーが指定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS Collections</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T082715Z" creationid="Yu-Tang" creationdate="20140625T082715Z">
@@ -30985,6 +31097,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143918Z" creationid="Yu-Tang" creationdate="20140604T143901Z">
         <seg>訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175018Z" creationid="Yu-Tang" creationdate="20140625T175018Z">
+        <seg>訳文出現数</seg>
       </tuv>
     </tu>
     <tu>
@@ -37272,6 +37392,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175602Z" creationid="Yu-Tang" creationdate="20140625T175602Z">
+        <seg>TaaS サービスの認証に失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T090813Z">
@@ -37558,6 +37686,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T064124Z">
         <seg>Zip 圧縮ファイルを解凍して、展開されたすべてのファイルを「plugins」フォルダーに移動してください。「plugins」フォルダーは通常、OmegaT のインストール先フォルダー（OmegaT.jar ファイルを含む）の配下にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175055Z" creationid="Yu-Tang" creationdate="20140625T175055Z">
+        <seg>最終更新日</seg>
       </tuv>
     </tu>
     <tu>
@@ -39286,6 +39422,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160110Z">
         <seg>認証に失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175618Z" creationid="Yu-Tang" creationdate="20140625T175618Z">
+        <seg>TaaS サービスのレスポンス形式が不正です</seg>
       </tuv>
     </tu>
     <tu>
