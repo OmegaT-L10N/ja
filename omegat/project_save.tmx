@@ -7471,6 +7471,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T083840Z" creationid="Yu-Tang" creationdate="20140704T083743Z">
+        <seg>利用可能であれば &lt;trans-unit&gt; の resname 属性を使い、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T142000Z" creationid="Yu-Tang" creationdate="20140426T142000Z">
@@ -38889,6 +38897,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T184905Z">
         <seg>RTL ⇔ LTR 言語間で翻訳作業を行うときは、原文ファイルからタグを正しく読み込み、それをまた訳文ファイルに適切に入力するため、翻訳作業者が RTL ⇔ LTR モードの切り替えを頻繁に行う必要があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T083927Z" creationid="Yu-Tang" creationdate="20140704T083835Z">
+        <seg>利用できなければ ID で代替する</seg>
       </tuv>
     </tu>
     <tu>
