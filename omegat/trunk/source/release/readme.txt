@@ -314,20 +314,20 @@ but you don't see your name on the lists, feel free to contact us.)
 
 OmegaT uses the following libraries:
   HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)
-  VLDocking Framework 2.1.4 by VLSolutions (CeCILL License)
+  VLDocking Framework 3.0.4 (LGPL License)
   Hunspell by László Németh and others (LGPL License)
   JNA by Todd Fast, Timothy Wall and others (LGPL License)
   Swing-Layout 1.0.4 (LGPL License)
   Jmyspell 2.1.4 (LGPL License)
-  SVNKit 1.7.5 (TMate License)
+  SVNKit 1.8.5 (TMate License)
   Sequence Library (Sequence Library License)
   ANTLR 3.4 (ANTLR 3 license)
-  SQLJet 1.1.3 (GPL v2)
+  SQLJet 1.1.10 (GPL v2)
   JGit (Eclipse Distribution License)
   JSch (JSch License)
   Base64 (public domain)
   Diff (GPL)
-  orion-ssh2-214 (Orion SSH for Java license)
+  trilead-ssh2-1.0.0-build217 (Trilead SSH license)
   lucene-*.jar (Apache License 2.0)
   The English tokenizers (org.omegat.tokenizer.SnowballEnglishTokenizer and
   org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words from Okapi
@@ -342,6 +342,7 @@ OmegaT uses the following libraries:
   KoreanAnalyzer-3x-120223.jar (Apache License 2.0)
   SuperTMXMerge-for_OmegaT.jar (LGPL license)
   groovy-all-2.2.2.jar (Apache Licence 2.0)
+  slf4j (MIT License)
 
 ==============================================================================
  5.  Is OmegaT bugging you? Do you need help?
