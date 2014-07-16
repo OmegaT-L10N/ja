@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.3_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28015,6 +28015,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet 1.1.10 (GPL License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131230Z" creationid="Yu-Tang" creationdate="20140716T131230Z">
+        <seg>SQLJet 1.1.10（GPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQLJet 1.1.10 (GPL v2)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131119Z" creationid="Yu-Tang" creationdate="20140716T131119Z">
+        <seg>SQLJet 1.1.10（GPL v2 ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQLJet 1.1.3 (GPL License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T110514Z">
@@ -28107,6 +28123,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180352Z">
         <seg>SVNKit 1.7.5（TMate ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit 1.8.5 (TMate License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131107Z" creationid="Yu-Tang" creationdate="20140716T131107Z">
+        <seg>SVNKit 1.8.5（TMate ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29608,6 +29632,30 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarity with all tokens</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132321Z" creationid="Yu-Tang" creationdate="20140716T131942Z">
+        <seg>全トークンの類似度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarity with stemming</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132303Z" creationid="Yu-Tang" creationdate="20140716T131646Z">
+        <seg>ステミングありの類似度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarity without stemming</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132305Z" creationid="Yu-Tang" creationdate="20140716T131850Z">
+        <seg>ステミングなしの類似度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T125744Z" creationid="Yu-Tang" creationdate="20140320T122424Z">
@@ -29912,6 +29960,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063143Z">
         <seg>用語の原文のアルファベット順に並べ替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132347Z" creationid="Yu-Tang" creationdate="20140716T131351Z">
+        <seg>参考訳文の並べ替え基準：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46471,6 +46527,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131212Z" creationid="Yu-Tang" creationdate="20140716T131212Z">
+        <seg>slf4j（MIT ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>slf4j-*.jar (MIT License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T125318Z" creationid="Yu-Tang" creationdate="20140704T125318Z">
@@ -47235,6 +47299,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180739Z">
         <seg>翻訳（訳文）が空のもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2-1.0.0-build217 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131157Z" creationid="Yu-Tang" creationdate="20140716T131157Z">
+        <seg>trilead-ssh2-1.0.0-build217（Trilead SSH ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
