@@ -16067,6 +16067,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122248Z" creationid="Yu-Tang" creationdate="20140717T121547Z">
+        <seg>タグと数値を含む全文の一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T131436Z">
@@ -23299,6 +23307,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122243Z" creationid="Yu-Tang" creationdate="20140717T121523Z">
+        <seg>タグと数値を除く一致率（ステミングなし）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121231T141255Z">
@@ -30426,6 +30442,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122240Z" creationid="Yu-Tang" creationdate="20140717T121516Z">
+        <seg>タグと数値を除く一致率（ステミングあり）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Steps to reproduce</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181640Z">
@@ -31369,6 +31393,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130111T061827Z">
         <seg>チーム同期中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122518Z" creationid="Yu-Tang" creationdate="20140717T122518Z">
+        <seg>チーム同期：現在分節の確定待ちです...</seg>
       </tuv>
     </tu>
     <tu>
