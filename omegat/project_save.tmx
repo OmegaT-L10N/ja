@@ -4631,6 +4631,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082832Z" creationid="Yu-Tang" creationdate="20140722T082707Z">
+        <seg>&lt;html&gt;構成例には ant 形式のワイルドカード文字（「*」、「?」、「**」）を使用できます：例「**/.svn/**」&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;http://fsf.org/&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130408T231104Z">
@@ -14539,6 +14547,22 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082303Z" creationid="Yu-Tang" creationdate="20140722T081346Z">
+        <seg>除外構成例集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclusions...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T081048Z" creationid="Yu-Tang" creationdate="20140722T081048Z">
+        <seg>除外...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T015219Z">
@@ -22243,6 +22267,14 @@ impose that choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044056Z">
         <seg>Martin Wunderlich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082226Z" creationid="Yu-Tang" creationdate="20140722T082226Z">
+        <seg>除外構成例</seg>
       </tuv>
     </tu>
     <tu>
