@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12838,6 +12838,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display text in protected parts tooltip in bold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T203844Z" creationid="Yu-Tang" creationdate="20140814T203844Z">
+        <seg>保護されたパーツのツールチップに、テキストを太字で表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140709T160953Z" creationid="Yu-Tang" creationdate="20140709T160953Z">
@@ -22657,6 +22665,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T203941Z" creationid="Yu-Tang" creationdate="20140814T203941Z">
+        <seg>更新情報テンプレート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T091101Z">
@@ -27469,6 +27485,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145610Z" creationid="Yu-Tang" creationdate="20140607T145610Z">
         <seg>ニーモニック (アクセス キー) を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove paired tags from protected parts tooltip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T203910Z" creationid="Yu-Tang" creationdate="20140814T203218Z">
+        <seg>保護されたパーツのツールチップから、対になっているタグを削除</seg>
       </tuv>
     </tu>
     <tu>
