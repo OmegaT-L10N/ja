@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -193,7 +193,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T191130Z" creationid="Yu-Tang" creationdate="20140209T191130Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T191130Z">
         <seg>ファイル数</seg>
       </tuv>
     </tu>
@@ -561,7 +561,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174340Z" creationid="Yu-Tang" creationdate="20140625T081757Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174340Z">
         <seg>TaaS 用語集をダウンロード...</seg>
       </tuv>
     </tu>
@@ -577,7 +577,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Character Table...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183537Z" creationid="Yu-Tang" creationdate="20140215T183537Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183537Z">
         <seg>文字一覧...</seg>
       </tuv>
     </tu>
@@ -649,7 +649,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Display Context Description for TBX Glossaries</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140626T141230Z" creationid="Yu-Tang" creationdate="20140626T141230Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140626T141230Z">
         <seg>TBX 用語集の説明文を表示</seg>
       </tuv>
     </tu>
@@ -673,7 +673,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Download</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140626T141236Z" creationid="Yu-Tang" creationdate="20140626T141236Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140626T141236Z">
         <seg>ダウンロード</seg>
       </tuv>
     </tu>
@@ -761,7 +761,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T140710Z" creationid="Yu-Tang" creationdate="20140426T140710Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T140710Z">
         <seg>フィルターを解除</seg>
       </tuv>
     </tu>
@@ -793,7 +793,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022414Z" creationid="Yu-Tang" creationdate="20140119T022414Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022414Z">
         <seg>&lt;it pos="end"&gt; タグのショートカットに「f」を割り当てる</seg>
       </tuv>
     </tu>
@@ -801,7 +801,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags (applies to 3.x filter only)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131210T181532Z" creationid="Yu-Tang" creationdate="20131210T181532Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131210T181532Z">
         <seg>&lt;it pos="end"&gt; タグのショートカットに「f」を割り当てる（3.x のフィルターのみで有効）</seg>
       </tuv>
     </tu>
@@ -817,7 +817,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164907Z" creationid="Yu-Tang" creationdate="20140414T164907Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164907Z">
         <seg>用語集</seg>
       </tuv>
     </tu>
@@ -865,7 +865,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T145907Z" creationid="Yu-Tang" creationdate="20140119T145907Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T145907Z">
         <seg>&lt;ph&gt; タグのショートカットを決める際に、type および ctype 属性を無視する</seg>
       </tuv>
     </tu>
@@ -881,7 +881,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T165236Z" creationid="Yu-Tang" creationdate="20140414T165236Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T165236Z">
         <seg>訳文を検索</seg>
       </tuv>
     </tu>
@@ -1193,7 +1193,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Remove Filter</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164718Z" creationid="Yu-Tang" creationdate="20140414T164718Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164718Z">
         <seg>フィルターを解除</seg>
       </tuv>
     </tu>
@@ -1201,7 +1201,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T183614Z" creationid="Yu-Tang" creationdate="20140210T183614Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T183614Z">
         <seg>未翻訳分節を訳文ファイルに出力しない</seg>
       </tuv>
     </tu>
@@ -1209,7 +1209,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T140625Z" creationid="Yu-Tang" creationdate="20140414T164606Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T140625Z">
         <seg>置換フィルター</seg>
       </tuv>
     </tu>
@@ -1217,7 +1217,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164713Z" creationid="Yu-Tang" creationdate="20140414T164713Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164713Z">
         <seg>置換して次へ</seg>
       </tuv>
     </tu>
@@ -1289,7 +1289,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Select</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175207Z" creationid="Yu-Tang" creationdate="20140625T175207Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175207Z">
         <seg>選択</seg>
       </tuv>
     </tu>
@@ -1297,7 +1297,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Select TaaS Terminology Lookup Domain...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T082027Z" creationid="Yu-Tang" creationdate="20140625T082027Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T082027Z">
         <seg>TaaS 用語分野を選択...</seg>
       </tuv>
     </tu>
@@ -1321,7 +1321,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164708Z" creationid="Yu-Tang" creationdate="20140414T164708Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164708Z">
         <seg>次を検索</seg>
       </tuv>
     </tu>
@@ -1377,7 +1377,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174911Z" creationid="Yu-Tang" creationdate="20140625T082345Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174911Z">
         <seg>TaaS 用語を参照</seg>
       </tuv>
     </tu>
@@ -1417,7 +1417,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Translated</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102114Z" creationid="Yu-Tang" creationdate="20140119T022241Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102114Z">
         <seg>翻訳済み分節</seg>
       </tuv>
     </tu>
@@ -1537,7 +1537,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140712T014208Z" creationid="Yu-Tang" creationdate="20140712T014155Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140712T014208Z">
         <seg>（他{0}分節）</seg>
       </tuv>
     </tu>
@@ -1848,7 +1848,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T152007Z" creationid="Yu-Tang" creationdate="20140604T152007Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T152007Z">
         <seg>他 {0} 箇所</seg>
       </tuv>
     </tu>
@@ -1856,7 +1856,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T170620Z" creationid="Yu-Tang" creationdate="20140710T170620Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T170620Z">
         <seg>他{0}分節</seg>
       </tuv>
     </tu>
@@ -2256,7 +2256,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--% (-- left) / --% (-- left), --</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140527T044808Z" creationid="Yu-Tang" creationdate="20140527T044808Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140527T044808Z">
         <seg>--% (-- 残) / --% (-- 残), --</seg>
       </tuv>
     </tu>
@@ -2264,7 +2264,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140503T043232Z" creationid="Yu-Tang" creationdate="20140501T171625Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140503T043232Z">
         <seg>---- 翻訳者向けの注記 ----</seg>
       </tuv>
     </tu>
@@ -2480,7 +2480,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124145Z" creationid="Yu-Tang" creationdate="20140203T124145Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124145Z">
         <seg>競合数 1</seg>
       </tuv>
     </tu>
@@ -2488,7 +2488,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>1 segment</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124123Z" creationid="Yu-Tang" creationdate="20140203T124123Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124123Z">
         <seg>分節数 1</seg>
       </tuv>
     </tu>
@@ -3557,7 +3557,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140909T162136Z" creationid="Yu-Tang" creationdate="20140909T162136Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140909T162136Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;は © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
       </tuv>
     </tu>
@@ -3565,7 +3565,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140527T043600Z" creationid="Yu-Tang" creationdate="20140527T043600Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140527T043600Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;は © 2000-2013 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
       </tuv>
     </tu>
@@ -4641,7 +4641,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082832Z" creationid="Yu-Tang" creationdate="20140722T082707Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082832Z">
         <seg>&lt;html&gt;構成例には ant 形式のワイルドカード文字（「*」、「?」、「**」）を使用できます：例「**/.svn/**」&lt;/html&gt;</seg>
       </tuv>
     </tu>
@@ -5240,7 +5240,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T183840Z" creationid="0011s_000" creationdate="20140131T183840Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T183840Z">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; Windows において、OmegaT の複数のインスタンスが同じプロジェクトを開けるようになります。</seg>
       </tuv>
     </tu>
@@ -5256,7 +5256,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T183517Z" creationid="0011s_000" creationdate="20140131T183517Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T183517Z">
         <seg>&lt;l0&gt;--no-team&lt;/l0&gt; チーム作業用のプロジェクトに関連する引数です。</seg>
       </tuv>
     </tu>
@@ -7505,7 +7505,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T083840Z" creationid="Yu-Tang" creationdate="20140704T083743Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T083840Z">
         <seg>利用可能であれば &lt;trans-unit&gt; の resname 属性を使い、</seg>
       </tuv>
     </tu>
@@ -7513,7 +7513,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T142000Z" creationid="Yu-Tang" creationdate="20140426T142000Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T142000Z">
         <seg>&lt;trans-unit&gt; ID</seg>
       </tuv>
     </tu>
@@ -7793,7 +7793,7 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="EN">
         <seg>A file might have no matching entries, so it will show empty.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140331T093948Z" creationid="Yu-Tang" creationdate="20140330T035810Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140331T093948Z">
         <seg>検索条件に合致する分節を含むファイルが見つからない場合は、空白の画面が表示されます。</seg>
       </tuv>
     </tu>
@@ -7981,7 +7981,7 @@ the only significant mode of use of the product.</seg>
       <tuv lang="EN">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035804Z" creationid="Yu-Tang" creationdate="20140330T035804Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035804Z">
         <seg>検索結果には上限（既定で 1,000 件）があるため、一般的な語句を検索した場合、編集ウィンドウには検索条件に合致するすべての分節が表示されるのではなく、その中の 1,000 件だけが表示されることになります。</seg>
       </tuv>
     </tu>
@@ -8001,7 +8001,7 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143230Z" creationid="Yu-Tang" creationdate="20140604T143230Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143230Z">
         <seg>現在の OmegaT プロジェクトに対する基本的な QA チェック集</seg>
       </tuv>
     </tu>
@@ -8329,7 +8329,7 @@ covered by this License; they are outside its scope.</seg>
       <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131210T180020Z" creationid="Yu-Tang" creationdate="20131210T180020Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131210T180020Z">
         <seg>{1} から {0} 件の用語を追加しました</seg>
       </tuv>
     </tu>
@@ -8425,7 +8425,7 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Adiel Mittmann</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140909T162142Z" creationid="Yu-Tang" creationdate="20140909T162142Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140909T162142Z">
         <seg>Adiel Mittmann</seg>
       </tuv>
     </tu>
@@ -8642,7 +8642,7 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175139Z" creationid="Yu-Tang" creationdate="20140625T175139Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175139Z">
         <seg>すべての分野</seg>
       </tuv>
     </tu>
@@ -8768,7 +8768,7 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T170030Z" creationid="Yu-Tang" creationdate="20140501T170030Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T170030Z">
         <seg>原文が空の分節を許可</seg>
       </tuv>
     </tu>
@@ -8993,7 +8993,7 @@ organization, or merging organizations.</seg>
       <tuv lang="EN">
         <seg>An error occurred when trying to detect the repo type.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082953Z" creationid="Yu-Tang" creationdate="20140605T082953Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082953Z">
         <seg>リポジトリの種類を確認中にエラーが発生しました。</seg>
       </tuv>
     </tu>
@@ -9009,7 +9009,7 @@ organization, or merging organizations.</seg>
       <tuv lang="EN">
         <seg>An error occurred while trying to run console process: {0}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T191319Z" creationid="Yu-Tang" creationdate="20140209T191319Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T191319Z">
         <seg>コンソールモードで実行中にエラーが発生しました：{0}</seg>
       </tuv>
     </tu>
@@ -9658,7 +9658,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184429Z" creationid="Yu-Tang" creationdate="20140215T184429Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184429Z">
         <seg>入力補完→定型文...</seg>
       </tuv>
     </tu>
@@ -9666,7 +9666,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completion/Character Table...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184451Z" creationid="Yu-Tang" creationdate="20140215T184445Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184451Z">
         <seg>入力補完→文字一覧...</seg>
       </tuv>
     </tu>
@@ -9674,7 +9674,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completion/Glossary...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184414Z" creationid="Yu-Tang" creationdate="20140215T184414Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184414Z">
         <seg>入力補完→用語集...</seg>
       </tuv>
     </tu>
@@ -10256,7 +10256,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>By default, under Windows, &lt;l1&gt;omegat.project&lt;/l1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184157Z" creationid="0011s_000" creationdate="20140131T184157Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184157Z">
         <seg>Windows 上では、OmegaT がプロジェクトを開くと、既定で &lt;l1&gt;omegat.project&lt;/l1&gt; ファイルをロックします。そのため、OmegaT の別のインスタンスが使用中のプロジェクトを開こうとすると、エラーメッセージが表示されます。</seg>
       </tuv>
     </tu>
@@ -10313,7 +10313,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Cancel</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T103806Z" creationid="Yu-Tang" creationdate="20140201T092417Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T103806Z">
         <seg>閉じる</seg>
       </tuv>
     </tu>
@@ -10321,7 +10321,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Canceled</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151644Z" creationid="Yu-Tang" creationdate="20140607T151644Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151644Z">
         <seg>取り消されました</seg>
       </tuv>
     </tu>
@@ -10441,7 +10441,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Change date</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170828Z" creationid="Yu-Tang" creationdate="20140310T170828Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170828Z">
         <seg>更新日時</seg>
       </tuv>
     </tu>
@@ -10489,7 +10489,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Changed after:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164840Z" creationid="Yu-Tang" creationdate="20140414T164840Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164840Z">
         <seg>これ以降の変更：</seg>
       </tuv>
     </tu>
@@ -10497,7 +10497,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170832Z" creationid="Yu-Tang" creationdate="20140310T170832Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170832Z">
         <seg>更新者</seg>
       </tuv>
     </tu>
@@ -10593,7 +10593,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check Rules</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143351Z" creationid="Yu-Tang" creationdate="20140604T143351Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143351Z">
         <seg>規則集によるチェック</seg>
       </tuv>
     </tu>
@@ -10601,7 +10601,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for doubled blanks</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151335Z" creationid="Yu-Tang" creationdate="20140604T151335Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151335Z">
         <seg>連続する空白文字を検査</seg>
       </tuv>
     </tu>
@@ -10609,7 +10609,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for doubled words</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151347Z" creationid="Yu-Tang" creationdate="20140604T151347Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151347Z">
         <seg>単語の繰り返しを検査</seg>
       </tuv>
     </tu>
@@ -10617,7 +10617,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for equal source &amp; target</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151533Z" creationid="Yu-Tang" creationdate="20140604T151354Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151533Z">
         <seg>原文と同じ訳文を検査</seg>
       </tuv>
     </tu>
@@ -10625,7 +10625,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for inconsistent numbers</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151818Z" creationid="Yu-Tang" creationdate="20140604T151707Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151818Z">
         <seg>数値の不一致を検査</seg>
       </tuv>
     </tu>
@@ -10633,7 +10633,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for leading whitespace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151310Z" creationid="Yu-Tang" creationdate="20140604T151310Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151310Z">
         <seg>先頭の空白文字を検査</seg>
       </tuv>
     </tu>
@@ -10641,7 +10641,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for longer target</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151421Z" creationid="Yu-Tang" creationdate="20140604T151352Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151421Z">
         <seg>長すぎる訳文を検査</seg>
       </tuv>
     </tu>
@@ -10657,7 +10657,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for segments with spelling errors</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144121Z" creationid="Yu-Tang" creationdate="20140607T144121Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144121Z">
         <seg>綴り間違いを含む分節を検査</seg>
       </tuv>
     </tu>
@@ -10665,7 +10665,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for shorter target</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151407Z" creationid="Yu-Tang" creationdate="20140604T151350Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151407Z">
         <seg>短すぎる訳文を検査</seg>
       </tuv>
     </tu>
@@ -10673,7 +10673,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for trailing whitespace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151316Z" creationid="Yu-Tang" creationdate="20140604T151316Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151316Z">
         <seg>末尾の空白文字を検査</seg>
       </tuv>
     </tu>
@@ -10681,7 +10681,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for untranslated segments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151657Z" creationid="Yu-Tang" creationdate="20140604T151404Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151657Z">
         <seg>未翻訳分節を検査</seg>
       </tuv>
     </tu>
@@ -10721,7 +10721,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check number of tags</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151704Z" creationid="Yu-Tang" creationdate="20140604T151704Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151704Z">
         <seg>タグの個数の不一致を検査</seg>
       </tuv>
     </tu>
@@ -10729,7 +10729,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check punctuation at segment end</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151455Z" creationid="Yu-Tang" creationdate="20140604T151353Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151455Z">
         <seg>句読点の不一致を検査</seg>
       </tuv>
     </tu>
@@ -10737,7 +10737,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check sequence of tags</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151812Z" creationid="Yu-Tang" creationdate="20140604T151706Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151812Z">
         <seg>タグ出現順の不一致を検査</seg>
       </tuv>
     </tu>
@@ -10761,7 +10761,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check spaces around tags</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151804Z" creationid="Yu-Tang" creationdate="20140604T151705Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151804Z">
         <seg>タグに隣接する空白文字の不一致を検査</seg>
       </tuv>
     </tu>
@@ -10769,7 +10769,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check start case</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151508Z" creationid="Yu-Tang" creationdate="20140604T151354Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151508Z">
         <seg>先頭の大文字・小文字の不一致を検査</seg>
       </tuv>
     </tu>
@@ -10825,7 +10825,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check whole project</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T161908Z" creationid="Yu-Tang" creationdate="20140604T150755Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T161908Z">
         <seg>プロジェクト全体を検査</seg>
       </tuv>
     </tu>
@@ -10857,7 +10857,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151601Z" creationid="Yu-Tang" creationdate="20140607T151601Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151601Z">
         <seg>クリーンアップを実行したいリポジトリを選んでください</seg>
       </tuv>
     </tu>
@@ -10881,7 +10881,7 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Cleanup done!!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T152531Z" creationid="Yu-Tang" creationdate="20140607T151700Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T152531Z">
         <seg>クリーンアップを実行しました</seg>
       </tuv>
     </tu>
@@ -11074,7 +11074,7 @@ software--to make sure the software is free for all its users.</seg>
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T195145Z" creationid="Yu-Tang" creationdate="20140210T183810Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T195145Z">
         <seg>コードに関する貢献者： 
 Zoltan Bartko, Volker Berlin, Didier Briel（開発マネージャー）, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
@@ -11084,7 +11084,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel（開発マネージャー）, Kim Br
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T170259Z" creationid="Yu-Tang" creationdate="20140501T170259Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T170259Z">
         <seg>コードに関する貢献者：
 Zoltan Bartko, Volker Berlin, Didier Briel（開発マネージャー）, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
@@ -11133,7 +11133,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex 
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131210T180613Z" creationid="Yu-Tang" creationdate="20131210T180613Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131210T180613Z">
         <seg>コードに関する貢献者： 
 Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex Buloichik（開発リーダー）, Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
@@ -11143,7 +11143,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel（開発担当）, Kim Bruning, Alex 
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140909T161916Z" creationid="Yu-Tang" creationdate="20140909T161916Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140909T161916Z">
         <seg>コードに関する貢献者：
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
@@ -11153,7 +11153,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T073628Z" creationid="Yu-Tang" creationdate="20140625T073628Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T073628Z">
         <seg>コードに関する貢献者：
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
@@ -11234,7 +11234,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       <tuv lang="EN">
         <seg>Commit source file changes to SVN remote repository</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062417Z" creationid="Yu-Tang" creationdate="20140323T062417Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062417Z">
         <seg>原文ファイルの変更（追加/削除/更新）をリモートリポジトリに対してコミットします</seg>
       </tuv>
     </tu>
@@ -11290,7 +11290,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124529Z" creationid="Yu-Tang" creationdate="20140203T124529Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124529Z">
         <seg>競合の解決</seg>
       </tuv>
     </tu>
@@ -11298,7 +11298,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       <tuv lang="EN">
         <seg>Conflict {0} of {1}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T130242Z" creationid="Yu-Tang" creationdate="20140203T130242Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T130242Z">
         <seg>{1} 個中 {0} 個目の競合</seg>
       </tuv>
     </tu>
@@ -11606,7 +11606,7 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Copyright © 2000-2014 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022512Z" creationid="Yu-Tang" creationdate="20140119T022512Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022512Z">
         <seg>Copyright © 2000-2014 Keith Godfrey, Maxym Mykhalchuk など</seg>
       </tuv>
     </tu>
@@ -11758,7 +11758,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create Current Translated Documents</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183719Z" creationid="Yu-Tang" creationdate="20140215T183719Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183719Z">
         <seg>現在の訳文ファイルのみ生成</seg>
       </tuv>
     </tu>
@@ -11934,7 +11934,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Creation date</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170932Z" creationid="Yu-Tang" creationdate="20140310T170932Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170932Z">
         <seg>作成日時</seg>
       </tuv>
     </tu>
@@ -11942,7 +11942,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Creator</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T035850Z" creationid="Yu-Tang" creationdate="20140310T170935Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T035850Z">
         <seg>作成者</seg>
       </tuv>
     </tu>
@@ -12118,7 +12118,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl+K</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183752Z" creationid="Yu-Tang" creationdate="20140215T183752Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183752Z">
         <seg>Ctrl+K</seg>
       </tuv>
     </tu>
@@ -12238,7 +12238,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl+T</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183729Z" creationid="Yu-Tang" creationdate="20140215T183729Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183729Z">
         <seg>Ctrl+T</seg>
       </tuv>
     </tu>
@@ -12270,7 +12270,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl+↑</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183926Z" creationid="Yu-Tang" creationdate="20140215T183926Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183926Z">
         <seg>Ctrl+↑</seg>
       </tuv>
     </tu>
@@ -12278,7 +12278,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl+↓</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183932Z" creationid="Yu-Tang" creationdate="20140215T183932Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183932Z">
         <seg>Ctrl+↓</seg>
       </tuv>
     </tu>
@@ -12286,7 +12286,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Currency Translator</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050122Z" creationid="Yu-Tang" creationdate="20140323T050122Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050122Z">
         <seg>通貨表記の変換</seg>
       </tuv>
     </tu>
@@ -12366,7 +12366,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Cycle Case To...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184147Z" creationid="Yu-Tang" creationdate="20140215T184147Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184147Z">
         <seg>上記を順に切り替え...</seg>
       </tuv>
     </tu>
@@ -12478,7 +12478,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Deleted</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213335Z" creationid="Yu-Tang" creationdate="20140207T213335Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213335Z">
         <seg>削除されました</seg>
       </tuv>
     </tu>
@@ -12526,7 +12526,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174947Z" creationid="Yu-Tang" creationdate="20140625T174947Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174947Z">
         <seg>説明</seg>
       </tuv>
     </tu>
@@ -12534,7 +12534,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170204Z" creationid="Yu-Tang" creationdate="20140310T170204Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170204Z">
         <seg>詳細表示</seg>
       </tuv>
     </tu>
@@ -12542,7 +12542,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124213Z" creationid="Yu-Tang" creationdate="20140203T124213Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124213Z">
         <seg>詳細情報はありません</seg>
       </tuv>
     </tu>
@@ -12550,7 +12550,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Detecting...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T083133Z" creationid="Yu-Tang" creationdate="20140605T083133Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T083133Z">
         <seg>リポジトリの種類を確認中...</seg>
       </tuv>
     </tu>
@@ -12690,7 +12690,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Didier Briel</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T071637Z" creationid="Yu-Tang" creationdate="20140625T071637Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T071637Z">
         <seg>Didier Briel</seg>
       </tuv>
     </tu>
@@ -12706,7 +12706,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Didier Briel is the OmegaT project manager.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T075500Z" creationid="Yu-Tang" creationdate="20140625T071627Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T075500Z">
         <seg>現在は、Didier Briel が OmegaT のプロジェクトマネージャーを務めています。</seg>
       </tuv>
     </tu>
@@ -12730,7 +12730,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Different punctuation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144432Z" creationid="Yu-Tang" creationdate="20140604T144432Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144432Z">
         <seg>句読点の不一致</seg>
       </tuv>
     </tu>
@@ -12738,7 +12738,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Different start case</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144542Z" creationid="Yu-Tang" creationdate="20140604T144542Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144542Z">
         <seg>先頭の大文字・小文字の不一致</seg>
       </tuv>
     </tu>
@@ -12746,7 +12746,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Dis&amp;play all matching segments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T072332Z" creationid="Yu-Tang" creationdate="20140625T072332Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T072332Z">
         <seg>繰り返し分節も表示</seg>
       </tuv>
     </tu>
@@ -12794,7 +12794,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display Context Description for TBX Glossaries</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140626T080703Z" creationid="Yu-Tang" creationdate="20140626T080703Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140626T080703Z">
         <seg>TBX 用語集の説明文を表示</seg>
       </tuv>
     </tu>
@@ -12802,7 +12802,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display Context Description for TaaS</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174929Z" creationid="Yu-Tang" creationdate="20140625T082430Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174929Z">
         <seg>TaaS 説明文を表示</seg>
       </tuv>
     </tu>
@@ -12826,7 +12826,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display a list of segments where source and target identical content</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061730Z" creationid="Yu-Tang" creationdate="20140323T061730Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061730Z">
         <seg>原文と訳文が同一の分節一覧を表示します</seg>
       </tuv>
     </tu>
@@ -12866,7 +12866,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display text in protected parts tooltip in bold</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T203844Z" creationid="Yu-Tang" creationdate="20140814T203844Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T203844Z">
         <seg>保護されたパーツのツールチップに、テキストを太字で表示</seg>
       </tuv>
     </tu>
@@ -12874,7 +12874,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140709T160953Z" creationid="Yu-Tang" creationdate="20140709T160953Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140709T160953Z">
         <seg>表示：</seg>
       </tuv>
     </tu>
@@ -13155,7 +13155,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Do you want to continue?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102537Z" creationid="Yu-Tang" creationdate="20140201T102537Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102537Z">
         <seg>よろしいですか？</seg>
       </tuv>
     </tu>
@@ -13259,7 +13259,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Domains</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175028Z" creationid="Yu-Tang" creationdate="20140625T175028Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175028Z">
         <seg>分野</seg>
       </tuv>
     </tu>
@@ -13267,7 +13267,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124323Z" creationid="Yu-Tang" creationdate="20140203T124323Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124323Z">
         <seg>完了</seg>
       </tuv>
     </tu>
@@ -13315,7 +13315,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Doubled blanks</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144156Z" creationid="Yu-Tang" creationdate="20140604T144156Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144156Z">
         <seg>連続する空白文字</seg>
       </tuv>
     </tu>
@@ -13323,7 +13323,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Doubled words</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144347Z" creationid="Yu-Tang" creationdate="20140604T144347Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144347Z">
         <seg>単語の繰り返し</seg>
       </tuv>
     </tu>
@@ -13331,7 +13331,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175058Z" creationid="Yu-Tang" creationdate="20140625T175058Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175058Z">
         <seg>ダウンロード</seg>
       </tuv>
     </tu>
@@ -13395,7 +13395,7 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download collection {0}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175404Z" creationid="Yu-Tang" creationdate="20140625T175404Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175404Z">
         <seg>{0} 用語集をダウンロード</seg>
       </tuv>
     </tu>
@@ -13564,7 +13564,7 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140726T174801Z" creationid="Yu-Tang" creationdate="20140726T174801Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140726T174801Z">
         <seg>除外...</seg>
       </tuv>
     </tu>
@@ -13996,7 +13996,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Enrique Estévez Fernández</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140308T021209Z" creationid="Yu-Tang" creationdate="20140308T021209Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140308T021209Z">
         <seg>Enrique Estévez Fernández</seg>
       </tuv>
     </tu>
@@ -14108,7 +14108,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Equal source &amp; target</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151540Z" creationid="Yu-Tang" creationdate="20140604T144646Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151540Z">
         <seg>原文と同じ訳文</seg>
       </tuv>
     </tu>
@@ -14268,7 +14268,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Error updating glossary file</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175758Z" creationid="Yu-Tang" creationdate="20140625T175758Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175758Z">
         <seg>用語集ファイルの更新に失敗しました</seg>
       </tuv>
     </tu>
@@ -14300,7 +14300,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Errors found:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143853Z" creationid="Yu-Tang" creationdate="20140604T143853Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143853Z">
         <seg>エラー数：</seg>
       </tuv>
     </tu>
@@ -14447,7 +14447,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Example - GUI Scripting</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050800Z" creationid="Yu-Tang" creationdate="20140323T050800Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050800Z">
         <seg>サンプル - GUI の表示</seg>
       </tuv>
     </tu>
@@ -14455,7 +14455,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Example - Key Binding</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T051611Z" creationid="Yu-Tang" creationdate="20140323T051611Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T051611Z">
         <seg>サンプル - キーバインディングの変更</seg>
       </tuv>
     </tu>
@@ -14463,7 +14463,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Example - Modify Segment</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T051710Z" creationid="Yu-Tang" creationdate="20140323T051710Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T051710Z">
         <seg>サンプル - 分節の変更</seg>
       </tuv>
     </tu>
@@ -14471,7 +14471,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Example - Search and Replace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T125359Z" creationid="Yu-Tang" creationdate="20140320T122410Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T125359Z">
         <seg>サンプル - 訳文の置換</seg>
       </tuv>
     </tu>
@@ -14479,7 +14479,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Example - add toolbar</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T063000Z" creationid="Yu-Tang" creationdate="20140323T063000Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T063000Z">
         <seg>サンプル - ツールバーの追加</seg>
       </tuv>
     </tu>
@@ -14487,7 +14487,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Example of GUI scripting</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050837Z" creationid="Yu-Tang" creationdate="20140323T050837Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050837Z">
         <seg>GUI を表示するサンプルです</seg>
       </tuv>
     </tu>
@@ -14495,7 +14495,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Example of adding toolbar</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T063007Z" creationid="Yu-Tang" creationdate="20140323T063007Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T063007Z">
         <seg>ツールバーを追加するサンプルです</seg>
       </tuv>
     </tu>
@@ -14503,7 +14503,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Example of keybinding event</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T051624Z" creationid="Yu-Tang" creationdate="20140323T051624Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T051624Z">
         <seg>キーバインディング イベントのサンプルです</seg>
       </tuv>
     </tu>
@@ -14511,7 +14511,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Example of segment modification</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052011Z" creationid="Yu-Tang" creationdate="20140323T052011Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052011Z">
         <seg>現在の訳文を変更するサンプルです</seg>
       </tuv>
     </tu>
@@ -14591,7 +14591,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Exclusion patterns</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082303Z" creationid="Yu-Tang" creationdate="20140722T081346Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082303Z">
         <seg>除外構成例集</seg>
       </tuv>
     </tu>
@@ -14599,7 +14599,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Exclusions...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T081048Z" creationid="Yu-Tang" creationdate="20140722T081048Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T081048Z">
         <seg>除外...</seg>
       </tuv>
     </tu>
@@ -14879,7 +14879,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Fi&amp;les</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022256Z" creationid="Yu-Tang" creationdate="20140119T022256Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022256Z">
         <seg>ファイル</seg>
       </tuv>
     </tu>
@@ -14895,7 +14895,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>File</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171609Z" creationid="Yu-Tang" creationdate="20140310T171609Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171609Z">
         <seg>ファイル</seg>
       </tuv>
     </tu>
@@ -15039,7 +15039,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>File {0}: {1}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T201430Z" creationid="Yu-Tang" creationdate="20131119T103412Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T201430Z">
         <seg>ファイル {0}：{1}</seg>
       </tuv>
     </tu>
@@ -15063,7 +15063,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140527T045154Z" creationid="Yu-Tang" creationdate="20140527T045154Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140527T045154Z">
         <seg>ファイル：繰り返しを除いた翻訳済み分節 % (繰り返しを除いた未翻訳分節数) / プロジェクト：繰り返しを除いた翻訳済み分節 % (繰り返しを除いた未翻訳分節数), 総分節数</seg>
       </tuv>
     </tu>
@@ -15151,7 +15151,7 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Filter entries in editor according to search</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035724Z" creationid="Yu-Tang" creationdate="20140330T035724Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035724Z">
         <seg>編集ウィンドウの分節に検索フィルターをかける</seg>
       </tuv>
     </tu>
@@ -15508,7 +15508,7 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035732Z" creationid="Yu-Tang" creationdate="20140330T035732Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035732Z">
         <seg>検索結果の分節間を移動しやすいように、編集ウィンドウに対して検索フィルターをかけることができます。</seg>
       </tuv>
     </tu>
@@ -16135,7 +16135,7 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Full text, including tags and numbers</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122248Z" creationid="Yu-Tang" creationdate="20140717T121547Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122248Z">
         <seg>タグと数値を含む全文の一致率</seg>
       </tuv>
     </tu>
@@ -16300,7 +16300,7 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       <tuv lang="EN">
         <seg>Global Spell Checking</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062010Z" creationid="Yu-Tang" creationdate="20140323T062010Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062010Z">
         <seg>プロジェクト全体（訳文）のスペルチェックを実施します</seg>
       </tuv>
     </tu>
@@ -16308,7 +16308,7 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       <tuv lang="EN">
         <seg>Global spell checking</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144927Z" creationid="Yu-Tang" creationdate="20140607T144919Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144927Z">
         <seg>綴りの間違いを検査します</seg>
       </tuv>
     </tu>
@@ -16477,7 +16477,7 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       <tuv lang="EN">
         <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T181118Z" creationid="Yu-Tang" creationdate="20140625T180622Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T181118Z">
         <seg>https://demo.taas-project.eu/account/keys/create?system=omegaT にアクセスし、専用の API キーを作成してください。それを Java の起動オプション -Dtaas.user.key=xxxxx に指定して OmegaT を起動してください。</seg>
       </tuv>
     </tu>
@@ -17126,7 +17126,7 @@ parties remain in full compliance.</seg>
       <tuv lang="EN">
         <seg>IGNORED:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145128Z" creationid="Yu-Tang" creationdate="20140607T145128Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145128Z">
         <seg>無視：</seg>
       </tuv>
     </tu>
@@ -17262,7 +17262,7 @@ SUCH DAMAGES.</seg>
       <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T144036Z" creationid="Yu-Tang" creationdate="20140426T141901Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T144036Z">
         <seg>複数訳文における「新しい訳文」の識別子</seg>
       </tuv>
     </tu>
@@ -17395,7 +17395,7 @@ not survive such relicensing or conveying.</seg>
       <tuv lang="EN">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035817Z" creationid="Yu-Tang" creationdate="20140330T035817Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035817Z">
         <seg>［繰り返し結果も表示］の設定がオフになっている場合、繰り返しに該当する分節は編集ウィンドウ上でも表示されません。</seg>
       </tuv>
     </tu>
@@ -18866,7 +18866,7 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you wish to add values to &lt;e0&gt;VMOptions&lt;/e0&gt;, put a space between them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T183429Z" creationid="0011s_000" creationdate="20140131T183429Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T183429Z">
         <seg>&lt;e0&gt;VMOptions&lt;/e0&gt; に値を追加したい場合は、値と値のあいだに空白を入れてください。</seg>
       </tuv>
     </tu>
@@ -19063,7 +19063,7 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Ignore</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145206Z" creationid="Yu-Tang" creationdate="20140607T145206Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145206Z">
         <seg>無視</seg>
       </tuv>
     </tu>
@@ -19079,7 +19079,7 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Ignore file context when identifying segments with alternate translations</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T090237Z" creationid="Yu-Tang" creationdate="20140704T090237Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T090237Z">
         <seg>複数訳文の識別時にファイルのフルパス情報を無視する</seg>
       </tuv>
     </tu>
@@ -19087,7 +19087,7 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145917Z" creationid="Yu-Tang" creationdate="20140607T145917Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145917Z">
         <seg>辞書の大文字・小文字を無視</seg>
       </tuv>
     </tu>
@@ -19095,7 +19095,7 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140311T235552Z" creationid="Yu-Tang" creationdate="20140311T235552Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140311T235552Z">
         <seg>&lt;pt&gt; タグおよび &lt;ept&gt; タグのショートカットを決める際に、type および ctype 属性を無視する</seg>
       </tuv>
     </tu>
@@ -19199,7 +19199,7 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In Source</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T050451Z" creationid="Yu-Tang" creationdate="20140310T050451Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T050451Z">
         <seg>原文を検索</seg>
       </tuv>
     </tu>
@@ -19207,7 +19207,7 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In Translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T050455Z" creationid="Yu-Tang" creationdate="20140310T050455Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T050455Z">
         <seg>訳文を検索</seg>
       </tuv>
     </tu>
@@ -19374,7 +19374,7 @@ the scope of this License.</seg>
       <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T101707Z" creationid="Yu-Tang" creationdate="20140201T101707Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T101707Z">
         <seg>コメントを検索</seg>
       </tuv>
     </tu>
@@ -19424,7 +19424,7 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In notes</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164740Z" creationid="Yu-Tang" creationdate="20140414T164740Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164740Z">
         <seg>メモを検索</seg>
       </tuv>
     </tu>
@@ -19813,7 +19813,7 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Inconsistent numbers</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151649Z" creationid="Yu-Tang" creationdate="20140604T151649Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151649Z">
         <seg>数値の不一致</seg>
       </tuv>
     </tu>
@@ -20265,7 +20265,7 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171359Z" creationid="Yu-Tang" creationdate="20140310T171359Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171359Z">
         <seg>既定値訳文</seg>
       </tuv>
     </tu>
@@ -20764,7 +20764,7 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T172242Z" creationid="Yu-Tang" creationdate="20140224T172242Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T172242Z">
         <seg>Java リソースバンドル フィルター設定</seg>
       </tuv>
     </tu>
@@ -20876,7 +20876,7 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140827T142821Z" creationid="Yu-Tang" creationdate="20140827T142656Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140827T142821Z">
         <seg>前回編集していた分節に移動しています...</seg>
       </tuv>
     </tu>
@@ -21108,7 +21108,7 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>KoreanAnalyzer-3x-120223.jar (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022207Z" creationid="Yu-Tang" creationdate="20140119T022207Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022207Z">
         <seg>KoreanAnalyzer-3x-120223.jar（Apache ライセンス 2.0）</seg>
       </tuv>
     </tu>
@@ -21148,7 +21148,7 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LEARNED:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151352Z" creationid="Yu-Tang" creationdate="20140607T151352Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151352Z">
         <seg>辞書に追加：</seg>
       </tuv>
     </tu>
@@ -21292,7 +21292,7 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Last Changes...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184512Z" creationid="Yu-Tang" creationdate="20140215T184512Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184512Z">
         <seg>最近の更新履歴...</seg>
       </tuv>
     </tu>
@@ -21401,7 +21401,7 @@ Launch OmegaT as follows.</seg>
       <tuv lang="EN">
         <seg>Learn</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151355Z" creationid="Yu-Tang" creationdate="20140607T151355Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151355Z">
         <seg>辞書に追加</seg>
       </tuv>
     </tu>
@@ -21497,7 +21497,7 @@ Launch OmegaT as follows.</seg>
       <tuv lang="EN">
         <seg>Line length:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T035538Z" creationid="Yu-Tang" creationdate="20140319T085411Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T035538Z">
         <seg>文字数：</seg>
       </tuv>
     </tu>
@@ -21578,7 +21578,7 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170127Z" creationid="Yu-Tang" creationdate="20140310T170127Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170127Z">
         <seg>一覧表示</seg>
       </tuv>
     </tu>
@@ -21674,7 +21674,7 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Log...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184533Z" creationid="Yu-Tang" creationdate="20140215T184533Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184533Z">
         <seg>ログ...</seg>
       </tuv>
     </tu>
@@ -22104,7 +22104,7 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
       <tuv lang="EN">
         <seg>Manfred Martin</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T165746Z" creationid="Yu-Tang" creationdate="20140501T165746Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T165746Z">
         <seg>Manfred Martin</seg>
       </tuv>
     </tu>
@@ -22162,7 +22162,7 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Marc Prior (webmaster)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T071801Z" creationid="Yu-Tang" creationdate="20140625T071801Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T071801Z">
         <seg>Marc Prior（ウェブサイト管理者）</seg>
       </tuv>
     </tu>
@@ -22219,7 +22219,7 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T033750Z" creationid="Yu-Tang" creationdate="20140224T033750Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T033750Z">
         <seg>auto フォルダー由来の分節を色付け</seg>
       </tuv>
     </tu>
@@ -22323,7 +22323,7 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Mask</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082226Z" creationid="Yu-Tang" creationdate="20140722T082226Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082226Z">
         <seg>除外構成例</seg>
       </tuv>
     </tu>
@@ -22427,7 +22427,7 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T035540Z" creationid="Yu-Tang" creationdate="20140319T085517Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T035540Z">
         <seg>最大文字数：</seg>
       </tuv>
     </tu>
@@ -22451,7 +22451,7 @@ impose that choice.</seg>
       <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164900Z" creationid="Yu-Tang" creationdate="20140414T164900Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164900Z">
         <seg>内部メモリ</seg>
       </tuv>
     </tu>
@@ -22517,7 +22517,7 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T114723Z" creationid="Yu-Tang" creationdate="20140203T114723Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T114723Z">
         <seg>マージ</seg>
       </tuv>
     </tu>
@@ -22597,7 +22597,7 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184808Z" creationid="0011s_000" creationdate="20140131T184808Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184808Z">
         <seg>自分の変更</seg>
       </tuv>
     </tu>
@@ -22701,7 +22701,7 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Modification info template</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T203941Z" creationid="Yu-Tang" creationdate="20140814T203941Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T203941Z">
         <seg>更新情報テンプレート</seg>
       </tuv>
     </tu>
@@ -22709,7 +22709,7 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Modification info template for segments without date</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T204100Z" creationid="Yu-Tang" creationdate="20140814T204100Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T204100Z">
         <seg>更新情報テンプレート（日付情報がない場合）</seg>
       </tuv>
     </tu>
@@ -22725,7 +22725,7 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Modified Segments:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T035251Z" creationid="Yu-Tang" creationdate="20140320T122444Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T035251Z">
         <seg>変更された分節数：</seg>
       </tuv>
     </tu>
@@ -22863,7 +22863,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move Down</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T191010Z" creationid="Yu-Tang" creationdate="20140209T190929Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T191010Z">
         <seg>下へ移動</seg>
       </tuv>
     </tu>
@@ -22871,7 +22871,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move First</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T190958Z" creationid="Yu-Tang" creationdate="20140209T190920Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T190958Z">
         <seg>先頭へ移動</seg>
       </tuv>
     </tu>
@@ -22879,7 +22879,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move Last</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T190954Z" creationid="Yu-Tang" creationdate="20140209T190954Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T190954Z">
         <seg>末尾へ移動</seg>
       </tuv>
     </tu>
@@ -22895,7 +22895,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move Up</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T191000Z" creationid="Yu-Tang" creationdate="20140209T190926Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140209T191000Z">
         <seg>上へ移動</seg>
       </tuv>
     </tu>
@@ -22999,7 +22999,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T182659Z" creationid="Yu-Tang" creationdate="20140210T182659Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T182659Z">
         <seg>Mozilla DTD フィルター設定</seg>
       </tuv>
     </tu>
@@ -23015,7 +23015,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Mozilla Lang</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T170313Z" creationid="Yu-Tang" creationdate="20140501T170313Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T170313Z">
         <seg>Mozilla Lang</seg>
       </tuv>
     </tu>
@@ -23087,7 +23087,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>NB:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035756Z" creationid="Yu-Tang" creationdate="20140330T035756Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035756Z">
         <seg>注意事項：</seg>
       </tuv>
     </tu>
@@ -23103,7 +23103,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174939Z" creationid="Yu-Tang" creationdate="20140625T174939Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T174939Z">
         <seg>名称</seg>
       </tuv>
     </tu>
@@ -23191,7 +23191,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171711Z" creationid="Yu-Tang" creationdate="20140310T171711Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171711Z">
         <seg>次分節</seg>
       </tuv>
     </tu>
@@ -23239,7 +23239,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Next Translated Segment</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184205Z" creationid="Yu-Tang" creationdate="20140215T184205Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184205Z">
         <seg>次の翻訳済み分節</seg>
       </tuv>
     </tu>
@@ -23255,7 +23255,7 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Next →</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170535Z" creationid="Yu-Tang" creationdate="20140310T170535Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170535Z">
         <seg>次へ →</seg>
       </tuv>
     </tu>
@@ -23407,7 +23407,7 @@ measures.</seg>
       <tuv lang="EN">
         <seg>No tags and no numbers</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122243Z" creationid="Yu-Tang" creationdate="20140717T121523Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122243Z">
         <seg>タグと数値を除く一致率（ステミングなし）</seg>
       </tuv>
     </tu>
@@ -23503,7 +23503,7 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Not a local repository</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151725Z" creationid="Yu-Tang" creationdate="20140607T151725Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151725Z">
         <seg>ローカルのリポジトリではありません</seg>
       </tuv>
     </tu>
@@ -23519,7 +23519,7 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Not present</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213447Z" creationid="Yu-Tang" creationdate="20140207T213447Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213447Z">
         <seg>存在しません</seg>
       </tuv>
     </tu>
@@ -24021,7 +24021,7 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="EN">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T073515Z" creationid="Yu-Tang" creationdate="20140625T073515Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T073515Z">
         <seg>見つかった分節数：{0}</seg>
       </tuv>
     </tu>
@@ -24053,7 +24053,7 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="EN">
         <seg>Number of matching segments:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T073105Z" creationid="Yu-Tang" creationdate="20140625T073105Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T073105Z">
         <seg>見つかった分節数：</seg>
       </tuv>
     </tu>
@@ -24610,7 +24610,7 @@ selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131221T120041Z" creationid="Yu-Tang" creationdate="20131221T120041Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131221T120041Z">
         <seg>翻訳中は、その翻訳内容を記憶すると共に、翻訳メモリからよく似た分節を探し出して提示します。</seg>
       </tuv>
     </tu>
@@ -25191,7 +25191,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open Current File</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052252Z" creationid="Yu-Tang" creationdate="20140323T052252Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052252Z">
         <seg>開く - 現在の原文ファイル</seg>
       </tuv>
     </tu>
@@ -25207,7 +25207,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open Glossary</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052441Z" creationid="Yu-Tang" creationdate="20140323T052441Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052441Z">
         <seg>開く - 用語集ファイル</seg>
       </tuv>
     </tu>
@@ -25223,7 +25223,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open Project Folder</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052321Z" creationid="Yu-Tang" creationdate="20140323T052321Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052321Z">
         <seg>開く - プロジェクトフォルダー</seg>
       </tuv>
     </tu>
@@ -25231,7 +25231,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open Recent Project</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140813T165329Z" creationid="Yu-Tang" creationdate="20140813T165329Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140813T165329Z">
         <seg>最近使用したプロジェクト</seg>
       </tuv>
     </tu>
@@ -25239,7 +25239,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open TM Folder</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052638Z" creationid="Yu-Tang" creationdate="20140323T052638Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052638Z">
         <seg>開く - TM フォルダー</seg>
       </tuv>
     </tu>
@@ -25263,7 +25263,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open project_save.tmx</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052623Z" creationid="Yu-Tang" creationdate="20140323T052623Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052623Z">
         <seg>開く - project_save.tmx</seg>
       </tuv>
     </tu>
@@ -25271,7 +25271,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open project_save.tmx in an editor</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052631Z" creationid="Yu-Tang" creationdate="20140323T052631Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052631Z">
         <seg>project_save.tmx をエディターで開きます</seg>
       </tuv>
     </tu>
@@ -25279,7 +25279,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open the /tm folder</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052722Z" creationid="Yu-Tang" creationdate="20140323T052722Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052722Z">
         <seg>/tm フォルダー（参考訳文用の翻訳メモリ配置フォルダー）を開きます</seg>
       </tuv>
     </tu>
@@ -25295,7 +25295,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open the current source file</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140821T220746Z" creationid="Yu-Tang" creationdate="20140821T220746Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140821T220746Z">
         <seg>現在翻訳中の原文ファイルを開きます</seg>
       </tuv>
     </tu>
@@ -25303,7 +25303,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open the current translated file</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052312Z" creationid="Yu-Tang" creationdate="20140323T052312Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052312Z">
         <seg>現在翻訳中の原文ファイルを開きます</seg>
       </tuv>
     </tu>
@@ -25319,7 +25319,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open the project folder in the operating system</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052431Z" creationid="Yu-Tang" creationdate="20140323T052431Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052431Z">
         <seg>現在のプロジェクトフォルダーを OS のシェル上で開きます</seg>
       </tuv>
     </tu>
@@ -25335,7 +25335,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open the writeable glossary in an editor</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052611Z" creationid="Yu-Tang" creationdate="20140323T052611Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052611Z">
         <seg>書き込み可能な用語集ファイルをエディターで開きます</seg>
       </tuv>
     </tu>
@@ -25495,7 +25495,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T035535Z" creationid="Yu-Tang" creationdate="20140319T085407Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T035535Z">
         <seg>訳文ファイルに出力する（改行前の）文字数の設定（0＝無制限）</seg>
       </tuv>
     </tu>
@@ -26016,7 +26016,7 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       <tuv lang="EN">
         <seg>Perform SVN cleanup on any local SVN repository</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062329Z" creationid="Yu-Tang" creationdate="20140323T062329Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062329Z">
         <seg>ローカルの任意の SVN リポジトリ（作業コピー）に対して、クリーンアップ（矛盾した状態を解決する）を実行します</seg>
       </tuv>
     </tu>
@@ -26024,7 +26024,7 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       <tuv lang="EN">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151533Z" creationid="Yu-Tang" creationdate="20140607T151533Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151533Z">
         <seg>現在のプロジェクトまたはローカルの任意の SVN リポジトリ（作業コピー）に対して、クリーンアップ（矛盾した状態を解決する）を実行します</seg>
       </tuv>
     </tu>
@@ -26080,7 +26080,7 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       <tuv lang="EN">
         <seg>Piotr Kulik</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022142Z" creationid="Yu-Tang" creationdate="20140119T022142Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022142Z">
         <seg>Piotr Kulik</seg>
       </tuv>
     </tu>
@@ -26164,7 +26164,7 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>Please double-check it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082850Z" creationid="Yu-Tang" creationdate="20140605T082850Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082850Z">
         <seg>もう一度、確認してください。</seg>
       </tuv>
     </tu>
@@ -26204,7 +26204,7 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T123918Z" creationid="Yu-Tang" creationdate="20140203T123918Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T123918Z">
         <seg>以下の各分節について、訳文を採用して競合を解決してください。</seg>
       </tuv>
     </tu>
@@ -26303,7 +26303,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Please try again after you open a project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143559Z" creationid="Yu-Tang" creationdate="20140604T143559Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143559Z">
         <seg>プロジェクトを開いてから、再試行してください。</seg>
       </tuv>
     </tu>
@@ -26423,7 +26423,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035743Z" creationid="Yu-Tang" creationdate="20140330T035743Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035743Z">
         <seg>最下部にある［&lt;e0&gt;フィルター&lt;/e0&gt;］ボタンをクリックすると、編集ウィンドウには現在の検索条件に一致する分節のみが表示されます。</seg>
       </tuv>
     </tu>
@@ -26455,7 +26455,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171715Z" creationid="Yu-Tang" creationdate="20140310T171715Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171715Z">
         <seg>前分節</seg>
       </tuv>
     </tu>
@@ -26487,7 +26487,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Previous and &amp;next paragraphs</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T141942Z" creationid="Yu-Tang" creationdate="20140426T141942Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T141942Z">
         <seg>前後の段落</seg>
       </tuv>
     </tu>
@@ -26561,7 +26561,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Processing...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T130146Z" creationid="Yu-Tang" creationdate="20140203T130146Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T130146Z">
         <seg>解決しています...</seg>
       </tuv>
     </tu>
@@ -26593,7 +26593,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project Files ({0})</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T191611Z" creationid="Yu-Tang" creationdate="20131119T191611Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T191611Z">
         <seg>翻訳対象ファイル一覧（{0}個）</seg>
       </tuv>
     </tu>
@@ -26877,7 +26877,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Proxy Login...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184503Z" creationid="Yu-Tang" creationdate="20140215T184503Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184503Z">
         <seg>プロキシ認証...</seg>
       </tuv>
     </tu>
@@ -26941,7 +26941,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T055634Z" creationid="Yu-Tang" creationdate="20140323T055434Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T055634Z">
         <seg>QA - 規則集によるチェック</seg>
       </tuv>
     </tu>
@@ -26949,7 +26949,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>QA - Check rules</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143025Z" creationid="Yu-Tang" creationdate="20140604T143025Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143025Z">
         <seg>QA - 規則集によるチェック</seg>
       </tuv>
     </tu>
@@ -27053,7 +27053,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164644Z" creationid="Yu-Tang" creationdate="20140414T164644Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164644Z">
         <seg>すべて置換</seg>
       </tuv>
     </tu>
@@ -27165,7 +27165,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Refresh</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151928Z" creationid="Yu-Tang" creationdate="20140604T151822Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T151928Z">
         <seg>再検査</seg>
       </tuv>
     </tu>
@@ -27293,7 +27293,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183527Z" creationid="Yu-Tang" creationdate="20140215T183527Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183527Z">
         <seg>原文と同一訳文を登録</seg>
       </tuv>
     </tu>
@@ -27301,7 +27301,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Register identical translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T103545Z" creationid="Yu-Tang" creationdate="20140209T191607Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T103545Z">
         <seg>原文と同一訳文を登録</seg>
       </tuv>
     </tu>
@@ -27445,7 +27445,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove Filter</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T104244Z" creationid="Yu-Tang" creationdate="20140201T104244Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T104244Z">
         <seg>フィルターを解除</seg>
       </tuv>
     </tu>
@@ -27469,7 +27469,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145829Z" creationid="Yu-Tang" creationdate="20140607T145829Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145829Z">
         <seg>小文字に隣接する OmegaT タグを削除</seg>
       </tuv>
     </tu>
@@ -27509,7 +27509,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove defined fragments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151125Z" creationid="Yu-Tang" creationdate="20140607T151125Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151125Z">
         <seg>定義済みの削除すべき文字列を削除</seg>
       </tuv>
     </tu>
@@ -27533,7 +27533,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove mnemonics</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145610Z" creationid="Yu-Tang" creationdate="20140607T145610Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145610Z">
         <seg>ニーモニック (アクセス キー) を削除</seg>
       </tuv>
     </tu>
@@ -27541,7 +27541,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove paired tags from protected parts tooltip</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T203910Z" creationid="Yu-Tang" creationdate="20140814T203218Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T203910Z">
         <seg>保護されたパーツのツールチップから、対になっているタグを削除</seg>
       </tuv>
     </tu>
@@ -27557,7 +27557,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052800Z" creationid="Yu-Tang" creationdate="20140323T052800Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052800Z">
         <seg>現在の訳文からタグを削除します</seg>
       </tuv>
     </tu>
@@ -27637,7 +27637,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T092150Z" creationid="Yu-Tang" creationdate="20140201T092150Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T092150Z">
         <seg>置換</seg>
       </tuv>
     </tu>
@@ -27661,7 +27661,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace All</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T092157Z" creationid="Yu-Tang" creationdate="20140201T092157Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T092157Z">
         <seg>すべて置換</seg>
       </tuv>
     </tu>
@@ -27669,7 +27669,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace Next</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T103435Z" creationid="Yu-Tang" creationdate="20140201T103435Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T103435Z">
         <seg>置換して次へ</seg>
       </tuv>
     </tu>
@@ -27709,7 +27709,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace current target with tag-free match</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061610Z" creationid="Yu-Tang" creationdate="20140323T061610Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061610Z">
         <seg>タグを削除した参考訳文に置換します</seg>
       </tuv>
     </tu>
@@ -27717,7 +27717,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace custom tags with space</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T150535Z" creationid="Yu-Tang" creationdate="20140607T150514Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T150535Z">
         <seg>独自タグをスペース文字に置換</seg>
       </tuv>
     </tu>
@@ -27725,7 +27725,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace escaped sequences with space</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T150541Z" creationid="Yu-Tang" creationdate="20140607T150320Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T150541Z">
         <seg>エスケープシーケンスをスペース文字に置換</seg>
       </tuv>
     </tu>
@@ -27765,7 +27765,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace with:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T093239Z" creationid="Yu-Tang" creationdate="20140201T093239Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T093239Z">
         <seg>置換後の文字列：</seg>
       </tuv>
     </tu>
@@ -27837,7 +27837,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Request error: {0}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175412Z" creationid="Yu-Tang" creationdate="20140625T175412Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175412Z">
         <seg>リクエストエラー：{0}</seg>
       </tuv>
     </tu>
@@ -27845,7 +27845,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Request to TaaS: {0}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T081724Z" creationid="Yu-Tang" creationdate="20140625T081724Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T081724Z">
         <seg>TaaS へのリクエスト：{0}</seg>
       </tuv>
     </tu>
@@ -27941,7 +27941,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Retrieve collection list...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175226Z" creationid="Yu-Tang" creationdate="20140625T175226Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175226Z">
         <seg>用語集の一覧を取得しています...</seg>
       </tuv>
     </tu>
@@ -27949,7 +27949,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Retrieve domain list...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175319Z" creationid="Yu-Tang" creationdate="20140625T175319Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175319Z">
         <seg>分野の一覧を取得しています...</seg>
       </tuv>
     </tu>
@@ -28045,7 +28045,7 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Rule</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143858Z" creationid="Yu-Tang" creationdate="20140604T143858Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143858Z">
         <seg>規則</seg>
       </tuv>
     </tu>
@@ -28155,7 +28155,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>SQLJet 1.1.10 (GPL License)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131230Z" creationid="Yu-Tang" creationdate="20140716T131230Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131230Z">
         <seg>SQLJet 1.1.10（GPL ライセンス）</seg>
       </tuv>
     </tu>
@@ -28163,7 +28163,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>SQLJet 1.1.10 (GPL v2)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131119Z" creationid="Yu-Tang" creationdate="20140716T131119Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131119Z">
         <seg>SQLJet 1.1.10（GPL v2 ライセンス）</seg>
       </tuv>
     </tu>
@@ -28203,7 +28203,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T141501Z" creationid="Yu-Tang" creationdate="20140426T140831Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T141501Z">
         <seg>SVG 画像と Adobe Illustrator 出力</seg>
       </tuv>
     </tu>
@@ -28243,7 +28243,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>SVN - Cleanup</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062146Z" creationid="Yu-Tang" creationdate="20140323T062146Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062146Z">
         <seg>SVN - クリーンアップ</seg>
       </tuv>
     </tu>
@@ -28251,7 +28251,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>SVN - Commit Source File</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062341Z" creationid="Yu-Tang" creationdate="20140323T062341Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062341Z">
         <seg>SVN - 原文ファイルをコミット</seg>
       </tuv>
     </tu>
@@ -28267,7 +28267,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>SVNKit 1.8.5 (TMate License)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131107Z" creationid="Yu-Tang" creationdate="20140716T131107Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131107Z">
         <seg>SVNKit 1.8.5（TMate ライセンス）</seg>
       </tuv>
     </tu>
@@ -28387,7 +28387,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Save auto-populated status</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T033654Z" creationid="Yu-Tang" creationdate="20140222T193146Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T033654Z">
         <seg>auto フォルダー由来の翻訳かどうかを記録する</seg>
       </tuv>
     </tu>
@@ -28507,7 +28507,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Script Result</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140308T021643Z" creationid="Yu-Tang" creationdate="20140308T021643Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140308T021643Z">
         <seg>スクリプトの戻り値</seg>
       </tuv>
     </tu>
@@ -28555,7 +28555,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T034005Z" creationid="Yu-Tang" creationdate="20140320T122426Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T034005Z">
         <seg>検索文字列</seg>
       </tuv>
     </tu>
@@ -28595,7 +28595,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Search and Replace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T034141Z" creationid="Yu-Tang" creationdate="20140320T122430Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T034141Z">
         <seg>置換を実行</seg>
       </tuv>
     </tu>
@@ -28603,7 +28603,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T093113Z" creationid="Yu-Tang" creationdate="20140201T093113Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T093113Z">
         <seg>検索と置換...</seg>
       </tuv>
     </tu>
@@ -28747,7 +28747,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Searches can be performed in the source and/or in the translation and/or in notes and/or in comments.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140319T151739Z" creationid="Yu-Tang" creationdate="20140318T124050Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140319T151739Z">
         <seg>原文、訳文、メモ、コメントのいずれか、またはすべてを対象として、文字列を検索できます。</seg>
       </tuv>
     </tu>
@@ -29051,7 +29051,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Segment</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143856Z" creationid="Yu-Tang" creationdate="20140604T143856Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143856Z">
         <seg>分節</seg>
       </tuv>
     </tu>
@@ -29283,7 +29283,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Select Next Match</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183931Z" creationid="Yu-Tang" creationdate="20140215T183931Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183931Z">
         <seg>次の参考訳文を選択</seg>
       </tuv>
     </tu>
@@ -29291,7 +29291,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Select Previous Match</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183924Z" creationid="Yu-Tang" creationdate="20140215T183924Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183924Z">
         <seg>前の参考訳文を選択</seg>
       </tuv>
     </tu>
@@ -29299,7 +29299,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140627T132959Z" creationid="Yu-Tang" creationdate="20140625T175237Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140627T132959Z">
         <seg>TaaS 用語分野の選択</seg>
       </tuv>
     </tu>
@@ -29427,7 +29427,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T121941Z" creationid="0011s_000" creationdate="20140131T184631Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T121941Z">
         <seg>サーバー（変更前）</seg>
       </tuv>
     </tu>
@@ -29435,7 +29435,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Server (updated)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T121951Z" creationid="0011s_000" creationdate="20140131T184638Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T121951Z">
         <seg>サーバー（変更後）</seg>
       </tuv>
     </tu>
@@ -29556,7 +29556,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Shift+Ctrl+D</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183723Z" creationid="Yu-Tang" creationdate="20140215T183723Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183723Z">
         <seg>Shift+Ctrl+D</seg>
       </tuv>
     </tu>
@@ -29580,7 +29580,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Shift+Ctrl+N</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183617Z" creationid="Yu-Tang" creationdate="20140215T183617Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183617Z">
         <seg>Shift+Ctrl+N</seg>
       </tuv>
     </tu>
@@ -29604,7 +29604,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Shift+Ctrl+U</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184207Z" creationid="Yu-Tang" creationdate="20140215T184207Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184207Z">
         <seg>Shift+Ctrl+U</seg>
       </tuv>
     </tu>
@@ -29612,7 +29612,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Shift+Ctrl+V</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184212Z" creationid="Yu-Tang" creationdate="20140215T184212Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184212Z">
         <seg>Shift+Ctrl+V</seg>
       </tuv>
     </tu>
@@ -29708,7 +29708,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Show Same Segments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061651Z" creationid="Yu-Tang" creationdate="20140323T061651Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061651Z">
         <seg>原文と訳文が同一の分節を表示</seg>
       </tuv>
     </tu>
@@ -29772,7 +29772,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Similarity with all tokens</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132321Z" creationid="Yu-Tang" creationdate="20140716T131942Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132321Z">
         <seg>全トークンの類似度</seg>
       </tuv>
     </tu>
@@ -29780,7 +29780,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Similarity with stemming</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132303Z" creationid="Yu-Tang" creationdate="20140716T131646Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132303Z">
         <seg>ステミングありの類似度</seg>
       </tuv>
     </tu>
@@ -29788,7 +29788,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Similarity without stemming</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132305Z" creationid="Yu-Tang" creationdate="20140716T131850Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132305Z">
         <seg>ステミングなしの類似度</seg>
       </tuv>
     </tu>
@@ -29796,7 +29796,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Simple search and replace script</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T125744Z" creationid="Yu-Tang" creationdate="20140320T122424Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T125744Z">
         <seg>訳文の置換スクリプト（簡易版）</seg>
       </tuv>
     </tu>
@@ -29868,7 +29868,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T103426Z" creationid="Yu-Tang" creationdate="20140201T103426Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T103426Z">
         <seg>次を検索</seg>
       </tuv>
     </tu>
@@ -29900,7 +29900,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Slide External Lin&amp;ks</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131221T115641Z" creationid="Yu-Tang" creationdate="20131221T115641Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131221T115641Z">
         <seg>スライドの外部リンク</seg>
       </tuv>
     </tu>
@@ -30104,7 +30104,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132347Z" creationid="Yu-Tang" creationdate="20140716T131351Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132347Z">
         <seg>参考訳文の並べ替え基準：</seg>
       </tuv>
     </tu>
@@ -30120,7 +30120,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171537Z" creationid="Yu-Tang" creationdate="20140310T171537Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171537Z">
         <seg>原文</seg>
       </tuv>
     </tu>
@@ -30200,7 +30200,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175012Z" creationid="Yu-Tang" creationdate="20140625T175012Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175012Z">
         <seg>原文出現数</seg>
       </tuv>
     </tu>
@@ -30256,7 +30256,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T161123Z" creationid="Yu-Tang" creationdate="20140710T161123Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T161123Z">
         <seg>選択中の参考訳文の元分節</seg>
       </tuv>
     </tu>
@@ -30272,7 +30272,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source only</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102334Z" creationid="Yu-Tang" creationdate="20140201T102334Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102334Z">
         <seg>原文のみ</seg>
       </tuv>
     </tu>
@@ -30280,7 +30280,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source or translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102330Z" creationid="Yu-Tang" creationdate="20140201T102330Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102330Z">
         <seg>原文と訳文</seg>
       </tuv>
     </tu>
@@ -30352,7 +30352,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Space matches &amp;nbsp</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140503T041540Z" creationid="Yu-Tang" creationdate="20140503T034701Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140503T041540Z">
         <seg>スペース文字で nbsp も検索</seg>
       </tuv>
     </tu>
@@ -30432,7 +30432,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061734Z" creationid="Yu-Tang" creationdate="20140323T061734Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061734Z">
         <seg>スペルチェック</seg>
       </tuv>
     </tu>
@@ -30440,7 +30440,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Spellcheck - errors found:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151425Z" creationid="Yu-Tang" creationdate="20140607T151425Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151425Z">
         <seg>スペルチェック - エラー数：</seg>
       </tuv>
     </tu>
@@ -30448,7 +30448,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Spellchecker</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144943Z" creationid="Yu-Tang" creationdate="20140607T144943Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144943Z">
         <seg>スペルチェッカー</seg>
       </tuv>
     </tu>
@@ -30472,7 +30472,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Spelling errors(s)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144054Z" creationid="Yu-Tang" creationdate="20140607T144054Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144054Z">
         <seg>綴り間違い</seg>
       </tuv>
     </tu>
@@ -30566,7 +30566,7 @@ make it effectively proprietary.</seg>
       <tuv lang="EN">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122240Z" creationid="Yu-Tang" creationdate="20140717T121516Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122240Z">
         <seg>タグと数値を除く一致率（ステミングあり）</seg>
       </tuv>
     </tu>
@@ -30606,7 +30606,7 @@ make it effectively proprietary.</seg>
       <tuv lang="EN">
         <seg>Strip Tags</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052728Z" creationid="Yu-Tang" creationdate="20140323T052728Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052728Z">
         <seg>タグを削除</seg>
       </tuv>
     </tu>
@@ -30614,7 +30614,7 @@ make it effectively proprietary.</seg>
       <tuv lang="EN">
         <seg>Strip tags in current segment</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144320Z" creationid="Yu-Tang" creationdate="20140607T144320Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144320Z">
         <seg>現在の分節からタグを削除</seg>
       </tuv>
     </tu>
@@ -30802,7 +30802,7 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>SuperTMXMerge-for_OmegaT.jar (LGPL License)</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184410Z" creationid="0011s_000" creationdate="20140131T184410Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184410Z">
         <seg>SuperTMXMerge-for_OmegaT.jar（LGPL ライセンス）</seg>
       </tuv>
     </tu>
@@ -30810,7 +30810,7 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>SuperTMXMerge-for_OmegaT.jar (LGPL license)</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184325Z" creationid="0011s_000" creationdate="20140131T184325Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184325Z">
         <seg>SuperTMXMerge-for_OmegaT.jar（LGPL ライセンス）</seg>
       </tuv>
     </tu>
@@ -30850,7 +30850,7 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>Swing-Layout 1.0.4 (LGPL License)</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184306Z" creationid="0011s_000" creationdate="20140131T184306Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184306Z">
         <seg>Swing-Layout 1.0.4（LGPL ライセンス）</seg>
       </tuv>
     </tu>
@@ -30858,7 +30858,7 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184013Z" creationid="Yu-Tang" creationdate="20140215T184013Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184013Z">
         <seg>大/小文字設定→すべて小文字に</seg>
       </tuv>
     </tu>
@@ -30866,7 +30866,7 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184053Z" creationid="Yu-Tang" creationdate="20140215T184053Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184053Z">
         <seg>大/小文字設定→Title case（単語の先頭を大文字）に</seg>
       </tuv>
     </tu>
@@ -30874,7 +30874,7 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>Switch Case To/Upper Case</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184018Z" creationid="Yu-Tang" creationdate="20140215T184018Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184018Z">
         <seg>大/小文字設定→すべて大文字に</seg>
       </tuv>
     </tu>
@@ -30939,7 +30939,7 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164903Z" creationid="Yu-Tang" creationdate="20140414T164903Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T164903Z">
         <seg>翻訳メモリ</seg>
       </tuv>
     </tu>
@@ -31033,7 +31033,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>TaaS API key not found.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175916Z" creationid="Yu-Tang" creationdate="20140625T175916Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175916Z">
         <seg>TaaS API キーが指定されていません。</seg>
       </tuv>
     </tu>
@@ -31041,7 +31041,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>TaaS Collections</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T082715Z" creationid="Yu-Tang" creationdate="20140625T082715Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T082715Z">
         <seg>TaaS 用語集</seg>
       </tuv>
     </tu>
@@ -31233,7 +31233,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Tag-Free Match</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061623Z" creationid="Yu-Tang" creationdate="20140323T061424Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061623Z">
         <seg>参考訳文（タグ削除済み）に置換</seg>
       </tuv>
     </tu>
@@ -31265,7 +31265,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Tags - number</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T145025Z" creationid="Yu-Tang" creationdate="20140604T145025Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T145025Z">
         <seg>タグの個数の不一致</seg>
       </tuv>
     </tu>
@@ -31273,7 +31273,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Tags - order</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T150740Z" creationid="Yu-Tang" creationdate="20140604T150740Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T150740Z">
         <seg>タグ出現順の不一致</seg>
       </tuv>
     </tu>
@@ -31281,7 +31281,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Tags - spaces</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T150717Z" creationid="Yu-Tang" creationdate="20140604T150717Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T150717Z">
         <seg>タグに隣接する空白文字の不一致</seg>
       </tuv>
     </tu>
@@ -31377,7 +31377,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143918Z" creationid="Yu-Tang" creationdate="20140604T143901Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143918Z">
         <seg>訳文</seg>
       </tuv>
     </tu>
@@ -31385,7 +31385,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Target count</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175018Z" creationid="Yu-Tang" creationdate="20140625T175018Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175018Z">
         <seg>訳文出現数</seg>
       </tuv>
     </tu>
@@ -31409,7 +31409,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Target longer</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144406Z" creationid="Yu-Tang" creationdate="20140604T144406Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144406Z">
         <seg>長すぎる訳文</seg>
       </tuv>
     </tu>
@@ -31417,7 +31417,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Target shorter</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144401Z" creationid="Yu-Tang" creationdate="20140604T144401Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144401Z">
         <seg>短すぎる訳文</seg>
       </tuv>
     </tu>
@@ -31521,7 +31521,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Team synchronization: Saving translation in {0} s</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T131103Z" creationid="Yu-Tang" creationdate="20140717T130306Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T131103Z">
         <seg>チーム同期：翻訳の保存は {0} 秒後に時間切れです</seg>
       </tuv>
     </tu>
@@ -31529,7 +31529,7 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122518Z" creationid="Yu-Tang" creationdate="20140717T122518Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140717T122518Z">
         <seg>チーム同期：現在分節の確定待ちです...</seg>
       </tuv>
     </tu>
@@ -31629,7 +31629,7 @@ this License.</seg>
       <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102351Z" creationid="Yu-Tang" creationdate="20140201T102351Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102351Z">
         <seg>テキストの置換</seg>
       </tuv>
     </tu>
@@ -32115,7 +32115,7 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T172309Z" creationid="Yu-Tang" creationdate="20140224T172309Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T172309Z">
         <seg>Java リソースバンドル フィルターの例外が発生しました：</seg>
       </tuv>
     </tu>
@@ -32179,7 +32179,7 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T183136Z" creationid="Yu-Tang" creationdate="20140210T183136Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140210T183136Z">
         <seg>Mozilla DTD フィルターの例外が発生しました：</seg>
       </tuv>
     </tu>
@@ -32443,7 +32443,7 @@ shown below.</seg>
       <tuv lang="EN">
         <seg>The certificate is by "PnS Concept".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T165712Z" creationid="Yu-Tang" creationdate="20140501T165712Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T165712Z">
         <seg>証明書は「PnS Concept」によって署名されています。</seg>
       </tuv>
     </tu>
@@ -33038,7 +33038,7 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following options apply to the 3.x filter only</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T051230Z" creationid="Yu-Tang" creationdate="20140119T051230Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T051230Z">
         <seg>OmegaT 3.x でのみ有効な設定</seg>
       </tuv>
     </tu>
@@ -34074,7 +34074,7 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The rules are based on the Checkmate Quality check</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061220Z" creationid="Yu-Tang" creationdate="20140323T055500Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T061220Z">
         <seg>CheckMate（Okapi Framework）の品質チェックに準じた規則を適用できます</seg>
       </tuv>
     </tu>
@@ -35341,7 +35341,7 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082812Z" creationid="Yu-Tang" creationdate="20140605T082802Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082812Z">
         <seg>URL が間違っているようです。</seg>
       </tuv>
     </tu>
@@ -35638,7 +35638,7 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T141708Z" creationid="Yu-Tang" creationdate="20140605T084114Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T141708Z">
         <seg>Git リポジトリです。</seg>
       </tuv>
     </tu>
@@ -35646,7 +35646,7 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T141713Z" creationid="Yu-Tang" creationdate="20140605T084132Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T141713Z">
         <seg>Subversion リポジトリです。</seg>
       </tuv>
     </tu>
@@ -36173,7 +36173,7 @@ be a consequence of the rest of this License.</seg>
       <tuv lang="EN">
         <seg>This will translate a string like "$123,399.99" to "123 399,99 USD"</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050417Z" creationid="Yu-Tang" creationdate="20140323T050417Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050417Z">
         <seg>たとえば原文に「$123,399.99」とあれば、これを「123 399,99 USD」に変換します。</seg>
       </tuv>
     </tu>
@@ -36837,7 +36837,7 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035826Z" creationid="Yu-Tang" creationdate="20140330T035826Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035826Z">
         <seg>フィルターを解除するには、［&lt;e0&gt;フィルターを解除&lt;/e0&gt;］ボタンをクリックするか、またはプロジェクトを再読み込みしてください。</seg>
       </tuv>
     </tu>
@@ -37162,7 +37162,7 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T165242Z" creationid="Yu-Tang" creationdate="20140414T165242Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T165242Z">
         <seg>全分節</seg>
       </tuv>
     </tu>
@@ -37202,7 +37202,7 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translate currencies representation according to source and target locale.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050230Z" creationid="Yu-Tang" creationdate="20140323T050200Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T050230Z">
         <seg>原文中の通貨表記を、訳文の言語設定に応じて変換します。</seg>
       </tuv>
     </tu>
@@ -37306,7 +37306,7 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translated or untranslated</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T101944Z" creationid="Yu-Tang" creationdate="20140201T101944Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T101944Z">
         <seg>全分節</seg>
       </tuv>
     </tu>
@@ -37338,7 +37338,7 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171554Z" creationid="Yu-Tang" creationdate="20140310T171554Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171554Z">
         <seg>訳文</seg>
       </tuv>
     </tu>
@@ -37427,7 +37427,7 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Translation only</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102337Z" creationid="Yu-Tang" creationdate="20140201T102337Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102337Z">
         <seg>訳文のみ</seg>
       </tuv>
     </tu>
@@ -37596,7 +37596,7 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T165003Z" creationid="Yu-Tang" creationdate="20140414T165003Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140414T165003Z">
         <seg>未翻訳分節</seg>
       </tuv>
     </tu>
@@ -37692,7 +37692,7 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unauthorized request to TaaS service</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175602Z" creationid="Yu-Tang" creationdate="20140625T175602Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175602Z">
         <seg>TaaS サービスの認証に失敗しました</seg>
       </tuv>
     </tu>
@@ -37958,7 +37958,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Untranslated</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102053Z" creationid="Yu-Tang" creationdate="20140201T102053Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102053Z">
         <seg>未翻訳分節</seg>
       </tuv>
     </tu>
@@ -37966,7 +37966,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Untranslated segment</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144654Z" creationid="Yu-Tang" creationdate="20140604T144654Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144654Z">
         <seg>未翻訳分節</seg>
       </tuv>
     </tu>
@@ -37990,7 +37990,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Updated</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175055Z" creationid="Yu-Tang" creationdate="20140625T175055Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175055Z">
         <seg>最終更新日</seg>
       </tuv>
     </tu>
@@ -38151,7 +38151,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use all mine</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124242Z" creationid="Yu-Tang" creationdate="20140203T124242Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124242Z">
         <seg>自分の変更をすべて採用する</seg>
       </tuv>
     </tu>
@@ -38159,7 +38159,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use all original</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124315Z" creationid="Yu-Tang" creationdate="20140203T124315Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124315Z">
         <seg>サーバー（変更前）をすべて採用する</seg>
       </tuv>
     </tu>
@@ -38167,7 +38167,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use all updated</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124320Z" creationid="Yu-Tang" creationdate="20140203T124320Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124320Z">
         <seg>サーバー（変更後）をすべて採用する</seg>
       </tuv>
     </tu>
@@ -38183,7 +38183,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use custom templates for modification info</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T204151Z" creationid="Yu-Tang" creationdate="20140814T204151Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140814T204151Z">
         <seg>更新情報の表示書式に独自テンプレートを使う</seg>
       </tuv>
     </tu>
@@ -38191,7 +38191,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use glossary</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151340Z" creationid="Yu-Tang" creationdate="20140607T145858Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151340Z">
         <seg>用語集を使用</seg>
       </tuv>
     </tu>
@@ -38592,7 +38592,7 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>VLDocking Framework 3.0.4 (LGPL License)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T125204Z" creationid="Yu-Tang" creationdate="20140704T125204Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T125204Z">
         <seg>VLDocking Framework 3.0.4（LGPL ライセンス）</seg>
       </tuv>
     </tu>
@@ -38608,7 +38608,7 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Validate Tags for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T103252Z" creationid="Yu-Tang" creationdate="20131119T103252Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T103252Z">
         <seg>タグ検証（現在の文書のみ）</seg>
       </tuv>
     </tu>
@@ -38616,7 +38616,7 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Validate Tags for Current Document</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184229Z" creationid="Yu-Tang" creationdate="20140215T184229Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184229Z">
         <seg>タグ検証（現在の文書のみ）</seg>
       </tuv>
     </tu>
@@ -39177,7 +39177,7 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T083927Z" creationid="Yu-Tang" creationdate="20140704T083835Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T083927Z">
         <seg>利用できなければ ID で代替する</seg>
       </tuv>
     </tu>
@@ -39419,7 +39419,7 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Whitespace - leading</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144205Z" creationid="Yu-Tang" creationdate="20140604T144053Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144205Z">
         <seg>先頭の空白文字</seg>
       </tuv>
     </tu>
@@ -39427,7 +39427,7 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Whitespace - trailing</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144211Z" creationid="Yu-Tang" creationdate="20140604T144058Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144211Z">
         <seg>末尾の空白文字</seg>
       </tuv>
     </tu>
@@ -39566,7 +39566,7 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184238Z" creationid="0011s_000" creationdate="20140131T184238Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184238Z">
         <seg>この引数を指定すると、ロックしません。</seg>
       </tuv>
     </tu>
@@ -39750,7 +39750,7 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>Wrong response format from TaaS service</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175618Z" creationid="Yu-Tang" creationdate="20140625T175618Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175618Z">
         <seg>TaaS サービスのレスポンス形式が不正です</seg>
       </tuv>
     </tu>
@@ -39990,7 +39990,7 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T134933Z" creationid="Yu-Tang" creationdate="20140201T102525Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T134933Z">
         <seg>{0} 個の分節を更新します。この操作は取り消せません。</seg>
       </tuv>
     </tu>
@@ -40252,7 +40252,7 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131221T115554Z" creationid="Yu-Tang" creationdate="20131221T115554Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20131221T115554Z">
         <seg>タスクに応じて、それぞれ個別に新規プロジェクトを作成しても構いませんし、原文ファイルはいつでも追加できます。</seg>
       </tuv>
     </tu>
@@ -40398,7 +40398,7 @@ installation by using the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;VMOptions&lt;/e1&gt; part of the package &lt;a2&gt;&lt;e3&gt;Info.plist&lt;/e3&gt;&lt;/a2&gt; file.</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T185110Z" creationid="0011s_000" creationdate="20140131T185110Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T185110Z">
         <seg>OmegaT の挙動は、&lt;a2&gt;&lt;e3&gt;Info.plist&lt;/e3&gt;&lt;/a2&gt; ファイルの &lt;e0&gt;Properties&lt;/e0&gt; 部分と &lt;e1&gt;VMOptions&lt;/e1&gt; 部分を編集することでカスタマイズできます。</seg>
       </tuv>
     </tu>
@@ -40546,7 +40546,7 @@ omegat.kaptn</seg>
       <tuv lang="EN">
         <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035751Z" creationid="Yu-Tang" creationdate="20140330T035751Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035751Z">
         <seg>分節間の移動には、通常の移動コマンド（［次の分節］や［次の未翻訳分節］など）を使用できます。</seg>
       </tuv>
     </tu>
@@ -41607,7 +41607,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T161250Z" creationid="Yu-Tang" creationdate="20140710T161250Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T161250Z">
         <seg>繰り返し分節</seg>
       </tuv>
     </tu>
@@ -41927,7 +41927,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>beansbinding-1.2.1.jar (LGPL License)</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184402Z" creationid="0011s_000" creationdate="20140131T184402Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184402Z">
         <seg>beansbinding-1.2.1.jar（LGPL ライセンス）</seg>
       </tuv>
     </tu>
@@ -41935,7 +41935,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>beansbinding-1.2.1.jar (LGPL license)</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184334Z" creationid="0011s_000" creationdate="20140131T184315Z">
+      <tuv lang="JA" changeid="0011s_000" changedate="20140131T184334Z">
         <seg>beansbinding-1.2.1.jar（LGPL ライセンス）</seg>
       </tuv>
     </tu>
@@ -42751,7 +42751,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>editRegisterIdenticalMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184158Z" creationid="Yu-Tang" creationdate="20140215T184158Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184158Z">
         <seg>editRegisterIdenticalMenuItem</seg>
       </tuv>
     </tu>
@@ -42759,7 +42759,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>editReplaceInProjectMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183758Z" creationid="Yu-Tang" creationdate="20140215T183758Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183758Z">
         <seg>editReplaceInProjectMenuItem</seg>
       </tuv>
     </tu>
@@ -42807,7 +42807,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>editSelectFuzzyNextMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183934Z" creationid="Yu-Tang" creationdate="20140215T183934Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183934Z">
         <seg>editSelectFuzzyNextMenuItem</seg>
       </tuv>
     </tu>
@@ -42815,7 +42815,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>editSelectFuzzyPrevMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183927Z" creationid="Yu-Tang" creationdate="20140215T183927Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183927Z">
         <seg>editSelectFuzzyPrevMenuItem</seg>
       </tuv>
     </tu>
@@ -42823,7 +42823,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>editTagNextMissedMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183744Z" creationid="Yu-Tang" creationdate="20140215T183744Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183744Z">
         <seg>editTagNextMissedMenuItem</seg>
       </tuv>
     </tu>
@@ -42975,7 +42975,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>extensions:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T121847Z" creationid="Yu-Tang" creationdate="20140309T063137Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140320T121847Z">
         <seg>拡張子 :</seg>
       </tuv>
     </tu>
@@ -43047,7 +43047,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T161252Z" creationid="Yu-Tang" creationdate="20140710T161252Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T161252Z">
         <seg>ファイル名</seg>
       </tuv>
     </tu>
@@ -43287,7 +43287,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>gotoNextTranslatedMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184208Z" creationid="Yu-Tang" creationdate="20140215T184208Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184208Z">
         <seg>gotoNextTranslatedMenuItem</seg>
       </tuv>
     </tu>
@@ -43343,7 +43343,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>groovy-all-2.2.2.jar (Apache Licence 2.0)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T163201Z" creationid="Yu-Tang" creationdate="20140310T163201Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T163201Z">
         <seg>groovy-all-2.2.2.jar（Apache ライセンス 2.0）</seg>
       </tuv>
     </tu>
@@ -43439,7 +43439,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>helpLastChangesMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184517Z" creationid="Yu-Tang" creationdate="20140215T184517Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184517Z">
         <seg>helpLastChangesMenuItem</seg>
       </tuv>
     </tu>
@@ -43447,7 +43447,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>helpLogMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184537Z" creationid="Yu-Tang" creationdate="20140215T184537Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184537Z">
         <seg>helpLogMenuItem</seg>
       </tuv>
     </tu>
@@ -44441,7 +44441,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022123Z" creationid="Yu-Tang" creationdate="20140119T022123Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140119T022123Z">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
     </tu>
@@ -44881,7 +44881,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>left</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140527T045218Z" creationid="Yu-Tang" creationdate="20140527T045218Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140527T045218Z">
         <seg>残</seg>
       </tuv>
     </tu>
@@ -45817,7 +45817,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>optionsAutoCompleteAutoTextMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184430Z" creationid="Yu-Tang" creationdate="20140215T184430Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184430Z">
         <seg>optionsAutoCompleteAutoTextMenuItem</seg>
       </tuv>
     </tu>
@@ -45825,7 +45825,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>optionsAutoCompleteCharTableMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184455Z" creationid="Yu-Tang" creationdate="20140215T184455Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184455Z">
         <seg>optionsAutoCompleteCharTableMenuItem</seg>
       </tuv>
     </tu>
@@ -45833,7 +45833,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>optionsAutoCompleteGlossaryMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184417Z" creationid="Yu-Tang" creationdate="20140215T184417Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184417Z">
         <seg>optionsAutoCompleteGlossaryMenuItem</seg>
       </tuv>
     </tu>
@@ -46227,7 +46227,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>projectSingleCompileMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183727Z" creationid="Yu-Tang" creationdate="20140215T183727Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T183727Z">
         <seg>projectSingleCompileMenuItem</seg>
       </tuv>
     </tu>
@@ -46699,7 +46699,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>slf4j (MIT License)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131212Z" creationid="Yu-Tang" creationdate="20140716T131212Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131212Z">
         <seg>slf4j（MIT ライセンス）</seg>
       </tuv>
     </tu>
@@ -46707,7 +46707,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>slf4j-*.jar (MIT License)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T125318Z" creationid="Yu-Tang" creationdate="20140704T125318Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140704T125318Z">
         <seg>slf4j-*.jar（MIT ライセンス）</seg>
       </tuv>
     </tu>
@@ -47387,7 +47387,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184235Z" creationid="Yu-Tang" creationdate="20140215T184235Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184235Z">
         <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
       </tuv>
     </tu>
@@ -47411,7 +47411,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>toolsSingleValidateTagsMenuItem</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184232Z" creationid="Yu-Tang" creationdate="20140215T184232Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184232Z">
         <seg>toolsSingleValidateTagsMenuItem</seg>
       </tuv>
     </tu>
@@ -47475,7 +47475,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>trilead-ssh2-1.0.0-build217 (Trilead SSH license)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131157Z" creationid="Yu-Tang" creationdate="20140716T131157Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131157Z">
         <seg>trilead-ssh2-1.0.0-build217（Trilead SSH ライセンス）</seg>
       </tuv>
     </tu>
@@ -48075,7 +48075,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{0} +{1} more</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T170704Z" creationid="Yu-Tang" creationdate="20140710T170704Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T170704Z">
         <seg>{0} 他{1}分節</seg>
       </tuv>
     </tu>
@@ -48083,7 +48083,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{0} conflicts</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124141Z" creationid="Yu-Tang" creationdate="20140203T124141Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124141Z">
         <seg>競合数 {0}</seg>
       </tuv>
     </tu>
@@ -48099,7 +48099,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{0} segments</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124116Z" creationid="Yu-Tang" creationdate="20140203T124116Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124116Z">
         <seg>分節数 {0}</seg>
       </tuv>
     </tu>
@@ -48107,7 +48107,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{0}/{1}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170211Z" creationid="Yu-Tang" creationdate="20140310T170211Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170211Z">
         <seg>{0}/{1}</seg>
       </tuv>
     </tu>
@@ -48131,7 +48131,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>← Back</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170219Z" creationid="Yu-Tang" creationdate="20140310T170219Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170219Z">
         <seg>← 戻る</seg>
       </tuv>
     </tu>
@@ -48361,7 +48361,7 @@ documentation.</prop>
       <tuv lang="EN">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T034033Z" creationid="Yu-Tang" creationdate="20140321T034033Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T034033Z">
         <seg>置換後の文字列</seg>
       </tuv>
     </tu>
@@ -48371,7 +48371,7 @@ documentation.</prop>
       <tuv lang="EN">
         <seg>Didier Briel is the OmegaT project manager.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T075524Z" creationid="Yu-Tang" creationdate="20140625T075524Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T075524Z">
         <seg>現在は、Didier Briel が OmegaT のプロジェクトマネージャーを務めています。
 </seg>
       </tuv>
@@ -48382,7 +48382,7 @@ documentation.</prop>
       <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171436Z" creationid="Yu-Tang" creationdate="20140310T171436Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171436Z">
         <seg>メモ</seg>
       </tuv>
     </tu>
