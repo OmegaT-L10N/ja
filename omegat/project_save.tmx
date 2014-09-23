@@ -11186,8 +11186,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       <tuv lang="EN">
         <seg>Color</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T133313Z" creationid="Yu-Tang" creationdate="20140923T133313Z">
-        <seg>色</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T191038Z" creationid="Yu-Tang" creationdate="20140923T133313Z">
+        <seg>配色</seg>
       </tuv>
     </tu>
     <tu>
@@ -12464,6 +12464,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121529Z">
         <seg>初期値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default Color</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T191136Z" creationid="Yu-Tang" creationdate="20140923T191136Z">
+        <seg>デフォルトの配色にリセットする</seg>
       </tuv>
     </tu>
     <tu>
@@ -16117,10 +16125,42 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T190630Z" creationid="Yu-Tang" creationdate="20140923T190630Z">
+        <seg>100% メモリ由来の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T190623Z" creationid="Yu-Tang" creationdate="20140923T190623Z">
+        <seg>ICE メモリ由来の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T153519Z">
         <seg>実用上の観点から言えば、最も重要な数値は２番目のペアです。これは翻訳がどこまで進んでいるかを示すもので、プロジェクトの分節数と関係しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T190704Z" creationid="Yu-Tang" creationdate="20140923T190704Z">
+        <seg>auto メモリ由来の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T190054Z" creationid="Yu-Tang" creationdate="20140923T190054Z">
+        <seg>内部メモリ由来の分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -21246,6 +21286,15 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T110124Z">
         <seg>翻訳単位言語要素の言語が指定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>正式名称は、https://www.languagetool.org/ を参照</note>
+      <tuv lang="EN">
+        <seg>Language tools</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T190954Z" creationid="Yu-Tang" creationdate="20140923T190954Z">
+        <seg>LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -29509,6 +29558,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T121951Z">
         <seg>サーバー（変更後）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Color</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T191139Z" creationid="Yu-Tang" creationdate="20140923T191027Z">
+        <seg>現在の色を設定する</seg>
       </tuv>
     </tu>
     <tu>
