@@ -8774,6 +8774,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to automatically open last used OmegaT project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T145701Z" creationid="Yu-Tang" creationdate="20140925T145634Z">
+        <seg>前回使用した OmegaT プロジェクトを自動的に開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a different order</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130121T061737Z">
@@ -9652,6 +9660,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195825Z">
         <seg>参考訳文の翻訳者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto Open Last Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T145552Z" creationid="Yu-Tang" creationdate="20140925T145552Z">
+        <seg>起動時に前回のプロジェクトを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -11284,6 +11300,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155500Z">
         <seg>リモート訳文が変更されたため、コミットできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit segmentation file change to SVN remote repository</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T145854Z" creationid="Yu-Tang" creationdate="20140925T145854Z">
+        <seg>分節化規則ファイルの変更（追加/削除/更新）をリモートリポジトリに対してコミットします</seg>
       </tuv>
     </tu>
     <tu>
@@ -28406,6 +28430,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062146Z">
         <seg>SVN - クリーンアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Commit Segmentation File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T145833Z" creationid="Yu-Tang" creationdate="20140925T145833Z">
+        <seg>SVN - 分節化規則ファイルをコミット</seg>
       </tuv>
     </tu>
     <tu>
