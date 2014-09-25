@@ -697,8 +697,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Editing Behaviour...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154725Z">
-        <seg>翻訳入力行...</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T144710Z">
+        <seg>Custom Col翻訳入力行...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1367,6 +1367,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Tokenizer Behaviour:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T144738Z" creationid="Yu-Tang" creationdate="20140925T144738Z">
+        <seg>互換設定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154551Z">
@@ -1394,6 +1402,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Target Tokenizer Behavior:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130522T163721Z">
+        <seg>互換設定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Tokenizer Behaviour:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T144751Z" creationid="Yu-Tang" creationdate="20140925T144751Z">
         <seg>互換設定：</seg>
       </tuv>
     </tu>
@@ -11192,6 +11208,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Colour</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T144821Z" creationid="Yu-Tang" creationdate="20140925T144821Z">
+        <seg>配色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173412Z">
@@ -12348,6 +12372,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T144714Z" creationid="Yu-Tang" creationdate="20140925T144714Z">
+        <seg>配色のカスタマイズ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174400Z">
@@ -12479,6 +12511,14 @@ unpacking, reading or copying.</seg>
         <seg>Default Color</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T191211Z" creationid="Yu-Tang" creationdate="20140923T191136Z">
+        <seg>初期設定にリセットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default Colour</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T144832Z" creationid="Yu-Tang" creationdate="20140925T144832Z">
         <seg>初期設定にリセットする</seg>
       </tuv>
     </tu>
@@ -29573,6 +29613,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
         <seg>Set Color</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T191139Z" creationid="Yu-Tang" creationdate="20140923T191027Z">
+        <seg>現在の色を設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Colour</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T144822Z" creationid="Yu-Tang" creationdate="20140925T144822Z">
         <seg>現在の色を設定する</seg>
       </tuv>
     </tu>
