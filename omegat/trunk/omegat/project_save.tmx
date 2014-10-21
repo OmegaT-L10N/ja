@@ -495,6 +495,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141021T125241Z" creationid="Yu-Tang" creationdate="20141021T125241Z">
+        <seg>適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Apply this font to the Project Files window</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160002Z">
@@ -1223,6 +1231,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset to Default</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141021T125238Z" creationid="Yu-Tang" creationdate="20141021T125238Z">
+        <seg>初期設定にリセットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154954Z">
@@ -1299,6 +1315,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T082027Z">
         <seg>TaaS 用語分野を選択...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Set Colour</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141021T125233Z" creationid="Yu-Tang" creationdate="20141021T125233Z">
+        <seg>現在の色を設定する</seg>
       </tuv>
     </tu>
     <tu>
@@ -12384,6 +12408,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050554Z">
         <seg>現在の &lt;a1&gt;OmegaT&lt;/a1&gt; は、プレーンテキストファイルのうち以下の形式に対応しています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Co&amp;lours...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141021T125401Z" creationid="Yu-Tang" creationdate="20141021T125401Z">
+        <seg>配色のカスタマイズ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26423,6 +26455,14 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141017T081155Z" creationid="Yu-Tang" creationdate="20141017T081155Z">
         <seg>新しい配色設定は、アプリケーションの再起動後に反映されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141021T125333Z" creationid="Yu-Tang" creationdate="20141021T125333Z">
+        <seg>新しい配色設定は、プログラムの再起動後に反映されます。</seg>
       </tuv>
     </tu>
     <tu>
