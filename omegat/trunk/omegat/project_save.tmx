@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22610,6 +22610,54 @@ impose that choice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T090454Z" creationid="Yu-Tang" creationdate="20141031T090303Z">
+        <seg>参考訳文の相違部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T090606Z" creationid="Yu-Tang" creationdate="20141031T090606Z">
+        <seg>参考訳文（選択中）の削除部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T090621Z" creationid="Yu-Tang" creationdate="20141031T090621Z">
+        <seg>参考訳文（未選択）の削除部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T090532Z" creationid="Yu-Tang" creationdate="20141031T090411Z">
+        <seg>参考訳文（選択中）の挿入部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T090539Z" creationid="Yu-Tang" creationdate="20141031T090539Z">
+        <seg>参考訳文（未選択）の挿入部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T090442Z" creationid="Yu-Tang" creationdate="20141031T090323Z">
+        <seg>参考訳文の同一部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T092348Z">
@@ -23462,6 +23510,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T090920Z" creationid="Yu-Tang" creationdate="20141031T090920Z">
+        <seg>次の繰り返しではない分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141616Z">
@@ -23650,6 +23706,14 @@ measures.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T132826Z" creationid="Yu-Tang" creationdate="20140923T132826Z">
         <seg>繰り返しのある分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T085930Z" creationid="Yu-Tang" creationdate="20141031T085930Z">
+        <seg>繰り返しのある分節の背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -24446,6 +24510,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T073419Z">
         <seg>OmegaT 3.0 - お読みください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Custom Colours</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T085604Z" creationid="Yu-Tang" creationdate="20141031T085604Z">
+        <seg>配色のカスタマイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -29442,6 +29514,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T085815Z" creationid="Yu-Tang" creationdate="20141031T085815Z">
+        <seg>メモ付き分節テキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T143029Z">
@@ -30611,6 +30691,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T132442Z" creationid="Yu-Tang" creationdate="20140923T132442Z">
         <seg>原文分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T085810Z" creationid="Yu-Tang" creationdate="20141031T085810Z">
+        <seg>原文分節テキスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -37665,6 +37753,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T085842Z" creationid="Yu-Tang" creationdate="20141031T085842Z">
+        <seg>翻訳済み分節テキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160356Z">
@@ -38329,6 +38425,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T132454Z" creationid="Yu-Tang" creationdate="20140923T132454Z">
         <seg>未翻訳分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141031T085833Z" creationid="Yu-Tang" creationdate="20141031T085833Z">
+        <seg>未翻訳分節テキスト</seg>
       </tuv>
     </tu>
     <tu>
