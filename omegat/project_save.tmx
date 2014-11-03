@@ -10318,6 +10318,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T173534Z" creationid="Yu-Tang" creationdate="20141103T173534Z">
+        <seg>既定では、スクリプトファイルは「scripts」フォルダーに格納されています。このフォルダーは、OmegaT のインストール先フォルダー（OmegaT.jar ファイルを含む）の配下にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T020617Z">
@@ -19500,6 +19508,14 @@ the scope of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T175410Z" creationid="Yu-Tang" creationdate="20141103T175410Z">
+        <seg>現在の言語に対して使用可能なトークナイザーが見つからない場合、OmegaT は代わりに Hunspell を使用します（このような場合は、該当する言語の Hunspell 辞書が導入済みであることを確認してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T085639Z">
@@ -20699,6 +20715,14 @@ implemented by public license practices.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T175036Z" creationid="Yu-Tang" creationdate="20141103T174856Z">
+        <seg>プロジェクト設定ウィンドウから、トークナイザーの種類（言語のトークナイザー）やバージョン（互換設定）を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to select another tokenizer or a different version of the tokenizer from the Project Properties window.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T023526Z">
@@ -21519,6 +21543,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T202809Z">
         <seg>言語設定 - ISO 639 コード一覧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T174302Z" creationid="Yu-Tang" creationdate="20141103T174302Z">
+        <seg>言語設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -28910,6 +28942,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140321T035719Z">
         <seg>スクリプト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T173711Z" creationid="Yu-Tang" creationdate="20141103T173711Z">
+        <seg>スクリプト言語</seg>
       </tuv>
     </tu>
     <tu>
@@ -37489,10 +37529,26 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T173858Z" creationid="Yu-Tang" creationdate="20141103T173858Z">
+        <seg>トークナイザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T152625Z">
         <seg>トークナイザー（またはステマー）は、原文および翻訳メモリデータ内の単語の語尾変化を認識することによって、参考訳文の照合精度を改善します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T174824Z" creationid="Yu-Tang" creationdate="20141103T174824Z">
+        <seg>OmegaT のトークナイザーは、既定で有効になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40594,6 +40650,14 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045447Z">
         <seg>開発者がバグを発見し、修正するのに助けとなる情報を添付してください。たとえば、該当ファイルやログの一部、スクリーンショットなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T173703Z" creationid="Yu-Tang" creationdate="20141103T173703Z">
+        <seg>このフォルダーに新しいスクリプトファイルを追加すると、スクリプト ダイアログの一覧に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
