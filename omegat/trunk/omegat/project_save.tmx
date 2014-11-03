@@ -11055,6 +11055,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting dialog:&lt;s2&gt; &lt;s3&gt;Scripting dialog&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T172353Z" creationid="Yu-Tang" creationdate="20141103T172353Z">
+        <seg>&lt;g0&gt;［ツール］→&lt;/g0&gt;&lt;g1&gt;［スクリプト...］&lt;/g1&gt;をクリックすると、スクリプト ダイアログが開きます：&lt;s2&gt; &lt;s3&gt;スクリプト ダイアログ&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking &lt;g3&gt;Scripting&lt;/g3&gt; opens the Scripting dialog:&lt;s4&gt; &lt;s5&gt;Scripting dialog&lt;/s5&gt; &lt;m6&gt; &lt;i7&gt; &lt;i8/&gt; &lt;/i7&gt; &lt;/m6&gt; &lt;/s4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T074423Z">
@@ -24566,6 +24574,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172340Z">
         <seg>OmegaT のユーザーインターフェース言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T171842Z" creationid="Yu-Tang" creationdate="20141103T171842Z">
+        <seg>さまざまなスクリプト言語で書かれたスクリプトを OmegaT で実行することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38577,6 +38593,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T060051Z">
         <seg>使い方: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T171905Z" creationid="Yu-Tang" creationdate="20141103T171905Z">
+        <seg>使い方</seg>
       </tuv>
     </tu>
     <tu>
