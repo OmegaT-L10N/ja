@@ -27972,6 +27972,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T180444Z" creationid="Yu-Tang" creationdate="20141103T180444Z">
+        <seg>タグ全体を削除したい場合は、このオプションにチェックを入れなくても、Ctrl+Backspace/Delete か、または全体を選択（Ctrl+Shift+Left/Right）して削除（Delete か Ctrl+X）で削除できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file ( e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140142Z">
@@ -38247,6 +38255,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130123T090813Z">
         <seg>変更されていない文章は、自動的に翻訳されます。更新された文章は未翻訳として扱われますが、翻訳済みの文章の中から翻訳候補が表示されるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T175843Z" creationid="Yu-Tang" creationdate="20141103T175843Z">
+        <seg>編集作業中にタグの破損（たとえば部分的な削除）を防ぐには、このオプションのチェックを外しておいてください。</seg>
       </tuv>
     </tu>
     <tu>
