@@ -11617,6 +11617,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains options for displaying texts and modification informations in different ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T042113Z" creationid="Yu-Tang" creationdate="20141104T042113Z">
+        <seg>テキストおよび更新情報の表示に関するオプションを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains the option to have all source segments in bold and to mark the first non-unique segment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T024033Z">
@@ -13360,6 +13368,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T042910Z" creationid="Yu-Tang" creationdate="20141104T042910Z">
+        <seg>現在のログファイルを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T092634Z">
@@ -13380,6 +13396,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T092407Z">
         <seg>現在の分節が含む単語や語句が、プロジェクトの glossary フォルダーに入れてある用語集ファイルに登録されている用語と一致した場合は、それを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T042854Z" creationid="Yu-Tang" creationdate="20141104T042854Z">
+        <seg>各リリースごとに、新機能や改善、バグ修正などの情報を一覧で表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33580,6 +33604,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog box allows also to set external Post-processing commands (that are executed after &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T042705Z" creationid="Yu-Tang" creationdate="20141104T042705Z">
+        <seg>また同じダイアログボックス上で、後処理用外部コマンド（&lt;g0&gt;訳文ファイルを生成&lt;/g0&gt;した後に実行されます）も設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog can be accessed via the &lt;i0/&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt; item in the Main menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T065855Z">
@@ -35469,6 +35501,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T164811Z">
         <seg>３番目の列には追加情報を入れることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T043409Z" creationid="Yu-Tang" creationdate="20141104T043409Z">
+        <seg>ダイアログのタイトルには、現在使用中のログファイル名（名称は同時に実行中の OmegaT のインスタンス数によって変わります）が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48182,6 +48222,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T140232Z">
         <seg>omegat プロジェクトファイル -- &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the project (check &lt;e0&gt;Project)&lt;/e0&gt;, along with Memory, TMs (in /tm/) or Glossaries (if checked)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T043826Z" creationid="Yu-Tang" creationdate="20141104T043826Z">
+        <seg>&lt;e0&gt;プロジェクト&lt;/e0&gt;を選択した場合、内部メモリ、翻訳メモリ（/tm/ フォルダー内）、用語集のうちチェックを入れたものについて</seg>
       </tuv>
     </tu>
     <tu>
