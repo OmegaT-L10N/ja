@@ -20088,6 +20088,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;e0&gt;mt&lt;/e0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T045840Z" creationid="Yu-Tang" creationdate="20141104T044439Z">
+        <seg>&lt;e0&gt;mt&lt;/e0&gt; と名付けられたフォルダー内の TMX から編集ウィンドウに参考訳文を挿入すると、その分節は一時的に赤い背景色に変わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T032102Z">
@@ -33294,6 +33302,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T042052Z">
         <seg>可能な設定は以下の通りです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T045102Z" creationid="Yu-Tang" creationdate="20141104T045102Z">
+        <seg>その分節から離れると、背景色は通常に戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47016,6 +47032,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>or in a single file or a folder containing a set of files (check &lt;e0&gt;Files)&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T043948Z" creationid="Yu-Tang" creationdate="20141104T043948Z">
+        <seg>&lt;e0&gt;ファイル&lt;/e0&gt;を選択した場合、指定したファイル、または指定したフォルダーに含まれるファイル群について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words from Okapi
 (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
@@ -48342,6 +48366,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T044048Z">
         <seg>tm/auto フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/mt folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T044032Z" creationid="Yu-Tang" creationdate="20141104T044032Z">
+        <seg>tm/mt フォルダー</seg>
       </tuv>
     </tu>
     <tu>
