@@ -4655,6 +4655,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T034032Z" creationid="Yu-Tang" creationdate="20141104T034032Z">
+        <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;：整形されたファイルの中で、タグが欠けていたり、位置が変わったりしている箇所がないかを調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025420Z">
@@ -7689,8 +7697,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T010221Z">
-        <seg>LanguageTool はオープンソースのスタイルと文法チェックツールです。英語、フランス語、ドイツ語、ポーランド語、オランダ語、ルーマニア語など数多くの言語に対応しています。詳しくは&lt;u0&gt;対応する言語の一覧&lt;/u0&gt;を参照してください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T035850Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; はオープンソースのスタイルと文法チェックツールです。英語、フランス語、ドイツ語、ポーランド語、オランダ語、ルーマニア語など数多くの言語に対応しています。詳しくは&lt;u1&gt;対応する言語の一覧&lt;/u1&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13316,6 +13324,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130304T155226Z">
         <seg>［&lt;l0&gt;翻訳入力行の設定&lt;/l0&gt;］ダイアログを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T034417Z" creationid="Yu-Tang" creationdate="20141104T034417Z">
+        <seg>プロジェクトにおける参考訳文の一致率をファイル別に表示します。これは繰り返し、完全に一致、部分的に一致、一致しないといった基準で分類されており、それぞれについて分節数、単語数、文字数を集計しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24518,6 +24534,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: colors are customizable through the xxxx dialog box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T033928Z" creationid="Yu-Tang" creationdate="20141104T033928Z">
+        <seg>注：色は配色のカスタマイズ ダイアログから変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180811Z">
@@ -26034,6 +26058,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T092650Z">
         <seg>こうすることで、OmegaT 組み込みのヘルプブラウザーからは開けない外部サイトへのリンクも、たどって開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a dialog box where the location of external scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts dialog&lt;/l0&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T034948Z" creationid="Yu-Tang" creationdate="20141104T034948Z">
+        <seg>外部スクリプト管理用のウィンドウを表示します。このウィンドウ上で、スクリプトフォルダーの指定、スクリプトの編集や実行、ショートカットへの関連付けを行えます。詳しくは&lt;l0&gt;スクリプト ウィンドウ&lt;/l0&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29010,6 +29042,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Same as above, but only for the current document in translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T034303Z" creationid="Yu-Tang" creationdate="20141104T034303Z">
+        <seg>上記と同じ処理を、翻訳中の現在文書についてのみ実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samoan</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T151833Z">
@@ -29254,6 +29294,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T073139Z">
         <seg>スクリプト プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T034424Z" creationid="Yu-Tang" creationdate="20141104T034424Z">
+        <seg>スクリプト...</seg>
       </tuv>
     </tu>
     <tu>
