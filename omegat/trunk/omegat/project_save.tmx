@@ -35821,8 +35821,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>There are actually three match estimates available (66/66/30 in the case of the match #4 above).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T190715Z">
-        <seg>一致率には３種類の数値が表示されます（上図の４番目の参考訳文で言うと「66/66/30」の部分）。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T050239Z">
+        <seg>一致率には３種類の数値が表示されます（上図の４番目の参考訳文で言うと「66/66/80」の部分）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36022,6 +36022,14 @@ not accept this License.</seg>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130408T231306Z">
         <seg>These actions infringe copyright if you do
 not accept this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T050704Z" creationid="Yu-Tang" creationdate="20141104T050704Z">
+        <seg>対象は、原文ファイルフォルダーに存在し、OmegaT が扱える形式のファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36918,6 +36926,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T201538Z">
         <seg>この方法でも、OmegaT の設定を引き継ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This number is displayed in brackets, next to the "Project file" title.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T050919Z" creationid="Yu-Tang" creationdate="20141104T050919Z">
+        <seg>この数は、「翻訳対象ファイル一覧」のタイトルに続く括弧内に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37978,8 +37994,8 @@ script with ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T030927Z">
-        <seg>選択した（太字で表示された）参考訳文を、現在編集中の訳文と置換して使用するには&lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; を押します。現在のカーソル位置に挿入する場合は［&lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt;］を押します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T050332Z">
+        <seg>選択した（太字で表示された）参考訳文を、現在編集中の訳文と置換して使用するには&lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; を押します。現在のカーソル位置に挿入する場合は［&lt;g7&gt;Ctrl+I&lt;i8/&gt;&lt;/g7&gt;］を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39174,6 +39190,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn on Mac) to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Autotext entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T051924Z" creationid="Yu-Tang" creationdate="20141104T051924Z">
+        <seg>&lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt;（Mac では Cmd+PgUp/PgDn）を押すことで、&lt;e2&gt;用語集&lt;/e2&gt;、&lt;e3&gt;定型文&lt;/e3&gt;、&lt;e4&gt;未使用のタグ&lt;/e4&gt;、&lt;e5&gt;文字一覧&lt;/e5&gt;を連続的に切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T031058Z">
@@ -39386,6 +39410,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T083610Z">
         <seg>タグ検証の結果を閲覧できます。&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; で開き、&lt;k3&gt;Esc&lt;/k3&gt; で閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, close with &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T050038Z" creationid="Yu-Tang" creationdate="20141104T050038Z">
+        <seg>タグ検証の結果を閲覧できます。［&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;］で開き、［&lt;k4&gt;Esc&lt;/k4&gt;］で閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46232,6 +46264,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>match percentage (taking into account tokenisers)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T050540Z" creationid="Yu-Tang" creationdate="20141104T050540Z">
+        <seg>トークナイザーによる一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>match percentage when the tokenizer plugin is used</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T190749Z">
@@ -46844,6 +46884,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130408T231256Z">
         <seg>only if you received the object code with such an offer, in accord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open a dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T051416Z" creationid="Yu-Tang" creationdate="20141104T051416Z">
+        <seg>入力補完用のダイアログボックスを表示します（Mac：&lt;e0&gt;Esc&lt;/e0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48278,6 +48326,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T051207Z">
         <seg>表の最下部には、「すべての分節数」と「繰り返しを除いた分節数」、「繰り返しを除いた翻訳済み分節数」が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T050632Z" creationid="Yu-Tang" creationdate="20141104T050632Z">
+        <seg>プロジェクト中の翻訳可能なファイル数。</seg>
       </tuv>
     </tu>
     <tu>
