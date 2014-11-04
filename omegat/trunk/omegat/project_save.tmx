@@ -5671,6 +5671,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Priorities&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T021648Z" creationid="Yu-Tang" creationdate="20141104T021503Z">
+        <seg>&lt;p0&gt;用語集&lt;/p0&gt; &lt;s1&gt;優先順位&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Problems with glossaries&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T182400Z">
@@ -10320,8 +10328,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T173534Z" creationid="Yu-Tang" creationdate="20141103T173534Z">
-        <seg>既定では、スクリプトファイルは「scripts」フォルダーに格納されています。このフォルダーは、OmegaT のインストール先フォルダー（OmegaT.jar ファイルを含む）の配下にあります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T023816Z" creationid="Yu-Tang" creationdate="20141103T173534Z">
+        <seg>デフォルトでは、スクリプトファイルは「scripts」フォルダーに格納されています。このフォルダーは、OmegaT のインストール先フォルダー（OmegaT.jar ファイルを含む）の配下にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11744,6 +11752,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205537Z">
         <seg>コーンウォル語（Cornish）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Correct the error if necessary (in the case above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T021208Z" creationid="Yu-Tang" creationdate="20141104T021208Z">
+        <seg>必要に応じて訳文を修正（上の例でいえばタグ &lt;i2&gt;&lt;/i2&gt; ペアの欠落）します。&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; を押すと、他のエラーを修正するためにタグ検証ウィンドウに戻ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21672,6 +21688,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching this function – &lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; - opens a window containing all segments in the file containing suspected broken or bad tags in the translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T021120Z" creationid="Yu-Tang" creationdate="20141104T021120Z">
+        <seg>&lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; でこの機能を使用できます。専用のウィンドウには、壊れたもしくは誤ったと思しきタグを含む分節がすべて表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching this function – &lt;g0&gt;Ctrl+T&lt;i1/&gt;&lt;/g0&gt; - opens a window containing all segments in the file containing suspected broken or bad tags in the translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T192050Z">
@@ -26908,6 +26932,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T094012Z">
         <seg>printf 変数 - 確認しない、単純なものだけ確認、すべて確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Priority glossary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T021703Z" creationid="Yu-Tang" creationdate="20141104T021703Z">
+        <seg>用語集の優先順位</seg>
       </tuv>
     </tu>
     <tu>
@@ -33866,6 +33898,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T021405Z" creationid="Yu-Tang" creationdate="20141104T021405Z">
+        <seg>ファイルの場所は &lt;f1&gt;glossary&lt;/f1&gt; フォルダー内を指定する必要があります。ただし、直下ではなくもっと深い階層に置いてもかまいません（たとえば &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the file must be within the &lt;f1&gt;/glossary&lt;/f1&gt;folder, but it can be in a deeper directory (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T163916Z">
@@ -34569,6 +34609,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T024840Z" creationid="Yu-Tang" creationdate="20141104T023550Z">
+        <seg>優先度の高い用語集（デフォルトでは glossary/glossary.txt）から見つかった結果は、用語集ウィンドウと用語ヒントの最初に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T170655Z">
@@ -35262,6 +35310,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T182847Z">
         <seg>このプロセス全体を、Tck/Tcl ベースのスクリプトを介して操作・制御することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The window that opens when &lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt; is pressed features a 3-column table with a link to the segment, the original segment and the target segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T021152Z" creationid="Yu-Tang" creationdate="20141104T021152Z">
+        <seg>&lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt; により表示されるウインドウには３列の表があります。それぞれ分節へのリンク、原文の分節、訳文の分節です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37563,8 +37619,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Tokenizers are included in OmegaT and active by default.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T174824Z" creationid="Yu-Tang" creationdate="20141103T174824Z">
-        <seg>OmegaT のトークナイザーは、既定で有効になっています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T023914Z" creationid="Yu-Tang" creationdate="20141103T174824Z">
+        <seg>OmegaT のトークナイザーは、デフォルトで有効になっています。</seg>
       </tuv>
     </tu>
     <tu>
