@@ -4703,6 +4703,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T031445Z" creationid="Yu-Tang" creationdate="20141104T031445Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; または &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T164023Z">
@@ -4715,6 +4723,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T041533Z">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;、&lt;k3&gt;Enter&lt;/k3&gt; または &lt;k4&gt;Return&lt;/k4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;Enter&lt;/k5&gt; &lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T031500Z" creationid="Yu-Tang" creationdate="20141104T031500Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;Enter&lt;/k5&gt; &lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4931,6 +4947,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T030546Z" creationid="Yu-Tang" creationdate="20141104T030546Z">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T031526Z" creationid="Yu-Tang" creationdate="20141104T031526Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17877,6 +17901,14 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T031612Z" creationid="Yu-Tang" creationdate="20141104T031612Z">
+        <seg>チェックがある場合、ノーブレークスペース（自動改行しないスペース文字）が灰色の背景色で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T024008Z">
@@ -17929,6 +17961,14 @@ circumstances.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T023700Z">
         <seg>チェックがある場合、未翻訳の分節が紫色でハイライト表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T031811Z" creationid="Yu-Tang" creationdate="20141104T031811Z">
+        <seg>チェックがある場合、スペース文字が小さな点で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23458,6 +23498,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T041620Z">
         <seg>翻訳入力行を、１つ前の分節に移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T031414Z" creationid="Yu-Tang" creationdate="20141104T031414Z">
+        <seg>未翻訳分節を飛ばして、次の翻訳済み分節に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30978,6 +31026,14 @@ can do so.</seg>
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T161123Z">
+        <seg>選択中の参考訳文の元分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T031522Z" creationid="Yu-Tang" creationdate="20141104T031522Z">
         <seg>選択中の参考訳文の元分節</seg>
       </tuv>
     </tu>
