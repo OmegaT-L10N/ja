@@ -6927,6 +6927,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search and replace - Ctrl+K&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T195115Z" creationid="Yu-Tang" creationdate="20141110T195115Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;検索と置換 - Ctrl+K&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Select All - Ctrl+A&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T200826Z">
@@ -17997,6 +18005,14 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in /tm/auto for example) are displayed in color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T194919Z" creationid="Yu-Tang" creationdate="20141110T194919Z">
+        <seg>チェックがある場合、（たとえば /tm/auto フォルダー内の TMX ファイルから）自動挿入された全分節の背景に色付けされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064136Z">
@@ -25986,6 +26002,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052722Z">
         <seg>/tm フォルダー（参考訳文用の翻訳メモリ配置フォルダー）を開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T195700Z" creationid="Yu-Tang" creationdate="20141110T195630Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt; で検索と置換ウィンドウを開き、&lt;e3&gt;［検索文字列］&lt;/e3&gt;欄に検索したい単語または正規表現を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35818,6 +35842,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T195943Z" creationid="Yu-Tang" creationdate="20141110T195943Z">
+        <seg>&lt;e0&gt;［検索］&lt;/e0&gt;ボタンをクリックすると、検索条件に一致したすべての分節が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122301Z">
@@ -39352,8 +39384,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use this command to register the translation to be identical to the source, even if "Allow translation to be equal to source" (in Options/Editing Behaviour...) is not checked.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T193111Z" creationid="Yu-Tang" creationdate="20141110T193111Z">
-        <seg>原文と同じ訳文を登録できます。このコマンドは、［設定］→［翻訳入力行...］の［原文と同じ訳文を許可］にチェックが入っていない場合でも有効です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T194523Z" creationid="Yu-Tang" creationdate="20141110T193111Z">
+        <seg>原文と同じ訳文を登録できます。［設定］→［翻訳入力行...］の［原文と同じ訳文を許可］にチェックが入っていない場合でも、有効です。</seg>
       </tuv>
     </tu>
     <tu>
