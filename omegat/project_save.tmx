@@ -3747,6 +3747,14 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T230328Z" creationid="Yu-Tang" creationdate="20141110T230233Z">
+        <seg>&lt;e0&gt;閉じる：&lt;/e0&gt;変更なしにウィンドウを閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>実際の挙動と異なるため、バグ登録済み（https://sourceforge.net/tracker/?func=detail&amp;aid=3603484&amp;group_id=68187&amp;atid=912617</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
@@ -4178,6 +4186,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T022033Z">
         <seg>&lt;e0&gt;タグを削除&lt;/e0&gt; チェックボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences, (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T230018Z" creationid="Yu-Tang" creationdate="20141110T225856Z">
+        <seg>&lt;e0&gt;すべて置換：&lt;/e0&gt;すべての検索文字列を置換後の文字列で置き換えます（事前に置換件数を示した確認ダイアログが表示されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T231332Z" creationid="Yu-Tang" creationdate="20141110T230108Z">
+        <seg>&lt;e0&gt;置換フィルター：&lt;/e0&gt;編集ウィンドウに置換用のフィルターをかけ、&lt;e1&gt;編集ウィンドウのヘッダー&lt;/e1&gt;に現れるボタンを使って、1 件ずつ置換します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11147,6 +11171,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T035928Z">
         <seg>&lt;e0&gt;［初期値を復元］&lt;/e0&gt; をクリックすると、それまでのフィルター設定をリセットし初期設定に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T231302Z" creationid="Yu-Tang" creationdate="20141110T230753Z">
+        <seg>&lt;e2&gt;［置換して次へ］&lt;/e2&gt;か&lt;e3&gt;［次を検索］&lt;/e3&gt;をクリックしていき、&lt;e4&gt;［フィルターを解除］&lt;/e4&gt;でフィルターを解除します。</seg>
       </tuv>
     </tu>
     <tu>
