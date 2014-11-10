@@ -11177,8 +11177,8 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T231302Z" creationid="Yu-Tang" creationdate="20141110T230753Z">
-        <seg>&lt;e2&gt;［置換して次へ］&lt;/e2&gt;か&lt;e3&gt;［次を検索］&lt;/e3&gt;をクリックしていき、&lt;e4&gt;［フィルターを解除］&lt;/e4&gt;でフィルターを解除します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T231337Z" creationid="Yu-Tang" creationdate="20141110T230753Z">
+        <seg>&lt;e2&gt;［置換して次へ］&lt;/e2&gt;か&lt;e3&gt;［次を検索］&lt;/e3&gt;をクリックしていき、最後に&lt;e4&gt;［フィルターを解除］&lt;/e4&gt;でフィルターを解除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15013,6 +15013,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T232051Z" creationid="Yu-Tang" creationdate="20141110T232051Z">
+        <seg>例外的に、&lt;e0&gt;未翻訳分節&lt;/e0&gt;にチェックを入れると、翻訳前の分節の原文も検索対象になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180747Z">
@@ -18215,6 +18223,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T150910Z">
         <seg>言語コードと国コードいずれも一致しない場合、その分節は無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T232912Z" creationid="Yu-Tang" creationdate="20141110T232912Z">
+        <seg>置換が実行されなかった場合、未翻訳分節はそのままです。つまり、原文は訳文にコピーされません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26046,6 +26062,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T233252Z" creationid="Yu-Tang" creationdate="20141110T233252Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; で文字列検索ウィンドウを開き、&lt;e3&gt;［検索文字列］&lt;/e3&gt;欄に検索したい単語または語句を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search window with &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; and enter the word or phrase you wish to search for in the Search for box.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051521Z">
@@ -29574,6 +29598,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T102617Z">
         <seg>検索方法と設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T231454Z" creationid="Yu-Tang" creationdate="20141110T231454Z">
+        <seg>検索オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T231605Z" creationid="Yu-Tang" creationdate="20141110T231554Z">
+        <seg>検索オプションは、&lt;l0&gt;検索ウィンドウ&lt;/l0&gt;に表示される検索オプションとほぼ同じです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35842,6 +35882,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The word or phrase is entered in the &lt;e7&gt;Search for&lt;/e7&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T233327Z" creationid="Yu-Tang" creationdate="20141110T233327Z">
+        <seg>この場合、&lt;e7&gt;［検索文字列］&lt;/e7&gt;欄に単語または語句が自動的に入力されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The word or phrase is entered in the Search for box automatically.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051806Z">
@@ -37816,6 +37864,15 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T042231Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; を複数起動したい場合は、代わりに &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/Contents/MacOS/&lt;/e3&gt; にある &lt;e2&gt;JavaApplicationStub&lt;/e2&gt; ファイルをダブルクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Yu-Tang）この括弧内は訳す必要がある？ あまり訳す必要性を感じなかったのですが…。</note>
+      <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on Memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T232648Z" creationid="Yu-Tang" creationdate="20141110T232213Z">
+        <seg>検索条件に一致した未翻訳分節に対しては、原文を訳文にコピーした上で置換が実行されます。</seg>
       </tuv>
     </tu>
     <tu>
