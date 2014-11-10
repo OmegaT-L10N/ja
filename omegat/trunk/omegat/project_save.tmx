@@ -11055,6 +11055,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor pane (if "Mark Auto-Populated Segments" option, in View tab, is checked).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T044210Z" creationid="Yu-Tang" creationdate="20141110T043553Z">
+        <seg>このオプションにチェックを入れると、auto フォルダー内の翻訳メモリから自動挿入された分節であることを示す情報が &lt;f0&gt;project_save.tmx&lt;/f0&gt; ファイルに記録されます。その場合は、［表示］→［auto フォルダー由来の分節を色付け］にチェックを入れることで、該当する分節の背景色を変えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T161908Z">
@@ -11211,6 +11219,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T172353Z" creationid="Yu-Tang" creationdate="20141103T172353Z">
         <seg>&lt;g0&gt;［ツール］→&lt;/g0&gt;&lt;g1&gt;［スクリプト...］&lt;/g1&gt;をクリックすると、スクリプト ダイアログが開きます：&lt;s2&gt; &lt;s3&gt;スクリプト ダイアログ&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T043010Z" creationid="Yu-Tang" creationdate="20141110T043010Z">
+        <seg>&lt;g0&gt;［ツール］→&lt;/g0&gt;&lt;g1&gt;［スクリプト...］&lt;/g1&gt;をクリックすると、スクリプト ウィンドウが開きます：&lt;s2&gt; &lt;s3&gt;スクリプト ウィンドウ&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33146,6 +33162,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T043109Z" creationid="Yu-Tang" creationdate="20141110T043109Z">
+        <seg>スクリプト ウィンドウ上では、既存のスクリプトをテキスト欄に読み込んだり、いま開いているプロジェクトに対して実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Spanish translation is better than the Slovenian.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T125611Z">
@@ -41178,6 +41202,14 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T173703Z" creationid="Yu-Tang" creationdate="20141103T173703Z">
         <seg>このフォルダーに新しいスクリプトファイルを追加すると、スクリプト ダイアログの一覧に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T043141Z" creationid="Yu-Tang" creationdate="20141110T043141Z">
+        <seg>このフォルダーに新しいスクリプトファイルを追加すると、スクリプト ウィンドウの一覧に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
