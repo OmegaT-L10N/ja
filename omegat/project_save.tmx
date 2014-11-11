@@ -4230,14 +4230,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search [vb: what's the difference between "Project" and "Project+Memory"?].</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T000209Z" creationid="Yu-Tang" creationdate="20141111T000209Z">
-        <seg>、</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T175029Z">
@@ -10911,6 +10903,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164024Z" creationid="Yu-Tang" creationdate="20141111T164024Z">
+        <seg>&lt;e2&gt;翻訳メモリ&lt;/e2&gt;にチェックを入れると、&lt;f3&gt;tm&lt;/f3&gt; フォルダー内の翻訳メモリが検索対象になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Rules</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143351Z">
@@ -14590,6 +14590,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T042653Z">
         <seg>ProjectLocker から取得した URL を［&lt;e0&gt;リポジトリのURL&lt;/e0&gt;］欄に入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T163608Z" creationid="Yu-Tang" creationdate="20141111T163608Z">
+        <seg>&lt;e0&gt;［置換後の文字列］&lt;/e0&gt;欄に新しい語句を入力し（正規表現は使えません）、以下のいずれかをクリックします：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26120,8 +26128,8 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T195700Z" creationid="Yu-Tang" creationdate="20141110T195630Z">
-        <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt; で検索と置換ウィンドウを開き、&lt;e3&gt;［検索文字列］&lt;/e3&gt;欄に検索したい単語または正規表現を入力します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T163032Z" creationid="Yu-Tang" creationdate="20141110T195630Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt; で検索と置換ウィンドウを開き、&lt;e3&gt;［検索文字列］&lt;/e3&gt;欄に検索したい語句または正規表現を入力します。</seg>
       </tuv>
     </tu>
     <tu>
