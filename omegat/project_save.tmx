@@ -4230,6 +4230,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Files: &lt;/e0&gt;search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164536Z" creationid="Yu-Tang" creationdate="20141111T164536Z">
+        <seg>&lt;e0&gt;ファイルから検索：&lt;/e0&gt;単独のファイル、またはフォルダーに含まれるファイル群を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T175029Z">
@@ -10905,8 +10913,16 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164024Z" creationid="Yu-Tang" creationdate="20141111T164024Z">
-        <seg>&lt;e2&gt;翻訳メモリ&lt;/e2&gt;にチェックを入れると、&lt;f3&gt;tm&lt;/f3&gt; フォルダー内の翻訳メモリが検索対象になります。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164409Z" creationid="Yu-Tang" creationdate="20141111T164024Z">
+        <seg>&lt;e2&gt;翻訳メモリ&lt;/e2&gt;にチェックを入れると、&lt;f3&gt;tm&lt;/f3&gt; フォルダー内の翻訳メモリファイルが検索対象になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;e4&gt;Glossaries&lt;/e4&gt; to include the glossaries located in the &lt;f5&gt;glossary&lt;/f5&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164405Z" creationid="Yu-Tang" creationdate="20141111T164220Z">
+        <seg>&lt;e4&gt;用語集&lt;/e4&gt;にチェックを入れると、&lt;f5&gt;glossary&lt;/f5&gt; フォルダー内の用語集ファイルが検索対象になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19322,6 +19338,14 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T201949Z">
         <seg>&lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; ファイルに変更を加えていたり、バッチファイルを使っている場合は、それらを新しいフォルダーへコピーする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T165355Z" creationid="Yu-Tang" creationdate="20141111T165355Z">
+        <seg>OmegaT の &lt;f0&gt;project_save.tmx&lt;/f0&gt; よりも優先度が高いことが明らかな TMX がある場合は、そのファイルを /tm/enforce に配置してください。そこからの分節は、既存の翻訳を無条件に上書きします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40441,6 +40465,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164645Z" creationid="Yu-Tang" creationdate="20141111T164645Z">
+        <seg>（翻訳メモリではない）複数のファイルを検索する場合、対象となるファイルは、OmegaT が対応している原文ファイル形式に限定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155605Z">
@@ -48671,6 +48703,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T044048Z">
         <seg>tm/auto フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/enforce folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164820Z" creationid="Yu-Tang" creationdate="20141111T164820Z">
+        <seg>tm/enforce フォルダー</seg>
       </tuv>
     </tu>
     <tu>
