@@ -3781,6 +3781,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T235311Z" creationid="Yu-Tang" creationdate="20141110T235059Z">
+        <seg>&lt;e0&gt;表示：繰り返し分節：&lt;/e0&gt;内容が同じ分節が複数見つかった場合でも、検索結果にすべての分節を繰り返し表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is founded is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T235622Z" creationid="Yu-Tang" creationdate="20141110T235124Z">
+        <seg>&lt;e0&gt;表示：ファイル名：&lt;/e0&gt;分節ごとに、その分節が属するファイル名を先頭に表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T100056Z">
@@ -4210,6 +4226,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T071317Z">
         <seg>&lt;e0&gt;サンプルテキスト：&lt;/e0&gt;選択した字体をその場でプレビューできる領域です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search [vb: what's the difference between "Project" and "Project+Memory"?].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T000209Z" creationid="Yu-Tang" creationdate="20141111T000209Z">
+        <seg>、</seg>
       </tuv>
     </tu>
     <tu>
