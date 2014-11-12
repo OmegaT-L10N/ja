@@ -16842,6 +16842,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generalities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T182321Z" creationid="Yu-Tang" creationdate="20141112T182321Z">
+        <seg>概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T203946Z">
@@ -20979,6 +20987,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171359Z">
         <seg>既定値訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T183425Z" creationid="Yu-Tang" creationdate="20141112T183206Z">
+        <seg>公開と非公開、両方のデータを取り扱うことができます。既存の文書から用語を抽出し、複数の情報源から訳語を自動生成することで、非公開の用語集（「コレクション」と呼ばれます）を作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25130,6 +25146,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT allows accessing the public part of TaaS without any registration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T183732Z" creationid="Yu-Tang" creationdate="20141112T183732Z">
+        <seg>OmegaT から TaaS の公開データを利用する分には、特に登録不要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T171842Z" creationid="Yu-Tang" creationdate="20141103T171842Z">
@@ -27880,6 +27904,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T172101Z">
         <seg>疑似（Pseudo）翻訳メモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Public and private collections</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T183500Z" creationid="Yu-Tang" creationdate="20141112T183500Z">
+        <seg>公開と非公開コレクション</seg>
       </tuv>
     </tu>
     <tu>
@@ -33423,6 +33455,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173004Z">
         <seg>TMX の原文言語 {0} と、プロジェクトの原文言語 {1} が異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T182753Z" creationid="Yu-Tang" creationdate="20141112T182753Z">
+        <seg>TaaS はヨーロッパ言語向けの用語管理サービスです。https://demo.taas-project.eu/info で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39876,6 +39916,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T085744Z">
         <seg>TMX ファイルと代替言語ペア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using TaaS in OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T182229Z" creationid="Yu-Tang" creationdate="20141112T182146Z">
+        <seg>TaaS の使用</seg>
       </tuv>
     </tu>
     <tu>
