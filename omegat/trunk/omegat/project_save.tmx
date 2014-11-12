@@ -20264,6 +20264,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T192243Z" creationid="Yu-Tang" creationdate="20141112T192243Z">
+        <seg>ダイアログ上で、すべての分野から用語を取得するか、特定の一分野からだけ取得するかを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093418Z">
@@ -23851,6 +23859,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T041701Z">
         <seg>翻訳入力行を、指定した分節番号に移動させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T192750Z" creationid="Yu-Tang" creationdate="20141112T192750Z">
+        <seg>&lt;g0&gt;参考訳文&lt;/g0&gt;ウィンドウ内で選択されている参考訳文に対応する分節へ移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28585,6 +28601,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T005618Z">
         <seg>先頭と末尾のタグを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags including the leading and trailing ones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T192502Z" creationid="Yu-Tang" creationdate="20141112T192502Z">
+        <seg>先頭と末尾のタグを削除：先頭と末尾のタグを含むすべてのタグを表示したい場合は、この設定のチェックを外してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38127,8 +38151,8 @@ as a Source Forge user.</seg>
       <tuv lang="EN">
         <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T191928Z" creationid="Yu-Tang" creationdate="20141112T191928Z">
-        <seg>データ量を制限するには、</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T192041Z" creationid="Yu-Tang" creationdate="20141112T191928Z">
+        <seg>データ量を制限するには、&lt;e0&gt;TaaS 用語分野を選択&lt;/e0&gt;から特定分野を選んでください。</seg>
       </tuv>
     </tu>
     <tu>
