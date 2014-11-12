@@ -3748,6 +3748,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T191421Z" creationid="Yu-Tang" creationdate="20141112T190625Z">
+        <seg>&lt;e0&gt;TaaS 用語集をダウンロード&lt;/e0&gt;：現在のプロジェクトの原文言語と訳文言語に応じた既存の用語集を閲覧し、ダウンロードできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T230328Z" creationid="Yu-Tang" creationdate="20141110T230233Z">
@@ -4314,6 +4322,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T100609Z">
         <seg>&lt;e0&gt;以下のタグで分節化：&lt;/e0&gt; HTML の &lt;br&gt; タグがある場所を段落とみなして分節化することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T191640Z" creationid="Yu-Tang" creationdate="20141112T191417Z">
+        <seg>&lt;e0&gt;TaaS 用語を参照&lt;/e0&gt;：チェックを入れると、分節を移動するたびに TaaS データを検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8469,6 +8485,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T190050Z" creationid="Yu-Tang" creationdate="20141112T190050Z">
+        <seg>TaaS サービスへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T182607Z">
@@ -8892,6 +8916,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052607Z">
         <seg>すべての HTML ファイルを処理します。正規表現の規則にしたがって、拡張子の区切りを示すドット「.」は「\.」のようにエスケープする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All collections (public and private) will be queried for the source and target language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T191838Z" creationid="Yu-Tang" creationdate="20141112T191838Z">
+        <seg>すべての用語集（公開、非公開とも）は、使用中の原文言語と訳文言語に限定して検索されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11275,6 +11307,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133957Z">
         <seg>メニュー項目 {0} をクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;e0&gt;Options, Glossary&lt;/e0&gt; to display the following options:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T190407Z" creationid="Yu-Tang" creationdate="20141112T190407Z">
+        <seg>&lt;e0&gt;［設定］→［用語集］&lt;/e0&gt;をクリックし、次のオプションを表示します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20998,11 +21038,12 @@ Simply launch the installation program.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）日本語訳では TaaS 関連の "Collection" をすでに「用語集」と意訳しているため、ここでは原文の括弧内の訳を割愛しました。</note>
       <tuv lang="EN">
         <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T183425Z" creationid="Yu-Tang" creationdate="20141112T183206Z">
-        <seg>公開と非公開、両方のデータを取り扱うことができます。既存の文書から用語を抽出し、複数の情報源から訳語を自動生成することで、非公開の用語集（「コレクション」と呼ばれます）を作成できます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T190806Z" creationid="Yu-Tang" creationdate="20141112T183206Z">
+        <seg>公開と非公開、両方のデータを取り扱うことができます。既存の文書から用語を抽出し、複数の情報源から訳語を自動生成することで、非公開の用語集を作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27512,6 +27553,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T191156Z" creationid="Yu-Tang" creationdate="20141112T191156Z">
+        <seg>非公開の用語集は、太字で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130329T042421Z">
@@ -27926,8 +27975,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Public and private collections</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T183500Z" creationid="Yu-Tang" creationdate="20141112T183500Z">
-        <seg>公開と非公開コレクション</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T191706Z" creationid="Yu-Tang" creationdate="20141112T183500Z">
+        <seg>公開用語集と非公開用語集</seg>
       </tuv>
     </tu>
     <tu>
@@ -33746,6 +33795,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T191314Z" creationid="Yu-Tang" creationdate="20141112T191314Z">
+        <seg>用語集をダウンロードすると、現在の用語集フォルダー内に TBX 形式で保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145444Z">
@@ -38064,6 +38121,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T042231Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; を複数起動したい場合は、代わりに &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/Contents/MacOS/&lt;/e3&gt; にある &lt;e2&gt;JavaApplicationStub&lt;/e2&gt; ファイルをダブルクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T191928Z" creationid="Yu-Tang" creationdate="20141112T191928Z">
+        <seg>データ量を制限するには、</seg>
       </tuv>
     </tu>
     <tu>
