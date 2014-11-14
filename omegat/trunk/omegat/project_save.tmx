@@ -19805,6 +19805,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141114T064816Z" creationid="Yu-Tang" creationdate="20141114T064418Z">
+        <seg>複数訳文の識別時にファイルのフルパス情報を無視する：OmegaT は既定で、原文ファイル名を複数訳文の識別基準のひとつに利用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145917Z">
@@ -20146,6 +20154,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165612Z">
         <seg>メモを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141114T063908Z" creationid="Yu-Tang" creationdate="20141114T063908Z">
+        <seg>分節化しないプロジェクトの場合、このオプションのチェックを外すことによって、それらの空白文字を保持することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27439,6 +27455,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces (for layout matters) that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141114T064435Z" creationid="Yu-Tang" creationdate="20141114T064355Z">
+        <seg>すべてのタグの空白を維持：原文ファイルにとって空白文字が（レイアウトの都合上）重要な意味を持ち、それを無視すべきでない場合は、このオプションのチェックを入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T035554Z">
@@ -28617,6 +28641,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130314T011012Z">
         <seg>分節化しないプロジェクトから、先頭と末尾の空白文字を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141114T064641Z" creationid="Yu-Tang" creationdate="20141114T063720Z">
+        <seg>分節化しないプロジェクトから、先頭と末尾の空白文字を削除：OmegaT は既定で、先頭と末尾の空白文字を削除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40459,8 +40491,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141114T055314Z" creationid="Yu-Tang" creationdate="20141114T055314Z">
-        <seg>警告:</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141114T063611Z" creationid="Yu-Tang" creationdate="20141114T055314Z">
+        <seg>警告：Microsoft Open XML 形式のファイル（docx や xlsx など）について、すべてのタグを表示した場合は、決して先頭のタグの前にテキストを入力しないでください（そのタグは技術的な理由で、常に分節の先頭に置かなければなりません）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45797,6 +45829,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T043033Z">
         <seg>文単位の分節化が有効になっている場合は、ここで選択した設定によってさらに分節化されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments, or some sort of ID depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141114T065246Z" creationid="Yu-Tang" creationdate="20141114T065203Z">
+        <seg>このオプションにチェックを入れると、ファイル名は識別に利用されません。複数訳文の識別には、ファイル名以外の文脈情報（前後の分節や、ファイル形式によってはある種の ID）だけが使用されます。</seg>
       </tuv>
     </tu>
     <tu>
