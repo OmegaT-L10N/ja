@@ -40457,6 +40457,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141114T055314Z" creationid="Yu-Tang" creationdate="20141114T055314Z">
+        <seg>警告:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warranty</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070856Z">
