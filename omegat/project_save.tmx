@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11481,8 +11481,9 @@ software--to make sure the software is free for all its users.</seg>
       <tuv lang="EN">
         <seg>Close the current OmegaT instance</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041154Z" creationid="Yu-Tang" creationdate="20141126T041154Z">
-        <seg>現在の OmegaT のインスタンスを終了します</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T091515Z" creationid="Yu-Tang" creationdate="20141126T041154Z">
+        <seg>現在の OmegaT のインスタンスを終了します
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -11949,8 +11950,9 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041101Z" creationid="Yu-Tang" creationdate="20141126T041101Z">
-        <seg>&lt;プロジェクト&gt;/omegat/project_save.tmx ファイルを安全な場所にコピーします</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T091509Z" creationid="Yu-Tang" creationdate="20141126T041101Z">
+        <seg>&lt;プロジェクト&gt;/omegat/project_save.tmx ファイルを安全な場所にコピーします
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -14116,8 +14118,9 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
         <seg>During SVN error({0}),
 project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041720Z" creationid="Yu-Tang" creationdate="20141126T033336Z">
-        <seg>SVN エラー（{0}）が発生したため、project_save.tmx をアップロードできませんでした。現在、SVN サーバーとは同期していません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T091500Z" creationid="Yu-Tang" creationdate="20141126T033336Z">
+        <seg>SVN エラー（{0}）が発生したため、project_save.tmx をアップロードできませんでした。現在、SVN サーバーとは同期していません。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -28864,8 +28867,9 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T042034Z" creationid="Yu-Tang" creationdate="20141126T042034Z">
-        <seg>新たにダウンロードしたプロジェクト内の &lt;プロジェクト&gt;/omegat/project_save.tmx ファイルを、安全な場所にコピーしておいたファイルで置き換えます</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T091541Z" creationid="Yu-Tang" creationdate="20141126T042034Z">
+        <seg>新たにダウンロードしたプロジェクト内の &lt;プロジェクト&gt;/omegat/project_save.tmx ファイルを、安全な場所にコピーしておいたファイルで置き換えます
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -31851,8 +31855,9 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041522Z" creationid="Yu-Tang" creationdate="20141126T041522Z">
-        <seg>OmegaT を再度起動し、チームプロジェクトをダウンロードしてから、OmegaT を終了します</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T091528Z" creationid="Yu-Tang" creationdate="20141126T041522Z">
+        <seg>OmegaT を再度起動し、チームプロジェクトをダウンロードしてから、OmegaT を終了します
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -38007,8 +38012,9 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To be sure that no translation will be lost, you need to:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041837Z" creationid="Yu-Tang" creationdate="20141126T040926Z">
-        <seg>翻訳が失われることを避けるために、次の手順を行ってください：</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T091503Z" creationid="Yu-Tang" creationdate="20141126T040926Z">
+        <seg>翻訳が失われることを避けるために、次の手順を行ってください：
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -40588,8 +40594,9 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>WARNING: all unsaved data will be lost</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041424Z" creationid="Yu-Tang" creationdate="20141126T041342Z">
-        <seg>警告：保存していないデータはすべて失われます</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T091524Z" creationid="Yu-Tang" creationdate="20141126T041342Z">
+        <seg>警告：保存していないデータはすべて失われます
+</seg>
       </tuv>
     </tu>
     <tu>
