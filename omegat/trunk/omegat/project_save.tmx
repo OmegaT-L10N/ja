@@ -11479,6 +11479,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the current OmegaT instance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041154Z" creationid="Yu-Tang" creationdate="20141126T041154Z">
+        <seg>現在の OmegaT のインスタンスを終了します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close the project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T140101Z">
@@ -11935,6 +11943,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140815Z">
         <seg>コピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041101Z" creationid="Yu-Tang" creationdate="20141126T041101Z">
+        <seg>&lt;プロジェクト&gt;/omegat/project_save.tmx ファイルを安全な場所にコピーします</seg>
       </tuv>
     </tu>
     <tu>
@@ -14100,8 +14116,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
         <seg>During SVN error({0}),
 project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T033408Z" creationid="Yu-Tang" creationdate="20141126T033336Z">
-        <seg>SVN エラー（{0}）が発生したため、project_save.tmx は実際にはアップロードされていません。SVN は不安定な状況になりました。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041720Z" creationid="Yu-Tang" creationdate="20141126T033336Z">
+        <seg>SVN エラー（{0}）が発生したため、project_save.tmx をアップロードできませんでした。現在、SVN サーバーとは同期していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28734,6 +28750,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove the project folder manually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041332Z" creationid="Yu-Tang" creationdate="20141126T041332Z">
+        <seg>プロジェクトフォルダーを手動で削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151553Z">
@@ -28834,6 +28858,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T033111Z">
         <seg>&lt;l0&gt;&lt;ファイル名&gt;&lt;/l0&gt; には、作成したいファイル名を指定します。絶対パスか、あるいは &lt;a1&gt;OmegaT&lt;/a1&gt; の起動フォルダーを基準にした相対パスで指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T042034Z" creationid="Yu-Tang" creationdate="20141126T042034Z">
+        <seg>新たにダウンロードしたプロジェクト内の &lt;プロジェクト&gt;/omegat/project_save.tmx ファイルを、安全な場所にコピーしておいたファイルで置き換えます</seg>
       </tuv>
     </tu>
     <tu>
@@ -31817,6 +31849,22 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start OmegaT again, download the team project, close OmegaT</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041522Z" creationid="Yu-Tang" creationdate="20141126T041522Z">
+        <seg>OmegaT を再度起動し、チームプロジェクトをダウンロードしてから、OmegaT を終了します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start OmegaT and continue to translate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T042104Z" creationid="Yu-Tang" creationdate="20141126T042104Z">
+        <seg>OmegaT を起動して、翻訳作業を再開します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T113636Z">
@@ -33633,6 +33681,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173004Z">
         <seg>TMX の原文言語 {0} と、プロジェクトの原文言語 {1} が異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T042138Z" creationid="Yu-Tang" creationdate="20141126T042138Z">
+        <seg>TaaS はヨーロッパ言語（およびロシア語）向けの用語管理サービスです。https://demo.taas-project.eu/info で提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37949,6 +38005,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To be sure that no translation will be lost, you need to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041837Z" creationid="Yu-Tang" creationdate="20141126T040926Z">
+        <seg>翻訳が失われることを避けるために、次の手順を行ってください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To browse the archives of the user group, go to:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T045530Z">
@@ -40518,6 +40582,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043647Z">
         <seg>Volker Berlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNING: all unsaved data will be lost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T041424Z" creationid="Yu-Tang" creationdate="20141126T041342Z">
+        <seg>警告：保存していないデータはすべて失われます</seg>
       </tuv>
     </tu>
     <tu>
