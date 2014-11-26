@@ -4222,6 +4222,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T032520Z" creationid="Yu-Tang" creationdate="20141126T032520Z">
+        <seg>&lt;e0&gt;すべて置換：&lt;/e0&gt;すべての検索文字列を置換後の文字列で置き換えます（事前に置換件数を示した確認ダイアログが表示されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences, (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T230018Z" creationid="Yu-Tang" creationdate="20141110T225856Z">
@@ -14089,6 +14097,15 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T033408Z" creationid="Yu-Tang" creationdate="20141126T033336Z">
+        <seg>SVN エラー（{0}）が発生したため、project_save.tmx は実際にはアップロードされていません。SVN は不安定な状況になりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive 
 several security warnings.</seg>
       </tuv>
@@ -20450,6 +20467,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T090906Z">
         <seg>ウィンドウには［戻る］と［目次］の２つのボタンがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T032716Z" creationid="Yu-Tang" creationdate="20141126T032716Z">
+        <seg>このような状況では、蘭中翻訳を、蘭英の翻訳メモリを介して行うしかありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35739,6 +35764,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T032805Z" creationid="Yu-Tang" creationdate="20141126T032805Z">
+        <seg>この例における解決策は、既存の翻訳メモリを tm/tmx2source/ フォルダーにコピーし、訳文言語を示すために ZH_CN.tmx とリネームすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source code for a work means the preferred form of the work for
 making modifications to it.</seg>
       </tuv>
@@ -38238,6 +38271,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T032549Z" creationid="Yu-Tang" creationdate="20141126T032549Z">
+        <seg>検索条件に一致した未翻訳分節に対しては、原文を訳文にコピーした上で置換が実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make sure that the tokenizers are being used, open a project and check the log information from the console.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T173808Z">
@@ -39475,6 +39516,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130406T230044Z">
         <seg>不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T033001Z" creationid="Yu-Tang" creationdate="20141126T033001Z">
+        <seg>未知の SVN エラー</seg>
       </tuv>
     </tu>
     <tu>
