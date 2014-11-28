@@ -2653,8 +2653,11 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145136Z">
-        <seg>2) コマンドラインまたは OmegaT 起動スクリプトで java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar と指定し、OmegaT が使用できるメモリを増やす（現在の設定：{0} MB）</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T125136Z">
+        <seg>2) コマンドラインまたは OmegaT 起動スクリプトで 
+java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar 
+と指定し、OmegaT が使用できるメモリを増やす
+（現在の設定：{0} MB）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9356,8 +9359,10 @@ organization, or merging organizations.</seg>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170700Z">
-        <seg>TMX ファイル {0} の構文解析中に例外が発生しました。TMX ファイルの読み込みを中止します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T130933Z">
+        <seg>TMX ファイル
+{0}
+の構文解析中に例外が発生しました。TMX ファイルの読み込みを中止します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9755,8 +9760,10 @@ paragraph of section 11).</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133642Z">
-        <seg>この場合、すべての設定が初期値となり、予期しない挙動が発生する可能性もありますが、動作としては正常です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T130427Z">
+        <seg>この場合、すべての設定が初期値となり、
+予期しない挙動が発生する可能性もありますが、動作と
+しては正常です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14120,8 +14127,9 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
         <seg>During SVN error({0}),
 project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T091500Z" creationid="Yu-Tang" creationdate="20141126T033336Z">
-        <seg>SVN エラー（{0}）が発生したため、project_save.tmx をアップロードできませんでした。現在、SVN サーバーとは同期していません。
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T125818Z" creationid="Yu-Tang" creationdate="20141126T033336Z">
+        <seg>SVN エラー（{0}）が発生したため、
+project_save.tmx をアップロードできませんでした。現在、SVN サーバーとは同期していません。
 </seg>
       </tuv>
     </tu>
@@ -15534,8 +15542,9 @@ these terms and conditions.</seg>
       <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160640Z">
-        <seg>致命的なエラーが発生しました。プロジェクトファイルに .recover 拡張子を付けてバックアップを保存しています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T125427Z">
+        <seg>致命的なエラーが発生しました。プロジェクトファイルに .recover 
+拡張子を付けてバックアップを保存しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17573,8 +17582,9 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       <tuv lang="EN">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180758Z">
-        <seg>フィルターで処理する原文ファイル名の構成例の指定、訳文ファイル名のカスタマイズ、読み込む原文ファイルと生成する訳文ファイルのエンコーディングを設定します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T130639Z">
+        <seg>フィルターで処理する原文ファイル名の構成例の指定、訳文ファイル名のカスタマイズ、読み込む原文ファイルと生成する訳文ファイルのエンコーディングを設定します。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -21508,8 +21518,9 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133844Z">
-        <seg>設定フォルダーの中に、スクリプトフォルダーを作成できませんでした。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T130800Z">
+        <seg>設定フォルダーの中に、スクリプトフォルダーを
+作成できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25532,8 +25543,10 @@ might be different; for a GUI interface, you would use an "about box".</seg>
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133601Z">
-        <seg>OmegaT は、オペレーティングシステムの名称やホームフォルダーの場所などを含むシステム設定へアクセスできませんでした。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T130356Z">
+        <seg>OmegaT は、オペレーティングシステムの名称やホーム
+フォルダーの場所などを含むシステム設定へアクセス
+できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27256,8 +27269,10 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160738Z">
-        <seg>回復方法について取扱説明書などを参照してください。このエラーがどのようにして発生したかの情報とともに、ソフトウェア開発担当に送ってください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T125525Z">
+        <seg>回復方法について
+取扱説明書などを参照してください。このエラーがどのようにして
+発生したかの情報とともに、ソフトウェア開発担当に送ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30092,8 +30107,9 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>See "Chapter 3. Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T014055Z">
-        <seg>取扱説明書の「第３章：OmegaT のインストールと実行」を参照。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T125325Z">
+        <seg>詳しくは取扱説明書の「第３章：OmegaT のインストールと実行」を参照してください。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -33121,8 +33137,9 @@ this License.</seg>
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134250Z">
-        <seg>カレントフォルダーを代わりに使用します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T130411Z">
+        <seg>カレントフォルダーを代わり
+に使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33687,8 +33704,9 @@ software and other kinds of works.</seg>
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T171850Z">
-        <seg>TMX ファイルは読み込まれません。エラーを修復したのち、プロジェクトの再読み込みを行ってください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T125744Z">
+        <seg>TMX ファイルは読み込まれません。
+エラーを修復したのち、プロジェクトの再読み込みを行ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34007,8 +34025,9 @@ shown below.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134317Z">
-        <seg>設定フォルダーを代わりに使用します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T130809Z">
+        <seg>設定フォルダーを代わり
+に使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34747,8 +34766,9 @@ modification has been made.</seg>
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T062145Z">
-        <seg>言語コードの書式は xx-YY、xx_YY、xxx-YY、xxx-YY のいずれかです。xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T125909Z">
+        <seg>言語コードの書式は xx-YY、xx_YY、xxx-YY、xxx-YY のいずれかです。
+xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36571,8 +36591,9 @@ covered work, you indicate your acceptance of this License to do so.</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133606Z">
-        <seg>そのため OmegaT の設定フォルダーの場所を確定できません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T130403Z">
+        <seg>そのため OmegaT の設定フォルダー
+の場所を確定できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39588,8 +39609,11 @@ Kaptain.</seg>
 {0}
 on line {1}, column {2}.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T171844Z">
-        <seg>TMX ファイル {0} の構文解析の結果、行 {1} の列 {2} で回復不可能なエラーが発生しました。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T125716Z">
+        <seg>TMX ファイル
+{0}
+の構文解析の結果、行 {1} の列 {2} で回復不可能なエラーが発生しました。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -42156,8 +42180,9 @@ your programs, too.</seg>
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160351Z">
-        <seg>詳細はこのファイルを参照してください：{0}</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T130836Z">
+        <seg>詳細はこのファイルを参照してください：
+{0}</seg>
       </tuv>
     </tu>
     <tu>
