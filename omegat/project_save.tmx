@@ -16242,6 +16242,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (without the #) will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T035242Z" creationid="Yu-Tang" creationdate="20141201T034911Z">
+        <seg>たとえば、&lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt;（# 記号なし）とすると、&lt;a2&gt;OmegaT&lt;/a2&gt; は日本語のユーザーインターフェースで起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T184619Z">
@@ -16531,6 +16539,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130408T231321Z">
         <seg>For more information on this, and how to apply and follow the GNU GPL, see
 &lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T034848Z" creationid="Yu-Tang" creationdate="20141201T034848Z">
+        <seg>定義済みの設定を有効にするには、引数の先頭の # 記号を削除してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26613,6 +26629,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142018Z">
         <seg>設定メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;e0&gt;OmegaT.sh&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T034804Z" creationid="Yu-Tang" creationdate="20141201T034804Z">
+        <seg>&lt;e0&gt;OmegaT.sh&lt;/e0&gt; を編集することで、設定を変更できます。</seg>
       </tuv>
     </tu>
     <tu>
