@@ -9154,6 +9154,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows you to choose different colours for each part of the User Interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T090001Z" creationid="Yu-Tang" creationdate="20141201T090001Z">
+        <seg>ユーザーインターフェースの各部分について、任意の色に変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T145508Z">
@@ -11360,6 +11368,30 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T085837Z" creationid="Yu-Tang" creationdate="20141201T085738Z">
+        <seg>&lt;g0&gt;［定型文...］&lt;/g0&gt;をクリックすると、定型文の設定変更や、定型文の追加と削除ができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T085858Z" creationid="Yu-Tang" creationdate="20141201T085826Z">
+        <seg>&lt;g0&gt;［文字一覧...］&lt;/g0&gt;をクリックすると、文字一覧の設定を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T085529Z" creationid="Yu-Tang" creationdate="20141201T085529Z">
+        <seg>&lt;g0&gt;［用語集...］&lt;/g0&gt;をクリックすると、入力補完の用語集ビューの設定を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030500Z">
@@ -12898,6 +12930,14 @@ unpacking, reading or copying.</seg>
         <seg>Custom Colours...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T144714Z" creationid="Yu-Tang" creationdate="20140925T144714Z">
+        <seg>配色のカスタマイズ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom colours...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T085907Z" creationid="Yu-Tang" creationdate="20141201T085907Z">
         <seg>配色のカスタマイズ...</seg>
       </tuv>
     </tu>
@@ -14548,6 +14588,14 @@ these terms and conditions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T143812Z">
         <seg>ある言語要素は、原文にも訳文にもなりえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empties the whole target segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T084829Z" creationid="Yu-Tang" creationdate="20141201T084829Z">
+        <seg>訳文分節を空の状態で翻訳済みにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24990,6 +25038,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: colors are customizable through the &lt;g0&gt;Options / Custom colours...&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T085217Z" creationid="Yu-Tang" creationdate="20141201T085217Z">
+        <seg>注：色は配色の&lt;g0&gt;［設定］→［配色のカスタマイズ...］&lt;/g0&gt;ダイアログから変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: colors are customizable through the xxxx dialog box.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T033928Z" creationid="Yu-Tang" creationdate="20141104T033928Z">
@@ -27565,6 +27621,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-defined themes are accessible by the use of a script called Switch Colour Themes (with a default "Dark" theme), that allows to switch easily between colours sets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T090444Z" creationid="Yu-Tang" creationdate="20141201T090444Z">
+        <seg>Switch Colour Theme スクリプトを使うと、定義済みのテーマ（既定では「ダーク」テーマ）を簡単に変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preamble</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T010204Z">
@@ -29256,6 +29320,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175319Z">
         <seg>分野の一覧を取得しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieves the original state of the segment before translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T084615Z" creationid="Yu-Tang" creationdate="20141201T084615Z">
+        <seg>分節を、翻訳前の状態に戻します。</seg>
       </tuv>
     </tu>
     <tu>
