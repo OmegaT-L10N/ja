@@ -37983,6 +37983,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/MacOS by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T032450Z" creationid="Yu-Tang" creationdate="20141201T032450Z">
+        <seg>まず &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; を右クリックして、［パッケージの内容を表示］を選びます。次に、Contents/MacOS フォルダーにある &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt; を右クリックして、任意のテキストエディターで開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T184032Z" creationid="Yu-Tang" creationdate="20141112T184032Z">
@@ -41936,6 +41944,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;OmegaT.sh&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T032946Z" creationid="Yu-Tang" creationdate="20141201T032553Z">
+        <seg>あるいはコマンドラインから「cd」コマンドで目的の階層に移動し、emacs や vi のようなコマンドラインエディターで &lt;a4&gt;&lt;e5&gt;OmegaT.sh&lt;/e5&gt;&lt;/a4&gt; を開いてもよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T054756Z">
@@ -42236,6 +42252,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T163958Z">
         <seg>OmegaT の実行は、起動オプションを記述したスクリプトを使ってコマンドラインから可能です。あるいは &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; をクリックして直接起動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;OmegaT.sh&lt;/e1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T032246Z" creationid="Yu-Tang" creationdate="20141201T032246Z">
+        <seg>OmegaT の挙動は、パッケージに含まれる &lt;e0&gt;Properties&lt;/e0&gt; と &lt;e1&gt;OmegaT.sh&lt;/e1&gt; ファイルを編集することでカスタマイズできます。</seg>
       </tuv>
     </tu>
     <tu>
