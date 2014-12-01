@@ -11480,6 +11480,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T084336Z" creationid="Yu-Tang" creationdate="20141201T084336Z">
+        <seg>選択肢のいずれかをクリックすると、現在のプロジェクトを保存して閉じ、選択したプロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141140Z">
@@ -17053,6 +17061,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
         <seg>Give access to the five last edited projects</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T030216Z" creationid="Yu-Tang" creationdate="20141104T030216Z">
+        <seg>最近使用したプロジェクト（デフォルト設定では 5 つまで）にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give access to the five last edited projects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T084149Z" creationid="Yu-Tang" creationdate="20141201T084149Z">
         <seg>最近使用したプロジェクト（デフォルト設定では 5 つまで）にアクセスできます。</seg>
       </tuv>
     </tu>
@@ -38417,6 +38433,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T084020Z" creationid="Yu-Tang" creationdate="20141201T084020Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; を複数起動したい場合は、&lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/Contents/MacOS/&lt;/e3&gt; にある &lt;e2&gt;OmegaT.sh&lt;/e2&gt; ファイルをダブルクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T192041Z" creationid="Yu-Tang" creationdate="20141112T191928Z">
@@ -39915,6 +39939,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T123309Z">
         <seg>独立したタグ（例：&lt;i/&gt;）の場合は XML を使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T084116Z" creationid="Yu-Tang" creationdate="20141201T084116Z">
+        <seg>&lt;a4&gt;OmegaT&lt;/a4&gt; をコマンドラインから起動する場合は、&lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; にある &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; ファイルを指定してください。</seg>
       </tuv>
     </tu>
     <tu>
