@@ -14624,6 +14624,14 @@ these terms and conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T091808Z" creationid="Yu-Tang" creationdate="20141201T091808Z">
+        <seg>文単位の分節化を有効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Save...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T170320Z">
@@ -30261,6 +30269,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;Tokenizers Appendix&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T091627Z" creationid="Yu-Tang" creationdate="20141201T091627Z">
+        <seg>詳しくは、&lt;l0&gt;「付録 トークナイザー」&lt;/l0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T072822Z">
@@ -34774,6 +34790,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fuzzy matches can be also sorted in different ways (for displaying only; no influence on statistics).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T091015Z" creationid="Yu-Tang" creationdate="20141201T091015Z">
+        <seg>また参考訳文の並び替え基準を変更することもできます（結果表示のみの変更です。参考訳文の検索処理には影響しません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T182824Z">
@@ -38871,6 +38895,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T091410Z" creationid="Yu-Tang" creationdate="20141201T091410Z">
+        <seg>トークナイザーは、選択した言語に対応するものが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tonga (Tonga Islands)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152432Z">
@@ -41086,6 +41118,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164645Z" creationid="Yu-Tang" creationdate="20141111T164645Z">
         <seg>（翻訳メモリではない）複数のファイルを検索する場合、対象となるファイルは、OmegaT が対応している原文ファイル形式に限定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When selected, misspelled words are underlined.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T091123Z" creationid="Yu-Tang" creationdate="20141201T091123Z">
+        <seg>有効にすると、綴り間違いの可能性がある単語に下線が引かれるようになります。</seg>
       </tuv>
     </tu>
     <tu>
