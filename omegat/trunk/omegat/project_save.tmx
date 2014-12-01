@@ -9231,6 +9231,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T102851Z" creationid="Yu-Tang" creationdate="20141201T102851Z">
+        <seg>または、編集ウィンドウであらかじめ検索したい単語や語句を選択してから、&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T051715Z">
@@ -11468,6 +11476,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T095945Z">
         <seg>［原文ファイルを追加...］ボタンをクリックし、原文ファイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to retrieve access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T103652Z" creationid="Yu-Tang" creationdate="20141201T103652Z">
+        <seg>&lt;e0&gt;［検索文字列］&lt;/e0&gt;欄のドロップダウンボタンをクリックすると、直近の検索履歴が 10 個まで表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16564,6 +16580,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, &lt;f0&gt;${JAVA} -Xmx2048m ${MACOS} ${LANGUAGE} ${COUNTRY} ${PROXY_HOST} ${PROXY_PORT} ${GOOGLE_API_KEY} ${MS_CLIENT_ID} ${MS_CLIENT_SECRET} ${MY_MEMORY_EMAIL} ${TAAS_USER_KEY} -jar OmegaT.jar&lt;/f0&gt; will launch OmegaT with 2 gigas of memory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T104354Z" creationid="Yu-Tang" creationdate="20141201T104354Z">
+        <seg>たとえば、&lt;f0&gt;${JAVA} -Xmx2048m ${MACOS} ${LANGUAGE} ${COUNTRY} ${PROXY_HOST} ${PROXY_PORT} ${GOOGLE_API_KEY} ${MS_CLIENT_ID} ${MS_CLIENT_SECRET} ${MY_MEMORY_EMAIL} ${TAAS_USER_KEY} -jar OmegaT.jar&lt;/f0&gt; とすると、OmegaT は 2 ギガのメモリ割り当てで起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;f0&gt;${JAVA} -Xmx2048m ${MACOS} ${LANGUAGE} ${COUNTRY} ${PROXY_HOST} ${PROXY_PORT} ${GOOGLE_API_KEY} ${MS_CLIENT_ID} ${MS_CLIENT_SECRET} ${MY_MEMORY_EMAIL} ${TAAS_USER_KEY} -jar OmegaT.jar&lt;/f0&gt; will launch OmegaT with 2 megas of memory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T040119Z" creationid="Yu-Tang" creationdate="20141201T040119Z">
@@ -21520,6 +21544,14 @@ implemented by public license practices.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to use standard wildcards (and ?) plus *, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T102721Z" creationid="Yu-Tang" creationdate="20141201T102721Z">
+        <seg>構成例には通常のワイルドカード文字「?」と「*」を使えます。他にも &lt;u0&gt;Ant 構文&lt;/u0&gt;にのっとった表現を使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is pretty much certain that while the quality may be insufficient in some cases, it will definitely get better with time and not worse.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T123129Z">
@@ -25134,6 +25166,14 @@ otherwise be available to you under applicable patent law.</seg>
         <seg>Nothing in this License shall be construed as excluding or limiting
 any implied license or other defenses to infringement that may
 otherwise be available to you under applicable patent law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF8 (or UTF16LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T104257Z" creationid="Yu-Tang" creationdate="20141201T104257Z">
+        <seg>Windows 上で Notepad++ を使ったり、Linux 上で GEdit を使ったり、表計算ソフトを使うことだって、あるでしょう。UTF8（または UTF16LE）を正しく扱えて、空白文字（ホワイトスペース）を表示できる（&lt;k1&gt;TAB&lt;/k1&gt; 記号を見落とさずに済みます）プログラムなら、何を使っても構いません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34573,6 +34613,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T103947Z" creationid="Yu-Tang" creationdate="20141201T103947Z">
+        <seg>拡張子は必ず &lt;f0&gt;.txt&lt;/f0&gt; にしてください（拡張子を指定しなければ、自動的に付加されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt;(if not, it will be added).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T163838Z">
@@ -36528,6 +36576,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T070558Z">
         <seg>「=（等号）」の前にあるものが原文の用語です。「=」の後ろに対応した訳文が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T103216Z" creationid="Yu-Tang" creationdate="20141201T103216Z">
+        <seg>この場合、&lt;e3&gt;［検索文字列］&lt;/e3&gt;欄に単語または語句が自動的に入力されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40091,6 +40147,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T104649Z">
         <seg>&lt;a4&gt;OmegaT&lt;/a4&gt; をコマンドラインから起動する場合は、&lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/Resources/Java/&lt;/e2&gt; にある &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; ファイルを指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn on Mac) to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T103842Z" creationid="Yu-Tang" creationdate="20141201T103842Z">
+        <seg>&lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt;（Mac では Cmd+PgUp/PgDn）を押すことで、&lt;e2&gt;用語集&lt;/e2&gt;、&lt;e3&gt;定型文&lt;/e3&gt;、&lt;e4&gt;未使用のタグ&lt;/e4&gt;、&lt;e5&gt;文字一覧&lt;/e5&gt;を連続的に切り替えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47304,6 +47368,14 @@ create its configuration folder.</seg>
         <seg>match percentage (taking into account tokenisers)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T050540Z" creationid="Yu-Tang" creationdate="20141104T050540Z">
+        <seg>トークナイザーによる一致率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>match percentage (taking into account tokenizers)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T103758Z" creationid="Yu-Tang" creationdate="20141201T103758Z">
         <seg>トークナイザーによる一致率</seg>
       </tuv>
     </tu>
