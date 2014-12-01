@@ -20508,6 +20508,14 @@ the limitation as if written in the body of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T101009Z" creationid="Yu-Tang" creationdate="20141201T101009Z">
+        <seg>除外構成例集ダイアログで、構成例の追加と削除ができます。また既存の構成例を選んで F2 キーを押すと編集もできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Slovenian version both words have been translated as nouns.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T130920Z">
@@ -46060,6 +46068,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T100703Z" creationid="Yu-Tang" creationdate="20141201T100703Z">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://datamarket.azure.com/account</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T151742Z">
@@ -46444,10 +46460,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>is not copied in /target folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T100632Z" creationid="Yu-Tang" creationdate="20141201T100601Z">
+        <seg>訳文ファイル生成時に、訳文ファイルフォルダーにコピーされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>is not displayed in the Editor pane,</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T100055Z" creationid="Yu-Tang" creationdate="20141201T100055Z">
-        <seg>編集ウィンドウに表示されません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T100517Z" creationid="Yu-Tang" creationdate="20141201T100055Z">
+        <seg>編集ウィンドウに表示されません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not taken into account in statistics,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T100514Z" creationid="Yu-Tang" creationdate="20141201T100514Z">
+        <seg>翻訳状況の集計対象になりません</seg>
       </tuv>
     </tu>
     <tu>
