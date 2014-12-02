@@ -18446,6 +18446,14 @@ circumstances.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in /tm/auto for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T084051Z" creationid="Yu-Tang" creationdate="20141202T084051Z">
+        <seg>チェックがある場合、（たとえば /tm/auto フォルダー内の TMX ファイルから）自動挿入された全分節の背景を色付けします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064136Z">
@@ -37897,6 +37905,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T054448Z">
         <seg>翻訳入力の前に、原文を削除するキー入力の手間（つまり &lt;e0&gt;Ctrl+A&lt;/e0&gt; と &lt;e1&gt;Del&lt;/e1&gt;）が省けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters"&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T084005Z" creationid="Yu-Tang" creationdate="20141202T084005Z">
+        <seg>チェックがある場合、&lt;u0&gt;双方向アルゴリズム制御文字&lt;/u0&gt;を表示します。</seg>
       </tuv>
     </tu>
     <tu>
