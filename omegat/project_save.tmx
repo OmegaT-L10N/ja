@@ -4274,6 +4274,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T092915Z" creationid="Yu-Tang" creationdate="20141202T092915Z">
+        <seg>&lt;e0&gt;プロジェクトを検索&lt;/e0&gt;：&lt;e1&gt;内部メモリ&lt;/e1&gt;にチェックを入れると、プロジェクト専用の翻訳メモリ（project_save.tmx ファイル）から検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T175029Z">
@@ -11484,6 +11492,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130116T095945Z">
         <seg>［原文ファイルを追加...］ボタンをクリックし、原文ファイルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T092515Z" creationid="Yu-Tang" creationdate="20141202T092515Z">
+        <seg>&lt;e0&gt;［検索文字列］&lt;/e0&gt;欄のドロップダウンボタンをクリックすると、直近の検索履歴が 10 個まで表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21620,6 +21636,14 @@ implemented by public license practices.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T102721Z" creationid="Yu-Tang" creationdate="20141201T102721Z">
         <seg>構成例には通常のワイルドカード文字「?」と「*」を使えます。他にも &lt;u0&gt;Ant 構文&lt;/u0&gt;にのっとった表現を使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T092446Z" creationid="Yu-Tang" creationdate="20141202T092446Z">
+        <seg>構成例には &lt;u0&gt;Ant 構文&lt;/u0&gt;にのっとったワイルドカード文字も使えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37524,6 +37548,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T022107Z">
         <seg>これにより、他のツールで作成された翻訳メモリを、OmegaT で読み込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommanded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T092349Z" creationid="Yu-Tang" creationdate="20141202T092349Z">
+        <seg>外部コマンドには「パイプ機能」を含めることができません。そのため、スクリプトファイルの単純な呼び出しが推奨されます。</seg>
       </tuv>
     </tu>
     <tu>
