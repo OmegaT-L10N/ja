@@ -9196,8 +9196,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T165801Z">
-        <seg>また CSV 形式にも対応しています。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T073154Z">
+        <seg>また CSV 形式にも対応しています（日本語訳註：こちらの文字エンコードは UTF-8 のみの対応です）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13171,6 +13171,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140207T213335Z">
         <seg>削除されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T073955Z" creationid="Yu-Tang" creationdate="20141202T073955Z">
+        <seg>訳文を削除し、分節を未翻訳の状態にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17271,6 +17279,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T164803Z">
         <seg>用語集ファイルは単純なテキストファイルで、タブ区切りの３つの列（カラム）からなるリストの形をしています。最初の列と２番目の列はそれぞれ原文、訳文の用語が入ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files can be either in system default encoding (and indicated by the extension .tab) or in UTF-8 (the extension .utf8 or .txt) or in UTF-16 LE (the extension .txt).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T073029Z" creationid="Yu-Tang" creationdate="20141202T073029Z">
+        <seg>用語集ファイルの文字エンコードには、システムのデフォルト（拡張子を .tab とします）または UTF-8（拡張子を .utf8 または .txt とします）または UTF-16LE（拡張子を .txt とします）のいずれかを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25170,6 +25186,14 @@ otherwise be available to you under applicable patent law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T073728Z" creationid="Yu-Tang" creationdate="20141202T073728Z">
+        <seg>Windows 上で Notepad++ を使ったり、Linux 上で GEdit を使ったり、表計算ソフトを使うことだって、あるでしょう。UTF-8（または UTF-16LE）を正しく扱えて、空白文字（ホワイトスペース）を表示できる（&lt;k1&gt;TAB&lt;/k1&gt; 記号を見落とさずに済みます）プログラムなら、何を使っても構いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF8 (or UTF16LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T104257Z" creationid="Yu-Tang" creationdate="20141201T104257Z">
@@ -27438,6 +27462,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092732Z">
         <seg>プレーンテキストファイルにはテキストのみが含まれます。したがってその翻訳は、単純に対訳を入力していくだけで済みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please check the &lt;u0&gt; ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T072237Z" creationid="Yu-Tang" creationdate="20141202T072237Z">
+        <seg>言語コードに関する詳細な情報は &lt;u0&gt;ISO 639 コード表&lt;/u0&gt; を参照してください。（日本語訳注：言語の日本語表記は http://ja.wikipedia.org/wiki/ISO_639 を参照しました。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -34889,6 +34921,14 @@ instead.</seg>
         <seg>The glossary file does not have the correct extension (.tab or .utf8).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T182637Z">
+        <seg>用語集ファイルが有効な拡張子（.tab、.utf8、.txt）ではない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T073804Z" creationid="Yu-Tang" creationdate="20141202T073804Z">
         <seg>用語集ファイルが有効な拡張子（.tab、.utf8、.txt）ではない</seg>
       </tuv>
     </tu>
