@@ -2431,6 +2431,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T180321Z" creationid="Yu-Tang" creationdate="20141202T180321Z">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T161049Z">
@@ -7859,6 +7867,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T175536Z" creationid="Yu-Tang" creationdate="20141202T175536Z">
+        <seg>&lt;u0&gt;マイクロソフト用語集&lt;/u0&gt; &lt;i1/&gt;は 100 種類近くの言語でダウンロード提供されており、基本的な IT 用語集として使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;u1&gt;Microsoft Terminology Collection&lt;/u1&gt; &lt;i2/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T172202Z">
@@ -8783,6 +8799,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T142729Z">
         <seg>上級者のユーザーは、ターミナルウィンドウ上で &lt;e0&gt;man java&lt;/e0&gt; と入力すると、引数の詳細情報を得られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T180317Z" creationid="Yu-Tang" creationdate="20141202T180317Z">
+        <seg>参考：Windows のリモートデスクトップ経由で OmegaT を使っていて動作が遅い場合は、次のオプションを試してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19697,6 +19721,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T175441Z" creationid="Yu-Tang" creationdate="20141202T175441Z">
+        <seg>もし何か用語を扱うシステムを使っているなら、用語集データを TBX 形式で出力できる機能を備えている可能性が十分にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have made changes to your&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt;file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T201949Z">
@@ -20269,6 +20301,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T172118Z">
         <seg>前の項と同じように、プロジェクト専用のファイルフィルター設定を作成できます。この設定はプロジェクトと共に保存され、現在のプロジェクトにのみ適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as read-only glossaries format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T174958Z" creationid="Yu-Tang" creationdate="20141202T174958Z">
+        <seg>プレーンテキストファイルだけでなく、TBX 形式&lt;i0/&gt;にも対応しています（読み取り専用）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25250,6 +25290,14 @@ measures.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180811Z">
         <seg>エンコーディングを指定できないフィルターもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T175951Z" creationid="Yu-Tang" creationdate="20141202T175951Z">
+        <seg>注意：MultiTerm が出力する &lt;f0&gt;.tbx&lt;/f0&gt; 形式ファイルは、信頼性に劣っているようです（2013 年 11 月時点）。MultiTerm の場合は、&lt;f1&gt;.tab&lt;/f1&gt; 形式ファイルの方で出力することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32767,6 +32815,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TBX files TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T175412Z" creationid="Yu-Tang" creationdate="20141202T175412Z">
+        <seg>TBX ファイル TBX（Term Base eXchange）は、オープンな XML ベースの標準規格で、構造化された用語集データの互換を目的としています。TBX は国際標準規格として、LISA と ISO によって承認されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TERMS AND CONDITIONS</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130408T231225Z">
@@ -35304,6 +35360,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045454Z">
         <seg>場所はどこであってもかまいません。起動時にコマンドライン上で指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T175127Z" creationid="Yu-Tang" creationdate="20141202T175127Z">
+        <seg>&lt;f1&gt;.tbx&lt;/f1&gt; ファイルの場所は &lt;f2&gt;glossary&lt;/f2&gt; フォルダー内を指定する必要があります。ただし、直下ではなくもっと深い階層に置いてもかまいません（たとえば &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38994,6 +39058,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T180502Z" creationid="Yu-Tang" creationdate="20141202T180502Z">
+        <seg>プロジェクトの初期設定を確認したければ、&lt;k0&gt;Ctrl+E&lt;/k0&gt; キーを押してプロジェクト設定ダイアログを開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T031659Z">
@@ -40491,6 +40563,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154921Z">
         <seg>この引数を指定すると、チームプロジェクトを開いても同期しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T180431Z" creationid="Yu-Tang" creationdate="20141202T180431Z">
+        <seg>&lt;a4&gt;OmegaT&lt;/a4&gt; をコマンドラインから起動する場合は、&lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; にある &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; ファイルを指定してください。</seg>
       </tuv>
     </tu>
     <tu>
