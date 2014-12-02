@@ -19556,6 +19556,14 @@ by the Installation Information.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attemps to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T091709Z" creationid="Yu-Tang" creationdate="20141202T091709Z">
+        <seg>たとえば、翻訳の途中で分節化を文単位から段落単位に変更しても、そのプロジェクトの内部翻訳メモリは何も変わりません。OmegaT は段落単位でしか分節化できなかった旧形式の翻訳メモリをアップグレードできますが、その逆はできないのです。ただし OmegaT は、文単位の既存の翻訳を結合して、段落単位の参考訳文を作ることはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T154347Z">
@@ -30565,6 +30573,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See chapter &lt;l3&gt;File filters&lt;/l3&gt;for more on the subject.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T091810Z" creationid="Yu-Tang" creationdate="20141202T091810Z">
+        <seg>詳しくは&lt;l3&gt;ファイルフィルター&lt;/l3&gt;の章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See chapter&lt;l3&gt; File filters &lt;/l3&gt;for more on the subject.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T021717Z">
@@ -33924,6 +33940,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T131224Z">
         <seg>Mac OS X の場合は、［アプリケーション］→［ユーティリティ］フォルダにある「ターミナル］プログラムがこれにあたります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Match Display Template area also allows changing how fuzzy matches are displayed, through the use of pre-configured variables.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T090222Z" creationid="Yu-Tang" creationdate="20141202T090222Z">
+        <seg>参考訳文表示テンプレート欄を使うと、テンプレート変数を組み合わせることによって、参考訳文をどのように表示するかカスタマイズすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37328,6 +37352,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T092132Z" creationid="Yu-Tang" creationdate="20141202T092132Z">
+        <seg>この欄には、訳文ファイルの生成後に実行したい外部コマンド（たとえば、ファイル名を変更するスクリプトなど）を記述できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T044208Z">
@@ -38484,6 +38516,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182548Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; に貢献するには：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T091743Z" creationid="Yu-Tang" creationdate="20141202T091743Z">
+        <seg>プロジェクト専用のファイルフィルター設定を作成するには、&lt;g0&gt;［ファイルフィルター...］ &lt;/g0&gt;ボタンをクリックし、開いたウィンドウの&lt;g1&gt;［ファイルフィルター設定をプロジェクト専用にする］&lt;/g1&gt;チェックボックスにチェックを入れてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41350,6 +41390,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164645Z" creationid="Yu-Tang" creationdate="20141111T164645Z">
         <seg>（翻訳メモリではない）複数のファイルを検索する場合、対象となるファイルは、OmegaT が対応している原文ファイル形式に限定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When selected, LanguageTool checks the translations, and underline potential issues in blue.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T090703Z" creationid="Yu-Tang" creationdate="20141202T090703Z">
+        <seg>有効にすると、LanguageTool によって訳文が検査され、文法間違いの可能性のある箇所に青い下線が引かれるようになります。</seg>
       </tuv>
     </tu>
     <tu>
