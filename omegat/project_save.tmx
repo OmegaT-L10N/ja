@@ -11320,6 +11320,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141203T023823Z" creationid="Yu-Tang" creationdate="20141203T023823Z">
+        <seg>このオプションにチェックを入れると、auto フォルダー内の翻訳メモリから自動挿入された分節であることを示す情報が &lt;f0&gt;project_save.tmx&lt;/f0&gt; ファイルに記録されます。その場合は、［表示］→［auto フォルダー由来の分節を色付け］にチェックを入れることで、該当する分節の背景色を変えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor pane (if "Mark Auto-Populated Segments" option, in View tab, is checked).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T044210Z" creationid="Yu-Tang" creationdate="20141110T043553Z">
@@ -11983,6 +11991,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T191456Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を利用するために必要な Java のファイルを格納します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contains options for displaying texts and modification information in different ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141203T024114Z" creationid="Yu-Tang" creationdate="20141203T024114Z">
+        <seg>テキストおよび更新情報の表示に関するオプションを設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20305,6 +20321,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141203T023849Z" creationid="Yu-Tang" creationdate="20141203T023849Z">
+        <seg>プレーンテキストファイルだけでなく、TBX 形式&lt;i0/&gt;にも対応しています（読み取り専用）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as read-only glossaries format.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T174958Z" creationid="Yu-Tang" creationdate="20141202T174958Z">
@@ -26873,6 +26897,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a dialog box where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts window&lt;/l0&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141203T024044Z" creationid="Yu-Tang" creationdate="20141203T024044Z">
+        <seg>スクリプト管理用のウィンドウを表示します。このウィンドウ上で、スクリプトフォルダーの指定、スクリプトの編集や実行、ショートカットへの関連付けを行えます。詳しくは&lt;l0&gt;スクリプト ウィンドウ&lt;/l0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T030950Z" creationid="Yu-Tang" creationdate="20141104T030950Z">
@@ -27960,6 +27992,14 @@ language you would like to translate to.</seg>
         <seg>Press &lt;k0&gt;Ctrl+M &lt;/k0&gt;to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T033348Z">
+        <seg>&lt;k0&gt;［Ctrl+M］&lt;/k0&gt;を押すと、現在の分節のうち選択された部分を、機械翻訳に置換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141203T024200Z" creationid="Yu-Tang" creationdate="20141203T024200Z">
         <seg>&lt;k0&gt;［Ctrl+M］&lt;/k0&gt;を押すと、現在の分節のうち選択された部分を、機械翻訳に置換します。</seg>
       </tuv>
     </tu>
@@ -31286,6 +31326,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141203T023929Z" creationid="Yu-Tang" creationdate="20141203T023929Z">
+        <seg>&lt;e1&gt;［すべての分節で表示」&lt;/e1&gt;を選ぶと、すべての分節について同様の情報を表示します。&lt;e2&gt;［表示しない」&lt;/e2&gt;を選ぶと、何も表示しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting it to&lt;e1&gt; All &lt;/e1&gt;shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130220T025025Z">
@@ -33837,6 +33885,14 @@ for making modifications to it.</seg>
         <seg>The &lt;g0&gt;Display Context Description for TBX Glossaries&lt;/g0&gt; option allows to show or hide contextual information with the terms (that come from TBX glossaries located in &lt;f1&gt;glossary&lt;/f1&gt; directory) in the Glossary pane.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T195036Z" creationid="Yu-Tang" creationdate="20141112T194930Z">
+        <seg>&lt;g0&gt;TBX 用語集の説明文を表示&lt;/g0&gt;オプションは、用語（&lt;f1&gt;用語集&lt;/f1&gt;フォルダー内の TBX ファイル由来）を含む文脈情報の表示を切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;g0&gt;Display Context Description for TBX Glossaries&lt;/g0&gt; option allows to show or hide contextual information with the terms (that come from TBX glossaries located in &lt;f1&gt;glossary&lt;/f1&gt; folder) in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141203T024058Z" creationid="Yu-Tang" creationdate="20141203T024058Z">
         <seg>&lt;g0&gt;TBX 用語集の説明文を表示&lt;/g0&gt;オプションは、用語（&lt;f1&gt;用語集&lt;/f1&gt;フォルダー内の TBX ファイル由来）を含む文脈情報の表示を切り替えます。</seg>
       </tuv>
     </tu>
@@ -38144,6 +38200,14 @@ this version will not interfere with it.</seg>
         <seg>This option displays &lt;u0&gt;bidirectional control characters"&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T084005Z" creationid="Yu-Tang" creationdate="20141202T084005Z">
+        <seg>チェックがある場合、&lt;u0&gt;双方向アルゴリズム制御文字&lt;/u0&gt;を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20141203T023903Z" creationid="Yu-Tang" creationdate="20141203T023903Z">
         <seg>チェックがある場合、&lt;u0&gt;双方向アルゴリズム制御文字&lt;/u0&gt;を表示します。</seg>
       </tuv>
     </tu>
