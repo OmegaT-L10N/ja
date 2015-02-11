@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -915,6 +915,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154251Z">
         <seg>参考訳文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yu-tang" changedate="20150211T145652Z" creationid="yu-tang" creationdate="20150211T145652Z">
+        <seg>参考訳文または選択範囲を挿入</seg>
       </tuv>
     </tu>
     <tu>
@@ -20176,6 +20184,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ilia Vinogradov</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yu-tang" changedate="20150211T145314Z" creationid="yu-tang" creationdate="20150211T145314Z">
+        <seg>Ilia Vinogradov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import From Media&amp;Wiki...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154030Z">
@@ -28647,6 +28663,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154252Z">
         <seg>参考訳文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yu-tang" changedate="20150211T145754Z" creationid="yu-tang" creationdate="20150211T145754Z">
+        <seg>参考訳文または選択範囲に置換</seg>
       </tuv>
     </tu>
     <tu>
@@ -41276,6 +41300,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142224Z">
         <seg>表示...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vincent Bidaux (documentation manager)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yu-tang" changedate="20150211T145405Z" creationid="yu-tang" creationdate="20150211T145405Z">
+        <seg>Vincent Bidaux（文書作成担当）</seg>
       </tuv>
     </tu>
     <tu>
