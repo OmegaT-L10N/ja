@@ -298,6 +298,7 @@ Code has been contributed by
   Yu Tang
   Rashid Umarov  
   Antonio Vilei
+  Ilia Vinogradov
   Martin Wunderlich
   Michael Zakharov
 
@@ -305,7 +306,7 @@ Other contributions by
   Sabine Cretella
   Dmitri Gabinski
   Jean-Christophe Helary (localization manager)
-  Vito Smolej (documentation manager)
+  Vincent Bidaux (documentation manager)
   Samuel Murray
   Marc Prior (webmaster)
   and many, many more very helpful people
