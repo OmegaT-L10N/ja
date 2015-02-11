@@ -36585,6 +36585,14 @@ making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="JA" changeid="yu-tang" changedate="20150211T162833Z" creationid="yu-tang" creationdate="20150211T162833Z">
+        <seg>指定された言語の表記方向をサポートしていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T155518Z">
