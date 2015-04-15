@@ -316,7 +316,7 @@ but you don't see your name on the lists, feel free to contact us.)
 
 OmegaT uses the following libraries:
   HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)
-  VLDocking Framework 3.0.4 (LGPL License)
+  VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)
   Hunspell by László Németh and others (LGPL License)
   JNA by Todd Fast, Timothy Wall and others (LGPL License)
   Swing-Layout 1.0.4 (LGPL License)
@@ -345,6 +345,7 @@ OmegaT uses the following libraries:
   SuperTMXMerge-for_OmegaT.jar (LGPL license)
   groovy-all-2.2.2.jar (Apache Licence 2.0)
   slf4j (MIT License)
+  juniversalchardet-1.0.3.jar (GPL v2)
 
 ==============================================================================
  5.  Is OmegaT bugging you? Do you need help?
