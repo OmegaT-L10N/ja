@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -391,6 +391,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T040041Z" creationid="0011s_000" creationdate="20150418T040041Z">
+        <seg>この字体を表形式データ（翻訳対象ファイル一覧や翻訳状況など）適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Apply this font to the Project Files window</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160002Z">
@@ -553,8 +561,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130927Z">
-        <seg>printf 変数は確認しない</seg>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041811Z">
+        <seg>printf 変数を確認しない</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,6 +3046,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;-Dyandex.api.key=&lt;/e0&gt;&lt;e1&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T010902Z" creationid="0011s_000" creationdate="20150418T010902Z">
+        <seg>&lt;e0&gt;-Dyandex.api.key=&lt;/e0&gt;&lt;e1&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;-XmxZZM &lt;/e0&gt;&lt;i1/&gt;This command assigns more memory to &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144931Z">
@@ -5017,6 +5033,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Microsoft Translator&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011037Z" creationid="0011s_000" creationdate="20150418T011037Z">
+        <seg>&lt;p0&gt;機械翻訳&lt;/p0&gt; &lt;s1&gt;Microsoft Translator&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Troubleshooting&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T143625Z">
@@ -5653,6 +5677,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143004Z">
         <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;ユーザーインターフェース言語&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Yandex Translate&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T010545Z" creationid="0011s_000" creationdate="20150418T010545Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;起動スクリプトの引数&lt;/s1&gt; &lt;t2&gt;Yandex Translate&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7177,6 +7209,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T010857Z" creationid="0011s_000" creationdate="20150418T010857Z">
+        <seg>API キーは &lt;u0&gt;API key request form&lt;/u0&gt; から申請できます。申請後は、&lt;u1&gt;My Keys&lt;/u1&gt; ページで確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050603Z">
@@ -7769,6 +7809,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T145701Z" creationid="Yu-Tang" creationdate="20140925T145634Z">
         <seg>前回使用した OmegaT プロジェクトを自動的に開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T042521Z" creationid="0011s_000" creationdate="20150418T042521Z">
+        <seg>訳文におけるタグ順序の入れ替えを許可する</seg>
       </tuv>
     </tu>
     <tu>
@@ -9233,6 +9281,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041315Z" creationid="0011s_000" creationdate="20150418T041315Z">
+        <seg>クリップボードへコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130531T132010Z">
@@ -9491,8 +9547,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T144955Z">
-        <seg>すべての printf 変数（%s, %-s など）を確認</seg>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T042443Z">
+        <seg>すべての printf 変数（%s, %-s など）を確認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T042440Z" creationid="0011s_000" creationdate="20150418T041748Z">
+        <seg>単純な printf 変数（%s, %d など）を確認する</seg>
       </tuv>
     </tu>
     <tu>
@@ -9921,6 +9985,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the My Account option at the top of the page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011601Z" creationid="0011s_000" creationdate="20150418T011601Z">
+        <seg>画面上部の「マイ アカウント」をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T043421Z">
@@ -10005,6 +10077,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T084336Z" creationid="Yu-Tang" creationdate="20141201T084336Z">
         <seg>選択肢のいずれかをクリックすると、現在のプロジェクトを保存して閉じ、選択したプロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041235Z" creationid="0011s_000" creationdate="20150418T041235Z">
+        <seg>閉じる</seg>
       </tuv>
     </tu>
     <tu>
@@ -10603,6 +10683,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121205T103214Z">
         <seg>認証情報をテキストファイルに保存できませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T043751Z" creationid="0011s_000" creationdate="20150418T043641Z">
+        <seg>保護されたテキストと独自タグを翻訳状況にカウントする</seg>
       </tuv>
     </tu>
     <tu>
@@ -11911,6 +11999,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044109Z">
         <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T043542Z" creationid="0011s_000" creationdate="20150418T043448Z">
+        <seg>タグに問題が見つかった場合は訳文ファイル生成を中止する</seg>
       </tuv>
     </tu>
     <tu>
@@ -16918,6 +17014,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011513Z" creationid="0011s_000" creationdate="20150418T011404Z">
+        <seg>Microsoft アカウントをお持ちでない場合は、先にアカウントを登録しておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T131823Z">
@@ -17613,6 +17717,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T055711Z">
         <seg>規則集を編集するには、［分節化規則の設定］ウィンドウ上部にある表から、目的の項目をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to get credentials for MS Translator, follow these steps:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011127Z" creationid="0011s_000" creationdate="20150418T011127Z">
+        <seg>MS Translator の認証情報は、以下の手順で取得します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19733,6 +19845,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Log into Microsoft Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011503Z" creationid="0011s_000" creationdate="20150418T011248Z">
+        <seg>Microsoft Azure Marketplace にサインインします：&lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Log...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184533Z">
@@ -20031,6 +20151,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T153317Z">
         <seg>事前に無料の Microsoft アカウントを取得しておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T010614Z" creationid="0011s_000" creationdate="20150418T010614Z">
+        <seg>事前に無料の Yandex アカウントを取得しておいてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20847,10 +20975,34 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041216Z" creationid="0011s_000" creationdate="20150418T040054Z">
+        <seg>下へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T040050Z" creationid="0011s_000" creationdate="20150418T040050Z">
+        <seg>先頭へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T040109Z" creationid="0011s_000" creationdate="20150418T040109Z">
+        <seg>末尾へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122308Z">
-        <seg>上へ</seg>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041209Z">
+        <seg>上へ移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -28661,6 +28813,22 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Process&amp;ing...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041718Z" creationid="0011s_000" creationdate="20150418T033504Z">
+        <seg>タグ処理...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing Options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041730Z" creationid="0011s_000" creationdate="20150418T041730Z">
+        <seg>タグ処理の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Validation Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130811Z">
@@ -35603,6 +35771,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041614Z" creationid="0011s_000" creationdate="20150418T041614Z">
+        <seg>VLDocking Framework 3.0.5-SNAPSHOT（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate Tags</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T142001Z">
@@ -36816,6 +36992,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041554Z" creationid="0011s_000" creationdate="20150418T041554Z">
+        <seg>XML スプレッドシート 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XY</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040801Z">
@@ -37777,6 +37961,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="0011s_000" changedate="20150415T023040Z">
         <seg>OmegaT が対応するファイル形式の原文ファイルが含まれていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T010735Z" creationid="0011s_000" creationdate="20150418T010735Z">
+        <seg>Yandex Translate API キーを利用するために、必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40069,6 +40261,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T010551Z" creationid="0011s_000" creationdate="20150418T010551Z">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T010557Z" creationid="0011s_000" creationdate="20150418T010557Z">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://belazar.info/</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130305T154859Z">
@@ -40081,6 +40289,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T093445Z">
         <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://datamarket.azure.com/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011131Z" creationid="0011s_000" creationdate="20150418T011131Z">
+        <seg>http://datamarket.azure.com/</seg>
       </tuv>
     </tu>
     <tu>
@@ -40898,6 +41114,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>jpn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet-1.0.3.jar (GPL v2)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T043927Z" creationid="0011s_000" creationdate="20150418T043927Z">
+        <seg>juniversalchardet-1.0.3.jar（GPL v2 ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet-1.0.3.jar (GPL)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T041634Z" creationid="0011s_000" creationdate="20150418T041634Z">
+        <seg>juniversalchardet-1.0.3.jar（GPL ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -43548,6 +43780,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>ton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tools to manage the linguistic data necessary to build a machine translation system for a given language pair</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011020Z" creationid="0011s_000" creationdate="20150418T011020Z">
+        <seg>機械翻訳システム（特定の言語ペア向け）を構築するために必要な言語データの管理ツール</seg>
       </tuv>
     </tu>
     <tu>
