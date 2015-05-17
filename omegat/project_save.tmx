@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20889,6 +20889,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130614T101333Z">
         <seg>モノリンガル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150517T141329Z" creationid="0011s_000" creationdate="20150517T141329Z">
+        <seg>その他</seg>
       </tuv>
     </tu>
     <tu>
@@ -44728,6 +44736,16 @@ documentation.</prop>
       </tuv>
       <tuv lang="JA" changeid="0011s_000" changedate="20150415T023409Z">
         <seg>現在は、Didier Briel が OmegaT のプロジェクトマネージャーを務めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">GUI_SEGMENTATION_BUTTON_UP_1</prop>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150517T142159Z" creationid="0011s_000" creationdate="20150517T142159Z">
+        <seg>上へ</seg>
       </tuv>
     </tu>
     <tu>
