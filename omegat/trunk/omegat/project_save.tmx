@@ -16,6 +16,14 @@ License by making exceptions from one or more of its conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T095632Z" creationid="0011s_000" creationdate="20150519T095632Z">
+        <seg>"名前に \"/\" 記号を含むフォルダーからは起動できません。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.</seg>
       </tuv>
@@ -74,6 +82,14 @@ country that you have reason to believe are valid.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T095232Z" creationid="0011s_000" creationdate="20150519T095232Z">
+        <seg>"メインクラス名の指定は必須です。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Object code" means any non-source
 form of a work.</seg>
       </tuv>
@@ -114,6 +130,30 @@ License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170551Z">
         <seg>"This is a source term, which contains a comma","これは訳文の用語です, カンマも含みます"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T095427Z" creationid="0011s_000" creationdate="20150519T095427Z">
+        <seg>"Java ディレクトリのコンテンツを列挙できません。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T095120Z" creationid="0011s_000" creationdate="20150519T095120Z">
+        <seg>"Java 実行環境を起動できません。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T095141Z" creationid="0011s_000" creationdate="20150519T095141Z">
+        <seg>"Java %d 実行環境を起動できません。";</seg>
       </tuv>
     </tu>
     <tu>
@@ -407,6 +447,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T045923Z" creationid="0011s_000" creationdate="20150521T045923Z">
+        <seg>全ファイルに適用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164332Z">
@@ -539,6 +587,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180751Z">
         <seg>初期値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Delete</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T101853Z" creationid="0011s_000" creationdate="20150519T101853Z">
+        <seg>削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,10 +3976,26 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;The SVN team project is currently opened.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T101035Z" creationid="0011s_000" creationdate="20150519T101035Z">
+        <seg>&lt;html&gt;SVN チームプロジェクトを開いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082832Z">
         <seg>&lt;html&gt;構成例には ant 形式のワイルドカード文字（「*」、「?」、「**」）を使用できます：例「**/.svn/**」&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;{0}&lt;br&gt;&amp;nbsp;&amp;nbsp;User: {1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T101849Z" creationid="0011s_000" creationdate="20150519T101849Z">
+        <seg>&lt;html&gt;{0}&lt;br&gt;&amp;nbsp;&amp;nbsp;ユーザー：{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5045,6 +5117,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T143625Z">
         <seg>&lt;p0&gt;機械翻訳&lt;/p0&gt; &lt;s1&gt;トラブルシューティング&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T045643Z" creationid="0011s_000" creationdate="20150521T045643Z">
+        <seg>&lt;p0&gt;機械翻訳&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8120,6 +8200,14 @@ work under this License, and how to view a copy of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T031557Z" creationid="0011s_000" creationdate="20150521T031441Z">
+        <seg>「{0}」と同名のファイルがすでに存在しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T034728Z">
@@ -8372,6 +8460,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to delete selected data?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T113700Z" creationid="0011s_000" creationdate="20150519T113700Z">
+        <seg>選択したデータを削除してよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to fix all tags automatically?</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130409T134646Z">
@@ -8385,6 +8481,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T172526Z">
         <seg>分節化規則集「{0}」を削除してよいですか？ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset all custom colours?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T113858Z" creationid="0011s_000" creationdate="20150519T113858Z">
+        <seg>すべての配色をリセットしてよろしいですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -8617,6 +8721,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authentication file is not found in '{0}'.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T113342Z" creationid="0011s_000" creationdate="20150519T113342Z">
+        <seg>認証ファイルが '{0}' に見つかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authentication folder is not found in '{0}'.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T113331Z" creationid="0011s_000" creationdate="20150519T113331Z">
+        <seg>認証フォルダーが '{0}' に見つかりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Author of the match</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T195825Z">
@@ -8693,6 +8813,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T095242Z" creationid="Yu-Tang" creationdate="20141201T095242Z">
         <seg>翻訳自動反映</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T030358Z" creationid="0011s_000" creationdate="20150521T030358Z">
+        <seg>編集ウィンドウと同期する</seg>
       </tuv>
     </tu>
     <tu>
@@ -8814,6 +8942,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T150131Z">
         <seg>分節の選択履歴を戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T030507Z" creationid="0011s_000" creationdate="20150521T030507Z">
+        <seg>検索ウィンドウを閉じた際に初期分節へ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -9577,6 +9713,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T095838Z" creationid="0011s_000" creationdate="20150519T095838Z">
+        <seg>LanguageTool の規則を検査</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Rules</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143351Z">
@@ -9785,6 +9929,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the authentication items you want to delete below</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T100553Z" creationid="0011s_000" creationdate="20150519T100553Z">
+        <seg>削除したい認証データにチェックを入れてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the changes to be made - i.e. the folders and files added in this case.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130310T070931Z">
@@ -9897,6 +10049,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear Saved Authentication Data</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T100513Z" creationid="0011s_000" creationdate="20150519T100513Z">
+        <seg>保存済み認証データの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear authentication data for SVN repository</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T100401Z" creationid="0011s_000" creationdate="20150519T100329Z">
+        <seg>SVN リポジトリ用の認証データを削除します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T095557Z" creationid="Yu-Tang" creationdate="20141201T095557Z">
@@ -9987,8 +10155,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Click on the My Account option at the top of the page.</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011601Z" creationid="0011s_000" creationdate="20150418T011601Z">
-        <seg>画面上部の「マイ アカウント」をクリックします。</seg>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T044032Z" creationid="0011s_000" creationdate="20150418T011601Z">
+        <seg>同様に技術情報に従い、アプリケーションの登録を完了してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11183,6 +11351,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+O toggles orientation between LTR, RTL and language dependent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150520T165524Z" creationid="0011s_000" creationdate="20150520T165524Z">
+        <seg>Ctrl+Shift+O で書字方向を LTR（左から右）、RTL（右から左）、言語依存に切り替えます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+P</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141712Z">
@@ -11315,6 +11491,22 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T104711Z">
         <seg>独自タグの正規表現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customer ID (corresponds to &lt;c0&gt;&lt;c1&gt;microsoft.api.client_id&lt;/c1&gt;&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T044339Z" creationid="0011s_000" creationdate="20150521T044339Z">
+        <seg>顧客の秘密（&lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; コマンドライン引数に対応）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T045624Z" creationid="0011s_000" creationdate="20150521T045624Z">
+        <seg>顧客の秘密（&lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; コマンドライン引数に対応）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12091,6 +12283,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T031545Z" creationid="0011s_000" creationdate="20150521T031545Z">
+        <seg>置き換えてよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130531T132444Z">
@@ -12335,6 +12535,38 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T165907Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; ファイルをドックへドラッグ＆ドロップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T030919Z" creationid="0011s_000" creationdate="20150521T030919Z">
+        <seg>プロジェクトに追加したい TMX ファイルをここにドロップしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T031031Z" creationid="0011s_000" creationdate="20150521T031031Z">
+        <seg>開きたいプロジェクトをここにドロップしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T030850Z" creationid="0011s_000" creationdate="20150521T030850Z">
+        <seg>プロジェクトに追加したいファイルをここにドロップしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T030904Z" creationid="0011s_000" creationdate="20150521T030904Z">
+        <seg>プロジェクトに追加したい用語集ファイルをここにドロップしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17016,8 +17248,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011513Z" creationid="0011s_000" creationdate="20150418T011404Z">
-        <seg>Microsoft アカウントをお持ちでない場合は、先にアカウントを登録しておいてください。</seg>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T043959Z" creationid="0011s_000" creationdate="20150418T011404Z">
+        <seg>上記の技術情報を参照し、サブスクリプションを登録してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17701,6 +17933,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="JA" changeid="0011s_000" changedate="20150415T023051Z">
         <seg>変更を反映させるため OmegaT を終了し、プロジェクトを再度開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T035008Z" creationid="0011s_000" creationdate="20150521T035003Z">
+        <seg>Yandex Translate を OmegaT で利用するには、&lt;u0&gt;Yandex から API キーを取得する&lt;/u0&gt;必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19439,6 +19679,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T095801Z" creationid="0011s_000" creationdate="20150519T095801Z">
+        <seg>LanguageTool の規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T163730Z">
@@ -19847,8 +20095,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Log into Microsoft Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011503Z" creationid="0011s_000" creationdate="20150418T011248Z">
-        <seg>Microsoft Azure Marketplace にサインインします：&lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T043707Z" creationid="0011s_000" creationdate="20150418T011248Z">
+        <seg>Microsoft Translator 機械翻訳の使用に必要な設定：&lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20183,6 +20431,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T132341Z">
         <seg>［&lt;e1&gt;チェックアウト先のディレクトリ&lt;/e1&gt;］欄が正しい（先ほど作成した空のフォルダーが指定されている）ことを確認し、［&lt;e2&gt;OK&lt;/e2&gt;］ボタンを押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure the file exists and the user has permissions to delete it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T113635Z" creationid="0011s_000" creationdate="20150519T113612Z">
+        <seg>ファイルが存在するか、現在のログオンユーザーに削除権限があるか、確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21299,6 +21555,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T073924Z">
         <seg>ンドンガ語（Ndonga）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Near the bottom you will see entries and values for:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T050225Z" creationid="0011s_000" creationdate="20150521T044119Z">
+        <seg>OmegaT で必要なのは、アプリケーションの登録で得られる次の情報です：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24071,6 +24335,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please close the project&lt;br&gt; before you delete the corresponding authentication.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T101046Z" creationid="0011s_000" creationdate="20150519T101046Z">
+        <seg>対応する認証データを&lt;br&gt;削除する場合は、事前にプロジェクトを閉じてください。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please consult the documentation about your recovery options and
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
@@ -24448,6 +24720,14 @@ language you would like to translate to.</seg>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043618Z">
         <seg>これまでに貢献してくれた方々：
 （アルファベット順）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T044209Z" creationid="0011s_000" creationdate="20150521T044209Z">
+        <seg>クライアント ID（&lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; コマンドライン引数に対応）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26048,6 +26328,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T113758Z" creationid="0011s_000" creationdate="20150519T113758Z">
+        <seg>スペース文字で nbsp も検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;witch Case To</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135059Z">
@@ -26126,6 +26414,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062146Z">
         <seg>SVN - クリーンアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Clear authentication data</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T100246Z" creationid="0011s_000" creationdate="20150519T100246Z">
+        <seg>SVN - 認証データの削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -31192,6 +31488,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The obtained API key needs to be passed to OmegaT at startup through &lt;c0&gt;yandex.api.key&lt;/c0&gt; command-line parameter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T035225Z" creationid="0011s_000" creationdate="20150521T035225Z">
+        <seg>取得した API キーは、OmegaT の起動時に &lt;c0&gt;yandex.api.key&lt;/c0&gt; コマンドライン引数として指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The omegat folder contains the &lt;f0&gt;project_save.tmx&lt;/f0&gt; and possibly a number of backup TMX files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T161911Z">
@@ -31589,6 +31893,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T151727Z">
         <seg>スクリプト {0} を実行中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The script could not delete the authentication file '{0}'.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T113430Z" creationid="0011s_000" creationdate="20150519T113430Z">
+        <seg>認証ファイル '{0}' を削除できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33866,6 +34178,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do that edit OmegaT launcher or see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T035749Z" creationid="0011s_000" creationdate="20150521T035749Z">
+        <seg>指定方法については、OmegaT ランチャーを編集するか、&lt;l1&gt;OmegaT のインストールと実行&lt;/l1&gt;を参照してコマンドライン指定で起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T082022Z">
@@ -33886,6 +34206,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T121707Z">
         <seg>フィルター対象とするファイルやエンコーディングを変更する場合は&lt;e1&gt;［編集...］&lt;/e1&gt;をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enable MS Translator in OmegaT edit its launcher or see chapter &lt;l0&gt;Installing and Running&lt;/l0&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T050355Z" creationid="0011s_000" creationdate="20150521T050355Z">
+        <seg>OmegaT で MS Translator を有効するには、ランチャーを編集するか、&lt;l1&gt;OmegaT のインストールと実行&lt;/l1&gt;を参照してコマンドライン指定で起動してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40300,11 +40628,12 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Yu-Tang）原文の記述が古いため、このセクションの情報が更新されるまでは、ウェブページへ誘導します。</note>
       <tuv lang="EN">
         <seg>http://datamarket.azure.com/</seg>
       </tuv>
-      <tuv lang="JA" changeid="0011s_000" changedate="20150418T011131Z" creationid="0011s_000" creationdate="20150418T011131Z">
-        <seg>http://datamarket.azure.com/</seg>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T043557Z" creationid="0011s_000" creationdate="20150418T011131Z">
+        <seg>http://www.omegat.org/ja/howtos/ms_translator.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -44480,6 +44809,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T113747Z" creationid="0011s_000" creationdate="20150519T113747Z">
+        <seg>{0} ({1} 残) / {2} ({3} 残), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} +{1} more</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T170704Z">
@@ -44524,6 +44861,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133954Z">
         <seg>{1} が {2} から実行されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150519T113640Z" creationid="0011s_000" creationdate="20150519T113640Z">
+        <seg>{1}。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44736,6 +45081,16 @@ documentation.</prop>
       </tuv>
       <tuv lang="JA" changeid="0011s_000" changedate="20150415T023409Z">
         <seg>現在は、Didier Briel が OmegaT のプロジェクトマネージャーを務めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">DND_REPLACE_BUTTON</prop>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150521T045820Z" creationid="0011s_000" creationdate="20150521T045820Z">
+        <seg>置換</seg>
       </tuv>
     </tu>
     <tu>
