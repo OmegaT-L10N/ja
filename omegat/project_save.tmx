@@ -1391,6 +1391,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150524T014331Z" creationid="0011s_000" creationdate="20150524T014331Z">
+        <seg>原文中で単語が離れている用語を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155001Z">
@@ -35702,6 +35710,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154921Z">
         <seg>この引数を指定すると、チームプロジェクトを開いても同期しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use stemming for &amp;glossary entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="0011s_000" changedate="20150524T014412Z" creationid="0011s_000" creationdate="20150524T014412Z">
+        <seg>用語にステミング（語幹処理）を適用</seg>
       </tuv>
     </tu>
     <tu>
