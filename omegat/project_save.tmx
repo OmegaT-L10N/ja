@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -383,6 +383,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150727T033303Z" creationid="Yu-Tang" creationdate="20150716T114746Z">
+        <seg>プロジェクト構成物(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033504Z">
@@ -559,6 +567,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T115848Z" creationid="Yu-Tang" creationdate="20150716T115848Z">
+        <seg>現在の原文ファイル(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -579,6 +595,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033504Z" creationid="Yu-Tang" creationdate="20150519T101853Z">
         <seg>削除(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T115213Z" creationid="Yu-Tang" creationdate="20150716T115213Z">
+        <seg>辞書(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1159,6 +1183,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T115159Z" creationid="Yu-Tang" creationdate="20150716T115159Z">
+        <seg>ルート(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -1247,6 +1279,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T121907Z" creationid="Yu-Tang" creationdate="20150716T121907Z">
+        <seg>関連性の強い補完候補を自動的に表示する(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Size</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -1275,6 +1315,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>原文（分節 {0}）(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T115812Z" creationid="Yu-Tang" creationdate="20150716T115812Z">
+        <seg>原文ファイル(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1315,6 +1363,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>TaaS 用語を参照(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T115825Z" creationid="Yu-Tang" creationdate="20150716T115825Z">
+        <seg>訳文ファイル(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1383,9 +1439,9 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&amp;Use terms appearing separately in the source text</seg>
+        <seg>&amp;Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z" creationid="Yu-Tang" creationdate="20150524T014331Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T121748Z" creationid="Yu-Tang" creationdate="20150716T121748Z">
         <seg>原文中で単語が離れている用語を表示(&amp;U)</seg>
       </tuv>
     </tu>
@@ -1411,6 +1467,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>表示(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T115924Z" creationid="Yu-Tang" creationdate="20150716T115901Z">
+        <seg>書き込み可能な用語集ファイル(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7353,6 +7417,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Configuration Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150727T033322Z" creationid="Yu-Tang" creationdate="20150716T122346Z">
+        <seg>設定フォルダー(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access to a
 network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
@@ -8098,6 +8170,22 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while downloading the dictionary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T123027Z" creationid="Yu-Tang" creationdate="20150716T123027Z">
+        <seg>辞書のダウンロード中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T121723Z" creationid="Yu-Tang" creationdate="20150716T121723Z">
+        <seg>選択項目を開く際にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165543Z">
@@ -8753,14 +8841,6 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Auto-completer Glossary View configuration</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174704Z">
-        <seg>用語集の設定</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Auto-completion</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T041909Z" creationid="Yu-Tang" creationdate="20141104T041909Z">
@@ -9409,6 +9489,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T115856Z" creationid="Yu-Tang" creationdate="20150716T115856Z">
+        <seg>現在の訳文ファイル(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130531T132010Z">
@@ -9453,6 +9541,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134147Z">
         <seg>訳文ファイル用のフォルダーを作成できません：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot install</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T122704Z" creationid="Yu-Tang" creationdate="20150716T122704Z">
+        <seg>組み込みできません</seg>
       </tuv>
     </tu>
     <tu>
@@ -10819,6 +10915,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205546Z">
         <seg>コルシカ語（Corsican）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T122959Z" creationid="Yu-Tang" creationdate="20150716T122959Z">
+        <seg>指定されたフォルダーを作成できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12247,6 +12351,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102537Z">
         <seg>よろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T122938Z" creationid="Yu-Tang" creationdate="20150716T122925Z">
+        <seg>フォルダーを作成しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -14291,6 +14403,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T122844Z" creationid="Yu-Tang" creationdate="20150716T122844Z">
+        <seg>フォルダーが見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130922T115733Z">
@@ -15282,6 +15402,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164137Z">
         <seg>用語集フォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T121355Z" creationid="Yu-Tang" creationdate="20150716T121355Z">
+        <seg>用語集の設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -18580,14 +18708,6 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T111310Z">
         <seg>起動に便利なショートカットの作成</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Installing failed</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135014Z">
-        <seg>組み込みに失敗しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -24376,14 +24496,6 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Please select a dictionary file folder first</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T135022Z">
-        <seg>辞書ファイルフォルダーをまず指定してください。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Please select a different folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121113T122031Z">
@@ -24454,6 +24566,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143559Z">
         <seg>プロジェクトを開いてから、再試行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T123110Z" creationid="Yu-Tang" creationdate="20150716T123110Z">
+        <seg>実行し直してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28137,8 +28257,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sort by source term alphabetically</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063143Z">
-        <seg>用語の原文のアルファベット順に並べ替え</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T124002Z">
+        <seg>用語の原文のアルファベット順に並べ替える</seg>
       </tuv>
     </tu>
     <tu>
@@ -28153,8 +28273,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sort target terms alphabetically</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T063310Z">
-        <seg>用語の訳文のアルファベット順に並べ替え</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T124020Z">
+        <seg>用語の訳文のアルファベット順に並べ替える</seg>
       </tuv>
     </tu>
     <tu>
@@ -32075,6 +32195,22 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T122748Z" creationid="Yu-Tang" creationdate="20150716T122748Z">
+        <seg>指定された辞書フォルダーを使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T122903Z" creationid="Yu-Tang" creationdate="20150716T122903Z">
+        <seg>指定された辞書フォルダーが見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="JA" changeid="yu-tang" changedate="20150211T162833Z" creationid="yu-tang" creationdate="20150211T162833Z">
@@ -35554,6 +35690,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use Stemming for &amp;Glossary Entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T121759Z" creationid="Yu-Tang" creationdate="20150716T121759Z">
+        <seg>用語にステミング（語幹処理）を適用(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T143141Z">
@@ -35614,14 +35758,6 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T154921Z">
         <seg>この引数を指定すると、チームプロジェクトを開いても同期しません。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Use stemming for &amp;glossary entries</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z" creationid="Yu-Tang" creationdate="20150524T014412Z">
-        <seg>用語にステミング（語幹処理）を適用(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
