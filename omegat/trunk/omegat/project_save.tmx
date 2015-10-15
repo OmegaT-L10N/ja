@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -122,6 +122,22 @@ License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130408T231231Z">
         <seg>"This License" refers to version 3 of the GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151013T234316Z" creationid="Yu-Tang" creationdate="20151013T234124Z">
+        <seg>"このプログラムを実行するには、Java %d 以降がインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151013T234552Z" creationid="Yu-Tang" creationdate="20151013T234552Z">
+        <seg>"このプログラムを実行するには、Java %d 以降の JDK がインストールされている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1271,6 +1287,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Sentence Case</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T105922Z" creationid="Yu-Tang" creationdate="20151015T105922Z">
+        <seg>文頭のみを大文字に(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -1435,6 +1459,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>すべて大文字に(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Use Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T103532Z" creationid="Yu-Tang" creationdate="20151015T103532Z">
+        <seg>辞書項目の照合にトークナイザーを使う(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,6 +3210,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="yu-tang" changedate="20150211T174212Z" creationid="yu-tang" creationdate="20150211T174212Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; は © 2000-2014 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2015 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151013T233823Z" creationid="Yu-Tang" creationdate="20151013T233823Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; は © 2000-2015 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7369,6 +7409,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay (integration manager)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151013T234946Z" creationid="Yu-Tang" creationdate="20151013T234946Z">
+        <seg>Aaron Madlon-Kay（統合担当）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T203451Z">
@@ -7795,6 +7843,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052926Z">
         <seg>パス区切り文字の「\」は、やはり「\\」のようにエスケープする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T111139Z" creationid="Yu-Tang" creationdate="20151015T111139Z">
+        <seg>代替フォントを積極的に使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -9026,6 +9082,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T104031Z" creationid="Yu-Tang" creationdate="20151015T103745Z">
+        <seg>{0} に設定ファイルのバックアップを作成しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T132405Z" creationid="Yu-Tang" creationdate="20140923T132405Z">
@@ -10081,6 +10145,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chihiro Hio</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151013T234652Z" creationid="Yu-Tang" creationdate="20151013T234652Z">
+        <seg>Chihiro Hio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205419Z">
@@ -10397,6 +10469,16 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043645Z">
         <seg>コードに関する貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T105642Z" creationid="Yu-Tang" creationdate="20151015T105642Z">
+        <seg>コードに関する貢献者：
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -11527,6 +11609,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T101411Z" creationid="Yu-Tang" creationdate="20151015T101411Z">
+        <seg>現在 VM が使用しているメモリは {0} MB です。空き容量は {1} MB で、最大 {2} MB が使用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145237Z">
@@ -11831,6 +11921,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
         <seg>Developers that use the GNU GPL protect your rights with two steps:
 (1) assert copyright on the software, and (2) offer you this License
 giving you legal permission to copy, distribute and/or modify it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T101532Z" creationid="Yu-Tang" creationdate="20151015T101532Z">
+        <seg>辞書(&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13974,6 +14072,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044050Z">
         <seg>Fabián Mandelbaum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T104055Z" creationid="Yu-Tang" creationdate="20151015T104055Z">
+        <seg>設定ファイルのバックアップを作成できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17736,8 +17842,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T145917Z">
-        <seg>辞書の大文字・小文字を無視</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T103225Z">
+        <seg>用語集の大文字・小文字を無視</seg>
       </tuv>
     </tu>
     <tu>
@@ -23554,6 +23660,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T101450Z" creationid="Yu-Tang" creationdate="20151015T101450Z">
+        <seg>最近使用したプロジェクト(&amp;J)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Recent Project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140813T165329Z">
@@ -24435,6 +24549,22 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082850Z">
         <seg>もう一度、確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151013T234633Z" creationid="Yu-Tang" creationdate="20151013T234633Z">
+        <seg>Oracle.com から最新の Java JDK をダウンロードしてインストールした後に、再度お試しください。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151013T234459Z" creationid="Yu-Tang" creationdate="20151013T234459Z">
+        <seg>www.java.com から最新の Java をダウンロードしてインストールした後に、再度お試しください。";</seg>
       </tuv>
     </tu>
     <tu>
@@ -25768,6 +25898,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T101014Z" creationid="Yu-Tang" creationdate="20151015T101014Z">
+        <seg>現在の訳文から BiDi マーク（双方向アルゴリズム制御文字）を削除します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove defined fragments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151125Z">
@@ -26356,6 +26494,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T190058Z">
         <seg>&lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt; の実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T101328Z" creationid="Yu-Tang" creationdate="20151015T101328Z">
+        <seg>Java {0} 上で実行中</seg>
       </tuv>
     </tu>
     <tu>
@@ -28043,6 +28189,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T100302Z" creationid="Yu-Tang" creationdate="20151015T100302Z">
+        <seg>原文＝訳文の分節をスキップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T105610Z">
@@ -28662,6 +28816,16 @@ can do so.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>日本語版の Microsoft Word ではソフト改行を「任意指定の行区切り」と呼んでいる。
+https://support.microsoft.com/kb/901125/</note>
+      <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T105435Z" creationid="Yu-Tang" creationdate="20151015T105435Z">
+        <seg>ソフト改行（任意指定の行区切り）を段落区切りとみなす</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
@@ -28777,6 +28941,22 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170414Z">
         <seg>また文字列は引用符「"」で括られます。そのため、列区切りと区別して、文字列内にカンマを含むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T100859Z" creationid="Yu-Tang" creationdate="20151015T100833Z">
+        <seg>BiDi マークを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T100922Z" creationid="Yu-Tang" creationdate="20151015T100922Z">
+        <seg>現在の分節から BiDi マークを削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -30065,6 +30245,16 @@ Source.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T105923Z">
         <seg>英語用のトークナイザー（org.omegat.tokenizer.SnowballEnglishTokenizer および</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The English tokenizers (org.omegat.tokenizer.SnowballEnglishTokenizer and
+org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words originally from
+Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T100129Z" creationid="Yu-Tang" creationdate="20151015T100129Z">
+        <seg>英語用のトークナイザー（org.omegat.tokenizer.SnowballEnglishTokenizer および org.omegat.tokenizer.LuceneEnglishTokenizer）が利用する Okapi（http://okapi.sourceforge.net）由来の stop words（LGPL ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -40970,6 +41160,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T074317Z" creationid="Yu-Tang" creationdate="20141202T074317Z">
         <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151013T233948Z" creationid="Yu-Tang" creationdate="20151013T233948Z">
+        <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
       </tuv>
     </tu>
     <tu>
