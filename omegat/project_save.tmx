@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -483,6 +483,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>定型文(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151023T045451Z" creationid="Yu-Tang" creationdate="20151023T045310Z">
+        <seg>翻訳を自動的に取得する(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1451,6 +1459,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>取り消す(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151023T045538Z" creationid="Yu-Tang" creationdate="20151023T045436Z">
+        <seg>未翻訳分節のみを対象とする(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16178,6 +16194,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151023T045835Z" creationid="Yu-Tang" creationdate="20151023T045835Z">
+        <seg>ハイパーリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130303T073347Z">
@@ -19789,6 +19813,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T171028Z">
         <seg>LaTex（*.tex、*.latex）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Chec&amp;ker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151023T045636Z" creationid="Yu-Tang" creationdate="20151023T045636Z">
+        <seg>言語チェッカー(&amp;K)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27384,6 +27416,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T164927Z">
         <seg>分節番号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151023T045756Z" creationid="Yu-Tang" creationdate="20151023T045729Z">
+        <seg>分節番号の背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151023T045720Z" creationid="Yu-Tang" creationdate="20151023T045720Z">
+        <seg>分節番号テキスト</seg>
       </tuv>
     </tu>
     <tu>
