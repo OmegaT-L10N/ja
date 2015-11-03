@@ -3222,14 +3222,6 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2014 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="yu-tang" changedate="20150211T174212Z" creationid="yu-tang" creationdate="20150211T174212Z">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; は © 2000-2014 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2015 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151013T233823Z" creationid="Yu-Tang" creationdate="20151013T233823Z">
@@ -3266,14 +3258,6 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T012503Z">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; この引数を指定すると、&lt;a2&gt;OmegaT&lt;/a2&gt; がコンソールモードで起動し、以下に示すサービスを自動的に実行します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: Always (default), Only if (X)HTML file has a header, Only if (X)HTML file has an encoding declaration, Never</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T191636Z">
-        <seg>&lt;e0&gt;以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更：&lt;/e0&gt;常に（デフォルト）、(X)HTML ファイルにヘッダーがある場合のみ、(X)HTML ファイルにエンコーディング宣言がある場合のみ、しない</seg>
       </tuv>
     </tu>
     <tu>
@@ -3339,6 +3323,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T230328Z" creationid="Yu-Tang" creationdate="20141110T230233Z">
         <seg>&lt;e0&gt;閉じる：&lt;/e0&gt;変更なしにウィンドウを閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T144604Z" creationid="Yu-Tang" creationdate="20151103T144604Z">
+        <seg>&lt;e0&gt;訳文ファイルの空白圧縮&lt;/e0&gt;：連続する空白文字がある場合、訳文ファイル生成時に空白文字一つだけに変換します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3616,14 +3608,6 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;e0&gt;Paragraph segmentation on line breaks, empty lines or never&lt;/e0&gt;:</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T101024Z">
-        <seg>&lt;e0&gt;原文を改行で分節化するか、空行で分節化するか、分節化しないか&lt;/e0&gt;：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185835Z">
@@ -3652,6 +3636,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T024737Z">
         <seg>&lt;e0&gt;プロジェクトの設定&lt;/e0&gt;、&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; のファイルとフォルダー：&lt;/e1&gt;OmegaT にとってプロジェクトとは、コンピューター翻訳支援ツールとして OmegaT が取り扱う作業単位を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: all commented parts (between &lt;!-- and --&gt;) won't be copied in the translated document.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T144812Z" creationid="Yu-Tang" creationdate="20151103T144812Z">
+        <seg>&lt;e0&gt;訳文ファイルの HTML コメントを削除&lt;/e0&gt;：すべてのコメント部（&lt;!-- から --&gt; までのあいだ）を訳文ファイルに出力しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,14 +3720,6 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: The text, matching the regular expression, will be skipped.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T100631Z">
-        <seg>&lt;e0&gt;以下の正規表現に一致する文字列を翻訳しない：&lt;/e0&gt;指定した正規表現に一致するテキストは、翻訳対象とせずスキップすることができます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T182603Z">
@@ -3748,14 +3732,6 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141110T234042Z" creationid="Yu-Tang" creationdate="20141110T233859Z">
         <seg>&lt;e0&gt;スペース文字で nbsp も検索&lt;/e0&gt;：検索文字列に入力されたスペース文字を、通常のスペース文字だけでなく、ノーブレークスペース（\u00A）にも一致させます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;Start a new paragraph on: the &lt;br&gt;&lt;/e0&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T182454Z">
-        <seg>&lt;e0&gt;以下のタグで分節化：&lt;/e0&gt; HTML の &lt;e0&gt;&lt;br&gt;&lt;/e0&gt; タグがある場所を段落とみなして分節化することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7089,9 +7065,9 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%</seg>
+        <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T190959Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T172241Z" creationid="Yu-Tang" creationdate="20151103T172241Z">
         <seg>もし削除文字列を含む参考訳文と含まない参考訳文とがあった場合は、削除文字列を含む参考訳文に対して５％の固定ペナルティが与えられます。このような場合に、削除した文字列を含む参考訳文の類似度が１００％になることは、ありません。</seg>
       </tuv>
     </tu>
@@ -7413,14 +7389,6 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050603Z">
         <seg>ASCII テキスト（.txt など）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Aaron Madlon-Kay</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044050Z">
-        <seg>Aaron Madlon-Kay</seg>
       </tuv>
     </tu>
     <tu>
@@ -10499,16 +10467,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Code has been contributed by: 
-Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
-      </tuv>
-      <tuv lang="JA" changeid="yu-tang" changedate="20150211T152213Z" creationid="yu-tang" creationdate="20150211T152213Z">
-        <seg>コードに関する貢献者：
-Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich そして Michael Zakharov</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173412Z">
@@ -11628,14 +11586,6 @@ unpacking, reading or copying.</seg>
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T101411Z" creationid="Yu-Tang" creationdate="20151015T101411Z">
-        <seg>現在 VM が使用しているメモリは {0} MB です。空き容量は {1} MB で、最大 {2} MB が使用可能です。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145237Z">
         <seg>現在 VM が使用しているメモリは {0} MB です。空き容量は {1} MB で、最大 {2} MB が使用可能です。</seg>
       </tuv>
     </tu>
@@ -17205,9 +17155,9 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt; Go To Next Untranslated Segment&lt;/e0&gt;stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
+        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T185012Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T144200Z" creationid="Yu-Tang" creationdate="20151103T144200Z">
         <seg>たとえば同一の原文に対して、いくつかの異なる訳文が対応する場合があります。このような分節が存在していて、翻訳を慎重に進めたい場合は、このチェックボックスにチェックを入れてください。&lt;e0&gt;［次の未翻訳分節］&lt;/e0&gt;で分節を移動するときに、翻訳済みか未翻訳かに関わらず、このような複数訳文に該当する分節で止まります。</seg>
       </tuv>
     </tu>
@@ -17400,10 +17350,10 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author of the translation, date translated etc) as shown in the above image can be selected.</seg>
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author of the translation, date translated etc) can be selected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20150415T023011Z">
-        <seg>&lt;g0&gt;［詳細設定］&lt;/g0&gt;ボタンをクリックすると、上の図でも見ることができるように、追加の条件欄（翻訳者の名前や、翻訳が最後に更新された日時）が表示されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T172802Z" creationid="Yu-Tang" creationdate="20151103T172802Z">
+        <seg>&lt;g0&gt;［詳細設定］&lt;/g0&gt;ボタンをクリックすると、追加の条件欄（翻訳者の名前や、翻訳が最後に更新された日時など）が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17452,9 +17402,9 @@ by the Installation Information.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attemps to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attemp to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T091709Z" creationid="Yu-Tang" creationdate="20141202T091709Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T172638Z" creationid="Yu-Tang" creationdate="20151103T172638Z">
         <seg>たとえば、翻訳の途中で分節化を文単位から段落単位に変更しても、そのプロジェクトの内部翻訳メモリは何も変わりません。OmegaT は段落単位でしか分節化できなかった旧形式の翻訳メモリをアップグレードできますが、その逆はできないのです。ただし OmegaT は、文単位の既存の翻訳を結合して、段落単位の参考訳文を作ることはできます。</seg>
       </tuv>
     </tu>
@@ -18057,9 +18007,9 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In case translators need like to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T031058Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T172923Z" creationid="Yu-Tang" creationdate="20151103T172923Z">
         <seg>翻訳者のあいだで、TMX ファイルを共有したい場合があるとします。しかし、特定の文書に関する分節を除外したいか、逆にそれだけを含めたいという状況です。&lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; そのものを共有するのは、論外です。</seg>
       </tuv>
     </tu>
@@ -18433,14 +18383,6 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In this case NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T032716Z" creationid="Yu-Tang" creationdate="20141126T032716Z">
-        <seg>このような状況では、蘭中翻訳を、蘭英の翻訳メモリを介して行うしかありません。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>In this case pay extra attention to tag pairs since deleting one side of the pair but forgetting to delete the other is guaranteed to corrupt your document's formatting.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T032204Z">
@@ -18478,6 +18420,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T015858Z">
         <seg>この場合は、使いたい翻訳メモリを新しいプロジェクトの &lt;e0&gt;tm&lt;/e0&gt; フォルダーか &lt;e1&gt;tm/auto&lt;/e1&gt; フォルダーに配置してください。前者では、翻訳メモリから見つかった分節が参考訳文ウィンドウに表示されます。後者では、下訳として訳文分節に自動挿入されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T173034Z" creationid="Yu-Tang" creationdate="20151103T173034Z">
+        <seg>このような状況では、蘭中翻訳を、蘭英の翻訳メモリを介して行うしかありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30289,14 +30239,6 @@ Source.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The English tokenizers (org.omegat.tokenizer.SnowballEnglishTokenizer and</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T105923Z">
-        <seg>英語用のトークナイザー（org.omegat.tokenizer.SnowballEnglishTokenizer および</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The English tokenizers (org.omegat.tokenizer.SnowballEnglishTokenizer and
 org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words originally from
 Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
@@ -31975,9 +31917,9 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The project setting allows one can enter a name for a writable glossary file (see beginning of this chapter).</seg>
+        <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T173804Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T172411Z" creationid="Yu-Tang" creationdate="20151103T172411Z">
         <seg>プロジェクト設定では、書き込み可能な用語集ファイルの名前を入力することができます（本章の最初を参照してください）。</seg>
       </tuv>
     </tu>
@@ -32376,9 +32318,9 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it ZH_CN.tmx to indicate the target language of the tmx.</seg>
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141126T032805Z" creationid="Yu-Tang" creationdate="20141126T032805Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T173657Z" creationid="Yu-Tang" creationdate="20151103T173657Z">
         <seg>この例における解決策は、既存の翻訳メモリを tm/tmx2source/ フォルダーにコピーし、訳文言語を示すために ZH_CN.tmx とリネームすることです。</seg>
       </tuv>
     </tu>
@@ -32822,9 +32764,9 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The window that opens when &lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt; is pressed features a 3-column table with a link to the segment, the original segment and the target segment</seg>
+        <seg>The window that opens when &lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt; is pressed features a 3-column table with a link to the segment, the original segment and the target segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T021152Z" creationid="Yu-Tang" creationdate="20141104T021152Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T172315Z" creationid="Yu-Tang" creationdate="20151103T172315Z">
         <seg>&lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt; により表示されるウインドウには３列の表があります。それぞれ分節へのリンク、原文の分節、訳文の分節です。</seg>
       </tuv>
     </tu>
@@ -36096,9 +36038,9 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt;to open it.</seg>
+        <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt; to open it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T025508Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T173757Z" creationid="Yu-Tang" creationdate="20151103T173739Z">
         <seg>プロジェクトの参考訳文の一致率を閲覧できます。&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;［ツール］&lt;/g1&gt;&lt;g3&gt;［参考訳文の一致率］&lt;/g3&gt;&lt;/m0&gt;からウィンドウを開きます。</seg>
       </tuv>
     </tu>
@@ -36873,9 +36815,9 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>When looking for fuzzy matches the remove pattern is ignored.</seg>
+        <seg>When looking for fuzzy matches, the remove pattern is ignored.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T171327Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T172206Z" creationid="Yu-Tang" creationdate="20151103T172206Z">
         <seg>参考訳文の検索時には、削除すべき文字列は無視されます。</seg>
       </tuv>
     </tu>
@@ -43141,16 +43083,6 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words from Okapi
-(http://okapi.sourceforge.net) (LGPL license)</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T112132Z">
-        <seg>org.omegat.tokenizer.LuceneEnglishTokenizer）が利用する 
-  Okapi（http://okapi.sourceforge.net）由来の stop words（LGPL ライセンス）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>ori</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -44955,14 +44887,6 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130408T231254Z">
         <seg>written offer, valid for at least three years and valid for as</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>www.yolinux.com/TUTORIALS/Subversion.html</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130301T144902Z">
-        <seg>www.yolinux.com/TUTORIALS/Subversion.html</seg>
       </tuv>
     </tu>
     <tu>
