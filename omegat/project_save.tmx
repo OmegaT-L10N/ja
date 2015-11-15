@@ -655,6 +655,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T203837Z" creationid="Yu-Tang" creationdate="20151115T203837Z">
+        <seg>ユニコードのリテラル表記（\uXXXX）をエスケープ解除しない(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Download</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -1183,6 +1191,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace Glossary Hits when Inserting Source Text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T191749Z" creationid="Yu-Tang" creationdate="20151115T191749Z">
+        <seg>原文挿入時に用語集から置換(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033504Z">
@@ -1531,6 +1547,16 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>value（button や submit, reset を含むフォーム入力）(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T200741Z" creationid="Yu-Tang" creationdate="20151115T200741Z">
+        <seg>半角 * は、０個以上の任意の文字と一致します。たとえば run* で検索すると、run、runs、running などと一致します。
+半角 ? は、任意の１文字と一致します。たとえば run? は runs、rung には一致しますが、run や running には一致しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3218,6 +3244,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T144931Z">
         <seg>&lt;e0&gt;-XmxZZM&lt;/e0&gt;&lt;i1/&gt; この引数により、&lt;a2&gt;OmegaT&lt;/a2&gt; により多くのメモリを割り当てられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2015 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T175853Z" creationid="Yu-Tang" creationdate="20151115T175853Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; は © 2000-2015 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10458,6 +10492,16 @@ software for all its users.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T203922Z" creationid="Yu-Tang" creationdate="20151115T203922Z">
+        <seg>コードに関する貢献者：
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich そして Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151015T105642Z" creationid="Yu-Tang" creationdate="20151015T105642Z">
@@ -11887,6 +11931,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
         <seg>Developers that use the GNU GPL protect your rights with two steps:
 (1) assert copyright on the software, and (2) offer you this License
 giving you legal permission to copy, distribute and/or modify it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T204010Z" creationid="Yu-Tang" creationdate="20151115T204010Z">
+        <seg>DictZip from JDictd（GPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DictZip from JDictd (GPL v2)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T180051Z" creationid="Yu-Tang" creationdate="20151115T180051Z">
+        <seg>DictZip from JDictd（GPL v2 ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13822,6 +13882,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160515Z">
         <seg>docs フォルダーの場所を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T202204Z" creationid="Yu-Tang" creationdate="20151115T202204Z">
+        <seg>現在の原文に存在しない分節を除外</seg>
       </tuv>
     </tu>
     <tu>
@@ -15960,6 +16028,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T191845Z" creationid="Yu-Tang" creationdate="20151115T191845Z">
+        <seg>詳細設定を隠す(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T131355Z">
@@ -15996,6 +16072,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064953Z">
         <seg>ヒリモトゥ語（Hiri Motu）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T175952Z" creationid="Yu-Tang" creationdate="20151115T175952Z">
+        <seg>Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
@@ -17405,6 +17489,14 @@ by the Installation Information.</seg>
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attemp to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T172638Z" creationid="Yu-Tang" creationdate="20151103T172638Z">
+        <seg>たとえば、翻訳の途中で分節化を文単位から段落単位に変更しても、そのプロジェクトの内部翻訳メモリは何も変わりません。OmegaT は段落単位でしか分節化できなかった旧形式の翻訳メモリをアップグレードできますが、その逆はできないのです。ただし OmegaT は、文単位の既存の翻訳を結合して、段落単位の参考訳文を作ることはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T175945Z" creationid="Yu-Tang" creationdate="20151115T175945Z">
         <seg>たとえば、翻訳の途中で分節化を文単位から段落単位に変更しても、そのプロジェクトの内部翻訳メモリは何も変わりません。OmegaT は段落単位でしか分節化できなかった旧形式の翻訳メモリをアップグレードできますが、その逆はできないのです。ただし OmegaT は、文単位の既存の翻訳を結合して、段落単位の参考訳文を作ることはできます。</seg>
       </tuv>
     </tu>
@@ -19615,10 +19707,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T201510Z" creationid="Yu-Tang" creationdate="20151115T201510Z">
+        <seg>キーワード検索は利用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T151730Z">
         <seg>キーワード検索は、Google などのインターネット検索エンジンにおける「すべてを含む」検索（AND 検索）に似ています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T195828Z" creationid="Yu-Tang" creationdate="20151115T194819Z">
+        <seg>キーワード検索は、検索文字列をスペース区切りの単語リストとみなし、それらを順不同ですべて含むか照合します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25220,6 +25328,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T194125Z" creationid="Yu-Tang" creationdate="20151115T194125Z">
+        <seg>プロジェクト検索は、デフォルトでは原文と訳文、外部翻訳メモリ、用語集、メモ、コメントに対して行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project will not be updated.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160445Z">
@@ -25700,6 +25816,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121231T140543Z">
         <seg>翻訳から削除すべき文字列の正規表現：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T200059Z" creationid="Yu-Tang" creationdate="20151115T195658Z">
+        <seg>正規表現検索は、検索文字列を Java の正規表現（詳細は取扱説明書を参照）として照合します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26488,6 +26612,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T180305Z" creationid="Yu-Tang" creationdate="20151115T180305Z">
+        <seg>Java {0} ({1}-bit) 上で実行中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T163807Z">
@@ -26806,6 +26938,16 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155547Z">
         <seg>プロジェクトを保存しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T193808Z" creationid="Yu-Tang" creationdate="20151115T193808Z">
+        <seg>対象範囲：
+検索の対象範囲は、デフォルトでは現在のプロジェクトに設定されています。特定のフォルダー配下のファイル群も対象に設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28039,6 +28181,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T170833Z">
         <seg>過去のプロジェクトで使用した翻訳メモリを再利用したいとき（たとえば、今度作成する新しいプロジェクトが「過去のものと非常に似ている」または「以前に使用したかもしれない専門用語を含んでいる」というような場合など）、この翻訳メモリを「入力用翻訳メモリ」として、新しいプロジェクトにインポートできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T191835Z" creationid="Yu-Tang" creationdate="20151115T191835Z">
+        <seg>詳細設定を表示する(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29863,6 +30013,16 @@ this License.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T102351Z">
         <seg>テキストの置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T201342Z" creationid="Yu-Tang" creationdate="20151115T201342Z">
+        <seg>テキストの置換：
+置換の対象範囲は、現在のプロジェクトの訳文分節です。翻訳済みの分節だけでなく、未翻訳の分節も対象にできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35314,6 +35474,16 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T195729Z" creationid="Yu-Tang" creationdate="20151115T194400Z">
+        <seg>種類：
+完全一致検索は、検索文字列全体をひとつの検索語句として照合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typo3 LocManager</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130531T132012Z">
@@ -36927,6 +37097,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string does not support references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T202020Z" creationid="Yu-Tang" creationdate="20151115T202020Z">
+        <seg>正規表現を使う場合の制限として、検索文字列で定義したグループを置換後の文字列内で前方参照できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When we speak of free software, we are referring to freedom, not
 price.</seg>
       </tuv>
@@ -37157,6 +37335,16 @@ technological measures.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T171227Z">
         <seg>WiX ローカリゼーションファイル（*.wxl）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T200335Z" creationid="Yu-Tang" creationdate="20151115T200335Z">
+        <seg>ワイルドカード：
+完全一致検索とキーワード検索の両方で、ワイルドカードとして半角の * と ? を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
