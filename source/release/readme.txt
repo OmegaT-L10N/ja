@@ -288,6 +288,7 @@ Code has been contributed by
   Fabián Mandelbaum
   Manfred Martin
   Adiel Mittmann
+  Hiroshi Miura 
   John Moran
   Maxym Mykhalchuk 
   Arno Peters
@@ -347,6 +348,7 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)
   groovy-all-2.2.2.jar (Apache Licence 2.0)
   slf4j (MIT License)
   juniversalchardet-1.0.3.jar (GPL v2)
+  DictZip from JDictd (GPL v2)
 
 ==============================================================================
  5.  Is OmegaT bugging you? Do you need help?
