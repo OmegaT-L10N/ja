@@ -833,8 +833,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
-        <seg>既定値訳文と違う新しい訳文がある場合［次の未翻訳分節］でその訳文へ移動する(&amp;G)</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>基本訳文と違う例外訳文がある場合［次の未翻訳分節］でその訳文へ移動する(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5333,8 +5333,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Segments with alternative translation&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T183421Z">
-        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;翻訳入力行&lt;/s1&gt; &lt;t2&gt;新しい訳文が入力された分節&lt;/t2&gt;</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>&lt;p0&gt;設定メニュー&lt;/p0&gt; &lt;s1&gt;翻訳入力行&lt;/s1&gt; &lt;t2&gt;例外訳文が入力された分節&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11069,8 +11069,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create Alternative Translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T145703Z">
-        <seg>新しい訳文を登録</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>例外訳文を登録</seg>
       </tuv>
     </tu>
     <tu>
@@ -15613,8 +15613,8 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       <tuv lang="EN">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T183330Z">
-        <seg>既定値訳文と違う新しい訳文がある場合［次の未翻訳分節］でその訳文へ移動する</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>基本訳文と違う例外訳文がある場合［次の未翻訳分節］でその訳文へ移動する</seg>
       </tuv>
     </tu>
     <tu>
@@ -16382,8 +16382,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140426T144036Z">
-        <seg>複数訳文における「新しい訳文」の識別子</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>複数訳文における「例外訳文」の識別子</seg>
       </tuv>
     </tu>
     <tu>
@@ -16637,8 +16637,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="EN">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092547Z">
-        <seg>原文分節に対応する訳文がまだ翻訳メモリ（project_save.tmx）に存在しなければ、翻訳内容はデフォルトの対訳（既定値訳文）として project_save.tmx に保存されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T154752Z">
+        <seg>原文分節に対応する訳文がまだ翻訳メモリ（project_save.tmx）に存在しなければ、翻訳内容はデフォルトの対訳（基本訳文）として project_save.tmx に保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16971,8 +16971,8 @@ to choose that version for the Program.</seg>
       <tuv lang="EN">
         <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T025202Z">
-        <seg>もし現在の翻訳がしっくりこない場合は、&lt;g0&gt;［編集］→［新しい訳文を登録］&lt;/g0&gt;コマンドを選んでください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>もし現在の翻訳がしっくりこない場合は、&lt;g0&gt;［編集］→［例外訳文を登録］&lt;/g0&gt;コマンドを選んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18077,8 +18077,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="EN">
         <seg>In case of PO files, a 20% penalty applied to the alternative translation (i.e., a 100% match becomes an 80% match).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T164921Z">
-        <seg>PO ファイルの場合は、複数訳文の「新しい訳文」扱いになった対訳情報に対して 20% のペナルティが課せられます（たとえば 100% 一致しても、80% に減点されます）。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>PO ファイルの場合は、複数訳文の「例外訳文」扱いになった対訳情報に対して 20% のペナルティが課せられます（たとえば 100% 一致しても、80% に減点されます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18093,8 +18093,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="EN">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T023237Z">
-        <seg>同じ内容の分節が何箇所か原文に存在する場合、［翻訳自動反映］チェックボックスにチェックを入れると、最初にその内容を一箇所翻訳した時点で、それが既定値訳文に設定され、他の訳文分節にも同じ内容が設定されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T154808Z">
+        <seg>同じ内容の分節が何箇所か原文に存在する場合、［翻訳自動反映］チェックボックスにチェックを入れると、最初にその内容を一箇所翻訳した時点で、それが基本訳文に設定され、他の訳文分節にも同じ内容が設定されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18117,8 +18117,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="EN">
         <seg>In case, however, the same source segment already exists with a different translation, the new translation will be saved as an alternative.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T092628Z">
-        <seg>もし原文分節に対応する別の訳文がすでに存在した場合、翻訳内容は（既定値訳文ではなく）「新しい訳文」として保存されます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>もし原文分節に対応する別の訳文がすでに存在した場合、翻訳内容は（基本訳文ではなく）「例外訳文」として保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19006,8 +19006,8 @@ Simply launch the installation program.</seg>
       <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T171359Z">
-        <seg>既定値訳文</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T154918Z">
+        <seg>基本訳文</seg>
       </tuv>
     </tu>
     <tu>
@@ -19305,8 +19305,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>It is treated as a default translation, if no match has been found, or as an alternative translation, in case the same source segment exists, but with a target text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T164024Z">
-        <seg>翻訳メモリ内に他に一致する分節がなければ、移行された翻訳は、デフォルトの翻訳になります。翻訳メモリ内に他の一致する分節が記録済みの場合、移行された翻訳は、複数訳文の「新しい訳文」の方として扱われます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>翻訳メモリ内に他に一致する分節がなければ、移行された翻訳は、デフォルトの翻訳になります。翻訳メモリ内に他の一致する分節が記録済みの場合、移行された翻訳は、複数訳文の「例外訳文」の方として扱われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21307,8 +21307,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T023626Z">
-        <seg>原文が同じでも、文脈によっては他と同じ内容が適さない分節があるかもしれません。その場合はもちろん、後で&lt;g0&gt;［新しい訳文を登録］&lt;/g0&gt;コマンドを使って手修正することができます。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>原文が同じでも、文脈によっては他と同じ内容が適さない分節があるかもしれません。その場合はもちろん、後で&lt;g0&gt;［例外訳文を登録］&lt;/g0&gt;コマンドを使って手修正することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32181,8 +32181,8 @@ the User Product in which it has been modified or installed.</seg>
       <tuv lang="EN">
         <seg>The result will thus depend on the order in which the source segments have been loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T170951Z">
-        <seg>複数訳文になる場合、翻訳が「既定値訳文」になるか「新しい訳文」になるかは、原文分節の読み込まれる順番に依存します。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>複数訳文になる場合、翻訳が「基本訳文」になるか「例外訳文」になるかは、原文分節の読み込まれる順番に依存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32669,8 +32669,8 @@ use, which is precisely where it is most unacceptable.</seg>
       <tuv lang="EN">
         <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T025749Z">
-        <seg>その後に入力した訳文は、「新しい訳文」として扱われます。同じ内容の他の原文に対する既存の訳文には影響しません。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>その後に入力した訳文は、「例外訳文」として扱われます。同じ内容の他の原文に対する既存の訳文には影響しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36082,8 +36082,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T145529Z">
-        <seg>既定値訳文として使用</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T154655Z">
+        <seg>基本訳文として使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -38108,8 +38108,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T025743Z">
-        <seg>また、「新しい訳文」のうちの（もっとも普遍的な）１つを、既定値に設定することもできます。この場合は、&lt;g1&gt;［編集］→［既定値訳文として使用］&lt;/g1&gt;を選んでください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
+        <seg>また、「例外訳文」のうちの（もっとも普遍的な）１つを、既定値に設定することもできます。この場合は、&lt;g1&gt;［編集］→［基本訳文として使用］&lt;/g1&gt;を選んでください。</seg>
       </tuv>
     </tu>
     <tu>
