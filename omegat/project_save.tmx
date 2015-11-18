@@ -22107,6 +22107,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-breaking space</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T160515Z" creationid="Yu-Tang" creationdate="20151118T160515Z">
+        <seg>ノーブレークスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-unique segments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T132826Z" creationid="Yu-Tang" creationdate="20140923T132826Z">
@@ -26248,6 +26256,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T150541Z">
         <seg>エスケープシーケンスをスペース文字に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T161141Z" creationid="Yu-Tang" creationdate="20151118T161141Z">
+        <seg>スペース文字をノーブレークスペースに置き換えます（フランス語用）</seg>
       </tuv>
     </tu>
     <tu>
