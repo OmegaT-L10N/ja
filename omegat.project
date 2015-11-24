@@ -9,6 +9,7 @@
             <mask>**/desktop.ini</mask>
             <mask>**/Thumbs.db</mask>
             <mask>/doc_src/en/license.txt</mask>
+            <mask>/doc_src/en/version.properties</mask>
         </source_dir_excludes>
         <target_dir>__DEFAULT__</target_dir>
         <tm_dir>__DEFAULT__</tm_dir>
