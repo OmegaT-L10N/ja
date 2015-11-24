@@ -8236,6 +8236,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151121T212458Z" creationid="Yu-Tang" creationdate="20151121T212458Z">
+        <seg>エラーが発生しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the repo type.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082953Z">
@@ -16971,8 +16979,8 @@ to choose that version for the Program.</seg>
       <tuv lang="EN">
         <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
-        <seg>もし現在の翻訳がしっくりこない場合は、&lt;g0&gt;［編集］→［例外訳文を登録］&lt;/g0&gt;コマンドを選んでください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151121T213716Z">
+        <seg>もし現在の翻訳がしっくりこない場合は、&lt;g0&gt;［編集］→［例外訳文を登録］&lt;/g0&gt;コマンド（訳注：OmegaT 3.5.2 アップデート 1 以前では［新しい訳文を登録］）を選んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23338,10 +23346,26 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151121T212344Z" creationid="Yu-Tang" creationdate="20151121T212344Z">
+        <seg>OmegaT バージョン {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT version {0}, update {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175037Z">
         <seg>OmegaT バージョン {0} アップデート {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1} ({2})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151121T212439Z" creationid="Yu-Tang" creationdate="20151121T212439Z">
+        <seg>OmegaT バージョン {0} アップデート {1} ({2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -38124,8 +38148,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T155143Z">
-        <seg>また、「例外訳文」のうちの（もっとも普遍的な）１つを、既定値に設定することもできます。この場合は、&lt;g1&gt;［編集］→［基本訳文として使用］&lt;/g1&gt;を選んでください。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151121T213633Z">
+        <seg>また、「例外訳文」のうちの（もっとも普遍的な）１つを、既定値に設定することもできます。この場合は、&lt;g1&gt;［編集］→［基本訳文として使用］&lt;/g1&gt;（訳注：OmegaT 3.5.2 アップデート 1 以前では［既定値訳文として使用］）を選んでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45251,6 +45275,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124116Z">
         <seg>分節数 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151121T212553Z" creationid="Yu-Tang" creationdate="20151121T212553Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151121T212607Z" creationid="Yu-Tang" creationdate="20151121T212607Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20151121T212538Z" creationid="Yu-Tang" creationdate="20151121T212538Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
     </tu>
     <tu>
