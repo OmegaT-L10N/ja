@@ -2904,6 +2904,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T041445Z" creationid="Kasuya" creationdate="20160118T041445Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; には Java JRE 1.8 が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; creates its tags before the process of sentence segmenting.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T202110Z">
@@ -6823,6 +6831,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030237Z">
         <seg>&lt;r0&gt;注意：&lt;/r0&gt;Mac ユーザーは、&lt;k1&gt;Ctrl&lt;/k1&gt; キーを &lt;k2&gt;Command&lt;/k2&gt; キー（⌘ マークが付いているキー）に読み替えてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T043030Z" creationid="Kasuya" creationdate="20160118T042314Z">
+        <seg>&lt;r0&gt;注意：&lt;/r0&gt;翻訳対象ファイル一覧ウィンドウが表示されないようにすることができます。それには、&lt;f3&gt;omegat.prefs&lt;/f3&gt;ファイル（［設定］→［設定フォルダー］メニューからアクセス可能）中の&lt;e1&gt;project_files_show_on_load&lt;/e1&gt;を&lt;e2&gt;false&lt;/e2&gt;に設定します。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -32369,6 +32385,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T085046Z">
         <seg>もうひとつの章では、翻訳プロジェクトが含むさまざまなフォルダーやファイルとその役割について取り上げています。また OmegaT に関連付けられた個人設定ファイルとプログラムファイルについても、説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T042200Z" creationid="Kasuya" creationdate="20160118T041730Z">
+        <seg>分節を英文字で呼び出すか、または分節番号を入力すれば、対応する分節が開きます。</seg>
       </tuv>
     </tu>
     <tu>
