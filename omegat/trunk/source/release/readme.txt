@@ -102,7 +102,7 @@ the [Help] menu after starting OmegaT.
 
 3.1 General
 In order to run, OmegaT requires the Java Runtime Environment (JRE) version 
-1.5 or higher to be installed on your system. OmegaT packages which include
+1.6 or higher to be installed on your system. OmegaT packages which include
 the Java Runtime Environment are now available to save users the trouble of 
 selecting, obtaining and installing it. 
 
@@ -244,6 +244,9 @@ Spotlight search field.
 
 To participate in the development of OmegaT, get in touch with the developers at:
     http://lists.sourceforge.net/lists/listinfo/omegat-development
+
+To get started as a programmer, see the developer documentation at:
+    https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/
 
 To translate OmegaT's user interface, user manual or other related documents,
 read:
