@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1225,8 +1225,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Root</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T115159Z" creationid="Yu-Tang" creationdate="20150716T115159Z">
-        <seg>ルート(&amp;R)</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T000903Z" creationid="Yu-Tang" creationdate="20150716T115159Z">
+        <seg>プロジェクトフォルダー(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
