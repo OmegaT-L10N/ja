@@ -6837,8 +6837,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160118T043030Z" creationid="Kasuya" creationdate="20160118T042314Z">
-        <seg>&lt;r0&gt;注意：&lt;/r0&gt;翻訳対象ファイル一覧ウィンドウが表示されないようにすることができます。それには、&lt;f3&gt;omegat.prefs&lt;/f3&gt;ファイル（［設定］→［設定フォルダー］メニューからアクセス可能）中の&lt;e1&gt;project_files_show_on_load&lt;/e1&gt;を&lt;e2&gt;false&lt;/e2&gt;に設定します。 </seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T043142Z" creationid="Kasuya" creationdate="20160118T042314Z">
+        <seg>&lt;r0&gt;注意：&lt;/r0&gt;翻訳対象ファイル一覧ウィンドウが表示されないようにすることができます。それには、&lt;f3&gt;omegat.prefs&lt;/f3&gt; ファイル（［設定］→［設定フォルダー］メニューからアクセス可能）中の &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; を &lt;e2&gt;false&lt;/e2&gt; に設定します。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -15421,6 +15421,17 @@ In order to run, OmegaT requires the Java Runtime Environment (JRE) version
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T100210Z">
         <seg>全般の確認事項
+OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 以降があらかじめインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General
+In order to run, OmegaT requires the Java Runtime Environment (JRE) version 
+1.6 or higher to be installed on your system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T043111Z" creationid="Kasuya" creationdate="20160118T043111Z">
+        <seg>★全般の確認事項
 OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 以降があらかじめインストールされている必要があります。</seg>
       </tuv>
     </tu>
