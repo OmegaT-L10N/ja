@@ -695,6 +695,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T050630Z" creationid="Kasuya" creationdate="20160118T050543Z">
+        <seg>編集(&amp;E)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -1275,6 +1283,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>プロジェクトを検索(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T051105Z" creationid="Kasuya" creationdate="20160118T051105Z">
+        <seg>選択対象を検索(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9503,8 +9519,8 @@ been installed in ROM).</seg>
       <tuv lang="EN">
         <seg>But you also changed this data to "{2}".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160118T045632Z" creationid="Kasuya" creationdate="20160118T045414Z">
-        <seg>しかし、このデータがさらに「{2}」に変更されました。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T045933Z" creationid="Kasuya" creationdate="20160118T045414Z">
+        <seg>しかし、ユーザーはこのデータを「{2}」に変更しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12867,8 +12883,8 @@ project_save.tmx をアップロードできませんでした。現在、SVN �
       <tuv lang="EN">
         <seg>During remote updates or other automatic processing, data (previously known as "{0}") was changed to "{1}".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160118T045238Z" creationid="Kasuya" creationdate="20160118T045151Z">
-        <seg>リモート更新などの自動処理の際に、以前は「{0}」であったデータが、「{1}」に変更されました。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T050208Z" creationid="Kasuya" creationdate="20160118T045151Z">
+        <seg>リモート更新や他の自動処理の際に、以前は「{0}」であったデータが「{1}」に変更されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24917,6 +24933,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T154045Z">
         <seg>MediaWiki ページの URL を入力してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please, press OK to remember your changes ("{2}"), or Cancel to keep remote/automatic changes ("{1}").</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T050313Z" creationid="Kasuya" creationdate="20160118T045920Z">
+        <seg>ユーザーによる変更「{2}」を採用する場合は「確定」を押し、リモート/自動変更「{1}」を維持する場合は「取消」 を押してください。</seg>
       </tuv>
     </tu>
     <tu>
