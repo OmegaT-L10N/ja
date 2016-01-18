@@ -6837,8 +6837,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160118T043142Z" creationid="Kasuya" creationdate="20160118T042314Z">
-        <seg>&lt;r0&gt;注意：&lt;/r0&gt;翻訳対象ファイル一覧ウィンドウが表示されないようにすることができます。それには、&lt;f3&gt;omegat.prefs&lt;/f3&gt; ファイル（［設定］→［設定フォルダー］メニューからアクセス可能）中の &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; を &lt;e2&gt;false&lt;/e2&gt; に設定します。 </seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T043245Z" creationid="Kasuya" creationdate="20160118T042314Z">
+        <seg>&lt;r0&gt;注意：&lt;/r0&gt;翻訳対象ファイル一覧ウィンドウが表示されないようにすることができます。それには、ファイル（［設定］→［設定フォルダー］メニューからアクセスできる &lt;f3&gt;omegat.prefs&lt;/f3&gt; 中の &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; を &lt;e2&gt;false&lt;/e2&gt; に設定します。</seg>
       </tuv>
     </tu>
     <tu>
