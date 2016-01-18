@@ -10696,6 +10696,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conflicts resolving</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T044927Z" creationid="Kasuya" creationdate="20160118T044927Z">
+        <seg>競合の解決</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170207Z">
@@ -11663,6 +11671,22 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050554Z">
         <seg>現在の &lt;a1&gt;OmegaT&lt;/a1&gt; は、プレーンテキストファイルのうち以下の形式に対応しています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor lock off</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T044148Z" creationid="Kasuya" creationdate="20160118T044148Z">
+        <seg>カーソルロック解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor lock on</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T044138Z" creationid="Kasuya" creationdate="20160118T044138Z">
+        <seg>カーソルロック</seg>
       </tuv>
     </tu>
     <tu>
@@ -12829,6 +12853,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150415T023454Z" creationid="Yu-Tang" creationdate="20141126T033336Z">
         <seg>SVN エラー（{0}）が発生したため、
 project_save.tmx をアップロードできませんでした。現在、SVN サーバーとは同期していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During remote updates or other automatic processing, data (previously known as "{0}") was changed to "{1}".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T045238Z" creationid="Kasuya" creationdate="20160118T045151Z">
+        <seg>リモート更新などの自動処理の際に、以前は「{0}」であったデータが、「{1}」に変更されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15698,6 +15730,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.5 �
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T185959Z" creationid="Yu-Tang" creationdate="20141112T185858Z">
         <seg>https://demo.taas-project.eu/account/keys/create?system=omegaT にアクセスし、専用の API キーを作成してください。それを Java の起動オプション -Dtaas.user.key=xxxxx に指定して OmegaT を起動してください。(TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to https://term.tilde.com/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T044909Z" creationid="Kasuya" creationdate="20160118T044909Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT にアクセスし、専用の API キーを作成してください。それを Java の起動オプション -Dtaas.user.key=xxxxx に指定して OmegaT を起動してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18703,6 +18743,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T080436Z">
         <seg>このフォルダーは、最初は空の状態です。プロジェクトに辞書を追加する際、辞書ファイルの置き場所になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially load this many segments:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T044426Z" creationid="Kasuya" creationdate="20160118T044426Z">
+        <seg>最初に読み込む分節数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27395,6 +27443,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Help &gt; User's Manual for more information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T043755Z" creationid="Kasuya" creationdate="20160118T043755Z">
+        <seg>詳しくは［ヘルプ］→［取扱説明書］を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T141041Z">
@@ -28572,6 +28628,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150415T024450Z">
         <seg>ある種の原文ファイル（PO ファイルや TTX ファイルなど）はバイリンガル形式、すなわち原文と翻訳メモリを兼ねた状態になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T044806Z" creationid="Kasuya" creationdate="20160118T044806Z">
+        <seg>何らかの異常がありました。詳細は Tilde Terminology のサイトで確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34697,6 +34761,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To get started as a programmer, see the developer documentation at:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T043533Z" creationid="Kasuya" creationdate="20160118T043533Z">
+        <seg>プログラマーとして参加する場合は、開発者向け文書をお読みください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To identify yourself as a valid user for the Google services, you use your private unique key sent to you by Google, when you have registered for the service.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T122602Z">
@@ -35299,6 +35371,15 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T044335Z" creationid="Kasuya" creationdate="20160118T044335Z">
+        <seg>訳文ファイルパスは、原文ファイルパスと同じにはできません。{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165153Z">
@@ -35683,6 +35764,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175602Z">
         <seg>TaaS サービスの認証に失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T044637Z" creationid="Kasuya" creationdate="20160118T044637Z">
+        <seg>TaaS サービスの認証に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37000,6 +37089,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T065430Z">
         <seg>規則が適用されると、編集ウィンドウ上の対応する語句には青い下線が引かれます（上の画像の「&lt;e1&gt;also&lt;/e1&gt;」と「&lt;e2&gt;I didn't do nothing&lt;/e2&gt;」に注目してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160118T044628Z" creationid="Kasuya" creationdate="20160118T044443Z">
+        <seg>１つのファイルの分節数がこの値を超える場合、後続の分節はスクロールに応じて読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
