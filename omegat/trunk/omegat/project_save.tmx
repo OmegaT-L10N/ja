@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8224M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8231" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150907Z" creationid="Yu-Tang" creationdate="20160219T150907Z">
+        <seg>"名前に \"/\" 記号を含むフォルダーからは起動できません。"</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T152236Z">
         <seg>「Google Translate returned HTTP response code: 403 ...」：pinfo.list ファイル（Mac の場合）に入力した 38 文字のキーが正しいか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150835Z" creationid="Yu-Tang" creationdate="20160219T150835Z">
+        <seg>"メインクラス名の指定は必須です。"</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +38,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150757Z" creationid="Yu-Tang" creationdate="20160219T150757Z">
+        <seg>"このプログラムを実行するには、Java %d 以降がインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150820Z" creationid="Yu-Tang" creationdate="20160219T150820Z">
+        <seg>"このプログラムを実行するには、Java %d 以降の JDK がインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T170551Z">
         <seg>"This is a source term, which contains a comma","これは訳文の用語です, カンマも含みます"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150842Z" creationid="Yu-Tang" creationdate="20160219T150842Z">
+        <seg>"Java ディレクトリのコンテンツを列挙できません。"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150736Z" creationid="Yu-Tang" creationdate="20160219T150736Z">
+        <seg>"Java 実行環境を起動できません。"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150745Z" creationid="Yu-Tang" creationdate="20160219T150745Z">
+        <seg>"Java %d 実行環境を起動できません。"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16766,6 +16822,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150953Z" creationid="Yu-Tang" creationdate="20160219T150953Z">
+        <seg>Wiki ページをインポートできませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing and exporting translation memories</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T021838Z">
@@ -23285,6 +23349,22 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082850Z">
         <seg>もう一度、確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150828Z" creationid="Yu-Tang" creationdate="20160219T150828Z">
+        <seg>Oracle.com から最新の Java JDK をダウンロードしてインストールした後に、再度お試しください。"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150810Z" creationid="Yu-Tang" creationdate="20160219T150810Z">
+        <seg>www.java.com から最新の Java をダウンロードしてインストールした後に、再度お試しください。"</seg>
       </tuv>
     </tu>
     <tu>
