@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8231" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8250M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8562,6 +8562,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T150425Z" creationid="Yu-Tang" creationdate="20160308T150425Z">
+        <seg>入力補完は訳文分節欄でショートカット &lt;e0&gt;Ctrl+Space&lt;/e0&gt; を押すと呼び出せます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completion</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T041909Z" creationid="Yu-Tang" creationdate="20141104T041909Z">
@@ -9088,6 +9096,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T145400Z">
         <seg>デフォルトでは 512 MB が割り当てられます。そのため、これより小さな値をこの引数で指定しても効果はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, it opens automatically with relevant suggestions, but this can be turned off by unchecking &lt;e1&gt;Show Relevant Suggestions Automatically&lt;/e1&gt; option.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T150709Z" creationid="Yu-Tang" creationdate="20160308T150709Z">
+        <seg>デフォルトでは関連性の強い補完候補を自動的に表示します。この設定は&lt;e1&gt;関連性の強い補完候補を自動的に表示する&lt;/e1&gt;のチェックを外すことでオフにできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16629,6 +16645,30 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T150109Z" creationid="Yu-Tang" creationdate="20160308T150109Z">
+        <seg>任意のウィンドウでテキストを選択してから&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;を押すと、そのテキストが&lt;g3&gt;検索文字列&lt;/g3&gt;領域に自動で設定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T150207Z" creationid="Yu-Tang" creationdate="20160308T150207Z">
+        <seg>任意のウィンドウでテキストを選択してから&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;を押すと、そのテキストが&lt;g3&gt;検索文字列&lt;/g3&gt; 領域に自動で設定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T145945Z" creationid="Yu-Tang" creationdate="20160308T145945Z">
+        <seg>任意のウィンドウでテキストを選択してから&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;を押すと、そのテキストが&lt;g4&gt;原文の用語&lt;/g4&gt;領域に自動で設定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155910Z">
@@ -22226,6 +22266,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T145238Z" creationid="Yu-Tang" creationdate="20160308T145238Z">
+        <seg>再度 &lt;e1&gt;Ctrl+Space&lt;/e1&gt; を押すことで、&lt;e2&gt;用語集&lt;/e2&gt;、&lt;e3&gt;定型文&lt;/e3&gt;、&lt;e4&gt;未使用のタグ&lt;/e4&gt;、&lt;e5&gt;文字一覧&lt;/e5&gt;を連続的に切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T090609Z">
@@ -22944,6 +22992,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T090908Z">
         <seg>誤った操作の結果、複数のタグペアで囲まれた箇所が（入れ子ではなく）一部重なってしまうと確実に翻訳ファイルの整形が壊れてしまい、場合によっては翻訳ファイルがまったく開かなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Overwriting is operating until the TMX is removed from /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T151037Z" creationid="Yu-Tang" creationdate="20160308T151037Z">
+        <seg>TMX ファイルを /tm/enforce フォルダーから移動や削除すると、上書きはされません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28151,6 +28207,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150418T041730Z" creationid="Yu-Tang" creationdate="20150418T041730Z">
         <seg>タグ処理の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T145311Z" creationid="Yu-Tang" creationdate="20160308T145311Z">
+        <seg>タグ処理...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36211,6 +36275,14 @@ to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T145626Z" creationid="Yu-Tang" creationdate="20160308T145626Z">
+        <seg>そのフィルターに扱わせたいファイルに応じて、ファイル名構成例を変更したり追加したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change or add filename patterns for files to be handled by each file.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130210T134422Z">
@@ -36826,6 +36898,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122658Z">
         <seg>[参考] </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[vbdx: le chgt de nom a-t-il impact sur le code ?]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T145523Z" creationid="Yu-Tang" creationdate="20160308T145523Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -40748,6 +40828,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T203651Z">
         <seg>一単語分、右に移動します。ただし分節の末尾よりも右には移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T145003Z" creationid="Yu-Tang" creationdate="20160308T145003Z">
+        <seg>文脈に応じた内容の入力補完ダイアログボックスを表示します（Mac：&lt;e0&gt;Esc&lt;/e0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
