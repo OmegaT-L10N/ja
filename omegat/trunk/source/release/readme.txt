@@ -102,7 +102,7 @@ the [Help] menu after starting OmegaT.
 
 3.1 General
 In order to run, OmegaT requires the Java Runtime Environment (JRE) version 
-1.6 or higher to be installed on your system. OmegaT packages which include
+1.8 or higher to be installed on your system. OmegaT packages which include
 the Java Runtime Environment are now available to save users the trouble of 
 selecting, obtaining and installing it. 
 
@@ -124,7 +124,7 @@ an access to the hard drive of the computer. Subsequent clicks on  OmegaT.jnlp
 will check for any upgrades, if you are online, install them if there are any, 
 and then start OmegaT. 
 
-The alternative ways and means of dowloading and installing OmegaT are
+The alternative ways and means of downloading and installing OmegaT are
 shown below. 
 
 Windows and Linux users: if you are confident that your system already has a 
@@ -148,10 +148,10 @@ since this "local" JRE will not interfere with any other JRE installed
 on your system.
 
 Mac users: 
-The JRE is already installed on Mac OS X before Mac OS X 10.7 
-(Lion). Lion users will be prompted by the system when they first launch 
-an application that requires Java and the system will eventually 
-automatically download and install it.
+The Mac version comes bundled with a JRE. Otherwise you must download and
+install the Oracle JRE on your own.
+
+    https://java.com/en/download/
 
 Linux on PowerPC systems: 
 Users will need to download IBM's JRE, as Sun does 
@@ -323,31 +323,23 @@ but you don't see your name on the lists, feel free to contact us.)
 OmegaT uses the following libraries:
   HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)
   VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)
-  Hunspell by László Németh and others (LGPL License)
-  JNA by Todd Fast, Timothy Wall and others (LGPL License)
   Swing-Layout 1.0.4 (LGPL License)
   Jmyspell 2.1.4 (LGPL License)
-  SVNKit 1.8.5 (TMate License)
+  SVNKit 1.8.11 (TMate License)
   Sequence Library (Sequence Library License)
   ANTLR 3.4 (ANTLR 3 license)
   SQLJet 1.1.10 (GPL v2)
   JGit (Eclipse Distribution License)
   JSch (JSch License)
-  Base64 (public domain)
+  jsch-agent-proxy (jsch-agent-proxy License)
   Diff (GPL)
-  trilead-ssh2-1.0.0-build217 (Trilead SSH license)
+  trilead-ssh2-1.0.0-build220 (Trilead SSH license)
   lucene-*.jar (Apache License 2.0)
-  The English tokenizers (org.omegat.tokenizer.SnowballEnglishTokenizer and
-org.omegat.tokenizer.LuceneEnglishTokenizer) use stop words originally from
-Okapi (http://okapi.sourceforge.net) (LGPL license)
-  tinysegmenter.jar (Modified BSD license)
+  LuceneEnglishTokenizer uses stop words originally from Okapi
+(http://okapi.sourceforge.net) (LGPL license)
   commons-*.jar (Apache License 2.0)
-  jWordSplitter (Apache License 2.0)
-  LanguageTool.jar (LGPL license)
-  morfologik-*.jar (Morfologik license)
-  segment-1.4.1.jar (Segment license)
-  pdfbox-app-1.8.1.jar (Apache License 2.0)
-  KoreanAnalyzer-3x-120223.jar (Apache License 2.0)
+  LanguageTool (LGPL license and others)
+  PDFBox (Apache License 2.0)
   SuperTMXMerge-for_OmegaT.jar (LGPL license)
   groovy-all-2.2.2.jar (Apache Licence 2.0)
   slf4j (MIT License)
