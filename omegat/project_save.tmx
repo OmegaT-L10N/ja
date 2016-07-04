@@ -2228,6 +2228,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160704T085651Z" creationid="Kasuya" creationdate="20160704T085651Z">
+        <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Taro" changedate="20160212T021346Z" creationid="Taro" creationdate="20160212T020945Z">
@@ -4624,6 +4632,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T025813Z">
         <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; 設定ファイルがどのフォルダーにあるかを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160704T090535Z" creationid="Kasuya" creationdate="20160704T090535Z">
+        <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; は、どの設定ファイルを使用するかを指定します。 &lt;a1&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7308,6 +7324,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150727T033322Z" creationid="Yu-Tang" creationdate="20150716T122346Z">
         <seg>設定フォルダー(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160704T090633Z" creationid="Kasuya" creationdate="20160704T090605Z">
+        <seg>プロジェクト構成物へのアクセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -17111,6 +17135,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160704T085519Z" creationid="Kasuya" creationdate="20160704T085519Z">
+        <seg>たいていのシステムでは、&lt;f0&gt;omegat.project&lt;/f0&gt; ファイルをデスクトップ上の OmegaT アイコンの上にドラッグ＆ドロップすることでプロジェクトを開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most translation jobs, it is considered important for the formatting of the original text to be retained in the translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T235328Z">
@@ -18221,6 +18253,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130307T165805Z">
         <seg>&lt;f0&gt;tm&lt;/f0&gt; フォルダーの翻訳メモリに、同一の原文分節が複数存在し、しかもそれぞれの訳文が異なる、という事態はじゅうぶんに起こりえることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160704T085642Z" creationid="Kasuya" creationdate="20160704T085642Z">
+        <seg>&lt;f1&gt;omegat.project&lt;/f1&gt; ファイルをダブルクリックすることによって、OmegaT プロジェクトを開くこともできます。</seg>
       </tuv>
     </tu>
     <tu>
