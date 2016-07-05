@@ -9196,6 +9196,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By unchecking &lt;e0&gt;Automatically Fetch Translations&lt;/e0&gt; option, machine translations will be fetched only upon invoking &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; on OS X) on the current segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T073233Z" creationid="Kasuya" creationdate="20160705T072831Z">
+        <seg>&lt;e0&gt;翻訳を自動的に取得する&lt;/e0&gt; のチェックを外せば、現在の分節で &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt;（Mac OS X の場合は &lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt;）を押した場合にのみ機械翻訳を取得します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -14188,6 +14196,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20131016T175213Z">
         <seg>最良の結果を得るには［設定］→［綴り確認...］から適切な辞書をインストールしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T072739Z" creationid="Kasuya" creationdate="20160705T072739Z">
+        <seg>機密上の理由から、すべての分節を機械翻訳エンジンによって処理するのが望ましくないかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
