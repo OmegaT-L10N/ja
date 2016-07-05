@@ -15728,16 +15728,16 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.6 �
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T081428Z" creationid="Kasuya" creationdate="20160705T080923Z">
-        <seg>&lt;g0&gt;用語にステミング（語幹処理）を適用&lt;/g0&gt;にチェックが入っていると、原文テキストが英語で「elements」という語を含んでいる場合、 用語集項目「element」が抽出されます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T082316Z" creationid="Kasuya" creationdate="20160705T080923Z">
+        <seg>&lt;g0&gt;用語にステミング（語幹処理）を適用&lt;/g0&gt;にチェックが入っていると、原文が英語で「elements」という語を含んでいる場合、 用語集項目「element」が抽出されます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T080642Z" creationid="Kasuya" creationdate="20160705T080625Z">
-        <seg>&lt;g0&gt;原文中で単語が離れている用語を表示&lt;/g0&gt;にチェックが入っていると、用語集の項目「単語A 単語B」は、原文テキストが「単語A 他の単語 単語B」の場合でも抽出されます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T082327Z" creationid="Kasuya" creationdate="20160705T080625Z">
+        <seg>&lt;g0&gt;原文中で単語が離れている用語を表示&lt;/g0&gt;にチェックが入っていると、用語集の項目「単語A 単語B」は、原文が「単語A 他の単語 単語B」の場合でも抽出されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29107,6 +29107,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143140Z">
         <seg>「&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;」引数の指定により、&lt;a1&gt;OmegaT&lt;/a1&gt; は OS の言語よりも優先して、指定した言語を使用するようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;e0&gt;Replace Glossary Hits when Inserting Source Text&lt;/e0&gt; option allows to replace automatically glossary hits with the target term when source text is inserted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T082712Z" creationid="Kasuya" creationdate="20160705T082131Z">
+        <seg>&lt;e0&gt;原文挿入時に用語集から置換&lt;/e0&gt;にチェックが入っていると、原文を挿入した時に、抽出された用語集の原文項目が訳文項目に自動的に置換されます。</seg>
       </tuv>
     </tu>
     <tu>
