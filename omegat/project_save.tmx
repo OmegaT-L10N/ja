@@ -16885,6 +16885,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T110217Z" creationid="Kasuya" creationdate="20160705T110217Z">
+        <seg>編集ウィンドウ上で右クリックした場合はポップアップメニューが開き、&lt;e0&gt;［切り取り］&lt;/e0&gt;、&lt;e0&gt;［コピー］&lt;/e0&gt;、&lt;e0&gt;［貼り付け］&lt;/e0&gt;（ショートカットの ［&lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;X&lt;/k3&gt;&lt;/k1&gt;］、［&lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;C&lt;/k6&gt;&lt;/k4&gt;］、［&lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;V&lt;/k9&gt;&lt;/k7&gt;］と同じ）、&lt;e10&gt;［分節へ移動］&lt;/e10&gt;および&lt;e11&gt;［用語の追加］&lt;/e11&gt;コマンドを利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T150109Z" creationid="Yu-Tang" creationdate="20160308T150109Z">
@@ -17475,6 +17483,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T144459Z">
         <seg>この場合、原文ファイルに付属する対訳は、&lt;f0&gt;project_save.tmx&lt;/f0&gt; に移行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T110047Z" creationid="Kasuya" creationdate="20160705T110047Z">
+        <seg>ここで yy は、同じプロジェクト内で繰り返されるその他の分節の数を示します。&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21731,8 +21747,8 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
       <tuv lang="EN">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T105434Z" creationid="Kasuya" creationdate="20160705T104546Z">
-        <seg>注意：分節が分節番号の表示は&lt;l0&gt;&lt;segment nnnn +yy more&gt; を表示します。when the segment is non-unique.</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T105807Z" creationid="Kasuya" creationdate="20160705T104546Z">
+        <seg>注意：繰り返しのある分節の分節番号は、&lt;l0&gt;&lt;分節 nnnn 他yy分節&gt; のように表示されます。</seg>
       </tuv>
     </tu>
     <tu>
