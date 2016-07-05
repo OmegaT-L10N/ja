@@ -14809,6 +14809,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T104036Z" creationid="Kasuya" creationdate="20160705T104036Z">
+        <seg>参考訳文ウィンドウ：&lt;f0&gt;.tmx&lt;/f0&gt; ファイルをこのウィンドウにドロップすると、そのファイルが &lt;f1&gt;tm&lt;/f1&gt; フォルダーにコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy matches can come from the &lt;f0&gt;/tm&lt;/f0&gt; folder as well - and not just from the internal translation memory in &lt;f1&gt;/omegaT,&lt;/f1&gt; as is the case for repetitions and exact matches.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T082556Z">
@@ -15081,6 +15089,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.6 �
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153512Z">
         <seg>用語集ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T104411Z" creationid="Kasuya" creationdate="20160705T104411Z">
+        <seg>用語集ウィンドウ：用語集としての既知の拡張子（&lt;f0&gt;.txt&lt;/f0&gt;、&lt;f1&gt;.tab&lt;/f1&gt;など）を持つファイルをこのウィンドウにドロップすると、そのファイルが&lt;f2&gt;用語集&lt;/f2&gt;フォルダにコピーされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21709,6 +21725,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T175951Z" creationid="Yu-Tang" creationdate="20141202T175951Z">
         <seg>注意：MultiTerm が出力する &lt;f0&gt;.tbx&lt;/f0&gt; 形式ファイルは、信頼性に劣っているようです（2013 年 11 月時点）。MultiTerm の場合は、&lt;f1&gt;.tab&lt;/f1&gt; 形式ファイルの方で出力することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T105434Z" creationid="Kasuya" creationdate="20160705T104546Z">
+        <seg>注意：分節が分節番号の表示は&lt;l0&gt;&lt;segment nnnn +yy more&gt; を表示します。when the segment is non-unique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32226,6 +32250,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="kasuya" changedate="20140205T122440Z">
         <seg>これは例外規則です。［分割する/しない］チェックボックスには、チェックを入れずにおきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T103642Z" creationid="Kasuya" creationdate="20160705T103642Z">
+        <seg>&lt;l2&gt;翻訳対象ファイル一覧&lt;/l2&gt;ウィンドウの場合も同じように応答します。</seg>
       </tuv>
     </tu>
     <tu>
