@@ -16061,8 +16061,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T063503Z" creationid="Kasuya" creationdate="20160705T063503Z">
-        <seg>If some texts are selected within the 参考訳文, only this selection will replace the whole target segment.</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T063753Z" creationid="Kasuya" creationdate="20160705T063503Z">
+        <seg>参考訳文のテキストの一部が選択されている場合、選択されたテキストのみが訳文分節の全体を置き換えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17668,6 +17668,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141301Z">
         <seg>参考訳文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T063805Z" creationid="Kasuya" creationdate="20160705T063805Z">
+        <seg>参考訳文または選択範囲を挿入</seg>
       </tuv>
     </tu>
     <tu>
