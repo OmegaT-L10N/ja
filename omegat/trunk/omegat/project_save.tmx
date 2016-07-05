@@ -6085,6 +6085,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+Shift+V&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T101506Z" creationid="Kasuya" creationdate="20160705T101506Z">
+        <seg>&lt;p0&gt;ショートカット&lt;/p0&gt; &lt;s1&gt;タグ検証 - Ctrl+Shift+T&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+T&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T184135Z">
@@ -10820,6 +10828,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T015952Z">
         <seg>プロジェクトの target フォルダーに訳文ファイルを生成します。また翻訳メモリファイル（level1、level2 および omegat 形式の TMX ファイル）をプロジェクトのルートフォルダーに生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T101256Z" creationid="Kasuya" creationdate="20160705T101256Z">
+        <seg>キーの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -17475,6 +17491,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T101009Z" creationid="Yu-Tang" creationdate="20141201T101009Z">
         <seg>除外構成例集ダイアログで、構成例の追加と削除ができます。また既存の構成例を選んで F2 キーを押すと編集もできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Search window, you can use standard shortcuts (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) to move from one segment to another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T101038Z" creationid="Kasuya" creationdate="20160705T101038Z">
+        <seg>検索ウィンドウで、標準のショートカット（&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;、&lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;）を使用して分節間を移動することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32984,6 +33008,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141201T032450Z" creationid="Yu-Tang" creationdate="20141201T032450Z">
         <seg>まず &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; を右クリックして、［パッケージの内容を表示］を選びます。次に、Contents/MacOS フォルダーにある &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt; を右クリックして、任意のテキストエディターで開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the TaaS service, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T101404Z" creationid="Kasuya" creationdate="20160705T101348Z">
+        <seg>TaaS サービスを利用するには、まずウェブブラウザで https://demo.taas-project.eu/account/keys/create?system=omegaT にアクセスして、キーを作成する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
