@@ -15021,6 +15021,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.6 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T091052Z" creationid="Kasuya" creationdate="20160705T091052Z">
+        <seg>用語集 matching does not use stemming or stop words, but is case-insensitive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153512Z">
@@ -35610,8 +35618,8 @@ you have just discovered.</seg>
       <tuv lang="EN">
         <seg>When multiple target terms are available, the first one (as shown in the Glossary pane) will be used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T090739Z" creationid="Kasuya" creationdate="20160705T090739Z">
-        <seg>When multiple target terms are available, the first one (as shown in the 用語集 ウィンドウ) will be used.</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T090942Z" creationid="Kasuya" creationdate="20160705T090739Z">
+        <seg>１つの原文項目に複数の訳文項目がある場合、用語集ウィンドウに表示される最初の項目が使われます。</seg>
       </tuv>
     </tu>
     <tu>
