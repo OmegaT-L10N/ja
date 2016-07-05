@@ -14868,6 +14868,17 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.6 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General
+In order to run, OmegaT requires the Java Runtime Environment (JRE) version 
+1.8 or higher to be installed on your system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T125754Z" creationid="Kasuya" creationdate="20160705T125754Z">
+        <seg>全般の確認事項
+OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 以降があらかじめインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T182321Z" creationid="Yu-Tang" creationdate="20141112T182321Z">
@@ -19127,6 +19138,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool (LGPL license and others)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T131425Z" creationid="Kasuya" creationdate="20160705T131425Z">
+        <seg>LanguageTool（LGPL ライセンスなど）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055208Z">
@@ -19611,6 +19630,15 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LuceneEnglishTokenizer uses stop words originally from Okapi
+(http://okapi.sourceforge.net) (LGPL license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T131351Z" creationid="Kasuya" creationdate="20160705T131351Z">
+        <seg>LuceneEnglishTokenizer は、Okapi（http://okapi.sourceforge.net）（LGPL ライセンス） に由来する除外語を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luganda</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T071354Z">
@@ -19693,6 +19721,16 @@ The JRE is already installed on Mac OS X before Mac OS X 10.7
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T143536Z">
         <seg>Mac ユーザー：
 Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上にインストールされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac users: 
+The Mac version comes bundled with a JRE.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T130622Z" creationid="Kasuya" creationdate="20160705T130156Z">
+        <seg>Mac ユーザー：
+Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23348,6 +23386,15 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise you must download and
+install the Oracle JRE on your own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T130944Z" creationid="Kasuya" creationdate="20160705T130719Z">
+        <seg>JRE がない場合は、ユーザーが独自に Oracle の JRE をダウンロードおよびインストールする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T172349Z">
@@ -23384,6 +23431,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130427T072754Z">
         <seg>PDF ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T131446Z" creationid="Kasuya" creationdate="20160705T131446Z">
+        <seg>PDFBox（Apache ライセンス 2.0）</seg>
       </tuv>
     </tu>
     <tu>
@@ -25878,6 +25933,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVNKit 1.8.11 (TMate License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T131009Z" creationid="Kasuya" creationdate="20160705T131009Z">
+        <seg>SVNKit 1.8.11（TMate ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVNKit 1.8.5 (TMate License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131107Z">
@@ -28349,8 +28412,8 @@ https://support.microsoft.com/kb/901125/</note>
 will check for any upgrades, if you are online, install them if there are any, 
 and then start OmegaT.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T141038Z">
-        <seg>インストール後は、OmegaT.jnlp をクリックすると、もしオンラインであればプログラムの更新がないか検索し、もしあればインストールした後、OmegaT を起動します。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T125943Z">
+        <seg>インストール後に OmegaT.jnlp をクリックすると、もしオンラインであればプログラムの更新がないか検索し、もしあればインストールした後、OmegaT を起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29648,6 +29711,15 @@ shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130418T141103Z">
         <seg>ダウンロードとインストールを行う他の方法は、下記に示す通りです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The alternative ways and means of downloading and installing OmegaT are
+shown below.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T130124Z" creationid="Kasuya" creationdate="20160705T125908Z">
+        <seg>ダウンロードとインストールを行うその他の方法を以下に記します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39759,6 +39831,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://java.com/en/download/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T130856Z" creationid="Kasuya" creationdate="20160705T130856Z">
+        <seg>https://java.com/en/download/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130429T151933Z">
@@ -40252,6 +40332,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>jpn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T131044Z" creationid="Kasuya" creationdate="20160705T131044Z">
+        <seg>jsch-agent-proxy（jsch-agent-proxy ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42860,6 +42948,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131157Z">
         <seg>trilead-ssh2-1.0.0-build217（Trilead SSH ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2-1.0.0-build220 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T131102Z" creationid="Kasuya" creationdate="20160705T131102Z">
+        <seg>trilead-ssh2-1.0.0-build220（Trilead SSH ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
