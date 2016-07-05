@@ -16059,6 +16059,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T063503Z" creationid="Kasuya" creationdate="20160705T063503Z">
+        <seg>If some texts are selected within the 参考訳文, only this selection will replace the whole target segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T182706Z">
@@ -16111,6 +16119,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T201952Z">
         <seg>対象の文書にもよりますが、翻訳者に強くお勧めする点があります。原文の構成が許す限り、OmegaT 上に出てくるタグを減らすために、原文の見映えを単純化してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T062954Z" creationid="Kasuya" creationdate="20160705T062954Z">
+        <seg>対応する文書がない場合は、メニュー項目がグレーアウトされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25058,6 +25074,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141257Z">
         <seg>参考訳文に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T063030Z" creationid="Kasuya" creationdate="20160705T063030Z">
+        <seg>参考訳文または選択範囲によって置換</seg>
       </tuv>
     </tu>
     <tu>
