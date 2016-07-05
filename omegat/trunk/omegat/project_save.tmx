@@ -7969,6 +7969,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An attempt is made to match the capitalization of the source word.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T092717Z" creationid="Kasuya" creationdate="20160705T091829Z">
+        <seg>原文項目の大文字を区別することも試みられています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T055837Z">
@@ -15023,8 +15031,8 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.6 �
       <tuv lang="EN">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T091052Z" creationid="Kasuya" creationdate="20160705T091052Z">
-        <seg>用語集 matching does not use stemming or stop words, but is case-insensitive.</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T091620Z" creationid="Kasuya" creationdate="20160705T091052Z">
+        <seg>用語集項目を一致させる際に、ステミングや除外語は使用しません。また、大文字と小文字は区別しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29081,8 +29089,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The 3 other options are described in the specific page concerning &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T195145Z" creationid="Yu-Tang" creationdate="20141112T195145Z">
-        <seg>これ以外の 3 つのオプションについては、&lt;l0&gt;TaaS&lt;/l0&gt;（Terminology as a Service）に関する専用ページで説明しています。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T091652Z" creationid="Yu-Tang" creationdate="20141112T195145Z">
+        <seg>これ以外の３つのオプションについては、&lt;l0&gt;TaaS&lt;/l0&gt;（Terminology as a Service）に関する専用ページで説明しています。</seg>
       </tuv>
     </tu>
     <tu>
