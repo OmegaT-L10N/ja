@@ -9524,6 +9524,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;e0&gt;Untranslated Segments Only&lt;/e0&gt; option to deactivate Machine Translation tools on already translated segments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T075254Z" creationid="Kasuya" creationdate="20160705T074905Z">
+        <seg>&lt;e0&gt;未翻訳分節のみを対象とする&lt;/e0&gt;にチェックを入れると、翻訳済みの分節に対して機械翻訳ツールが無効になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T164409Z" creationid="Yu-Tang" creationdate="20141111T164024Z">
@@ -14202,8 +14210,8 @@ Tutorial.</seg>
       <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T072739Z" creationid="Kasuya" creationdate="20160705T072739Z">
-        <seg>機密上の理由から、すべての分節を機械翻訳エンジンによって処理するのが望ましくないかもしれません。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T075313Z" creationid="Kasuya" creationdate="20160705T072739Z">
+        <seg>機密上の理由から、すべての分節を機械翻訳ツールによって処理するのが望ましくないかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21549,6 +21557,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141111T210209Z" creationid="Yu-Tang" creationdate="20141111T205950Z">
         <seg>注意：ヘッダーをクリックすると、たとえばファイル名（左端の列）のアルファベット順で並べ替えたりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T075612Z" creationid="Kasuya" creationdate="20160705T075612Z">
+        <seg>注意：この場合でも、翻訳済みの分節において &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; を押せば、機械翻訳を有効にすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31694,6 +31710,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122301Z">
         <seg>これにより、カナダフランス語の原文を翻訳する際、対象とすべきすべての分節化規則を適切な順序で使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you must use &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt; a second time, to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T074847Z" creationid="Kasuya" creationdate="20160705T074847Z">
+        <seg>次にもう一度 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt; を押すことによって、提案された機械翻訳を挿入します。</seg>
       </tuv>
     </tu>
     <tu>
