@@ -32422,6 +32422,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is effective upon &lt;e1&gt;Edit &gt; Replace with Source&lt;/e1&gt;, &lt;e2&gt;Edit &gt; Insert Source&lt;/e2&gt;, and when entering a segment when &lt;e3&gt;Options &gt; Editing Behavior &gt; [Insert] The source text&lt;/e3&gt; is enabled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T084236Z" creationid="Kasuya" creationdate="20160705T084236Z">
+        <seg>This is effective upon &lt;e1&gt;Edit &gt; Replace with Source&lt;/e1&gt;, &lt;e2&gt;Edit &gt; Insert Source&lt;/e2&gt;, and when entering a 分節 when &lt;e3&gt;Options &gt; Editing Behavior &gt; [Insert] The source テキスト&lt;/e3&gt; is enabled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is especially the case when a large file containing many segments is open in the editor, and/or slow hardware is used.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T075503Z">
