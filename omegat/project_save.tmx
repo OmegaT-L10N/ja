@@ -15728,8 +15728,8 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.6 �
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T080923Z" creationid="Kasuya" creationdate="20160705T080923Z">
-        <seg>&lt;g0&gt;用語にステミング（語幹処理）を適用&lt;/g0&gt;にチェックが入っていると、with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T081428Z" creationid="Kasuya" creationdate="20160705T080923Z">
+        <seg>&lt;g0&gt;用語にステミング（語幹処理）を適用&lt;/g0&gt;にチェックが入っていると、原文テキストが英語で「elements」という語を含んでいる場合、 用語集項目「element」が抽出されます。</seg>
       </tuv>
     </tu>
     <tu>
