@@ -7937,6 +7937,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T095710Z" creationid="Kasuya" creationdate="20160705T095710Z">
+        <seg>あるいは、編集ウィンドウ、参考訳文ウィンドウまたは用語集ウィンドウで単語や語句を選択してから &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; を押すこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T185744Z">
@@ -12209,6 +12217,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T100333Z" creationid="Kasuya" creationdate="20160705T100333Z">
+        <seg>分節をダブルクリックすると、その分節を編集ウィンドウ内で編集することができます(one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doubled blanks</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T144156Z">
@@ -15752,16 +15768,16 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.6 �
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T082316Z" creationid="Kasuya" creationdate="20160705T080923Z">
-        <seg>&lt;g0&gt;用語にステミング（語幹処理）を適用&lt;/g0&gt;にチェックが入っていると、原文が英語で「elements」という語を含んでいる場合、 用語集項目「element」が抽出されます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T094913Z" creationid="Kasuya" creationdate="20160705T080923Z">
+        <seg>&lt;g0&gt;［用語にステミング（語幹処理）を適用］&lt;/g0&gt;にチェックが入っていると、原文が英語で「elements」という語を含んでいる場合、 用語集項目「element」が抽出されます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T082327Z" creationid="Kasuya" creationdate="20160705T080625Z">
-        <seg>&lt;g0&gt;原文中で単語が離れている用語を表示&lt;/g0&gt;にチェックが入っていると、用語集の項目「単語A 単語B」は、原文が「単語A 他の単語 単語B」の場合でも抽出されます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T094853Z" creationid="Kasuya" creationdate="20160705T080625Z">
+        <seg>&lt;g0&gt;［原文中で単語が離れている用語を表示］&lt;/g0&gt;にチェックが入っていると、用語集の項目「単語A 単語B」は、原文が「単語A 他の単語 単語B」の場合でも抽出されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16614,6 +16630,14 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151103T172802Z" creationid="Yu-Tang" creationdate="20151103T172802Z">
         <seg>&lt;g0&gt;［詳細設定］&lt;/g0&gt;ボタンをクリックすると、追加の条件欄（翻訳者の名前や、翻訳が最後に更新された日時など）が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T100011Z" creationid="Kasuya" creationdate="20160705T095934Z">
+        <seg>&lt;g0&gt;［詳細設定］&lt;/g0&gt;ボタンをクリックすると、追加の条件欄（翻訳者や改訂者の名前、翻訳が最後に更新された日時、現在の原文に存在しない分節の除外など）が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29153,8 +29177,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;e0&gt;Replace Glossary Hits when Inserting Source Text&lt;/e0&gt; option allows to replace automatically glossary hits with the target term when source text is inserted.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T082712Z" creationid="Kasuya" creationdate="20160705T082131Z">
-        <seg>&lt;e0&gt;原文挿入時に用語集から置換&lt;/e0&gt;にチェックが入っていると、原文を挿入した時に、抽出された用語集の原文項目が訳文項目に自動的に置換されます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T094935Z" creationid="Kasuya" creationdate="20160705T082131Z">
+        <seg>&lt;e0&gt;［原文挿入時に用語集から置換］&lt;/e0&gt;にチェックが入っていると、原文を挿入した時に、抽出された用語集の原文項目が訳文項目に自動的に置換されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32464,8 +32488,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This is effective upon &lt;e1&gt;Edit &gt; Replace with Source&lt;/e1&gt;, &lt;e2&gt;Edit &gt; Insert Source&lt;/e2&gt;, and when entering a segment when &lt;e3&gt;Options &gt; Editing Behavior &gt; [Insert] The source text&lt;/e3&gt; is enabled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T090025Z" creationid="Kasuya" creationdate="20160705T084236Z">
-        <seg>これは、&lt;e1&gt;［編集］→［原文に置換］&lt;/e1&gt;および&lt;e2&gt;Edit &gt;［編集］→［原文を挿入］&lt;/e2&gt;を実行した際に機能します。また、&lt;e3&gt;［設定］→［翻訳入力行...］→［原文を挿入］&lt;/e3&gt;が有効の状態で、次の分節に進んだ際に機能します。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T094949Z" creationid="Kasuya" creationdate="20160705T084236Z">
+        <seg>これは、&lt;e1&gt;［編集］→［原文に置換］&lt;/e1&gt;および&lt;e2&gt;［編集］→［原文を挿入］&lt;/e2&gt;を実行した際に機能します。また、&lt;e3&gt;［設定］→［翻訳入力行...］→［原文を挿入］&lt;/e3&gt;が有効の状態で、次の分節に進んだ際に機能します。</seg>
       </tuv>
     </tu>
     <tu>
