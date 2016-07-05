@@ -9420,6 +9420,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T065355Z" creationid="Kasuya" creationdate="20160705T065148Z">
+        <seg>訳文分節中の選択したテキストに対し、ケースを変更します（すべて小文字に、文章の先頭を大文字に、各単語の先頭を大文字に、またはすべて大文字に）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T141327Z">
@@ -9768,6 +9776,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T135540Z">
         <seg>翻訳可能な最新の言語ペアの一覧は、ウェブサイトで確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T070247Z" creationid="Kasuya" creationdate="20160705T070206Z">
+        <seg>OmegaT が一部の絵文字を正しく表示しない場合、このオプションにチェックを入れます。(even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16059,10 +16075,18 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T064631Z" creationid="Kasuya" creationdate="20160705T064443Z">
+        <seg>参考訳文のテキストの一部を選択した状態であれば、選択範囲のみをカーソル位置に挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T063753Z" creationid="Kasuya" creationdate="20160705T063503Z">
-        <seg>参考訳文のテキストの一部が選択されている場合、選択されたテキストのみが訳文分節の全体を置き換えます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T064717Z" creationid="Kasuya" creationdate="20160705T063503Z">
+        <seg>参考訳文のテキストの一部を選択した状態であれば、選択範囲のみが訳文分節の全体を置き換えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34495,6 +34519,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T031058Z">
         <seg>&lt;k2&gt;&lt;g0&gt;［Ctrl+L］&lt;i1/&gt;&lt;/g0&gt;&lt;/k2&gt;で開き、&lt;k2&gt;［Esc］&lt;/k2&gt;で閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T065216Z" creationid="Kasuya" creationdate="20160705T065216Z">
+        <seg>［Shift+F3］&lt;i0/&gt;で、上記４通りを順に切り替えて実行します。</seg>
       </tuv>
     </tu>
     <tu>
