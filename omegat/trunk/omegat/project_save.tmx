@@ -15742,6 +15742,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.6 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T093757Z" creationid="Kasuya" creationdate="20160705T093218Z">
+        <seg>&lt;e0&gt;［関連性の強い補完候補を自動的に表示する］&lt;/e0&gt;にチェックが入っていると、用語集の訳語項目の最初の文字を入力することにより、またはタグの場合は「&lt;」を入力することにより、入力補完が自動的に起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160705T082316Z" creationid="Kasuya" creationdate="20160705T080923Z">
@@ -18097,6 +18105,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T190806Z" creationid="Yu-Tang" creationdate="20141112T183206Z">
         <seg>公開と非公開、両方のデータを取り扱うことができます。既存の文書から用語を抽出し、複数の情報源から訳語を自動生成することで、非公開の用語集を作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T094555Z" creationid="Kasuya" creationdate="20160705T094453Z">
+        <seg>タグ検証に関する様々な設定を行ったり、独自タグを定義したりすることが可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21821,6 +21837,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
       </tuv>
       <tuv lang="JA" changeid="yu-tang" changedate="20150211T174923Z" creationid="yu-tang" creationdate="20150211T174923Z">
         <seg>OmegaT 3.1 - 取扱説明書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.5 - User's Guide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T094607Z" creationid="Kasuya" creationdate="20160705T094607Z">
+        <seg>OmegaT 3.5 - 取扱説明書</seg>
       </tuv>
     </tu>
     <tu>
@@ -35700,6 +35724,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T184905Z">
         <seg>RTL ⇔ LTR 言語間で翻訳作業を行うときは、原文ファイルからタグを正しく読み込み、それをまた訳文ファイルに適切に入力するため、翻訳作業者が RTL ⇔ LTR モードの切り替えを頻繁に行う必要があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T094417Z" creationid="Kasuya" creationdate="20160705T094111Z">
+        <seg>プログラム関連のファイルを翻訳する場合：タグ検証の設定により、プログラミング用の変数（書式指定子）も検証することができます。</seg>
       </tuv>
     </tu>
     <tu>
