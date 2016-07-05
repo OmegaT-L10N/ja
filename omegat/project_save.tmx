@@ -14457,6 +14457,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For that reason, it is OFF by default.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T071427Z" creationid="Kasuya" creationdate="20160705T071256Z">
+        <seg>そのため、デフォルトではチェックが外されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T070953Z">
@@ -21533,6 +21541,14 @@ Mac OS X 10.7（Lion）より前であれば、JRE はすでに Mac OS X 上に�
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180811Z">
         <seg>エンコーディングを指定できないフィルターもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T071235Z" creationid="Kasuya" creationdate="20160705T071235Z">
+        <seg>注意：Windows では、この手動による代替フォント機能が標準の代替フォント機能と衝突し、望ましくない字体に置き換わることがあるようです。</seg>
       </tuv>
     </tu>
     <tu>
