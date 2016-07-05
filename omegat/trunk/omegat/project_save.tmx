@@ -15726,6 +15726,22 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.6 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T080923Z" creationid="Kasuya" creationdate="20160705T080923Z">
+        <seg>&lt;g0&gt;用語にステミング（語幹処理）を適用&lt;/g0&gt;にチェックが入っていると、with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T080642Z" creationid="Kasuya" creationdate="20160705T080625Z">
+        <seg>&lt;g0&gt;原文中で単語が離れている用語を表示&lt;/g0&gt;にチェックが入っていると、用語集の項目「単語A 単語B」は、原文テキストが「単語A 他の単語 単語B」の場合でも抽出されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130226T073134Z">
@@ -16215,6 +16231,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T143104Z">
         <seg>もし OS の言語に対応していない場合、&lt;a6&gt;OmegaT&lt;/a6&gt; はデフォルトの英語で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option is OFF, the glossary entry above will not be found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160705T080829Z" creationid="Kasuya" creationdate="20160705T080740Z">
+        <seg>このオプションのチェックが入っていない場合、上記の用語集項目は抽出されません。</seg>
       </tuv>
     </tu>
     <tu>
