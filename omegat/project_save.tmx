@@ -4036,6 +4036,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T102545Z" creationid="Kasuya" creationdate="20160706T102425Z">
+        <seg>&lt;html&gt;ワイルドカード文字（Apache Ant 形式）を使用して構成例を追加します：&lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;例：&lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T022120Z">
@@ -8150,6 +8158,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T103403Z" creationid="Kasuya" creationdate="20160706T103403Z">
+        <seg>既存の訳文が別の訳文に変更されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet.&lt;/l0&gt; In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T054853Z">
@@ -11379,6 +11395,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T102628Z" creationid="Kasuya" creationdate="20160706T102628Z">
+        <seg>配色のカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours Selection</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141017T080953Z" creationid="Yu-Tang" creationdate="20141017T080826Z">
@@ -13233,8 +13257,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T100721Z" creationid="Kasuya" creationdate="20160706T100721Z">
-        <seg>Error retrieve {0} as リーモートプロジェクトファイルとして</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T102203Z" creationid="Kasuya" creationdate="20160706T100721Z">
+        <seg>リーモートプロジェクトファイルとしてエラーを訂正 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13605,6 +13629,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T084345Z" creationid="Kasuya" creationdate="20160706T084345Z">
         <seg>除外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T102226Z" creationid="Kasuya" creationdate="20160706T102226Z">
+        <seg>除外構成例集</seg>
       </tuv>
     </tu>
     <tu>
@@ -19041,6 +19073,22 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T070730Z">
         <seg>カザフ語（Kazakh）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T103459Z" creationid="Kasuya" creationdate="20160706T103447Z">
+        <seg>自分の訳文を維持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T103515Z" creationid="Kasuya" creationdate="20160706T103515Z">
+        <seg>別の訳文を維持</seg>
       </tuv>
     </tu>
     <tu>
@@ -25976,6 +26024,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T103226Z" creationid="Kasuya" creationdate="20160706T103217Z">
+        <seg>競合を解決</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133544Z">
@@ -27068,6 +27124,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143856Z">
         <seg>分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T103656Z" creationid="Kasuya" creationdate="20160706T103656Z">
+        <seg>分節Segment Properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -36567,6 +36631,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T165604Z">
         <seg>もし可能であれば、文書中で使用する字体の種類や大きさ、色などをなるべく統一しておくと、翻訳作業を単純化でき、タグ関連のエラーを減らすことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T103452Z" creationid="Kasuya" creationdate="20160706T103422Z">
+        <seg>どの訳文を維持しますか。</seg>
       </tuv>
     </tu>
     <tu>
