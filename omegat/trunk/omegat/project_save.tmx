@@ -327,6 +327,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083447Z" creationid="Kasuya" creationdate="20160706T083447Z">
+        <seg>ファイルの整列(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -7408,6 +7416,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083934Z" creationid="Kasuya" creationdate="20160706T083934Z">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T104233Z">
@@ -11729,6 +11745,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Directory {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083701Z" creationid="Kasuya" creationdate="20160706T083701Z">
+        <seg>チームモードのプロジェクト用にディレクトリ{0}が自動生成されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disable team project functionality.</seg>
       </tuv>
       <tuv lang="JA" changeid="Taro" changedate="20160212T023817Z" creationid="Taro" creationdate="20160212T023817Z">
@@ -12346,6 +12370,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083506Z" creationid="Kasuya" creationdate="20160706T083506Z">
+        <seg>プロジェクトをダウンロード...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Downloading the package</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T183221Z">
@@ -12769,6 +12801,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T100223Z">
         <seg>空行も含めることができます。また「//」で始まる行はコメント行として扱われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085200Z" creationid="Kasuya" creationdate="20160706T085200Z">
+        <seg>Empty リポジトリ URL in the mapping</seg>
       </tuv>
     </tu>
     <tu>
@@ -13475,6 +13515,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T202204Z" creationid="Yu-Tang" creationdate="20151115T202204Z">
         <seg>現在の原文に存在しない分節を除外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excludes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084345Z" creationid="Kasuya" creationdate="20160706T084345Z">
+        <seg>除外</seg>
       </tuv>
     </tu>
     <tu>
@@ -17780,6 +17828,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Includes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084401Z" creationid="Kasuya" creationdate="20160706T084401Z">
+        <seg>包有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Incompatibilities</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130526T002328Z">
@@ -18180,6 +18236,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173850Z">
         <seg>不正なファイル形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084922Z" creationid="Kasuya" creationdate="20160706T084902Z">
+        <seg>不正なリポジトリの種類：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -19551,6 +19615,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084337Z" creationid="Kasuya" creationdate="20160706T084337Z">
+        <seg>ローカル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local Folder:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160226Z">
@@ -19980,6 +20052,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T071617Z">
         <seg>マン島語（Manx）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084329Z" creationid="Kasuya" creationdate="20160706T084146Z">
+        <seg>リポジトリ内のリモートフォルダーへのローカルフォルダーのマッピング</seg>
       </tuv>
     </tu>
     <tu>
@@ -25134,6 +25214,30 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084341Z" creationid="Kasuya" creationdate="20160706T084341Z">
+        <seg>リモート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083959Z" creationid="Kasuya" creationdate="20160706T083949Z">
+        <seg>リモートリポジトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083937Z" creationid="Kasuya" creationdate="20160706T083937Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T063253Z">
@@ -25550,6 +25654,30 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084333Z" creationid="Kasuya" creationdate="20160706T084333Z">
+        <seg>リポジトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083927Z" creationid="Kasuya" creationdate="20160706T083927Z">
+        <seg>リポジトリマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083825Z" creationid="Kasuya" creationdate="20160706T083825Z">
+        <seg>リポジトリマッピング...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Type:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160133Z">
@@ -25562,6 +25690,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160215Z">
         <seg>リポジトリ URL：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085130Z" creationid="Kasuya" creationdate="20160706T085011Z">
+        <seg>リポジトリ {0} がすでに存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085135Z" creationid="Kasuya" creationdate="20160706T085106Z">
+        <seg>リポジトリ {0} が不明です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34310,6 +34454,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084113Z" creationid="Kasuya" creationdate="20160706T084113Z">
+        <seg>種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T035558Z">
@@ -34376,6 +34528,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084119Z" creationid="Kasuya" creationdate="20160706T084119Z">
+        <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134957Z">
@@ -34404,6 +34564,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160757Z">
         <seg>新しい TMX ファイルを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083909Z" creationid="Kasuya" creationdate="20160706T083852Z">
+        <seg>プロジェクトを変換できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T083920Z" creationid="Kasuya" creationdate="20160706T083920Z">
+        <seg>チームプロジェクトをダウンロードできません。</seg>
       </tuv>
     </tu>
     <tu>
