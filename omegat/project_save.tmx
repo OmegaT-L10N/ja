@@ -7394,8 +7394,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="EN">
         <seg>Actions &amp; Settings</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090759Z" creationid="Kasuya" creationdate="20160706T090720Z">
-        <seg>操作と設定</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T104113Z" creationid="Kasuya" creationdate="20160706T090720Z">
+        <seg>動作と設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -7748,6 +7748,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T195038Z">
         <seg>Alex Buloichik（リード開発者）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T104545Z" creationid="Kasuya" creationdate="20160706T104545Z">
+        <seg>ファイルの整列</seg>
       </tuv>
     </tu>
     <tu>
@@ -12903,14 +12911,6 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Empty repository URL in the mapping</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085251Z" creationid="Kasuya" creationdate="20160706T085200Z">
-        <seg>マッピングにおいてリポジトリ URL が空です。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -13251,14 +13251,6 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T181324Z">
         <seg>TMX レベル 2 ファイルを読み込み中、行 {0}{1} の列 {0} でエラーが発生しました。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Error retrieve {0} as remote project file</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T102203Z" creationid="Kasuya" creationdate="20160706T100721Z">
-        <seg>リーモートプロジェクトファイルとしてエラーを訂正 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16387,8 +16379,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090130Z" creationid="Kasuya" creationdate="20160705T064443Z">
-        <seg>参考訳文のテキストの一部を選択した状態であれば、選択領域のみをカーソル位置に挿入します。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T104850Z" creationid="Kasuya" creationdate="20160705T064443Z">
+        <seg>参考訳文のテキストの一部を選択した状態であれば、選択範囲のみをカーソル位置に挿入します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17061,8 +17053,8 @@ OmegaT.</seg>
       <tuv lang="EN">
         <seg>If you press 'Cancel', the project will not be converted and will be loaded as a standard local project without team support.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094744Z" creationid="Kasuya" creationdate="20160706T094052Z">
-        <seg>［取消］を押すと、プロジェクトは変換されず、チーム機能の支援がない標準のローカルプロジェクトとして読み込まれます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T105439Z" creationid="Kasuya" creationdate="20160706T094052Z">
+        <seg>［取消］を押すと、プロジェクトは変換されず、チーム機能のない標準のローカルプロジェクトとして読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17968,8 +17960,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="EN">
         <seg>Includes</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084401Z" creationid="Kasuya" creationdate="20160706T084401Z">
-        <seg>包有</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T105134Z" creationid="Kasuya" creationdate="20160706T084401Z">
+        <seg>含有</seg>
       </tuv>
     </tu>
     <tu>
@@ -20236,8 +20228,8 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T084329Z" creationid="Kasuya" creationdate="20160706T084146Z">
-        <seg>リポジトリ内のリモートフォルダーへのローカルフォルダーのマッピング</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T105118Z" creationid="Kasuya" creationdate="20160706T084146Z">
+        <seg>ローカルフォルダーのリポジトリ内リモートフォルダーへのマッピング</seg>
       </tuv>
     </tu>
     <tu>
@@ -22122,6 +22114,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T104508Z" creationid="Kasuya" creationdate="20160706T104508Z">
+        <seg>分節内に「{0}」がある場合に通知する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T090705Z" creationid="Kasuya" creationdate="20160706T090646Z">
@@ -22132,8 +22132,8 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090551Z" creationid="Kasuya" creationdate="20160706T090509Z">
-        <seg>分節に辞書項目が一致した場合に通知する</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T105300Z" creationid="Kasuya" creationdate="20160706T090509Z">
+        <seg>分節に辞書項目がある場合に通知する</seg>
       </tuv>
     </tu>
     <tu>
@@ -24378,14 +24378,6 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T085126Z" creationid="Yu-Tang" creationdate="20141202T085001Z">
         <seg>定義済みのテーマを簡単に切り替えられるスクリプトも、付属しています。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Predefined credentials was not passed.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T100531Z" creationid="Kasuya" creationdate="20160706T100323Z">
-        <seg>定義済みの認証情報が承認されませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27124,14 +27116,6 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T143856Z">
         <seg>分節</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Segment Properties</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T103656Z" creationid="Kasuya" creationdate="20160706T103656Z">
-        <seg>分節Segment Properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -31580,8 +31564,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The project will be loaded as a local project without team mode support.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094129Z" creationid="Kasuya" creationdate="20160706T092833Z">
-        <seg>プロジェクトは、チーム機能の支援がないローカルプロジェクトとして読み込まれます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T105429Z" creationid="Kasuya" creationdate="20160706T092833Z">
+        <seg>プロジェクトは、チーム機能のないローカルプロジェクトとして読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
