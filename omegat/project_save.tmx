@@ -7376,6 +7376,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090759Z" creationid="Kasuya" creationdate="20160706T090720Z">
+        <seg>操作と設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130215T162631Z">
@@ -7420,6 +7428,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T083934Z" creationid="Kasuya" creationdate="20160706T083934Z">
         <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add Glossary Entry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085829Z" creationid="Kasuya" creationdate="20160706T085829Z">
+        <seg>用語の追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -7820,6 +7836,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140925T145701Z" creationid="Yu-Tang" creationdate="20140925T145634Z">
         <seg>前回使用した OmegaT プロジェクトを自動的に開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T091231Z" creationid="Kasuya" creationdate="20160706T091231Z">
+        <seg>パスワードをプレーンテキストとして保存できるようにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow to save password locally as plain text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T091036Z" creationid="Kasuya" creationdate="20160706T090932Z">
+        <seg>パスワードをプレーンテキストとしてローカルに保存できるようにする</seg>
       </tuv>
     </tu>
     <tu>
@@ -10209,6 +10241,16 @@ documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T043645Z">
         <seg>コードに関する貢献者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by:
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085613Z" creationid="Kasuya" creationdate="20160706T085436Z">
+        <seg>コードに関する貢献者：
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（主開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -12807,8 +12849,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085200Z" creationid="Kasuya" creationdate="20160706T085200Z">
-        <seg>Empty リポジトリ URL in the mapping</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085251Z" creationid="Kasuya" creationdate="20160706T085200Z">
+        <seg>マッピングにおいてリポジトリ URL が空です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13643,6 +13685,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T123305Z">
         <seg>外部 TMX ファイルの設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External TMX Options...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090815Z" creationid="Kasuya" creationdate="20160706T090815Z">
+        <seg>外部 TMX の設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -15139,8 +15189,8 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       <tuv lang="EN">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T224653Z" creationid="Kasuya" creationdate="20160705T091052Z">
-        <seg>用語集項目を一致させる際に、ステミングや除外語は使用せず、大文字と小文字は区別しません。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085853Z" creationid="Kasuya" creationdate="20160705T091052Z">
+        <seg>用語を一致させる際に、ステミングや除外語は使用せず、大文字と小文字は区別しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15868,8 +15918,8 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T094913Z" creationid="Kasuya" creationdate="20160705T080923Z">
-        <seg>&lt;g0&gt;［用語にステミング（語幹処理）を適用］&lt;/g0&gt;にチェックが入っていると、原文が英語で「elements」という語を含んでいる場合、 用語集項目「element」が抽出されます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085846Z" creationid="Kasuya" creationdate="20160705T080923Z">
+        <seg>&lt;g0&gt;［用語にステミング（語幹処理）を適用］&lt;/g0&gt;にチェックが入っていると、原文が英語で「elements」という語を含んでいる場合、 用語「element」が抽出されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16265,15 +16315,15 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T064631Z" creationid="Kasuya" creationdate="20160705T064443Z">
-        <seg>参考訳文のテキストの一部を選択した状態であれば、選択範囲のみをカーソル位置に挿入します。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090130Z" creationid="Kasuya" creationdate="20160705T064443Z">
+        <seg>参考訳文のテキストの一部を選択した状態であれば、選択領域のみをカーソル位置に挿入します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T064717Z" creationid="Kasuya" creationdate="20160705T063503Z">
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090215Z" creationid="Kasuya" creationdate="20160705T063503Z">
         <seg>参考訳文のテキストの一部を選択した状態であれば、選択範囲のみが訳文分節の全体を置き換えます。</seg>
       </tuv>
     </tu>
@@ -16377,8 +16427,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the option is OFF, the glossary entry above will not be found.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T080829Z" creationid="Kasuya" creationdate="20160705T080740Z">
-        <seg>このオプションのチェックが入っていない場合、上記の用語集項目は抽出されません。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085841Z" creationid="Kasuya" creationdate="20160705T080740Z">
+        <seg>このオプションのチェックが入っていない場合、上記の用語は抽出されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17942,7 +17992,7 @@ Google 検索結果(2013/2/11)：
       <tuv lang="EN">
         <seg>Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T063805Z" creationid="Kasuya" creationdate="20160705T063805Z">
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090220Z" creationid="Kasuya" creationdate="20160705T063805Z">
         <seg>参考訳文または選択範囲を挿入</seg>
       </tuv>
     </tu>
@@ -17976,6 +18026,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130321T155219Z">
         <seg>次の未使用のタグを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090235Z" creationid="Kasuya" creationdate="20160706T085955Z">
+        <seg>選択範囲を挿入</seg>
       </tuv>
     </tu>
     <tu>
@@ -21944,6 +22002,54 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090705Z" creationid="Kasuya" creationdate="20160706T090646Z">
+        <seg>分節にコメントがある場合に通知する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090551Z" creationid="Kasuya" creationdate="20160706T090509Z">
+        <seg>分節に辞書項目が一致した場合に通知する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090439Z" creationid="Kasuya" creationdate="20160706T085802Z">
+        <seg>分節に参考訳文がある場合に通知する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090411Z" creationid="Kasuya" creationdate="20160706T090304Z">
+        <seg>分節に用語が一致した場合に通知する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090852Z" creationid="Kasuya" creationdate="20160706T090828Z">
+        <seg>分節に複数訳文がある場合に通知する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090633Z" creationid="Kasuya" creationdate="20160706T090633Z">
+        <seg>分節にメモがある場合に通知する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165618Z">
@@ -23039,6 +23145,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T043433Z" creationid="Yu-Tang" creationdate="20160212T043433Z">
         <seg>訳文ファイルの場所を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090357Z" creationid="Kasuya" creationdate="20160706T090357Z">
+        <seg>書き込み可能な用語集ファイルを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -25520,7 +25634,7 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Replace With Match or Selection</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160705T063030Z" creationid="Kasuya" creationdate="20160705T063030Z">
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T090206Z" creationid="Kasuya" creationdate="20160705T063030Z">
         <seg>参考訳文または選択範囲によって置換</seg>
       </tuv>
     </tu>
@@ -41053,6 +41167,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>lv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085625Z" creationid="Kasuya" creationdate="20160706T085625Z">
+        <seg>mALIGNa（MIT ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
