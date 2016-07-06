@@ -10530,6 +10530,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert 2.6-style team project into 3.7-style</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T093131Z" creationid="Kasuya" creationdate="20160706T093131Z">
+        <seg>2.6 形式のチームプロジェクトを 3.7 形式に変換する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -16987,6 +16995,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you press 'OK', omegat.project will be converted and the project will be closed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T093557Z" creationid="Kasuya" creationdate="20160706T093557Z">
+        <seg>［OK］を押すと、omegat.project が変換され、プロジェクトが閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;) and the &lt;e10&gt;GoTo segment&lt;/e10&gt; functions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130312T030731Z">
@@ -22382,6 +22398,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121205T102053Z">
         <seg>OmegaT はオプション「はい」を自動選択しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has detected a 2.6-style team project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T093223Z" creationid="Kasuya" creationdate="20160706T093157Z">
+        <seg>2.6 形式のチームプロジェクトが検出されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28351,8 +28375,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T065501Z" creationid="Taro" creationdate="20160212T020934Z">
-        <seg>デフォルト(GUI)以外のモードを指定します。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T093047Z" creationid="Taro" creationdate="20160212T020934Z">
+        <seg>デフォルト（GUI）以外のモードを指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31410,6 +31434,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team mode support.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T092833Z" creationid="Kasuya" creationdate="20160706T092833Z">
+        <seg>プロジェクトは、チームモードの支援なしにローカルプロジェクトとして読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T045026Z">
@@ -33603,6 +33635,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182548Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; に貢献するには：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, just open it in GUI.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T093055Z" creationid="Kasuya" creationdate="20160706T092942Z">
+        <seg>これを新しいチームプロジェクトに変換するには、単に GUI から開いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36726,6 +36766,14 @@ https://ja.wordpress.org/</note>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T092110Z">
         <seg>プレーンテキストを扱う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Would you like to convert the omegat.project file into a 3.7-style team project to be able to commit to the repository manually or send it to the administrator?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T093446Z" creationid="Kasuya" creationdate="20160706T093322Z">
+        <seg>omegat.project ファイルを 3.7 形式のチームプロジェクトに変換して、手動でリポジトリにコミットしたり、管理者に送付したりできるようにしますか。</seg>
       </tuv>
     </tu>
     <tu>
