@@ -8074,6 +8074,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T100031Z" creationid="Kasuya" creationdate="20160706T100031Z">
+        <seg>プロジェクトファイルを確認中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the repo type.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140605T082953Z">
@@ -13219,6 +13227,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T181324Z">
         <seg>TMX レベル 2 ファイルを読み込み中、行 {0}{1} の列 {0} でエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T100721Z" creationid="Kasuya" creationdate="20160706T100721Z">
+        <seg>Error retrieve {0} as リーモートプロジェクトファイルとして</seg>
       </tuv>
     </tu>
     <tu>
@@ -18705,8 +18721,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It should be converted to a new team project, but it's impossible in console mode.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T091457Z" creationid="Kasuya" creationdate="20160706T091457Z">
-        <seg>新しいチームプロジェクトに変換すべきですが、コンソールモードでは不可能です。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T100001Z" creationid="Kasuya" creationdate="20160706T091457Z">
+        <seg>新しいチームプロジェクトに変換する必要がありますが、コンソールモードでは不可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24318,6 +24334,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T100531Z" creationid="Kasuya" creationdate="20160706T100323Z">
+        <seg>定義済みの認証情報が承認されませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134156Z">
@@ -24660,6 +24684,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134237Z">
         <seg>プロジェクト作成の開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T095922Z" creationid="Kasuya" creationdate="20160706T095922Z">
+        <seg>プロジェクトファイルは、http プロトコルに従っている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25836,6 +25868,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T084333Z" creationid="Kasuya" creationdate="20160706T084333Z">
         <seg>リポジトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T100744Z" creationid="Kasuya" creationdate="20160706T100744Z">
+        <seg>リポジトリ認証情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -32997,6 +33037,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T141713Z">
         <seg>Subversion リポジトリです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T100125Z" creationid="Kasuya" creationdate="20160706T100104Z">
+        <seg>これは有効なプロジェクトファイルです。</seg>
       </tuv>
     </tu>
     <tu>
