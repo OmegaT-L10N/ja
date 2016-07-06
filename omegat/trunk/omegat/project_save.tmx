@@ -4044,6 +4044,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094934Z" creationid="Kasuya" creationdate="20160706T094934Z">
+        <seg>&lt;html&gt;リポジトリまたはプロジェクト&lt;br&gt;ファイル（omegat.project）のURL：&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;The SVN team project is currently opened.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150519T101035Z" creationid="Yu-Tang" creationdate="20150519T101035Z">
@@ -7652,6 +7660,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T202712Z">
         <seg>原文ファイルを論理的な区切りで分節化した後、&lt;a0&gt;OmegaT&lt;/a0&gt; はさらにそれらを文単位で分節化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After that, you need to download the project into a new folder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094855Z" creationid="Kasuya" creationdate="20160706T094610Z">
+        <seg>その後に、このプロジェクトを新しいフォルダーにダウンロードする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16995,6 +17011,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you press 'Cancel', the project will not be converted and will be loaded as a standard local project without team support.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094744Z" creationid="Kasuya" creationdate="20160706T094052Z">
+        <seg>［取消］を押すと、プロジェクトは変換されず、チーム機能の支援がない標準のローカルプロジェクトとして読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you press 'OK', omegat.project will be converted and the project will be closed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T093557Z" creationid="Kasuya" creationdate="20160706T093557Z">
@@ -19709,6 +19733,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160226Z">
         <seg>ローカルフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094948Z" creationid="Kasuya" creationdate="20160706T094948Z">
+        <seg>ローカルプロジェクトフォルダー：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31239,6 +31271,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The omegat.project file was converted successfully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094411Z" creationid="Kasuya" creationdate="20160706T094411Z">
+        <seg>omegat.project ファイルの変換に成功しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130228T024435Z">
@@ -31436,8 +31476,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="EN">
         <seg>The project will be loaded as a local project without team mode support.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T092833Z" creationid="Kasuya" creationdate="20160706T092833Z">
-        <seg>プロジェクトは、チームモードの支援なしにローカルプロジェクトとして読み込まれます。</seg>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094129Z" creationid="Kasuya" creationdate="20160706T092833Z">
+        <seg>プロジェクトは、チーム機能の支援がないローカルプロジェクトとして読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37566,6 +37606,14 @@ SourceForge too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You cannot use this project as a team project anymore until an administrator commits the new omegat.project into the repository.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094818Z" creationid="Kasuya" creationdate="20160706T094547Z">
+        <seg>管理者が新しい omegat.project をリポジトリにコミットしない限り、このプロジェクトはチームプロジェクトとして使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You create first an empty client folder on your disk.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T035508Z">
@@ -37715,6 +37763,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T093812Z" creationid="Kasuya" creationdate="20160706T093812Z">
         <seg>管理者が omegat.project をリポジトリにコミットするまでは、使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will still able to use OmegaT 3.4 or above to edit this project as a team project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T094335Z" creationid="Kasuya" creationdate="20160706T094208Z">
+        <seg>それでも、OmegaT 3.4 以降のバージョンを使用すれば、このプロジェクトをチームプロジェクトとして編集することができます。</seg>
       </tuv>
     </tu>
     <tu>
