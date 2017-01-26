@@ -6,7 +6,7 @@
       <primary>Search</primary>
     </indexterm></title>
 
-  <section id="section.TaaS.options">
+  <section id="section.TaaS.generalities">
     <title>Generalities</title>
 
     <para>The TaaS service at https://demo.taas-project.eu/info provides
@@ -16,15 +16,15 @@
     terms partly populated automatically from various sources.</para>
   </section>
 
-  <section id="section.TaaS.options.collections">
+  <section id="section.TaaS.options.key">
     <title>Creating a key</title>
 
     <para>To access the TaaS service, a user must create a key using
-    https://demo.taas-project.eu/account/keys/create?system=omegaT.</para>
+    https://term.tilde.com/account/keys/create?system=omegaT.</para>
 
     <para>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.
     OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and
-    OmegaT.sh) contain a template entry.</para>
+    Configuration.properties) contain a template entry.</para>
   </section>
 
   <section id="section.TaaS.options.access">

@@ -155,17 +155,9 @@
           <row>
             <entry>New</entry>
 
-            <entry><keycap>Shift+Ctrl+N</keycap></entry>
+            <entry><keycap>Ctrl+Shift+N</keycap></entry>
 
             <entry>projectNewMenuItem</entry>
-          </row>
-
-          <row>
-            <entry>Open</entry>
-
-            <entry><keycap>Ctrl+O</keycap></entry>
-
-            <entry>projectOpenMenuItem</entry>
           </row>
 
           <row>
@@ -177,7 +169,23 @@
           </row>
 
           <row>
-            <entry>Import Source Files...</entry>
+            <entry>Open</entry>
+
+            <entry><keycap>Ctrl+O</keycap></entry>
+
+            <entry>projectOpenMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Open Recent Project</entry>
+
+            <entry/>
+
+            <entry>projectOpenRecentMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Copy Files to Source Folder...</entry>
 
             <entry/>
 
@@ -185,7 +193,7 @@
           </row>
 
           <row>
-            <entry>Import From MediaWiki...</entry>
+            <entry>Download MediaWiki Page...</entry>
 
             <entry/>
 
@@ -227,7 +235,7 @@
           <row>
             <entry>Create Current Translated Documents</entry>
 
-            <entry><keycap>Shift+Ctrl+D</keycap></entry>
+            <entry><keycap>Ctrl+Shift+D</keycap></entry>
 
             <entry>projectSingleCompileMenuItem</entry>
           </row>
@@ -246,6 +254,70 @@
             <entry><keycap>Ctrl+L</keycap></entry>
 
             <entry>viewFileListMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Access Project Contents/Root</entry>
+
+            <entry/>
+
+            <entry>projectAccessRootMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Access Project Contents/Dictionaries</entry>
+
+            <entry/>
+
+            <entry>projectAccessDictionaryMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Access Project Contents/Glossaries</entry>
+
+            <entry/>
+
+            <entry>projectAccessGlossaryMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Access Project Contents/Source Files</entry>
+
+            <entry/>
+
+            <entry>projectAccessSourceMenuItem </entry>
+          </row>
+
+          <row>
+            <entry>Access Project Contents/Target Files</entry>
+
+            <entry/>
+
+            <entry>projectAccessTargetMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Access Project Contents/Current Source Document</entry>
+
+            <entry/>
+
+            <entry>projectAccessCurrentSourceDocumentMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Access Project Contents/Current Target Document</entry>
+
+            <entry/>
+
+            <entry>projectAccessCurrentTargetDocumentMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Access Project Contents/Writeable Glossary</entry>
+
+            <entry/>
+
+            <entry>projectAccessWriteableGlossaryMenuItem</entry>
           </row>
 
           <row>
@@ -301,7 +373,7 @@
           </row>
 
           <row>
-            <entry>Replace With Match</entry>
+            <entry>Replace With Match or Selection</entry>
 
             <entry><keycap>Ctrl+R</keycap></entry>
 
@@ -309,7 +381,7 @@
           </row>
 
           <row>
-            <entry>Insert Match</entry>
+            <entry>Insert Match or Selection</entry>
 
             <entry><keycap>Ctrl+I</keycap></entry>
 
@@ -327,7 +399,7 @@
           <row>
             <entry>Replace With Source</entry>
 
-            <entry><keycap>Shift+Ctrl+R</keycap></entry>
+            <entry><keycap>Ctrl+Shift+R</keycap></entry>
 
             <entry>editOverwriteSourceMenuItem</entry>
           </row>
@@ -335,15 +407,15 @@
           <row>
             <entry>Insert Source</entry>
 
-            <entry><keycap>Shift+Ctrl+I</keycap></entry>
+            <entry><keycap>Ctrl+Shift+I</keycap></entry>
 
             <entry>editInsertSourceMenuItem</entry>
           </row>
 
           <row>
-            <entry>Insert Source Tags</entry>
+            <entry>Insert Missing Source Tags</entry>
 
-            <entry><keycap>Shift+Ctrl+T</keycap></entry>
+            <entry><keycap>Ctrl+Shift+T</keycap></entry>
 
             <entry>editTagPainterMenuItem</entry>
           </row>
@@ -359,7 +431,7 @@
           <row>
             <entry>Export Selection</entry>
 
-            <entry><keycap>Shift+Ctrl+C</keycap></entry>
+            <entry><keycap>Ctrl+Shift+C</keycap></entry>
 
             <entry>editExportSelectionMenuItem</entry>
           </row>
@@ -367,7 +439,7 @@
           <row>
             <entry>Create Glossary Entry</entry>
 
-            <entry><keycap>Shift+Ctrl+G</keycap></entry>
+            <entry><keycap>Ctrl+Shift+G</keycap></entry>
 
             <entry>editCreateGlossaryEntryMenuItem</entry>
           </row>
@@ -381,67 +453,19 @@
           </row>
 
           <row>
+            <entry/>
+
+            <entry><keycap>Ctrl+Shift+F</keycap></entry>
+
+            <entry>findInProjectReuseLastWindow</entry>
+          </row>
+
+          <row>
             <entry>Search and Replace...</entry>
 
             <entry><keycap>Ctrl+K</keycap></entry>
 
             <entry>editReplaceInProjectMenuItem</entry>
-          </row>
-
-          <row>
-            <entry>Select Previous Match</entry>
-
-            <entry><keycap>Ctrl+↑</keycap></entry>
-
-            <entry>editSelectFuzzyPrevMenuItem</entry>
-          </row>
-
-          <row>
-            <entry>Select Next Match</entry>
-
-            <entry><keycap>Ctrl+↓</keycap></entry>
-
-            <entry>editSelectFuzzyNextMenuItem</entry>
-          </row>
-
-          <row>
-            <entry>Select Fuzzy Match 1</entry>
-
-            <entry><keycap>Ctrl+1</keycap></entry>
-
-            <entry>editSelectFuzzy1MenuItem</entry>
-          </row>
-
-          <row>
-            <entry>Select Fuzzy Match 2</entry>
-
-            <entry><keycap>Ctrl+2</keycap></entry>
-
-            <entry>editSelectFuzzy2MenuItem</entry>
-          </row>
-
-          <row>
-            <entry>Select Fuzzy Match 3</entry>
-
-            <entry><keycap>Ctrl+3</keycap></entry>
-
-            <entry>editSelectFuzzy3MenuItem</entry>
-          </row>
-
-          <row>
-            <entry>Select Fuzzy Match 4</entry>
-
-            <entry><keycap>Ctrl+4</keycap></entry>
-
-            <entry>editSelectFuzzy4MenuItem</entry>
-          </row>
-
-          <row>
-            <entry>Select Fuzzy Match 5</entry>
-
-            <entry><keycap>Ctrl+5</keycap></entry>
-
-            <entry>editSelectFuzzy5MenuItem</entry>
           </row>
 
           <row>
@@ -469,11 +493,75 @@
           </row>
 
           <row>
-            <entry>Cycle Case To...</entry>
+            <entry>Switch Case To/Sentence Case</entry>
+
+            <entry/>
+
+            <entry>sentenceCaseMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Switch Case To/Cycle</entry>
 
             <entry><keycap>Shift+F3</keycap></entry>
 
             <entry>cycleSwitchCaseMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Select Previous Match</entry>
+
+            <entry><keycap>Ctrl+↑</keycap></entry>
+
+            <entry>editSelectFuzzyPrevMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Select Next Match</entry>
+
+            <entry><keycap>Ctrl+↓</keycap></entry>
+
+            <entry>editSelectFuzzyNextMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Select Match #1</entry>
+
+            <entry><keycap>Ctrl+1</keycap></entry>
+
+            <entry>editSelectFuzzy1MenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Select Match #2</entry>
+
+            <entry><keycap>Ctrl+2</keycap></entry>
+
+            <entry>editSelectFuzzy2MenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Select Match #3</entry>
+
+            <entry><keycap>Ctrl+3</keycap></entry>
+
+            <entry>editSelectFuzzy3MenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Select Match #4</entry>
+
+            <entry><keycap>Ctrl+4</keycap></entry>
+
+            <entry>editSelectFuzzy4MenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Select Match #5</entry>
+
+            <entry><keycap>Ctrl+5</keycap></entry>
+
+            <entry>editSelectFuzzy5MenuItem</entry>
           </row>
 
           <row>
@@ -493,9 +581,25 @@
           </row>
 
           <row>
-            <entry>Register Identical Translation</entry>
+            <entry>Remove translation</entry>
 
             <entry/>
+
+            <entry>editRegisterUntranslatedMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Set empty translation</entry>
+
+            <entry/>
+
+            <entry>editRegisterEmptyMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Register Identical Translation</entry>
+
+            <entry><keycap>Ctrl+Shift+S</keycap></entry>
 
             <entry>editRegisterIdenticalMenuItem</entry>
           </row>
@@ -539,7 +643,7 @@
           <row>
             <entry>Next Translated Segment</entry>
 
-            <entry><keycap>Shift+Ctrl+U</keycap></entry>
+            <entry><keycap>Ctrl+Shift+U</keycap></entry>
 
             <entry>gotoNextTranslatedMenuItem</entry>
           </row>
@@ -584,6 +688,22 @@
             <entry/>
 
             <entry>gotoPreviousNoteMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Next Unique Segment</entry>
+
+            <entry><keycap>Ctrl+Shift+Q</keycap></entry>
+
+            <entry>gotoNextUniqueMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Source of Selected Match</entry>
+
+            <entry><keycap>Ctrl+Shift+M</keycap></entry>
+
+            <entry>gotoMatchSourceSegment</entry>
           </row>
 
           <row>
@@ -701,6 +821,14 @@
           </row>
 
           <row>
+            <entry>Mark Auto-Populated Segments</entry>
+
+            <entry/>
+
+            <entry>viewMarkAutoPopulatedCheckBoxMenuItem</entry>
+          </row>
+
+          <row>
             <entry>Modification Info/Display None</entry>
 
             <entry/>
@@ -755,7 +883,7 @@
           <row>
             <entry>Validate Tags</entry>
 
-            <entry><keycap>Shift+Ctrl+V</keycap></entry>
+            <entry><keycap>Ctrl+Shift+V</keycap></entry>
 
             <entry>toolsValidateTagsMenuItem</entry>
           </row>
@@ -837,11 +965,28 @@
           </row>
 
           <row>
-            <entry>Machine Translate</entry>
+            <entry>Glossary/Display Context Description for TBX
+            Glossaries</entry>
 
             <entry/>
 
+            <entry>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Use Terms Appearing Separately in the Source Text</entry>
+
             <entry/>
+
+            <entry>optionsGlossaryExactMatchCheckBoxMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Glossary/Use Stemming for Glossary Entries</entry>
+
+            <entry/>
+
+            <entry>optionsGlossaryStemmingCheckBoxMenuItem</entry>
           </row>
 
           <row>
@@ -853,11 +998,12 @@
           </row>
 
           <row>
-            <entry>TransTips/Exact Match</entry>
+            <entry>Auto-completion/Show Relevant Suggestions
+            Automatically</entry>
 
             <entry/>
 
-            <entry>optionsTransTipsExactMatchMenuItem</entry>
+            <entry>optionsAutoCompleteShowAutomaticallyItem</entry>
           </row>
 
           <row>
@@ -890,6 +1036,14 @@
             <entry/>
 
             <entry>optionsFontSelectionMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Custom Colours...</entry>
+
+            <entry/>
+
+            <entry>optionsColorsSelectionMenuItem</entry>
           </row>
 
           <row>
@@ -978,6 +1132,14 @@
             <entry/>
 
             <entry>optionsRestoreGUIMenuItem</entry>
+          </row>
+
+          <row>
+            <entry>Access Configuration Folder</entry>
+
+            <entry/>
+
+            <entry>optionsAccessConfigDirMenuItem</entry>
           </row>
         </tbody>
       </tgroup>
