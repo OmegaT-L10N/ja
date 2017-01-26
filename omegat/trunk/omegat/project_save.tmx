@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9551M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -211,6 +211,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130227T194449Z">
         <seg>${creationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diffReversed}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093420Z" creationid="suzume" creationdate="20170126T093420Z">
+        <seg>${diffReversed}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4308,6 +4316,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093311Z" creationid="suzume" creationdate="20170126T093311Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T030913Z" creationid="Yu-Tang" creationdate="20141104T030913Z">
@@ -5769,6 +5785,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155147Z">
         <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;コマンドラインモード&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Drag and drop&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093244Z" creationid="suzume" creationdate="20170126T093244Z">
+        <seg>&lt;p0&gt;OmegaT の実行&lt;/p0&gt; &lt;s1&gt;ドラッグ＆ドロップ&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11259,6 +11283,46 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093024Z" creationid="suzume" creationdate="20170126T093024Z">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T092958Z" creationid="suzume" creationdate="20170126T092958Z">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093026Z" creationid="suzume" creationdate="20170126T093026Z">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+G</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093025Z" creationid="suzume" creationdate="20170126T093025Z">
+        <seg>Ctrl+Shift+G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093021Z" creationid="suzume" creationdate="20170126T093021Z">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141715Z">
@@ -11287,6 +11351,22 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141712Z">
         <seg>Ctrl+Shift+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093019Z" creationid="suzume" creationdate="20170126T093019Z">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093023Z" creationid="suzume" creationdate="20170126T093023Z">
+        <seg>Ctrl+Shift+T</seg>
       </tuv>
     </tu>
     <tu>
@@ -11919,6 +11999,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>原文を太字で表示(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093642Z" creationid="suzume" creationdate="20170126T093541Z">
+        <seg>TBX 用語集の説明文を表示(&amp;g)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14439,6 +14527,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T045243Z">
         <seg>たとえば「&lt;e0&gt;Did it make sense? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093328Z" creationid="suzume" creationdate="20170126T093328Z">
+        <seg>たとえば &lt;e0&gt;a+&lt;/e0&gt; は文字列 &lt;e1&gt;aaabbb&lt;/e1&gt; にある &lt;e1&gt;aaa&lt;/e1&gt; と一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18042,6 +18138,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T080436Z">
         <seg>このフォルダーは、最初は空の状態です。プロジェクトに辞書を追加する際、辞書ファイルの置き場所になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093143Z" creationid="suzume" creationdate="20170126T093143Z">
+        <seg>最初に読み込む分節数</seg>
       </tuv>
     </tu>
     <tu>
@@ -26554,6 +26658,14 @@ https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%9E%E3%83%88%E3%83%AD%E3%8
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Schematron (*.sch)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093213Z" creationid="suzume" creationdate="20170126T093213Z">
+        <seg>スキマトロン (*.sch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
@@ -28707,6 +28819,14 @@ https://support.microsoft.com/kb/901125/</note>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181640Z">
         <seg>再現するまでの手順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093417Z" creationid="suzume" creationdate="20170126T093417Z">
+        <seg>原文と参考訳文との差異を表示します。&lt;e0&gt;ヒント：&lt;/e0&gt;更新された文書の翻訳時に使うとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35470,6 +35590,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093651Z" creationid="suzume" creationdate="20170126T093651Z">
+        <seg>原文中で単語が離れている用語を表示(&amp;a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T180431Z" creationid="Yu-Tang" creationdate="20141202T180431Z">
@@ -39553,6 +39681,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093028Z" creationid="suzume" creationdate="20170126T093028Z">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T182805Z">
@@ -40098,6 +40234,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093300Z" creationid="suzume" creationdate="20170126T093300Z">
+        <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T124318Z">
@@ -40422,6 +40566,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160704T082333Z" creationid="Kasuya" creationdate="20160704T082333Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093128Z" creationid="suzume" creationdate="20170126T093128Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
@@ -42339,6 +42491,70 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093014Z" creationid="suzume" creationdate="20170126T093014Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093015Z" creationid="suzume" creationdate="20170126T093015Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093006Z" creationid="suzume" creationdate="20170126T093006Z">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093008Z" creationid="suzume" creationdate="20170126T093008Z">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093004Z" creationid="suzume" creationdate="20170126T093004Z">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093010Z" creationid="suzume" creationdate="20170126T093010Z">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093012Z" creationid="suzume" creationdate="20170126T093012Z">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093018Z" creationid="suzume" creationdate="20170126T093018Z">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectCloseMenuItem</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141037Z">
@@ -42399,6 +42615,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T105629Z">
         <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T092957Z" creationid="suzume" creationdate="20170126T092957Z">
+        <seg>projectOpenRecentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -42783,6 +43007,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T090615Z">
         <seg>探している内容ともっとも近い翻訳メモリのバックアップファイルを選択する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sentenceCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="suzume" changedate="20170126T093036Z" creationid="suzume" creationdate="20170126T093036Z">
+        <seg>sentenceCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
