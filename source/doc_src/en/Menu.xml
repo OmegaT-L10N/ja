@@ -195,6 +195,8 @@
               <entry><keycombo>
                   <keycap>Ctrl</keycap>
 
+                  <keycap>Shift</keycap>
+
                   <keycap>D</keycap>
                 </keycombo></entry>
 
@@ -543,7 +545,15 @@
 
                   <keycap>F</keycap>
                 </keycombo>, the text will be pasted by default in the
-              <guilabel>Search for</guilabel> field.</para></entry>
+              <guilabel>Search for</guilabel> field.</para><para>Pressing
+              <keycombo>
+                  <keycap>Ctrl</keycap>
+
+                  <keycap>Shift</keycap>
+
+                  <keycap>F</keycap>
+                </keycombo> displays the last already opened Search window
+              (instead of opening a new one).</para></entry>
             </row>
 
             <row>
@@ -1131,17 +1141,19 @@
               OFF, the glossary entry above will not be found.</para><para>The
               <emphasis>Replace Glossary Hits when Inserting Source
               Text</emphasis> option allows to replace automatically glossary
-              hits with the target term when source text is inserted.           
-              This is effective upon <emphasis>Edit > Replace with Source</emphasis>, 
-              <emphasis>Edit > Insert Source</emphasis>, and when entering a segment
-              when <emphasis>Options > Editing Behavior > [Insert] The source
-              text</emphasis> is enabled. When multiple target terms are available, 
-              the first one (as shown in the Glossary pane) will be used. Glossary matching 
-              does not use stemming or stop words, but is case-insensitive. An attempt 
-              is made to match the capitalization of the source word.</para><para>The 
-              3 other options are described in the specific page concerning
-              <link linkend="section.TaaS.options">TaaS</link> (Terminology as
-              a Service).</para></entry>
+              hits with the target term when source text is inserted. This is
+              effective upon <emphasis>Edit &gt; Replace with
+              Source</emphasis>, <emphasis>Edit &gt; Insert Source</emphasis>,
+              and when entering a segment when <emphasis>Options &gt; Editing
+              Behavior &gt; [Insert] The source text</emphasis> is enabled.
+              When multiple target terms are available, the first one (as
+              shown in the Glossary pane) will be used. Glossary matching does
+              not use stemming or stop words, but is case-insensitive. An
+              attempt is made to match the capitalization of the source
+              word.</para><para>The 3 other options are described in the
+              specific page concerning <link
+              linkend="section.TaaS.options.access">TaaS</link> (Terminology
+              as a Service).</para></entry>
             </row>
 
             <row>
@@ -1230,10 +1242,10 @@
             <row>
               <entry><guimenuitem>Tag Processing...</guimenuitem></entry>
 
-              <entry>When translating software-related files: Allows you to configure the Tag
-              Validator options to check also programming (%...)
-              variables. It also allows to define various options related to tag validation 
-              and to define custom tags.</entry>
+              <entry>When translating software-related files: Allows you to
+              configure the Tag Validator options to check also programming
+              (%...) variables. It also allows to define various options
+              related to tag validation and to define custom tags.</entry>
             </row>
 
             <row>
@@ -1317,8 +1329,8 @@
             <row>
               <entry><guimenuitem>User Manual...</guimenuitem></entry>
 
-              <entry><keycap>F1:</keycap> Opens Help browser displaying this
-              manual in a separate window.</entry>
+              <entry><keycap>F1:</keycap> Opens this manual in the default
+              browser.</entry>
             </row>
 
             <row>
