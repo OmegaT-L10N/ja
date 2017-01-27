@@ -991,6 +991,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T231045Z" creationid="Yu-Tang" creationdate="20170127T231045Z">
+        <seg>環境設定(&amp;P)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Prefix:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -7288,6 +7296,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T233618Z" creationid="Yu-Tang" creationdate="20170127T233618Z">
+        <seg>ANTLR（ANTLR 3 ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR 3.4 (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T110441Z">
@@ -7372,6 +7388,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T154700Z">
         <seg>OmegaT について...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T231346Z" creationid="Yu-Tang" creationdate="20170127T231346Z">
+        <seg>設定フォルダー(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,6 +8406,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232759Z" creationid="Yu-Tang" creationdate="20170127T232759Z">
+        <seg>Apache Commons（Apache ライセンス 2.0）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apertium</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140921Z">
@@ -9229,6 +9261,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T231833Z" creationid="Yu-Tang" creationdate="20170127T231833Z">
+        <seg>参照...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T181550Z">
@@ -10013,6 +10053,22 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T231953Z" creationid="Yu-Tang" creationdate="20170127T231953Z">
+        <seg>原文ファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232008Z" creationid="Yu-Tang" creationdate="20170127T232008Z">
+        <seg>訳文ファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T012523Z">
@@ -10323,6 +10379,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T085613Z" creationid="Kasuya" creationdate="20160706T085436Z">
         <seg>コードに関する貢献者：
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（主開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich そして Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T233905Z" creationid="Yu-Tang" creationdate="20170127T233905Z">
+        <seg>コードに関する貢献者：
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12356,6 +12422,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T234244Z" creationid="Yu-Tang" creationdate="20170127T234244Z">
+        <seg>文書プロパティ(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130531T132444Z">
@@ -13345,8 +13419,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T181324Z">
-        <seg>TMX レベル 2 ファイルを読み込み中、行 {0}{1} の列 {0} でエラーが発生しました。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232657Z">
+        <seg>TMX レベル 2 ファイルを読み込み中、行 {0} の列 {1} でエラーが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15519,6 +15593,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T073848Z">
         <seg>ギリシャ語（近代）（Greek, Modern）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232813Z" creationid="Yu-Tang" creationdate="20170127T232813Z">
+        <seg>Groovy（Apache ライセンス 2.0）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19093,6 +19175,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232917Z" creationid="Yu-Tang" creationdate="20170127T232917Z">
+        <seg>Jmyspell（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jmyspell 2.1.4 (LGPL License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180222Z">
@@ -19477,6 +19567,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T233717Z" creationid="Yu-Tang" creationdate="20170127T233717Z">
+        <seg>LanguageTool（LGPL ライセンス等）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool (LGPL license and others)</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160705T131425Z" creationid="Kasuya" creationdate="20160705T131425Z">
@@ -19716,6 +19814,14 @@ Launch OmegaT as follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130217T172922Z">
         <seg>法律上の表示と謝辞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T233804Z" creationid="Yu-Tang" creationdate="20170127T233804Z">
+        <seg>Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -22893,6 +22999,16 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T175940Z">
         <seg>OmegaT は以下に示すライブラリを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T233956Z" creationid="Yu-Tang" creationdate="20170127T233956Z">
+        <seg>OmegaT は以下に示すライブラリを使用しています。
+{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26384,6 +26500,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232852Z" creationid="Yu-Tang" creationdate="20170127T232852Z">
+        <seg>SQLJet（GPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQLJet 1.1.10 (GPL License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T131230Z">
@@ -26468,6 +26592,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T062341Z">
         <seg>SVN - 原文ファイルをコミット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232949Z" creationid="Yu-Tang" creationdate="20170127T232949Z">
+        <seg>SVNKit（TMate ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29033,6 +29165,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152029Z">
         <seg>スンダ語（Sundanese）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232806Z" creationid="Yu-Tang" creationdate="20170127T232806Z">
+        <seg>SuperTMXMerge（Apache ライセンス 2.0）</seg>
       </tuv>
     </tu>
     <tu>
@@ -36015,6 +36155,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232912Z" creationid="Yu-Tang" creationdate="20170127T232912Z">
+        <seg>VLDocking Framework（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150418T041614Z" creationid="Yu-Tang" creationdate="20150418T041614Z">
@@ -41059,6 +41207,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232839Z" creationid="Yu-Tang" creationdate="20170127T232839Z">
+        <seg>juniversalchardet（GPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>juniversalchardet-1.0.3.jar (GPL v2)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150418T043927Z" creationid="Yu-Tang" creationdate="20150418T043927Z">
@@ -43743,6 +43899,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T180739Z">
         <seg>翻訳（訳文）が空のもの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T232820Z" creationid="Yu-Tang" creationdate="20170127T232820Z">
+        <seg>trie4j（Apache ライセンス 2.0）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T233646Z" creationid="Yu-Tang" creationdate="20170127T233646Z">
+        <seg>trilead-ssh2（Trilead SSH ライセンス）</seg>
       </tuv>
     </tu>
     <tu>
