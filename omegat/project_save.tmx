@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9551M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10859,6 +10859,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T082408Z" creationid="Yu-Tang" creationdate="20170127T082408Z">
+        <seg>MED 形式プロジェクトを作成...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T164131Z">
@@ -12005,8 +12013,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
-      <tuv lang="JA" changeid="suzume" changedate="20170126T093642Z" creationid="suzume" creationdate="20170126T093541Z">
-        <seg>TBX 用語集の説明文を表示(&amp;g)</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T081520Z" creationid="suzume" creationdate="20170126T093541Z">
+        <seg>TBX 用語集の説明文を表示(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23305,6 +23313,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140323T052441Z">
         <seg>開く - 用語集ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T082324Z" creationid="Yu-Tang" creationdate="20170127T082324Z">
+        <seg>MED 形式プロジェクトを開く...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35470,6 +35486,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T082625Z" creationid="Yu-Tang" creationdate="20170127T082625Z">
+        <seg>辞書項目の照合にトークナイザーを使う(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -35482,6 +35506,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>独立したタグ（例：&lt;i/&gt;）の場合は XML を使用(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T082521Z" creationid="Yu-Tang" creationdate="20170127T082521Z">
+        <seg>辞書項目の照合にトークナイザーを使う(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35592,8 +35624,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="JA" changeid="suzume" changedate="20170126T093651Z" creationid="suzume" creationdate="20170126T093651Z">
-        <seg>原文中で単語が離れている用語を表示(&amp;a)</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T081507Z" creationid="suzume" creationdate="20170126T093651Z">
+        <seg>原文中で単語が離れている用語を表示(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
