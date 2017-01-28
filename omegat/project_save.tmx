@@ -1151,6 +1151,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143740Z" creationid="amake" creationdate="20170128T143740Z">
+        <seg>更新(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -1347,6 +1355,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>シート名(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143736Z" creationid="amake" creationdate="20170128T143736Z">
+        <seg>すべて表示(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,6 +1896,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T170620Z">
         <seg>他{0}分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143928Z" creationid="amake" creationdate="20170128T143928Z">
+        <seg>,</seg>
       </tuv>
     </tu>
     <tu>
@@ -7664,6 +7688,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144148Z" creationid="amake" creationdate="20170128T143950Z">
+        <seg>辞書に追加: 「{0}」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T174510Z">
@@ -7972,6 +8004,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T110845Z">
         <seg>{0} に対してプロジェクトを整列する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143837Z" creationid="amake" creationdate="20170128T143837Z">
+        <seg>すべて</seg>
       </tuv>
     </tu>
     <tu>
@@ -8642,6 +8682,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T063437Z">
         <seg>プログラム ファイル：ダウンロードしたパッケージに含まれるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144052Z" creationid="amake" creationdate="20170128T144052Z">
+        <seg>修正(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10289,6 +10337,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140604T161908Z">
         <seg>プロジェクト全体を検査</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143854Z" creationid="amake" creationdate="20170128T143854Z">
+        <seg>{0}をチェック</seg>
       </tuv>
     </tu>
     <tu>
@@ -12397,6 +12453,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144127Z" creationid="amake" creationdate="20170128T144127Z">
+        <seg>ルール「{0}」を無効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disable team project functionality.</seg>
       </tuv>
       <tuv lang="JA" changeid="Taro" changedate="20160212T023817Z" creationid="Taro" creationdate="20160212T023817Z">
@@ -12906,6 +12970,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175028Z">
         <seg>分野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143907Z" creationid="amake" creationdate="20170128T143907Z">
+        <seg>チェック開始前に確認しない</seg>
       </tuv>
     </tu>
     <tu>
@@ -18030,6 +18102,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144141Z" creationid="amake" creationdate="20170128T144008Z">
+        <seg>無視:「{0}」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ilia Vinogradov</seg>
       </tuv>
       <tuv lang="JA" changeid="yu-tang" changedate="20150211T145314Z" creationid="yu-tang" creationdate="20150211T145314Z">
@@ -20247,6 +20327,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144104Z" creationid="amake" creationdate="20170128T144104Z">
+        <seg>LanguageTool 指摘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T122850Z" creationid="amake" creationdate="20170128T121412Z">
@@ -21440,6 +21528,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140722T082226Z">
         <seg>除外構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144220Z" creationid="amake" creationdate="20170128T144220Z">
+        <seg>マスターパスワード</seg>
       </tuv>
     </tu>
     <tu>
@@ -28948,6 +29044,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144513Z" creationid="amake" creationdate="20170128T144513Z">
+        <seg>機密データを保護するためにマスターパスワードを設定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T075647Z">
@@ -30097,6 +30201,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143921Z" creationid="amake" creationdate="20170128T143921Z">
+        <seg>スペルミス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143914Z" creationid="amake" creationdate="20170128T143914Z">
+        <seg>スペルミス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling errors(s)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T144054Z">
@@ -30709,6 +30829,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121231T145140Z">
         <seg>タグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144030Z" creationid="amake" creationdate="20170128T144019Z">
+        <seg>タグの問題</seg>
       </tuv>
     </tu>
     <tu>
@@ -45959,6 +46087,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143834Z" creationid="amake" creationdate="20170128T143834Z">
+        <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} +{1} more</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140710T170704Z">
@@ -45987,6 +46123,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124116Z">
         <seg>分節数 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144040Z" creationid="amake" creationdate="20170128T144040Z">
+        <seg>{0} x{1}</seg>
       </tuv>
     </tu>
     <tu>
