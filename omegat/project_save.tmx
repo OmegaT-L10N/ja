@@ -1527,6 +1527,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145218Z" creationid="amake" creationdate="20170128T145218Z">
+        <seg>変更を元に戻す(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -7316,6 +7324,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T201215Z">
         <seg>過去のバージョンから現在のバージョンまでの変更点の詳細が記されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145249Z" creationid="amake" creationdate="20170128T145249Z">
+        <seg>変更を適用するために再起動が必要</seg>
       </tuv>
     </tu>
     <tu>
@@ -16670,6 +16686,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145031Z" creationid="amake" creationdate="20170128T145031Z">
+        <seg>リスクを承知のうえ続行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130303T073347Z">
@@ -23614,8 +23638,8 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       <tuv lang="EN">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T144956Z" creationid="amake" creationdate="20170128T144956Z">
-        <seg>OmegaT はマスターパスワードを自動生成して保存することによって、入力の手間を省くことができますが、安全性が格段に下がります。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145120Z" creationid="amake" creationdate="20170128T144956Z">
+        <seg>OmegaT はマスターパスワードを自動生成して保存することによって入力の手間を省くことができますが、データの安全性が格段に下がります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25666,6 +25690,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145133Z" creationid="amake" creationdate="20170128T145133Z">
+        <seg>環境設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145144Z" creationid="amake" creationdate="20170128T145144Z">
+        <seg>環境設定 - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121013T134156Z">
@@ -27412,6 +27452,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145225Z" creationid="amake" creationdate="20170128T145225Z">
+        <seg>初期値に戻す(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033504Z">
@@ -28924,6 +28972,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145158Z" creationid="amake" creationdate="20170128T145158Z">
+        <seg>設定項目を選択してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
       <tuv lang="JA" changeid="masa_36">
@@ -29072,6 +29128,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T122756Z" creationid="amake" creationdate="20170128T122344Z">
         <seg>使用する LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145004Z" creationid="amake" creationdate="20170128T145004Z">
+        <seg>やはり自分で設定する</seg>
       </tuv>
     </tu>
     <tu>
@@ -32283,6 +32347,14 @@ instead.</seg>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141128T123900Z">
         <seg>カレント
 フォルダーを代わりに使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145316Z" creationid="amake" creationdate="20170128T145316Z">
+        <seg>変更を適用するためにプロジェクトの再読み込みが必要</seg>
       </tuv>
     </tu>
     <tu>
