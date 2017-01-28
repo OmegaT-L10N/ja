@@ -767,6 +767,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120813Z" creationid="amake" creationdate="20170128T120813Z">
+        <seg>複数訳文の識別時にファイルのフルパス情報を無視する(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -1467,6 +1475,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z" creationid="yu-tang" creationdate="20150211T150401Z">
         <seg>タグ検証(&amp;V)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120940Z" creationid="amake" creationdate="20170128T120940Z">
+        <seg>分節を離れる時にタグを検証する(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7896,6 +7912,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120936Z" creationid="amake" creationdate="20170128T120936Z">
+        <seg>タグの編集を許可する(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T060742Z">
@@ -12061,6 +12085,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120955Z" creationid="amake" creationdate="20170128T120955Z">
+        <seg>タグをそのまま表示(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155941Z">
@@ -12873,6 +12905,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120932Z" creationid="amake" creationdate="20170128T120932Z">
+        <seg>分節をテキストファイルへ出力(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E.g., if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T064403Z">
@@ -13041,10 +13081,26 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120857Z" creationid="amake" creationdate="20170128T120857Z">
+        <seg>編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T133539Z">
         <seg>編集 - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120916Z" creationid="amake" creationdate="20170128T120838Z">
+        <seg>編集設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -13927,6 +13983,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T134426Z">
         <seg>後処理用外部コマンド：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120509Z" creationid="amake" creationdate="20170128T120509Z">
+        <seg>外部検索...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15713,6 +15777,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T104153Z">
         <seg>Somik Raha, Derrick Oswald などによる HTMLParser 1.6（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120614Z" creationid="amake" creationdate="20170128T120614Z">
+        <seg>HTTP(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18388,6 +18460,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>最も一致率の高い参考訳文を自動で挿入(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120927Z" creationid="amake" creationdate="20170128T120927Z">
+        <seg>原文を挿入(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24215,6 +24295,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120743Z" creationid="amake" creationdate="20170128T120743Z">
+        <seg>パスワードによって保護された PDF ファイルはサポートされていません。{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Password:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130809Z">
@@ -24586,6 +24674,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120531Z" creationid="amake" creationdate="20170128T120531Z">
+        <seg>原文ファイルの言語と、訳文ファイルの言語を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122458Z">
@@ -24694,6 +24790,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T155607Z">
         <seg>必要な条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120809Z" creationid="amake" creationdate="20170128T120809Z">
+        <seg>すべてのタグの空白を維持(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25348,6 +25452,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120749Z" creationid="amake" creationdate="20170128T120749Z">
+        <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T210156Z">
@@ -25796,6 +25908,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120758Z" creationid="amake" creationdate="20170128T120758Z">
+        <seg>先頭と末尾のタグを削除(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121005T063253Z">
@@ -25872,6 +25992,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151125Z">
         <seg>定義済みの削除すべき文字列を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120802Z" creationid="amake" creationdate="20170128T120802Z">
+        <seg>分節化しないプロジェクトから、先頭と末尾の空白文字を削除(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26800,6 +26928,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152822Z">
         <seg>スクリプトを保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120945Z" creationid="amake" creationdate="20170128T120945Z">
+        <seg>auto フォルダー由来の翻訳かどうかを記録する(&amp;o)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29201,6 +29337,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120613Z" creationid="amake" creationdate="20170128T120613Z">
+        <seg>Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such file formats are designed to hold formatting information.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130213T145540Z">
@@ -29381,6 +29525,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T171446Z">
         <seg>TBX（Term Base eXchange）は、オープンな XML ベースの標準規格で、構造化された用語集データの互換を目的としています。TBX は国際標準規格として、LISA と ISO によって承認されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121032Z" creationid="amake" creationdate="20170128T121032Z">
+        <seg>TMマッチング</seg>
       </tuv>
     </tu>
     <tu>
@@ -29829,6 +29981,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>チーム(&amp;M)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120817Z" creationid="amake" creationdate="20170128T120817Z">
+        <seg>チーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -38246,6 +38406,14 @@ SourceForge too.</seg>
 them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T165019Z">
+        <seg>新しい場所を指定するか、再作成してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120516Z" creationid="amake" creationdate="20170128T120516Z">
         <seg>新しい場所を指定するか、再作成してください。</seg>
       </tuv>
     </tu>
