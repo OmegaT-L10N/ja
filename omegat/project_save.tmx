@@ -473,8 +473,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Built-in (LanguageTool {0})</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122249Z" creationid="amake" creationdate="20170128T122249Z">
-        <seg>同梱バージョン({0})を使用(&amp;B)</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122805Z" creationid="amake" creationdate="20170128T122249Z">
+        <seg>同梱バージョン ({0}) を使用(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7368,6 +7368,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122727Z" creationid="amake" creationdate="20170128T122727Z">
+        <seg>API キー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150418T010857Z" creationid="Yu-Tang" creationdate="20150418T010857Z">
@@ -7812,6 +7820,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T052926Z">
         <seg>パス区切り文字の「\」は、やはり「\\」のようにエスケープする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122657Z" creationid="amake" creationdate="20170128T122657Z">
+        <seg>代替フォントを積極的に使用(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10105,6 +10121,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T205419Z">
         <seg>中国語（Chinese）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T123000Z" creationid="amake" creationdate="20170128T123000Z">
+        <seg>MED プロジェクトを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -13161,6 +13185,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122716Z" creationid="amake" creationdate="20170128T122716Z">
+        <seg>メールアドレス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160541Z">
@@ -13299,8 +13331,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T121828Z" creationid="amake" creationdate="20170128T121828Z">
-        <seg>正しいAPIバージョンを指定していること（URLに「/v2/」が含まれていること）をご確認ください。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122834Z" creationid="amake" creationdate="20170128T121828Z">
+        <seg>正しい API バージョンを指定していること（URL に「/v2/」が含まれていること）をご確認ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14582,8 +14614,8 @@ several security warnings.</seg>
       <tuv lang="EN">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T120450Z" creationid="amake" creationdate="20170128T120450Z">
-        <seg>チームモードのプロジェクト用にフォルダー{0}が自動生成されました</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T123024Z" creationid="amake" creationdate="20170128T120450Z">
+        <seg>チームモードのプロジェクト用にフォルダー {0} が自動生成されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -19199,8 +19231,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>JAR files</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122031Z" creationid="amake" creationdate="20170128T122031Z">
-        <seg>JARファイル</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122815Z" creationid="amake" creationdate="20170128T122031Z">
+        <seg>JAR ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -19727,6 +19759,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122633Z" creationid="amake" creationdate="20170128T122633Z">
+        <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T233717Z" creationid="Yu-Tang" creationdate="20170127T233717Z">
@@ -19753,24 +19793,24 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       <tuv lang="EN">
         <seg>LanguageTool API version mismatch</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T121349Z" creationid="amake" creationdate="20170128T121349Z">
-        <seg>サポートされていないLanguageTool APIバージョンでした</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122856Z" creationid="amake" creationdate="20170128T121349Z">
+        <seg>サポートされていない LanguageTool API バージョンでした</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T121448Z" creationid="amake" creationdate="20170128T121412Z">
-        <seg>LanguageTool設定が不正になっています。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122850Z" creationid="amake" creationdate="20170128T121412Z">
+        <seg>LanguageTool 設定が不正になっています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool is not available for your target language.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122521Z" creationid="amake" creationdate="20170128T122521Z">
-        <seg>LanguageToolはお使いの訳文言語に対応していません。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122745Z" creationid="amake" creationdate="20170128T122521Z">
+        <seg>LanguageTool はお使いの訳文言語に対応していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19785,32 +19825,32 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       <tuv lang="EN">
         <seg>LanguageTool server started</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T121203Z" creationid="amake" creationdate="20170128T121203Z">
-        <seg>LanguageToolサーバーが起動しました</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122859Z" creationid="amake" creationdate="20170128T121203Z">
+        <seg>LanguageTool サーバーが起動しました</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool server terminated</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T121216Z" creationid="amake" creationdate="20170128T121216Z">
-        <seg>LanguageToolサーバーが終了しました</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122858Z" creationid="amake" creationdate="20170128T121216Z">
+        <seg>LanguageTool サーバーが終了しました</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool settings</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122017Z" creationid="amake" creationdate="20170128T122017Z">
-        <seg>LanguageTool設定</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122818Z" creationid="amake" creationdate="20170128T122017Z">
+        <seg>LanguageTool 設定</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool will be disabled until the project is closed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122007Z" creationid="amake" creationdate="20170128T122007Z">
-        <seg>プロジェクトを閉じるまでLanguageToolは使用できません。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122821Z" creationid="amake" creationdate="20170128T122007Z">
+        <seg>プロジェクトを閉じるまで LanguageTool は使用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19857,8 +19897,8 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       <tuv lang="EN">
         <seg>LanguageTool: Bad URL</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T121839Z" creationid="amake" creationdate="20170128T121839Z">
-        <seg>LanguageTool: 不正なURL</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122827Z" creationid="amake" creationdate="20170128T121839Z">
+        <seg>LanguageTool: 不正な URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -19889,8 +19929,8 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       <tuv lang="EN">
         <seg>LanguageTool: server returned XML when JSON was expected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T121706Z" creationid="amake" creationdate="20170128T121706Z">
-        <seg>LanguageTool: JSONによる返答を期待していましたが、実際にはXMLが返ってきました。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122840Z" creationid="amake" creationdate="20170128T121706Z">
+        <seg>LanguageTool: JSON による返答を期待していましたが、実際には XML が返ってきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20780,6 +20820,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122649Z" creationid="amake" creationdate="20170128T122649Z">
+        <seg>auto フォルダー由来の分節を色付け(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -20832,6 +20880,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>繰り返しのある分節を色づけ(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122644Z" creationid="amake" creationdate="20170128T122644Z">
+        <seg>繰り返しのある分節を色づけ(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21790,8 +21846,8 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       <tuv lang="EN">
         <seg>New LanguageTool rule</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122105Z" creationid="amake" creationdate="20170128T122105Z">
-        <seg>新規LanguageToolルール</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122808Z" creationid="amake" creationdate="20170128T122105Z">
+        <seg>新規 LanguageTool ルール</seg>
       </tuv>
     </tu>
     <tu>
@@ -26830,8 +26886,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122455Z" creationid="amake" creationdate="20170128T122455Z">
-        <seg>ルールIDには英文字および「_」「.」以外を使用できません。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122751Z" creationid="amake" creationdate="20170128T122455Z">
+        <seg>ルール ID には英文字および「_」「.」以外を使用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28126,8 +28182,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122027Z" creationid="amake" creationdate="20170128T122027Z">
-        <seg>languagetool-server.jarを選択</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122816Z" creationid="amake" creationdate="20170128T122027Z">
+        <seg>languagetool-server.jar を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -28254,8 +28310,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122344Z" creationid="amake" creationdate="20170128T122344Z">
-        <seg>使用するLanguageTool</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122756Z" creationid="amake" creationdate="20170128T122344Z">
+        <seg>使用する LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -29787,8 +29843,16 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>TM Matches</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T121032Z" creationid="amake" creationdate="20170128T121032Z">
-        <seg>TMマッチング</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122909Z" creationid="amake" creationdate="20170128T121032Z">
+        <seg>TM マッチング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122735Z" creationid="amake" creationdate="20170128T122709Z">
+        <seg>TM マッチング設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -33372,8 +33436,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="EN">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122545Z" creationid="amake" creationdate="20170128T122545Z">
-        <seg>LanguageToolの初期化中にエラーが発生しました。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122743Z" creationid="amake" creationdate="20170128T122545Z">
+        <seg>LanguageTool の初期化中にエラーが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33566,8 +33630,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This ID is already being used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122502Z" creationid="amake" creationdate="20170128T122502Z">
-        <seg>このIDはすでに使用されています。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122748Z" creationid="amake" creationdate="20170128T122502Z">
+        <seg>この ID はすでに使用されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35582,8 +35646,8 @@ Kaptain.</seg>
       <tuv lang="EN">
         <seg>Type in new rule ID</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122052Z" creationid="amake" creationdate="20170128T122052Z">
-        <seg>ルールIDを入力</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122811Z" creationid="amake" creationdate="20170128T122052Z">
+        <seg>ルール ID を入力</seg>
       </tuv>
     </tu>
     <tu>
@@ -38825,6 +38889,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130419T044055Z">
         <seg>Yu Tang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122953Z" creationid="amake" creationdate="20170128T122953Z">
+        <seg>ZIP ファイル</seg>
       </tuv>
     </tu>
     <tu>
