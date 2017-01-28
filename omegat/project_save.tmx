@@ -671,6 +671,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152449Z" creationid="amake" creationdate="20170128T152449Z">
+        <seg>用語の提案を有効化(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -14620,6 +14628,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152414Z" creationid="amake" creationdate="20170128T152414Z">
+        <seg>除外パターン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exclude orphan segments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T202204Z" creationid="Yu-Tang" creationdate="20151115T202204Z">
@@ -19105,6 +19121,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152416Z" creationid="amake" creationdate="20170128T152416Z">
+        <seg>対象パターン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T121038Z" creationid="amake" creationdate="20170128T121038Z">
@@ -21200,6 +21224,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T084337Z" creationid="Kasuya" creationdate="20160706T084337Z">
         <seg>ローカル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152308Z" creationid="amake" creationdate="20170128T152306Z">
+        <seg>ローカルファイル/フォルダ</seg>
       </tuv>
     </tu>
     <tu>
@@ -27265,6 +27297,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T122310Z" creationid="amake" creationdate="20170128T122310Z">
         <seg>リモートサーバーを使用(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152314Z" creationid="amake" creationdate="20170128T152314Z">
+        <seg>リモートファイル/フォルダ</seg>
       </tuv>
     </tu>
     <tu>
