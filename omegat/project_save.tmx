@@ -471,6 +471,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122249Z" creationid="amake" creationdate="20170128T122249Z">
+        <seg>同梱バージョン({0})を使用(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033504Z">
@@ -843,6 +851,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>最近の更新履歴(&amp;L)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122300Z" creationid="amake" creationdate="20170128T122300Z">
+        <seg>ローカルサーバーを起動(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19751,6 +19767,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122521Z" creationid="amake" creationdate="20170128T122521Z">
+        <seg>LanguageToolはお使いの訳文言語に対応していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055208Z">
@@ -20179,6 +20203,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122630Z" creationid="amake" creationdate="20170128T122630Z">
+        <seg>言語ルールをカスタマイズするには、プロジェクトをロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T080230Z">
@@ -20255,6 +20287,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T094948Z" creationid="Kasuya" creationdate="20160706T094948Z">
         <seg>ローカルプロジェクトフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122359Z" creationid="amake" creationdate="20170128T122359Z">
+        <seg>ローカルインストール先:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21744,6 +21784,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T062157Z">
         <seg>新規言語（言語コード + 国コード）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122105Z" creationid="amake" creationdate="20170128T122105Z">
+        <seg>新規LanguageToolルール</seg>
       </tuv>
     </tu>
     <tu>
@@ -26044,6 +26092,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122310Z" creationid="amake" creationdate="20170128T122310Z">
+        <seg>リモートサーバーを使用(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T083959Z" creationid="Kasuya" creationdate="20160706T083949Z">
@@ -26772,10 +26828,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122455Z" creationid="amake" creationdate="20170128T122455Z">
+        <seg>ルールIDには英文字および「_」「.」以外を使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052058Z">
         <seg>規則の優先順位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122408Z" creationid="amake" creationdate="20170128T122408Z">
+        <seg>ルール</seg>
       </tuv>
     </tu>
     <tu>
@@ -28176,6 +28248,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T121951Z">
         <seg>サーバー（変更後）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122344Z" creationid="amake" creationdate="20170128T122344Z">
+        <seg>使用するLanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -33290,6 +33370,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122545Z" creationid="amake" creationdate="20170128T122545Z">
+        <seg>LanguageToolの初期化中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130926T163509Z">
@@ -33472,6 +33560,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="yu-tang" changedate="20150211T153434Z" creationid="yu-tang" creationdate="20150211T153434Z">
         <seg>API キーがブロックされました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122502Z" creationid="amake" creationdate="20170128T122502Z">
+        <seg>このIDはすでに使用されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35484,6 +35580,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122052Z" creationid="amake" creationdate="20170128T122052Z">
+        <seg>ルールIDを入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the name and description of the repository.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T012337Z">
@@ -35554,6 +35658,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134957Z">
         <seg>オンライン辞書の URL：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122406Z" creationid="amake" creationdate="20170128T122406Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
