@@ -8282,6 +8282,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142437Z" creationid="amake" creationdate="20170128T142437Z">
+        <seg>原文ファイル読み込み時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T100031Z" creationid="Kasuya" creationdate="20160706T100031Z">
@@ -10305,6 +10313,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T060808Z">
         <seg>全削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142705Z" creationid="amake" creationdate="20170128T142705Z">
+        <seg>ステータスをクリア</seg>
       </tuv>
     </tu>
     <tu>
@@ -16061,6 +16077,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142148Z" creationid="amake" creationdate="20170128T142148Z">
+        <seg>ノートの有無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hausa</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T064902Z">
@@ -18980,6 +19004,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142156Z" creationid="amake" creationdate="20170128T142156Z">
+        <seg>例外訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T154918Z">
@@ -20461,8 +20493,8 @@ automatically download and install it.</seg>
       <tuv lang="EN">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T122630Z" creationid="amake" creationdate="20170128T122630Z">
-        <seg>言語ルールをカスタマイズするには、プロジェクトをロードしてください。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142503Z" creationid="amake" creationdate="20170128T122630Z">
+        <seg>言語ルールをカスタマイズするには、プロジェクトを開いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21076,6 +21108,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142622Z" creationid="amake" creationdate="20170128T142613Z">
+        <seg>“確定済み”にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T033750Z">
@@ -21088,6 +21128,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130410T152645Z">
         <seg>双方向アルゴリズム制御文字を色付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142636Z" creationid="amake" creationdate="20170128T142636Z">
+        <seg>“要チェック”にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -21780,10 +21828,26 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142554Z" creationid="amake" creationdate="20170128T142554Z">
+        <seg>下へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>上へ(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142549Z" creationid="amake" creationdate="20170128T142549Z">
+        <seg>上へ移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -26948,6 +27012,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142543Z" creationid="amake" creationdate="20170128T142543Z">
+        <seg>リセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z" creationid="yu-tang" creationdate="20150228T104939Z">
@@ -27448,6 +27520,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152822Z">
         <seg>スクリプトを保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142539Z" creationid="amake" creationdate="20170128T142539Z">
+        <seg>TMX を保存...</seg>
       </tuv>
     </tu>
     <tu>
@@ -29745,6 +29825,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142556Z" creationid="amake" creationdate="20170128T142556Z">
+        <seg>分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130614T101312Z">
@@ -30093,6 +30181,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140131T184325Z">
         <seg>SuperTMXMerge-for_OmegaT.jar（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142530Z" creationid="amake" creationdate="20170128T142530Z">
+        <seg>使用可能なファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -45643,6 +45739,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140310T170219Z">
         <seg>← 戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>⚠ The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142246Z" creationid="amake" creationdate="20170128T142246Z">
+        <seg>⚠ ファイル「{0}」はサポートされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>⚠ The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T142420Z" creationid="amake" creationdate="20170128T142420Z">
+        <seg>⚠ 指定されたファイルはサポートされていません。</seg>
       </tuv>
     </tu>
     <tu>
