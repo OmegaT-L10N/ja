@@ -863,6 +863,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143726Z" creationid="amake" creationdate="20170128T143726Z">
+        <seg>分節へ移動(&amp;J)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -4168,6 +4176,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130113T022120Z">
         <seg>&lt;html&gt;プロジェクト専用の外部コマンドが無効のため、実行できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143416Z" creationid="amake" creationdate="20170128T143416Z">
+        <seg>&lt;html&gt;分割する位置にカーソルを置いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8306,6 +8322,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143320Z" creationid="amake" creationdate="20170128T143320Z">
+        <seg>TMX 保存時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T100031Z" creationid="Kasuya" creationdate="20160706T100031Z">
@@ -8417,6 +8441,14 @@ The TMX file will not be loaded.</seg>
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150521T031557Z" creationid="Yu-Tang" creationdate="20150521T031441Z">
+        <seg>「{0}」と同名のファイルがすでに存在しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143254Z" creationid="amake" creationdate="20170128T143254Z">
         <seg>「{0}」と同名のファイルがすでに存在しています。</seg>
       </tuv>
     </tu>
@@ -10940,6 +10972,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143544Z" creationid="amake" creationdate="20170128T143544Z">
+        <seg>それでも次へ進みますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143337Z" creationid="amake" creationdate="20170128T143337Z">
+        <seg>よろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T121356Z">
@@ -12766,6 +12814,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143306Z" creationid="amake" creationdate="20170128T143306Z">
+        <seg>上書きしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150521T031545Z" creationid="Yu-Tang" creationdate="20150521T031545Z">
@@ -13281,6 +13337,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143352Z" creationid="amake" creationdate="20170128T143352Z">
+        <seg>ハイライトパターン編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141225Z">
@@ -13301,6 +13365,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T163430Z">
         <seg>プロジェクト設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143348Z" creationid="amake" creationdate="20170128T143344Z">
+        <seg>テキスト編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -27684,6 +27756,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143242Z" creationid="amake" creationdate="20170128T143242Z">
+        <seg>整列結果を保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152822Z">
@@ -27712,6 +27792,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140224T033654Z">
         <seg>auto フォルダー由来の翻訳かどうかを記録する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143459Z" creationid="amake" creationdate="20170128T143459Z">
+        <seg>フィルター設定への変更を保存しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143433Z" creationid="amake" creationdate="20170128T143433Z">
+        <seg>分節化規則への変更を保存しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -29445,6 +29541,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143519Z" creationid="amake" creationdate="20170128T143519Z">
+        <seg>一部の整列ペアは“要チェック”とされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T065506Z">
@@ -30005,6 +30109,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T142556Z" creationid="amake" creationdate="20170128T142556Z">
         <seg>分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143359Z" creationid="amake" creationdate="20170128T143359Z">
+        <seg>テキスト分割</seg>
       </tuv>
     </tu>
     <tu>
@@ -35072,6 +35184,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143331Z" creationid="amake" creationdate="20170128T143331Z">
+        <seg>これまでの変更がすべて破棄されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will effectively &lt;e2&gt;pre-translate &lt;/e2&gt;the source text: all the segments in the source text, for which translations can be found in those "auto" TMs, will land in the main TM of the project without any user intervention.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130224T051009Z">
@@ -38504,14 +38624,6 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152615Z">
         <seg>ウォロフ語（Wolof）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Word</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T174906Z">
-        <seg>Microsoft Word</seg>
       </tuv>
     </tu>
     <tu>
@@ -46195,6 +46307,16 @@ documentation.</prop>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z" creationid="Yu-Tang" creationdate="20150517T142159Z">
         <seg>上へ(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">OpenXML_WORD</prop>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T143627Z" creationid="amake" creationdate="20170128T143627Z">
+        <seg>Microsoft Word</seg>
       </tuv>
     </tu>
     <tu>
