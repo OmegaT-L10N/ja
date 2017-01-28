@@ -14484,6 +14484,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120450Z" creationid="amake" creationdate="20170128T120450Z">
+        <seg>チームモードのプロジェクト用にフォルダー{0}が自動生成されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130922T115733Z">
@@ -23649,6 +23657,38 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120249Z" creationid="amake" creationdate="20170128T120204Z">
+        <seg>{0} 個の原文ファイルを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files' Locations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120246Z" creationid="amake" creationdate="20170128T120246Z">
+        <seg>{0} 個の原文ファイルの場所を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120315Z" creationid="amake" creationdate="20170128T120315Z">
+        <seg>{0} 個の訳文ファイルを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files' Locations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120329Z" creationid="amake" creationdate="20170128T120329Z">
+        <seg>{0} 個の訳文ファイルの場所を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141104T025917Z" creationid="Yu-Tang" creationdate="20141104T025917Z">
@@ -24894,16 +24934,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T120142Z" creationid="amake" creationdate="20170128T120142Z">
-        <seg>翻訳対象ファイル一覧（{1}個中{0}個）</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120300Z" creationid="amake" creationdate="20170128T120142Z">
+        <seg>翻訳対象ファイル一覧（{1} 個中 {0} 個）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Project Files ({0})</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T191611Z">
-        <seg>翻訳対象ファイル一覧（{0}個）</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120303Z">
+        <seg>翻訳対象ファイル一覧（{0} 個）</seg>
       </tuv>
     </tu>
     <tu>
