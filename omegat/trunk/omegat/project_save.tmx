@@ -7520,6 +7520,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145948Z" creationid="amake" creationdate="20170128T145948Z">
+        <seg>ASCII のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130212T050603Z">
@@ -9533,6 +9541,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145957Z" creationid="amake" creationdate="20170128T145957Z">
+        <seg>両方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Break rule</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T051354Z">
@@ -10831,6 +10847,62 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T173412Z">
         <seg>列のインデックスは 1 である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150307Z" creationid="amake" creationdate="20170128T150307Z">
+        <seg>コマンドの区切り文字が空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150242Z" creationid="amake" creationdate="20170128T150242Z">
+        <seg>コマンドに「{0}」が含まれていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150223Z" creationid="amake" creationdate="20170128T150223Z">
+        <seg>コマンドはコマンドストリングがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150258Z" creationid="amake" creationdate="20170128T150258Z">
+        <seg>コマンドの区切り文字がありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150252Z" creationid="amake" creationdate="20170128T150252Z">
+        <seg>コマンドのエンコーディングがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150247Z" creationid="amake" creationdate="20170128T150247Z">
+        <seg>コマンドのターゲットがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150314Z" creationid="amake" creationdate="20170128T150314Z">
+        <seg>コマンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -14137,6 +14209,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145942Z" creationid="amake" creationdate="20170128T145942Z">
+        <seg>エスケープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T170508Z">
@@ -14543,6 +14623,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T134426Z">
         <seg>後処理用外部コマンド：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150318Z" creationid="amake" creationdate="20170128T150318Z">
+        <seg>外部検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -18278,6 +18366,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150410Z" creationid="amake" creationdate="20170128T150410Z">
+        <seg>編集エリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093328Z">
@@ -19813,10 +19909,34 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150151Z" creationid="amake" creationdate="20170128T150038Z">
+        <seg>アイテムには URL もコマンドもありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150014Z" creationid="amake" creationdate="20170128T150006Z">
+        <seg>アイテム名が空または未設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141020T081246Z" creationid="Yu-Tang" creationdate="20141020T081246Z">
         <seg>項目：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150335Z" creationid="amake" creationdate="20170128T150335Z">
+        <seg>項目</seg>
       </tuv>
     </tu>
     <tu>
@@ -22468,6 +22588,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150050Z" creationid="amake" creationdate="20170128T150050Z">
+        <seg>名前: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nauru</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T073730Z">
@@ -22764,6 +22892,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145954Z" creationid="amake" creationdate="20170128T145954Z">
+        <seg>非 ASCII のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T035227Z" creationid="Yu-Tang" creationdate="20160212T035227Z">
@@ -22824,6 +22960,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T030212Z">
         <seg>非視覚的な整形（OmegaT の編集画面上には表示されません）は、訳文ファイルに引き継がれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145945Z" creationid="amake" creationdate="20170128T145945Z">
+        <seg>なし</seg>
       </tuv>
     </tu>
     <tu>
@@ -26096,6 +26240,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="jchelary" changedate="20120303T141123Z">
         <seg>プロジェクトメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150328Z" creationid="amake" creationdate="20170128T150328Z">
+        <seg>プロジェクト専用外部検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -30837,6 +30989,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130218T033250Z">
         <seg>たとえば ODF ファイルはこのような変更が可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150338Z" creationid="amake" creationdate="20170128T150338Z">
+        <seg>概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -36990,6 +37150,38 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150140Z" creationid="amake" creationdate="20170128T150140Z">
+        <seg>URL に「{0}」が含まれていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150145Z" creationid="amake" creationdate="20170128T150121Z">
+        <seg>URL 項目に URL ストリングがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150211Z" creationid="amake" creationdate="20170128T150211Z">
+        <seg>URL のエンコーディングがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150204Z" creationid="amake" creationdate="20170128T150204Z">
+        <seg>URL のターゲットがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T134957Z">
@@ -37002,6 +37194,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T122406Z" creationid="amake" creationdate="20170128T122406Z">
         <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150310Z" creationid="amake" creationdate="20170128T150310Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -46765,12 +46965,32 @@ documentation.</prop>
     </tu>
     <tu>
       <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">EXTERNALFINDER_ENCODING_DEFAULT</prop>
+      <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145920Z" creationid="amake" creationdate="20170128T145920Z">
+        <seg>デフォルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
       <prop type="id">GUI_SEGMENTATION_BUTTON_UP_1</prop>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z" creationid="Yu-Tang" creationdate="20150517T142159Z">
         <seg>上へ(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">KEYSTROKE_EDITOR_CLEAR_BUTTON</prop>
+      <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145902Z" creationid="amake" creationdate="20170128T145902Z">
+        <seg>消去</seg>
       </tuv>
     </tu>
     <tu>
