@@ -13281,6 +13281,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121828Z" creationid="amake" creationdate="20170128T121828Z">
+        <seg>正しいAPIバージョンを指定していること（URLに「/v2/」が含まれていること）をご確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130422T093451Z">
@@ -19173,6 +19181,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122031Z" creationid="amake" creationdate="20170128T122031Z">
+        <seg>JARファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T180540Z">
@@ -19759,6 +19775,22 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122017Z" creationid="amake" creationdate="20170128T122017Z">
+        <seg>LanguageTool設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122007Z" creationid="amake" creationdate="20170128T122007Z">
+        <seg>プロジェクトを閉じるまでLanguageToolは使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T062343Z">
@@ -19787,6 +19819,54 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130425T110247Z">
         <seg>LanguageTool.jar（LGPL ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121948Z" creationid="amake" creationdate="20170128T121948Z">
+        <seg>LanguageTool: チェック時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121839Z" creationid="amake" creationdate="20170128T121839Z">
+        <seg>LanguageTool: 不正なURL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121934Z" creationid="amake" creationdate="20170128T121934Z">
+        <seg>LanguageTool: サーバー起動のタイムアウトを超過しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121550Z" creationid="amake" creationdate="20170128T121550Z">
+        <seg>LanguageTool: ローカルパスが不正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121627Z" creationid="amake" creationdate="20170128T121627Z">
+        <seg>LanguageTool: ローカルポート番号がすでに使用中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121706Z" creationid="amake" creationdate="20170128T121706Z">
+        <seg>LanguageTool: JSONによる返答を期待していましたが、実際にはXMLが返ってきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20600,6 +20680,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140501T165746Z">
         <seg>Manfred Martin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122044Z" creationid="amake" creationdate="20170128T122044Z">
+        <seg>カスタムルール</seg>
       </tuv>
     </tu>
     <tu>
@@ -27964,6 +28052,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T122027Z" creationid="amake" creationdate="20170128T122027Z">
+        <seg>languagetool-server.jarを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select match #N</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T040605Z">
@@ -29563,8 +29659,8 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>Switching to built-in version.</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T121515Z" creationid="amake" creationdate="20170128T121445Z">
-        <seg>同梱されているライブラリが使用されます。</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121537Z" creationid="amake" creationdate="20170128T121445Z">
+        <seg>同梱されているものが代わりに使用されます。</seg>
       </tuv>
     </tu>
     <tu>
