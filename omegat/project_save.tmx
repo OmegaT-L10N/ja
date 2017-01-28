@@ -10907,6 +10907,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144631Z" creationid="amake" creationdate="20170128T144631Z">
+        <seg>確認:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124529Z">
@@ -13797,6 +13805,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155518Z">
         <seg>分節番号を入力してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144555Z" creationid="amake" creationdate="20170128T144555Z">
+        <seg>マスターパスワードを入力してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23596,6 +23612,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144956Z" creationid="amake" creationdate="20170128T144956Z">
+        <seg>OmegaT はマスターパスワードを自動生成して保存することによって、入力の手間を省くことができますが、安全性が格段に下がります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T185535Z" creationid="Yu-Tang" creationdate="20141112T185535Z">
@@ -25129,8 +25153,8 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       <tuv lang="EN">
         <seg>Password:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T130809Z">
-        <seg>パスワード：</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144623Z">
+        <seg>パスワード:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25407,6 +25431,14 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144730Z" creationid="amake" creationdate="20170128T144730Z">
+        <seg>もう一度確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150828Z" creationid="Yu-Tang" creationdate="20160219T150828Z">
@@ -25435,6 +25467,14 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T122329Z">
         <seg>名前または ID を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144701Z" creationid="amake" creationdate="20170128T144701Z">
+        <seg>確認のためパスワードをもう一度入力してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29533,6 +29573,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144738Z" creationid="amake" creationdate="20170128T144738Z">
+        <seg>設定しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip PO header</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T084913Z">
@@ -33191,6 +33239,30 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T040230Z" creationid="Yu-Tang" creationdate="20160212T040230Z">
         <seg>疑似翻訳した TMX ファイルを出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144644Z" creationid="amake" creationdate="20170128T144644Z">
+        <seg>空のパスワードは使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144608Z" creationid="amake" creationdate="20170128T144608Z">
+        <seg>入力されたパスワードは一致しませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144719Z" creationid="amake" creationdate="20170128T144719Z">
+        <seg>パスワードと確認パスワードは一致しませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39775,6 +39847,14 @@ them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T093812Z" creationid="Kasuya" creationdate="20160706T093812Z">
         <seg>管理者が omegat.project をリポジトリにコミットするまでは、使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T144547Z" creationid="amake" creationdate="20170128T144547Z">
+        <seg>OmegaT を起動するたびに入力を求められます。</seg>
       </tuv>
     </tu>
     <tu>
