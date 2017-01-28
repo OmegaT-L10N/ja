@@ -975,6 +975,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141005Z" creationid="amake" creationdate="20170128T141005Z">
+        <seg>新規スクリプト(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -7488,6 +7496,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141107Z" creationid="amake" creationdate="20170128T141107Z">
+        <seg>スクリプトフォルダーを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141112T190050Z" creationid="Yu-Tang" creationdate="20141112T190050Z">
@@ -8222,6 +8238,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151121T212458Z" creationid="Yu-Tang" creationdate="20151121T212458Z">
         <seg>エラーが発生しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T140941Z" creationid="amake" creationdate="20170128T140941Z">
+        <seg>スクリプト読み込み時にエラーが発生しました。{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -25916,6 +25940,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T140957Z" creationid="amake" creationdate="20170128T140957Z">
+        <seg>スクリプトフォルダー「{0}」を再読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T040032Z">
@@ -28188,6 +28220,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T140947Z" creationid="amake" creationdate="20170128T140947Z">
+        <seg>スクリプトフォルダーを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140627T132959Z">
@@ -28344,6 +28384,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T122756Z" creationid="amake" creationdate="20170128T122344Z">
         <seg>使用する LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141019Z" creationid="amake" creationdate="20170128T141019Z">
+        <seg>スクリプトフォルダーを選択...</seg>
       </tuv>
     </tu>
     <tu>
@@ -39735,8 +39783,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>canceled ({0} ms elapsed)</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T123433Z" creationid="amake" creationdate="20170128T123433Z">
-        <seg>中断（{0} ms 経過）</seg>
+      <tuv lang="JA" changeid="amake" changedate="20170128T140906Z" creationid="amake" creationdate="20170128T123433Z">
+        <seg>中断済み（{0} ms 経過）</seg>
       </tuv>
     </tu>
     <tu>
