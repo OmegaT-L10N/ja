@@ -1399,6 +1399,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150640Z" creationid="amake" creationdate="20170128T150640Z">
+        <seg>編集エリアのコンテキストメニューに表示する(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T115600Z" creationid="amake" creationdate="20170128T115600Z">
@@ -10851,6 +10859,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150511Z" creationid="amake" creationdate="20170128T150511Z">
+        <seg>コマンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command delimiter is empty</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T150307Z" creationid="amake" creationdate="20170128T150307Z">
@@ -10895,6 +10911,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T150247Z" creationid="amake" creationdate="20170128T150247Z">
         <seg>コマンドのターゲットがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150725Z" creationid="amake" creationdate="20170128T150725Z">
+        <seg>コマンド:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11168,6 +11192,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T190939Z">
         <seg>内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150451Z" creationid="amake" creationdate="20170128T150451Z">
+        <seg>コンテキストメニューの優先度:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12345,6 +12377,22 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T073955Z" creationid="Yu-Tang" creationdate="20141202T073955Z">
         <seg>訳文を削除し、分節を未翻訳の状態にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150513Z" creationid="amake" creationdate="20170128T150513Z">
+        <seg>区切り文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150740Z" creationid="amake" creationdate="20170128T150740Z">
+        <seg>区切り文字:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13537,10 +13585,42 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150710Z" creationid="amake" creationdate="20170128T150710Z">
+        <seg>編集(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T174227Z">
         <seg>編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150722Z" creationid="amake" creationdate="20170128T150722Z">
+        <seg>外部検索コマンドの編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150506Z" creationid="amake" creationdate="20170128T150506Z">
+        <seg>外部検索項目の編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150716Z" creationid="amake" creationdate="20170128T150716Z">
+        <seg>外部検索 URL の編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -13813,6 +13893,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T160344Z">
         <seg>エンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150738Z" creationid="amake" creationdate="20170128T150738Z">
+        <seg>エンコーディング:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22588,6 +22676,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150518Z" creationid="amake" creationdate="20170128T150518Z">
+        <seg>名前:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name: {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T150050Z" creationid="amake" creationdate="20170128T150050Z">
@@ -27100,6 +27196,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150704Z" creationid="amake" creationdate="20170128T150704Z">
+        <seg>削除(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T084341Z" creationid="Kasuya" creationdate="20160706T084341Z">
@@ -28148,6 +28252,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150902Z" creationid="amake" creationdate="20170128T150902Z">
+        <seg>出力例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T155959Z">
@@ -28468,6 +28580,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152426Z">
         <seg>スクリプトフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150653Z" creationid="amake" creationdate="20170128T150653Z">
+        <seg>設定(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30529,6 +30649,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150624Z" creationid="amake" creationdate="20170128T150624Z">
+        <seg>ニーモニック文字は「&amp;」によって指定します。例:「F&amp;oobar」⇒ O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify a mode other than default (GUI).</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T093047Z" creationid="Taro" creationdate="20160212T020934Z">
@@ -31649,6 +31777,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150729Z" creationid="amake" creationdate="20170128T150729Z">
+        <seg>ターゲット:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tatar</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T152440Z">
@@ -31773,6 +31909,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130917T064443Z">
         <seg>訳文を複数持つ用語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150914Z" creationid="amake" creationdate="20170128T150914Z">
+        <seg>テスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -32273,6 +32417,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150845Z" creationid="amake" creationdate="20170128T150845Z">
+        <seg>URL に「{target}」を含めなければなりません。これが検索テキストに置換されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130309T012845Z">
@@ -32519,6 +32671,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141202T084530Z" creationid="Yu-Tang" creationdate="20141202T084530Z">
         <seg>色付けは、［設定］→［翻訳入力行...］の［auto フォルダー由来の翻訳かどうかを記録する］にチェックが入っている場合に限り、有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T150854Z" creationid="amake" creationdate="20170128T150854Z">
+        <seg>コマンドに「{target}」を含めなければなりません。これが検索テキストに置換されます。</seg>
       </tuv>
     </tu>
     <tu>
