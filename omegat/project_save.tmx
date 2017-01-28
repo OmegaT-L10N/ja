@@ -463,6 +463,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121139Z" creationid="amake" creationdate="20170128T121139Z">
+        <seg>参照(&amp;B)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033504Z">
@@ -18240,6 +18248,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121038Z" creationid="amake" creationdate="20170128T121038Z">
+        <seg>繰り返しのある分節を色づけする場合、最初の分節を含む(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the first non-&amp;unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -19703,10 +19719,42 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121349Z" creationid="amake" creationdate="20170128T121349Z">
+        <seg>サポートされていないLanguageTool APIバージョンでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121448Z" creationid="amake" creationdate="20170128T121412Z">
+        <seg>LanguageTool設定が不正になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130206T055208Z">
         <seg>LanguageTool プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121203Z" creationid="amake" creationdate="20170128T121203Z">
+        <seg>LanguageToolサーバーが起動しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121216Z" creationid="amake" creationdate="20170128T121216Z">
+        <seg>LanguageToolサーバーが終了しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -20344,6 +20392,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T132750Z">
         <seg>機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121126Z" creationid="amake" creationdate="20170128T121126Z">
+        <seg>機械翻訳の設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -25316,6 +25372,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121103Z" creationid="amake" creationdate="20170128T121103Z">
+        <seg>プロキシ認証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140215T184503Z">
@@ -28365,6 +28429,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121055Z" creationid="amake" creationdate="20170128T121051Z">
+        <seg>保護されたパーツのツールチップを簡素化する(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplify the original text</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T030448Z">
@@ -29489,6 +29561,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121515Z" creationid="amake" creationdate="20170128T121445Z">
+        <seg>同梱されているライブラリが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T160610Z">
@@ -29597,6 +29677,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z" creationid="Yu-Tang" creationdate="20150418T033504Z">
         <seg>タグ処理(&amp;I)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121106Z" creationid="amake" creationdate="20170128T121106Z">
+        <seg>タグ処理</seg>
       </tuv>
     </tu>
     <tu>
@@ -35990,6 +36078,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151118T154655Z">
         <seg>基本訳文として使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T121100Z" creationid="amake" creationdate="20170128T121100Z">
+        <seg>更新情報の表示書式に独自テンプレートを使う(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
