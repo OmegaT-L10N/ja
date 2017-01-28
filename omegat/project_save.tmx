@@ -671,6 +671,30 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152539Z" creationid="amake" creationdate="20170128T152539Z">
+        <seg>TaaS 用語の参照を有効化(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152514Z" creationid="amake" creationdate="20170128T152514Z">
+        <seg>定型文の提案を有効化(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152528Z" creationid="amake" creationdate="20170128T152528Z">
+        <seg>文字一覧を有効化(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T152449Z" creationid="amake" creationdate="20170128T152449Z">
@@ -9207,6 +9231,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T023954Z">
         <seg>訳文ファイルの生成時に、原文分節を訳文に置き換えたり、規則に基づきファイル名を修正するなどの自動処理を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152519Z" creationid="amake" creationdate="20170128T152519Z">
+        <seg>定型文</seg>
       </tuv>
     </tu>
     <tu>
@@ -21993,6 +22025,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="JC Helary" changedate="20130111T153856Z">
         <seg>参考訳文の一致率ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T152605Z" creationid="amake" creationdate="20170128T152605Z">
+        <seg>一致の種類</seg>
       </tuv>
     </tu>
     <tu>
