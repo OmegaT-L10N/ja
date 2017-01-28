@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_dev" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1266,6 +1266,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150716T121907Z" creationid="Yu-Tang" creationdate="20150716T121907Z">
+        <seg>関連性の強い補完候補を自動的に表示する(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T115600Z" creationid="amake" creationdate="20170128T115600Z">
         <seg>関連性の強い補完候補を自動的に表示する(&amp;S)</seg>
       </tuv>
     </tu>
@@ -8779,6 +8787,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T115604Z" creationid="amake" creationdate="20170128T115604Z">
+        <seg>入力補完</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20160308T150425Z" creationid="Yu-Tang" creationdate="20160308T150425Z">
@@ -13615,6 +13631,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210049Z">
         <seg>エウェ語（Ewe）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact &amp;match</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T115555Z" creationid="amake" creationdate="20170128T115555Z">
+        <seg>完全一致(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24868,6 +24892,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T120142Z" creationid="amake" creationdate="20170128T120142Z">
+        <seg>翻訳対象ファイル一覧（{1}個中{0}個）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Files ({0})</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20131119T191611Z">
@@ -25960,6 +25992,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140201T092150Z">
         <seg>置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T115547Z" creationid="amake" creationdate="20170128T115547Z">
+        <seg>原文挿入時に用語集から置換(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28217,6 +28257,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T151906Z">
         <seg>シンハラ語（Sinhala, Sinhalese）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T115714Z" creationid="amake" creationdate="20170128T115714Z">
+        <seg>サイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -35654,6 +35702,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T082521Z" creationid="Yu-Tang" creationdate="20170127T082521Z">
         <seg>辞書項目の照合にトークナイザーを使う(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T115538Z" creationid="amake" creationdate="20170128T115538Z">
+        <seg>用語にステミング（語幹処理）を適用(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
