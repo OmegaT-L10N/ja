@@ -351,10 +351,26 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141536Z" creationid="amake" creationdate="20170128T141536Z">
+        <seg>二重登録を許可しない(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>原文と同じ訳文を許可(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141413Z" creationid="amake" creationdate="20170128T141413Z">
+        <seg>プロジェクト専用の外部コマンドを許可する(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -683,6 +699,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033504Z">
         <seg>フィルター(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141117Z" creationid="amake" creationdate="20170128T141117Z">
+        <seg>検索(&amp;F)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1179,6 +1203,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033504Z">
         <seg>置換して次へ(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141124Z" creationid="amake" creationdate="20170128T141124Z">
+        <seg>置換(&amp;R)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9525,6 +9557,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141557Z" creationid="amake" creationdate="20170128T141557Z">
+        <seg>全削除(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z" creationid="Yu-Tang" creationdate="20150418T041315Z">
@@ -9777,6 +9817,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130221T150433Z">
         <seg>このフラグを変更しても、翻訳メモリにすでに記録された分節は変更されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141602Z" creationid="amake" creationdate="20170128T141602Z">
+        <seg>文字一覧</seg>
       </tuv>
     </tu>
     <tu>
@@ -10820,6 +10868,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141332Z" creationid="amake" creationdate="20170128T141332Z">
+        <seg>旧チームプロジェクトの変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -11745,6 +11801,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150521T045624Z" creationid="Yu-Tang" creationdate="20150521T045624Z">
         <seg>顧客の秘密（&lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; コマンドライン引数に対応）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141532Z" creationid="amake" creationdate="20170128T141532Z">
+        <seg>文字一覧をカスタマイズする(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15484,6 +15548,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141243Z" creationid="amake" creationdate="20170128T141243Z">
+        <seg>Git '{0}' 変更がなかったため何もしませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T155653Z">
@@ -15801,6 +15873,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T140916Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141136Z" creationid="amake" creationdate="20170128T141136Z">
+        <seg>行へ移動(&amp;L)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19173,6 +19253,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160704T085642Z" creationid="Kasuya" creationdate="20160704T085642Z">
         <seg>&lt;f1&gt;omegat.project&lt;/f1&gt; ファイルをダブルクリックすることによって、OmegaT プロジェクトを開くこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141257Z" creationid="amake" creationdate="20170128T141257Z">
+        <seg>新しいチームプロジェクトに変換する必要がありますが、コンソールモードでは不可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27332,6 +27420,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141402Z" creationid="amake" creationdate="20170128T141402Z">
+        <seg>保存と訳文ファイル生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130126T093034Z">
@@ -28228,6 +28324,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141610Z" creationid="amake" creationdate="20170128T141610Z">
+        <seg>TaaS 用語分野を選択(&amp;L)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140627T132959Z">
@@ -28661,10 +28765,50 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141421Z" creationid="amake" creationdate="20170128T141421Z">
+        <seg>訳文が長い用語を先に表示する(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141435Z" creationid="amake" creationdate="20170128T141435Z">
+        <seg>原文を前に表示する(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141432Z" creationid="amake" creationdate="20170128T141432Z">
+        <seg>訳文を前に表示する(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T191835Z" creationid="Yu-Tang" creationdate="20151115T191835Z">
         <seg>詳細設定を表示する(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141147Z" creationid="amake" creationdate="20170128T141147Z">
+        <seg>検索バーを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141154Z" creationid="amake" creationdate="20170128T141154Z">
+        <seg>置換バーを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -29037,10 +29181,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141518Z" creationid="amake" creationdate="20170128T141518Z">
+        <seg>アルファベット順(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort alphabetically</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171237Z">
         <seg>アルファベット順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141522Z" creationid="amake" creationdate="20170128T141522Z">
+        <seg>ショートカットではなくテキストを基準に並べ替え(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29053,10 +29213,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141513Z" creationid="amake" creationdate="20170128T141513Z">
+        <seg>文字数順(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by length</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T171438Z">
         <seg>文字数順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141425Z" creationid="amake" creationdate="20170128T141425Z">
+        <seg>用語の原文のアルファベット順に並べ替える(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29073,6 +29249,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140716T132347Z">
         <seg>参考訳文の並べ替え基準：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141429Z" creationid="amake" creationdate="20170128T141429Z">
+        <seg>用語の訳文のアルファベット順に並べ替える(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29964,6 +30148,14 @@ and then start OmegaT.</seg>
         <seg>TaaS API key not found.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140625T175916Z">
+        <seg>TaaS API キーが指定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141617Z" creationid="amake" creationdate="20170128T141617Z">
         <seg>TaaS API キーが指定されていません。</seg>
       </tuv>
     </tu>
@@ -32494,6 +32686,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141305Z" creationid="amake" creationdate="20170128T141305Z">
+        <seg>プロジェクトは、チーム機能のないローカルプロジェクトとして読み込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project will be loaded as a local project without team mode support.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T105429Z" creationid="Kasuya" creationdate="20160706T092833Z">
@@ -34727,6 +34927,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T093055Z" creationid="Kasuya" creationdate="20160706T092942Z">
         <seg>これを新しいチームプロジェクトに変換するには、単に GUI から開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T141317Z" creationid="amake" creationdate="20170128T141317Z">
+        <seg>これを新しいチームプロジェクトに変換するには、GUI から開いてください。</seg>
       </tuv>
     </tu>
     <tu>
