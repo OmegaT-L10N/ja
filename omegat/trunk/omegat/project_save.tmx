@@ -847,6 +847,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T123213Z" creationid="amake" creationdate="20170128T123213Z">
+        <seg>言語チェッカー(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -1379,6 +1387,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>翻訳状況(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T123308Z" creationid="amake" creationdate="20170128T123308Z">
+        <seg>今回だけ記憶する(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9513,6 +9529,22 @@ documentation.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130214T165946Z">
         <seg>Camtasia Studio for Windows（*.camproj）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T123453Z" creationid="amake" creationdate="20170128T123333Z">
+        <seg>中断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T123449Z" creationid="amake" creationdate="20170128T123400Z">
+        <seg>中断されたかどうかチェックしているスクリプトのみ中断できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39701,6 +39733,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T123433Z" creationid="amake" creationdate="20170128T123433Z">
+        <seg>中断（{0} ms 経過）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cat</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T204543Z">
@@ -40057,6 +40097,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T202148Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T123418Z" creationid="amake" creationdate="20170128T123418Z">
+        <seg>完了（{0} ms 経過）</seg>
       </tuv>
     </tu>
     <tu>
