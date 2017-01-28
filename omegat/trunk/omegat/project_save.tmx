@@ -439,6 +439,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145518Z" creationid="amake" creationdate="20170128T145518Z">
+        <seg>翻訳を自動的に取得する(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033504Z">
@@ -467,6 +475,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>参照(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145351Z" creationid="amake" creationdate="20170128T145351Z">
+        <seg>ウェブで見る(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1227,6 +1243,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T141124Z" creationid="amake" creationdate="20170128T141124Z">
         <seg>置換(&amp;R)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145651Z" creationid="amake" creationdate="20170128T145651Z">
+        <seg>マスターパスワードをリセット(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8072,6 +8096,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145813Z" creationid="amake" creationdate="20170128T145801Z">
+        <seg>マスターパスワードによって保護されているすべての設定もリセットされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130223T052121Z">
@@ -8686,6 +8718,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145553Z" creationid="amake" creationdate="20170128T145553Z">
+        <seg>外観</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130211T184938Z">
@@ -8763,6 +8803,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150519T113858Z" creationid="Yu-Tang" creationdate="20150519T113858Z">
         <seg>すべての配色をリセットしてよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145808Z" creationid="amake" creationdate="20170128T145740Z">
+        <seg>マスターパスワードを本当にリセットしますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -10887,6 +10935,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121019T124315Z">
         <seg>訳文ファイルの空白圧縮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145512Z" creationid="amake" creationdate="20170128T145512Z">
+        <seg>設定(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15802,6 +15858,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130203T210318Z">
         <seg>ガリシア語（Galician）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145550Z" creationid="amake" creationdate="20170128T145550Z">
+        <seg>一般</seg>
       </tuv>
     </tu>
     <tu>
@@ -21580,6 +21644,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145641Z" creationid="amake" creationdate="20170128T145641Z">
+        <seg>マスターパスワード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121003T162228Z">
@@ -22820,6 +22892,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145712Z" creationid="amake" creationdate="20170128T145712Z">
+        <seg>未設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a local repository</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140607T151725Z">
@@ -23656,6 +23736,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T151257Z">
         <seg>OmegaT は、指定した単語をすべて含む、すべての分節の一覧を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145638Z" creationid="amake" creationdate="20170128T145638Z">
+        <seg>パスワードや API キーなどの機密データはマスターパスワードによって保護されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25658,6 +25746,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145320Z" creationid="amake" creationdate="20170128T145320Z">
+        <seg>プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T121527Z">
@@ -25782,6 +25878,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140330T035743Z">
         <seg>最下部にある［&lt;e0&gt;フィルター&lt;/e0&gt;］ボタンをクリックすると、編集ウィンドウには現在の検索条件に一致する分節のみが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145853Z" creationid="amake" creationdate="20170128T145853Z">
+        <seg>使用するキーボードショートカットを押下後、OK ボタンをクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26240,6 +26344,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130124T031420Z">
         <seg>プロジェクト設定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145539Z" creationid="amake" creationdate="20170128T145539Z">
+        <seg>プロバイダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -27428,6 +27540,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145726Z" creationid="amake" creationdate="20170128T145726Z">
+        <seg>マスターパスワードのリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="JA" changeid="Kasuya" changedate="20160706T103226Z" creationid="Kasuya" creationdate="20160706T103217Z">
@@ -28360,6 +28480,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145609Z" creationid="amake" creationdate="20170128T145609Z">
+        <seg>機密データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T175825Z">
@@ -29132,6 +29260,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145708Z" creationid="amake" creationdate="20170128T145708Z">
+        <seg>設定済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145705Z" creationid="amake" creationdate="20170128T145705Z">
+        <seg>設定済み、保存済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set My Own Password</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T145004Z" creationid="amake" creationdate="20170128T145004Z">
@@ -29353,6 +29497,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130916T172648Z">
         <seg>ショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145822Z" creationid="amake" creationdate="20170128T145822Z">
+        <seg>ショートカット:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34442,6 +34594,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145501Z" creationid="amake" creationdate="20170128T145501Z">
+        <seg>さまざまな OmegaT プラグインが提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130216T182854Z">
@@ -37222,6 +37382,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140923T132454Z" creationid="Yu-Tang" creationdate="20140923T132454Z">
         <seg>未翻訳分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170128T145526Z" creationid="amake" creationdate="20170128T145526Z">
+        <seg>未翻訳分節のみを対象とする(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
