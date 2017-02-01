@@ -703,6 +703,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142926Z" creationid="amake" creationdate="20170201T142926Z">
+        <seg>履歴による補完を有効化(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -13962,6 +13970,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142936Z" creationid="amake" creationdate="20170201T142936Z">
+        <seg>履歴による予測を有効化(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T033200Z">
@@ -16947,6 +16963,46 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20151115T175952Z" creationid="Yu-Tang" creationdate="20151115T175952Z">
         <seg>Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142950Z" creationid="amake" creationdate="20170201T142950Z">
+        <seg>履歴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142857Z" creationid="amake" creationdate="20170201T142857Z">
+        <seg>履歴補完</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T143006Z" creationid="amake" creationdate="20170201T143006Z">
+        <seg>履歴補完</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142901Z" creationid="amake" creationdate="20170201T142901Z">
+        <seg>履歴予測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T143009Z" creationid="amake" creationdate="20170201T143009Z">
+        <seg>履歴予測</seg>
       </tuv>
     </tu>
     <tu>
