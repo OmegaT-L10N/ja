@@ -4252,6 +4252,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T141943Z" creationid="amake" creationdate="20170201T141943Z">
+        <seg>&lt;html&gt;&lt;center&gt;読み込み中...&lt;br&gt;&lt;br&gt;ヒント: チェックする内容はいつでも「設定」メニューから変更できます。&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="yu-tang" changedate="20150211T164618Z" creationid="yu-tang" creationdate="20150211T164618Z">
@@ -13263,6 +13271,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142149Z" creationid="amake" creationdate="20170201T142149Z">
+        <seg>チェック内容を事前に確認しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20140203T124323Z">
@@ -17440,6 +17456,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142123Z" creationid="amake" creationdate="20170201T142123Z">
+        <seg>チェックに時間がかかりすぎる場合、不要のチェックをオフにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130207T072849Z">
@@ -19681,6 +19705,46 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T142140Z" creationid="amake" creationdate="20170128T142140Z">
         <seg>重複文節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T141725Z" creationid="amake" creationdate="20170201T141725Z">
+        <seg>品質チェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T141841Z" creationid="amake" creationdate="20170201T141841Z">
+        <seg>品質チェック（{1} 件中 {0} 件）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T141751Z" creationid="amake" creationdate="20170201T141751Z">
+        <seg>品質チェック（{0} 件）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T141858Z" creationid="amake" creationdate="20170201T141858Z">
+        <seg>品質チェック: {0}（{2} 件中 {1} 件）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T141815Z" creationid="amake" creationdate="20170201T141809Z">
+        <seg>品質チェック: {0}（{1} 件）</seg>
       </tuv>
     </tu>
     <tu>
@@ -23001,6 +23065,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130503T030424Z">
         <seg>続いて、&lt;g0&gt;翻訳対象ファイル一覧&lt;/g0&gt;ダイアログが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142014Z" creationid="amake" creationdate="20170201T142009Z">
+        <seg>問題は見つかりませんでした</seg>
       </tuv>
     </tu>
     <tu>
@@ -29421,6 +29493,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142025Z" creationid="amake" creationdate="20170201T142025Z">
+        <seg>品質チェックの内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -29521,6 +29601,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T145158Z" creationid="amake" creationdate="20170128T145158Z">
         <seg>設定項目を選択してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170201T142032Z" creationid="amake" creationdate="20170201T142032Z">
+        <seg>チェックする内容を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
