@@ -1820,6 +1820,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.x to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170223T234955Z" creationid="Yu-Tang" creationdate="20170223T233057Z">
+        <seg>（OmegaT 3.x を使うと、この
+プロジェクトを引き続きチームプロジェクトとして開けます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130222T043855Z">
@@ -26024,6 +26034,15 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170223T234218Z" creationid="Yu-Tang" creationdate="20170223T233445Z">
+        <seg>他に必要な手続きがあるか、プロジェクトの管理者に確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130325T125441Z">
@@ -26343,6 +26362,24 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141114T064435Z" creationid="Yu-Tang" creationdate="20141114T064355Z">
         <seg>すべてのタグの空白を維持：原文ファイルにとって空白文字が（レイアウトの都合上）重要な意味を持ち、それを無視すべきでない場合は、このオプションのチェックを入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170223T234935Z" creationid="Yu-Tang" creationdate="20170223T232355Z">
+        <seg>［取消］ボタンをクリックすると、プロジェクトは変換されません。チーム機能を無効に
+して、通常のローカルプロジェクトとして開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.0-style team project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170223T232727Z" creationid="Yu-Tang" creationdate="20170223T232143Z">
+        <seg>［OK］ボタンをクリックすると、4.0 形式に変換します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34247,6 +34284,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170223T233131Z" creationid="Yu-Tang" creationdate="20170223T233131Z">
+        <seg>プロジェクトの変換に成功しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project will be loaded as a local project without team functionality.</seg>
       </tuv>
       <tuv lang="JA" changeid="amake" changedate="20170128T141305Z" creationid="amake" creationdate="20170128T141305Z">
@@ -35465,6 +35510,17 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130208T185427Z">
         <seg>選んだ要素は、翻訳時に個別の分節として表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170223T234552Z" creationid="Yu-Tang" creationdate="20170223T232333Z">
+        <seg>この場合、ローカルデータを
+削除し、プロジェクトをサーバーからダウンロードし直します。</seg>
       </tuv>
     </tu>
     <tu>
