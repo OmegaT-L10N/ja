@@ -11030,6 +11030,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リー
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commands:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170224T020849Z" creationid="Yu-Tang" creationdate="20170224T020849Z">
+        <seg>コマンド:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -11479,11 +11487,12 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>YU-TANG) Copyright 表記のため、意図的に原文（英語）のまま登録します。</note>
       <tuv lang="EN">
         <seg>Copyright © 2000-2016 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T061135Z" creationid="Yu-Tang" creationdate="20160212T061135Z">
-        <seg>Copyright © 2000-2016 Keith Godfrey, Maxym Mykhalchuk など</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170224T005637Z" creationid="Yu-Tang" creationdate="20160212T061135Z">
+        <seg>Copyright © 2000-2016 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
     </tu>
     <tu>
@@ -28660,8 +28669,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T120945Z" creationid="amake" creationdate="20170128T120945Z">
-        <seg>auto フォルダー由来の翻訳かどうかを記録する(&amp;o)</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170224T005439Z" creationid="amake" creationdate="20170128T120945Z">
+        <seg>auto フォルダー由来の翻訳かどうかを記録する(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31617,16 +31626,16 @@ and then start OmegaT.</seg>
       <tuv lang="EN">
         <seg>TM Matches</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T155339Z" creationid="amake" creationdate="20170128T121032Z">
-        <seg>参考訳分</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170224T005348Z" creationid="amake" creationdate="20170128T121032Z">
+        <seg>参考訳文</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>TM Matching Options</seg>
       </tuv>
-      <tuv lang="JA" changeid="amake" changedate="20170128T155349Z" creationid="amake" creationdate="20170128T122709Z">
-        <seg>参考訳分の設定</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170224T005401Z" creationid="amake" creationdate="20170128T122709Z">
+        <seg>参考訳文の設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -38219,6 +38228,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170224T020900Z" creationid="Yu-Tang" creationdate="20170224T020826Z">
+        <seg>使い方：java -jar OmegaT.jar team &lt;コマンド&gt; [&lt;オプション&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20141103T171905Z" creationid="Yu-Tang" creationdate="20141103T171905Z">
@@ -43663,6 +43680,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>init &lt;source language&gt; &lt;target language&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170224T021004Z" creationid="Yu-Tang" creationdate="20170224T021004Z">
+        <seg>init &lt;原文言語&gt; &lt;訳文言語&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>io</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -44612,6 +44637,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130205T204228Z">
         <seg>分節の末尾に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170224T020000Z" creationid="Yu-Tang" creationdate="20170224T015854Z">
+        <seg>文書の先頭分節に移動します（Mac：&lt;e0&gt;Cmd+PgUp&lt;/e0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170224T020029Z" creationid="Yu-Tang" creationdate="20170224T020029Z">
+        <seg>文書の最終分節に移動します（Mac：&lt;e0&gt;Cmd+PgDn&lt;/e0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
