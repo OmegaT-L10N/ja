@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_dev" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2602,6 +2602,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T035239Z" creationid="Yu-Tang" creationdate="20160212T035239Z">
         <seg>--quiet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--remote-project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="amake" changedate="20170304T122941Z" creationid="amake" creationdate="20170304T122941Z">
+        <seg>--remote-project</seg>
       </tuv>
     </tu>
     <tu>
