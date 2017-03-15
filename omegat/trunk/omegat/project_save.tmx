@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_dev" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2416,7 +2416,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--ITokenizer=&lt;classname&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T023828Z" creationid="Taro" creationdate="20160212T023828Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T023828Z" creationid="Yu-Tang" creationdate="20160212T023828Z">
         <seg>--ITokenizer=&lt;クラス名&gt;</seg>
       </tuv>
     </tu>
@@ -2424,7 +2424,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--ITokenizerBehavior=&lt;version&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T024505Z" creationid="Taro" creationdate="20160212T024505Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T024505Z" creationid="Yu-Tang" creationdate="20160212T024505Z">
         <seg>--ITokenizerBehavior=&lt;バージョン&gt;</seg>
       </tuv>
     </tu>
@@ -2432,7 +2432,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--ITokenizerBehaviorTarget=&lt;version&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T024511Z" creationid="Taro" creationdate="20160212T024511Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T024511Z" creationid="Yu-Tang" creationdate="20160212T024511Z">
         <seg>--ITokenizerBehaviorTarget=&lt;バージョン&gt;</seg>
       </tuv>
     </tu>
@@ -2440,7 +2440,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--ITokenizerTarget=&lt;classname&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T023835Z" creationid="Taro" creationdate="20160212T023835Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T023835Z" creationid="Yu-Tang" creationdate="20160212T023835Z">
         <seg>--ITokenizerTarget=&lt;クラス名&gt;</seg>
       </tuv>
     </tu>
@@ -2472,7 +2472,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--config-dir=&lt;path&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T021519Z" creationid="Taro" creationdate="20160212T021519Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T021519Z" creationid="Yu-Tang" creationdate="20160212T021519Z">
         <seg>--config-dir=&lt;パス&gt;</seg>
       </tuv>
     </tu>
@@ -2488,7 +2488,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T021346Z" creationid="Taro" creationdate="20160212T020945Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T021346Z" creationid="Yu-Tang" creationdate="20160212T020945Z">
         <seg>--config-file=&lt;パス&gt;</seg>
       </tuv>
     </tu>
@@ -2496,7 +2496,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--disable-location-save</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T022145Z" creationid="Taro" creationdate="20160212T022145Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T022145Z" creationid="Yu-Tang" creationdate="20160212T022145Z">
         <seg>--disable-location-save</seg>
       </tuv>
     </tu>
@@ -2504,7 +2504,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--disable-project-locking</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T022116Z" creationid="Taro" creationdate="20160212T022116Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T022116Z" creationid="Yu-Tang" creationdate="20160212T022116Z">
         <seg>--disable-project-locking</seg>
       </tuv>
     </tu>
@@ -2512,7 +2512,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T020803Z" creationid="Taro" creationdate="20160212T020803Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T020803Z" creationid="Yu-Tang" creationdate="20160212T020803Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]</seg>
       </tuv>
     </tu>
@@ -2560,7 +2560,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--no-team</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T023306Z" creationid="Taro" creationdate="20160212T023306Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T023306Z" creationid="Yu-Tang" creationdate="20160212T023306Z">
         <seg>--no-team</seg>
       </tuv>
     </tu>
@@ -2616,7 +2616,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>--resource-bundle=&lt;path&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T021353Z" creationid="Taro" creationdate="20160212T021353Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T021353Z" creationid="Yu-Tang" creationdate="20160212T021353Z">
         <seg>--resource-bundle=&lt;パス&gt;</seg>
       </tuv>
     </tu>
@@ -2688,7 +2688,7 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>-h, --help</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T020719Z" creationid="Taro" creationdate="20160212T020719Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T020719Z" creationid="Yu-Tang" creationdate="20160212T020719Z">
         <seg>-h, --help</seg>
       </tuv>
     </tu>
@@ -3444,18 +3444,10 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2015 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2016 Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T061301Z" creationid="Yu-Tang" creationdate="20160212T061301Z">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; は © 2000-2015 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2016 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160704T081756Z" creationid="Kasuya" creationdate="20160704T081756Z">
-        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; は © 2000-2016 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170315T030051Z" creationid="Yu-Tang" creationdate="20170315T030051Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; は © 2000-2016 Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov らの著作物です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7163,7 +7155,7 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="EN">
         <seg>A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T070353Z" creationid="Taro" creationdate="20160212T021338Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T070353Z" creationid="Yu-Tang" creationdate="20160212T021338Z">
         <seg>デフォルト設定を読み込む元になるJava .propertiesファイルです。</seg>
       </tuv>
     </tu>
@@ -7171,7 +7163,7 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="EN">
         <seg>A Java .properties file to use for interface text</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T065606Z" creationid="Taro" creationdate="20160212T021511Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T065606Z" creationid="Yu-Tang" creationdate="20160212T021511Z">
         <seg>インターフェースのローカライズに使用されるJava .properties
 		ファイルです。</seg>
       </tuv>
@@ -10921,31 +10913,11 @@ documentation.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Code has been contributed by:
-Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T085613Z" creationid="Kasuya" creationdate="20160706T085436Z">
-        <seg>コードに関する貢献者：
-Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（主開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich そして Michael Zakharov</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T233905Z" creationid="Yu-Tang" creationdate="20170127T233905Z">
         <seg>コードに関する貢献者：
 {0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Code has been contributed by: 
-Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T061219Z" creationid="Yu-Tang" creationdate="20160212T061219Z">
-        <seg>コードに関する貢献者：
-Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik（リード開発者）, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich そして Michael Zakharov</seg>
       </tuv>
     </tu>
     <tu>
@@ -12779,7 +12751,7 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T023817Z" creationid="Taro" creationdate="20160212T023817Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T023817Z" creationid="Yu-Tang" creationdate="20160212T023817Z">
         <seg>チームプロジェクト機能を無効にします。</seg>
       </tuv>
     </tu>
@@ -13123,7 +13095,7 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="EN">
         <seg>Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T065648Z" creationid="Taro" creationdate="20160212T022541Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T065648Z" creationid="Yu-Tang" creationdate="20160212T022541Z">
         <seg>開いたプロジェクトのフォルダーの場所（ファイルを開く/保存ダイア
 		ログの初期表示に使われます）を記憶しません。</seg>
       </tuv>
@@ -21230,14 +21202,6 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20170127T233804Z" creationid="Yu-Tang" creationdate="20170127T233804Z">
-        <seg>Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130225T024234Z">
@@ -23354,7 +23318,7 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       <tuv lang="EN">
         <seg>None: Launch GUI</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T020522Z" creationid="Taro" creationdate="20160212T020522Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T020522Z" creationid="Yu-Tang" creationdate="20160212T020522Z">
         <seg>なし: GUI を起動します</seg>
       </tuv>
     </tu>
@@ -25407,7 +25371,7 @@ happen should you file a bug report.</seg>
       <tuv lang="EN">
         <seg>Options:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T020511Z" creationid="Taro" creationdate="20160212T020511Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T020511Z" creationid="Yu-Tang" creationdate="20160212T020511Z">
         <seg>オプション:</seg>
       </tuv>
     </tu>
@@ -26096,6 +26060,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20160219T150810Z" creationid="Yu-Tang" creationdate="20160219T150810Z">
         <seg>www.java.com から最新の Java をダウンロードしてインストールした後に、再度お試しください。"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170315T025805Z" creationid="Yu-Tang" creationdate="20170315T025805Z">
+        <seg>セット名を入力してください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26845,7 +26817,7 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T065449Z" creationid="Taro" creationdate="20160212T020746Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T065449Z" creationid="Yu-Tang" creationdate="20160212T020746Z">
         <seg>プロジェクトのパスのみ: GUIを起動して指定されたプロジェクトを開きます</seg>
       </tuv>
     </tu>
@@ -28659,6 +28631,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170315T025733Z" creationid="Yu-Tang" creationdate="20170315T025733Z">
+        <seg>現在のセットを保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20121004T152822Z">
@@ -29212,7 +29192,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T065744Z" creationid="Taro" creationdate="20160212T024452Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T065744Z" creationid="Yu-Tang" creationdate="20160212T024452Z">
         <seg>有効な値の一覧は OmegaT.jar/META-INF/
 		MANIFEST.MF を参照してください。</seg>
       </tuv>
@@ -29946,6 +29926,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20170315T025707Z" creationid="Yu-Tang" creationdate="20170315T025707Z">
+        <seg>セット</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://code.google.com/p/omegat-jp/issues/detail?id=1&amp;can=1 により、「規則群」を「規則集」に変更。</note>
       <tuv lang="EN">
         <seg>Sets of segmentation rules:</seg>
@@ -30278,7 +30266,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Show usage information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T020759Z" creationid="Taro" creationdate="20160212T020759Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T020759Z" creationid="Yu-Tang" creationdate="20160212T020759Z">
         <seg>使い方に関する情報を表示します。</seg>
       </tuv>
     </tu>
@@ -30921,7 +30909,7 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T070337Z" creationid="Taro" creationdate="20160212T023859Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T070337Z" creationid="Yu-Tang" creationdate="20160212T023859Z">
         <seg>原文または訳文言語に使用するトークナイザーです（プロジェクト設
 		定より優先されます）。</seg>
       </tuv>
@@ -31002,7 +30990,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Kasuya" changedate="20160706T093047Z" creationid="Taro" creationdate="20160212T020934Z">
+      <tuv lang="JA" changeid="Kasuya" changedate="20160706T093047Z" creationid="Yu-Tang" creationdate="20160212T020934Z">
         <seg>デフォルト（GUI）以外のモードを指定します。</seg>
       </tuv>
     </tu>
@@ -33272,7 +33260,7 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Taro" changedate="20160212T022111Z" creationid="Taro" creationdate="20160212T022111Z">
+      <tuv lang="JA" changeid="Yu-Tang" changedate="20160212T022111Z" creationid="Yu-Tang" creationdate="20160212T022111Z">
         <seg>OmegaT の各種設定ファイルを入出力するフォルダーです。</seg>
       </tuv>
     </tu>
