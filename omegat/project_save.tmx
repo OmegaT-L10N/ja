@@ -4411,8 +4411,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T053538Z" creationid="suzume" creationdate="20200119T053538Z">
-        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T053555Z" creationid="suzume" creationdate="20200119T053538Z">
+        <seg>&lt;html&gt;リポジトリ URL：&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15149,6 +15149,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T053809Z" creationid="suzume" creationdate="20200119T053809Z">
+        <seg>リポジトリの更新に失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T155540Z">
@@ -15169,6 +15177,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T141008Z">
         <seg>エラー {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T053837Z" creationid="suzume" creationdate="20200119T053837Z">
+        <seg>エラー：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24679,6 +24695,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T053607Z" creationid="suzume" creationdate="20200119T053607Z">
+        <seg>新規ローカルプロジェクトフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T090733Z">
@@ -27219,6 +27243,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T053732Z" creationid="suzume" creationdate="20200119T053714Z">
+        <seg>チームプロジェクトを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening the user manual in this way also enables you to follow external links, as the built-in help browser does not accept external Internet links.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T092650Z">
@@ -29697,6 +29729,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T083959Z" creationid="Kasuya" creationdate="20160706T083949Z">
         <seg>リモートリポジトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T053749Z" creationid="suzume" creationdate="20200119T053749Z">
+        <seg>リモートリポジトリネットワーク通信エラー：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34025,6 +34065,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T121537Z" creationid="amake" creationdate="20170128T121445Z">
         <seg>同梱されているものが代わりに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T053658Z" creationid="suzume" creationdate="20200119T053658Z">
+        <seg>リモートリ同期中</seg>
       </tuv>
     </tu>
     <tu>
