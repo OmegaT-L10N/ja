@@ -11518,6 +11518,14 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T031516Z" creationid="suzume" creationdate="20200119T031516Z">
+        <seg> 原文ファイルをコミット中</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Commodity12</seg>
@@ -15665,6 +15673,22 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151015T104055Z" creationid="Yu-Tang" creationdate="20151015T104055Z">
         <seg>設定ファイルのバックアップを作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T031501Z" creationid="suzume" creationdate="20200119T031501Z">
+        <seg> 原文ファイルをコミットできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T031511Z" creationid="suzume" creationdate="20200119T031511Z">
+        <seg>訳文ファイルをコミットできませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31030,6 +31054,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T031416Z" creationid="suzume" creationdate="20200119T031416Z">
+        <seg>辞書を検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T042038Z">
@@ -32990,6 +33022,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T135006Z">
         <seg>原文ファイル名構成例には、&lt;e2&gt;検索&lt;/e2&gt;機能と同様にワイルドカード文字を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T031538Z" creationid="suzume" creationdate="20200119T031538Z">
+        <seg> 原文ファイルをコミット済</seg>
       </tuv>
     </tu>
     <tu>
