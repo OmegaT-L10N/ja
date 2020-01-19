@@ -2598,6 +2598,16 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084459Z" creationid="suzume" creationdate="20200119T084459Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		デフォルト（GUI）以外のモードを指定します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-align</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T014051Z">
@@ -2694,6 +2704,18 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084427Z" creationid="suzume" creationdate="20200119T084427Z">
+        <seg>--remote-project
+		&lt;project path&gt; URL から omegat.project ファイルをダウンロードしてから
+		プロジェクトを読み込みます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T021353Z" creationid="Yu-Tang" creationdate="20160212T021353Z">
@@ -2770,6 +2792,16 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T020719Z" creationid="Yu-Tang" creationdate="20160212T020719Z">
         <seg>-h, --help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084247Z" creationid="suzume" creationdate="20200119T084247Z">
+        <seg>-h, --help
+		使い方に関する情報を表示します</seg>
       </tuv>
     </tu>
     <tu>
@@ -21123,6 +21155,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140120T183936Z">
         <seg>Invantive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084226Z" creationid="suzume" creationdate="20200119T084226Z">
+        <seg>詳細は：team -h で起動</seg>
       </tuv>
     </tu>
     <tu>
