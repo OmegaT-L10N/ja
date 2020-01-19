@@ -2502,6 +2502,20 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084946Z" creationid="suzume" creationdate="20200119T084946Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		原文または訳文言語に使用するトークナイザーです（プロジェクト設
+		定より優先されます）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--ITokenizerBehavior=&lt;version&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T024505Z" creationid="Yu-Tang" creationdate="20160212T024505Z">
@@ -2686,6 +2700,16 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084934Z" creationid="suzume" creationdate="20200119T084934Z">
+        <seg>--no-team
+		チームプロジェクト機能を無効にします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T052932Z">
@@ -2777,6 +2801,16 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085022Z" creationid="suzume" creationdate="20200119T085022Z">
+        <seg>--script=&lt;path&gt;
+		プロジェクトイベント時に実行されるスクリプトファイルです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern=&lt;pattern&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T040009Z" creationid="Yu-Tang" creationdate="20160212T040009Z">
@@ -2805,6 +2839,16 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T035450Z" creationid="Yu-Tang" creationdate="20160212T035450Z">
         <seg>--tag-validation=[abort|warn]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085136Z" creationid="suzume" creationdate="20200119T085136Z">
+        <seg>--tag-validation=[abort|warn]
+		タグの検証</seg>
       </tuv>
     </tu>
     <tu>
@@ -25125,6 +25169,18 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085011Z" creationid="suzume" creationdate="20200119T085011Z">
+        <seg>Non-GUI mode options:
+	--quiet
+		コマンドラインの標準出力への出力を削減します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121231T141255Z">
@@ -31771,9 +31827,9 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T065744Z" creationid="Yu-Tang" creationdate="20160212T024452Z">
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085013Z" creationid="Yu-Tang" creationdate="20160212T024452Z">
         <seg>有効な値の一覧は OmegaT.jar/META-INF/
-		MANIFEST.MF を参照してください。</seg>
+		MANIFEST.MF を参照してください</seg>
       </tuv>
     </tu>
     <tu>
