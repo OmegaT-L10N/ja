@@ -425,6 +425,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T054505Z" creationid="suzume" creationdate="20200119T054505Z">
+        <seg>全ファイルに適用する(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -10546,6 +10554,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T150433Z">
         <seg>このフラグを変更しても、翻訳メモリにすでに記録された分節は変更されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T054733Z" creationid="suzume" creationdate="20200119T054733Z">
+        <seg>文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -36180,6 +36196,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T054523Z" creationid="suzume" creationdate="20200119T054523Z">
+        <seg>ファイル「{0}」はサポートされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file &lt;f0&gt;project_save.tmx&lt;/f0&gt; contains all the segments that have been translated since you started the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T153616Z">
@@ -37618,6 +37642,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T122903Z" creationid="Yu-Tang" creationdate="20150716T122903Z">
         <seg>指定された辞書フォルダーが見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T054529Z" creationid="suzume" creationdate="20200119T054529Z">
+        <seg>指定されたファイルはサポートされていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43245,7 +43277,7 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="en">
         <seg>Word</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T034919Z" creationid="suzume" creationdate="20200119T034919Z">
+      <tuv lang="ja" changeid="suzume" changedate="20200119T054705Z" creationid="suzume" creationdate="20200119T034919Z">
         <seg>Word</seg>
       </tuv>
     </tu>
@@ -50906,6 +50938,16 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_ENUM_COUNTER_TYPE_WORD</prop>
+      <tuv lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T054726Z" creationid="suzume" creationdate="20200119T054726Z">
+        <seg>単語</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">doc_src/en/App_Languages.xml</prop>
       <prop type="prev">mya</prop>
