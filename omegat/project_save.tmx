@@ -34859,6 +34859,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T054841Z" creationid="suzume" creationdate="20200119T054841Z">
+        <seg>用語の問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T070521Z">
@@ -44554,6 +44562,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T055032Z" creationid="suzume" creationdate="20200119T055032Z">
+        <seg>[{0}] 原文内の「{1}」に対して訳文内の「{2}」のいずれを期待する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T055010Z" creationid="suzume" creationdate="20200119T055010Z">
+        <seg>[{0}] 原文内の「{1}」に対して訳文内の「{2}」を期待する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T034038Z">
@@ -50887,6 +50911,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T175008Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T055042Z" creationid="suzume" creationdate="20200119T055042Z">
+        <seg>「{0}」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T055103Z" creationid="suzume" creationdate="20200119T055103Z">
+        <seg>「{0}」（{1}）</seg>
       </tuv>
     </tu>
     <tu>
