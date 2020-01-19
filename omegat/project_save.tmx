@@ -2574,6 +2574,16 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084525Z" creationid="suzume" creationdate="20200119T084509Z">
+        <seg>--config-file=&lt;path&gt;
+		デフォルト設定を読み込む元になるJava .propertiesファイルです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-location-save</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T022145Z" creationid="Yu-Tang" creationdate="20160212T022145Z">
@@ -2582,10 +2592,30 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084921Z" creationid="suzume" creationdate="20200119T084921Z">
+        <seg>--disable-location-save
+		ダイアログで開いた最後のフォルダーを記憶しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-project-locking</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T022116Z" creationid="Yu-Tang" creationdate="20160212T022116Z">
         <seg>--disable-project-locking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084724Z" creationid="suzume" creationdate="20200119T084724Z">
+        <seg>--disable-project-locking
+		プロジェクトの omegat.project ファイルをロックしません</seg>
       </tuv>
     </tu>
     <tu>
@@ -2720,6 +2750,21 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T021353Z" creationid="Yu-Tang" creationdate="20160212T021353Z">
         <seg>--resource-bundle=&lt;パス&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T084705Z" creationid="suzume" creationdate="20200119T084643Z">
+        <seg>--resource-bundle=&lt;path&gt;
+		UIのに使用される言語のJava .propertiesファイルです
+
+	--config-dir=&lt;path&gt;
+		OmegaT の各種設定ファイルを入出力するフォルダーです</seg>
       </tuv>
     </tu>
     <tu>
