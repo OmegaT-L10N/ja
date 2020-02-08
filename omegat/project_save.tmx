@@ -2742,6 +2742,16 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085204Z" creationid="suzume" creationdate="20200119T085204Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		疑似翻訳 TMX の訳文に何を設定するか指定します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--quiet</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T035239Z" creationid="Yu-Tang" creationdate="20160212T035239Z">
@@ -11619,6 +11629,18 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085233Z" creationid="suzume" creationdate="20200119T085233Z">
+        <seg>コマンド：
+	-h, --help
+		使い方に関する情報を表示します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -11903,6 +11925,18 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085210Z" creationid="suzume" creationdate="20200119T085210Z">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		訳文ファイルを配置したフォルダーです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-pseudotranslatetmx mode:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T040150Z" creationid="Yu-Tang" creationdate="20160212T040150Z">
@@ -11911,10 +11945,34 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085158Z" creationid="suzume" creationdate="20200119T085158Z">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		疑似翻訳した TMX ファイルを出力します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-translate mode:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T035958Z" creationid="Yu-Tang" creationdate="20160212T035958Z">
         <seg>コンソール翻訳モード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085152Z" creationid="suzume" creationdate="20200119T085152Z">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		処理する原文ファイルのホワイトリスト用正規表現</seg>
       </tuv>
     </tu>
     <tu>
@@ -47478,6 +47536,16 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20170224T021004Z" creationid="Yu-Tang" creationdate="20170224T021004Z">
         <seg>init &lt;原文言語&gt; &lt;訳文言語&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20200119T085357Z" creationid="suzume" creationdate="20200119T085337Z">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		指定された言語で最小限のチームプロジェクトを初期化します</seg>
       </tuv>
     </tu>
     <tu>
