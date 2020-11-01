@@ -3793,6 +3793,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051555Z" creationid="miurahr" creationdate="20201101T051555Z">
+        <seg>&lt;e0&gt;以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更&lt;/e0&gt;：訳文ファイルのエンコーディング文字セットを、原文ファイルのそれ（明示的に指定されたものであれ、暗黙に適用されたものであれ）とは違うものにしたいということは、よくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T051403Z" creationid="miurahr" creationdate="20201101T051403Z">
@@ -3854,6 +3862,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141110T230328Z" creationid="Yu-Tang" creationdate="20141110T230233Z">
         <seg>&lt;e0&gt;閉じる：&lt;/e0&gt;変更なしにウィンドウを閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052224Z" creationid="miurahr" creationdate="20201101T052224Z">
+        <seg>&lt;e0&gt;訳文ファイルの空白圧縮&lt;/e0&gt;：連続する空白文字がある場合、訳文ファイル生成時に空白文字一つだけに変換します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4199,6 +4215,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151103T144812Z" creationid="Yu-Tang" creationdate="20151103T144812Z">
         <seg>&lt;e0&gt;訳文ファイルの HTML コメントを削除&lt;/e0&gt;：すべてのコメント部（&lt;!-- から --&gt; までのあいだ）を訳文ファイルに出力しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052257Z" creationid="miurahr" creationdate="20201101T052257Z">
+        <seg>&lt;e0&gt;訳文ファイルの HTML コメントを削除&lt;/e0&gt;：コメント部（&lt;!-- から --&gt; までのあいだ）を訳文ファイルに出力しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17374,6 +17398,14 @@ Tutorial.</seg>
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T181755Z">
+        <seg>たとえば、ファイルフィルターで訳文ファイルのエンコーディングが UTF-8 に指定されている場合、この設定によって、訳文ファイルに必ずその情報を含めるようにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052209Z" creationid="miurahr" creationdate="20201101T052209Z">
         <seg>たとえば、ファイルフィルターで訳文ファイルのエンコーディングが UTF-8 に指定されている場合、この設定によって、訳文ファイルに必ずその情報を含めるようにすることができます。</seg>
       </tuv>
     </tu>
@@ -37594,6 +37626,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052635Z" creationid="miurahr" creationdate="20201101T052635Z">
+        <seg>このダイアログでは、出力するファイル名のカスタマイズをするための訳文ファイル名の構成に特化したエディターがついています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog is useful because it includes a special target filename pattern editor with which you can customize the names of output files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T103216Z">
@@ -40307,6 +40347,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052341Z" creationid="miurahr" creationdate="20201101T052341Z">
+        <seg>このダイアログでは、フィルターで処理する原文ファイル名の構成例の指定、訳文ファイル名のカスタマイズ、読み込む原文ファイルと生成する訳文ファイルのエンコーディングを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T041334Z" creationid="miurahr" creationdate="20201101T041334Z">
@@ -41177,6 +41225,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052425Z" creationid="miurahr" creationdate="20201101T052425Z">
+        <seg>新しいファイルフィルター構成例を追加するには&lt;e1&gt;追加&lt;/e1&gt;ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T083204Z">
@@ -41606,6 +41662,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T102433Z">
         <seg>ファイルフィルター構成例を編集するには、それぞれの欄をダブルクリックして直接修正するか、&lt;e0&gt;編集&lt;/e0&gt;ボタンをクリックします。新しいファイルフィルター構成例を追加するには&lt;e1&gt;追加&lt;/e1&gt;ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052414Z" creationid="miurahr" creationdate="20201101T052414Z">
+        <seg>ファイルフィルター構成例を編集するには、それぞれの欄をダブルクリックして直接修正するか、&lt;e0&gt;編集&lt;/e0&gt;ボタンをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43844,6 +43908,14 @@ searchable without subscription:</seg>
         <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T181131Z">
+        <seg>この設定を使うと、訳文ファイルにエンコーディング宣言を含めるかどうかを指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052149Z" creationid="miurahr" creationdate="20201101T052149Z">
         <seg>この設定を使うと、訳文ファイルにエンコーディング宣言を含めるかどうかを指定できます。</seg>
       </tuv>
     </tu>
