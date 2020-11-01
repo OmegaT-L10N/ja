@@ -7823,6 +7823,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045502Z" creationid="miurahr" creationdate="20201101T045502Z">
+        <seg>スイッチカラーテーマ ・スクリプトを使うと、既定の「ダーク」テーマを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A script file to be executed on project events.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T035442Z" creationid="Yu-Tang" creationdate="20160212T035442Z">
@@ -9891,6 +9899,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T044831Z" creationid="miurahr" creationdate="20201101T044831Z">
+        <seg>辞書内のセグメント・テキストを自動的に検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T023954Z">
@@ -11505,6 +11521,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150519T100401Z" creationid="Yu-Tang" creationdate="20150519T100329Z">
         <seg>SVN リポジトリ用の認証データを削除します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T044844Z" creationid="miurahr" creationdate="20201101T044844Z">
+        <seg>辞書が長すぎる場合など、自動検索を無効にするには、このオプションをオフにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19471,6 +19495,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T150206Z">
         <seg>必要であれば、辞書ファイルの名前を変更するか、または逆にプロジェクトの言語設定を変更してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T044821Z" creationid="miurahr" creationdate="20201101T044821Z">
+        <seg>必要に応じて、特定のドメインを選択して、送受信されるデータ量を制限できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29515,6 +29547,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre-defined themes can be set using scripts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045352Z" creationid="miurahr" creationdate="20201101T045352Z">
+        <seg>定義済みのテーマを簡単に切り替えられるスクリプトも、付属しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145133Z" creationid="amake" creationdate="20170128T145133Z">
@@ -32839,6 +32879,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045214Z" creationid="miurahr" creationdate="20201101T045214Z">
+        <seg>詳しくは「その他」の「字体の設定」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T213019Z">
@@ -33295,6 +33343,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T044810Z" creationid="miurahr" creationdate="20201101T044810Z">
+        <seg>TaaS 用語分野を選択...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140627T132959Z">
@@ -33395,6 +33451,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T022126Z">
         <seg>このメニュー項目を選ぶと、その訳文は現在の分節固有のものになります。同じ内容の他の原文分節には影響を与えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T044920Z" creationid="miurahr" creationdate="20201101T044920Z">
+        <seg>同じ語根を持つ単語を辞書に表示する場合に選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40630,6 +40694,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045314Z" creationid="miurahr" creationdate="20201101T045314Z">
+        <seg>ユーザーインターフェースの各部分について、任意の色に変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130508T161714Z">
@@ -43080,6 +43152,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T044859Z" creationid="miurahr" creationdate="20201101T044859Z">
+        <seg>辞書項目の照合にトークナイザーを使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use glossary</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140607T151340Z">
@@ -43164,6 +43244,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141110T194523Z" creationid="Yu-Tang" creationdate="20141110T193111Z">
         <seg>原文と同じ訳文を登録できます。［設定］→［翻訳入力行...］の［原文と同じ訳文を許可］にチェックが入っていない場合でも、有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T044929Z" creationid="miurahr" creationdate="20201101T044929Z">
+        <seg>切り離されたり、移動したり、隠れてしまったウィンドウを元の状態に戻したいときに、使用してください。</seg>
       </tuv>
     </tu>
     <tu>
