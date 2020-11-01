@@ -1842,6 +1842,15 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062354Z" creationid="miurahr" creationdate="20201101T062354Z">
+        <seg>（万が一、OmegaT プロジェクトへ大きく協力したのに、ここに名前がないという場合は、遠慮なくご連絡ください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130315T060744Z">
@@ -12563,6 +12572,24 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062309Z" creationid="miurahr" creationdate="20201101T062309Z">
+        <seg>コードへの貢献は、/docs/contributors.txtに記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062231Z" creationid="miurahr" creationdate="20201101T062231Z">
+        <seg>寄稿者
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T042755Z">
@@ -13505,6 +13532,16 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151015T101411Z" creationid="Yu-Tang" creationdate="20151015T101411Z">
         <seg>現在 VM が使用しているメモリは {0} MB です。空き容量は {1} MB で、最大 {2} MB が使用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062242Z" creationid="miurahr" creationdate="20201101T062242Z">
+        <seg>現在のチーム:
+(アルファベット順)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14738,6 +14775,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T063902Z">
         <seg>OmegaT アイコンをダブルクリックすると、プロジェクトが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062010Z" creationid="miurahr" creationdate="20201101T062010Z">
+        <seg>OmegaT アプリケーションをダブルクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17156,6 +17201,15 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062114Z" creationid="miurahr" creationdate="20201101T062114Z">
+        <seg>Kaptain スクリプト（omegat.kaptn）を使うと、ユーザーに分かりやすい方法で OmegaT を起動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a quick-start tutorial, launch OmegaT and read the displayed Instant Start 
 Tutorial.</seg>
       </tuv>
@@ -19334,6 +19388,16 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062222Z" creationid="miurahr" creationdate="20201101T062222Z">
+        <seg>システムレベルで Java がインストールされている場合、フルパスを指定する必要はありません。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T093757Z" creationid="Kasuya" creationdate="20160705T093218Z">
@@ -20345,6 +20409,15 @@ extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061947Z" creationid="miurahr" creationdate="20201101T061947Z">
+        <seg>もしファイルマネージャー（Windows エクスプローラー）上で見たときに、拡張子なしのファイル「OmegaT」しか見つからない場合は、設定を変更（Windows 7 の場合、[コントロールパネル]-[デスクトップのカスタマイズ]-[フォルダー オプション]-[すべてのファイルとフォルダーを表示]-[表示] タブ-[詳細設定]-[登録されている拡張子は表示しない] をオフに）してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T025601Z">
@@ -20464,6 +20537,15 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T013756Z" creationid="miurahr" creationdate="20201101T013756Z">
         <seg>強力なマシンを使用している場合や、プログレッシブ読み込み時のスクロールバーの動作が気に入らない場合は、この数を増やすことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061746Z" creationid="miurahr" creationdate="20201101T061746Z">
+        <seg>すでに Java 実行環境があるなら、現バージョンの OmegaT をインストールするひとつの方法として、Java Web Start を使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20703,6 +20785,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062046Z" creationid="miurahr" creationdate="20201101T062046Z">
+        <seg>linux-install.sh スクリプトを使用した場合は、以下を使用して OmegaT を起動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T170744Z">
@@ -20812,6 +20902,15 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T030829Z">
         <seg>もし原文ファイルが、Microsoft Word や LibreOffice Writer、HTML などの書式情報を持つファイル形式だった場合、OmegaT はその情報をタグに変換し、対象テキストをタグで括った形式で表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061838Z" creationid="miurahr" creationdate="20201101T061838Z">
+        <seg>インストール中に、デスクトップにショートカットを作成した場合は、それをダブルクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22071,6 +22170,36 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061542Z" creationid="miurahr" creationdate="20201101T061542Z">
+        <seg>OmegaTのインストール (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061437Z" creationid="miurahr" creationdate="20201101T061437Z">
+        <seg>OmegaTのインストール (Mac)
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061702Z" creationid="miurahr" creationdate="20201101T061702Z">
+        <seg>OmegaTのインストール (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -22853,6 +22982,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130310T090842Z">
         <seg>これはサーバー側のリポジトリに対する、はじめてのコミットになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061800Z" creationid="miurahr" creationdate="20201101T061800Z">
+        <seg>最初の実行時に、お使いのコンピューターに適した実行環境とアプリケーションを自動でインストールします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23875,6 +24013,46 @@ Launch OmegaT as follows.</seg>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T034349Z">
         <seg>OmegaT の起動
 いくつかの方法で起動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062036Z" creationid="miurahr" creationdate="20201101T062036Z">
+        <seg>OmegaT (Linux)の起動
+========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061959Z" creationid="miurahr" creationdate="20201101T061959Z">
+        <seg>OmegaT (Mac)の起動
+======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061812Z" creationid="miurahr" creationdate="20201101T061812Z">
+        <seg>OmegaT (Windows)の起動
+==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062150Z" creationid="miurahr" creationdate="20201101T062150Z">
+        <seg>OmegaTをコマンドラインから起動 (全システム)
+====================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -25687,6 +25865,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142549Z" creationid="amake" creationdate="20170128T142549Z">
         <seg>上へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061533Z" creationid="miurahr" creationdate="20201101T061533Z">
+        <seg>フォルダーを、「Applications」フォルダーなどの適切な場所に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27698,6 +27885,15 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061602Z" creationid="miurahr" creationdate="20201101T061602Z">
+        <seg>これで、OmegaT を起動できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130329T144230Z">
@@ -29504,6 +29700,14 @@ everything.</seg>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T005828Z" creationid="miurahr" creationdate="20201101T005828Z">
         <seg>ソースファイルを ./source に配置し、./tmと ./glossaryと ./dictionary 内の追加資材
 を必要に応じて追加して、コミットします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061556Z" creationid="miurahr" creationdate="20201101T061556Z">
+        <seg>アーカイブを任意のフォルダーに配置して、展開してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37709,6 +37913,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062203Z" creationid="miurahr" creationdate="20201101T062159Z">
+        <seg>OmegaT を起動するためのコマンドは次のとおりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T095330Z">
@@ -38458,6 +38670,15 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061901Z" creationid="miurahr" creationdate="20201101T061901Z">
+        <seg>インストーラーは、スタートメニュー、デスクトップ、およびクイック起動領域にショートカットを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T182552Z">
@@ -38722,6 +38943,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
         <seg>The most current info about OmegaT can be found at</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T051206Z">
+        <seg>OmegaT に関する最新の情報は以下のウェブサイトで公開されています：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062412Z" creationid="miurahr" creationdate="20201101T062412Z">
         <seg>OmegaT に関する最新の情報は以下のウェブサイトで公開されています：</seg>
       </tuv>
     </tu>
@@ -42233,6 +42462,24 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062118Z" creationid="miurahr" creationdate="20201101T062118Z">
+        <seg>このスクリプトを使用するには、最初に Kaptainをインストールしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061649Z" creationid="miurahr" creationdate="20201101T061649Z">
+        <seg>この場合は、ターミナルウィンドウ（コンソール）を開き、OmegaT.jar と linux-install.sh スクリプトを含むフォルダーに移動して、./linux-install.sh を実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142843Z" creationid="amake" creationdate="20170128T142843Z">
@@ -43382,6 +43629,15 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061507Z" creationid="miurahr" creationdate="20201101T061507Z">
+        <seg>OmegaT.zip アーカイブを任意のフォルダーにコピーし、展開してください。内容は、取扱説明書の一覧用 HTML ファイルと OmegaT.app、そしてプログラムファイルなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T202927Z">
@@ -43966,6 +44222,16 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T050038Z" creationid="Yu-Tang" creationdate="20141104T050038Z">
         <seg>タグ検証の結果を閲覧できます。［&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;］で開き、［&lt;k4&gt;Esc&lt;/k4&gt;］で閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062402Z" creationid="miurahr" creationdate="20201101T062402Z">
+        <seg>便利なリンク
+==============</seg>
       </tuv>
     </tu>
     <tu>
@@ -45983,6 +46249,15 @@ https://ja.wordpress.org/</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062123Z" creationid="miurahr" creationdate="20201101T062123Z">
+        <seg>次に、 Kaptain 起動スクリプトを以下のように起動して起動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T171617Z">
@@ -46153,11 +46428,29 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062028Z" creationid="miurahr" creationdate="20201101T062028Z">
+        <seg>また、 Spotlight 検索フィールドから起動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag 
 the file OmegaT.exe to the start menu, the desktop or the quick launch area
 to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T040902Z">
+        <seg>あるいは OmegaT.exe ファイルをマウスの右ボタンでドラッグすれば、ショートカットを自分で作成し、上記のような場所へ配置することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061916Z" creationid="miurahr" creationdate="20201101T061916Z">
         <seg>あるいは OmegaT.exe ファイルをマウスの右ボタンでドラッグすれば、ショートカットを自分で作成し、上記のような場所へ配置することもできます。</seg>
       </tuv>
     </tu>
@@ -46380,6 +46673,15 @@ to link it from there.</seg>
 installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T151317Z">
+        <seg>あるいは、linux-install.sh のようなインストール スクリプトを使うと、もっとユーザーに分かりやすい形でインストールできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061633Z" creationid="miurahr" creationdate="20201101T061633Z">
         <seg>あるいは、linux-install.sh のようなインストール スクリプトを使うと、もっとユーザーに分かりやすい形でインストールできます。</seg>
       </tuv>
     </tu>
@@ -46634,6 +46936,15 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T144917Z">
         <seg>原文ファイルのエンコーディングを、ファイル名構成例ごとに変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062020Z" creationid="miurahr" creationdate="20201101T062020Z">
+        <seg>任意の場所から起動できるように、 OmegaT アプリケーションをドックにドラッグするか、「 Finder 」ウィンドウのツールバーにドラッグすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47421,6 +47732,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T044849Z">
         <seg>そして、大いに貢献してくださった多くの方々</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T062057Z" creationid="miurahr" creationdate="20201101T062057Z">
+        <seg>次に:</seg>
       </tuv>
     </tu>
     <tu>
