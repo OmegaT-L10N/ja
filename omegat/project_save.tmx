@@ -7500,6 +7500,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040324Z" creationid="miurahr" creationdate="20201101T040324Z">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; は、100程度の言語でダウンロードでき、IT用語集の基盤として使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>==============================================================================</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T073346Z">
@@ -8096,10 +8104,82 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T041108Z" creationid="miurahr" creationdate="20201101T041108Z">
+        <seg>設定フォルダにアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160704T090633Z" creationid="Kasuya" creationdate="20160704T090605Z">
         <seg>プロジェクト構成物へのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040704Z" creationid="miurahr" creationdate="20201101T040704Z">
+        <seg>プロジェクト構成物/現在作業中の原文ファイルにアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040735Z" creationid="miurahr" creationdate="20201101T040735Z">
+        <seg>プロジェクト構成物/現在作業中の訳文ファイルへアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040610Z" creationid="miurahr" creationdate="20201101T040610Z">
+        <seg>プロジェクト構成物/辞書にアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040633Z" creationid="miurahr" creationdate="20201101T040633Z">
+        <seg>プロジェクト構成物/用語集にアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Root</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040617Z" creationid="miurahr" creationdate="20201101T040553Z">
+        <seg>プロジェクト構成物/ルートフォルダにアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040644Z" creationid="miurahr" creationdate="20201101T040644Z">
+        <seg>プロジェクト構成物/原文にアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040651Z" creationid="miurahr" creationdate="20201101T040651Z">
+        <seg>プロジェクト構成物/訳文にアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040748Z" creationid="miurahr" creationdate="20201101T040748Z">
+        <seg>プロジェクト構成物/更新可能な用語集にアクセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -9751,6 +9831,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T184414Z">
         <seg>入力補完→用語集...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T041049Z" creationid="miurahr" creationdate="20201101T041049Z">
+        <seg>自動補完/関連性の強い補完候補を自動的に表示する</seg>
       </tuv>
     </tu>
     <tu>
@@ -13279,6 +13367,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141017T080953Z" creationid="Yu-Tang" creationdate="20141017T080826Z">
         <seg>配色設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T041057Z" creationid="miurahr" creationdate="20201101T041057Z">
+        <seg>配色のカスタマイズ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17915,6 +18011,22 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040936Z" creationid="miurahr" creationdate="20201101T040936Z">
+        <seg>用語集/TBX 用語集の説明文を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T041018Z" creationid="miurahr" creationdate="20201101T041018Z">
+        <seg>用語集/用語にステミング（語幹処理）を適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151118T155143Z">
@@ -20526,6 +20638,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T041229Z" creationid="miurahr" creationdate="20201101T041229Z">
+        <seg>OmegaT で &lt;g0&gt;［設定］→［綴り確認...］&lt;/g0&gt; を選び、辞書ファイルフォルダー欄の横にある&lt;g1&gt;［参照...］&lt;/g1&gt;&gt;ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In PCW.GR (in Greek).</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130412T103133Z">
@@ -20571,6 +20691,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141203T023849Z" creationid="Yu-Tang" creationdate="20141203T023849Z">
         <seg>プレーンテキストファイルだけでなく、TBX 形式&lt;i0/&gt;にも対応しています（読み取り専用）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040221Z" creationid="miurahr" creationdate="20201101T040221Z">
+        <seg>TBX形式は、プレーンテキスト形式に加えて、読み取り専用の用語集形式としてもサポートされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32983,6 +33111,46 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Match #1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040827Z" creationid="miurahr" creationdate="20201101T040827Z">
+        <seg>一致#1を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040835Z" creationid="miurahr" creationdate="20201101T040835Z">
+        <seg>一致#2を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040856Z" creationid="miurahr" creationdate="20201101T040856Z">
+        <seg>一致#3を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040847Z" creationid="miurahr" creationdate="20201101T040847Z">
+        <seg>一致#4を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040907Z" creationid="miurahr" creationdate="20201101T040907Z">
+        <seg>一致#5を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Next Match</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T183931Z">
@@ -35036,10 +35204,26 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switch Case To/Cycle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040814Z" creationid="miurahr" creationdate="20201101T040814Z">
+        <seg>大/小文字の切り替え / 循環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T184013Z">
         <seg>大/小文字設定→すべて小文字に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case To/Sentence Case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040756Z" creationid="miurahr" creationdate="20201101T040756Z">
+        <seg>大文字/小文字の切り替え</seg>
       </tuv>
     </tu>
     <tu>
@@ -37633,6 +37817,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T045454Z">
         <seg>場所はどこであってもかまいません。起動時にコマンドライン上で指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040237Z" creationid="miurahr" creationdate="20201101T040237Z">
+        <seg>&lt;f0&gt;.tbx&lt;/f0&gt;ファイルの場所は、&lt;f1&gt;/glossary&lt;/f1&gt;フォルダ内である必要がありますが、さらに深いフォルダ(&lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;など)に置くこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42616,6 +42808,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040953Z" creationid="miurahr" creationdate="20201101T040953Z">
+        <seg>原文中で単語が離れている用語を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140203T124242Z">
@@ -44996,6 +45196,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T134422Z">
         <seg>そのフィルターに扱わせたいファイルに応じて、ファイル名構成例を変更したり追加したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040513Z" creationid="miurahr" creationdate="20201101T040513Z">
+        <seg>ショートカット定義ファイルを&lt;a0&gt;OmegaT&lt;/a0&gt;環境設定フォルダ(メニューから&lt;m1&gt;&lt;g2&gt;設定&lt;/g2&gt;&lt;g3&gt;設定フォルダー&lt;/g3&gt;&lt;/m1&gt;でアクセス可能)に置くと、すでに割り当てられているショートカットを変更したり、新しいショートカットを追加したりできます。</seg>
       </tuv>
     </tu>
     <tu>
