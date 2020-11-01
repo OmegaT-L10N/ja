@@ -10365,6 +10365,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T042720Z" creationid="miurahr" creationdate="20201101T042720Z">
+        <seg>TaaS 用語集をダウンロード...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20170127T231833Z" creationid="Yu-Tang" creationdate="20170127T231833Z">
@@ -11633,6 +11641,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T092515Z" creationid="Yu-Tang" creationdate="20141202T092515Z">
         <seg>&lt;e0&gt;［検索文字列］&lt;/e0&gt;欄のドロップダウンボタンをクリックすると、直近の検索履歴が 10 個まで表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T042538Z" creationid="miurahr" creationdate="20201101T042538Z">
+        <seg>このボタンをクリックして、 &lt;u0&gt;TaaS&lt;/u0&gt; プロジェクト・サイトにアクセスし、ユーザー・アカウントを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19851,10 +19867,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T042527Z" creationid="miurahr" creationdate="20201101T042527Z">
+        <seg>このオプションを選択すると、同じ単語が複数の形式(大文字の有無など)で用語集に存在する場合でも、用語集には1つのエントリのみが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T174424Z">
         <seg>この設定にチェックを入れると、参考訳文を挿入する際に（それが手動でも自動でも）、OmegaT は参考訳文に含まれる数値を、挿入先の原文に照らして変更しようとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T042710Z" creationid="miurahr" creationdate="20201101T042710Z">
+        <seg>このオプションを選択すると、OmegaTはセッション間でアクセスキーを記憶しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20562,6 +20594,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151015T103225Z">
         <seg>用語集の大文字・小文字を無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T042459Z" creationid="miurahr" creationdate="20201101T042459Z">
+        <seg>大文字と小文字が大きく異なる(例:FOO対foo)検出結果を無視</seg>
       </tuv>
     </tu>
     <tu>
@@ -34990,6 +35030,14 @@ https://support.microsoft.com/kb/901125/</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T042646Z" creationid="miurahr" creationdate="20201101T042646Z">
+        <seg>今回だけ記憶する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20170126T093417Z" creationid="suzume" creationdate="20170126T093417Z">
@@ -39879,6 +39927,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T044208Z">
         <seg>現在行われている処理の状態や結果などのフィードバックを知ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T042800Z" creationid="miurahr" creationdate="20201101T042800Z">
+        <seg>このボタンを使用すると、プロジェクトの原文言語および訳文言語に存在するコレクションを参照およびダウンロードできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45623,6 +45679,14 @@ installation by using the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T152626Z">
         <seg>対訳をクリックすると、訳文分節のカーソル位置に対訳が挿入されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T042632Z" creationid="miurahr" creationdate="20201101T042632Z">
+        <seg>あとで、ページ &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;で、アクセスキーを作成することができます。</seg>
       </tuv>
     </tu>
     <tu>
