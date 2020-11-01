@@ -1885,6 +1885,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141717Z" creationid="miurahr" creationdate="20201101T141717Z">
+        <seg>( API キーを使用している場合は、パスワードを空のままにします。 )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T072952Z">
@@ -4672,6 +4680,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="yu-tang" changedate="20150211T164618Z" creationid="yu-tang" creationdate="20150211T164618Z">
         <seg>［設定］-［TAB キーで次の分節へ］がチェックされています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142209Z" creationid="miurahr" creationdate="20201101T142209Z">
+        <seg>&lt;html&gt;&lt;i&gt;［設定］&lt;/i&gt;&amp;gt;&lt;i&gt;全般&lt;/i&gt;&amp;gt;&lt;i&gt;［TAB キーで次の分節へ］&lt;/i&gt;がチェックされています&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8098,6 +8114,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141632Z" creationid="miurahr" creationdate="20201101T141632Z">
+        <seg>APIキー(オプション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122727Z" creationid="amake" creationdate="20170128T122727Z">
@@ -8771,6 +8795,38 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141956Z" creationid="miurahr" creationdate="20201101T141956Z">
+        <seg>アライナー"Accepted"グループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142013Z" creationid="miurahr" creationdate="20201101T142013Z">
+        <seg>アライナー「要レビュー」グループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142017Z" creationid="miurahr" creationdate="20201101T142017Z">
+        <seg>アライナー・ハイライト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142021Z" creationid="miurahr" creationdate="20201101T142021Z">
+        <seg>アライナー・テーブル行の強調表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T143837Z" creationid="amake" creationdate="20170128T143837Z">
@@ -9201,6 +9257,66 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T121723Z" creationid="Yu-Tang" creationdate="20150716T121723Z">
         <seg>選択項目を開く際にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141554Z" creationid="miurahr" creationdate="20201101T141554Z">
+        <seg>フォント変更イベントの処理中にエラーが発生しました。
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141524Z" creationid="miurahr" creationdate="20201101T141524Z">
+        <seg>新規ファイルのイベント処理中にエラーが発生しました :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141434Z" creationid="miurahr" creationdate="20201101T141434Z">
+        <seg>プロジェクト変更イベントの処理中にエラーが発生しました :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141503Z" creationid="miurahr" creationdate="20201101T141503Z">
+        <seg>アプリケーション終了イベントの処理中にエラーが発生しました :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141445Z" creationid="miurahr" creationdate="20201101T141445Z">
+        <seg>アプリケーション起動イベントの処理中にエラーが発生しました:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141549Z" creationid="miurahr" creationdate="20201101T141549Z">
+        <seg>項目のアクティベートイベントの処理中にエラーが発生しました。
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12360,6 +12476,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141623Z" creationid="miurahr" creationdate="20201101T141623Z">
+        <seg>apertium.orgではなくカスタムサーバに接続する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121113T145730Z">
@@ -12820,6 +12944,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T122959Z" creationid="Yu-Tang" creationdate="20150716T122959Z">
         <seg>指定されたフォルダーを作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141559Z" creationid="miurahr" creationdate="20201101T141559Z">
+        <seg>{0}を削除できませんでした</seg>
       </tuv>
     </tu>
     <tu>
@@ -13642,6 +13774,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141627Z" creationid="miurahr" creationdate="20201101T141627Z">
+        <seg>カスタムサーバーURL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom table</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130916T174400Z">
@@ -13758,6 +13898,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T195844Z">
         <seg>参考訳文の更新日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141656Z" creationid="miurahr" creationdate="20201101T141656Z">
+        <seg>DeepL API キーは使用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15694,6 +15842,22 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141651Z" creationid="miurahr" creationdate="20201101T141651Z">
+        <seg>URL が正しいことを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141639Z" creationid="miurahr" creationdate="20201101T141639Z">
+        <seg>サーバのURLが正しいことを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122834Z" creationid="amake" creationdate="20170128T121828Z">
@@ -15942,6 +16106,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141917Z" creationid="miurahr" creationdate="20201101T141917Z">
+        <seg>リモートプロジェクトファイルとして{0}を取得中にエラーが発生しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160638Z">
@@ -15994,6 +16166,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T053809Z" creationid="suzume" creationdate="20200119T053809Z">
         <seg>リポジトリの更新に失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141616Z" creationid="miurahr" creationdate="20201101T141616Z">
+        <seg>MT結果の読み取り中にエラーが発生しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -16372,6 +16552,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130113T015219Z">
         <seg>外部コマンドを実行しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141854Z" creationid="miurahr" creationdate="20201101T141854Z">
+        <seg>スクリプト{0}(イベント{1})を実行しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -17113,6 +17301,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141747Z" creationid="miurahr" creationdate="20201101T141747Z">
+        <seg>フォルダー ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121113T121732Z">
@@ -17840,6 +18036,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130124T150146Z">
         <seg>分節の選択履歴を進む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142231Z" creationid="miurahr" creationdate="20201101T142231Z">
+        <seg>前方-後方</seg>
       </tuv>
     </tu>
     <tu>
@@ -19280,6 +19484,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033410Z" creationid="miurahr" creationdate="20201101T033410Z">
         <seg>私はプロの翻訳者としてtをプロの翻訳者として10年以上使用しており、使いやすさと非常に役に立つフォーラムの恩恵を初期の頃から受けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141710Z" creationid="miurahr" creationdate="20201101T141710Z">
+        <seg>IBM Watson が使用不可です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25125,6 +25337,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141603Z" creationid="miurahr" creationdate="20201101T141603Z">
+        <seg>用語集の一致をマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Needs Review</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142636Z" creationid="amake" creationdate="20170128T142636Z">
@@ -25549,6 +25769,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141730Z" creationid="miurahr" creationdate="20201101T141730Z">
+        <seg>Microsoft Translator Subscription Keyは使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Translator's Client ID or Client Secret not available.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121205T113952Z">
@@ -25649,6 +25877,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T182338Z">
         <seg>分節中での LTR（左から右）と RTL（右から左）文字列の混在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141705Z" creationid="miurahr" creationdate="20201101T141705Z">
+        <seg>モデル ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25809,6 +26045,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T133409Z">
         <seg>もっと具体的に言うと、各フィルターの原文ファイル名構成例から、ファイル名と一致するものを探索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141821Z" creationid="miurahr" creationdate="20201101T141821Z">
+        <seg>MosesサーバのURL:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26222,6 +26466,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141740Z" creationid="miurahr" creationdate="20201101T141740Z">
+        <seg>ニューラル機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140124T105807Z">
@@ -26390,6 +26642,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141758Z" creationid="miurahr" creationdate="20201101T141758Z">
+        <seg>OAuthトークンが指定されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T134242Z">
@@ -26418,6 +26678,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121113T145627Z">
         <seg>未接続。プロジェクトはオフラインモードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141802Z" creationid="miurahr" creationdate="20201101T141802Z">
+        <seg>フォルダIDが指定されていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -26598,6 +26866,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T020522Z" creationid="Yu-Tang" creationdate="20160212T020522Z">
         <seg>なし: GUI を起動します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142234Z" creationid="miurahr" creationdate="20201101T142234Z">
+        <seg>通常</seg>
       </tuv>
     </tu>
     <tu>
@@ -27170,6 +27446,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141941Z" creationid="miurahr" creationdate="20201101T141941Z">
+        <seg>通知 (フラッシュ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141937Z" creationid="miurahr" creationdate="20201101T141937Z">
+        <seg>通知(確定)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T110333Z" creationid="Kasuya" creationdate="20160706T104508Z">
@@ -27278,6 +27570,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>設定(&amp;P)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141750Z" creationid="miurahr" creationdate="20201101T141750Z">
+        <seg>OAuthトークン</seg>
       </tuv>
     </tu>
     <tu>
@@ -30180,6 +30480,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142245Z" creationid="miurahr" creationdate="20201101T142245Z">
+        <seg>ポアソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T121527Z">
@@ -30240,6 +30548,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T045352Z" creationid="miurahr" creationdate="20201101T045352Z">
         <seg>定義済みのテーマを簡単に切り替えられるスクリプトも、付属しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141904Z" creationid="miurahr" creationdate="20201101T141904Z">
+        <seg>定義済みの資格情報が渡されませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33230,6 +33546,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141927Z" creationid="miurahr" creationdate="20201101T141927Z">
+        <seg>検索で見つかったマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T042038Z">
@@ -33242,6 +33566,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130124T032434Z">
         <seg>プロジェクトを検索...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141931Z" creationid="miurahr" creationdate="20201101T141931Z">
+        <seg>検索の置換マーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -34098,6 +34430,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141844Z" creationid="miurahr" creationdate="20201101T141844Z">
+        <seg>スクリプトファイルの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T041830Z" creationid="miurahr" creationdate="20201101T041830Z">
@@ -34302,6 +34642,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140203T121951Z">
         <seg>サーバー（変更後）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141839Z" creationid="miurahr" creationdate="20201101T141839Z">
+        <seg>サーバが"translate"メソッドを認識しない</seg>
       </tuv>
     </tu>
     <tu>
@@ -34951,6 +35299,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T011744Z" creationid="miurahr" creationdate="20201101T011744Z">
         <seg>クラス'{0}'から以前にロードされたプラグインをスキップしています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141920Z" creationid="miurahr" creationdate="20201101T141920Z">
+        <seg>スキップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36005,6 +36361,14 @@ https://support.microsoft.com/kb/901125/</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141722Z" creationid="miurahr" creationdate="20201101T141722Z">
+        <seg>Subscriptionキー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subsequent clicks on  OmegaT.jnlp 
 will check for any upgrades, if you are online, install them if there are any, 
 and then start OmegaT.</seg>
@@ -37039,6 +37403,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141829Z" creationid="miurahr" creationdate="20201101T141829Z">
+        <seg>テスト中 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130531T131939Z">
@@ -37537,6 +37909,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T125418Z" creationid="miurahr" creationdate="20201101T125418Z">
         <seg>Moodle PHP フィルターで例外が発生しました:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141825Z" creationid="miurahr" creationdate="20201101T141825Z">
+        <seg>MosesサーバのURLが設定されていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -39796,6 +40176,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130301T121643Z">
         <seg>サーバーはローカルネットワーク上にも存在できますが、たいていの場合はインターネット上に存在し、URL を指定してアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141646Z" creationid="miurahr" creationdate="20201101T141646Z">
+        <seg>サーバーは有効なApertiumサーバーではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43445,6 +43833,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141635Z" creationid="miurahr" creationdate="20201101T141635Z">
+        <seg>サーバーに接続できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to convert project!</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T083909Z" creationid="Kasuya" creationdate="20160706T083852Z">
@@ -43469,10 +43865,34 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141807Z" creationid="miurahr" creationdate="20201101T141807Z">
+        <seg>IAMサービス応答を解析できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T173354Z">
         <seg>フィルター設定ファイルを読み込めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141816Z" creationid="miurahr" creationdate="20201101T141816Z">
+        <seg>サービスエラーレポートを解析できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141811Z" creationid="miurahr" creationdate="20201101T141811Z">
+        <seg>翻訳サービス応答を解析できません</seg>
       </tuv>
     </tu>
     <tu>
@@ -44162,6 +44582,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141754Z" creationid="miurahr" creationdate="20201101T141754Z">
+        <seg>用語集の用語を使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T154921Z">
@@ -44497,6 +44925,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T130808Z">
         <seg>ユーザー名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141700Z" creationid="miurahr" creationdate="20201101T141700Z">
+        <seg>ユーザー名または API キー:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53688,6 +54124,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140203T124116Z">
         <seg>分節数 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142220Z" creationid="miurahr" creationdate="20201101T142220Z">
+        <seg>{0}は、LTR、RTL、および言語依存の方向を切り替えます。</seg>
       </tuv>
     </tu>
     <tu>
