@@ -559,6 +559,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011409Z" creationid="miurahr" creationdate="20201101T011409Z">
+        <seg>更新の確認(&amp;C)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Choose...</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -1347,6 +1355,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145651Z" creationid="amake" creationdate="20170128T145651Z">
         <seg>マスターパスワードをリセット(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011914Z" creationid="miurahr" creationdate="20201101T011707Z">
+        <seg>設定をリセット(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10293,6 +10309,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T013713Z" creationid="miurahr" creationdate="20201101T013713Z">
+        <seg>デフォルトでは、エディタには2000個の初期セグメントが表示され、上下にスクロールするにつれ、徐々にロードされるゆになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, 512 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T145400Z">
@@ -15271,6 +15295,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011613Z" creationid="miurahr" creationdate="20201101T011613Z">
+        <seg>正規表現の置換中にエラーが発生しました:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130828T094107Z">
@@ -17815,6 +17847,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20170127T232813Z" creationid="Yu-Tang" creationdate="20170127T232813Z">
         <seg>Groovy（Apache ライセンス 2.0）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011618Z" creationid="miurahr" creationdate="20201101T011618Z">
+        <seg>グループ {0} が検索式に存在しません</seg>
       </tuv>
     </tu>
     <tu>
@@ -20401,8 +20441,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="en">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20141114T063908Z" creationid="Yu-Tang" creationdate="20141114T063908Z">
-        <seg>分節化しないプロジェクトの場合、このオプションのチェックを外すことによって、それらの空白文字を保持することができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011928Z" creationid="Yu-Tang" creationdate="20141114T063908Z">
+        <seg>分節化しないプロジェクトの場合、この設定のチェックを外すことによって、それらの空白文字を保持することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24597,6 +24637,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011822Z" creationid="miurahr" creationdate="20201101T011822Z">
+        <seg>Moodle PHPフィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150517T141329Z" creationid="Yu-Tang" creationdate="20150517T141329Z">
@@ -26401,6 +26449,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011527Z" creationid="miurahr" creationdate="20201101T011527Z">
+        <seg>OmegaT には、このフォルダーに対する読み取り権限と書き込み権限がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145638Z" creationid="amake" creationdate="20170128T145638Z">
@@ -26459,8 +26515,8 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       <tuv lang="en">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20121205T102053Z">
-        <seg>OmegaT はオプション「はい」を自動選択しました。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011904Z">
+        <seg>OmegaT は選択肢「はい」を自動選択しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30329,8 +30385,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20141103T180444Z" creationid="Yu-Tang" creationdate="20141103T180444Z">
-        <seg>タグ全体を削除したい場合は、このオプションにチェックを入れなくても、Ctrl+Backspace/Delete か、または全体を選択（Ctrl+Shift+Left/Right）して削除（Delete か Ctrl+X）で削除できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T012028Z" creationid="Yu-Tang" creationdate="20141103T180444Z">
+        <seg>タグ全体を削除したい場合は、このオプシに選択肢を入れなくても、Ctrl+Backspace/Delete か、または全体を選択（Ctrl+Shift+Left/Right）して削除（Delete か Ctrl+X）で削除できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33264,6 +33320,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011744Z" creationid="miurahr" creationdate="20201101T011744Z">
+        <seg>クラス'{0}'から以前にロードされたプラグインをスキップしています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sli&amp;de Masters</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -34476,6 +34540,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011345Z" creationid="miurahr" creationdate="20201101T011345Z">
+        <seg>ビューを {0} および {1} に切り替える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switching to built-in version.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T121537Z" creationid="amake" creationdate="20170128T121445Z">
@@ -35112,6 +35184,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T120817Z" creationid="amake" creationdate="20170128T120817Z">
         <seg>チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011513Z" creationid="miurahr" creationdate="20201101T011513Z">
+        <seg>チームモードリポジトリマッピング</seg>
       </tuv>
     </tu>
     <tu>
@@ -41382,8 +41462,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20141103T175843Z" creationid="Yu-Tang" creationdate="20141103T175843Z">
-        <seg>編集作業中にタグの破損（たとえば部分的な削除）を防ぐには、このオプションのチェックを外しておいてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T012000Z" creationid="Yu-Tang" creationdate="20141103T175843Z">
+        <seg>編集作業中にタグの破損（たとえば部分的な削除）を防ぐには、この選択肢のチェックを外しておいてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41796,6 +41876,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141103T171905Z" creationid="Yu-Tang" creationdate="20141103T171905Z">
         <seg>使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011606Z" creationid="miurahr" creationdate="20201101T011606Z">
+        <seg>n 番目のグループを参照するには $n を使用します</seg>
       </tuv>
     </tu>
     <tu>
@@ -43121,6 +43209,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151115T202020Z" creationid="Yu-Tang" creationdate="20151115T202020Z">
         <seg>正規表現を使う場合の制限として、検索文字列で定義したグループを置換後の文字列内で前方参照できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T011543Z" creationid="miurahr" creationdate="20201101T011543Z">
+        <seg>正規表現を使用する場合、置換文字列は検索文字列で定義されたグループへの参照をサポートします。</seg>
       </tuv>
     </tu>
     <tu>
