@@ -3553,6 +3553,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T053022Z" creationid="miurahr" creationdate="20201101T053022Z">
+        <seg>&lt;自動&gt; は、&lt;a1&gt;OmegaT&lt;/a1&gt; に自動的に判断させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130312T034207Z">
@@ -17235,6 +17243,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052645Z" creationid="miurahr" creationdate="20201101T052645Z">
+        <seg>たとえばデフォルトでは、XHTML フィルターは拡張子 .xhtml のファイルを処理するのに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T174415Z">
@@ -27321,6 +27337,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T053342Z" creationid="miurahr" creationdate="20201101T053342Z">
+        <seg>原文ファイルにエンコーディング宣言があれば、それに従います（HTML ファイル、XML ベースのファイルの場合）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T155212Z">
@@ -27414,6 +27438,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T150731Z">
         <seg>いくつかのファイル形式（Java properties など）に対しては、その形式に必須のエンコーディングを設定します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T053410Z" creationid="miurahr" creationdate="20201101T053410Z">
+        <seg>いくつかのファイル形式（Java properties など）に対しては、その形式に必須のエンコーディングを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34744,6 +34776,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052658Z" creationid="miurahr" creationdate="20201101T052658Z">
+        <seg>原文ファイルと訳文ファイルのエンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T145508Z">
@@ -36208,6 +36248,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T152421Z">
         <seg>訳文ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052940Z" creationid="miurahr" creationdate="20201101T052940Z">
+        <seg>訳文ファイルを出力する際のエンコーディングも、任意に変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39234,6 +39282,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T053010Z" creationid="miurahr" creationdate="20201101T053010Z">
+        <seg>原文ファイルと訳文ファイルのエンコーディングを指定する項目では、対応したすべてのエンコーディングをドロップダウンメニューから選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121013T133752Z">
@@ -39415,6 +39471,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130116T201606Z">
         <seg>OmegaT はタグを灰色で描画するので、見分けるのは簡単です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T053553Z" creationid="miurahr" creationdate="20201101T053553Z">
+        <seg>訳文ファイル名構成例は特別な文法で記述されています。これを編集したい場合は、[&lt;e0&gt;編集...&lt;/e0&gt;]をクリックして構成例編集ダイアログを使用してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42276,6 +42340,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160118T044335Z" creationid="Kasuya" creationdate="20160118T044335Z">
         <seg>訳文ファイルパスは、原文ファイルパスと同じにはできません。{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T053420Z" creationid="miurahr" creationdate="20201101T053420Z">
+        <seg>訳文ファイル名</seg>
       </tuv>
     </tu>
     <tu>
@@ -45844,6 +45916,14 @@ to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T084858Z">
         <seg>ウィンドウの名称部分をドラッグすると、表示位置を変更したり、独立したウィンドウとして表示させることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T052709Z" creationid="miurahr" creationdate="20201101T052709Z">
+        <seg>原文ファイルのエンコーディングを、ファイル名構成例ごとに変更することもできます。</seg>
       </tuv>
     </tu>
     <tu>
