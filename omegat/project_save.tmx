@@ -10973,6 +10973,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054133Z" creationid="miurahr" creationdate="20201101T054003Z">
+        <seg>規則集の名前と言語パターンを、関連する言語とそのコードに変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -19739,6 +19747,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T053850Z" creationid="miurahr" creationdate="20201101T053850Z">
+        <seg>文単位の分節化を選択した場合、分節化規則は、メインメニューの&lt;m4&gt;&lt;g5&gt;［設定］&lt;/g5&gt;&lt;g6&gt;［分節化...］&lt;/g6&gt;&lt;/m4&gt;で設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130304T174135Z">
@@ -20629,6 +20645,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T053709Z" creationid="miurahr" creationdate="20201101T053709Z">
+        <seg>編集内容をそのフィルターの初期値に戻したい時は、［&lt;e1&gt;初期値を復元&lt;/e1&gt;］をクリックしてください。またファイルフィルターダイアログの中で、訳文ファイル名構成例を直接編集することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T111239Z">
@@ -20698,6 +20722,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T202332Z">
         <seg>既存の OmegaT が「Windows with JRE」バージョンの場合は、新しいバージョンも「Windows with JRE」でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054309Z" creationid="miurahr" creationdate="20201101T054309Z">
+        <seg>作成する規則群が、言語-国ペアに対するものである場合、&lt;e1&gt;［上へ］&lt;/e1&gt;ボタンを使って、先頭に移動させておくことをおすすめします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21169,8 +21201,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="en">
         <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20140210T105642Z">
-        <seg>新しい言語コードの正規表現を追加するには、上部の表の横にある&lt;e0&gt;［追加］&lt;/e0&gt;をクリックしてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054112Z">
+        <seg>新しい言語コードの規則集を追加するには、上部の表の横にある&lt;e0&gt;［追加］&lt;/e0&gt;をクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21211,6 +21243,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130304T174106Z">
         <seg>分節化の方法を選択するには、メインメニューから&lt;m1&gt;&lt;g2&gt;&lt;i3/&gt;［プロジェクト］&lt;/g2&gt;&lt;g4&gt;［プロジェクト設定...］&lt;/g4&gt;&lt;/m1&gt;を開き、表示されるチェックボックスを使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T053756Z" creationid="miurahr" creationdate="20201101T053756Z">
+        <seg>分節化の方法を選択するには、メインメニューから&lt;m1&gt;&lt;g2&gt;［プロジェクト］&lt;/g2&gt;&lt;g3&gt;［プロジェクト設定...］&lt;/g3&gt;&lt;/m1&gt;を開き、表示されるチェックボックスを使用してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27265,6 +27305,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054342Z" creationid="miurahr" creationdate="20201101T054342Z">
+        <seg>OmegaT は組み込みの綴り確認機能を備えています。これは Apache OpenOffice や LibreOffice、Firefox、Thunderbird で使われているものと同じ機能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130425T104955Z">
@@ -32049,8 +32097,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Rules</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T122408Z" creationid="amake" creationdate="20170128T122408Z">
-        <seg>ルール</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054519Z" creationid="amake" creationdate="20170128T122408Z">
+        <seg>規則</seg>
       </tuv>
     </tu>
     <tu>
@@ -32963,6 +33011,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054333Z" creationid="miurahr" creationdate="20201101T054333Z">
+        <seg>詳しくは「&lt;l2&gt;正規表現&lt;/l2&gt;」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T154732Z">
@@ -33643,6 +33699,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T140336Z">
         <seg>探している内容（直近だったり、前日の最終だったり）にもっとも近い翻訳メモリのバックアップファイルを選択する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054356Z" creationid="miurahr" creationdate="20201101T054356Z">
+        <seg>言語チェッカーの場所を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -43925,6 +43989,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T180438Z">
         <seg>TRADOS Multiterm の使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054449Z" creationid="miurahr" creationdate="20201101T054449Z">
+        <seg>ローカル・マシン上で、 OmegaT で提供されている言語チェッカーとは異なる言語チェッカーを使用すると、検証ルールを個別設定できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
