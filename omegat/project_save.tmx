@@ -3513,6 +3513,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040151Z" creationid="miurahr" creationdate="20201101T040151Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt;は、プロジェクトを開くと、このフォルダ内の用語集ファイルを自動的に検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130508T161133Z">
@@ -8242,8 +8250,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>Add numbers to all segments, making them all "unique"</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T032354Z" creationid="miurahr" creationdate="20201101T032354Z">
-        <seg>すべてのセグメントに番号を追加して、すべてを「一意」にする</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035321Z" creationid="miurahr" creationdate="20201101T032354Z">
+        <seg>すべての文節に番号を追加して、すべてを「一意」にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -8907,8 +8915,8 @@ OmegaT.exe.</seg>
       <tuv lang="en">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130314T150452Z">
-        <seg>お手軽スタートガイドは、OmegaT の主要機能とその使い方を紹介するもので、OmegaT を起動すると最初に表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040027Z">
+        <seg>お手軽スタートガイドは、OmegaT の主要機能とその使い方を紹介するもので、OmegaT を起動したときにデフォルトで表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10607,8 +10615,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Canceled</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20140607T151644Z">
-        <seg>取り消されました</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035855Z">
+        <seg>取消されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -14326,8 +14334,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="en">
         <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Kasuya" changedate="20130515T055855Z">
-        <seg>取扱説明書については、特に新機能を中心に、未記載であったり、草稿段階の記述を含んだりしています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035733Z">
+        <seg>文書については、特に新機能を中心に、未記載であったり、草稿段階の記述を含んだりしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19733,8 +19741,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T033856Z" creationid="miurahr" creationdate="20201101T033856Z">
-        <seg>もしあなたがすでに一般的なコンピューターにかなり慣れていて、JavascriptやTcl/Tkのような単純なスクリプト言語を選択しているのであれば、簡単ではあるが役に立つスクリプトを、ほんの数週間で書けるように、独学で十分に学ぶことができるでしょう。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035523Z" creationid="miurahr" creationdate="20201101T033856Z">
+        <seg>もしコンピューターにかなり慣れていて、JavascriptやTcl/Tkのような単純なスクリプト言語を利用しているのであれば、簡単で役に立つスクリプトを書けるようになるまで、独学で数週間程度で学ぶことができるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22914,8 +22922,8 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       <tuv lang="en">
         <seg>LF Aligner</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130313T063603Z">
-        <seg>LF Aligner</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035415Z">
+        <seg>LF Alignerr</seg>
       </tuv>
     </tu>
     <tu>
@@ -33794,8 +33802,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Skip segments containing a certain set of characters</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T032310Z" creationid="miurahr" creationdate="20201101T032310Z">
-        <seg>特定の文字セットを含むセグメントをスキップする</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035312Z" creationid="miurahr" creationdate="20201101T032310Z">
+        <seg>特定の文字セットを含む文節をスキップする</seg>
       </tuv>
     </tu>
     <tu>
@@ -35816,6 +35824,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T054841Z" creationid="suzume" creationdate="20200119T054841Z">
         <seg>用語の問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040216Z" creationid="miurahr" creationdate="20201101T040216Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt;が用語集ファイルで検索する現在のセグメント内の用語は、「用語集」ペインに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41114,6 +41130,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T151539Z">
         <seg>この場合は、ターミナルウィンドウ（コンソール）を開き、OmegaT.jar と linux-install.sh スクリプトを含むフォルダーに移動して、./linux-install.sh を実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T040132Z" creationid="miurahr" creationdate="20201101T040132Z">
+        <seg>既存の用語集を使用するには、プロジェクトの作成後に&lt;f0&gt;/glossary&lt;/f0&gt;フォルダに配置します。</seg>
       </tuv>
     </tu>
     <tu>
