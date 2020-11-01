@@ -2633,9 +2633,9 @@ menu, on the desktop and in the quick launch area.</seg>
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T084525Z" creationid="suzume" creationdate="20200119T084509Z">
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T034651Z" creationid="suzume" creationdate="20200119T084509Z">
         <seg>--config-file=&lt;path&gt;
-		デフォルト設定を読み込む元になるJava .propertiesファイルです</seg>
+		デフォルト設定を読み込む元になるJavaの .propertiesファイルです</seg>
       </tuv>
     </tu>
     <tu>
@@ -2940,9 +2940,9 @@ menu, on the desktop and in the quick launch area.</seg>
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T084247Z" creationid="suzume" creationdate="20200119T084247Z">
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T034504Z" creationid="suzume" creationdate="20200119T084247Z">
         <seg>-h, --help
-		使い方に関する情報を表示します</seg>
+		使用法に関する情報を表示します</seg>
       </tuv>
     </tu>
     <tu>
@@ -8026,8 +8026,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T065841Z" creationid="Yu-Tang" creationdate="20160212T035555Z">
-        <seg>Abort: タグが不正な場合、エラー終了します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035141Z" creationid="Yu-Tang" creationdate="20160212T035555Z">
+        <seg>中断: タグが不正な場合、エラー終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12081,8 +12081,8 @@ documentation.</seg>
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T085210Z" creationid="suzume" creationdate="20200119T085210Z">
-        <seg>Console-align mode:
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035036Z" creationid="suzume" creationdate="20200119T085210Z">
+        <seg>コンソール整列モード:
 	--alignDir=&lt;path&gt;
 		訳文ファイルを配置したフォルダーです</seg>
       </tuv>
@@ -12101,8 +12101,8 @@ documentation.</seg>
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T085158Z" creationid="suzume" creationdate="20200119T085158Z">
-        <seg>Console-pseudotranslatetmx mode:
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035108Z" creationid="suzume" creationdate="20200119T085158Z">
+        <seg>コンソール疑似翻訳tmx モード:
 	--pseudotranslatetmx=&lt;path&gt;
 		疑似翻訳した TMX ファイルを出力します</seg>
       </tuv>
@@ -12121,8 +12121,8 @@ documentation.</seg>
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T085152Z" creationid="suzume" creationdate="20200119T085152Z">
-        <seg>Console-translate mode:
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035116Z" creationid="suzume" creationdate="20200119T085152Z">
+        <seg>コンソール翻訳モード:
 	--source-pattern=&lt;pattern&gt;
 		処理する原文ファイルのホワイトリスト用正規表現</seg>
       </tuv>
@@ -24261,6 +24261,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T034251Z" creationid="miurahr" creationdate="20201101T034251Z">
+        <seg>段落区切りをマーク(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z">
@@ -28180,10 +28188,10 @@ happen should you file a bug report.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T084152Z" creationid="suzume" creationdate="20200119T084152Z">
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T034455Z" creationid="suzume" creationdate="20200119T084152Z">
         <seg>オプション：
 	なし: GUI を起動します
-	プロジェクトのパスのみ: GUIを起動して指定されたプロジェクトを開きます
+	プロジェクトのパスのみ: GUIを起動して指定されたプロジェクトを読み込みます。
 	team
 		チームプロジェクトツール</seg>
       </tuv>
@@ -29215,6 +29223,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T121527Z">
         <seg>ポーランド語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T034237Z" creationid="miurahr" creationdate="20201101T034237Z">
+        <seg>Pop 方向フォーマット (PDF U+202C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42458,8 +42474,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20160210T161253Z" creationid="Kasuya" creationdate="20160118T093608Z">
-        <seg>使い方：java -jar OmegaT.jar [&lt;オプション&gt;] [&lt;プロジェクトのパス&gt;]</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T034356Z" creationid="Kasuya" creationdate="20160118T093608Z">
+        <seg>使用法：java -jar OmegaT.jar [&lt;オプション&gt;] [&lt;プロジェクトのパス&gt;]</seg>
       </tuv>
     </tu>
     <tu>
@@ -43467,8 +43483,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T035652Z" creationid="Yu-Tang" creationdate="20160212T035652Z">
-        <seg>Warn: 不正なタグの情報を標準出力に出力します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T035120Z" creationid="Yu-Tang" creationdate="20160212T035652Z">
+        <seg>警告: 不正なタグの情報を標準出力に出力します。</seg>
       </tuv>
     </tu>
     <tu>
