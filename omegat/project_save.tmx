@@ -537,8 +537,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Built-in (LanguageTool {0})</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T122805Z" creationid="amake" creationdate="20170128T122249Z">
-        <seg>同梱バージョン ({0}) を使用(&amp;B)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T031929Z" creationid="amake" creationdate="20170128T122249Z">
+        <seg>内蔵バージョン ({0}) を使用(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30897,8 +30897,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
       </tuv>
-      <tuv lang="ja" changeid="Kasuya" changedate="20130415T033741Z">
-        <seg>Linux、w3m、tcl/tk が必要です（一般に、後 2 者は Linux に同梱）。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T032149Z">
+        <seg>Linuxとw3m、tcl/tk が必要です（一般にこれらは Linux に組みこまれています）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34726,8 +34726,8 @@ and then start OmegaT.</seg>
       <tuv lang="en">
         <seg>Switching to built-in version.</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T121537Z" creationid="amake" creationdate="20170128T121445Z">
-        <seg>同梱されているものが代わりに使用されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T031907Z" creationid="amake" creationdate="20170128T121445Z">
+        <seg>内蔵されているものが代わりに使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37143,6 +37143,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T033359Z">
         <seg>対応しているフォーマット（具体的には DocBook、HTML、XHTML、Open Document Format（ODF）、Office Open XML（MS Office 2007 以降））のテキスト中にある整形情報は OmegaT のなかでタグとして表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T031348Z" creationid="miurahr" creationdate="20201101T031348Z">
+        <seg>組み込まれている JRE は 64 ビットバージョンです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43836,8 +43844,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="en">
         <seg>Windows with JRE</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T005257Z" creationid="miurahr" creationdate="20201101T005257Z">
-        <seg>Windows (JRE同梱)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T032158Z" creationid="miurahr" creationdate="20201101T005257Z">
+        <seg>Windows (JRE付き)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43846,6 +43854,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T005323Z" creationid="miurahr" creationdate="20201101T005323Z">
         <seg>Windows (JREなし)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T032058Z" creationid="miurahr" creationdate="20201101T031323Z">
+        <seg>64-bit JRE付き</seg>
       </tuv>
     </tu>
     <tu>
@@ -43860,7 +43876,7 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="en">
         <seg>With JRE</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130315T084102Z">
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T032049Z">
         <seg>JRE 付き</seg>
       </tuv>
     </tu>
@@ -43892,8 +43908,8 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       <tuv lang="en">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T193533Z">
-        <seg>この方法では、「Windows without JRE」版の方をダウンロードしても構いません。その場合、新しいバージョンは実行時に既存の JRE を使います。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T031440Z">
+        <seg>この方法では、「Windows (JRE無し)」版の方をダウンロードしても構いません。その場合、新しいバージョンは実行時に既存の JRE を使います。</seg>
       </tuv>
     </tu>
     <tu>
