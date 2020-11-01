@@ -4676,6 +4676,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144524Z" creationid="miurahr" creationdate="20201101T144524Z">
+        <seg>&lt;g0&gt;プロジェクト&lt;/g0&gt; &lt;g1&gt;新規...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170201T141943Z" creationid="amake" creationdate="20170201T141943Z">
@@ -8523,6 +8531,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144630Z" creationid="miurahr" creationdate="20201101T144630Z">
+        <seg>新規 OmegaT プロジェクトをバージョン管理システムに追加します ( SVN および Gitを使用して&lt;c0&gt;追加&lt;/c0&gt; ) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20131210T180020Z">
@@ -9854,6 +9870,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T111939Z">
         <seg>翻訳メモリを使ってユーザーが行う翻訳（&lt;a0&gt;OmegaT&lt;/a0&gt; が、そうですが）に対して、機械翻訳（MT）はルールベースや統計ベースの自動翻訳ツールです。翻訳メモリは使いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144422Z" creationid="miurahr" creationdate="20201101T144422Z">
+        <seg>SVN や Git についての情報は、簡単に入手できるため、ここでの作業方法は説明しませんが、 OmegaT がどのように機能するかについてのみ説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13196,6 +13220,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144459Z" creationid="miurahr" creationdate="20201101T144459Z">
+        <seg>リポジトリーのローカル・コピーを作成します (&lt;c0&gt;チェックアウト&lt;/c0&gt; 、 Gitを使用した SVN、 &lt;c1&gt;clone&lt;/c1&gt; を使用 ) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130309T012355Z">
@@ -13204,10 +13236,26 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144515Z" creationid="miurahr" creationdate="20201101T144515Z">
+        <seg>ローカルリポジトリー内に新しい空の OmegaT プロジェクトを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T031750Z">
         <seg>まず、まったく新しくプロジェクトをひとつ作成します。共有したい TMX に合わせて、言語ペアやプロジェクト名を適切に設定します（このあと作成される TMX ファイルには、このプロジェクトの名前が付きます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144451Z" creationid="miurahr" creationdate="20201101T144451Z">
+        <seg>翻訳者がアクセスできるサーバー上に SVN リポジトリーまたは Git リポジトリーを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13328,6 +13376,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T030542Z">
         <seg>特定文書向け翻訳メモリの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144445Z" creationid="miurahr" creationdate="20201101T144445Z">
+        <seg>サーバー上に空のプロジェクトを作成します</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,6 +14114,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T074125Z" creationid="Yu-Tang" creationdate="20141202T074125Z">
         <seg>訳文を空の状態と定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144302Z" creationid="miurahr" creationdate="20201101T144302Z">
+        <seg>プロジェクト固有の外部検索リソースを定義します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15830,6 +15894,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140124T105618Z">
         <seg>OmegaT が直接扱えない多くのファイル形式が、Okapi Framework を介することで翻訳できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T143934Z" creationid="miurahr" creationdate="20201101T143934Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の更新の自動通知を有効にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18550,6 +18622,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T143915Z" creationid="miurahr" creationdate="20201101T143915Z">
+        <seg>使用可能なプラグインのリストにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gives access to the project folders.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T061308Z" creationid="Kasuya" creationdate="20160705T061308Z">
@@ -19179,6 +19259,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T051537Z">
         <seg>正規表現を指定した例：&lt;f1&gt;test\.html&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T143903Z" creationid="miurahr" creationdate="20201101T143903Z">
+        <seg>ここでは、マシン翻訳サービスのログイン詳細およびアクセス・キーを保護するために使用されるマスター・パスワードを再定義できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19839,6 +19927,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T040349Z">
         <seg>システムレベルで Java がインストールされている場合、フルパスを指定する必要はありません。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T143853Z" creationid="miurahr" creationdate="20201101T143853Z">
+        <seg>OmegaT が認証付きプロキシー・サーバーを使用してインターネットにアクセスする必要がある場合は、ここにプロキシー管理者が提供する詳細情報を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20860,6 +20956,14 @@ folder, see the manual for its location).</seg>
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151115T175945Z" creationid="Yu-Tang" creationdate="20151115T175945Z">
+        <seg>たとえば、翻訳の途中で分節化を文単位から段落単位に変更しても、そのプロジェクトの内部翻訳メモリは何も変わりません。OmegaT は段落単位でしか分節化できなかった旧形式の翻訳メモリをアップグレードできますが、その逆はできないのです。ただし OmegaT は、文単位の既存の翻訳を結合して、段落単位の参考訳文を作ることはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144054Z" creationid="miurahr" creationdate="20201101T144054Z">
         <seg>たとえば、翻訳の途中で分節化を文単位から段落単位に変更しても、そのプロジェクトの内部翻訳メモリは何も変わりません。OmegaT は段落単位でしか分節化できなかった旧形式の翻訳メモリをアップグレードできますが、その逆はできないのです。ただし OmegaT は、文単位の既存の翻訳を結合して、段落単位の参考訳文を作ることはできます。</seg>
       </tuv>
     </tu>
@@ -23343,6 +23447,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T183956Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; を RTL モードにすると、原文と訳文の両方が RTL モードで表示される点に留意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144416Z" creationid="miurahr" creationdate="20201101T144416Z">
+        <seg>したがって、プロジェクトマネージャ、プロジェクトリーダー、またはローカリゼーションエンジニアが実施する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27470,6 +27582,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144654Z" creationid="miurahr" creationdate="20201101T144654Z">
+        <seg>注: 手順3でコマンドラインを使用してプロジェクトを作成した場合、この手順はプログラムによって既に実行されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: Items that are found in most applications (copy/cut/paste) are not displayed in this menu, but are available using your system shortcuts.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T163035Z">
@@ -30664,6 +30784,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T143924Z" creationid="miurahr" creationdate="20201101T143924Z">
+        <seg>プラグインは、 OmegaT インストール・フォルダーまたはプラットフォーム固有の OmegaT ユーザー設定フォルダーの下にある &lt;f0&gt;/plugins&lt;/f0&gt; フォルダーにインストールされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T142245Z" creationid="miurahr" creationdate="20201101T142245Z">
@@ -31174,6 +31302,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T143942Z" creationid="miurahr" creationdate="20201101T143942Z">
+        <seg>プロジェクト設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Specific External Search</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150328Z" creationid="amake" creationdate="20170128T150328Z">
@@ -31546,6 +31682,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130411T125228Z">
         <seg>広報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144738Z" creationid="miurahr" creationdate="20201101T144738Z">
+        <seg>サーバー上で新しい OmegaT プロジェクトをパブリッシュします (SVNでは&lt;c0&gt;commit&lt;/c0&gt;、 gitでは&lt;c1&gt;commit&lt;/c1&gt; に続いて&lt;c2&gt;push&lt;/c2&gt; ) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33938,6 +34082,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T143856Z" creationid="miurahr" creationdate="20201101T143856Z">
+        <seg>機密データ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T175825Z">
@@ -34018,6 +34170,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144143Z" creationid="miurahr" creationdate="20201101T144143Z">
+        <seg>分節化規則の詳細については「&lt;l1&gt;分節化設定&lt;/l1&gt;」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1&gt;Tag Validation&lt;/l1&gt; and &lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130312T033151Z">
@@ -34030,6 +34190,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T054333Z" creationid="miurahr" creationdate="20201101T054333Z">
         <seg>詳しくは「&lt;l2&gt;正規表現&lt;/l2&gt;」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144159Z" creationid="miurahr" creationdate="20201101T144159Z">
+        <seg>詳しくは、「 &lt;l3&gt;ファイルフィルターの設定&lt;/l3&gt; 」を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34942,6 +35110,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144346Z" creationid="miurahr" creationdate="20201101T144346Z">
+        <seg>チームプロジェクトを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set up a new project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130113T052047Z">
@@ -34995,6 +35171,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T033436Z" creationid="Yu-Tang" creationdate="20141104T033436Z">
         <seg>更新情報の表示に関するオプション設定です。&lt;e0&gt;［現在の分節で表示］&lt;/e0&gt;を選ぶと、現在の分節を最後に更新した作業者と更新日時の情報を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144407Z" creationid="miurahr" creationdate="20201101T144407Z">
+        <seg>チームプロジェクトをセットアップするには、サーバーと SVN または Git バージョン管理システムに関する知識が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36429,6 +36613,14 @@ https://support.microsoft.com/kb/901125/</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144427Z" creationid="miurahr" creationdate="20201101T144427Z">
+        <seg>ステップ 1: サーバー上に空のプロジェクトを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T143129Z" creationid="amake" creationdate="20170128T143129Z">
@@ -37343,6 +37535,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T152132Z">
         <seg>タジク語（Tajik）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T143910Z" creationid="miurahr" creationdate="20201101T143910Z">
+        <seg>新規パスワードを作成する前に、これらすべての詳細を記録するように注意してください。これらはすべて削除されるため、再入力する必要があるからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41542,6 +41742,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144518Z" creationid="miurahr" creationdate="20201101T144518Z">
+        <seg>これには2つの方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T171240Z">
@@ -41642,6 +41850,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T041334Z" creationid="miurahr" creationdate="20201101T041334Z">
         <seg>このダイアログボックスにアクセスするには、&lt;m0&gt;&lt;g1&gt;[設定]&lt;/g1&gt;&lt;g2&gt;[環境設定...]&lt;/g2&gt;&lt;/m0&gt;を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144015Z" creationid="miurahr" creationdate="20201101T144015Z">
+        <seg>このダイアログボックスにアクセスするには、&lt;m0&gt;&lt;g1&gt;[プロジェクト]&lt;/g1&gt;&lt;g2&gt;[プロジェクト設定...]&lt;/g2&gt;&lt;/m0&gt;を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46194,6 +46410,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T011543Z" creationid="miurahr" creationdate="20201101T011543Z">
         <seg>正規表現を使用する場合、置換文字列は検索文字列で定義されたグループへの参照をサポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144232Z" creationid="miurahr" creationdate="20201101T144232Z">
+        <seg>チームプロジェクトで作業する場合、このウィンドウでリモートフォルダとローカルフォルダ間のマッピングを定義できます(具体例は&lt;l0&gt;ここ&lt;/l0&gt;を参照)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52188,6 +52412,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T183107Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T144621Z" creationid="miurahr" creationdate="20201101T144621Z">
+        <seg>コマンドライン: &lt;c0&gt;java -jar OmegaT.jar team init [原文言語] [訳文言語]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
