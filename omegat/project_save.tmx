@@ -19762,6 +19762,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T013756Z" creationid="miurahr" creationdate="20201101T013756Z">
+        <seg>強力なマシンを使用している場合や、プログレッシブ読み込み時のスクロールバーの動作が気に入らない場合は、この数を増やすことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already Java, one way to install the current version of 
 OmegaT is to use Java Web Start.</seg>
       </tuv>
@@ -35866,6 +35874,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T014137Z" creationid="miurahr" creationdate="20201101T013811Z">
+        <seg>POフィルタはすでに%..を処理しており</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T173834Z">
@@ -43181,6 +43197,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T014030Z" creationid="miurahr" creationdate="20201101T014030Z">
+        <seg>プログラム関連のファイルを翻訳する場合、タグ検証の設定により、プログラミング用の変数（%...）やプレースホルダー({0})の書式も検証することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T094417Z" creationid="Kasuya" creationdate="20160705T094111Z">
@@ -45391,6 +45415,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T103406Z">
         <seg>そして &lt;c0&gt;&lt;キー&gt;&lt;/c0&gt; には、キーボード上で利用可能な任意のキーを指定できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T014317Z" creationid="miurahr" creationdate="20201101T014317Z">
+        <seg>Java™ Resource Bundle フィルターは、 already handles {#} tags, so you only need this for other file types.</seg>
       </tuv>
     </tu>
     <tu>
