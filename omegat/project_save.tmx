@@ -3793,6 +3793,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051403Z" creationid="miurahr" creationdate="20201101T051403Z">
+        <seg>&lt;e0&gt;タグを結合&lt;/e0&gt;：チェックが入っていれば、翻訳対象テキストを含まない連続するタグを１つのタグに結合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T190314Z">
@@ -3899,9 +3907,25 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051053Z" creationid="miurahr" creationdate="20201101T051053Z">
+        <seg>&lt;e0&gt;&lt;meta&gt; タグ内の以下の属性と値は翻訳しない（カンマ区切りで複数指定）：&lt;/e0&gt;ここで指定した &lt;meta&gt; タグは、翻訳されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T184145Z">
+        <seg>&lt;e0&gt;以下の属性と値を持つタグの内容は翻訳しない（カンマ区切りで複数指定）&lt;/e0&gt;：ここでキー＝値の形式で指定したタグは、翻訳されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051154Z" creationid="miurahr" creationdate="20201101T051154Z">
         <seg>&lt;e0&gt;以下の属性と値を持つタグの内容は翻訳しない（カンマ区切りで複数指定）&lt;/e0&gt;：ここでキー＝値の形式で指定したタグは、翻訳されません。</seg>
       </tuv>
     </tu>
@@ -4139,6 +4163,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051458Z" creationid="miurahr" creationdate="20201101T051458Z">
+        <seg>&lt;e0&gt;すべてのタグの空白を維持&lt;/e0&gt;：チェックが入っていれば、空白文字（半角スペースや改行など）を保持します。たとえそれが文書中で意味が無い場合でも残します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e., spaces and newlines) will be preserved, even if not set technically in the document</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T191704Z">
@@ -4243,6 +4275,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051007Z" creationid="miurahr" creationdate="20201101T051007Z">
+        <seg>&lt;e0&gt;以下の正規表現に一致する文字列を翻訳しない：&lt;/e0&gt;指定した正規表現に一致するテキストは、翻訳対象とせずスキップすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T182603Z">
@@ -4255,6 +4295,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141110T234042Z" creationid="Yu-Tang" creationdate="20141110T233859Z">
         <seg>&lt;e0&gt;スペース文字で nbsp も検索&lt;/e0&gt;：検索文字列に入力されたスペース文字を、通常のスペース文字だけでなく、ノーブレークスペース（\u00A）にも一致させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050957Z" creationid="miurahr" creationdate="20201101T050957Z">
+        <seg>&lt;e0&gt;以下のタグで分節化：&lt;/e0&gt; HTML の &lt;br&gt; タグがある場所を段落とみなして分節化することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9614,6 +9662,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T084743Z">
+        <seg>PO ファイルの場合はこれが一般的な状態ですので、この設定はデフォルトで有効になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050921Z" creationid="miurahr" creationdate="20201101T050921Z">
         <seg>PO ファイルの場合はこれが一般的な状態ですので、この設定はデフォルトで有効になっています。</seg>
       </tuv>
     </tu>
@@ -17123,6 +17179,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051317Z" creationid="miurahr" creationdate="20201101T051317Z">
+        <seg>たとえば、&lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; のようなタグは、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T041022Z">
@@ -17439,6 +17503,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
         <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T184858Z">
+        <seg>この例の場合、設定欄は次のようになります：&lt;l1&gt;class=hide, translate=no&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051340Z" creationid="miurahr" creationdate="20201101T051340Z">
         <seg>この例の場合、設定欄は次のようになります：&lt;l1&gt;class=hide, translate=no&lt;/l1&gt;</seg>
       </tuv>
     </tu>
@@ -19607,6 +19679,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T163841Z">
         <seg>もし訳文の一部を選択した状態であれば、その部分を上書きします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050903Z" creationid="miurahr" creationdate="20201101T050903Z">
+        <seg>この設定を有効にすると、未翻訳の PO 分節（たいていは段落全体）を空のままにして訳文ファイルを生成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22418,6 +22498,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051013Z" creationid="miurahr" creationdate="20201101T051013Z">
+        <seg>スキップした箇所は、タグ検証では赤く表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is shown rendered red in the tag validator.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T182925Z">
@@ -22430,6 +22518,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T102330Z">
         <seg>もっとも、&lt;e0&gt;オンライン辞書の URL&lt;/e0&gt; 欄を使って、インターネット上から辞書を探すほうが、簡単かもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051249Z" creationid="miurahr" creationdate="20201101T051249Z">
+        <seg>この設定は、属性の値に応じて特定のタグを翻訳しないようにするのに、役に立つことがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33760,6 +33856,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050814Z" creationid="miurahr" creationdate="20201101T050814Z">
+        <seg>以下のフィルター（テキストファイル、PO ファイル、XHTML ファイル、HTML ファイル・XHTML ファイル、OpenDocument ファイル、Microsoft Open XML ファイル）では、いくつかの専用オプションを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130301T093943Z">
@@ -36374,6 +36478,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051042Z" creationid="miurahr" creationdate="20201101T051042Z">
+        <seg>参考訳文ウィンドウでは、スキップした箇所が原文分節にあると、そのテキストは斜体で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121231T150227Z">
@@ -36870,6 +36982,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T173834Z">
         <seg>PO フィルターの例外が発生しました：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050935Z" creationid="miurahr" creationdate="20201101T050935Z">
+        <seg>この設定にチェックを入れると、PO ヘッダーを翻訳対象外とみなして、原文のままにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40718,6 +40838,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050946Z" creationid="miurahr" creationdate="20201101T050946Z">
+        <seg>この設定にチェックを入れると、PO ファイルのヘッダーにある複数形指定を、訳文言語に合わせて自動変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows the tag validation in a batch mode.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130226T170255Z">
@@ -41485,6 +41613,14 @@ as a Source Forge user.</seg>
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T042047Z">
+        <seg>設定を変更する場合は、フィルターを選択して&lt;e0&gt;［設定...］&lt;/e0&gt; を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050838Z" creationid="miurahr" creationdate="20201101T050838Z">
         <seg>設定を変更する場合は、フィルターを選択して&lt;e0&gt;［設定...］&lt;/e0&gt; を押してください。</seg>
       </tuv>
     </tu>
@@ -45688,6 +45824,14 @@ to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T051329Z" creationid="miurahr" creationdate="20201101T051329Z">
+        <seg>キー＝値の形式で指定して翻訳対象外に設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151121T213633Z">
@@ -48944,6 +49088,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T075632Z">
         <seg>このファイルが存在する場合は、&lt;g0&gt;［プロジェクト］→［プロジェクトの設定...］&lt;/g0&gt;で設定されたプロジェクト専用の分節化規則が含まれています。詳しくは&lt;l1&gt;プロジェクトの設定&lt;/l1&gt;の章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050847Z" creationid="miurahr" creationdate="20201101T050847Z">
+        <seg>文単位の分節化が有効になっている場合は、ここで選択した設定によってさらに分節化されます。</seg>
       </tuv>
     </tu>
     <tu>
