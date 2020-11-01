@@ -7614,6 +7614,24 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T060829Z" creationid="miurahr" creationdate="20201101T060829Z">
+        <seg>OmegaT の日本語版は、以下の貢献者によって作成されました：
+・1.4版全体：柳田 ひさし氏 copyright© 2004
+・1.6版 お手軽スタートガイド：可知 豊氏 copyright© 2006
+・1.6版 UI：林 たかゆき氏 copyright© 2006
+・1.6版 readme：中山 嘉孝氏 copyright© 2006
+・1.6版 ユーザーマニュアル：白方 健太郎氏 copyright© 2006
+・1.6版 全体チェック 横田 邦彦氏
+・1.6版 全体チェック エラリー ジャンクリストフ氏
+・1.6版 全体チェック＋差分翻訳 松谷 善久氏
+・1.8/2.0版 お手軽スタートガイド、UI、readme：エラリー ジャンクリストフ氏 copyright© 2009
+・1.8/2.0版 全体チェック 篠原 範子氏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A Java .properties file from which to load default settings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T070353Z" creationid="Yu-Tang" creationdate="20160212T021338Z">
@@ -22053,6 +22071,16 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061405Z" creationid="miurahr" creationdate="20201101T061405Z">
+        <seg>OmegaT のインストール (Windows)
+=============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T121723Z">
@@ -23833,6 +23861,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061423Z" creationid="miurahr" creationdate="20201101T061423Z">
+        <seg>インストールプログラムを実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launching OmegaT
 Launch OmegaT as follows.</seg>
       </tuv>
@@ -23951,6 +23987,16 @@ Launch OmegaT as follows.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T024234Z">
         <seg>それでも、レベル 2 の TMX ファイルをインポートして、テキスト情報を OmegaT で利用することは可能です。ただし参考訳文の一致率は多少下がるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T060857Z" creationid="miurahr" creationdate="20201101T060857Z">
+        <seg>ライセンス情報
+=====================</seg>
       </tuv>
     </tu>
     <tu>
@@ -27505,6 +27551,16 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T060846Z" creationid="miurahr" creationdate="20201101T060846Z">
+        <seg>OmegaT は、自由に使用できるオープンソースのコンピューター翻訳支援ツールです。参考訳文、翻訳メモリ、キーワード検索、用語集などの機能があり、既存のプロジェクトを更新するための翻訳にも活用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T023400Z">
@@ -27542,6 +27598,18 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T033821Z">
         <seg>OmegaT は、オープンソースのプログラムおよびプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061054Z" creationid="miurahr" creationdate="20201101T061054Z">
+        <seg>OmegaTは、Free Software Foundationが公開しているGNU General Public License Version 3および(任意の)以降のバージョンの
+ライセンス条項の下で利用可能です。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -27768,6 +27836,15 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061313Z" creationid="miurahr" creationdate="20201101T061313Z">
+        <seg>OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 以降があらかじめインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20131221T120041Z">
@@ -27812,6 +27889,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Keiichi Shiraishi">
         <seg>OmegaT トレーニングコース。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061154Z" creationid="miurahr" creationdate="20201101T061154Z">
+        <seg>OmegaT は多くのライブラリを使用しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29911,6 +29996,16 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T155607Z">
         <seg>必要な条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061244Z" creationid="miurahr" creationdate="20201101T061244Z">
+        <seg>OmegaTをインストールするための前提条件
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -38429,6 +38524,17 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061228Z" creationid="miurahr" creationdate="20201101T061228Z">
+        <seg>各ライブラリのライセンスについては、
+/lib/licenses/Licenses.txt
+に記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T185730Z">
@@ -44641,6 +44747,15 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061330Z" creationid="miurahr" creationdate="20201101T061330Z">
+        <seg>JRE の選択や入手、またはインストールにおけるトラブルを回避するため、現在の OmegaT は JRE 付きパッケージが標準で提供されています。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We therefore recommend
 that you download and install either the Oracle Java Runtime Environment (JRE) 
 or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked 
@@ -46214,6 +46329,17 @@ to link it from there.</seg>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141128T130836Z">
         <seg>詳細はこのファイルを参照してください：
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T061114Z" creationid="miurahr" creationdate="20201101T061114Z">
+        <seg>ライセンスのテキストは、
+/docs/OmegaT-license.txt
+を参照してください。.</seg>
       </tuv>
     </tu>
     <tu>
