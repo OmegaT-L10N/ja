@@ -903,6 +903,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142416Z" creationid="miurahr" creationdate="20201101T142416Z">
+        <seg>ダウンロードに移動(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151118T155143Z">
@@ -4700,6 +4708,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142439Z" creationid="miurahr" creationdate="20201101T142439Z">
+        <seg>&lt;html&gt;現在のバージョン: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130113T022120Z">
@@ -4744,6 +4760,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150519T101035Z" creationid="Yu-Tang" creationdate="20150519T101035Z">
         <seg>&lt;html&gt;SVN チームプロジェクトを開いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142446Z" creationid="miurahr" creationdate="20201101T142446Z">
+        <seg>&lt;html&gt;更新チャネル: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10002,6 +10026,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142324Z" creationid="miurahr" creationdate="20201101T142324Z">
+        <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author of the match</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T195825Z">
@@ -10126,6 +10158,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T053749Z">
         <seg>Java properties ファイルの自動整列機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142453Z" creationid="miurahr" creationdate="20201101T142453Z">
+        <seg>更新を自動的に確認する</seg>
       </tuv>
     </tu>
     <tu>
@@ -11372,6 +11412,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142456Z" creationid="miurahr" creationdate="20201101T142456Z">
+        <seg>今すぐ確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Rules</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140604T143351Z">
@@ -11488,6 +11536,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T072350Z">
         <seg>メニュー&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;［プロジェクト］&lt;/g6&gt; &lt;g7&gt;［プロジェクト設定...］&lt;/g7&gt;&lt;/m0&gt;で、辞書フォルダーの場所を確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142651Z" creationid="miurahr" creationdate="20201101T142651Z">
+        <seg>メニュー&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt;&lt;g5&gt;［プロジェクト］&lt;/g5&gt;&lt;g6&gt; ［プロジェクト設定...］&lt;/g6&gt;&lt;/m0&gt;で、辞書フォルダーの場所を確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11768,6 +11824,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T205522Z">
         <seg>チュヴァシ語（Chuvash）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142318Z" creationid="miurahr" creationdate="20201101T142318Z">
+        <seg>クラス</seg>
       </tuv>
     </tu>
     <tu>
@@ -16860,6 +16924,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142423Z" creationid="miurahr" creationdate="20201101T142423Z">
+        <seg>最新バージョン情報の取得に失敗しました:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T155505Z">
@@ -18635,6 +18707,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T174240Z">
         <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142358Z" creationid="miurahr" creationdate="20201101T142358Z">
+        <seg>「設定」 &gt; 「外部検索」を有効にしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22422,6 +22502,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142312Z" creationid="miurahr" creationdate="20201101T142312Z">
+        <seg>インストールされているプラグイン:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="ja" changeid="masa_36">
@@ -23284,6 +23372,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150151Z" creationid="amake" creationdate="20170128T150038Z">
         <seg>アイテムには URL もコマンドもありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142345Z" creationid="miurahr" creationdate="20201101T142345Z">
+        <seg>アイテムに有効範囲がありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -31038,6 +31134,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142330Z" creationid="miurahr" creationdate="20201101T142330Z">
+        <seg>プロジェクトコマンドは、セキュリティ上の理由で無効になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project compiling end</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T134236Z">
@@ -33538,6 +33642,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142307Z" creationid="miurahr" creationdate="20201101T142307Z">
+        <seg>検索 ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Dictionaries</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T031416Z" creationid="suzume" creationdate="20200119T031416Z">
@@ -33614,6 +33726,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T162418Z">
         <seg>必要な言語の組み合わせの辞書を探します。辞書を提供している場所には、たとえば &lt;u0&gt;&lt;i1/&gt;StarDict プラットフォーム&lt;/u0&gt;があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142547Z" creationid="miurahr" creationdate="20201101T142547Z">
+        <seg>必要な言語の組み合わせを探します。辞書を提供している場所には、たとえば &lt;u0&gt;OmegaT Wiki&lt;/u0&gt;があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44302,6 +44422,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142426Z" creationid="miurahr" creationdate="20201101T142426Z">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T164020Z">
@@ -46810,6 +46938,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T171617Z">
         <seg>これは &lt;g4&gt;Ctrl+A&lt;/g4&gt; と &lt;g4&gt;Del&lt;/g4&gt; キーの組み合わせで翻訳入力行をクリアするのと、同じことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T142407Z" creationid="miurahr" creationdate="20201101T142407Z">
+        <seg>既に最新のバージョンを使用しています。</seg>
       </tuv>
     </tu>
     <tu>
