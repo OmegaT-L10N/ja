@@ -4635,6 +4635,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T031136Z" creationid="miurahr" creationdate="20201101T031136Z">
+        <seg>&lt;i1&gt;OmegaT は、 Java ランタイム環境のバージョン 8 を実行できる任意のオペレーティング・システム上にインストールできます。&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T190823Z">
@@ -7360,6 +7368,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160118T043245Z" creationid="Kasuya" creationdate="20160118T042314Z">
         <seg>&lt;r0&gt;注意：&lt;/r0&gt;翻訳対象ファイル一覧ウィンドウが表示されないようにすることができます。それには、ファイル（［設定］→［設定フォルダー］メニューからアクセスできる &lt;f3&gt;omegat.prefs&lt;/f3&gt; 中の &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; を &lt;e2&gt;false&lt;/e2&gt; に設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024238Z" creationid="miurahr" creationdate="20201101T024238Z">
+        <seg>&lt;s1&gt;利点&lt;/s1&gt;:Web Start Web Startバージョンの今後の更新が自動的にコンピュータにインストールされます。&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024248Z" creationid="miurahr" creationdate="20201101T024248Z">
+        <seg>&lt;s3&gt;欠点&lt;/s3&gt;: 現時点では、このバージョンをプラグインと組み合わせて使用することはできないため、すべての機能が使用可能になっているわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16915,6 +16939,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024259Z" creationid="miurahr" creationdate="20201101T024259Z">
+        <seg>Windows システムへのインストール用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130316T021659Z">
@@ -17951,6 +17983,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T105541Z">
         <seg>HTML ファイル・XHTML ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024036Z" creationid="miurahr" creationdate="20201101T024036Z">
+        <seg>HTML版オンライン取扱説明書</seg>
       </tuv>
     </tu>
     <tu>
@@ -19527,6 +19567,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130515T220517Z">
         <seg>適切なバージョンの JRE がインストールされていることを確認済みであれば、JRE 無しの OmegaT 版をダウンロードできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024159Z" creationid="miurahr" creationdate="20201101T024159Z">
+        <seg>ダウンロードするバージョンがわからない場合は、&lt;a0&gt;ダウンロードセレクタ&lt;/a0&gt;を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21265,6 +21313,14 @@ Simply launch the installation program.</seg>
         <seg>OmegaT のインストール
 * Windows ユーザー：
 インストールプログラムを実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024204Z" creationid="miurahr" creationdate="20201101T024204Z">
+        <seg>インストールの種類</seg>
       </tuv>
     </tu>
     <tu>
@@ -27814,6 +27870,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024209Z" creationid="miurahr" creationdate="20201101T024209Z">
+        <seg>オペレーティング・システム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Optionally, you can let &lt;a0&gt;OmegaT&lt;/a0&gt; have an additional tmx file (&lt;a1&gt;OmegaT&lt;/a1&gt;-style) anywhere you specify, containing all translatable segments of the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T074014Z">
@@ -32751,6 +32815,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024142Z" creationid="miurahr" creationdate="20201101T024142Z">
+        <seg>自己学習型オンライントレーニングコース(英語)(有料)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T202609Z">
@@ -35834,6 +35906,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024053Z" creationid="miurahr" creationdate="20201101T024053Z">
+        <seg>OmegaT 標準バージョンの HTML 版取扱説明書です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T050458Z">
@@ -38483,6 +38563,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024016Z" creationid="miurahr" creationdate="20201101T024016Z">
+        <seg>PDF形式のOmegaT取扱説明書です({{ site.data.versions.standard.name }})。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The user manual is an HTML document with links to different chapters.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T092054Z">
@@ -40879,6 +40967,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024109Z" creationid="miurahr" creationdate="20201101T024109Z">
+        <seg>トレーニング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Training course</seg>
       </tuv>
       <tuv lang="ja" changeid="Keiichi Shiraishi">
@@ -42757,6 +42853,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T152544Z">
         <seg>ヴェンダ語（Venda）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T024206Z" creationid="miurahr" creationdate="20201101T024206Z">
+        <seg>バージョン</seg>
       </tuv>
     </tu>
     <tu>
