@@ -19739,6 +19739,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050803Z" creationid="miurahr" creationdate="20201101T050803Z">
+        <seg>このオプションにチェックを入れると、ファイル名は識別に利用されません。複数訳文の識別には、ファイル名以外の文脈情報（前後の分節や、ファイル形式によってはある種の ID）だけが使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the option is off, the source text will be copied to the target segment.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T084905Z">
@@ -20397,6 +20405,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045726Z" creationid="miurahr" creationdate="20201101T045726Z">
+        <seg>OmegaT の中で翻訳したくないファイル形式がある場合は、ファイル形式名の横にあるチェックボックスのチェックを外すと、その形式に対してフィルター機能を使わないようにすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you press 'Cancel', the project will not be converted and will be loaded as a standard local project without team support.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T105439Z" creationid="Kasuya" creationdate="20160706T094052Z">
@@ -20617,6 +20633,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141114T064816Z" creationid="Yu-Tang" creationdate="20141114T064418Z">
+        <seg>複数訳文の識別時にファイルのフルパス情報を無視する：OmegaT は既定で、原文ファイル名を複数訳文の識別基準のひとつに利用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050212Z" creationid="miurahr" creationdate="20201101T050212Z">
         <seg>複数訳文の識別時にファイルのフルパス情報を無視する：OmegaT は既定で、原文ファイル名を複数訳文の識別基準のひとつに利用します。</seg>
       </tuv>
     </tu>
@@ -27644,6 +27668,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045750Z" creationid="miurahr" creationdate="20201101T045750Z">
+        <seg>フィルターを無効にしているファイル形式のファイルは、プロジェクトの読み込み時に無視され、訳文生成時には未変更の状態で訳文フォルダーにコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T175850Z">
@@ -29619,6 +29651,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050135Z" creationid="miurahr" creationdate="20201101T050135Z">
+        <seg>すべてのタグの空白を維持：原文ファイルにとって空白文字がレイアウトに利用されており、それを無視すべきでない場合は、このオプションのチェックを入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -31043,6 +31083,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141112T192502Z" creationid="Yu-Tang" creationdate="20141112T192502Z">
         <seg>先頭と末尾のタグを削除：先頭と末尾のタグを含むすべてのタグを表示したい場合は、この設定のチェックを外してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045932Z" creationid="miurahr" creationdate="20201101T045900Z">
+        <seg>先頭と末尾のタグを削除：文節の先頭と末尾のタグを含むすべてのタグを表示したい場合は、この設定のチェックを外してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37386,6 +37434,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045837Z" creationid="miurahr" creationdate="20201101T045837Z">
+        <seg>ダイアログ上で、次の設定の有効/無効を切り替えることができます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog box allows also to set external Post-processing commands (that are executed after &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T042705Z" creationid="Yu-Tang" creationdate="20141104T042705Z">
@@ -37638,6 +37694,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130520T221721Z">
         <seg>当サイトを地域化しようとする人の便宜のために、当サイトのファイルをパッケージ化したものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045704Z" creationid="miurahr" creationdate="20201101T045704Z">
+        <seg>現在のプロジェクトで使用しているフィルターを太字で示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40147,6 +40211,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045631Z" creationid="miurahr" creationdate="20201101T045631Z">
+        <seg>使用可能なファイルフィルターを一覧表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T091847Z">
@@ -41221,6 +41293,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T082022Z">
         <seg>タググループを複製するには、単に好きな場所にコピーするだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T045822Z" creationid="miurahr" creationdate="20201101T045822Z">
+        <seg>フィルター対象とするファイルやエンコーディングを変更する場合は&lt;e1&gt;［編集...］&lt;/e1&gt;をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44061,6 +44141,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130121T062310Z">
         <seg>警告：不用意にタグ順序を入れ替えると訳文ファイルを開けなくなるおそれがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T050021Z" creationid="miurahr" creationdate="20201101T050021Z">
+        <seg>警告：Microsoft Open XML 形式のファイル（docx や xlsx など）について、すべてのタグを表示した場合は、決して先頭のタグの前にいかなるテキストも入力しないでください（そのタグは技術的な理由で、常に分節の先頭に置かなければなりません）。</seg>
       </tuv>
     </tu>
     <tu>
