@@ -8904,6 +8904,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054844Z" creationid="miurahr" creationdate="20201101T054844Z">
+        <seg>原文と同じ訳文を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T170528Z">
@@ -10661,6 +10669,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054656Z" creationid="miurahr" creationdate="20201101T054656Z">
+        <seg>デフォルトでは、 OmegaT は、プロジェクト固有の設定 ( &lt;f1&gt;omegat&lt;/f1&gt; フォルダー内の &lt;f0&gt;finder.xml&lt;/f0&gt; ファイル ) で指定されたコマンドを実行しません。これは、マシンのセキュリティーに重大な影響を与える可能性があるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it opens automatically with relevant suggestions, but this can be turned off by unchecking &lt;e1&gt;Show Relevant Suggestions Automatically&lt;/e1&gt; option.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160308T150709Z" creationid="Yu-Tang" creationdate="20160308T150709Z">
@@ -10689,6 +10705,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T020617Z">
         <seg>デフォルトでは、&lt;e0&gt;tm&lt;/e0&gt; フォルダーはプロジェクトのルートフォルダーの下（たとえば &lt;e0&gt;MyProject/tm&lt;/e0&gt;）にあります。しかし必要であれば、プロジェクトの設定でその位置を変えてもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T055349Z" creationid="miurahr" creationdate="20201101T055349Z">
+        <seg>デフォルトでは、[&lt;g0&gt;あいまい一致&lt;/g0&gt;]ペインに表示される最も近い一致は、ステミングを使用して決定されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11329,6 +11353,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140604T151704Z">
         <seg>タグの個数の不一致を検査</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054613Z" creationid="miurahr" creationdate="20201101T054613Z">
+        <seg>翻訳しているテキストのタイプに関連しているかどうかに応じて、ルールのマークを設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15455,6 +15487,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054750Z" creationid="miurahr" creationdate="20201101T054750Z">
+        <seg>右クリックメニュー(右クリックメニュー)内のコマンドの順序を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encoded text (*.UTF8)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130212T050723Z">
@@ -17255,6 +17295,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T052645Z" creationid="miurahr" creationdate="20201101T052645Z">
         <seg>たとえばデフォルトでは、XHTML フィルターは拡張子 .xhtml のファイルを処理するのに使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T055056Z" creationid="miurahr" creationdate="20201101T055056Z">
+        <seg>たとえば、[&lt;g1&gt;独自タグの正規表現&lt;/g1&gt;]フィールドに&lt;u0&gt;\d+&lt;/u0&gt;と入力すると、すべての番号がタグとみなされ、変換中に番号が誤って変更されていないことを確認できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21897,6 +21945,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054836Z" creationid="miurahr" creationdate="20201101T054836Z">
+        <seg>原文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T030901Z" creationid="Yu-Tang" creationdate="20141104T030901Z">
@@ -24032,6 +24088,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140310T170127Z">
         <seg>一覧表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T055228Z" creationid="miurahr" creationdate="20201101T055228Z">
+        <seg>ログイン詳細がOmegaTに保管されているプロジェクトのリスト。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26745,6 +26809,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T055211Z" creationid="miurahr" creationdate="20201101T055211Z">
+        <seg>注:これらの2つの命令は、&lt;u0&gt;(&lt;.*?&gt;)(\d+)&lt;/u0&gt;と記述することで組み合わせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121005T103442Z">
@@ -28192,6 +28264,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T143613Z">
         <seg>エンコーディングの指定が必須のファイル形式は限られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054732Z" creationid="miurahr" creationdate="20201101T054732Z">
+        <seg>このオプションは、自分が何をしているかを知っている場合にのみ有効にし、信頼できるソースからのプロジェクトのみを対象にしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31235,6 +31315,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T031159Z" creationid="Yu-Tang" creationdate="20141104T031159Z">
         <seg>訳文を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T055245Z" creationid="miurahr" creationdate="20201101T055245Z">
+        <seg>プロジェクトにアクセスするたびにOmegaTからログインとパスワードの入力を求められるようにするには、このリストからプロジェクトを削除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34308,6 +34396,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130309T013605Z">
         <seg>OmegaT プロジェクトの場合と同様に、言語ペアごとにリポジトリを分けてもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T055155Z" creationid="miurahr" creationdate="20201101T055155Z">
+        <seg>同様に、&lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt;と入力して、ソーステキストに入力された(例えば)HTMLタグが変換時に変更されずに保存されるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41786,6 +41882,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054912Z" creationid="miurahr" creationdate="20201101T054912Z">
+        <seg>これを可能にするには、このオプションを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T102433Z">
@@ -44201,6 +44305,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054806Z" creationid="miurahr" creationdate="20201101T054806Z">
+        <seg>100前後の値を指定すると、コマンドが最上部に表示され、900前後の値を指定すると、コマンドが最下部に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130314T110111Z">
@@ -45878,6 +45990,14 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054928Z" creationid="miurahr" creationdate="20201101T054928Z">
+        <seg>また、タグ検証に関するさまざまなオプションを定義したり、カスタムタグを定義することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T025347Z">
@@ -46517,6 +46637,14 @@ them.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T144547Z" creationid="amake" creationdate="20170128T144547Z">
         <seg>OmegaT を起動するたびに入力を求められます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T054823Z" creationid="miurahr" creationdate="20201101T054823Z">
+        <seg>この変更を有効にするには、 OmegaT を再起動する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
