@@ -11424,6 +11424,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T134621Z" creationid="miurahr" creationdate="20201101T134621Z">
+        <seg>Java の簡単な MessageFormat パターン（{0} など）を確認する(&amp;J)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check simple java MessageFormat patterns</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T161516Z">
@@ -14469,6 +14477,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Options &gt; Machine Translate, if those services are available.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130301T092906Z">
+        <seg>現在の分節について、機械翻訳サービスが提供する翻訳を表示します。［設定］→［機械翻訳］で有効になっているサービスが対象です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T141415Z" creationid="miurahr" creationdate="20201101T141415Z">
         <seg>現在の分節について、機械翻訳サービスが提供する翻訳を表示します。［設定］→［機械翻訳］で有効になっているサービスが対象です。</seg>
       </tuv>
     </tu>
@@ -17928,6 +17944,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T210313Z">
         <seg>フラ語、プラール語（Fula, Fulah, Pulaar, Pular）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T134550Z" creationid="miurahr" creationdate="20201101T134550Z">
+        <seg>すべてを検出する設定にすると、通常のテキストに対しては誤検出をもたらす可能性もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26106,6 +26130,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140330T035756Z">
         <seg>注意事項：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201101T134637Z" creationid="miurahr" creationdate="20201101T134637Z">
+        <seg>注:Java™Resource Bundleフィルタでは、すでに検出されています。</seg>
       </tuv>
     </tu>
     <tu>
