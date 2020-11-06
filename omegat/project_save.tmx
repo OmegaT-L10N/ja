@@ -8515,6 +8515,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232722Z" creationid="miurahr" creationdate="20201106T232722Z">
+        <seg>ワイルドカード(Apache Antスタイル):*,?,**を使用してパターンを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T032339Z" creationid="miurahr" creationdate="20201101T032339Z">
@@ -8935,6 +8943,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T052121Z">
         <seg>言語の構成例について一致する分節化規則は、すべて与えられた優先順で適用されます。したがって、特定の言語のために設定した規則は、デフォルトのものより高い優先順位を与えるほうがよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233121Z" creationid="miurahr" creationdate="20201106T233121Z">
+        <seg>&lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt;のすべての内容は、ローカルのOmegaTプロジェクトにマップされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233102Z" creationid="miurahr" creationdate="20201106T233102Z">
+        <seg>&lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt;のすべての内容がローカルのOmegaTプロジェクトにマップされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9838,6 +9862,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>この場合、すべての設定が初期値となり、
 予期しない挙動が発生する可能性もありますが、動作と
 しては正常です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233014Z" creationid="miurahr" creationdate="20201106T233014Z">
+        <seg>同上</seg>
       </tuv>
     </tu>
     <tu>
@@ -10904,6 +10936,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T143821Z" creationid="miurahr" creationdate="20201101T143821Z">
         <seg>デフォルトでは、 OmegaT は、プロジェクト固有の設定 ( &lt;f0&gt;omegat.project&lt;/f0&gt; ファイル ) で指定されたコマンドを実行しません。これは、マシンのセキュリティーに重大な影響を与える可能性があるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233027Z" creationid="miurahr" creationdate="20201106T233027Z">
+        <seg>既定では、除外されていないすべてのファイルが含まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14118,6 +14158,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233040Z" creationid="miurahr" creationdate="20201106T233040Z">
+        <seg>既定のプロジェクトマッピング:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T112041Z">
@@ -16604,6 +16652,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233036Z" creationid="miurahr" creationdate="20201106T233036Z">
+        <seg>マッピングの例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example of GUI scripting</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140323T050837Z">
@@ -16640,6 +16696,22 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T082204Z">
         <seg>例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233022Z" creationid="miurahr" creationdate="20201106T233022Z">
+        <seg>例:&lt;u0&gt;**/*.docx&lt;/u0&gt;:すべての.docxファイルを、除外されたフォルダ内であっても、プロジェクト内の場所にかかわらず追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232734Z" creationid="miurahr" creationdate="20201106T232734Z">
+        <seg>例:&lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt;は、パスに/excludedfolder/が含まれるファイルと拡張子.txtのファイルを除外します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25553,6 +25625,22 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233147Z" creationid="miurahr" creationdate="20201106T233147Z">
+        <seg>フィルタを使用した、リモート・リポジトリからの追加ソースのマッピング:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233105Z" creationid="miurahr" creationdate="20201106T233105Z">
+        <seg>リポジトリのサブディレクトリにあるプロジェクトのマッピング:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T105118Z" creationid="Kasuya" creationdate="20160706T084146Z">
@@ -26742,6 +26830,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T195707Z">
         <seg>TMX ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232551Z" creationid="miurahr" creationdate="20201106T232551Z">
+        <seg>OmegaTプロジェクトのルートを基準とした、ローカルフォルダまたはファイルの名前。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232610Z" creationid="miurahr" creationdate="20201106T232610Z">
+        <seg>リポジトリのURLを基準にしたリモートフォルダまたはファイルの名前。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28813,6 +28917,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233252Z" creationid="miurahr" creationdate="20201106T233252Z">
+        <seg>OmegaTチームプロジェクトは、最初にサーバー上に&lt;l0&gt;セットアップ&lt;/l0&gt;する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T144616Z">
@@ -29173,6 +29285,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T024810Z">
         <seg>この操作が完了すると、フォルダーは作業コピーとなって、サーバーの最新の状態に同期されます。フォルダーのアイコンの上には、緑色の OK バッジが重なって表示されます。またフォルダーの中には、管理用の .svn フォルダーが作成されています（ただし隠しフォルダーなので、シェルの設定によっては表示されません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233421Z" creationid="miurahr" creationdate="20201106T233421Z">
+        <seg>プロジェクトを開くと、次の点を除いて、チームではないプロジェクトと同様に翻訳をします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32366,6 +32486,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232530Z" creationid="miurahr" creationdate="20201106T232530Z">
+        <seg>翻訳するファイルのリモート・ロケーションまたはディレクトリー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T053749Z" creationid="suzume" creationdate="20200119T053749Z">
@@ -35082,6 +35210,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T202609Z">
         <seg>文単位の分節化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232726Z" creationid="miurahr" creationdate="20201106T232726Z">
+        <seg>異なるパターンはセミコロンで区切ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41918,6 +42054,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232507Z" creationid="miurahr" creationdate="20201106T232507Z">
+        <seg>http(httpsを含む)、svn、git、fileのいずれかです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T171240Z">
@@ -43561,6 +43705,14 @@ script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233255Z" creationid="miurahr" creationdate="20201106T233255Z">
+        <seg>チームプロジェクトを初めて使用する場合は、プロジェクトマネージャの指示に従ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T040132Z" creationid="miurahr" creationdate="20201101T040132Z">
@@ -45154,6 +45306,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T040953Z" creationid="miurahr" creationdate="20201101T040953Z">
         <seg>原文中で単語が離れている用語を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233238Z" creationid="miurahr" creationdate="20201106T233238Z">
+        <seg>チームプロジェクトを使用する</seg>
       </tuv>
     </tu>
     <tu>
@@ -48237,6 +48397,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121013T133200Z">
         <seg>JDK 1.6 を最新バージョンに更新するか、OmegaT の lib フォルダーから jaxb-*.jar ファイルを削除してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233033Z" creationid="miurahr" creationdate="20201106T233033Z">
+        <seg>これを指定する必要があるのは、一部の除外を上書きする場合だけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52072,6 +52240,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232538Z" creationid="miurahr" creationdate="20201106T232538Z">
+        <seg>ローカルマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232556Z" creationid="miurahr" creationdate="20201106T232556Z">
+        <seg>マッピングリポジトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mar</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -53276,6 +53460,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T090557Z">
         <seg>現在の &lt;f0&gt;project_save.tmx&lt;/f0&gt; ファイルの名前を一時的に変更する（たとえば &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232501Z" creationid="miurahr" creationdate="20201106T232501Z">
+        <seg>リポジトリの種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232512Z" creationid="miurahr" creationdate="20201106T232512Z">
+        <seg>リポジトリURL</seg>
       </tuv>
     </tu>
     <tu>
