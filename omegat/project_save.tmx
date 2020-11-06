@@ -11822,8 +11822,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Checking statistics</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201106T230818Z" creationid="miurahr" creationdate="20201106T230818Z">
-        <seg>統計情報のチェック</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231818Z" creationid="miurahr" creationdate="20201106T230818Z">
+        <seg>翻訳情報のチェック</seg>
       </tuv>
     </tu>
     <tu>
@@ -22258,6 +22258,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add (all) files to version-controlled project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232015Z" creationid="miurahr" creationdate="20201106T231950Z">
+        <seg>この場合も手順は同じですが、プロジェクトマネージャはプロジェクトに(すべての)ファイルをバージョン管理に追加するわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T064455Z">
@@ -22810,6 +22818,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T133555Z">
         <seg>お手軽スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232056Z" creationid="miurahr" creationdate="20201106T232056Z">
+        <seg>代わりに、翻訳者はファイル自体をコピーするか、マッピングを追加して他の場所からファイルを同期します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25541,6 +25557,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T105118Z" creationid="Kasuya" creationdate="20160706T084146Z">
         <seg>ローカルフォルダーのリポジトリ内リモートフォルダーへのマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232406Z" creationid="miurahr" creationdate="20201106T232406Z">
+        <seg>マッピングパラメータ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28781,6 +28805,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not (all of) the (source) files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231930Z" creationid="miurahr" creationdate="20201106T231930Z">
+        <seg>OmegaTチームプロジェクトは、複数の翻訳者がproject_save.tmxファイルを共有しますが、(ソース)ファイルの(すべて)は共有しない、異なる方法で設定することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T144616Z">
@@ -31752,8 +31784,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T144738Z" creationid="miurahr" creationdate="20201101T144738Z">
-        <seg>サーバー上で新しい OmegaT プロジェクトをパブリッシュします (SVNでは&lt;c0&gt;commit&lt;/c0&gt;、 gitでは&lt;c1&gt;commit&lt;/c1&gt; に続いて&lt;c2&gt;push&lt;/c2&gt; ) 。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231509Z" creationid="miurahr" creationdate="20201101T144738Z">
+        <seg>サーバー上で新しい OmegaT プロジェクトを共有します (SVNでは&lt;c0&gt;commit&lt;/c0&gt;、 gitでは&lt;c1&gt;commit&lt;/c1&gt; に続いて&lt;c2&gt;push&lt;/c2&gt; ) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38555,8 +38587,8 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       <tuv lang="en">
         <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201106T230947Z" creationid="miurahr" creationdate="20201106T230848Z">
-        <seg>プロジェクトマネージャは、参加した翻訳者と連絡して、統計情報が両側(サーバ側と翻訳者側)で同一になっているか確認する必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231829Z" creationid="miurahr" creationdate="20201106T230848Z">
+        <seg>プロジェクトマネージャは、参加した翻訳者と連絡して、翻訳情報が両側(サーバ側と翻訳者側)で同一になっているか確認する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39904,6 +39936,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The mappings can be added by editing &lt;f0&gt;omegat.project&lt;/f0&gt; or via the UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties&lt;/g3&gt; &lt;g4&gt;Repository Mapping&lt;/g4&gt; &lt;/m1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T232334Z" creationid="miurahr" creationdate="20201106T232209Z">
+        <seg>マッピングは、&lt;f0&gt;omegat.project&lt;/f0&gt;を編集するか、GUI(&lt;m1&gt;&lt;g2&gt;プロジェクト&lt;/g2&gt;&lt;g3&gt;プロジェクト設定&lt;/g3&gt;&lt;g4&gt;リポジトリマッピング&lt;/g4&gt;&lt;/m1&gt;)で追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T061401Z">
@@ -40326,8 +40366,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="en">
         <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201106T231341Z" creationid="miurahr" creationdate="20201106T231341Z">
-        <seg>上記のプロセスでは、プロジェクトマネージャがプロジェクトを完全に制御し、ファイル(および統計)が両方の側(サーバ側と通訳者側)で同一である通常のケースについて説明しています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231850Z" creationid="miurahr" creationdate="20201106T231341Z">
+        <seg>上記のプロセスでは、プロジェクトマネージャがプロジェクトを完全に制御し、ファイル(および翻訳状況)が両方の側(サーバ側と通訳者側)で同一である通常のケースについて説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53466,16 +53506,16 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201106T230659Z" creationid="miurahr" creationdate="20201106T230659Z">
-        <seg>URLへの参照を含む&lt;f0&gt;omegat.project&lt;/f0&gt;ファイルを送信し、それを専用フォルダにコピーしてOmegaTで開くようトランスレータに依頼します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231722Z" creationid="miurahr" creationdate="20201106T230659Z">
+        <seg>URLへの参照を含む&lt;f0&gt;omegat.project&lt;/f0&gt;ファイルを送信し、それを専用フォルダにコピーしてOmegaTで開くよう翻訳者に依頼します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201106T230637Z" creationid="miurahr" creationdate="20201106T230637Z">
-        <seg>プロジェクトの URL を送信し、変換プログラムに &lt;m0&gt; &lt;g1&gt;「プロジェクト」&lt;/g1&gt; &lt;g2&gt;「チーム・プロジェクトのダウンロード」&lt;/g2&gt; &lt;/m0&gt;を使用してローカル・コピーを作成するように依頼します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231712Z" creationid="miurahr" creationdate="20201106T230637Z">
+        <seg>プロジェクトの URL を送信し、翻訳者に &lt;m0&gt; &lt;g1&gt;「プロジェクト」&lt;/g1&gt; &lt;g2&gt;「チーム・プロジェクトのダウンロード」&lt;/g2&gt; &lt;/m0&gt;を使用してローカル・コピーを作成するように依頼します。</seg>
       </tuv>
     </tu>
     <tu>
