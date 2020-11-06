@@ -11820,6 +11820,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T230818Z" creationid="miurahr" creationdate="20201106T230818Z">
+        <seg>統計情報のチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Checks for language errors (style, grammar, etc.).</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T072411Z">
@@ -20547,8 +20555,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T144838Z" creationid="miurahr" creationdate="20201101T144838Z">
-        <seg>プロジェクトで特定のフィルタとセグメント化パラメータを使用する場合は、&lt;f0&gt;filters.xml&lt;/f0&gt;ファイルと&lt;f1&gt;segmentation.conf&lt;/f1&gt;ファイルの両方をバージョン管理システムに追加し、サーバ上でパブリッシュする必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231442Z" creationid="miurahr" creationdate="20201101T144838Z">
+        <seg>プロジェクトで特定のフィルタと分節化パラメータを使用する場合は、&lt;f0&gt;filters.xml&lt;/f0&gt;ファイルと&lt;f1&gt;segmentation.conf&lt;/f1&gt;ファイルの両方をバージョン管理システムに追加し、サーバ上でパブリッシュする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20621,6 +20629,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T060034Z">
         <seg>オプション値「&lt;l2&gt;warn&lt;/l2&gt;」を指定した場合は、タグのエラーがあった場合はエラーを出力して処理を継続します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231044Z" creationid="miurahr" creationdate="20201106T231044Z">
+        <seg>違いがある場合は、&lt;f0&gt;filters.xml&lt;/f0&gt;ファイルと&lt;f1&gt;segmentation.conf&lt;/f1&gt;ファイルがバージョン管理されていることを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21716,6 +21732,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T051858Z">
         <seg>上記以外の値を指定した場合はすべて、タグ検証を行いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T230813Z" creationid="miurahr" creationdate="20201106T230813Z">
+        <seg>どちらの場合も、プロジェクト・マネージャーは、リポジトリーにアクセスする翻訳者の ID とパスワードを通知する必要があります</seg>
       </tuv>
     </tu>
     <tu>
@@ -29121,6 +29145,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T230627Z" creationid="miurahr" creationdate="20201106T230627Z">
+        <seg>プロジェクトがサーバ上で設定されると、プロジェクトマネージャは翻訳者に対して、次の2つの方法のいずれかで作業するように依頼できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130310T140019Z">
@@ -36339,6 +36371,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special case: minimal sharing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231054Z" creationid="miurahr" creationdate="20201106T231054Z">
+        <seg>特殊なケース:最小限の共有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specific behavior can be set up in the file filters.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130213T170321Z">
@@ -36673,6 +36713,14 @@ https://support.microsoft.com/kb/901125/</note>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T143129Z" creationid="amake" creationdate="20170128T143129Z">
         <seg>第 2 段階: 手動で修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T230418Z" creationid="miurahr" creationdate="20201106T230418Z">
+        <seg>ステップ3:翻訳者に招待を送信する</seg>
       </tuv>
     </tu>
     <tu>
@@ -38505,6 +38553,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T230947Z" creationid="miurahr" creationdate="20201106T230848Z">
+        <seg>プロジェクトマネージャは、参加した翻訳者と連絡して、統計情報が両側(サーバ側と翻訳者側)で同一になっているか確認する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141110T043109Z" creationid="Yu-Tang" creationdate="20141110T043109Z">
@@ -40268,6 +40324,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T231341Z" creationid="miurahr" creationdate="20201106T231341Z">
+        <seg>上記のプロセスでは、プロジェクトマネージャがプロジェクトを完全に制御し、ファイル(および統計)が両方の側(サーバ側と通訳者側)で同一である通常のケースについて説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T202849Z">
@@ -40392,6 +40456,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T175519Z">
         <seg>有効な拡張子は、&lt;f1&gt;.txt&lt;/f1&gt; と &lt;f2&gt;.utf8&lt;/f2&gt; です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T230709Z" creationid="miurahr" creationdate="20201106T230709Z">
+        <seg>URL への参照は以下のように指定されます ( Git リポジトリーへの参照 ) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53388,6 +53460,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T090615Z">
         <seg>探している内容ともっとも近い翻訳メモリのバックアップファイルを選択する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T230659Z" creationid="miurahr" creationdate="20201106T230659Z">
+        <seg>URLへの参照を含む&lt;f0&gt;omegat.project&lt;/f0&gt;ファイルを送信し、それを専用フォルダにコピーしてOmegaTで開くようトランスレータに依頼します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T230637Z" creationid="miurahr" creationdate="20201106T230637Z">
+        <seg>プロジェクトの URL を送信し、変換プログラムに &lt;m0&gt; &lt;g1&gt;「プロジェクト」&lt;/g1&gt; &lt;g2&gt;「チーム・プロジェクトのダウンロード」&lt;/g2&gt; &lt;/m0&gt;を使用してローカル・コピーを作成するように依頼します。</seg>
       </tuv>
     </tu>
     <tu>
