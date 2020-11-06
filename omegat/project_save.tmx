@@ -8042,6 +8042,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233900Z" creationid="miurahr" creationdate="20201106T233900Z">
+        <seg>チームプロジェクトは、オフラインで開いて翻訳できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130212T011912Z">
@@ -8579,6 +8587,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233724Z" creationid="miurahr" creationdate="20201106T233724Z">
+        <seg>新しいソースファイルの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T050028Z">
@@ -8931,6 +8947,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233651Z" creationid="miurahr" creationdate="20201106T233651Z">
+        <seg>他のすべてのファイルは、リモートリポジトリ内のファイルに置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145813Z" creationid="amake" creationdate="20170128T145801Z">
@@ -8943,6 +8967,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T052121Z">
         <seg>言語の構成例について一致する分節化規則は、すべて与えられた優先順で適用されます。したがって、特定の言語のために設定した規則は、デフォルトのものより高い優先順位を与えるほうがよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233904Z" creationid="miurahr" creationdate="20201106T233904Z">
+        <seg>すべての変更は、次に接続が使用可能になったときに同期されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T234156Z" creationid="miurahr" creationdate="20201106T234156Z">
+        <seg>&lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt;のすべての内容は、readme.bak以外のすべての*.bakファイルを除き、ローカルのOmegaTプロジェクトのsourceフォルダにマップされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10234,6 +10274,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233426Z" creationid="miurahr" creationdate="20201106T233426Z">
+        <seg>自動保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T142453Z" creationid="miurahr" creationdate="20201101T142453Z">
@@ -11360,6 +11408,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T141327Z">
         <seg>このコマンドを変更するには「引数」を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233848Z" creationid="miurahr" creationdate="20201106T233848Z">
+        <seg>文節化規則またはファイルフィルタの変更</seg>
       </tuv>
     </tu>
     <tu>
@@ -14222,6 +14278,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233810Z" creationid="miurahr" creationdate="20201106T233810Z">
+        <seg>ソースファイルの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150513Z" creationid="amake" creationdate="20170128T150513Z">
@@ -14562,6 +14626,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T023817Z" creationid="Yu-Tang" creationdate="20160212T023817Z">
         <seg>チームプロジェクト機能を無効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233914Z" creationid="miurahr" creationdate="20201106T233914Z">
+        <seg>プロジェクトを開く前にネットワークから切断します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16572,6 +16644,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233435Z" creationid="miurahr" creationdate="20201106T233435Z">
+        <seg>3分ごとに(デフォルトで)、ローカルプロジェクトはリモートリポジトリと同期され、プロジェクトマネージャや他の翻訳者はその期間中に追加された翻訳を表示して使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Every good bug report needs exactly three things.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T013721Z">
@@ -16840,6 +16920,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141854Z" creationid="miurahr" creationdate="20201101T141854Z">
         <seg>スクリプト{0}(イベント{1})を実行しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233807Z" creationid="miurahr" creationdate="20201106T233807Z">
+        <seg>既存のソースファイルは変更できますが、コミット操作は、自動保存の前、およびプロジェクトを再ロードまたは閉じる前に実行する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17433,6 +17521,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20141231T235300Z">
         <seg>それより古い形式の MS Word、Excel、Powerpoint ファイルは、対応する現在のMicrosoft Office 形式、または Office Open XML 形式へ変換したうえで翻訳できます。変換には、Apache OpenOffice や LibreOffice（やはり自由なソフトウェア）を使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233820Z" creationid="miurahr" creationdate="20201106T233820Z">
+        <seg>ファイルは、プロジェクトマネージャが削除する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25104,6 +25200,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file mapping:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T234356Z" creationid="miurahr" creationdate="20201106T234356Z">
+        <seg>ローカルファイルマッピング:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122359Z" creationid="amake" creationdate="20170128T122359Z">
@@ -25633,6 +25737,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T234216Z" creationid="miurahr" creationdate="20201106T234216Z">
+        <seg>Webからの追加ソース・ファイルのマッピング:&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping for projects in a subdirectory of the repository:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233105Z" creationid="miurahr" creationdate="20201106T233105Z">
@@ -25653,6 +25765,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T232406Z" creationid="miurahr" creationdate="20201106T232406Z">
         <seg>マッピングパラメータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping with renaming:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T234321Z" creationid="miurahr" creationdate="20201106T234321Z">
+        <seg>名前変更つきのマッピング:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31726,6 +31846,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233852Z" creationid="miurahr" creationdate="20201106T233852Z">
+        <seg>プロジェクトパラメータは、プロジェクトマネージャが変更する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project path only: Launch GUI and load specified project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T065449Z" creationid="Yu-Tang" creationdate="20160212T020746Z">
@@ -37299,6 +37427,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233527Z" creationid="miurahr" creationdate="20201106T233527Z">
+        <seg>同期ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T160610Z">
@@ -39867,6 +40003,14 @@ in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233522Z" creationid="miurahr" creationdate="20201106T233512Z">
+        <seg>3分の間隔は、&lt;l0&gt;&lt;m1&gt;&lt;g2&gt;[設定]&lt;/g2&gt;&lt;g3&gt;[環境設定]&lt;/g3&gt;&lt;g4&gt;[保存と訳文ファイル生成]&lt;/g4&gt;&lt;/m1&gt;&lt;/l0&gt;で変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T182552Z">
@@ -40664,6 +40808,22 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T025650Z">
         <seg>設定ファイルは、&lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T234337Z" creationid="miurahr" creationdate="20201106T234337Z">
+        <seg>リモートファイル&lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt;は、ローカルファイル&lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;にマップされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T234118Z" creationid="miurahr" creationdate="20201106T234118Z">
+        <seg>リモート・ファイル&lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt;は、ローカル・ファイル&lt;f1&gt;source/Bundle.properties&lt;/f1&gt;にマップされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42617,6 +42777,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T234351Z" creationid="miurahr" creationdate="20201106T234351Z">
+        <seg>これにより、翻訳するファイルの名前を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T182524Z">
@@ -43048,6 +43216,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T052425Z" creationid="miurahr" creationdate="20201101T052425Z">
         <seg>新しいファイルフィルター構成例を追加するには&lt;e1&gt;追加&lt;/e1&gt;ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233727Z" creationid="miurahr" creationdate="20201106T233727Z">
+        <seg>新しいソースファイルを追加するには</seg>
       </tuv>
     </tu>
     <tu>
@@ -43760,6 +43936,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061649Z" creationid="miurahr" creationdate="20201101T061649Z">
         <seg>この場合は、ターミナルウィンドウ（コンソール）を開き、OmegaT.jar と linux-install.sh スクリプトを含むフォルダーに移動して、./linux-install.sh を実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233922Z" creationid="miurahr" creationdate="20201106T233906Z">
+        <seg>オフラインで作業するには：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46878,6 +47062,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233632Z" creationid="miurahr" creationdate="20201106T233632Z">
+        <seg>プロジェクトが自動的に保存されると同時に、2つのファイルのみが実際に同期されます。プロジェクトを開いたとき、閉じたとき、再ロードされたときも同様に同期されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T020712Z">
@@ -47297,6 +47489,14 @@ https://ja.wordpress.org/</note>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T032954Z" creationid="miurahr" creationdate="20201101T032954Z">
         <seg>30を超えるファイル形式での作業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233856Z" creationid="miurahr" creationdate="20201106T233856Z">
+        <seg>オフラインでの作業</seg>
       </tuv>
     </tu>
     <tu>
@@ -53048,6 +53248,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T233947Z" creationid="miurahr" creationdate="20201106T233947Z">
+        <seg>または、コマンドラインで&lt;c0&gt;--no-team&lt;/c0&gt;オプションを使用してプロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ori</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -54626,8 +54834,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T144953Z" creationid="miurahr" creationdate="20201101T144953Z">
-        <seg> &lt;m0&gt; &lt;g1&gt;プロジェクト&lt;/g1&gt; &lt;g2&gt;ソースファイルのコミット&lt;/g2&gt; &lt;/m0&gt;を使用します</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201106T234100Z" creationid="miurahr" creationdate="20201101T144953Z">
+        <seg> &lt;m0&gt; &lt;g1&gt;プロジェクト&lt;/g1&gt; &lt;g2&gt;原文ファイルをコミット&lt;/g2&gt; &lt;/m0&gt;を使用します</seg>
       </tuv>
     </tu>
     <tu>
