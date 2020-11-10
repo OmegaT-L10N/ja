@@ -7573,6 +7573,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015214Z" creationid="miurahr" creationdate="20201110T015125Z">
+        <seg>&lt;s0&gt;Linux ユーザー&lt;/s0&gt;：ほとんどの Linux ディストリビューションは、Java 実行環境を同梱しています。しかし、オープンソース実装の JRE の中には、OmegaT が正常に動作しないものがあります（すぐに明確ではないかもしれません）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T032749Z" creationid="miurahr" creationdate="20201101T032749Z">
@@ -10551,6 +10559,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T180600Z">
         <seg>Base64（パブリックドメイン）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015542Z" creationid="miurahr" creationdate="20201110T015542Z">
+        <seg>お客様の選択に基づいて、次のものを使用するように指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20993,6 +21009,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015525Z" creationid="miurahr" creationdate="20201110T015525Z">
+        <seg>このバージョンが使用できない場合は、&lt;a0&gt;署名のないバージョン&lt;/a0&gt;をダウンロードしてみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If used, neither the user's decision to accept the translation nor the final translation are made available to Google.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T125057Z">
@@ -25569,6 +25593,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015236Z" creationid="miurahr" creationdate="20201110T015236Z">
+        <seg>Mac OS Xには、Gatekeeperと呼ばれる機能があります。この機能を使用すると、署名のないプログラムの実行が困難になるため、セキュリティが向上します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T182044Z">
@@ -28758,6 +28790,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015306Z" creationid="miurahr" creationdate="20201110T015306Z">
+        <seg>OmegaT for Mac OS Xには、署名付きバージョンと署名なしバージョンの両方が用意されています。これらは機能的には同じですが、システムによって既知の開発者によって公開されたものとして認識されるため、署名付きバージョンが推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T054342Z" creationid="miurahr" creationdate="20201101T054342Z">
@@ -29375,6 +29415,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130310T160249Z">
         <seg>OmegaT はそれがチームプロジェクトであることを識別して、デフォルトでは３分ごとにすべて自動で同期します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015513Z" creationid="miurahr" creationdate="20201110T015513Z">
+        <seg>OmegaT は、適正なJRE（Java Runtime Environment）がインストールされた、あるいはインストールできる、すべてのシステム上で動きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36121,6 +36169,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015226Z" creationid="miurahr" creationdate="20201110T015226Z">
+        <seg>署名あり/署名なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130309T013605Z">
@@ -42130,6 +42186,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015314Z" creationid="miurahr" creationdate="20201110T015314Z">
+        <seg>署名されたバージョンの公開が遅れる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T124640Z">
@@ -46279,6 +46343,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Keiichi Shiraishi">
         <seg>ユーザーは、自由にプログラムをダウンロードでき、自由にそれを使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015348Z" creationid="miurahr" creationdate="20201110T015348Z">
+        <seg>急いでいるユーザーは、代わりに署名されていないバージョンを使用できます。アプリケーションの起動に問題がある場合は、&lt;a0&gt;身元不明の開発者からアプリケーションを開く方法&lt;/a0&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54470,6 +54542,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015601Z" creationid="miurahr" creationdate="20201110T015601Z">
+        <seg>何らかのバージョン</seg>
       </tuv>
     </tu>
     <tu>
