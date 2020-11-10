@@ -8533,8 +8533,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>Add numbers to all segments, making them all "unique"</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T035321Z" creationid="miurahr" creationdate="20201101T032354Z">
-        <seg>すべての文節に番号を追加して、すべてを「一意」にする</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124043Z" creationid="miurahr" creationdate="20201101T032354Z">
+        <seg>すべての分節に番号を追加して、すべてを「一意」にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -10587,6 +10587,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124429Z" creationid="miurahr" creationdate="20201108T124429Z">
+        <seg>続行する前に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T174936Z">
@@ -11446,8 +11454,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Changing segmentation rules or file filters</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201106T233848Z" creationid="miurahr" creationdate="20201106T233848Z">
-        <seg>文節化規則またはファイルフィルタの変更</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T123917Z" creationid="miurahr" creationdate="20201106T233848Z">
+        <seg>分節化規則またはファイルフィルタの変更</seg>
       </tuv>
     </tu>
     <tu>
@@ -11886,8 +11894,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T041812Z" creationid="miurahr" creationdate="20201101T041812Z">
-        <seg>未翻訳文節のみを機械翻訳サービスに送信するには、このチェックボックスをオンにします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T123849Z" creationid="miurahr" creationdate="20201101T041812Z">
+        <seg>未翻訳分節のみを機械翻訳サービスに送信するには、このチェックボックスをオンにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14406,6 +14414,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124735Z" creationid="miurahr" creationdate="20201108T124735Z">
+        <seg>詳細な手順</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T042909Z">
@@ -14426,6 +14442,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140605T083133Z">
         <seg>リポジトリの種類を確認中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124852Z" creationid="miurahr" creationdate="20201108T124852Z">
+        <seg>開発版</seg>
       </tuv>
     </tu>
     <tu>
@@ -16630,6 +16654,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T210034Z">
         <seg>エストニア語（Estonian）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124525Z" creationid="miurahr" creationdate="20201108T124525Z">
+        <seg>このソフトウェアは無料ですが、OmegaTが役に立つので、寄付によって謝意を表したい、とお考えの方は、&lt;a0&gt;ペイパルアカウント&lt;/a0&gt;におねがいします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19347,6 +19379,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T064902Z">
         <seg>ハウサ語（Hausa）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124437Z" creationid="miurahr" creationdate="20201108T124437Z">
+        <seg>OmegaTへの寄付を検討したことはありますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23280,8 +23320,8 @@ Simply launch the installation program.</seg>
       <tuv lang="en">
         <seg>Is duplicate</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T142140Z" creationid="amake" creationdate="20170128T142140Z">
-        <seg>重複文節</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T123836Z" creationid="amake" creationdate="20170128T142140Z">
+        <seg>重複分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -23391,6 +23431,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124356Z" creationid="miurahr" creationdate="20201108T124356Z">
+        <seg>また、gitコマンドを使用して取得することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T164320Z">
@@ -23488,10 +23536,26 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124645Z" creationid="miurahr" creationdate="20201108T124645Z">
+        <seg>ある程度の評価試用期間を経ているため、動作は安定しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130212T011841Z">
         <seg>このファイルには、追加情報の入手先や、貢献方法など、OmegaT に関する全般的な内容が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124834Z" creationid="miurahr" creationdate="20201108T124834Z">
+        <seg>標準バージョンよりも新しいバージョンであり、標準バージョンにはない新機能が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23914,8 +23978,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Kasuya" changedate="20140203T005436Z">
-        <seg>取扱説明書については、少なくとも英語版は通常、最新の内容になっています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124718Z">
+        <seg>取扱説明書については、少なくとも英語版は常に最新の内容になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24831,6 +24895,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130316T040539Z">
         <seg>開発版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124756Z" creationid="miurahr" creationdate="20201108T124756Z">
+        <seg>開発版 - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28843,8 +28915,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="en">
         <seg>OmegaT is able to store translations that are identical to the source.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T171544Z">
-        <seg>OmegaT は訳文が原文とまったく同じ状態でも記憶することができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124025Z">
+        <seg>OmegaT は訳文が原文とまったく同じ状態にすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30777,6 +30849,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124402Z" creationid="miurahr" creationdate="20201108T124402Z">
+        <seg>定期ビルドはSourceforgeで入手できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T074407Z">
@@ -30888,6 +30968,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130212T092732Z">
         <seg>プレーンテキストファイルにはテキストのみが含まれます。したがってその翻訳は、単純に対訳を入力していくだけで済みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124722Z" creationid="miurahr" creationdate="20201108T124722Z">
+        <seg>プラットフォーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -32888,8 +32976,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T045932Z" creationid="miurahr" creationdate="20201101T045900Z">
-        <seg>先頭と末尾のタグを削除：文節の先頭と末尾のタグを含むすべてのタグを表示したい場合は、この設定のチェックを外してください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T123903Z" creationid="miurahr" creationdate="20201101T045900Z">
+        <seg>先頭と末尾のタグを削除：分節の先頭と末尾のタグを含むすべてのタグを表示したい場合は、この設定のチェックを外してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34920,8 +35008,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Segment Properties</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T141831Z" creationid="amake" creationdate="20170128T141831Z">
-        <seg>文節属性</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T123824Z" creationid="amake" creationdate="20170128T141831Z">
+        <seg>分節属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -36169,8 +36257,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Skip segments containing a certain set of characters</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T035312Z" creationid="miurahr" creationdate="20201101T032310Z">
-        <seg>特定の文字セットを含む文節をスキップする</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124033Z" creationid="miurahr" creationdate="20201101T032310Z">
+        <seg>特定の文字セットを含む分節をスキップする</seg>
       </tuv>
     </tu>
     <tu>
@@ -36999,6 +37087,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130614T101312Z">
         <seg>標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124704Z" creationid="miurahr" creationdate="20201108T124550Z">
+        <seg>通常版 - {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -38551,6 +38647,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124352Z" creationid="miurahr" creationdate="20201108T124352Z">
+        <seg>「マスター」(アルファ)バージョンは、最新の開発状態を反映しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T192510Z">
@@ -38833,6 +38937,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124815Z" creationid="miurahr" creationdate="20201108T124815Z">
+        <seg>開発版には、Java {{site.data.versions.latest.java_version}}が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140124T105650Z">
@@ -39013,6 +39125,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T125611Z">
         <seg>スペイン語の翻訳は、スロヴェニア語の翻訳よりも高品質です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124654Z" creationid="miurahr" creationdate="20201108T124614Z">
+        <seg>通常版には、Java {{site.data.versions.standard.java_version}}が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44949,6 +45069,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150310Z" creationid="amake" creationdate="20170128T150310Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124534Z" creationid="miurahr" creationdate="20201108T124534Z">
+        <seg>USD &lt;a0&gt;寄付&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55436,6 +55564,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T174907Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124846Z" creationid="miurahr" creationdate="20201108T124846Z">
+        <seg>{% else %} &lt;a0&gt;ダウンロード&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201108T124744Z" creationid="miurahr" creationdate="20201108T124744Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;ダウンロード&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
