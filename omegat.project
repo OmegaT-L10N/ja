@@ -28,10 +28,43 @@
             <repository type="git" url="https://github.com/OmegaT-L10N/ja.git">
                 <mapping local="/" repository="/"/>
             </repository>
-            <repository type="svn" url="https://github.com/omegat-org/omegat.git/trunk/doc_src/en">
-                <mapping local="source/doc_src/" repository="/"/>
-            </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
+                <mapping local="source/doc_src/App_Dictionaries.xml" repository="/doc_src/en/App_Dictionaries.xml"/>
+                <mapping local="source/doc_src/App_Glossaries.xml" repository="/doc_src/en/App_Glossaries.xml"/>
+                <mapping local="source/doc_src/App_Regexp.xml" repository="/doc_src/en/App_Regexp.xml"/>
+                <mapping local="source/doc_src/App_ShortCutCustomization.xml" repository="/doc_src/en/App_ShortCutCustomization.xml"/>
+                <mapping local="source/doc_src/App_Spellchecker.xml" repository="/doc_src/en/App_Spellchecker.xml"/>
+                <mapping local="source/doc_src/Dialogs_Preferences.xml" repository="/doc_src/en/Dialogs_Preferences.xml"/>
+                <mapping local="source/doc_src/Dialogs_ProjectProperties.xml" repository="/doc_src/en/Dialogs_ProjectProperties.xml"/>
+                <mapping local="source/doc_src/HowTo_ManageRTL.xml" repository="/doc_src/HowTo_en/ManageRTL.xml"/>
+                <mapping local="source/doc_src/HowTo_PreventDataLoss.xml" repository="/doc_src/en/HowTo_PreventDataLoss.xml"/>
+                <mapping local="source/doc_src/HowTo_ReuseTM.xml" repository="/doc_src/en/HowTo_ReuseTM.xml"/>
+                <mapping local="source/doc_src/HowTo_SetUpTeamProject.xml" repository="/doc_src/en/HowTo_SetUpTeamProject.xml"/>
+                <mapping local="source/doc_src/HowTo_TranslatePDF.xml" repository="/doc_src/en/HowTo_TranslatePDF.xml"/>
+                <mapping local="source/doc_src/HowTo_UseTeamProject.xml" repository="/doc_src/en/HowTo_UseTeamProject.xml"/>
+                <mapping local="source/doc_src/InstallingAndRunning.xml" repository="/doc_src/en/InstallingAndRunning.xml"/>
+                <mapping local="source/doc_src/InstantStartGuide.xml" repository="/doc_src/en/InstantStartGuide.xml"/>
+                <mapping local="source/doc_src/Menus_Edit.xml" repository="/doc_src/en/Menus_Edit.xml"/>
+                <mapping local="source/doc_src/Menus_GoTo.xml" repository="/doc_src/en/Menus_GoTo.xml"/>
+                <mapping local="source/doc_src/Menus_Help.xml" repository="/doc_src/en/Menus_Help.xml"/>
+                <mapping local="source/doc_src/Menus_Options.xml" repository="/doc_src/en/Menus_Options.xml"/>
+                <mapping local="source/doc_src/Menus_Project.xml" repository="/doc_src/en/Menus_Project.xml"/>
+                <mapping local="source/doc_src/Menus_Tools.xml" repository="/doc_src/en/Menus_Tools.xml"/>
+                <mapping local="source/doc_src/Menus_View.xml" repository="/doc_src/en/Menus_View.xml"/>
+                <mapping local="source/doc_src/OmegaT.css" repository="/doc_src/en/OmegaT.css"/>
+                <mapping local="source/doc_src/OmegaT4_Appendices.xml" repository="/doc_src/en/OmegaT4_Appendices.xml"/>
+                <mapping local="source/doc_src/OmegaT4_EditorsPanes.xml" repository="/doc_src/en/OmegaT4_EditorsPanes.xml"/>
+                <mapping local="source/doc_src/OmegaT4_HowTo.xml" repository="/doc_src/en/OmegaT4_HowTo.xml"/>
+                <mapping local="source/doc_src/OmegaT4_Menus.xml" repository="/doc_src/en/OmegaT4_Menus.xml"/>
+                <mapping local="source/doc_src/OmegaT4_ProjectFolder.xml" repository="/doc_src/en/OmegaT4_ProjectFolder.xml"/>
+                <mapping local="source/doc_src/OmegaT4_Troubleshooting.xml" repository="/doc_src/en/OmegaT4_Troubleshooting.xml"/>
+                <mapping local="source/doc_src/OmegaT4_WindowsAndDialogs.xml" repository="/doc_src/en/OmegaT4_WindowsAndDialogs.xml"/>
+                <mapping local="source/doc_src/OmegaTUsersManual_xinclude full.xml" repository="/doc_src/en/OmegaTUsersManual_xinclude full.xml"/>
+                <mapping local="source/doc_src/Windows_Aligner.xml" repository="/doc_src/en/Windows_Aligner.xml"/>
+                <mapping local="source/doc_src/Windows_ProjectFiles.xml" repository="/doc_src/en/Windows_ProjectFiles.xml"/>
+                <mapping local="source/doc_src/Windows_Scripts.xml" repository="/doc_src/en/Windows_Scripts.xml"/>
+                <mapping local="source/doc_src/Windows_TextReplace.xml" repository="/doc_src/en/Windows_TextReplace.xml"/>
+                <mapping local="source/doc_src/Windows_TextSearch.xml" repository="/doc_src/en/Windows_TextSearch.xml"/>
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
                 <mapping local="source/readme_ja.txt" repository="release/readme.txt"/>
                 <mapping local="source/release/win32-specific/CustomMessages_ja.ini" repository="release/win32-specific/CustomMessages.ini"/>
