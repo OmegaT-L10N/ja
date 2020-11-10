@@ -21437,6 +21437,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015112Z" creationid="miurahr" creationdate="20201110T015112Z">
+        <seg>JRE をインストール済みのコンピューターに、JRE 付きの OmegaT をインストールしても問題はありません。OmegaT 用の JRE は、既存の JRE とは別の場所にインストールされ、特に衝突は起こしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T031237Z">
@@ -24901,8 +24909,8 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       <tuv lang="en">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T124756Z" creationid="miurahr" creationdate="20201108T124756Z">
-        <seg>開発版 - {{site.data.versions.latest.name}}</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T014401Z" creationid="miurahr" creationdate="20201108T124756Z">
+        <seg>最新版 - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31390,6 +31398,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033029Z" creationid="miurahr" creationdate="20201101T033029Z">
         <seg>強力なツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T014835Z" creationid="miurahr" creationdate="20201110T014835Z">
+        <seg>ビルド済みバイナリは、Nightly Buildsとして利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38657,6 +38673,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T014906Z" creationid="miurahr" creationdate="20201110T014815Z">
+        <seg>「master」バージョンは最先端の「アルファ」バージョンで開発中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T192510Z">
@@ -38941,16 +38965,16 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       <tuv lang="en">
         <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T124815Z" creationid="miurahr" creationdate="20201108T124815Z">
-        <seg>開発版には、Java {{site.data.versions.latest.java_version}}が必要です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T014614Z" creationid="miurahr" creationdate="20201108T124815Z">
+        <seg>最新版には、Java {{site.data.versions.latest.java_version}}が必要です。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20140124T105650Z">
-        <seg>開発版はたいていの場合、じゅうぶん使用に耐えるていどには安定しています。けれども、いくつかバグが残っているかもしれません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T014634Z">
+        <seg>最新版はたいていの場合、じゅうぶん使用に耐えるていどには安定しています。けれども、いくつかバグが残っているかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46277,8 +46301,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Kasuya" changedate="20140203T005619Z">
-        <seg>OmegaT をあるていど長く使っているユーザーは、開発版を選ぶことがよくあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T014644Z">
+        <seg>OmegaT をあるていど長く使っているユーザーは、最新版を選ぶことがよくあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48713,6 +48737,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20131116T174351Z">
         <seg>また&lt;g0&gt;［ツール］&lt;/g0&gt;メニューからスクリプトを選んだり、割り当てられたショートカットキー &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt;（# は 1 から 12）を使うことでも、同じようにスクリプトを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201110T015041Z" creationid="miurahr" creationdate="20201110T015041Z">
+        <seg> &lt;a0&gt;新版に置き換えられた古いバージョン&lt;/a0&gt;  のOmegaTを引き続き入手できます。</seg>
       </tuv>
     </tu>
     <tu>
