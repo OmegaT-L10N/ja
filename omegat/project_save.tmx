@@ -8,16 +8,16 @@
       <tuv lang="en">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T035053Z">
-        <seg>「Aligner」整列ユーティリティ</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081901Z">
+        <seg>「Aligner」整合ユーティリティ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Bligner" aligner utility</seg>
       </tuv>
-      <tuv lang="ja" changeid="kasuya" changedate="20130520T220024Z">
-        <seg>「Bligner」整列ユーティリティ</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081908Z">
+        <seg>「Bligner」整合ユーティリティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -375,8 +375,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="ja" changeid="Kasuya" changedate="20160706T083447Z" creationid="Kasuya" creationdate="20160706T083447Z">
-        <seg>ファイルの整列(&amp;A)...</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081839Z" creationid="Kasuya" creationdate="20160706T083447Z">
+        <seg>整合ツール(&amp;A)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9035,8 +9035,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T061748Z" creationid="miurahr" creationdate="20201115T061748Z">
-        <seg>これらの操作をいくつか行った後、[&lt;m0&gt;&lt;g1&gt;編集&lt;/g1&gt;&lt;g2&gt;再位置合わせ保留中&lt;/g2&gt;&lt;/m0&gt;]を選択して、他のセグメントの位置合わせを更新します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081758Z" creationid="miurahr" creationdate="20201115T061748Z">
+        <seg>これらの操作をいくつか行った後、[&lt;m0&gt;&lt;g1&gt;編集&lt;/g1&gt;&lt;g2&gt;再整合保留中&lt;/g2&gt;&lt;/m0&gt;]を選択して、他のセグメントの整合を更新します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9163,80 +9163,80 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>Align</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T142938Z" creationid="amake" creationdate="20170128T142938Z">
-        <seg>整列</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081846Z" creationid="amake" creationdate="20170128T142938Z">
+        <seg>整合</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Align Files</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T034845Z" creationid="Kasuya" creationdate="20160706T104545Z">
-        <seg>対訳集位置あわせ</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081414Z" creationid="Kasuya" creationdate="20160706T104545Z">
+        <seg>整合ツール</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Align Files...</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T055327Z" creationid="miurahr" creationdate="20201115T055327Z">
-        <seg>対訳集位置あわせ...</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081539Z" creationid="miurahr" creationdate="20201115T055327Z">
+        <seg>整合ツール...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
-      <tuv lang="ja" changeid="Kasuya" changedate="20160706T110845Z">
-        <seg>{0} に対してプロジェクトを整列する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081311Z">
+        <seg>{0} に対してプロジェクトを整合する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T031110Z" creationid="miurahr" creationdate="20201115T024434Z">
-        <seg>対訳集位置あわせツール</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081637Z" creationid="miurahr" creationdate="20201115T024434Z">
+        <seg>整合ツール</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T034824Z" creationid="miurahr" creationdate="20201101T141956Z">
-        <seg>対訳集位置あわせ「確認済」グループ</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081320Z" creationid="miurahr" creationdate="20201101T141956Z">
+        <seg>整合「確認済」グループ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T034902Z" creationid="miurahr" creationdate="20201101T142013Z">
-        <seg>対訳集位置あわせ「要レビュー」グループ</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081331Z" creationid="miurahr" creationdate="20201101T142013Z">
+        <seg>整合「要レビュー」グループ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T034912Z" creationid="miurahr" creationdate="20201101T142017Z">
-        <seg>対訳集位置あわせハイライト</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081337Z" creationid="miurahr" creationdate="20201101T142017Z">
+        <seg>整合ハイライト</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T034921Z" creationid="miurahr" creationdate="20201101T142021Z">
-        <seg>対訳集位置あわせテーブル行の強調表示</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081356Z" creationid="miurahr" creationdate="20201101T142021Z">
+        <seg>整合テーブル行の強調表示</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T031120Z" creationid="miurahr" creationdate="20201115T024453Z">
-        <seg>対訳集位置あわせツールでは、翻訳済みの単一言語の文書から二か国語の翻訳メモリを作成します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081645Z" creationid="miurahr" creationdate="20201115T024453Z">
+        <seg>整合ツールでは、翻訳済みの単一言語の文書から二か国語の翻訳メモリを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9901,8 +9901,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="ja" changeid="kasuya" changedate="20140123T084431Z">
-        <seg>過去資産の原文とその訳文から翻訳メモリファイルを生成する、高度なコマンドライン整列ツール。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081947Z">
+        <seg>過去資産の原文とその訳文から翻訳メモリファイルを生成する、高度なコマンドライン整合ツール。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11612,8 +11612,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Cancel Pinpoint Align</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T142904Z" creationid="amake" creationdate="20170128T142904Z">
-        <seg>ピンポイント整列をキャンセル</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081447Z" creationid="amake" creationdate="20170128T142904Z">
+        <seg>ピンポイント整合をキャンセル</seg>
       </tuv>
     </tu>
     <tu>
@@ -13334,8 +13334,8 @@ documentation.</seg>
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T035036Z" creationid="suzume" creationdate="20200119T085210Z">
-        <seg>コンソール整列モード:
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081252Z" creationid="suzume" creationdate="20200119T085210Z">
+        <seg>コンソール整合モード:
 	--alignDir=&lt;path&gt;
 		訳文ファイルを配置したフォルダーです</seg>
       </tuv>
@@ -16842,8 +16842,8 @@ several security warnings.</seg>
       <tuv lang="en">
         <seg>End Pinpoint Align</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T142901Z" creationid="amake" creationdate="20170128T142901Z">
-        <seg>ピンポイント整列を終了</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081440Z" creationid="amake" creationdate="20170128T142901Z">
+        <seg>ピンポイント整合を終了</seg>
       </tuv>
     </tu>
     <tu>
@@ -18973,6 +18973,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081548Z" creationid="miurahr" creationdate="20201115T081548Z">
+        <seg>たとえば、プロジェクトがENからFRの場合、&lt;f1&gt;alignDir&lt;/f1&gt;には&lt;l2&gt;_fr&lt;/l2&gt;で終わるバンドルを含める必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T015212Z">
@@ -19488,8 +19496,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="ja" changeid="kasuya" changedate="20130329T143630Z">
-        <seg>過去資産の原文とその訳文から翻訳メモリファイルを生成する GUI 整列ツール。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081914Z">
+        <seg>過去資産の原文とその訳文から翻訳メモリファイルを生成する GUI 整合ツール。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21553,8 +21561,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T061608Z" creationid="miurahr" creationdate="20201115T061608Z">
-        <seg>位置合わせが改善できるように見える場合は、パラメータを変更してみてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081714Z" creationid="miurahr" creationdate="20201115T061608Z">
+        <seg>整合が改善できるように見える場合は、パラメータを変更してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23586,8 +23594,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="en">
         <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T045732Z" creationid="miurahr" creationdate="20201115T045732Z">
-        <seg>このモードでは、OmegTは、プロジェクトの&lt;f0&gt;/source/&lt;/f0&gt;フォルダにあるファイルを、指定された場所にあるコンテンツで対訳集の位置あわせをします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T082024Z" creationid="miurahr" creationdate="20201115T045732Z">
+        <seg>このモードでは、OmegTは、プロジェクトの&lt;f0&gt;/source/&lt;/f0&gt;フォルダにあるファイルを、指定された場所にあるコンテンツで対訳集の整合をします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32347,8 +32355,8 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       <tuv lang="en">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T143151Z" creationid="amake" creationdate="20170128T143151Z">
-        <seg>ピンポイント整列: 対のセルを選択</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081454Z" creationid="amake" creationdate="20170128T143151Z">
+        <seg>ピンポイント整合: 対のセルを選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -33960,8 +33968,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Realign Pending</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T142739Z" creationid="amake" creationdate="20170128T142721Z">
-        <seg>未確定項目を再整列</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081430Z" creationid="amake" creationdate="20170128T142721Z">
+        <seg>未確定項目を再整合</seg>
       </tuv>
     </tu>
     <tu>
@@ -35696,8 +35704,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Save Alignment Results</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T143242Z" creationid="amake" creationdate="20170128T143242Z">
-        <seg>整列結果を保存</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081854Z" creationid="amake" creationdate="20170128T143242Z">
+        <seg>整合結果を保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -37136,8 +37144,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T055337Z" creationid="miurahr" creationdate="20201115T055337Z">
-        <seg>位置合わせする2つのファイル(ソースファイルとその変換)を選択し、[OK]をクリックして、&lt;l0&gt;&lt;g1&gt;[位置合わせ]&lt;/g1&gt;ウィンドウ&lt;/l0&gt;を開きます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T082054Z" creationid="miurahr" creationdate="20201115T055337Z">
+        <seg>整合する2つのファイル(ソースファイルとその変換)を選択し、[OK]をクリックして、&lt;l0&gt;&lt;g1&gt;[整合ツール]&lt;/g1&gt;ウィンドウ&lt;/l0&gt;を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38097,8 +38105,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Some alignments still need review.</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T143519Z" creationid="amake" creationdate="20170128T143519Z">
-        <seg>一部の整列ペアは“要チェック”とされています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081513Z" creationid="amake" creationdate="20170128T143519Z">
+        <seg>一部の整合ペアは“要チェック”とされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38829,8 +38837,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Start Pinpoint Align</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T142855Z" creationid="amake" creationdate="20170128T142855Z">
-        <seg>ピンポイント整列を開始</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081436Z" creationid="amake" creationdate="20170128T142855Z">
+        <seg>ピンポイント整合を開始</seg>
       </tuv>
     </tu>
     <tu>
@@ -38927,16 +38935,16 @@ https://support.microsoft.com/kb/901125/</note>
       <tuv lang="en">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T143101Z" creationid="amake" creationdate="20170128T143101Z">
-        <seg>第 1 段階: 整列パラメータを調節</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081500Z" creationid="amake" creationdate="20170128T143101Z">
+        <seg>第 1 段階: 整合パラメータを調節</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Step 1: Adjust the alignment parameters</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T061605Z" creationid="miurahr" creationdate="20201115T061605Z">
-        <seg>手順1:位置合わせパラメータを調整する</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081722Z" creationid="miurahr" creationdate="20201115T061605Z">
+        <seg>手順1:整合パラメータを調整する</seg>
       </tuv>
     </tu>
     <tu>
@@ -42996,6 +43004,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081628Z" creationid="miurahr" creationdate="20201115T081628Z">
+        <seg>得られたTMXは、&lt;f3&gt;omegat&lt;/f3&gt;フォルダーに&lt;f4&gt;align.tmx&lt;/f4&gt;&gt;という名前で保存される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The resulting tmx is stored in the &lt;l1&gt;omegat &lt;/l1&gt;folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T064421Z">
@@ -43327,8 +43343,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="en">
         <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T055354Z" creationid="miurahr" creationdate="20201115T055354Z">
-        <seg>ソースファイルとターゲットファイルの形式は異なる場合があります(たとえば、&lt;f0&gt;.docx&lt;/f0&gt;ファイルは&lt;f1&gt;.pdf&lt;/f1&gt;ファイルと位置合わせできます)。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T082059Z" creationid="miurahr" creationdate="20201115T055354Z">
+        <seg>ソースファイルとターゲットファイルの形式は異なる場合があります(たとえば、&lt;f0&gt;.docx&lt;/f0&gt;ファイルは&lt;f1&gt;.pdf&lt;/f1&gt;ファイルと整合できます)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45630,8 +45646,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="en">
         <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T031218Z" creationid="miurahr" creationdate="20201115T025009Z">
-        <seg>このウィンドウにアクセスするには、&lt;m0&gt;&lt;g1&gt;[ツール]&lt;/g1&gt;&lt;g2&gt;[ファイルから対訳集を位置あわせ...]&lt;/g2&gt;&lt;/m0&gt;を選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081654Z" creationid="miurahr" creationdate="20201115T025009Z">
+        <seg>このウィンドウにアクセスするには、&lt;m0&gt;&lt;g1&gt;[ツール]&lt;/g1&gt;&lt;g2&gt;[整合ツール...]&lt;/g2&gt;&lt;/m0&gt;を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48048,8 +48064,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T061649Z" creationid="miurahr" creationdate="20201115T061649Z">
-        <seg>Key=Value テキストを位置合わせするには、&lt;g0&gt;ID比較&lt;/g0&gt;モードを使用します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081741Z" creationid="miurahr" creationdate="20201115T061649Z">
+        <seg>Key=Value テキストを整合するには、&lt;g0&gt;ID比較&lt;/g0&gt;モードを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49537,8 +49553,8 @@ you have just discovered.</seg>
       <tuv lang="en">
         <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T061825Z" creationid="miurahr" creationdate="20201115T061825Z">
-        <seg>2つの列が十分に整列したら、&lt;g0&gt;[TMXを保存...]&lt;/g0&gt;をクリックして翻訳メモリを作成します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081957Z" creationid="miurahr" creationdate="20201115T061825Z">
+        <seg>2つの列が十分に整合したら、&lt;g0&gt;[TMXを保存...]&lt;/g0&gt;をクリックして翻訳メモリを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49849,8 +49865,8 @@ you have just discovered.</seg>
       <tuv lang="en">
         <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T045854Z" creationid="miurahr" creationdate="20201115T045753Z">
-        <seg>対訳位置合わせに使用するファイルは、ファイルフィルタでサポートされているかどうかによって異なります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T081526Z" creationid="miurahr" creationdate="20201115T045753Z">
+        <seg>整合に使用するファイルは、ファイルフィルタでサポートされているかどうかによって異なります。</seg>
       </tuv>
     </tu>
     <tu>
