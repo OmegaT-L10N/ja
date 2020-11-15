@@ -8,7 +8,7 @@
       <tuv lang="en">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
-      <tuv lang="ja" changeid="kasuya" changedate="20130520T215957Z">
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T035053Z">
         <seg>「Aligner」整列ユーティリティ</seg>
       </tuv>
     </tu>
@@ -130,6 +130,28 @@
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T065513Z">
         <seg>正規表現「\s」は任意の空白文字（スペース、タブ、改行など）を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T035944Z" creationid="miurahr" creationdate="20201115T035944Z">
+        <seg>#OmegaT.exeランタイム構成
+#パラメータを使用するには、'-'の前にある'#'を削除します。
+#メモリ
+(Xmx1024M)。
+#言語
+-Duser.language=JA
+#国
+-Duser.country=JP</seg>
       </tuv>
     </tu>
     <tu>
@@ -8893,8 +8915,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>Align Files</seg>
       </tuv>
-      <tuv lang="ja" changeid="Kasuya" changedate="20160706T104545Z" creationid="Kasuya" creationdate="20160706T104545Z">
-        <seg>ファイルの整列</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T034845Z" creationid="Kasuya" creationdate="20160706T104545Z">
+        <seg>対訳集位置あわせ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8925,24 +8947,24 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T142013Z" creationid="miurahr" creationdate="20201101T142013Z">
-        <seg>アライナー「要レビュー」グループ</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T034902Z" creationid="miurahr" creationdate="20201101T142013Z">
+        <seg>対訳集位置あわせ「要レビュー」グループ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T142017Z" creationid="miurahr" creationdate="20201101T142017Z">
-        <seg>アライナー・ハイライト</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T034912Z" creationid="miurahr" creationdate="20201101T142017Z">
+        <seg>対訳集位置あわせハイライト</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T142021Z" creationid="miurahr" creationdate="20201101T142021Z">
-        <seg>アライナー・テーブル行の強調表示</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T034921Z" creationid="miurahr" creationdate="20201101T142021Z">
+        <seg>対訳集位置あわせテーブル行の強調表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -29659,6 +29681,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T035245Z" creationid="miurahr" creationdate="20201115T035245Z">
+        <seg>いったん &lt;a0&gt;OmegaT&lt;/a0&gt; をインストールしたならば、&lt;f1&gt;&gt;OmegaT.jar&lt;/f1&gt; をクリックして直接起動することができます。また、コマンドラインから起動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T111540Z">
@@ -40172,6 +40202,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T035405Z" creationid="miurahr" creationdate="20201115T035405Z">
+        <seg>以下に示した INI ファイルは、最大で 1GB のメモリを確保し、ユーザー言語として日本語を、国に日本を指定した例です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T145053Z">
@@ -40899,6 +40937,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T035340Z" creationid="miurahr" creationdate="20201115T035340Z">
+        <seg>この場合の起動時の引数は、OmegaT.exe ファイルと同じ場所にある &lt;&lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; ファイルから読み込まれます。このファイルを編集することで起動引数を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The output pseudotranslated TMX file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T040230Z" creationid="Yu-Tang" creationdate="20160212T040230Z">
@@ -41563,6 +41609,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T174617Z" creationid="Yu-Tang" creationdate="20141202T174617Z">
         <seg>ショートカット &lt;k2&gt;Ctrl+A&lt;/k2&gt; と &lt;k3&gt;Ctrl+C&lt;/k3&gt; の連携は、ウィンドウ内のすべてのテキストまたは一部のテキストをクリップボードにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T035312Z" creationid="miurahr" creationdate="20201115T035312Z">
+        <seg>しかし、一番簡単なのはプログラム &lt;&lt;f0&gt;OmegaT.exe&lt;/f0&gt; を実行することです。</seg>
       </tuv>
     </tu>
     <tu>
