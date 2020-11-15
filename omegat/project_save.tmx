@@ -9161,6 +9161,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T050005Z" creationid="miurahr" creationdate="20201115T050005Z">
+        <seg>すべての HTML ファイルを処理します。正規表現の規則にしたがって、通常の&lt;l0&gt;*.html&lt;/l0&gt;の拡張子の区切りを示すドット「.」は「&lt;l1&gt;\.&lt;/l1&gt;」のようにエスケープする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141112T191838Z" creationid="Yu-Tang" creationdate="20141112T191838Z">
@@ -11334,6 +11342,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T145249Z">
         <seg>デフォルトでは、訳文ファイルのエンコーディングは、原文ファイルと同じになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T050415Z" creationid="miurahr" creationdate="20201115T050415Z">
+        <seg>Windows 上では、OmegaT がプロジェクトを開くと、既定で &lt;f1&gt;omegat.project&lt;/f1&gt; ファイルをロックします。そのため、OmegaT の別のインスタンスが使用中のプロジェクトを開こうとすると、エラーメッセージが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20560,6 +20576,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T050355Z" creationid="miurahr" creationdate="20201115T050355Z">
+        <seg>「&lt;l0&gt;abort&lt;/l0&gt;」を指定した場合は、不正なタグを見つけた時点で、タグ検証を中止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130226T073145Z">
@@ -23032,6 +23056,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045732Z" creationid="miurahr" creationdate="20201115T045732Z">
+        <seg>このモードでは、OmegTは、プロジェクトの&lt;f0&gt;/source/&lt;/f0&gt;フォルダにあるファイルを、指定された場所にあるコンテンツで対訳集の位置あわせをします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T050007Z">
@@ -23044,6 +23076,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T013014Z">
         <seg>このモードでは、source フォルダーのファイルを翻訳メモリを使って翻訳します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045620Z" creationid="miurahr" creationdate="20201115T045620Z">
+        <seg>このモードでは、&lt;f0&gt;/sources/&lt;/f0&gt;フォルダーのファイルを翻訳メモリを使って翻訳します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30329,6 +30369,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T050058Z" creationid="miurahr" creationdate="20201115T050058Z">
+        <seg>&lt;f1&gt;dir-10&lt;/f1&gt;フォルダーにある&lt;f0&gt;test.html&lt;/f0&gt;というファイルのみを処理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T025843Z">
@@ -37079,6 +37127,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045837Z" creationid="miurahr" creationdate="20201115T045837Z">
+        <seg>サポートされているフィルタ: ILIAS言語ファイル、Java(TM)リソースバンドル、Key=Value Text、Magento CEロケールCSV、MoodlePHP、Mozilla DTD、Mozilla FTL、PO、RC、SubRip字幕、Windowsリソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some tag manipulations are necessary and are benign, others will cause problems when the translated document is created.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T202746Z">
@@ -41854,8 +41910,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="en">
         <seg>The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T045843Z">
-        <seg>整列した TMX ファイルは、&lt;f2&gt;align.tmx&lt;/f2&gt; という名前で &lt;f1&gt;omegat&lt;/f1&gt; フォルダーに出力されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045744Z">
+        <seg>対訳された TMX ファイルは、&lt;f2&gt;align.tmx&lt;/f2&gt; という名前で &lt;f1&gt;omegat&lt;/f1&gt; フォルダーに出力されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42218,6 +42274,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T085230Z">
         <seg>原文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052031Z" creationid="miurahr" creationdate="20201115T052031Z">
+        <seg>現在のバージョンのソースは、リポジトリ&lt;u0/&gt;からGitクライアントで取得することも、&lt;u1&gt;SourceForge&lt;/u1&gt;で直接取得することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46534,6 +46598,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T050432Z" creationid="miurahr" creationdate="20201115T050432Z">
+        <seg>使い方: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T034356Z" creationid="Kasuya" creationdate="20160118T093608Z">
@@ -48362,6 +48434,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T043723Z">
         <seg>それが採用されるか否かは、第一に、開発チームが OmegaT に有益と考えるか否かによります。第二に、開発者の誰かがその機能の実装を強く望むかどうかにかかっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045854Z" creationid="miurahr" creationdate="20201115T045753Z">
+        <seg>対訳位置合わせに使用するファイルは、ファイルフィルタでサポートされているかどうかによって異なります。</seg>
       </tuv>
     </tu>
     <tu>
