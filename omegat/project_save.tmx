@@ -11898,6 +11898,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053601Z" creationid="miurahr" creationdate="20201115T053601Z">
+        <seg>更新の確認...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for doubled blanks</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140604T151335Z">
@@ -12238,6 +12246,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T072411Z">
         <seg>言語上の誤り（スタイル、文法など）を調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053617Z" creationid="miurahr" creationdate="20201115T053617Z">
+        <seg>より新しいバージョンの&lt;a0&gt;OmegaT&lt;/a0&gt;がリリースされたかどうかを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20592,6 +20608,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053127Z" creationid="miurahr" creationdate="20201115T052835Z">
+        <seg>&lt;l0&gt;辞書内のセグメント・テキストを自動的に検索&lt;/l0&gt;が無効になっている場合は、選択した単語を辞書内で検索できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130226T073145Z">
@@ -20979,6 +21003,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T171140Z">
         <seg>テキストを何も選択していない場合、&lt;a1&gt;OmegaT&lt;/a1&gt; はカーソル右にある単語をその場で選択して実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053150Z" creationid="miurahr" creationdate="20201115T053150Z">
+        <seg>テキストを何も選択していない場合、&lt;a3&gt;OmegaT&lt;/a3&gt; はカーソル右にある単語をその場で選択して実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28628,6 +28660,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053412Z" creationid="miurahr" creationdate="20201115T053412Z">
+        <seg>注:&lt;k0&gt;&lt;k1&gt;[Ctrl]&lt;/k1&gt;&lt;k2&gt;[Enter]&lt;/k2&gt;&lt;/k0&gt;は、&lt;l3&gt;[Tabを使用して進む]&lt;/l3&gt;オプションが選択されていない場合の代替ショートカットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053403Z" creationid="miurahr" creationdate="20201115T053403Z">
+        <seg>注:&lt;k0&gt;[Enter]&lt;/k0&gt;は、&lt;l1&gt;[Tab]を使用して進む&lt;/l1&gt;オプションが選択されていない場合の代替ショートカットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T023446Z">
@@ -30803,6 +30851,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053552Z" creationid="miurahr" creationdate="20201115T053552Z">
+        <seg>この取扱説明書をデフォルトのブラウザで開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Operating System</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T024209Z" creationid="miurahr" creationdate="20201101T024209Z">
@@ -32248,6 +32304,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145853Z" creationid="amake" creationdate="20170128T145853Z">
         <seg>使用するキーボードショートカットを押下後、OK ボタンをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052743Z" creationid="miurahr" creationdate="20201115T052743Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;[Ctrl]&lt;/k1&gt;&lt;k2&gt;[Shift]&lt;/k2&gt;&lt;k3&gt;[F]&lt;/k3&gt;&lt;/k0&gt;を押すと、(新しい検索ウィンドウを開く代わりに)最後に開いた検索ウィンドウが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33922,6 +33986,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T141324Z">
         <seg>機械翻訳に置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052627Z" creationid="miurahr" creationdate="20201115T052627Z">
+        <seg>原文に置換</seg>
       </tuv>
     </tu>
     <tu>
@@ -36258,6 +36330,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T033840Z">
         <seg>OmegaT 用のアイコン集です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053226Z" creationid="miurahr" creationdate="20201115T053226Z">
+        <seg>参考訳文ウィンドウに表示された N 番目の参考訳文を選択します。選択された参考訳文は、現在の分節に対して置換または挿入できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40649,6 +40729,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052642Z" creationid="miurahr" creationdate="20201115T052642Z">
+        <seg>出力された内容は、個人設定フォルダーの &lt;f1&gt;selection.txt&lt;/f1&gt; というファイルにコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T174720Z" creationid="Yu-Tang" creationdate="20141202T174720Z">
@@ -43314,6 +43402,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144924Z" creationid="miurahr" creationdate="20201101T144924Z">
         <seg>これは、 OmegaT 内で行うこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052731Z" creationid="miurahr" creationdate="20201115T052731Z">
+        <seg>新しい選択が行われ、再度&lt;k2&gt;&lt;k3&gt;[Ctrl]&lt;/k3&gt;&lt;k4&gt;[Shift]&lt;/k4&gt;&lt;k5&gt;[G]&lt;/k5&gt;&lt;/k2&gt;が押された場合に、&lt;g0&gt;[訳語]&lt;/g0&gt;および&lt;g1&gt;[コメント]&lt;/g1&gt;フィールドにも適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46750,6 +46846,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053136Z" creationid="miurahr" creationdate="20201115T053136Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;[Shift]&lt;/k1&gt;&lt;k2&gt;[F3]&lt;/k2&gt;&lt;/k0&gt;を使用して、4つの選択肢を順番に切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the four alternatives.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T065216Z" creationid="Kasuya" creationdate="20160705T065216Z">
@@ -46978,6 +47082,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141110T194523Z" creationid="Yu-Tang" creationdate="20141110T193111Z">
         <seg>原文と同じ訳文を登録できます。［設定］→［翻訳入力行...］の［原文と同じ訳文を許可］にチェックが入っていない場合でも、有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053341Z" creationid="miurahr" creationdate="20201115T053341Z">
+        <seg>原文と同じ訳文を登録できます。&lt;l0&gt;&lt;g1&gt;［原文と同じ訳文を許可］&lt;/g1&gt;&lt;/l0&gt;にチェックが入っていない場合でも、有効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47229,6 +47341,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160440Z">
         <seg>取扱説明書のウィンドウから、外部リンクを直接開くことはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User's Manual...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053527Z" creationid="miurahr" creationdate="20201115T053527Z">
+        <seg>取扱説明書...</seg>
       </tuv>
     </tu>
     <tu>
@@ -48735,6 +48855,22 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T023617Z">
         <seg>１つ前に選択していた分節へ戻ることができます。後で現在の分節に復帰するには、上にある&lt;g0&gt;［分節の選択履歴を進む］&lt;/g0&gt;コマンドを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history...&lt;/g0&gt;command below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053452Z" creationid="miurahr" creationdate="20201115T053452Z">
+        <seg>１つ前に選択していた分節へ戻ることができます。後で現在の分節に復帰するには、上にある&lt;g0&gt;［分節の選択履歴を進む］&lt;/g0&gt;コマンドを使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;... command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T053435Z" creationid="miurahr" creationdate="20201115T053435Z">
+        <seg>このコマンドを実行すると、&lt;g1&gt;［分節の選択履歴を戻る］&lt;/g1&gt;コマンドによって移動した履歴をたどり、戻る前に選択していた分節へ移動できます。</seg>
       </tuv>
     </tu>
     <tu>
