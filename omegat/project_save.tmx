@@ -3848,6 +3848,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044334Z" creationid="miurahr" creationdate="20201115T044334Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; 通常、何も引数を指定せずに &lt;a3&gt;OmegaT&lt;/a3&gt; を起動した場合は、プログラムはまず OS の言語を検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130305T154320Z">
@@ -8881,6 +8889,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043804Z" creationid="miurahr" creationdate="20201115T043804Z">
+        <seg>最初のインストールが終わっていれば、オフラインであっても &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T030545Z">
@@ -10000,6 +10016,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145808Z" creationid="amake" creationdate="20170128T145740Z">
         <seg>マスターパスワードを本当にリセットしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044123Z" creationid="miurahr" creationdate="20201115T044123Z">
+        <seg>引数を追加する位置は、最初の「&lt;c0&gt;java&lt;/c0&gt;」の直後、「&lt;l1&gt;-jar  OmegaT.jar&lt;/l1&gt;」の直前です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15669,6 +15693,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043702Z" creationid="miurahr" creationdate="20201115T043702Z">
+        <seg>&lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; ファイルをダウンロードし、それをクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.jnlp&lt;/e0&gt; and then click on it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T124547Z">
@@ -18654,6 +18686,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044038Z" creationid="miurahr" creationdate="20201115T044038Z">
+        <seg>そこで、２つのコマンドをファイル（「スクリプト」または Windows 上では&lt;f0&gt;.bat&lt;/f0&gt; ファイル（バッチファイル）」と呼ばれます）に記述しておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T051025Z">
@@ -20521,6 +20561,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044423Z" creationid="miurahr" creationdate="20201115T044423Z">
+        <seg>ユーザーインターフェースがその言語に対応していれば、&lt;a4&gt;OmegaT&lt;/a4&gt; はそれを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130422T093224Z">
@@ -21027,6 +21075,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T143104Z">
         <seg>もし OS の言語に対応していない場合、&lt;a6&gt;OmegaT&lt;/a6&gt; はデフォルトの英語で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044545Z" creationid="miurahr" creationdate="20201115T044545Z">
+        <seg>もし OS の言語に対応していない場合、&lt;a7&gt;OmegaT&lt;/a7&gt; はデフォルトの英語で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22538,6 +22594,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T053756Z" creationid="miurahr" creationdate="20201101T053756Z">
         <seg>分節化の方法を選択するには、メインメニューから&lt;m1&gt;&lt;g2&gt;［プロジェクト］&lt;/g2&gt;&lt;g3&gt;［プロジェクト設定...］&lt;/g3&gt;&lt;/m1&gt;を開き、表示されるチェックボックスを使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044218Z" creationid="miurahr" creationdate="20201115T044218Z">
+        <seg>他のプラットフォームでは、Mac上の&lt;f3&gt;Configuration.properties&lt;/f3&gt;ファイル、またはLinux上の&lt;f4&gt;OmegaT&lt;/f4&gt;ランチャーを変更して同じことを行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24376,6 +24440,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043641Z" creationid="miurahr" creationdate="20201115T043641Z">
+        <seg>Java Web Start テクノロジー（Java 8 以降が対応）を用いると、独立型の Java アプリケーションを、１クリックでネットワーク上からローカル環境に配置することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130520T220232Z">
@@ -26115,6 +26187,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T041340Z" creationid="miurahr" creationdate="20201115T041340Z">
         <seg>&lt;v1&gt;PATH&lt;/v1&gt;の設定が正しいことと、&lt;f2&gt;.jar &lt;/f2&gt; ファイルが正しく Java に関連づけられていることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043619Z" creationid="miurahr" creationdate="20201115T043619Z">
+        <seg>&lt;v2&gt;PATH&lt;/v2&gt;の設定が正しいことと、&lt;f3&gt;.jar &lt;/f3&gt; ファイルが正しく Java に関連づけられていることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28164,6 +28244,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044151Z" creationid="miurahr" creationdate="20201115T044151Z">
+        <seg>Windows では、&lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; を書き換えることによって、好みの設定に変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
       </tuv>
       <tuv lang="ja" changeid="yu-tang" changedate="20150211T174424Z" creationid="yu-tang" creationdate="20150211T174424Z">
@@ -29825,6 +29913,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043922Z" creationid="miurahr" creationdate="20201115T043922Z">
+        <seg>macOSの場合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T103035Z">
@@ -31133,6 +31229,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130226T170103Z">
         <seg>大文字、小文字の区別に注意してください。Windows 以外の OS では、&lt;e1&gt;OmegaT&lt;/e1&gt; ではなく &lt;e0&gt;omegat&lt;/e0&gt; と入力すると、起動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044007Z" creationid="miurahr" creationdate="20201115T044007Z">
+        <seg>大文字、小文字の区別に注意してください。Windows 以外の OS では、&lt;l1&gt;OmegaT&lt;/l1&gt; ではなく &lt;l0&gt;omegat&lt;/l0&gt; と入力すると、起動しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36783,6 +36887,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044532Z" creationid="miurahr" creationdate="20201115T044532Z">
+        <seg>したがって、たとえば OS がロシア語であり、&lt;a5&gt;OmegaT&lt;/a5&gt;が地域化されていれば、&lt;a6&gt;OmegaT&lt;/a6&gt; のユーザーインターフェースやメニューなどはロシア語で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Social Networks</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T023749Z" creationid="miurahr" creationdate="20201101T023749Z">
@@ -37839,6 +37951,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T124912Z">
         <seg>インストール後は、&lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jnlp&lt;/e2&gt; をクリックすると、プログラムの更新がないか検索し、もしあればインストールした後、&lt;a4&gt;OmegaT&lt;/a4&gt; を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043740Z" creationid="miurahr" creationdate="20201115T043740Z">
+        <seg>その後、&lt;f1&gt;OmegaT.jnlp&lt;/f1&gt;をクリックすると、アップグレードがあるかどうかがチェックされ、アップグレードがある場合はインストールされ、&lt;a2&gt;OmegaT&lt;/a2&gt;が起動されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39211,6 +39331,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T180955Z">
         <seg>&lt;k4&gt;&lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt;&lt;/k4&gt; による切り替えは以下の３通りです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044618Z" creationid="miurahr" creationdate="20201115T044618Z">
+        <seg>「&lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt;」引数の指定により、&lt;a2&gt;OmegaT&lt;/a2&gt; は OS の言語よりも優先して、指定した言語を使用するようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40884,6 +41012,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T080443Z">
         <seg>あるプロジェクトのために多種多様な翻訳メモリをどこに配置するかは、ユーザーに任されています（「&lt;l0&gt;プロジェクトの設定&lt;/l0&gt;」のプロジェクト設定ダイアログを参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043855Z" creationid="miurahr" creationdate="20201115T043855Z">
+        <seg>macOS の場合は、&lt;f0&gt;Application/Utilities&lt;/f0&gt;フォルダにある「ターミナル］プログラムがこれにあたります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56076,6 +56212,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140120T183945Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043912Z" creationid="miurahr" creationdate="20201115T043912Z">
+        <seg>ここで、&lt;p0&gt;folder&lt;/p0&gt;は、&lt;a1&gt;OmegaT&lt;/a1&gt;プログラム(具体的には、ファイル&lt;f2&gt;OmegaT.jar&lt;/f2&gt;)が置かれているフォルダの名前で、完全なパスを含みます。</seg>
       </tuv>
     </tu>
     <tu>
