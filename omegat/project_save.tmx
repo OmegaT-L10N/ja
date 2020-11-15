@@ -26454,6 +26454,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T062808Z" creationid="miurahr" creationdate="20201115T062808Z">
+        <seg>ローカルの作業フォルダがクリーンアップされました:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="ja" changeid="Keiichi Shiraishi">
@@ -43076,6 +43084,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T062800Z" creationid="miurahr" creationdate="20201115T062800Z">
+        <seg>スクリプトはここで終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T163440Z">
@@ -43956,6 +43972,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145501Z" creationid="amake" creationdate="20170128T145501Z">
         <seg>さまざまな OmegaT プラグインが提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T062755Z" creationid="miurahr" creationdate="20201115T062755Z">
+        <seg>{0}にローカルの作業フォルダがみつかりませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45277,6 +45301,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130619T154927Z">
         <seg>現在のプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T062848Z" creationid="miurahr" creationdate="20201115T062848Z">
+        <seg>このスクリプトは、 OmegaT 3.6 以降で実行されるようになっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50587,6 +50619,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140201T134933Z">
         <seg>{0} 個の分節を更新します。この操作は取り消せません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T062819Z" creationid="miurahr" creationdate="20201115T062819Z">
+        <seg>OmegaT version {0}を実行しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58249,6 +58289,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T062727Z" creationid="miurahr" creationdate="20201115T062727Z">
+        <seg>{0} は、ローカルの作業フォルダではありません。スキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T152353Z">
@@ -58317,6 +58365,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140310T170211Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T062708Z" creationid="miurahr" creationdate="20201115T062708Z">
+        <seg>{0}:	クリーンアップを実行しました!!</seg>
       </tuv>
     </tu>
     <tu>
