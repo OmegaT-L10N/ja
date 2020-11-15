@@ -13233,6 +13233,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T041727Z" creationid="miurahr" creationdate="20201115T041727Z">
+        <seg>このフォルダーを適切な場所（アプリケーションフォルダなど）へコピーしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T165847Z">
@@ -15461,6 +15469,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T041929Z" creationid="miurahr" creationdate="20201115T041929Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; をダブルクリックするか、ドックのアイコンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T062010Z" creationid="miurahr" creationdate="20201101T062010Z">
@@ -15681,6 +15697,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T165907Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; ファイルをドックへドラッグ＆ドロップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T041907Z" creationid="miurahr" creationdate="20201115T041907Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; ファイルをドックへドラッグ＆ドロップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29881,6 +29905,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T041747Z" creationid="miurahr" creationdate="20201115T041747Z">
+        <seg>ここまでくれば、&lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;ファイルを削除してもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T031214Z">
@@ -40304,6 +40336,14 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T041700Z" creationid="miurahr" creationdate="20201115T041700Z">
+        <seg>このフォルダには、&lt;f2&gt;index.html&lt;/f2&gt;と&lt;f3&gt;OmegaT.app&lt;/f3&gt;の2つのファイルが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Yu-Tang）どうも Apple（jp）は「アプリケーション」フォルダを正式名称にしているっぽい…。訳語の方針（「フォルダー」と伸ばす）と矛盾しますが、とりあえず公式に合わせておきます。</note>
       <tuv lang="en">
         <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
@@ -42910,6 +42950,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T041626Z" creationid="miurahr" creationdate="20201115T041626Z">
+        <seg>&lt;f1&gt;OmegaT&lt;/f1&gt; フォルダーが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates an &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130508T160119Z">
@@ -43824,6 +43872,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T032450Z" creationid="Yu-Tang" creationdate="20141201T032450Z">
         <seg>まず &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; を右クリックして、［パッケージの内容を表示］を選びます。次に、Contents/MacOS フォルダーにある &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt; を右クリックして、任意のテキストエディターで開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T042235Z" creationid="miurahr" creationdate="20201115T042235Z">
+        <seg>&lt;f0&gt;Configuraiton.properties&lt;/f0&gt;にアクセスするには、まず &lt;f1&gt;OmegaT.app&lt;/f1&gt; を右クリックして［パッケージの内容を表示］を選びます。次に、&lt;f2&gt;Contents/Resources&lt;/f2&gt;を右クリックして、任意のテキストエディターで開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48687,6 +48743,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T042616Z" creationid="miurahr" creationdate="20201115T042616Z">
+        <seg>あるいはコマンドラインから&lt;c3&gt;cd&lt;/c3&gt;コマンドで目的の階層に移動し、emacs や vi のようなコマンドラインエディターで&lt;f4&gt;Configuration.properties&lt;/f4&gt;を開いてもよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T054756Z">
@@ -49039,6 +49103,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T032246Z" creationid="Yu-Tang" creationdate="20141201T032246Z">
         <seg>OmegaT の挙動は、パッケージに含まれる &lt;e0&gt;Properties&lt;/e0&gt; と &lt;e1&gt;OmegaT.sh&lt;/e1&gt; ファイルを編集することでカスタマイズできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T042013Z" creationid="miurahr" creationdate="20201115T042013Z">
+        <seg>OmegaT の挙動は、パッケージに含まれる &lt;e0&gt;Properties&lt;/e0&gt; と&lt;f1&gt;Configuration.properties&lt;/f1&gt; ファイルを編集することでカスタマイズできます。</seg>
       </tuv>
     </tu>
     <tu>
