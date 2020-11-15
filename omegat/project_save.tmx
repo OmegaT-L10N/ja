@@ -2031,6 +2031,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055557Z" creationid="miurahr" creationdate="20201115T055557Z">
+        <seg>(外部検索コマンド)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>* From the command line (all systems): 
 The command to launch OmegaT is:</seg>
       </tuv>
@@ -4850,10 +4858,34 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055010Z" creationid="miurahr" creationdate="20201115T055010Z">
+        <seg>&lt;g0&gt;LanguageTool問題&lt;/g0&gt;(オプション)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144524Z" creationid="miurahr" creationdate="20201101T144524Z">
         <seg>&lt;g0&gt;プロジェクト&lt;/g0&gt; &lt;g1&gt;新規...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054955Z" creationid="miurahr" creationdate="20201115T054955Z">
+        <seg>&lt;g0&gt;[スペルチェックの問題]&lt;/g0&gt;(オプション)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055006Z" creationid="miurahr" creationdate="20201115T055006Z">
+        <seg>&lt;g0&gt;用語の問題&lt;/g0&gt;(オプション)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9089,6 +9121,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055327Z" creationid="miurahr" creationdate="20201115T055327Z">
+        <seg>対訳集位置あわせ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T110845Z">
@@ -10184,6 +10224,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055241Z" creationid="miurahr" creationdate="20201115T055241Z">
+        <seg>上記と同様。ただし、エディタペインに現在表示されているドキュメントのみ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233014Z" creationid="miurahr" creationdate="20201106T233014Z">
@@ -10308,6 +10356,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T184015Z">
         <seg>インストールの冒頭で、インストール中に使用する言語を選ぶことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055554Z" creationid="miurahr" creationdate="20201115T055554Z">
+        <seg>ウィンドウの下部で、空き番号を右クリックし、[&lt;g0&gt;スクリプトの追加&lt;/g0&gt;]を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11890,6 +11946,22 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055225Z" creationid="miurahr" creationdate="20201115T055225Z">
+        <seg>現在のドキュメントの品質をチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054856Z" creationid="miurahr" creationdate="20201115T054856Z">
+        <seg>品質チェック...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150519T095838Z" creationid="Yu-Tang" creationdate="20150519T095838Z">
@@ -13360,6 +13432,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Converts the current project into a MED package.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054754Z" creationid="miurahr" creationdate="20201115T054754Z">
+        <seg>現在のプロジェクトをMEDパッケージに変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Converts translation memories in TMX format generated by Wordfast to a form which can be read by OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T033807Z">
@@ -13682,6 +13762,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054803Z" creationid="miurahr" creationdate="20201115T054750Z">
+        <seg>MEDプロジェクトを作成...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T164131Z">
@@ -13838,6 +13926,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T162241Z">
         <seg>それまで翻訳した内容をもとに訳文ファイルを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054736Z" creationid="miurahr" creationdate="20201115T054736Z">
+        <seg>翻訳に基づいて訳文ファイルを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15268,10 +15364,26 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055313Z" creationid="miurahr" creationdate="20201115T055313Z">
+        <seg>プロジェクトにおける参考訳文の一致率をファイル別に表示します。これは繰り返し、完全に一致、部分的に一致、一致しないといった基準で分類されており、それぞれについて分節数、単語数、文字数を集計しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T034417Z" creationid="Yu-Tang" creationdate="20141104T034417Z">
         <seg>プロジェクトにおける参考訳文の一致率をファイル別に表示します。これは繰り返し、完全に一致、部分的に一致、一致しないといった基準で分類されており、それぞれについて分節数、単語数、文字数を集計しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055308Z" creationid="miurahr" creationdate="20201115T055308Z">
+        <seg>プロジェクトにおける参考訳文の一致率を表示します。これは繰り返し、完全に一致、部分的に一致、一致しないといった基準で分類されており、それぞれについて分節数、単語数、文字数を集計しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18982,6 +19094,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054918Z" creationid="miurahr" creationdate="20201115T054918Z">
+        <seg>次の4種類の問題が検出されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fragment(s) that should be removed from the translation regular expression</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130425T104739Z">
@@ -20901,6 +21021,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T031811Z" creationid="Yu-Tang" creationdate="20141104T031811Z">
         <seg>チェックがある場合、スペース文字が小さな点で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055613Z" creationid="miurahr" creationdate="20201115T055613Z">
+        <seg>外部検索を実行するコマンドが&lt;l0&gt;[環境設定]&lt;/l0&gt;で定義されている場合は、ここに一覧表示され、アクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25565,6 +25693,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061423Z" creationid="miurahr" creationdate="20201101T061423Z">
         <seg>インストールプログラムを実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055519Z" creationid="miurahr" creationdate="20201115T055519Z">
+        <seg>番号に関連付けられているスクリプトを起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30571,6 +30707,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055000Z" creationid="miurahr" creationdate="20201115T055000Z">
+        <seg>スペルチェック辞書がインストールされている場合にのみ機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T112252Z">
@@ -30743,6 +30887,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054521Z" creationid="miurahr" creationdate="20201115T054521Z">
         <seg>&lt;f1&gt;/target&lt;/f1&gt;フォルダに生成された&lt;f0&gt;.UTF8&lt;/f0&gt;ファイルを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055529Z" creationid="miurahr" creationdate="20201115T055529Z">
+        <seg>スクリプトウィンドウを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -30939,6 +31091,22 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054745Z" creationid="miurahr" creationdate="20201115T054745Z">
+        <seg>EU翻訳総局によって定義されたMED形式のプロジェクトパッケージを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055548Z" creationid="miurahr" creationdate="20201115T055510Z">
+        <seg>&lt;l0&gt;&lt;g1&gt;スクリプト&lt;/g1&gt;ウィンドウ&lt;/l0&gt;を表示します。このウィンドウ上で、スクリプトフォルダーの指定、スクリプトの編集や実行、ショートカットへの関連付けを行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054418Z" creationid="miurahr" creationdate="20201115T054418Z">
@@ -30959,6 +31127,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T053802Z" creationid="miurahr" creationdate="20201115T053802Z">
         <seg>&lt;l0&gt;[環境設定]&lt;/l0&gt;ダイアログボックスを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054846Z" creationid="miurahr" creationdate="20201115T054846Z">
+        <seg>&lt;l0&gt;[翻訳対象ファイル一覧]ウィンドウ&lt;/l0&gt;を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33170,6 +33346,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140120T183943Z">
         <seg>Qabiria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054913Z" creationid="miurahr" creationdate="20201115T054913Z">
+        <seg>すべての自動チェックを一度に実行し、結果をウィンドウに表示する品質保証ツール。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36442,6 +36626,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T102634Z">
         <seg>ラジオボタンで検索方法を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055551Z" creationid="miurahr" creationdate="20201115T055551Z">
+        <seg>左側のリストから目的のスクリプトを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055337Z" creationid="miurahr" creationdate="20201115T055337Z">
+        <seg>位置合わせする2つのファイル(ソースファイルとその変換)を選択し、[OK]をクリックして、&lt;l0&gt;&lt;g1&gt;[位置合わせ]&lt;/g1&gt;ウィンドウ&lt;/l0&gt;を開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39791,6 +39991,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054943Z" creationid="miurahr" creationdate="20201115T054943Z">
+        <seg>[&lt;g1&gt;タグの問題&lt;/g1&gt;]オプションは常に選択されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T180955Z">
@@ -42236,6 +42444,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055014Z" creationid="miurahr" creationdate="20201115T055014Z">
+        <seg>結果ウィンドウは、次の表の形式で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130124T170655Z">
@@ -42525,6 +42741,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055354Z" creationid="miurahr" creationdate="20201115T055354Z">
+        <seg>ソースファイルとターゲットファイルの形式は異なる場合があります(たとえば、&lt;f0&gt;.docx&lt;/f0&gt;ファイルは&lt;f1&gt;.pdf&lt;/f1&gt;ファイルと位置合わせできます)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121013T133752Z">
@@ -42658,6 +42882,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T044041Z">
         <seg>メインウィンドウの底部にあるステータスバーには、実行中の処理についてのメッセージが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055342Z" creationid="miurahr" creationdate="20201115T055342Z">
+        <seg>サポートされているファイル形式は、&lt;m0&gt;&lt;g1&gt;[プロジェクト]&lt;/g1&gt;&lt;g2&gt;[プロパティ]&lt;/g2&gt;&lt;g3&gt;[ファイルフィルタ]&lt;/g3&gt;&lt;/m0&gt;に一覧表示されているファイル形式です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43886,6 +44118,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This function is specific to team projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054630Z" creationid="miurahr" creationdate="20201115T054630Z">
+        <seg>この機能は、チームプロジェクトに固有です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T040528Z">
@@ -44752,6 +44992,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T145001Z" creationid="miurahr" creationdate="20201101T145001Z">
         <seg>他のリソース(辞書、TMX、または用語集)を追加するには、SVNまたはGitクライアントを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055522Z" creationid="miurahr" creationdate="20201115T055522Z">
+        <seg>スクリプトを番号に関連付ける手順は、次のとおりです:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46898,6 +47146,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054607Z" creationid="miurahr" creationdate="20201115T054607Z">
         <seg>&lt;f0&gt;source&lt;/f0&gt;ディレクトリでローカルに追加または変更されたファイルをリポジトリにアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054702Z" creationid="miurahr" creationdate="20201115T054702Z">
+        <seg>&lt;f0&gt;target&lt;/f0&gt;ディレクトリで、ローカルに作成されたファイルをリポジトリにアップロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51524,6 +51780,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055157Z" creationid="miurahr" creationdate="20201115T055157Z">
+        <seg>列ヘッダーをクリックすると、列のソート順が変更されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T090519Z">
@@ -51792,6 +52056,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T043910Z">
         <seg>重複している単語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055035Z" creationid="miurahr" creationdate="20201115T055035Z">
+        <seg>行をダブルクリックすると、対応するセグメントがエディタペインでアクティブになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54320,6 +54592,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T054937Z" creationid="miurahr" creationdate="20201115T054937Z">
+        <seg>&lt;l0&gt;カスタムタグ&lt;/l0&gt;を含めて欠落したタグまたは置換されたタグ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mk</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -55716,6 +55996,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T090615Z">
         <seg>探している内容ともっとも近い翻訳メモリのバックアップファイルを選択する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055204Z" creationid="miurahr" creationdate="20201115T055204Z">
+        <seg>行の上でマウスを選択または移動すると、最後の列にポップアップメニューアイコンが表示され、エラーを修正または無視するためのアクションが示されます。</seg>
       </tuv>
     </tu>
     <tu>
