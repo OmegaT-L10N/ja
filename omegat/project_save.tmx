@@ -9602,6 +9602,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060606Z" creationid="miurahr" creationdate="20201115T060606Z">
+        <seg>OmegaT プロジェクトには、ファイルとフォルダーがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T224632Z" creationid="Kasuya" creationdate="20160705T091829Z">
@@ -10063,6 +10071,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145553Z" creationid="amake" creationdate="20170128T145553Z">
         <seg>外観</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055922Z" creationid="miurahr" creationdate="20201115T055922Z">
+        <seg>付録</seg>
       </tuv>
     </tu>
     <tu>
@@ -11354,6 +11370,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060021Z" creationid="miurahr" creationdate="20201115T060021Z">
+        <seg>デフォルトでは、マウスではなくキーボードを使用してソースセグメント内の単語を選択することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it opens automatically with relevant suggestions, but this can be turned off by unchecking &lt;e1&gt;Show Relevant Suggestions Automatically&lt;/e1&gt; option.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160308T150709Z" creationid="Yu-Tang" creationdate="20160308T150709Z">
@@ -12270,6 +12294,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T123849Z" creationid="miurahr" creationdate="20201101T041812Z">
         <seg>未翻訳分節のみを機械翻訳サービスに送信するには、このチェックボックスをオンにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055816Z" creationid="miurahr" creationdate="20201115T055816Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; が一部の絵文字を正しく表示しない場合、このオプションにチェックを入れます（該当する絵文字を含む字体がコンピュータにインストールされている場合に有効）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18902,6 +18934,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055755Z" creationid="miurahr" creationdate="20201115T055755Z">
+        <seg>技術的な詳細は、&lt;u3&gt;機能改善リクエスト&lt;/u3&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T033854Z">
@@ -20310,6 +20350,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060457Z" creationid="miurahr" creationdate="20201115T060457Z">
+        <seg>操作方法...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T035743Z">
@@ -20985,6 +21033,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055712Z" creationid="miurahr" creationdate="20201115T055712Z">
+        <seg>チェックがある場合、（たとえば &lt;f0&gt;/tm/auto&lt;/f0&gt; フォルダー内の TMX ファイルから）自動挿入された全分節の背景を色付けします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130917T064136Z">
@@ -20997,6 +21053,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130917T063417Z">
         <seg>チェックを入れると、訳文が長い用語を先に表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055628Z" creationid="miurahr" creationdate="20201115T055628Z">
+        <seg>このチェックボックスをオンにすると、元の文書の段落間の区切りが視覚的に示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23304,6 +23368,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060135Z" creationid="miurahr" creationdate="20201115T060102Z">
+        <seg>このモードでは、ペインの下部に「&lt;g1&gt;カーソルロック解除&lt;/g1&gt;」と表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T045732Z" creationid="miurahr" creationdate="20201115T045732Z">
@@ -24389,6 +24461,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T142157Z">
         <seg>翻訳作業の途中でプロジェクトの設定を変更することも、可能ではありますが、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060425Z" creationid="miurahr" creationdate="20201115T060425Z">
+        <seg>3つのパーセンテージのソート順は変更できますが、ファジーマッチの選択に使用されるソート順は変更できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26895,6 +26975,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055622Z" creationid="miurahr" creationdate="20201115T055622Z">
+        <seg>段落区切りをマーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -27211,6 +27299,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T153616Z">
         <seg>メニューとキーボードショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060511Z" creationid="miurahr" creationdate="20201115T060511Z">
+        <seg>メニュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -29256,6 +29352,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T160532Z">
         <seg>もちろん、少し休憩を取ってから、適切な辞書ファイルをダウンロードしたほうがより賢明です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060232Z" creationid="miurahr" creationdate="20201115T060150Z">
+        <seg>もちろん、５番目の参考訳文が存在しないときに、&lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;5&lt;/k3&gt;&lt;/k1&gt;を押しても何も起こりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31315,6 +31419,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060447Z" creationid="miurahr" creationdate="20201115T060447Z">
+        <seg>孤立した分節（上図での２番目の参考訳文）とは、そのプロジェクトの翻訳メモリ中に存在するが、原文の分節とは一致しなくなった分節を指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T190509Z">
@@ -32652,6 +32764,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060045Z" creationid="miurahr" creationdate="20201115T060045Z">
+        <seg>&lt;k0&gt;[F2]&lt;/k0&gt;キーを押すと、キーボードの矢印を使用して、カーソルを原文分節(またはエディタ内の任意の場所)に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T171034Z">
@@ -33042,6 +33162,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T041811Z">
         <seg>翻訳対象ファイル一覧...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060520Z" creationid="miurahr" creationdate="20201115T060520Z">
+        <seg>プロジェクトフォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -35922,6 +36050,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060357Z" creationid="miurahr" creationdate="20201115T060357Z">
+        <seg> &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;参照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160118T043755Z" creationid="Kasuya" creationdate="20160118T043755Z">
@@ -36919,10 +37055,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055853Z" creationid="miurahr" creationdate="20201115T055853Z">
+        <seg>&lt;g1&gt;［すべての分節で表示」&lt;/g1&gt;を選ぶと、すべての分節について同様の情報を表示します。&lt;g2&gt;［表示しない」&lt;/g2&gt;を選ぶと、何も表示しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting the Display Modification option to &lt;e0&gt;Current segment&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T033436Z" creationid="Yu-Tang" creationdate="20141104T033436Z">
         <seg>更新情報の表示に関するオプション設定です。&lt;e0&gt;［現在の分節で表示］&lt;/e0&gt;を選ぶと、現在の分節を最後に更新した作業者と更新日時の情報を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055827Z" creationid="miurahr" creationdate="20201115T055827Z">
+        <seg>更新情報の表示に関するオプション設定です。&lt;g0&gt;［現在の分節で表示］&lt;/g0&gt;を選ぶと、現在の分節を最後に更新した作業者と更新日時の情報を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37107,6 +37259,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T104214Z">
         <seg>もし OmegaT の動作がおかしいと思ったら、バグ報告の際に、このファイル自体または関連する箇所を抜き出して含めると、大いに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055940Z" creationid="miurahr" creationdate="20201115T055940Z">
+        <seg>ウィンドウの配置を変更しているうちに収拾がつかなくなった場合は、&lt;g0&gt;［設定］→［ウィンドウを初期値に復元］&lt;/g0&gt;を選んでください。ウィンドウの配置がインストール直後の状態に復元されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40701,6 +40861,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055740Z" creationid="miurahr" creationdate="20201115T055740Z">
+        <seg>色付けは、&lt;l1&gt;&lt;g2&gt;［auto フォルダー由来の翻訳かどうかを記録する］&lt;/g2&gt;&lt;/l1&gt;にチェックが入っている場合に限り、有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150854Z" creationid="amake" creationdate="20170128T150854Z">
@@ -41612,6 +41780,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T185730Z">
         <seg>一致率を表示している行には他にも、その参考訳文を収録している翻訳メモリ&lt;i1/&gt;の名前が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060437Z" creationid="miurahr" creationdate="20201115T060437Z">
+        <seg>一致率を表示している行には他にも、その参考訳文を収録している翻訳メモリの名前が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43038,6 +43214,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060333Z" creationid="miurahr" creationdate="20201115T060333Z">
+        <seg>3つの一致パーセンテージは、次の順序になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T043409Z" creationid="Yu-Tang" creationdate="20141104T043409Z">
@@ -43138,6 +43322,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T165319Z">
         <seg>上側には原文が緑色背景の太字で表示されます。下側が翻訳入力行で、最後は分節番号です。&lt;i0/&gt;分節番号は &lt;l1&gt;&lt;分節 nnnn&gt;&lt;/l1&gt; の形式で表示され、「nnnn」はプロジェクト中における分節の番号を表しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060009Z" creationid="miurahr" creationdate="20201115T060009Z">
+        <seg>上側には原文が緑色背景の太字で表示されます。下側が翻訳入力行で、最後は分節番号です。分節番号は &lt;l0&gt;&lt;分節 nnnn&gt;&lt;/l0&gt; の形式で表示され、「nnnn」はプロジェクト中における分節の番号を表しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44481,6 +44673,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T055655Z" creationid="miurahr" creationdate="20201115T055655Z">
+        <seg>この色付けは、&lt;g0&gt;［翻訳済み分節を色づけ］&lt;/g0&gt;や&lt;g1&gt;［未翻訳分節を色づけ］&lt;/g1&gt;よりも優先度が上です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This marking has priority over Mark Translated Segments and Mark Untranslated Segments.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T024308Z">
@@ -45116,6 +45316,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060127Z" creationid="miurahr" creationdate="20201115T060127Z">
+        <seg>標準モード"&lt;g2&gt;カーソルロック&lt;/g2&gt;"に戻るには、もう一度&lt;k3&gt;F2&lt;/k3&gt;を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To contribute in other ways, subscribe first to the user group at:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T043504Z">
@@ -45709,6 +45917,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T064236Z">
         <seg>すでにある用語集を使用する場合は、プロジェクトを作成後、&lt;i0/&gt;&lt;f1&gt;glossary&lt;/f1&gt; フォルダーにそのファイルを置いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060201Z" creationid="miurahr" creationdate="20201115T060201Z">
+        <seg>選択した（太字で表示された）参考訳文を、現在編集中の訳文と置換して使用するには&lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; を押します。現在のカーソル位置に挿入する場合は［&lt;g7&gt;Ctrl+I&lt;i8/&gt;&lt;/g7&gt;］を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50585,6 +50801,14 @@ window to be able to launch it from any location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060327Z" creationid="miurahr" creationdate="20201115T060141Z">
+        <seg>ここで&lt;g0&gt;[Ctrl]+[2]、[3]、[4]、または[5]&lt;/g0&gt;を押して、別の参考訳文を選択することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T180251Z">
@@ -51352,6 +51576,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T014317Z" creationid="miurahr" creationdate="20201101T014317Z">
         <seg>Java™ Resource Bundle フィルターは、 already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060407Z" creationid="miurahr" creationdate="20201115T060407Z">
+        <seg>タグと番号を無視する(一般的に最も高い)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56492,6 +56724,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130309T140232Z">
         <seg>omegat プロジェクトファイル -- &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060348Z" creationid="miurahr" creationdate="20201115T060348Z">
+        <seg>ステミングで計算されたパーセンテージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060419Z" creationid="miurahr" creationdate="20201115T060419Z">
+        <seg>タグと数字を含む全文で計算されたパーセンテージ(通常は最低)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T060415Z" creationid="miurahr" creationdate="20201115T060415Z">
+        <seg>語形変化を伴わず、タグと数字を無視して計算されたパーセンテージ(一般にわずかに低い)</seg>
       </tuv>
     </tu>
     <tu>
