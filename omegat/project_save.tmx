@@ -4090,6 +4090,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043233Z" creationid="miurahr" creationdate="20201115T043233Z">
+        <seg>&lt;e0&gt;わからない：&lt;/e0&gt; ターミナルウィンドウを開いて、コマンド&lt;c1&gt;java -version&lt;/c1&gt;を実行してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T122040Z">
@@ -4230,6 +4238,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130508T155952Z">
         <seg>&lt;e0&gt;いいえ：&lt;/e0&gt;システムに適した Java JRE（下記参照）を入手してください。その後 &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt; をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043325Z" creationid="miurahr" creationdate="20201115T043325Z">
+        <seg>&lt;e0&gt;いいえ:&lt;/e0&gt; システムに適した Java JRE（下記参照）を入手してください。その後  &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;をダウンロードしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4626,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Yes:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043153Z" creationid="miurahr" creationdate="20201115T043153Z">
+        <seg>&lt;e0&gt;はい:&lt;/e0&gt; &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;をダウンロードしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T024943Z">
@@ -4734,6 +4758,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T163816Z">
         <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043050Z" creationid="miurahr" creationdate="20201115T043050Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt;は、macOSサービスを利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18213,6 +18245,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T042822Z" creationid="miurahr" creationdate="20201115T042822Z">
+        <seg>たとえば、&lt;l2&gt;user.language=ja&lt;/l2&gt;（&lt;l3&gt;#&lt;/l3&gt; 記号なし）とすると、&lt;a4&gt;&gt;OmegaT&lt;/a4&gt; は日本語のユーザーインターフェースで起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T041022Z">
@@ -18474,6 +18514,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T034848Z" creationid="Yu-Tang" creationdate="20141201T034848Z">
         <seg>定義済みの設定を有効にするには、引数の先頭の # 記号を削除してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T042744Z" creationid="miurahr" creationdate="20201115T042744Z">
+        <seg>定義済みの設定を有効にするには、引数の先頭の &lt;l1&gt;#&lt;/l1&gt; 記号を削除してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20182,6 +20230,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043448Z" creationid="miurahr" creationdate="20201115T043448Z">
+        <seg>IBMは&lt;u0/&gt;でLinux PowerPC 用のJREを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T111008Z">
@@ -20404,6 +20460,14 @@ path need not be entered.)</seg>
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T110705Z">
+        <seg>「command not found」のようなメッセージが表示された場合は、そのシステムには Java がインストールされていない可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043242Z" creationid="miurahr" creationdate="20201115T043242Z">
         <seg>「command not found」のようなメッセージが表示された場合は、そのシステムには Java がインストールされていない可能性があります。</seg>
       </tuv>
     </tu>
@@ -29809,6 +29873,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043554Z" creationid="miurahr" creationdate="20201115T043554Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; をインストールした後は、コマンドラインからの直接実行や、起動引数を記述したスクリプトによる実行も可能です。あるいは &lt;f1&gt;OmegaT.jar&lt;/f1&gt; をクリックして直接起動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160308T145238Z" creationid="Yu-Tang" creationdate="20160308T145238Z">
@@ -30483,6 +30555,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T042711Z" creationid="miurahr" creationdate="20201115T042711Z">
+        <seg>&lt;f0&gt;Configuration.properties&lt;/f0&gt; を編集することで、設定を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options menu</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T150924Z">
@@ -30527,6 +30607,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130508T160024Z">
         <seg>Oracle は以下のシステム向けの JRE を提供しています：Solaris SPARC/x86（Java 1.6）と Linux x64、Solaris x64、Windows x64（Java 1.6）&lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043402Z" creationid="miurahr" creationdate="20201115T043402Z">
+        <seg>Oracleは、Solaris SPARC/x86(Java8)およびLinux x64、Solaris x64、Windows x64(Java8)用のJREを&lt;u0/&gt;で提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42966,6 +43054,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043526Z" creationid="miurahr" creationdate="20201115T043526Z">
+        <seg>作業フォルダーに &lt;f2&gt;OmegaT_4.n.n_Without_JRE&lt;/f2&gt; フォルダーと、&lt;a3&gt;OmegaT&lt;/a3&gt; の実行に必要なすべてのファイルが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T101908Z">
@@ -43169,6 +43265,14 @@ the server.</seg>
         <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T110123Z">
+        <seg>この情報は、Solaris SPARC/x86/x64、Linux x64/PowerPC、Windows x64 などのシステムを対象としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043133Z" creationid="miurahr" creationdate="20201115T043133Z">
         <seg>この情報は、Solaris SPARC/x86/x64、Linux x64/PowerPC、Windows x64 などのシステムを対象としています。</seg>
       </tuv>
     </tu>
@@ -43593,6 +43697,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043209Z" creationid="miurahr" creationdate="20201115T043209Z">
+        <seg>Java 8 互換の JRE がインストールされていれば、どのプラットフォームであっても、このパッケージが使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T183458Z">
@@ -43749,6 +43861,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T162010Z">
         <seg>これにより、たとえ分割や結合前の翻訳がまだ翻訳メモリに残っていたとしても、実質的に「未翻訳」の状態に戻ることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T042902Z" creationid="miurahr" creationdate="20201115T042902Z">
+        <seg>これにより、6GBのメモリでOmegaTが起動されます。&lt;l4&gt;6g&lt;/l4&gt;を必要な量に変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44020,6 +44140,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T042848Z" creationid="miurahr" creationdate="20201115T042848Z">
+        <seg>使用可能なメモリー量を変更するには、&lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt;ファイルを編集し、&lt;l2&gt;&lt;!--&lt;/l2&gt;および&lt;l3&gt;--&gt;&lt;/l3&gt;を削除して、行&lt;l1&gt;&lt;!--&lt;string&gt;-Xmx6g&lt;/string&gt;--&gt;&lt;/l1&gt;のコメントを解除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To change the amount of memory available, edit directly the lauching line.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T035337Z" creationid="Yu-Tang" creationdate="20141201T035337Z">
@@ -44284,6 +44412,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043504Z" creationid="miurahr" creationdate="20201115T043504Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; をインストールするには、&lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; ファイルを展開してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T083832Z">
@@ -44345,6 +44481,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T084020Z" creationid="Yu-Tang" creationdate="20141201T084020Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; を複数起動したい場合は、&lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/Contents/MacOS/&lt;/e3&gt; にある &lt;e2&gt;OmegaT.sh&lt;/e2&gt; ファイルをダブルクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043026Z" creationid="miurahr" creationdate="20201115T043026Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; を複数起動したい場合は、&lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; にある &lt;e1&gt;OmegaT&lt;/e1&gt; ファイルをダブルクリックしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46362,6 +46506,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T180431Z" creationid="Yu-Tang" creationdate="20141202T180431Z">
         <seg>&lt;a4&gt;OmegaT&lt;/a4&gt; をコマンドラインから起動する場合は、&lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; にある &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; ファイルを指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043035Z" creationid="miurahr" creationdate="20201115T043035Z">
+        <seg>&lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;にある&lt;f0&gt;OmegaT.jar&lt;/f0&gt;ファイルを使用して、コマンド行から&lt;a2&gt;OmegaT&lt;/a2&gt;を起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48860,6 +49012,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043118Z" creationid="miurahr" creationdate="20201115T043118Z">
+        <seg>また AppleScript や Automator を使用して、よく行う作業をサービスやスクリプトとして登録しておくこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can ask the user group for advice if you have problems.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T025541Z">
@@ -49235,6 +49395,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T062032Z">
         <seg>LanguageTool は、単純な綴り確認機能では検出できないような間違いを検出するためのプログラムです。たとえば、there と their、no と now の取り違えなどが該当します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043102Z" creationid="miurahr" creationdate="20201115T043102Z">
+        <seg>Spotlight や Google などをサービスとして登録しておくと、&lt;a1&gt;OmegaT&lt;/a1&gt; で選択した任意の単語をサービスで検索することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53236,6 +53404,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T041354Z" creationid="miurahr" creationdate="20201115T041354Z">
         <seg>macOS ユーザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T043040Z" creationid="miurahr" creationdate="20201115T043040Z">
+        <seg>macOSの特典</seg>
       </tuv>
     </tu>
     <tu>
