@@ -5540,6 +5540,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T024425Z" creationid="miurahr" creationdate="20201115T024425Z">
+        <seg>&lt;l0&gt;正規表現&lt;/l0&gt;は、文字列を検索するにあたって、とても効果的な方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;See Appendix - Shortcuts Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T173923Z">
@@ -8899,6 +8907,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T024434Z" creationid="miurahr" creationdate="20201115T024434Z">
+        <seg>整列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141956Z" creationid="miurahr" creationdate="20201101T141956Z">
@@ -8927,6 +8943,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T142021Z" creationid="miurahr" creationdate="20201101T142021Z">
         <seg>アライナー・テーブル行の強調表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T024453Z" creationid="miurahr" creationdate="20201115T024453Z">
+        <seg>整列では、翻訳済みの単一言語の文書から二か国語の翻訳メモリを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15810,6 +15834,30 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T023949Z" creationid="miurahr" creationdate="20201115T023949Z">
+        <seg>[編集]&gt;[用語の追加](&lt;k0&gt;&lt;k1&gt;[Ctrl]&lt;/k1&gt;&lt;k2&gt;[Shift]&lt;/k2&gt;&lt;k3&gt;[G]&lt;/k3&gt;&lt;/k0&gt;):新しい用語集の用語を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T023835Z" creationid="miurahr" creationdate="20201115T023835Z">
+        <seg>[編集]&gt;[原文を挿入](&lt;k0&gt;&lt;k1&gt;[Ctrl]&lt;/k1&gt;&lt;k2&gt;[Shift]&lt;/k2&gt;&lt;k3&gt;[I]&lt;/k3&gt;&lt;/k0&gt;):現在の原文の分節を挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T023853Z" creationid="miurahr" creationdate="20201115T023853Z">
+        <seg>[編集]&gt;[原文で置換](&lt;k0&gt;&lt;k1&gt;[Ctrl]&lt;/k1&gt;&lt;k2&gt;[Shift]&lt;/k2&gt;&lt;k3&gt;[R]&lt;/k3&gt;&lt;/k0&gt;):現在の原文の分節で置換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit External Search Command</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150722Z" creationid="amake" creationdate="20170128T150722Z">
@@ -17433,6 +17481,22 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>ファイル形式(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T024036Z" creationid="miurahr" creationdate="20201115T024036Z">
+        <seg>[ファイル]&gt;[閉じる](&lt;k0&gt;&lt;k1&gt;[Ctrl]&lt;/k1&gt;&lt;k2&gt;[W]&lt;/k2&gt;&lt;/k0&gt;):検索ウィンドウを閉じます(&lt;k3&gt;[Esc]&lt;/k3&gt;でも同様に閉じます)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T024100Z" creationid="miurahr" creationdate="20201115T024100Z">
+        <seg>[ファイル]&gt;[選択範囲を検索](&lt;k0&gt;&lt;k1&gt;[Ctrl]&lt;/k1&gt;&lt;k2&gt;[F]&lt;/k2&gt;&lt;/k0&gt;):検索フィールドに再びフォーカスを置き、その内容をすべて選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39211,6 +39275,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T024128Z" creationid="miurahr" creationdate="20201115T024128Z">
+        <seg>「プロジェクトの検索」ウィンドウには独自のメニューがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Spanish translation is better than the Slovenian.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T125611Z">
@@ -43590,6 +43662,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T025009Z" creationid="miurahr" creationdate="20201115T025009Z">
+        <seg>このウィンドウにアクセスするには、&lt;m0&gt;&lt;g1&gt;[ツール]&lt;/g1&gt;&lt;g2&gt;[ファイルの]&lt;/g2&gt;&lt;/m0&gt;を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T113020Z">
@@ -47132,6 +47212,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T172014Z">
         <seg>現行のバージョンに存在する矛盾や記載漏れ、誤記などはすべて、筆者がその責を負うものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T024339Z" creationid="miurahr" creationdate="20201115T024339Z">
+        <seg>&lt;e1&gt;全角/半角文字を区別しない&lt;/e1&gt;オプションがチェックされている場合、全角文字(CJK文字:かな漢字やアルファベットＡＢＣ)を検索すると半角文字に一致し、逆に半角文字を検索すると 全角文字に一致します。</seg>
       </tuv>
     </tu>
     <tu>
