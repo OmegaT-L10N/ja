@@ -4114,6 +4114,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T035955Z" creationid="miurahr" creationdate="20201115T035955Z">
+        <seg>&lt;e0&gt;既存のインストールに上書きインストールします。&lt;/e0&gt;これを行うには、新しいバージョンをインストールするときに、既存のインストールと同じインストールフォルダを選択するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130312T032638Z">
@@ -42970,6 +42978,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T040528Z">
         <seg>この放任的なアプローチは、現在の OmegaT プロジェクトコーディネーターにより、「委任された無政府状態」と表現されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T040612Z" creationid="miurahr" creationdate="20201115T040233Z">
+        <seg>これには、OmegaT内からの環境設定、&lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;ファイルに加えた変更、および起動スクリプト(&lt;f2&gt;.bat&lt;/f2&gt;ファイル)(使用している場合)が含まれます。</seg>
       </tuv>
     </tu>
     <tu>
