@@ -3306,8 +3306,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T135158Z">
-        <seg>ワイルドカード「*」は０個以上の任意の文字と一致します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063639Z">
+        <seg>&lt;/e2&gt;ワイルドカード「*」は０個以上の任意の文字と一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18671,8 +18671,8 @@ Tutorial.</seg>
       <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20170126T093328Z" creationid="suzume" creationdate="20170126T093328Z">
-        <seg>たとえば &lt;e0&gt;a+&lt;/e0&gt; は文字列 &lt;e1&gt;aaabbb&lt;/e1&gt; にある &lt;e1&gt;aaa&lt;/e1&gt; と一致します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063529Z" creationid="suzume" creationdate="20170126T093328Z">
+        <seg>たとえば &lt;e0&gt;a+&lt;/e0&gt; は文字列 &lt;e1&gt;aaabbb&lt;/e1&gt; にあるaaaと一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18783,8 +18783,8 @@ Tutorial.</seg>
       <tuv lang="en">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T143737Z">
-        <seg>たとえばテキストフィルターを readme ファイル（&lt;l3&gt;readme&lt;/l3&gt;、&lt;l3&gt;read.me&lt;/l3&gt; や &lt;l4&gt;readme.txt&lt;/l4&gt;）にも対応させたい場合は、ファイル名構成例に &lt;l5&gt;read*&lt;/l5&gt; を指定してください。（日本語訳注：実際にはワイルドカード文字と衝突しない範囲で、正規表現も使用できます。たとえばファイル名の末尾に数字のついた、拡張子 .foo のファイルを扱いたい場合は、&lt;l5&gt;*\d.foo&lt;/l5&gt; のような指定が可能です。正規表現の詳細は、http://docs.oracle.com/javase/jp/6/api/java/util/regex/Pattern.html を参照してください）</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063627Z">
+        <seg>たとえばテキストフィルターを readme ファイル（&lt;l3&gt;readme, read.me&lt;/l3&gt; や &lt;l4&gt;readme.txt&lt;/l4&gt;）にも対応させたい場合は、ファイル名構成例に &lt;l5&gt;read*&lt;/l5&gt; を指定してください。（日本語訳注：実際にはワイルドカード文字と衝突しない範囲で、正規表現も使用できます。たとえばファイル名の末尾に数字のついた、拡張子 .foo のファイルを扱いたい場合は、&lt;l5&gt;*\d.foo&lt;/l5&gt; のような指定が可能です。正規表現の詳細は、http://docs.oracle.com/javase/jp/6/api/java/util/regex/Pattern.html を参照してください）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20584,8 +20584,8 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T083947Z">
-        <seg>しかし、他のプログラムを使用するときと同様、万が一データが消えてしまった場合の対策を考えておくべきでしょう。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063906Z">
+        <seg>しかし、他のプログラムを使用するときと同様、&lt;a1&gt;OmegaT&lt;/a1&gt;を使うときも、万が一データが消えてしまった場合の対策を考えておくべきでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21317,8 +21317,8 @@ path need not be entered.)</seg>
       <tuv lang="en">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T072849Z">
-        <seg>&lt;e0&gt;tar.bz&lt;/e0&gt; か &lt;e0&gt;tar.bz2&lt;/e0&gt;だったら、圧縮ファイルを展開し忘れています。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063508Z">
+        <seg>&lt;e0&gt;tar.bz&lt;/e0&gt; だったら、圧縮ファイルを展開し忘れています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21953,16 +21953,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T075009Z">
-        <seg>綴り確認機能に無視してほしい、あるいは学習させたい単語があれば、&lt;f0&gt;omegat&lt;/f0&gt; フォルダーの対応する２ファイルに入力しておきます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063258Z">
+        <seg>すでに修正済で、綴り確認機能に無視させるか学習させる単語は、&lt;f0&gt;omegat&lt;/f0&gt; フォルダーの対応する２ファイルに入力しておきます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T035523Z" creationid="miurahr" creationdate="20201101T033856Z">
-        <seg>もしコンピューターにかなり慣れていて、JavascriptやTcl/Tkのような単純なスクリプト言語を利用しているのであれば、簡単で役に立つスクリプトを書けるようになるまで、独学で数週間程度で学ぶことができるでしょう。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063430Z" creationid="miurahr" creationdate="20201101T033856Z">
+        <seg>コンピューターにかなり慣れていて、JavascriptやTcl/Tkのような単純なスクリプト言語をすでに利用していれば、簡単で役に立つスクリプトの作成方法を独学で数週間程度で習得できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29982,8 +29982,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T054342Z" creationid="miurahr" creationdate="20201101T054342Z">
-        <seg>OmegaT は組み込みの綴り確認機能を備えています。これは Apache OpenOffice や LibreOffice、Firefox、Thunderbird で使われているものと同じ機能です。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063656Z" creationid="miurahr" creationdate="20201101T054342Z">
+        <seg>OmegaT は組み込みの&lt;l0&gt;綴り確認機能&lt;/l0&gt;を備えています。これは Apache OpenOffice や LibreOffice、Firefox、Thunderbird で使われているものと同じ機能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30763,8 +30763,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="en">
         <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T193355Z">
-        <seg>一方で、特定の状況では、翻訳する原文に合わせて分節化規則を調整することで、大きく生産性を上げることができるようになります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063117Z">
+        <seg>一方で、特定の状況では、翻訳する原文に合わせて分節化規則を調整することで、大きく生産性があがります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41795,8 +41795,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The first of these is:</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T131309Z">
-        <seg>まず最初に：</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063129Z">
+        <seg>最初に：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43166,8 +43166,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="en">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T145522Z">
-        <seg>分節化の設定は、原文ファイルの取り扱い方法にのみ関係します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063805Z">
+        <seg>分節化の設定は、&lt;a0&gt;OmegaT&lt;/a0&gt;による原文ファイルの取り扱い方法にのみ関係します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44066,8 +44066,8 @@ the [Help] menu after starting OmegaT.</seg>
       <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T025017Z">
-        <seg>展開すると、拡張子が &lt;e1&gt;dz&lt;/e1&gt;、&lt;e1&gt;idx &lt;/e1&gt;、&lt;e2&gt;ifo&lt;/e2&gt; の３つのファイルができるはずです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063451Z">
+        <seg>展開すると、拡張子が &lt;e1&gt;dz, idx &lt;/e1&gt;、&lt;e2&gt;ifo&lt;/e2&gt; の３つのファイルができるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48708,8 +48708,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T191542Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; で RTL モードを使用しても、作成した訳文ファイルの表示モードには何の影響も与えません。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063835Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; で RTL モードを使用しても、&lt;a1&gt;OmegaT&lt;/a1&gt;が生成した訳文ファイルの表示モードには何の影響も与えません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50593,8 +50593,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T171617Z">
-        <seg>これは &lt;g4&gt;Ctrl+A&lt;/g4&gt; と &lt;g4&gt;Del&lt;/g4&gt; キーの組み合わせで翻訳入力行をクリアするのと、同じことです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T063736Z">
+        <seg>訳文分節の選択を解除し、&lt;g4&gt;[Enter]を押しても同じ結果が得られます。&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
