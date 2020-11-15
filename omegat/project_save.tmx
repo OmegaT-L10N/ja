@@ -3776,6 +3776,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044725Z" creationid="miurahr" creationdate="20201115T044725Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; 言語と合わせて、国を指定することもできます。例えば日本の場合、JP を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T143538Z">
@@ -3848,10 +3856,50 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045602Z" creationid="miurahr" creationdate="20201115T045602Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; この引数を指定すると、&lt;a3&gt;OmegaT&lt;/a3&gt; がコンソールモードで起動し、以下に示すサービスを自動的に実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045039Z" creationid="miurahr" creationdate="20201115T045039Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;Google Translateサービスにサインアップした場合は、ここにプライベートGoogle APIキーを入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044936Z" creationid="miurahr" creationdate="20201115T044936Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;プロキシサーバのIPアドレス(システムでプロキシを使用している場合)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045018Z" creationid="miurahr" creationdate="20201115T045018Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;プロキシサーバーのポート番号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T044334Z" creationid="miurahr" creationdate="20201115T044334Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; 通常、何も引数を指定せずに &lt;a3&gt;OmegaT&lt;/a3&gt; を起動した場合は、プログラムはまず OS の言語を検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044903Z" creationid="miurahr" creationdate="20201115T044809Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;？？&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;このコマンド行は、より多くのメモリを&lt;a3&gt;OmegaT&lt;/a3&gt;に割り当てます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5514,10 +5562,26 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045507Z" creationid="miurahr" creationdate="20201115T045349Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt;は、設定ファイルが保存されているフォルダを&lt;a2&gt;OmegaT&lt;/a2&gt;に通知します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160704T090535Z" creationid="Kasuya" creationdate="20160704T090535Z">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; は、どの設定ファイルを使用するかを指定します。 &lt;a1&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045459Z" creationid="miurahr" creationdate="20201115T045444Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; は、使用する設定ファイルを&lt;a2&gt;OmegaT&lt;/a2&gt;に指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5598,6 +5662,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T131206Z">
         <seg>&lt;l0&gt;.utf8&lt;/l0&gt; ファイルは &lt;a1&gt;OmegaT&lt;/a1&gt; によって、（世界中ほぼすべての言語に対応する）UTF-8 エンコーディングとして解釈されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045326Z" creationid="miurahr" creationdate="20201115T045326Z">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt;は、&lt;a1&gt;OmegaT&lt;/a1&gt;に翻訳するプロジェクトの場所を指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7647,6 +7719,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T212126Z">
         <seg>&lt;p0&gt;OmegaT のウィンドウ&lt;/p0&gt; &lt;s1&gt;タグ検証&lt;/s1&gt; &lt;s2&gt;タグ&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044638Z" creationid="miurahr" creationdate="20201115T044638Z">
+        <seg>引数の中の&lt;p3&gt;XX&lt;/p3&gt;は、指定したい言語の 2 桁の言語コードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044854Z" creationid="miurahr" creationdate="20201115T044854Z">
+        <seg>&lt;p4&gt;？？&lt;/p4&gt;には、割り当てたいメモリ容量を MB（メガバイト）単位で指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11158,6 +11246,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T013713Z" creationid="miurahr" creationdate="20201101T013713Z">
         <seg>デフォルトでは、エディタには2000個の初期セグメントが表示され、上下にスクロールするにつれ、徐々にロードされるゆになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044836Z" creationid="miurahr" creationdate="20201115T044836Z">
+        <seg>デフォルトでは 1024MB が割り当てられます。そのため、これより小さな値をこの引数で指定しても効果はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20871,6 +20967,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045404Z" creationid="miurahr" creationdate="20201115T045404Z">
+        <seg>指定されていない場合、&lt;a3&gt;OmegaT&lt;/a3&gt;はデフォルト値(ユーザーhomeの下の&lt;a4&gt;OmegaT&lt;/a4&gt;フォルダー、または使用できない場合は現在の作業フォルダー)に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T032859Z">
@@ -28196,6 +28300,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045306Z" creationid="miurahr" creationdate="20201115T045306Z">
+        <seg>すべての引数が、二重のハイフン記号（&lt;l0&gt;-&lt;/l0&gt;）で始まることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T021453Z">
@@ -28448,6 +28560,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T061131Z">
         <seg>OmegaT を独自にビルドするためには、ant プログラム（&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;）も必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045410Z" creationid="miurahr" creationdate="20201115T045410Z">
+        <seg>2つの&lt;l5&gt;-&lt;/l5&gt;文字に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40045,6 +40165,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044918Z" creationid="miurahr" creationdate="20201115T044918Z">
+        <seg>したがって、2048MB(2 GB)のメモリーを割り当てて&lt;a5&gt;OmegaT&lt;/a5&gt;を起動するコマンドは、次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command to launch OmegaT is:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T062203Z" creationid="miurahr" creationdate="20201101T062159Z">
@@ -41160,6 +41288,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045238Z" creationid="miurahr" creationdate="20201115T045238Z">
+        <seg>最も重要なのは&lt;l1&gt;/path/to/project&lt;/l1&gt;です。オプションで&lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;も指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most important is &lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt;, and optionally&lt;l2&gt; --config-dir=&lt;config-dir&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T160916Z">
@@ -41656,6 +41792,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T032823Z">
         <seg>設定ファイルは、&lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T045220Z" creationid="miurahr" creationdate="20201115T045220Z">
+        <seg>設定ファイルは、&lt;f2&gt;filters.conf&lt;/f2&gt; と &lt;f3&gt;segmentation.conf&lt;/f3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;User&lt;/p5&gt;\OmegaT&lt;/f4&gt;、Linux の場合 &lt;f6&gt;~/.omegat/&lt;/f6&gt;）にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43534,6 +43678,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044755Z" creationid="miurahr" creationdate="20201115T044755Z">
+        <seg>「ポルトガル語 - ブラジル」の組み合わせに対する&lt;l4&gt; pt_BR&lt;/l4&gt; のように、１つの言語に１つの国のみの組み合わせである場合であっても、これは必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T143642Z">
@@ -44593,6 +44745,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T143222Z">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; を（たとえばロシア語 OS 上で）日本語のユーザーインターフェースで使用したい場合は、実行コマンドは以下のようになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T044652Z" creationid="miurahr" creationdate="20201115T044652Z">
+        <seg>&lt;a4&gt;OmegaT&lt;/a4&gt; を（たとえばロシア語 OS 上で）日本語のユーザーインターフェースで使用したい場合は、実行コマンドは以下のようになります：</seg>
       </tuv>
     </tu>
     <tu>
