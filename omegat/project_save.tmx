@@ -3298,8 +3298,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130301T054452Z">
-        <seg>この状態で、空訳文として残すこともできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064156Z">
+        <seg>&lt;/e1&gt;この状態で、空訳文として残すこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3786,8 +3786,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T044725Z" creationid="miurahr" creationdate="20201115T044725Z">
-        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; 言語と合わせて、国を指定することもできます。例えば日本の場合、JP を指定します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064100Z" creationid="miurahr" creationdate="20201115T044725Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; 言語と合わせて、国を指定することもできます。例えば中国の場合、大陸を示す&lt;l2&gt;CN&lt;/l2&gt; や台湾を示す&lt;l3&gt;ＴＷ&lt;/l3&gt;指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4300,8 +4300,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T040830Z" creationid="miurahr" creationdate="20201115T040830Z">
-        <seg>&lt;e0&gt;いいえ / わかりません：&lt;/e0&gt;&lt;e1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/e1&gt; をダウンロードしてください。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064149Z" creationid="miurahr" creationdate="20201115T040830Z">
+        <seg>&lt;e0&gt;いいえ / わかりません：&lt;/e0&gt;&lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt; をダウンロードしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7805,8 +7805,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T061858Z" creationid="miurahr" creationdate="20201115T061858Z">
-        <seg>&lt;r0&gt;注意：&lt;/r0&gt;翻訳対象ファイル一覧ウィンドウが表示されないようにすることができます。それには、ファイル（［設定］→［設定フォルダー］メニューからアクセスできる &lt;f3&gt;omegat.prefs&lt;/f3&gt; 中の &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; を &lt;e2&gt;false&lt;/e2&gt; に設定します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064628Z" creationid="miurahr" creationdate="20201115T061858Z">
+        <seg>&lt;r0&gt;注意：&lt;/r0&gt;翻訳対象ファイル一覧ウィンドウが表示されないようにすることができます。それには、ファイル（&lt;m4&gt;&lt;g5&gt;［設定］→&lt;/g5&gt;&lt;g6&gt;［設定フォルダー］&lt;/g6&gt;&lt;/m4&gt;メニューからアクセスできる &lt;f3&gt;omegat.prefs&lt;/f3&gt; 中の &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; を &lt;e2&gt;false&lt;/e2&gt; に設定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17338,8 +17338,8 @@ several security warnings.</seg>
       <tuv lang="en">
         <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201108T124525Z" creationid="miurahr" creationdate="20201108T124525Z">
-        <seg>このソフトウェアは無料ですが、OmegaTが役に立つので、寄付によって謝意を表したい、とお考えの方は、&lt;a0&gt;ペイパルアカウント&lt;/a0&gt;におねがいします。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064725Z" creationid="miurahr" creationdate="20201108T124525Z">
+        <seg>このソフトウェアは無料ですが、OmegaTが役に立つので、寄付によって謝意を表したい、とお考えの方は、ペイパルアカウントにおねがいします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21937,8 +21937,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T062411Z" creationid="miurahr" creationdate="20201115T062411Z">
-        <seg>このフォルダーに新しいスクリプトファイルを追加すると、スクリプト ウィンドウの一覧に表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064646Z" creationid="miurahr" creationdate="20201115T062411Z">
+        <seg>このフォルダーに新しいスクリプトファイルを追加すると、&lt;g0&gt;スクリプト&lt;/g0&gt; ウィンドウの一覧に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38425,8 +38425,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T135006Z">
-        <seg>原文ファイル名構成例には、&lt;e2&gt;検索&lt;/e2&gt;機能と同様にワイルドカード文字を使用できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064213Z">
+        <seg>原文ファイル名構成例には、&lt;e2&gt;検索機能と同様にワイルドカード文字を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45219,8 +45219,8 @@ this version will not interfere with it.</seg>
       <tuv lang="en">
         <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130301T054448Z">
-        <seg>翻訳入力の前に、原文を削除するキー入力の手間（つまり &lt;e0&gt;Ctrl+A&lt;/e0&gt; と &lt;e1&gt;Del&lt;/e1&gt;）が省けます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064244Z">
+        <seg>翻訳入力の前に、原文を削除するキー入力の手間が省けます（つまり &lt;e0&gt;Ctrl+A&lt;/e0&gt; と &lt;e1&gt;Del）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45476,8 +45476,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="en">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T061837Z" creationid="miurahr" creationdate="20201115T061837Z">
-        <seg>OmegaT がプロジェクトを読み込むと、翻訳対象ファイル一覧が自動的に表示されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064746Z" creationid="miurahr" creationdate="20201115T061837Z">
+        <seg>&lt;m0&gt;&lt;g1&gt;プロジェクト&lt;/g1&gt;&lt;g2&gt;翻訳対象ファイル一覧...&lt;/g2&gt;&lt;/m0&gt;を選択したときと同様に、OmegaT がプロジェクトを読み込むと自動的に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46427,8 +46427,8 @@ script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T060201Z" creationid="miurahr" creationdate="20201115T060201Z">
-        <seg>選択した（太字で表示された）参考訳文を、現在編集中の訳文と置換して使用するには&lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; を押します。現在のカーソル位置に挿入する場合は［&lt;g7&gt;Ctrl+I&lt;i8/&gt;&lt;/g7&gt;］を押します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064324Z" creationid="miurahr" creationdate="20201115T060201Z">
+        <seg>選択した（太字で表示された）参考訳文を、現在編集中の訳文と置換して使用するには&lt;g4&gt;Ctrl+R&lt;/g4&gt; を押します。現在のカーソル位置に挿入する場合は［&lt;g5&gt;Ctrl+I&lt;/g5&gt;］を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47936,8 +47936,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T050432Z" creationid="miurahr" creationdate="20201115T050432Z">
-        <seg>使い方: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064120Z" creationid="miurahr" creationdate="20201115T050432Z">
+        <seg>使い方: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48684,8 +48684,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T162622Z">
-        <seg>キーワード「&lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt;」を検索した場合、「&lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt;」と一致するのはもちろんですが、「&lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;&lt;/e4&gt;」や「&lt;e4&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e4&gt;」「&lt;e4&gt;&lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;」などとも同じように一致します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T064949Z">
+        <seg>キーワード「&lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt;」を検索した場合、「&lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;」と一致するのはもちろんですが、&lt;/e2&gt;&lt;e4&gt;「&lt;l5&gt;file opened&lt;/l5&gt;」や「&lt;l6&gt;open input file&lt;/l6&gt;」「&lt;l7&gt;file may not be safe to open&lt;/l7&gt;」&lt;/e4&gt;などとも同じように一致します。</seg>
       </tuv>
     </tu>
     <tu>
