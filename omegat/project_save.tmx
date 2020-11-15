@@ -14708,6 +14708,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052324Z" creationid="miurahr" creationdate="20201115T052324Z">
+        <seg>構築の詳細な手順については、docs_devel&lt;u0&gt;readme&lt;/u0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T042909Z">
@@ -27928,6 +27936,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052621Z" creationid="miurahr" creationdate="20201115T052621Z">
+        <seg>機械翻訳サービスが有効になっていない場合は、何も行いません（メニューの&lt;m0&gt;&lt;g1&gt;［設定］&lt;/g1&gt;→&lt;g2&gt;［機械翻訳］&lt;/g2&gt;&lt;/m0&gt;を確認してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (see Menu &gt; Options below).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T164450Z">
@@ -30181,6 +30197,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T190902Z">
         <seg>圧縮ファイルを解凍すると、以下の内容を含むフォルダーが生成されます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052200Z" creationid="miurahr" creationdate="20201115T052200Z">
+        <seg>コードがダウンロードされたら、ソースフォルダでコマンドを開き、次のように入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35430,6 +35454,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144159Z" creationid="miurahr" creationdate="20201101T144159Z">
         <seg>詳しくは、「 &lt;l3&gt;ファイルフィルターの設定&lt;/l3&gt; 」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052523Z" creationid="miurahr" creationdate="20201115T052523Z">
+        <seg>&lt;m1&gt;&lt;g2&gt;設定&lt;/g2&gt;&lt;g3&gt;環境設定.&lt;/g3&gt;&lt;g4&gt;ファイルフィルター&lt;/g4&gt;&lt;/m1&gt;で、OmegaT が対応しているファイル形式の一覧を確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43969,6 +44001,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052539Z" creationid="miurahr" creationdate="20201115T052539Z">
+        <seg>このメニューにエントリが表示されるのは、プロジェクトが開いている場合だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T140647Z">
@@ -44173,6 +44213,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T062705Z">
         <seg>これにより、dist フォルダーに &lt;a0&gt;OmegaT&lt;/a0&gt; の配布版が生成され、&lt;a1&gt;OmegaT&lt;/a1&gt; の実行に必要なすべてのファイルが揃います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052221Z" creationid="miurahr" creationdate="20201115T052221Z">
+        <seg>これにより、&lt;f0&gt;./build/distributions&lt;/f0&gt;フォルダにOmegaTの完全な配布が作成されます。このフォルダには、&lt;a1&gt;OmegaT&lt;/a1&gt;の実行に必要なすべてを含むzipファイルがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49380,6 +49428,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052236Z" creationid="miurahr" creationdate="20201115T052236Z">
+        <seg>次のコマンドを使用して、アプリケーションを直接実行することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T105946Z">
@@ -52701,6 +52757,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052150Z" creationid="miurahr" creationdate="20201115T052150Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160119T011922Z" creationid="Yu-Tang" creationdate="20160119T011922Z">
@@ -55620,6 +55684,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20201115T052128Z" creationid="miurahr" creationdate="20201115T052128Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
       </tuv>
     </tu>
     <tu>
