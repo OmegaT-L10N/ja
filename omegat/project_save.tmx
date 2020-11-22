@@ -2637,6 +2637,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140308Z" creationid="suzume" creationdate="20201122T140308Z">
+        <seg>--alignDir={訳文ファイルの場所}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir=&lt;path&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T040958Z" creationid="Yu-Tang" creationdate="20160212T040958Z">
@@ -2661,6 +2669,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140257Z" creationid="suzume" creationdate="20201122T140257Z">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-dir=&lt;path&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T021519Z" creationid="Yu-Tang" creationdate="20160212T021519Z">
@@ -2673,6 +2689,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160704T085651Z" creationid="Kasuya" creationdate="20160704T085651Z">
         <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140258Z" creationid="suzume" creationdate="20201122T140258Z">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2727,6 +2751,14 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="ja" changeid="suzume" changedate="20200119T084724Z" creationid="suzume" creationdate="20200119T084724Z">
         <seg>--disable-project-locking
 		プロジェクトの omegat.project ファイルをロックしません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140300Z" creationid="suzume" creationdate="20201122T140300Z">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,6 +2843,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T052932Z">
         <seg>--output-tag-validation-={正規表現}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140302Z" creationid="suzume" creationdate="20201122T140302Z">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2918,6 +2958,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140349Z" creationid="suzume" creationdate="20201122T140319Z">
+        <seg>--source-pattern=&lt;p0&gt;正規表現&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140301Z" creationid="suzume" creationdate="20201122T140301Z">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern=&lt;pattern&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T040009Z" creationid="Yu-Tang" creationdate="20160212T040009Z">
@@ -2976,10 +3032,34 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140243Z" creationid="suzume" creationdate="20201122T140243Z">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140245Z" creationid="suzume" creationdate="20201122T140245Z">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T180321Z" creationid="Yu-Tang" creationdate="20141202T180321Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140248Z" creationid="suzume" creationdate="20201122T140248Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5704,6 +5784,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T051451Z">
         <seg>&lt;l0&gt;--source-pattern={正規表現}&lt;/l0&gt; 翻訳したいファイルを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140429Z" creationid="suzume" creationdate="20201122T140429Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;出力ファイル名&lt;/p2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52797,6 +52885,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140235Z" creationid="suzume" creationdate="20201122T140235Z">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app 位置&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140155Z" creationid="suzume" creationdate="20201122T140155Z">
@@ -52809,6 +52905,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T131827Z">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140215Z" creationid="suzume" creationdate="20201122T140215Z">
+        <seg>cd C:\Program Files\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -53925,6 +54029,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140435Z" creationid="suzume" creationdate="20201122T140435Z">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140437Z" creationid="suzume" creationdate="20201122T140437Z">
+        <seg>gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T040253Z">
@@ -54502,6 +54622,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140432Z" creationid="suzume" creationdate="20201122T140432Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://java.com/en/download/</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T130856Z" creationid="Kasuya" creationdate="20160705T130856Z">
@@ -54546,6 +54674,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130429T151114Z">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140433Z" creationid="suzume" creationdate="20201122T140433Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
       </tuv>
     </tu>
     <tu>
@@ -55065,6 +55201,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140254Z" creationid="suzume" creationdate="20201122T140254Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T143251Z">
@@ -55085,6 +55229,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T145451Z">
         <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140239Z" creationid="suzume" creationdate="20201122T140239Z">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -55125,6 +55277,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T064320Z">
         <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140256Z" creationid="suzume" creationdate="20201122T140256Z">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -58515,8 +58675,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T043912Z" creationid="miurahr" creationdate="20201115T043912Z">
-        <seg>ここで、&lt;p0&gt;folder&lt;/p0&gt;は、&lt;a1&gt;OmegaT&lt;/a1&gt;プログラム(具体的には、ファイル&lt;f2&gt;OmegaT.jar&lt;/f2&gt;)が置かれているフォルダの名前で、完全なパスを含みます。</seg>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140206Z" creationid="miurahr" creationdate="20201115T043912Z">
+        <seg>ここで、&lt;p0&gt;フォルダー&lt;/p0&gt;は、&lt;a1&gt;OmegaT&lt;/a1&gt;プログラム(具体的には、ファイル&lt;f2&gt;OmegaT.jar&lt;/f2&gt;)が置かれているフォルダの名前で、完全なパスを含みます。</seg>
       </tuv>
     </tu>
     <tu>
