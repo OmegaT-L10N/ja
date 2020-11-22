@@ -121,6 +121,7 @@ window	ウィンドウ
 Warning	警告
 Miscellanea	その他	マニュアルの章題の場合
 User files	個人設定ファイル
+align	整列	未討議。一貫性を確保するため、とりあえずこの訳語で登録しておきます。
 Note	メモ	メモ ウィンドウまたはその内容を指す場合
 section	項	未討議。「節」とか「部」とか、候補があると思いますが、整合性の観点からとりあえず「項」で統一しておきます。
 global	ユーザーレベル	「プロジェクト専用」の設定との対比で使用される場合。
@@ -128,26 +129,3 @@ localize	地域化	×現地化、ローカライズ
 Auto-completer	入力補完	3.0.1 の新機能
 Auto-text	定型文	3.0.5 の新機能
 glossary entry	用語
-option	設定	複数形の場合
-option	選択肢	単数の場合
-Resource Bundle	リソースバンドル
-options	オプション	コマンドの引数の場合
-interface text	ＵＩ	UIの言語に言及する場合
-valid value	有効な値
-Windows	Windows	商標は変更しない
-Translate	翻訳	一般訳
-LF Aligner	LF Aligner	プロダクト名称は変更しない
-local version	インストール版	Webstart版がインストール版を参照する際の使い方
-Text Merging	Text Merging	製品名は変更しない
-Rainbow	Rainbow	製品の固有名詞は変更しない
-project manager	プロジェクトマネージャ
-server	サーバ
-translator	翻訳者
-statistics	翻訳状況	OmegaTのstasticsのUIを参照する場合
-Properties	プロジェクト設定	OmegaTのProjectメニューのメニュー項目の場合
-Repository Mapping	リポジトリマッピング	UIのProjectメニュー>プロジェクト設定内の機能やボタンUIを示す場合
-segmentation parameter	分節化規則
-latest version	最新版	用語を開発版から変更します
-align	整合
-aligner	整合ツール	https://github.com/OmegaT-L10N/ja/issues/6
-automatically search in dictionary	辞書内を自動的に検索	辞書自動検索オプションの表現
