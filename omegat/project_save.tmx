@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f1e32ca8c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_d32f93c4e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14450,6 +14450,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135650Z" creationid="suzume" creationdate="20201122T135650Z">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T141715Z">
@@ -14482,6 +14490,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135646Z" creationid="suzume" creationdate="20201122T135646Z">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+Shift+R</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20170126T093019Z" creationid="suzume" creationdate="20170126T093019Z">
@@ -14490,10 +14506,34 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135637Z" creationid="suzume" creationdate="20201122T135637Z">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+Shift+T</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20170126T093023Z" creationid="suzume" creationdate="20170126T093023Z">
         <seg>Ctrl+Shift+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135640Z" creationid="suzume" creationdate="20201122T135640Z">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135656Z" creationid="suzume" creationdate="20201122T135656Z">
+        <seg>Ctrl+Shift+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -33080,6 +33120,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T171034Z">
         <seg>［検索文字列］欄に文字列を入力し［検索］ボタンをクリックすると、プロジェクトから、その文字列を含むすべての分節が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135804Z" creationid="suzume" creationdate="20201122T135804Z">
+        <seg>データを失わないために</seg>
       </tuv>
     </tu>
     <tu>
@@ -53069,10 +53117,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135634Z" creationid="suzume" creationdate="20201122T135634Z">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editRegisterIdenticalMenuItem</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T184158Z">
         <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135632Z" creationid="suzume" creationdate="20201122T135632Z">
+        <seg>editRegisterUntranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -53581,6 +53645,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135651Z" creationid="suzume" creationdate="20201122T135651Z">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>gotoNextNoteMenuItem</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130410T152605Z">
@@ -53601,6 +53673,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T184208Z">
         <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135648Z" creationid="suzume" creationdate="20201122T135648Z">
+        <seg>gotoNextUniqueMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -54230,6 +54310,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135933Z" creationid="suzume" creationdate="20201122T135933Z">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130429T151114Z">
@@ -54286,6 +54374,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135730Z" creationid="suzume" creationdate="20201122T135730Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20170126T093128Z" creationid="suzume" creationdate="20170126T093128Z">
@@ -54306,6 +54402,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160704T081840Z" creationid="Kasuya" creationdate="20160704T081840Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135753Z" creationid="suzume" creationdate="20201122T135753Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135751Z" creationid="suzume" creationdate="20201122T135751Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
@@ -56081,6 +56193,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135703Z" creationid="suzume" creationdate="20201122T135703Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T142047Z">
@@ -56113,6 +56233,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135701Z" creationid="suzume" creationdate="20201122T135701Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135702Z" creationid="suzume" creationdate="20201122T135702Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T142222Z">
@@ -56125,6 +56261,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T142130Z">
         <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135659Z" creationid="suzume" creationdate="20201122T135659Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135700Z" creationid="suzume" creationdate="20201122T135700Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135657Z" creationid="suzume" creationdate="20201122T135657Z">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -57989,6 +58149,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T141200Z">
         <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135653Z" creationid="suzume" creationdate="20201122T135653Z">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
