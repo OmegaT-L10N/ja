@@ -3336,6 +3336,24 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140044Z" creationid="suzume" creationdate="20201122T140044Z">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140023Z" creationid="suzume" creationdate="20201122T140023Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130305T025006Z">
@@ -4842,6 +4860,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140041Z" creationid="suzume" creationdate="20201122T140041Z">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T163816Z">
@@ -5038,6 +5064,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T190823Z">
         <seg>この場合の起動時の引数は、OmegaT.exe ファイルと同じ場所にある &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini&lt;/e3&gt; ファイルから読み込まれます。このファイルを編集することで起動引数を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140043Z" creationid="suzume" creationdate="20201122T140043Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5774,6 +5808,68 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T173923Z">
         <seg>詳しくは&lt;l0&gt;付録 - ショートカットのカスタマイズ&lt;/l0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140022Z" creationid="suzume" creationdate="20201122T140022Z">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140037Z" creationid="suzume" creationdate="20201122T140037Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140048Z" creationid="suzume" creationdate="20201122T140048Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140054Z" creationid="suzume" creationdate="20201122T140054Z">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140056Z" creationid="suzume" creationdate="20201122T140056Z">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140051Z" creationid="suzume" creationdate="20201122T140051Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140040Z" creationid="suzume" creationdate="20201122T140040Z">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7815,6 +7911,62 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160118T043245Z" creationid="Kasuya" creationdate="20160118T042314Z">
         <seg>&lt;r0&gt;注意：&lt;/r0&gt;翻訳対象ファイル一覧ウィンドウが表示されないようにすることができます。それには、ファイル（［設定］→［設定フォルダー］メニューからアクセスできる &lt;f3&gt;omegat.prefs&lt;/f3&gt; 中の &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; を &lt;e2&gt;false&lt;/e2&gt; に設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140017Z" creationid="suzume" creationdate="20201122T140017Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140053Z" creationid="suzume" creationdate="20201122T140053Z">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140020Z" creationid="suzume" creationdate="20201122T140020Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140050Z" creationid="suzume" creationdate="20201122T140050Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140039Z" creationid="suzume" creationdate="20201122T140039Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140035Z" creationid="suzume" creationdate="20201122T140035Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140033Z" creationid="suzume" creationdate="20201122T140033Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22933,6 +23085,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140116Z" creationid="suzume" creationdate="20201122T140116Z">
+        <seg>KMenuEditor から&lt;e3&gt;［ファイル］→［新規アイテム］&lt;/e3&gt;を選びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130124T163508Z">
@@ -35182,6 +35342,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135939Z" creationid="suzume" creationdate="20201122T135939Z">
+        <seg>翻訳メモリの再利用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reusing translation memories</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T160622Z">
@@ -41942,6 +42110,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T125537Z" creationid="miurahr" creationdate="20201101T125537Z">
         <seg>次の設定は、OmegaT 2.x との互換性にチェックされている時のみ有効です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135944Z" creationid="suzume" creationdate="20201122T135944Z">
+        <seg>以下に示す解決法は、いろいろあるやり方のひとつにすぎません。しかし試すのはとても簡単で、ファイルを破損する危険性もありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48722,6 +48898,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140002Z" creationid="suzume" creationdate="20201122T140002Z">
+        <seg>TMX ファイルと代替言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T085744Z">
@@ -52613,6 +52797,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140155Z" creationid="suzume" creationdate="20201122T140155Z">
+        <seg>cd &lt;p0&gt;フォルダー&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T131827Z">
@@ -53349,6 +53541,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140029Z" creationid="suzume" creationdate="20201122T140029Z">
+        <seg>excludes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140320T121847Z">
@@ -53609,6 +53809,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061254Z" creationid="miurahr" creationdate="20201115T061254Z">
         <seg>用語集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140007Z" creationid="suzume" creationdate="20201122T140007Z">
+        <seg>glossary/glossary.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -54310,10 +54518,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140101Z" creationid="suzume" creationdate="20201122T140101Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/support</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T135933Z" creationid="suzume" creationdate="20201122T135933Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140120Z" creationid="suzume" creationdate="20201122T140120Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -54418,6 +54642,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T135751Z" creationid="suzume" creationdate="20201122T135751Z">
         <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140104Z" creationid="suzume" creationdate="20201122T140104Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
@@ -54666,6 +54898,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>ina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140031Z" creationid="suzume" creationdate="20201122T140031Z">
+        <seg>includes</seg>
       </tuv>
     </tu>
     <tu>
@@ -56105,6 +56345,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T140005Z" creationid="suzume" creationdate="20201122T140005Z">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144621Z" creationid="miurahr" creationdate="20201101T144621Z">
@@ -57517,6 +57765,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>tha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201122T135949Z" creationid="suzume" creationdate="20201122T135949Z">
+        <seg>メインのプロジェクトフォルダーに３つの TMX ファイル（上記参照）が出力されているはずです。これには、指定した言語ペアの、かつ source フォルダーにコピーした文書だけの翻訳が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
