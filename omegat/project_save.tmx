@@ -12890,6 +12890,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T035933Z" creationid="suzume" creationdate="20201123T035933Z">
+        <seg>ファイル {0} をタグ削除中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleanup done!!</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140607T152531Z">
@@ -14478,6 +14486,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144445Z" creationid="miurahr" creationdate="20201101T144445Z">
         <seg>サーバー上に空のプロジェクトを作成します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T035848Z" creationid="suzume" creationdate="20201123T035848Z">
+        <seg>ファイル {0} を作成中</seg>
       </tuv>
     </tu>
     <tu>
@@ -28704,6 +28720,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T040355Z" creationid="suzume" creationdate="20201123T040355Z">
+        <seg>タグ削除ファイル {0} を {1} へ移動中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T040017Z" creationid="suzume" creationdate="20201123T040017Z">
+        <seg>元ファイル {0} を {1} へ移動中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130531T131928Z">
@@ -32055,6 +32087,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T131001Z">
         <seg>コマンドラインウィンドウを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T035812Z" creationid="suzume" creationdate="20201123T035812Z">
+        <seg>ファイル {0} を開く</seg>
       </tuv>
     </tu>
     <tu>
