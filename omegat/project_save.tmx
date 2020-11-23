@@ -9569,6 +9569,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T040507Z" creationid="suzume" creationdate="20201123T040507Z">
+        <seg>プロジェクト内の全ての DOCX ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T052607Z">
@@ -11185,6 +11193,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T040421Z" creationid="suzume" creationdate="20201123T040421Z">
+        <seg>バックアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T072905Z">
@@ -11285,6 +11301,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T144424Z">
         <seg>もし翻訳途中で言語設定を変更すると、変更前後の言語間で一致が取れなくなり、翻訳メモリが使い物にならなくなることがあるので注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T040413Z" creationid="suzume" creationdate="20201123T040413Z">
+        <seg>美化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T040449Z" creationid="suzume" creationdate="20201123T040449Z">
+        <seg>変換後 DOCX ファイルを美化</seg>
       </tuv>
     </tu>
     <tu>
@@ -13904,6 +13936,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T040416Z" creationid="suzume" creationdate="20201123T040416Z">
+        <seg>変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert 2.6-style team project into 3.7-style</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T093131Z" creationid="Kasuya" creationdate="20160706T093131Z">
@@ -14982,6 +15022,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140323T050122Z">
         <seg>通貨表記の変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T040902Z" creationid="suzume" creationdate="20201123T040902Z">
+        <seg>現在の DOCX ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -26623,6 +26671,14 @@ Launch OmegaT as follows.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T172922Z">
         <seg>法律上の表示と謝辞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20201123T040408Z" creationid="suzume" creationdate="20201123T040408Z">
+        <seg>レベル</seg>
       </tuv>
     </tu>
     <tu>
