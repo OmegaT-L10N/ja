@@ -46815,8 +46815,8 @@ file type is associated with Java on your system.</seg>
       <tuv lang="en">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T042848Z" creationid="miurahr" creationdate="20201115T042848Z">
-        <seg>使用可能なメモリー量を変更するには、&lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt;ファイルを編集し、&lt;l2&gt;&lt;!--&lt;/l2&gt;および&lt;l3&gt;--&gt;&lt;/l3&gt;を削除して、行&lt;l1&gt;&lt;!--&lt;string&gt;-Xmx6g&lt;/string&gt;--&gt;&lt;/l1&gt;のコメントを解除します。</seg>
+      <tuv lang="ja" changeid="suzume" changedate="20201203T075858Z" creationid="miurahr" creationdate="20201115T042848Z">
+        <seg>使用可能なメモリー量を変更するには、&lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt;ファイルを編集し、&lt;l2&gt;&lt;!--&lt;/l2&gt;および&lt;l3&gt;--&gt;&lt;/l3&gt;を削除して、行&lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt;のコメントを解除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55066,7 +55066,8 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>原文のリンクは「page not found」になっています。</note>
+      <note>原文のリンクは「page not found」になっています。
+https://docs.oracle.com/javase/6/docs/api/java/text/SimpleDateFormat.html</note>
       <tuv lang="en">
         <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
