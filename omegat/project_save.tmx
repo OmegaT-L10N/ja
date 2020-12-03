@@ -2695,8 +2695,8 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20201122T140308Z" creationid="suzume" creationdate="20201122T140308Z">
-        <seg>--alignDir={訳文ファイルの場所}</seg>
+      <tuv lang="ja" changeid="suzume" changedate="20201203T080034Z" creationid="suzume" creationdate="20201122T140308Z">
+        <seg>--alignDir=&lt;p0&gt;{訳文ファイルの場所}&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30780,6 +30780,7 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>原文ミス？</note>
       <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
