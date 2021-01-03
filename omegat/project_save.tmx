@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_d32f93c4e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_1b5a7c6c4" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31661,8 +31661,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="en">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly or you can launch it directly from the command line.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T035245Z" creationid="miurahr" creationdate="20201115T035245Z">
-        <seg>いったん &lt;a0&gt;OmegaT&lt;/a0&gt; をインストールしたならば、&lt;f1&gt;&gt;OmegaT.jar&lt;/f1&gt; をクリックして直接起動することができます。また、コマンドラインから起動することもできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210103T091539Z" creationid="miurahr" creationdate="20201115T035245Z">
+        <seg>いったん &lt;a0&gt;OmegaT&lt;/a0&gt; をインストールしたならば、&lt;f1&gt;OmegaT.jar&lt;/f1&gt; をクリックして直接起動することができます。また、コマンドラインから起動することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43625,8 +43625,8 @@ sure this has not already been reported.</seg>
       <tuv lang="en">
         <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T035340Z" creationid="miurahr" creationdate="20201115T035340Z">
-        <seg>この場合の起動時の引数は、OmegaT.exe ファイルと同じ場所にある &lt;&lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; ファイルから読み込まれます。このファイルを編集することで起動引数を変更できます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210103T091636Z" creationid="miurahr" creationdate="20201115T035340Z">
+        <seg>この場合の起動時の引数は、OmegaT.exe ファイルと同じ場所にある &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; ファイルから読み込まれます。このファイルを編集することで起動引数を変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44333,8 +44333,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="en">
         <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201115T035312Z" creationid="miurahr" creationdate="20201115T035312Z">
-        <seg>しかし、一番簡単なのはプログラム &lt;&lt;f0&gt;OmegaT.exe&lt;/f0&gt; を実行することです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210103T091557Z" creationid="miurahr" creationdate="20201115T035312Z">
+        <seg>しかし、一番簡単なのはプログラム &lt;f0&gt;OmegaT.exe&lt;/f0&gt; を実行することです。</seg>
       </tuv>
     </tu>
     <tu>
