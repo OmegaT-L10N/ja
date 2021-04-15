@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_d87c48795" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_5899b4458" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16888,6 +16888,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T064403Z">
         <seg>たとえばプロジェクトが英→日翻訳の言語設定になっている場合、alignDir フォルダーには、ファイル名が「_ja」で終わるバンドルが存在しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210415T062431Z" creationid="suzume" creationdate="20210415T062431Z">
+        <seg>EPWING プラグイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -34580,6 +34588,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210415T062339Z" creationid="suzume" creationdate="20210415T062339Z">
+        <seg>Trados TTX, Markdown など他のファイル形式を取り扱うためのフィルターを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T073128Z">
@@ -41201,6 +41217,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141829Z" creationid="miurahr" creationdate="20201101T141829Z">
         <seg>テスト中 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210415T062354Z" creationid="suzume" creationdate="20210415T062354Z">
+        <seg>TexTra プラグイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -56689,6 +56713,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T085625Z" creationid="Kasuya" creationdate="20160706T085625Z">
         <seg>mALIGNa（MIT ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Notarized</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210415T062450Z" creationid="suzume" creationdate="20210415T062450Z">
+        <seg>macOS (認証済み)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Unsigned</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210415T062515Z" creationid="suzume" creationdate="20210415T062515Z">
+        <seg>macOS (署名なし)</seg>
       </tuv>
     </tu>
     <tu>
