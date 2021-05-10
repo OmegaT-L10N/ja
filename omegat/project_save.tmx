@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_5899b4458" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_unknown" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1884,6 +1884,15 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T062354Z" creationid="miurahr" creationdate="20201101T062354Z">
+        <seg>（万が一、OmegaT プロジェクトへ大きく協力したのに、ここに名前がないという場合は、遠慮なくご連絡ください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233232Z" creationid="miurahr" creationdate="20210510T233232Z">
         <seg>（万が一、OmegaT プロジェクトへ大きく協力したのに、ここに名前がないという場合は、遠慮なくご連絡ください）</seg>
       </tuv>
     </tu>
@@ -12378,6 +12387,22 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T204610Z">
         <seg>チェチェン語（Chechen）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T232952Z" creationid="miurahr" creationdate="20210510T232952Z">
+        <seg>詳細については、以下の&lt;l3/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233006Z" creationid="miurahr" creationdate="20210510T233006Z">
+        <seg>詳細については、以下の&lt;l4/&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29781,6 +29806,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233248Z" creationid="miurahr" creationdate="20210510T233248Z">
+        <seg>公証化と無署名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T064545Z">
@@ -30938,6 +30971,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T015306Z" creationid="miurahr" creationdate="20201110T015306Z">
         <seg>OmegaT for Mac OS Xには、署名付きバージョンと署名なしバージョンの両方が用意されています。これらは機能的には同じですが、システムによって既知の開発者によって公開されたものとして認識されるため、署名付きバージョンが推奨されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233435Z" creationid="miurahr" creationdate="20210510T233435Z">
+        <seg>OmegaT for macOSには、公証バージョンと署名なしバージョンの両方が用意されています。これらは機能的には同じですが、システムによって既知の開発者によって公開されたものとして認識されるため、署名付きバージョンが推奨されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37388,6 +37429,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233053Z" creationid="miurahr" creationdate="20210510T233053Z">
+        <seg>詳細については、&lt;l0&gt;チームプロジェクトの使用&lt;/l0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T072822Z">
@@ -39697,6 +39746,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T231054Z" creationid="miurahr" creationdate="20201106T231054Z">
         <seg>特殊なケース:最小限の共有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Special case: selective sharing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T232630Z" creationid="miurahr" creationdate="20210510T232630Z">
+        <seg>特殊なケース:選択的な共有</seg>
       </tuv>
     </tu>
     <tu>
@@ -43478,6 +43535,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T232918Z" creationid="miurahr" creationdate="20210510T232918Z">
+        <seg>マッピングは、UI: &lt;m0&gt;&lt;g1&gt;プロジェクト&lt;/g1&gt;&lt;g2&gt;プロジェクト設定&lt;/g2&gt;&lt;g3&gt;リポジトリマッピング&lt;/g3&gt;&lt;/m0&gt;で追加するか、&lt;f4&gt;omegat.project&lt;/f4&gt;を直接編集して変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T061401Z">
@@ -43731,6 +43796,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T024847Z">
         <seg>この設定にチェックを入れると、PO ファイルのヘッダーにある複数形指定を、訳文言語に合わせて自動変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233105Z" creationid="miurahr" creationdate="20210510T233105Z">
+        <seg>このオプションは、このような選択が可能な場合にのみ表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49412,6 +49485,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T043035Z" creationid="miurahr" creationdate="20201115T043035Z">
         <seg>&lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;にある&lt;f0&gt;OmegaT.jar&lt;/f0&gt;ファイルを使用して、コマンド行から&lt;a2&gt;OmegaT&lt;/a2&gt;を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233142Z" creationid="miurahr" creationdate="20210510T233142Z">
+        <seg>Key=Value テキストを整合するには、&lt;g0&gt;ID&lt;/g0&gt;比較モードを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56833,6 +56914,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T043040Z" creationid="miurahr" creationdate="20201115T043040Z">
         <seg>macOSの特典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233337Z" creationid="miurahr" creationdate="20210510T233337Z">
+        <seg>macOSは、検証されていないプログラムの実行が困難になるため、セキュリティが向上します。</seg>
       </tuv>
     </tu>
     <tu>
