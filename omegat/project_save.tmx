@@ -8473,6 +8473,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234417Z" creationid="miurahr" creationdate="20210510T234355Z">
+        <seg>各プロジェクトは任意の数の用語集を参照用に持つことができますが、1つの用語集(プロジェクトのデフォルト用語集)のみがOmegaTユーザー・インターフェースから直接書き込み可能になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T025048Z">
@@ -20334,6 +20342,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234333Z" creationid="miurahr" creationdate="20210510T234333Z">
+        <seg>用語集(Glossaries)は、用語のファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T070253Z">
@@ -20447,6 +20463,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234247Z" creationid="miurahr" creationdate="20210510T234247Z">
+        <seg>用語の解説</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="ja" changeid="JC Helary" changedate="20130111T153512Z">
@@ -20459,6 +20483,22 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T225104Z" creationid="Kasuya" creationdate="20160705T104411Z">
         <seg>用語集ウィンドウ：用語集として既知の拡張子（&lt;f0&gt;.txt&lt;/f0&gt;、&lt;f1&gt;.tab&lt;/f1&gt;など）を持つファイルをこのウィンドウにドロップすると、そのファイルが&lt;f2&gt;用語集&lt;/f2&gt;フォルダにコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234238Z" creationid="miurahr" creationdate="20210510T234238Z">
+        <seg>用語集ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234243Z" creationid="miurahr" creationdate="20210510T234243Z">
+        <seg>用語集の翻訳</seg>
       </tuv>
     </tu>
     <tu>
@@ -23501,8 +23541,8 @@ double-click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T034208Z" creationid="miurahr" creationdate="20201101T034208Z">
-        <seg>重要: リストされたプラグインは、 OmegaT バージョン 4 以上で動作します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233920Z" creationid="miurahr" creationdate="20201101T034208Z">
+        <seg>重要: トークナイザープラグインは OmegaT バージョン 4以上 で統合されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23920,6 +23960,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130515T061528Z">
         <seg>Web Start 版をイントールするには、コンピューターに Java 1.3 以降がインストール済みである必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233719Z" creationid="miurahr" creationdate="20210510T233719Z">
+        <seg>Web Start 版をイントールするには、コンピューターに Java 1.8 以降がインストール済みである必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24902,6 +24950,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T080738Z">
         <seg>Apertium 機械翻訳の機能を OmegaT に組み込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233755Z" creationid="miurahr" creationdate="20210510T233755Z">
+        <seg>TexTra 機械翻訳エンジンを OmegaT に組み込みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26082,6 +26138,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T082038Z">
         <seg>タグがペアになっているタググループでは、開きタグは閉じタグの前になければならないということを忘れないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234228Z" creationid="miurahr" creationdate="20210510T234228Z">
+        <seg>翻訳されたテキストのタグを保持</seg>
       </tuv>
     </tu>
     <tu>
@@ -28101,6 +28165,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234222Z" creationid="miurahr" creationdate="20210510T234222Z">
+        <seg>不明な単語をマークする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T073714Z">
@@ -28409,6 +28481,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140203T114723Z">
         <seg>マージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234217Z" creationid="miurahr" creationdate="20210510T234217Z">
+        <seg>同じ用語の代替の定義を結合する</seg>
       </tuv>
     </tu>
     <tu>
@@ -29808,8 +29888,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Notarized vs Unsigned</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210510T233248Z" creationid="miurahr" creationdate="20210510T233248Z">
-        <seg>公証化と無署名</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233548Z" creationid="miurahr" creationdate="20210510T233248Z">
+        <seg>認証済みと署名なし</seg>
       </tuv>
     </tu>
     <tu>
@@ -30977,8 +31057,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210510T233435Z" creationid="miurahr" creationdate="20210510T233435Z">
-        <seg>OmegaT for macOSには、公証バージョンと署名なしバージョンの両方が用意されています。これらは機能的には同じですが、システムによって既知の開発者によって公開されたものとして認識されるため、署名付きバージョンが推奨されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233556Z" creationid="miurahr" creationdate="20210510T233435Z">
+        <seg>OmegaT for macOSには、認証済みバージョンと署名なしバージョンの両方が用意されています。これらは機能的には同じですが、システムによって既知の開発者によって公開されたものとして認識されるため、署名付きバージョンが推奨されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33344,6 +33424,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233725Z" creationid="miurahr" creationdate="20210510T233725Z">
+        <seg>定期ビルドはSourceforgeで入手できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Periodic builds are available on Sourceforge.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T124402Z" creationid="miurahr" creationdate="20201108T124402Z">
@@ -33632,6 +33720,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T160004Z">
         <seg>ユーザー名とパスワードを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234232Z" creationid="miurahr" creationdate="20210510T234232Z">
+        <seg>{0}のユーザー名/パスワードを入力してください</seg>
       </tuv>
     </tu>
     <tu>
@@ -34733,6 +34829,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233841Z" creationid="miurahr" creationdate="20210510T233841Z">
+        <seg>EPWING辞書形式を読み取る機能を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130520T215650Z">
@@ -35141,6 +35245,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T140957Z" creationid="amake" creationdate="20170128T140957Z">
         <seg>スクリプトフォルダー「{0}」を再読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234358Z" creationid="miurahr" creationdate="20210510T234358Z">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37573,6 +37685,14 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="ja" changeid="suzume" changedate="20200119T085013Z" creationid="Yu-Tang" creationdate="20160212T024452Z">
         <seg>有効な値の一覧は OmegaT.jar/META-INF/
 		MANIFEST.MF を参照してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233959Z" creationid="miurahr" creationdate="20210510T233959Z">
+        <seg>サポートされているファイルフォーマットのリストについては、設定&gt;ファイルフィルターを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42126,6 +42246,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233834Z" creationid="miurahr" creationdate="20210510T233834Z">
+        <seg>TexTra APIは、日本政府の研究機関であるNICTによって無償で提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150845Z" creationid="amake" creationdate="20170128T150845Z">
@@ -42332,6 +42460,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140717T161357Z">
         <seg>証明書は、フランスで登記された会社 &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt; によって署名されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233708Z" creationid="miurahr" creationdate="20210510T233708Z">
+        <seg>この証明書は、OmegaTのリード開発者によって署名されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45287,6 +45423,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233610Z" creationid="miurahr" creationdate="20210510T233610Z">
+        <seg>認証されたバージョンの公開が遅れる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T124640Z">
@@ -45457,6 +45601,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T170547Z">
         <seg>翻訳中、常に使用することになるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234341Z" creationid="miurahr" creationdate="20210510T234341Z">
+        <seg>手動で作成および更新することも、他のプロジェクトからインポートすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46907,6 +47059,22 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T083204Z">
         <seg>メニュー&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;プロジェクト&lt;/g5&gt; &lt;g6&gt;訳文ファイルを生成&lt;/g6&gt; &lt;/m0&gt;を選ぶと、この場所に訳文ファイルが生成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234204Z" creationid="miurahr" creationdate="20210510T234204Z">
+        <seg>プロジェクトにファイルを追加するには
+このエディタペインにファイルをドラッグアンドドロップします。
+-[プロジェクト]&gt;[原文ファイルを追加...]を使用します。
+「プロジェクトファイル」ウィンドウで「原文ファイルを追加...」をクリックします。
+-ファイルマネージャを使用してプロジェクトの 'source' フォルダにファイルをコピーし、[プロジェクト]&gt;[再読み込み]でプロジェクトを再読み込みします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49844,6 +50012,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T233628Z" creationid="miurahr" creationdate="20210510T233628Z">
+        <seg>急いでいるユーザーは、代わりに署名なしバージョンを使用できます。アプリケーションの起動に問題がある場合は、&lt;a0&gt;身元不明の開発者からアプリケーションを開く方法&lt;/a0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T015348Z" creationid="miurahr" creationdate="20201110T015348Z">
@@ -51641,6 +51817,14 @@ https://ja.wordpress.org/</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T160028Z">
         <seg>ユーザー名とパスワードが間違っています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T234235Z" creationid="miurahr" creationdate="20210510T234235Z">
+        <seg>{0}のユーザー名/パスワードが正しくありません</seg>
       </tuv>
     </tu>
     <tu>
