@@ -5212,6 +5212,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.8 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T034153Z" creationid="suzume" creationdate="20210416T034153Z">
+        <seg>&lt;i1&gt;OmegaT は、 Java ランタイム環境のバージョン 8 を実行できる任意のオペレーティング・システム上にインストールできます。&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T190823Z">
@@ -8191,6 +8199,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130410T151858Z">
         <seg>&lt;ショートカット&gt; は次の形式に従います：０個以上の &lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt;、続いて０個または１個の &lt;c1&gt;&lt;イベント&gt;&lt;/c1&gt;、続いて１個の &lt;c2&gt;&lt;キー&gt;&lt;/c2&gt;。ただし：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T033823Z" creationid="suzume" creationdate="20210416T033728Z">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS のデフォルトエンコーディング&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS のデフォルトエンコーディング&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Extension&lt;/t1&gt; &lt;t2&gt;Encoding&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T033624Z" creationid="suzume" creationdate="20210416T033600Z">
+        <seg>&lt;t0&gt;形式&lt;/t0&gt; &lt;t1&gt;拡張子&lt;/t1&gt; &lt;t2&gt;エンコーディング&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11626,6 +11650,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T073849Z">
         <seg>バグ報告も同じく SourceForge 内の開発サイトへ（英語のみ）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T034143Z" creationid="suzume" creationdate="20210416T034143Z">
+        <seg>バグ、機能追加の要望、文書に関する問題は、以下に示す管理システムにより SourceForge 上で取り扱っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19470,6 +19502,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T033951Z" creationid="suzume" creationdate="20210416T033951Z">
+        <seg>たとえば、デフォルト設定のままであれば、補助的な翻訳メモリから自動挿入された訳文には、先頭に「&lt;e3&gt;[参考]&lt;/e3&gt;」という接頭辞が付きます。これにより、翻訳者が後から翻訳を見直すときに、その訳文が参考訳文のままなのかどうかを簡単に識別できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060711Z" creationid="miurahr" creationdate="20201115T060711Z">
@@ -23466,6 +23506,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T034046Z" creationid="suzume" creationdate="20210416T034046Z">
+        <seg>&lt;g0&gt;Heapwise&lt;/g0&gt;比較モードでは、テキストはグローバルに評価されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061629Z" creationid="miurahr" creationdate="20201115T061629Z">
@@ -23478,6 +23526,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T192356Z">
         <seg>&lt;g0&gt;［設定］→［外部 TMX ファイル...］&lt;/g0&gt;で表示されるダイアログから、参考訳文ウィンドウの表示方法を設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T034054Z" creationid="suzume" creationdate="20210416T034054Z">
+        <seg>&lt;g1&gt;Parsewise&lt;/g1&gt;比較モードでは、セグメントごとに評価されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30717,6 +30773,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T034131Z" creationid="suzume" creationdate="20210416T034131Z">
+        <seg>OmegaT は、以下に示すメーリングリストや管理システムも持っています。これらは SourceForge がホストになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130326T062833Z">
@@ -30801,6 +30865,14 @@ as the Applications folder.</seg>
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T031155Z" creationid="miurahr" creationdate="20201101T031155Z">
+        <seg>OmegaT は現在 JRE のバージョン 8 以降を必要としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T034201Z" creationid="suzume" creationdate="20210416T034201Z">
         <seg>OmegaT は現在 JRE のバージョン 8 以降を必要としています。</seg>
       </tuv>
     </tu>
@@ -32424,6 +32496,14 @@ happen should you file a bug report.</seg>
         <seg>Opens the &lt;l0&gt;Project files window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210103T092136Z" creationid="miurahr" creationdate="20201115T054846Z">
+        <seg>&lt;l0&gt;[翻訳対象ファイル一覧]&lt;/l0&gt;ウィンドウを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210416T034020Z" creationid="suzume" creationdate="20210416T034020Z">
         <seg>&lt;l0&gt;[翻訳対象ファイル一覧]&lt;/l0&gt;ウィンドウを開きます。</seg>
       </tuv>
     </tu>
