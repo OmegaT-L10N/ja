@@ -8713,6 +8713,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T235447Z" creationid="miurahr" creationdate="20210510T235447Z">
+        <seg>3番目に可能なフォーマットは"TBX"(TermBase eXchange)ISO標準です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A translation project &lt;e0&gt;Example_Project&lt;/e0&gt; created with the default settings will be created as a new subfolder with the following structure:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T064611Z">
@@ -19856,6 +19864,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format, extensions and expected encoding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T235458Z" creationid="miurahr" creationdate="20210510T235458Z">
+        <seg>フォーマット、拡張、および予想されるエンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130614T101300Z">
@@ -20366,10 +20382,34 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T235456Z" creationid="miurahr" creationdate="20210510T235456Z">
+        <seg>用語集は、ファイル拡張子に応じたエンコーディングで読み取られます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210510T234333Z" creationid="miurahr" creationdate="20210510T234333Z">
         <seg>用語集(Glossaries)は、用語のファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries located in nested folders are also recognized.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T235536Z" creationid="miurahr" creationdate="20210510T235536Z">
+        <seg>フォルダ内のさらにフォルダー内にある用語集も認識されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;/glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T235509Z" creationid="miurahr" creationdate="20210510T235509Z">
+        <seg>用語集は&lt;f0&gt;/glossary&lt;/f0&gt;プロジェクトフォルダに配置する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33619,6 +33659,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T235441Z" creationid="miurahr" creationdate="20210510T235441Z">
+        <seg>平文の用語集には、タブ区切り形式(TSV)ファイルとカンマ区切り形式(CSV)ファイルがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Platform</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T124722Z" creationid="miurahr" creationdate="20201108T124722Z">
@@ -44279,6 +44327,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T155141Z">
         <seg>プロジェクトを確認できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T235453Z" creationid="miurahr" creationdate="20210510T235453Z">
+        <seg>プロジェクトのデフォルトの書き込み可能な用語集は、常にUTF-8エンコーディングで保存されたTSVファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55935,6 +55991,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130226T073225Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210510T235547Z" creationid="miurahr" creationdate="20210510T235547Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
