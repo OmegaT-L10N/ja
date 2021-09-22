@@ -20759,6 +20759,22 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210922T044202Z" creationid="suzume" creationdate="20210922T044202Z">
+        <seg>予期しない HTTP レスポンス {0} です！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210922T044113Z" creationid="suzume" creationdate="20210922T044029Z">
+        <seg>予期しない MIME タイプ {0} です！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T141136Z" creationid="amake" creationdate="20170128T141136Z">
@@ -30922,6 +30938,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141031T085604Z" creationid="Yu-Tang" creationdate="20141031T085604Z">
         <seg>配色のカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="ja" changeid="suzume" changedate="20210922T044231Z" creationid="suzume" creationdate="20210922T044231Z">
+        <seg>OmegaTのデフォルト</seg>
       </tuv>
     </tu>
     <tu>
