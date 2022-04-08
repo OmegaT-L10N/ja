@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_17408d737" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_2ceb72b4f" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22177,6 +22177,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If it is &lt;f0&gt;tar.bz&lt;/f0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220408T053444Z" creationid="Hiroshi Miura" creationdate="20220408T053444Z">
+        <seg>&lt;f0&gt;tar.bz&lt;/f0&gt; だったら、圧縮ファイルを展開し忘れています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130318T044141Z">
@@ -23404,6 +23412,15 @@ OmegaT.</seg>
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T041643Z" creationid="miurahr" creationdate="20201101T041643Z">
+        <seg>このオプションのチェックを外すと、現在のセグメントで&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt;(OS Xでは&lt;k3&gt;&lt;k4&gt;Cmd&lt;/k4&gt;&lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt;)を押した場合にのみ、自動翻訳がフェッチされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; (&lt;k3&gt;&lt;k4&gt;Cmd&lt;/k4&gt;&lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220408T053643Z" creationid="Hiroshi Miura" creationdate="20220408T053643Z">
         <seg>このオプションのチェックを外すと、現在のセグメントで&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt;(OS Xでは&lt;k3&gt;&lt;k4&gt;Cmd&lt;/k4&gt;&lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt;)を押した場合にのみ、自動翻訳がフェッチされます。</seg>
       </tuv>
     </tu>
@@ -45758,11 +45775,12 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
       <tuv lang="en">
         <seg>There should be three files, with extensions &lt;f2&gt;dz, idx &lt;/f2&gt;and &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220408T035837Z" creationid="Hiroshi Miura" creationdate="20220408T035837Z">
-        <seg>There should be three files, with extensions &lt;f2&gt;dz, idx &lt;/f2&gt;and &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220408T053325Z" creationid="Hiroshi Miura" creationdate="20220408T035837Z">
+        <seg>拡張子は &lt;f2&gt;dz、 idx &lt;/f2&gt;、および &lt;f3&gt;ifo&lt;/f3&gt;の 3 つのファイルがあるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53340,6 +53358,15 @@ window to be able to launch it from any location.</seg>
         <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T041714Z" creationid="miurahr" creationdate="20201101T041714Z">
+        <seg>次に、再度 &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; を押して、提案された機械翻訳を挿入する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You must then press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220408T053655Z" creationid="Hiroshi Miura" creationdate="20220408T053655Z">
         <seg>次に、再度 &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; を押して、提案された機械翻訳を挿入する必要があります。</seg>
       </tuv>
     </tu>
