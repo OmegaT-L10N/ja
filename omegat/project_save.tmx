@@ -51394,6 +51394,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When OmegaT encounters a file in its &lt;f0&gt;source&lt;/f0&gt; folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220424T101534Z" creationid="miurahr" creationdate="20220424T101534Z">
+        <seg>OmegaT は原文フォルダー(&lt;f0&gt;source&lt;/f0&gt;)にファイルを見つけると、まず拡張子から判別してファイルフィルターを選択しようとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T133004Z">
