@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33e26efc3" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT_(Edge edition)" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_3be0a7858" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5084,7 +5084,6 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
@@ -19512,6 +19511,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l4&gt;readme, read.me&lt;/l4&gt;, and &lt;l5&gt;readme.txt&lt;/l5&gt;) you should use the pattern &lt;l6&gt;read*&lt;/l6&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220424T100954Z" creationid="miurahr" creationdate="20220424T100954Z">
+        <seg>たとえばテキストフィルターを readme ファイル（&lt;l4&gt;readme, read.me&lt;/l4&gt; や &lt;l5&gt;readme.txt&lt;/l5&gt;）にも対応させたい場合は、ファイル名構成例に &lt;l6&gt;read*&lt;/l6&gt;を指定してください。（日本語訳注：実際にはワイルドカード文字と衝突しない範囲で、正規表現も使用できます。たとえばファイル名の末尾に数字のついた、拡張子 .foo のファイルを扱いたい場合は、&lt;l5&gt;*\d.foo&lt;/l5&gt; のような指定が可能です。正規表現の詳細は、http://docs.oracle.com/javase/jp/6/api/java/util/regex/Pattern.html を参照してください）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you wish to create a pseudo-translation for testing purposes, OmegaT enables you to create an additional tmx file that contains all segments of the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T050556Z">
@@ -20591,7 +20598,6 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Glossary layout</seg>
       </tuv>
@@ -23466,7 +23472,6 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; (&lt;k3&gt;&lt;k4&gt;Cmd&lt;/k4&gt;&lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
@@ -28695,7 +28700,6 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Merge alternate definition for the same term</seg>
       </tuv>
@@ -45882,7 +45886,6 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[IBM Watson]</prop>
       <tuv lang="en">
         <seg>There should be three files, with extensions &lt;f2&gt;dz, idx &lt;/f2&gt;and &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
       </tuv>
@@ -53493,7 +53496,6 @@ window to be able to launch it from any location.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>You must then press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
       </tuv>
