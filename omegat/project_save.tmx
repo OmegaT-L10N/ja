@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_2ceb72b4f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33e26efc3" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5084,11 +5084,36 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T095233Z" creationid="Hiroshi Miura" creationdate="20220424T095233Z">
+        <seg>すべてのタグの空白を維持：原文ファイルにとって空白文字がレイアウトに利用されており、それを無視すべきでない場合は、このオプションのチェックを入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144524Z" creationid="miurahr" creationdate="20201101T144524Z">
         <seg>&lt;g0&gt;プロジェクト&lt;/g0&gt; &lt;g1&gt;新規...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Remove leading and trailing tags&lt;/g0&gt;: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T095058Z" creationid="Hiroshi Miura" creationdate="20220424T095058Z">
+        <seg>&lt;g0&gt;Remove leading and trailing tags&lt;/g0&gt;: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Remove leading and trailing whitespace in non-segmented projects&lt;/g0&gt;: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T095151Z" creationid="Hiroshi Miura" creationdate="20220424T095151Z">
+        <seg>&lt;g0&gt;分節化しないプロジェクトから、先頭と末尾の空白文字を削除&lt;/g0&gt;：OmegaT は既定で、先頭と末尾の空白文字を削除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13135,6 +13160,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g1&gt;Defaults&lt;/g1&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T095001Z" creationid="Hiroshi Miura" creationdate="20220424T095001Z">
+        <seg>&lt;g1&gt;&gt;［初期値を復元］&lt;/g1&gt;&gt; をクリックすると、それまでのフィルター設定をリセットし初期設定に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click in the other column on the translation corresponding to the first segment.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061744Z" creationid="miurahr" creationdate="20201115T061744Z">
@@ -20558,6 +20591,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Glossary layout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094447Z" creationid="Hiroshi Miura" creationdate="20220424T094447Z">
+        <seg>用語集レイアウト:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
@@ -21907,6 +21949,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T161945Z">
         <seg>ある文が、すでに過去に一度翻訳されていて、しかもその内容が正しい場合、それをもう一度翻訳し直す必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a glossary item has alternate definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094731Z" creationid="Hiroshi Miura" creationdate="20220424T094731Z">
+        <seg>用語集の用語に複数の定義があったときには、それらは同じ行に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27018,6 +27068,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layout variations can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094606Z" creationid="Hiroshi Miura" creationdate="20220424T094606Z">
+        <seg>選択可能なレイアウトの種類は、プラグインとして追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lead developer</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130412T112416Z">
@@ -28634,6 +28692,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140203T114723Z">
         <seg>マージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Merge alternate definition for the same term</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094627Z" creationid="Hiroshi Miura" creationdate="20220424T094627Z">
+        <seg>同じ用語の代替の定義を結合する</seg>
       </tuv>
     </tu>
     <tu>
@@ -31921,6 +31988,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T035521Z">
         <seg>フィルターを無効にしているファイル形式のファイルは、プロジェクトの読み込み時に無視され、訳文生成時には未変更の状態で訳文フォルダーにコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the &lt;f0&gt;target&lt;/f0&gt; folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094942Z" creationid="Hiroshi Miura" creationdate="20220424T094942Z">
+        <seg>フィルターを無効にしているファイル形式のファイルは、プロジェクトの読み込み時に無視され、訳文生成時には未変更の状態で&lt;f0&gt;target&lt;/f0&gt;フォルダーにコピーされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41979,6 +42054,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T095256Z" creationid="Hiroshi Miura" creationdate="20220424T095256Z">
+        <seg>ワイルドカード「*」は０個以上の任意の文字と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T135153Z">
@@ -42813,6 +42896,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130301T121129Z">
         <seg>OmegaT はバージョン管理に基づいた共同翻訳機能を提供します。バージョン管理はソフトウェアの分野で広く使われている手法で、プログラムのソースコードに関する変更を維持・管理し、チームによる共同開発作業を強力に支援します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094802Z" creationid="Hiroshi Miura" creationdate="20220424T094802Z">
+        <seg>用語集をダウンロードすると、現在の&lt;f0&gt;glossary&lt;/f0&gt;フォルダー内に TBX 形式で保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45567,6 +45658,22 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094809Z" creationid="Hiroshi Miura" creationdate="20220424T094809Z">
+        <seg>テーマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme can also be added as plugins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094918Z" creationid="Hiroshi Miura" creationdate="20220424T094918Z">
+        <seg>新たなテーマは、プラグインから追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20210922T043937Z" creationid="suzume" creationdate="20210922T043937Z">
@@ -47733,6 +47840,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T045822Z" creationid="miurahr" creationdate="20201101T045822Z">
         <seg>フィルター対象とするファイルやエンコーディングを変更する場合は&lt;e1&gt;［編集...］&lt;/e1&gt;をクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;g2&gt;Edit&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T095036Z" creationid="Hiroshi Miura" creationdate="20220424T095036Z">
+        <seg>フィルター対象とするファイルやエンコーディングを変更する場合は&lt;g2&gt;［編集...］&lt;/g2&gt;をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53081,6 +53196,22 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T062036Z" creationid="miurahr" creationdate="20201115T062036Z">
         <seg>&lt;k1&gt;↑&lt;/k1&gt;および&lt;k2&gt;↓&lt;/k2&gt;キーを用いてファイルを選択し、&lt;k3&gt;Enter&lt;/k3&gt;を押して翻訳作業のために開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a glossary pane contents layout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094526Z" creationid="Hiroshi Miura" creationdate="20220424T094526Z">
+        <seg>用語集画面のレイアウトを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a theme for OmegaT's user interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094836Z" creationid="Hiroshi Miura" creationdate="20220424T094836Z">
+        <seg>OmegaTのユーザインタフェースのレテーマを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
