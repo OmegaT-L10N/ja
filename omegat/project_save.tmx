@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT_(Edge edition)" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_3be0a7858" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT_(Edge edition)" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_80ccd70f5" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5069,10 +5069,26 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220505T060500Z" creationid="miurahr" creationdate="20220505T060500Z">
+        <seg>&lt;g0&gt;訳文ファイルの空分節を許可&lt;/g0&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T034032Z" creationid="Yu-Tang" creationdate="20141104T034032Z">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;：整形されたファイルの中で、タグが欠けていたり、位置が変わったりしている箇所がないかを調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220505T060430Z" creationid="miurahr" creationdate="20220505T060430Z">
+        <seg>&lt;g0&gt;複数訳文の識別時にファイルのフルパス情報を無視する&lt;/g0&gt;：OmegaT は既定で、原文ファイル名を複数訳文の識別基準のひとつに利用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5129,6 +5145,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T055006Z" creationid="miurahr" creationdate="20201115T055006Z">
         <seg>&lt;g0&gt;用語の問題&lt;/g0&gt;(オプション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translate the following attributes&lt;/g0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220505T060523Z" creationid="miurahr" creationdate="20220505T060523Z">
+        <seg>&lt;g0&gt;以下の属性を翻訳：&lt;/g0&gt;選択した属性を編集ウィンドウで分節として表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48116,6 +48140,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T050838Z" creationid="miurahr" creationdate="20201101T050838Z">
         <seg>設定を変更する場合は、フィルターを選択して&lt;e0&gt;［設定...］&lt;/e0&gt; を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220505T060448Z" creationid="miurahr" creationdate="20220505T060448Z">
+        <seg>設定を変更する場合は、フィルターを選択して&lt;g0&gt;［設定...］&lt;/g0&gt; を押してください。</seg>
       </tuv>
     </tu>
     <tu>
