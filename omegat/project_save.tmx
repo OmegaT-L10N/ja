@@ -5069,6 +5069,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Aggregate tags&lt;/g0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032457Z" creationid="miurahr" creationdate="20220507T032457Z">
+        <seg>&lt;g0&gt;タグを結合&lt;/g0&gt;：チェックが入っていれば、翻訳対象テキストを含まない連続するタグを１つのタグに結合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220505T060500Z" creationid="miurahr" creationdate="20220505T060500Z">
@@ -5081,6 +5089,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T034032Z" creationid="Yu-Tang" creationdate="20141104T034032Z">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;：整形されたファイルの中で、タグが欠けていたり、位置が変わったりしている箇所がないかを調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...&lt;/g0&gt;: the meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032420Z" creationid="miurahr" creationdate="20220507T032420Z">
+        <seg>&lt;g0&gt;metaタグ内の以下の属性と値は翻訳しない（カンマ区切りで複数指定）&lt;/g0&gt;：ここで指定した meta タグは翻訳されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/g0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032444Z" creationid="miurahr" creationdate="20220507T032444Z">
+        <seg>&lt;g0&gt;以下の属性と値を持つタグの内容は翻訳しない（カンマ区切りで複数指定）&lt;/g0&gt;：ここでキー＝値の形式で指定したタグは翻訳されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5109,6 +5133,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032530Z" creationid="miurahr" creationdate="20220507T032530Z">
+        <seg>&lt;g0&gt;すべてのタグの空白を維持&lt;/g0&gt;：チェックが入っていれば、空白文字（半角スペースや改行など）を保持します。たとえそれが文書中で意味が無い場合でも残します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144524Z" creationid="miurahr" creationdate="20201101T144524Z">
@@ -5133,10 +5165,26 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032323Z" creationid="miurahr" creationdate="20220507T032323Z">
+        <seg>&lt;g0&gt;以下の正規表現に一致する文字列を翻訳しない&lt;/g0&gt;：指定した正規表現に一致するテキストは、翻訳対象とせずスキップすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054955Z" creationid="miurahr" creationdate="20201115T054955Z">
         <seg>&lt;g0&gt;[スペルチェックの問題]&lt;/g0&gt;(オプション)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Start a new paragraph on&lt;/g0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032333Z" creationid="miurahr" creationdate="20220507T032303Z">
+        <seg>&lt;g0&gt;以下のタグで分節化&lt;/g0&gt;： HTML の &lt;br&gt; タグがある場所を段落とみなして分節化することができます。</seg>
       </tuv>
     </tu>
     <tu>
