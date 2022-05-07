@@ -9554,6 +9554,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After segmenting the source file into structural units, OmegaT will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032926Z" creationid="miurahr" creationdate="20220507T032926Z">
+        <seg>原文ファイルを論理的な区切りで分節化した後、OmegaTはさらにそれらを文単位で分節化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T081758Z" creationid="miurahr" creationdate="20201115T061748Z">
@@ -11133,6 +11141,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160308T150425Z" creationid="Yu-Tang" creationdate="20160308T150425Z">
         <seg>入力補完は訳文分節欄でショートカット &lt;e0&gt;Ctrl+Space&lt;/e0&gt; を押すと呼び出せます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completer is launched within the target segment via &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T033019Z" creationid="miurahr" creationdate="20220507T033019Z">
+        <seg>入力補完は訳文分節欄でショートカット &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt; を押すと呼び出せます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31439,6 +31455,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032912Z" creationid="miurahr" creationdate="20220507T032912Z">
+        <seg>OmegaT は、まず構造単位の分節化を行うため、文書の構文を解析します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T024324Z">
@@ -32030,6 +32054,14 @@ installed on your system.</seg>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20170127T233956Z" creationid="Yu-Tang" creationdate="20170127T233956Z">
         <seg>OmegaT は以下に示すライブラリを使用しています。
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032901Z" creationid="miurahr" creationdate="20220507T032901Z">
+        <seg>OmegaTは下記の通りに一連の処理を実施します：</seg>
       </tuv>
     </tu>
     <tu>
