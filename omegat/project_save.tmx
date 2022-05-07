@@ -3811,6 +3811,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032645Z" creationid="miurahr" creationdate="20220507T032645Z">
+        <seg>&lt;自動&gt; は、OmegaT に自動的に判断させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130312T034207Z">
@@ -5069,6 +5077,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/g0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032553Z" creationid="miurahr" creationdate="20220507T032553Z">
+        <seg>&lt;g0&gt;以下の場合に HTML・XHTML ファイルにエンコーディング宣言を追加または変更&lt;/g0&gt;：訳文ファイルのエンコーディング文字セットを、原文ファイルのそれ（明示的に指定されたものであれ、暗黙に適用されたものであれ）とは違うものにしたいということは、よくあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Aggregate tags&lt;/g0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220507T032457Z" creationid="miurahr" creationdate="20220507T032457Z">
@@ -5085,10 +5101,26 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032608Z" creationid="miurahr" creationdate="20220507T032608Z">
+        <seg>&lt;g0&gt;訳文ファイルの空白圧縮&lt;/g0&gt;：連続する空白文字がある場合、訳文ファイル生成時に空白文字一つだけに変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T034032Z" creationid="Yu-Tang" creationdate="20141104T034032Z">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;：整形されたファイルの中で、タグが欠けていたり、位置が変わったりしている箇所がないかを調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032847Z" creationid="miurahr" creationdate="20220507T032847Z">
+        <seg>&lt;g0&gt;meta タグ内の以下の属性と値は翻訳しない（カンマ区切りで複数指定）：&lt;/g0&gt;ここで指定した meta タグは翻訳されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5145,6 +5177,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144524Z" creationid="miurahr" creationdate="20201101T144524Z">
         <seg>&lt;g0&gt;プロジェクト&lt;/g0&gt; &lt;g1&gt;新規...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Remove HTML comments in translated document&lt;/g0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032621Z" creationid="miurahr" creationdate="20220507T032621Z">
+        <seg>&lt;g0&gt;訳文ファイルの HTML コメントを削除&lt;/g0&gt;：コメント部（&lt;!-- から --&gt; までのあいだ）を訳文ファイルに出力しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22493,6 +22533,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m3&gt; &lt;g4&gt;Options&lt;/g4&gt; &lt;g5&gt;Segmentation...&lt;/g5&gt; &lt;/m3&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032826Z" creationid="miurahr" creationdate="20220507T032826Z">
+        <seg>文単位の分節化を選択した場合、分節化規則は、メインメニューの&lt;m3&gt;&lt;g4&gt;［設定］&lt;/g4&gt;&lt;g5&gt;［分節化...］&lt;/g5&gt;&lt;/m3&gt;で設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T053850Z" creationid="miurahr" creationdate="20201101T053850Z">
@@ -24256,6 +24304,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20140203T005802Z">
         <seg>OmegaT を実行するには、Java Runtime Environment（JRE）がコンピューターにインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032734Z" creationid="miurahr" creationdate="20220507T032734Z">
+        <seg>分節化の方法を選択するには、メインメニューから&lt;m0&gt;&lt;g1&gt;［プロジェクト］&lt;/g1&gt;&lt;/g2&gt;［プロジェクト設定...］&lt;/g2&gt;&lt;/m0&gt;を開き、表示されるチェックボックスを使用してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31483,6 +31539,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T050440Z" creationid="suzume" creationdate="20200119T050440Z">
         <seg>3.6 形式のチームプロジェクトが検出されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220507T032658Z" creationid="miurahr" creationdate="20220507T032658Z">
+        <seg>OmegaT がテキストを分節化する方法は２つあります。段落単位の分節化と、文単位の分節化（「ルールベースの分節化」とも呼ばれます）です。</seg>
       </tuv>
     </tu>
     <tu>
