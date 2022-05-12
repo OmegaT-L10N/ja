@@ -12095,6 +12095,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the &lt;f0&gt;tm&lt;/f0&gt; folder is below the project's root folder (e.g. ...&lt;f1&gt;MyProject/tm&lt;/f1&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115751Z" creationid="miurahr" creationdate="20220512T115751Z">
+        <seg>デフォルトでは、&lt;f0&gt;tm&lt;/f0&gt;フォルダーはプロジェクトのルートフォルダーの下（たとえば &lt;f1&gt;MyProject/tm&lt;/f1&gt;）にあります。しかし必要であれば、プロジェクトの設定でその位置を変えてもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T055349Z" creationid="miurahr" creationdate="20201101T055349Z">
@@ -12779,6 +12787,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140604T151421Z">
         <seg>長すぎる訳文を検査</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for possible Tag errors with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; and untranslated segments with &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115859Z" creationid="miurahr" creationdate="20220512T115859Z">
+        <seg>タグのエラーが無いか、&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; で確認してください。未翻訳分節は&lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt; で確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14362,6 +14378,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054510Z" creationid="miurahr" creationdate="20201115T054510Z">
         <seg>ページのURL(&lt;g0&gt;action=edit&lt;/g0&gt;で終わる)をコピーし、&lt;a1&gt;OmegaT&lt;/a1&gt;に貼り付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the documents, you need the translation memory for, into the &lt;f0&gt;source&lt;/f0&gt; folder of the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115802Z" creationid="miurahr" creationdate="20220512T115802Z">
+        <seg>翻訳メモリの対象にしたい原文文書を、&lt;f0&gt;source&lt;/f0&gt; フォルダーにコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24706,6 +24730,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T015858Z">
         <seg>この場合は、使いたい翻訳メモリを新しいプロジェクトの &lt;e0&gt;tm&lt;/e0&gt; フォルダーか &lt;e1&gt;tm/auto&lt;/e1&gt; フォルダーに配置してください。前者では、翻訳メモリから見つかった分節が参考訳文ウィンドウに表示されます。後者では、下訳として訳文分節に自動挿入されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, place the translation memories you wish to use in the &lt;f0&gt;/tm&lt;/f0&gt; or &lt;f1&gt;tm/auto&lt;/f1&gt; folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115720Z" creationid="miurahr" creationdate="20220512T115720Z">
+        <seg>この場合は、使いたい翻訳メモリを新しいプロジェクトの &lt;f0&gt;/tm&lt;/f0&gt; フォルダーか &lt;f1&gt;tm/auto&lt;/f1&gt; フォルダーに配置してください。前者では、翻訳メモリから見つかった分節が参考訳文ウィンドウに表示されます。後者では、下訳として訳文分節に自動挿入されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53615,6 +53647,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T171846Z">
         <seg>検索ウィンドウのウィンドウタイトルには検索文字列が設定されるため、検索ウィンドウが複数開いていても、容易に識別できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can regard these three tmx files (&lt;f0&gt;-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; and &lt;f2&gt;-level2.tmx&lt;/f2&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115653Z" creationid="miurahr" creationdate="20220512T115653Z">
+        <seg>これら３つの TMX ファイル（&lt;f0&gt;-omegat.tmx&lt;/f0&gt;、&lt;f1&gt;-level1.tmx&lt;/f1&gt;、&lt;f2&gt;-level2.tmx&lt;/f2&gt;）は「エクスポートした翻訳メモリ」、つまり現在のプロジェクトの内容をバイリンガル形式で外部出力したものと、みなすことができます。</seg>
       </tuv>
     </tu>
     <tu>
