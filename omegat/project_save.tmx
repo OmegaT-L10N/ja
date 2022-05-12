@@ -45428,6 +45428,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The solution in our example is to copy the existing translation memory into the &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115957Z" creationid="miurahr" creationdate="20220512T115957Z">
+        <seg>この例における解決策は、既存の翻訳メモリを &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; フォルダーにコピーし、訳文言語を示すために ZH_CN.tmx とリネームすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151103T173657Z" creationid="Yu-Tang" creationdate="20151103T173657Z">
@@ -48051,6 +48059,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T032426Z">
         <seg>問題が無ければ、&lt;k2&gt;Ctrl+D&lt;/k2&gt; を押して訳文ファイルを生成し、その内容を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check everything is as expected, you may press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115933Z" creationid="miurahr" creationdate="20220512T115933Z">
+        <seg>問題が無ければ、&lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; を押して訳文ファイルを生成し、その内容を確認します。</seg>
       </tuv>
     </tu>
     <tu>
