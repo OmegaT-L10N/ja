@@ -22837,6 +22837,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the source file is modified after you have begun translating, OmegaT may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115523Z" creationid="miurahr" creationdate="20220512T115523Z">
+        <seg>翻訳を開始した後に原文ファイルを変更すると、OmegaT は既に翻訳した分節を見つけられなくなるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130226T073730Z">
@@ -28193,6 +28201,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T090841Z">
         <seg>omegat フォルダーにある project_save.tmx ファイルを、CD や DVD のような外部メディアや、クラウド ストレージに、定期的にコピーをとっておきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115433Z" creationid="miurahr" creationdate="20220512T115433Z">
+        <seg>&lt;f0&gt;omegat/project_save.tmx &lt;/f0&gt;ファイルを、CD や DVD のような外部メディアや、クラウド ストレージに、定期的にコピーをとっておきましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39514,6 +39530,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;OmegaT user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115541Z" creationid="miurahr" creationdate="20220512T115541Z">
+        <seg>それでも問題が解決しない場合は、&lt;u0&gt;OmegaT ユーザーグループ&lt;/u0&gt;に投稿してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you wish not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T035158Z">
@@ -41794,6 +41818,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T143910Z" creationid="miurahr" creationdate="20201101T143910Z">
         <seg>新規パスワードを作成する前に、これらすべての詳細を記録するように注意してください。これらはすべて削除されるため、再入力する必要があるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take particular care when making changes to the files in &lt;f0&gt;source&lt;/f0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115501Z" creationid="miurahr" creationdate="20220512T115501Z">
+        <seg>翻訳作業全体の途中で &lt;f0&gt;source&lt;/f0&gt; にあるファイルを変更した場合は、特に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50065,6 +50097,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Until you are familiar with OmegaT, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115444Z" creationid="miurahr" creationdate="20220512T115444Z">
+        <seg>OmegaT の使用に慣れるまでは、翻訳ファイルを定期的に作成し、翻訳後のファイルに最新の翻訳内容が反映されているかを、こまめに確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Until you have some experience with OmegaT, it is safest to consider all settings final once the translation has started – unless of course you realize a major mistake has been made.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T142952Z">
@@ -52066,6 +52106,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create the target documents in an OmegaT project, the translation memory of the project is output in the form of three files in the root folder of your OmegaT project (see the above description).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115601Z" creationid="miurahr" creationdate="20220512T115601Z">
+        <seg>OmegaT プロジェクト内で訳文ファイルを生成すると、プロジェクトの翻訳メモリは、OmegaTプロジェクトフォルダーに３種類のファイルとして出力されます（前述の説明を参照）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T234526Z" creationid="miurahr" creationdate="20201106T234526Z">
@@ -52150,6 +52198,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T165001Z">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; は、翻訳作業のすべての内容を翻訳メモリ（&lt;l4&gt;omegat&lt;/l4&gt; フォルダーの &lt;l3&gt;project_save.tmx&lt;/l3&gt; ファイル）に保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you translate your files, OmegaT stores all your progress in the translation memory &lt;f0&gt;project_save.tmx&lt;/f0&gt; that resides in the project's &lt;f1&gt;omegat&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115342Z" creationid="miurahr" creationdate="20220512T115342Z">
+        <seg>OmegaT は、翻訳作業のすべての内容を翻訳メモリ（&lt;f1&gt;omegat&lt;/f1&gt; フォルダーの &lt;f0&gt;project_save.tmx&lt;/f0&gt; ファイル）に保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59434,6 +59490,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T120842Z">
         <seg>カーソルの直前から現在の単語の先頭の文字までを削除します（Mac：&lt;e0&gt;Alt+Backspace&lt;/e0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T115354Z" creationid="miurahr" creationdate="20220512T115354Z">
+        <seg>そのファイル名を &lt;f0&gt;project_save.tmx&lt;/f0&gt; に変更する</seg>
       </tuv>
     </tu>
     <tu>
