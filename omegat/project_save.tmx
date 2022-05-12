@@ -9410,6 +9410,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding OmegaT to the Dock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124037Z" creationid="miurahr" creationdate="20220512T124037Z">
+        <seg>OmegaTのドックへの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding OmegaT to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T123742Z" creationid="miurahr" creationdate="20220512T120350Z">
@@ -12595,6 +12603,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T204610Z">
         <seg>チェチェン語（Chechen）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check "&lt;l2/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124125Z" creationid="miurahr" creationdate="20220512T124125Z">
+        <seg>詳細については、以下の&lt;l2/&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19444,6 +19460,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow your system's instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124314Z" creationid="miurahr" creationdate="20220512T124314Z">
+        <seg>便利な場所にOmegaTのショートカットを作成するには、それぞれのシステムのマニュアルを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="ja" changeid="JC Helary" changedate="20130111T154006Z">
@@ -19650,6 +19674,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T042822Z" creationid="miurahr" creationdate="20201115T042822Z">
         <seg>たとえば、&lt;l2&gt;user.language=ja&lt;/l2&gt;（&lt;l3&gt;#&lt;/l3&gt; 記号なし）とすると、&lt;a4&gt;&gt;OmegaT&lt;/a4&gt; は日本語のユーザーインターフェースで起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124053Z" creationid="miurahr" creationdate="20220512T124053Z">
+        <seg>たとえば、&lt;l2&gt;user.language=ja&lt;/l2&gt;（&lt;l3&gt;#&lt;/l3&gt; 記号なし）とすると、OmegaT は日本語のユーザーインターフェースで起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31876,6 +31908,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124150Z" creationid="miurahr" creationdate="20220512T124150Z">
+        <seg>OmegaT は Linux（Intel x86）と Windows プラットフォーム向けにバンドルされた Oracle Java JRE で動作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
@@ -32560,6 +32600,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T120312Z" creationid="miurahr" creationdate="20220512T120312Z">
         <seg>いったん OmegaT をインストールしたならば、&lt;f0&gt;OmegaT.jar&lt;/f0&gt; をクリックして直接起動することができます。また、コマンドラインから起動することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once OmegaT is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124335Z" creationid="miurahr" creationdate="20220512T124335Z">
+        <seg>OmegaT をインストールした後は、コマンドラインからの直接実行や、起動引数を記述したスクリプトによる実行も可能です。あるいは &lt;f0&gt;OmegaT.jar&lt;/f0&gt; をクリックして直接起動することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46881,6 +46929,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates an &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; folder in the working folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124251Z" creationid="miurahr" creationdate="20220512T124251Z">
+        <seg>作業フォルダーに &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; フォルダーと、OmegaTの実行に必要なすべてのファイルが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T043526Z" creationid="miurahr" creationdate="20201115T043526Z">
@@ -48467,6 +48523,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T120237Z" creationid="miurahr" creationdate="20220512T120237Z">
         <seg>OmegaT をインストールするには、ダウンロードしたファイルをダブルクリックしてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install OmegaT, simply unpack the &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124224Z" creationid="miurahr" creationdate="20220512T124224Z">
+        <seg>OmegaT をインストールするには、&lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt; ファイルを展開してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50753,6 +50817,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124110Z" creationid="miurahr" creationdate="20220512T124110Z">
+        <seg>&lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;にある&lt;f0&gt;OmegaT.jar&lt;/f0&gt;ファイルを使用して、コマンド行からOmegaTを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210510T233142Z" creationid="miurahr" creationdate="20210510T233142Z">
@@ -51144,6 +51216,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T110410Z">
         <seg>その他のプラットフォーム（Linux PowerPC、Linux x64、Solaris SPARC/x86/x64、Windows x64 など）を使用しているユーザーは、互換性のある Java JRE を動作できる環境であれば &lt;a1&gt;OmegaT&lt;/a1&gt; を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124206Z" creationid="miurahr" creationdate="20220512T124206Z">
+        <seg>その他のプラットフォーム（Linux PowerPC、Linux x64、Solaris SPARC/x86/x64、Windows x64 など）を使用しているユーザーは、互換性のある Java JRE を動作できる環境であれば OmegaT を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53931,6 +54011,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130422T093539Z">
         <seg>Spotlight や Google などをサービスとして登録しておくと、&lt;a2&gt;OmegaT&lt;/a2&gt; で選択した任意の単語をサービスで検索することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can thus select a word anywhere in OmegaT and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124136Z" creationid="miurahr" creationdate="20220512T124136Z">
+        <seg>Spotlight や Google などをサービスとして登録しておくと、OmegaT で選択した任意の単語をサービスで検索することができます。</seg>
       </tuv>
     </tu>
     <tu>
