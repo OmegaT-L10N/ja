@@ -13255,6 +13255,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T114350Z" creationid="miurahr" creationdate="20220512T114350Z">
+        <seg>&lt;g0&gt;［除外...］&lt;/g0&gt;をクリックして、OmegaTに無視させたいファイルやフォルダーを登録できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T035928Z">
@@ -17613,6 +17621,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T143934Z" creationid="miurahr" creationdate="20201101T143934Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; の更新の自動通知を有効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables automatic notification of OmegaT updates.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T114320Z" creationid="miurahr" creationdate="20220512T114320Z">
+        <seg>OmegaT の更新の自動通知を有効にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23305,6 +23321,14 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T030823Z">
         <seg>フォルダー名を直接入力して、そのフォルダーがまだ存在しなければ、&lt;a0&gt;OmegaT&lt;/a0&gt; がそのフォルダーを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you enter names of folders that do not exist yet, OmegaT creates them for you.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T114340Z" creationid="miurahr" creationdate="20220512T114340Z">
+        <seg>フォルダー名を直接入力して、そのフォルダーがまだ存在しなければ、OmegaT がそのフォルダーを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34407,6 +34431,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T114308Z" creationid="miurahr" creationdate="20220512T114308Z">
+        <seg>プラグインは、 OmegaT インストール・フォルダーまたはプラットフォーム固有の OmegaT ユーザー設定フォルダーの下にある &lt;f0&gt;plugins&lt;/f0&gt; フォルダーにインストールされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T142245Z" creationid="miurahr" creationdate="20201101T142245Z">
@@ -45139,6 +45171,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The segmentation settings only address the way the source files are handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T114331Z" creationid="miurahr" creationdate="20220512T114331Z">
+        <seg>分節化の設定は、OmegaTによる原文ファイルの取り扱い方法にのみ関係します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segments are displayed in order of appearance in the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T171149Z">
@@ -45585,6 +45625,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T113301Z" creationid="miurahr" creationdate="20220512T113301Z">
         <seg>テキスト出力機能は、現在作業中の OmegaT プロジェクトのデータをプレーンテキストファイルに出力するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text highlighted by the user, when &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;/k0&gt; is pressed or &lt;m4&gt;&lt;g5&gt;Edit&lt;/g5&gt;&lt;g6&gt;Export Selection&lt;/g6&gt;&lt;/m4&gt; is selected (&lt;f7&gt;selection.txt&lt;/f7&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T114243Z" creationid="miurahr" creationdate="20220512T114243Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;Ctr&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;/k0&gt; キーを押すか、またはメニュー&lt;m4&gt;&lt;g5&gt;［編集］&lt;/g5&gt;&lt;g6&gt;［選択領域を出力］&lt;/g6&gt;&lt;/m4&gt;を選んだ時点で選択されているテキスト（&lt;f7&gt;selection.txt&lt;/f7&gt;）</seg>
       </tuv>
     </tu>
     <tu>
