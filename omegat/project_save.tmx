@@ -9412,8 +9412,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>Adding OmegaT to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20220512T120350Z" creationid="miurahr" creationdate="20220512T120350Z">
-        <seg>メニュー（KDE）またはパネル（GNOME）への &lt;a0&gt;OmegaT&lt;/a0&gt; の追加</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T123742Z" creationid="miurahr" creationdate="20220512T120350Z">
+        <seg>メニュー（KDE）またはパネル（GNOME）への OmegaT の追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -13419,6 +13419,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T041159Z" creationid="miurahr" creationdate="20201115T041159Z">
         <seg>［アイコン］ボタンを押し、&lt;g0&gt;［閲覧...］&lt;/g0&gt;を押し、&lt;a2&gt;OmegaT&lt;/a2&gt;のプログラムフォルダーにある &lt;f1&gt;/images&lt;/f1&gt; フォルダーを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;images&lt;/f1&gt; subfolder in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124002Z" creationid="miurahr" creationdate="20220512T124002Z">
+        <seg>［アイコン］ボタンを押し、&lt;g0&gt;［閲覧...］&lt;/g0&gt;を押し、OmegaTのプログラムフォルダーにある &lt;f1&gt;images&lt;/f1&gt; フォルダーを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17825,10 +17833,26 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter "OmegaT" in the "Name" field; in the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T123937Z" creationid="miurahr" creationdate="20220512T123937Z">
+        <seg>［名前］欄に 「OmegaT」 と入力します。［コマンド］欄には、ナビゲーションボタンを使用して OmegaT起動スクリプト（展開したフォルダの中にある OmegaT という名称のファイル）を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T041826Z">
         <seg>［新規アイテム名］として &lt;a2&gt;OmegaT&lt;/a2&gt; と入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter OmegaT as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T123804Z" creationid="miurahr" creationdate="20220512T123804Z">
+        <seg>［新規アイテム名］として OmegaT と入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20420,6 +20444,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130422T093519Z">
         <seg>GNOME は、何も指定しないとアイコンに SVG ファイルを想定するらしく、ファイル形式に対応しているはずのアイコンファイルを表示できないことがあります。しかし、上記のようにフォルダーを選択すれば、&lt;a4&gt;OmegaT&lt;/a4&gt;.png を選択できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f3&gt;OmegaT.png&lt;/f3&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124015Z" creationid="miurahr" creationdate="20220512T124015Z">
+        <seg>GNOME は、何も指定しないとアイコンに SVG ファイルを想定するらしく、ファイル形式に対応しているはずのアイコンファイルを表示できないことがあります。しかし、上記のようにフォルダーを選択すれば、&lt;f3&gt;OmegaT.png&lt;/f3&gt; を選択できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24536,6 +24568,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130422T093418Z">
         <seg>［コマンド］欄には、ナビゲーションボタンを使用して &lt;a0&gt;OmegaT&lt;/a0&gt; 起動スクリプト（展開したフォルダーの中にある &lt;a1&gt;OmegaT&lt;/a1&gt; という名称のファイル）を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T123827Z" creationid="miurahr" creationdate="20220512T123827Z">
+        <seg>［コマンド］欄には、ナビゲーションボタンを使用して OmegaT 起動スクリプト（展開したフォルダーの中にある OmegaT という名称のファイル）を指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31517,6 +31557,14 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T124027Z" creationid="miurahr" creationdate="20220512T124027Z">
+        <seg>OmegaT には Java JRE 1.8 が含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>原文ミス？</note>
       <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
@@ -33474,6 +33522,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T041030Z" creationid="miurahr" creationdate="20201115T041030Z">
         <seg>［その他のアイコン］→［閲覧］を押し、&lt;a1&gt;&gt;OmegaT&lt;/a1&gt; プログラムフォルダーにある &lt;f0&gt;/images&lt;/f0&gt; フォルダーを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;images&lt;/f0&gt; subfolder in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T123847Z" creationid="miurahr" creationdate="20220512T123847Z">
+        <seg>［その他のアイコン］→［閲覧］を押し、OmegaT プログラムフォルダーにある &lt;f0&gt;/images&lt;/f0&gt; フォルダーを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39005,6 +39061,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T162911Z">
         <seg>アイコンとして &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt; を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f1&gt;OmegaT.png&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T123855Z" creationid="miurahr" creationdate="20220512T123855Z">
+        <seg>アイコンとして &lt;f1&gt;OmegaT.png&lt;/f1&gt; を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53226,6 +53290,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T035321Z">
         <seg>以下の手順で &lt;a0&gt;OmegaT&lt;/a0&gt; をメニューへ追加できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add OmegaT to your menus as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T123753Z" creationid="miurahr" creationdate="20220512T123753Z">
+        <seg>以下の手順でOmegaTをメニューへ追加できます：</seg>
       </tuv>
     </tu>
     <tu>
