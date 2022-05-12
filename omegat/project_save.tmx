@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT_(Edge edition)" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_80ccd70f5" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT_(Edge edition)" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_5fb2985ee" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17533,6 +17533,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T151134Z" creationid="amake" creationdate="20170128T151134Z">
         <seg>マッピングのリポジトリ URL が空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Empty translations are now allowed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T113156Z" creationid="miurahr" creationdate="20220512T113156Z">
+        <seg>この状態で、空訳文として残すこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43532,6 +43540,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The entry &lt;g5&gt;Remove translation&lt;/g5&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T113233Z" creationid="miurahr" creationdate="20220512T113233Z">
+        <seg>同じポップアップメニューに表示される「&lt;g5&gt;訳文を削除&lt;/g5&gt;」という項目を選ぶと、現在の分節に入力済みの訳文を削除することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The entry will be greyed, if there's just one translation available.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T021342Z">
@@ -43624,6 +43640,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T181733Z">
         <seg>ファイルは OmegaT の個人設定フォルダー配下の script フォルダーに作成されます。内容は、次の通りです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files appear in the &lt;f0&gt;script&lt;/f0&gt; subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T113339Z" creationid="miurahr" creationdate="20220512T113339Z">
+        <seg>ファイルは OmegaT の個人設定フォルダー配下の &lt;f0&gt;script&lt;/f0&gt; フォルダーに作成されます。内容は、次の通りです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45557,6 +45581,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text export function exports data from within the current OmegaT project to plain text files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T113301Z" creationid="miurahr" creationdate="20220512T113301Z">
+        <seg>テキスト出力機能は、現在作業中の OmegaT プロジェクトのデータをプレーンテキストファイルに出力するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130305T164239Z">
@@ -47252,6 +47284,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; and &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T113134Z" creationid="miurahr" creationdate="20220512T113134Z">
+        <seg>翻訳入力の前に、原文を削除するキー入力の手間が省けます（つまり &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt;と&lt;k3&gt;Del&lt;/k3&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141203T023903Z" creationid="Yu-Tang" creationdate="20141203T023903Z">
@@ -47923,6 +47963,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T090835Z">
         <seg>空訳文に設定するには、分節を右クリックして「&lt;e2&gt;訳文を&lt;空訳文&gt;にする&lt;/e2&gt;」を選びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create one, right-click in a segment, and select &lt;g4&gt;Set empty translation&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T113217Z" creationid="miurahr" creationdate="20220512T113217Z">
+        <seg>空訳文に設定するには、分節を右クリックして「&lt;g4&gt;訳文を&lt;空訳文&gt;にする&lt;/g4&gt;」を選びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52834,6 +52882,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T063736Z">
         <seg>訳文分節の選択を解除し、&lt;g4&gt;[Enter]を押しても同じ結果が得られます。&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g6&gt;Enter&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220512T113247Z" creationid="miurahr" creationdate="20220512T113247Z">
+        <seg>訳文分節の選択を解除し、&lt;g6&gt;[Enter]を押しても同じ結果が得られます。&lt;/g6&gt;</seg>
       </tuv>
     </tu>
     <tu>
