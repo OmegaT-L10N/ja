@@ -4067,6 +4067,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; OmegaT starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123727Z" creationid="Hiroshi Miura" creationdate="20220824T123727Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; この引数を指定すると、OmegaT がコンソールモードで起動し、以下に示すサービスを自動的に実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T045039Z" creationid="miurahr" creationdate="20201115T045039Z">
@@ -5997,6 +6005,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells OmegaT in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123449Z" creationid="Hiroshi Miura" creationdate="20220824T123449Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt;は、設定ファイルが保存されているフォルダをOmegaTに通知します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160704T090535Z" creationid="Kasuya" creationdate="20160704T090535Z">
@@ -6009,6 +6025,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T045459Z" creationid="miurahr" creationdate="20201115T045444Z">
         <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; は、使用する設定ファイルを&lt;a2&gt;OmegaT&lt;/a2&gt;に指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells OmegaT what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123636Z" creationid="Hiroshi Miura" creationdate="20220824T123636Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; は、使用する設定ファイルをOmegaTに指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6105,6 +6129,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T045326Z" creationid="miurahr" creationdate="20201115T045326Z">
         <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt;は、&lt;a1&gt;OmegaT&lt;/a1&gt;に翻訳するプロジェクトの場所を指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells OmegaT where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123407Z" creationid="Hiroshi Miura" creationdate="20220824T123407Z">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt;は、OmegaTに翻訳するプロジェクトの場所を指示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22511,6 +22543,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If given, OmegaT starts in console mode and will translate the given project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123424Z" creationid="Hiroshi Miura" creationdate="20220824T123424Z">
+        <seg>この引数を指定すると、OmegaT がコンソールモードで起動し、指定されたプロジェクトを翻訳します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T202147Z">
@@ -22673,6 +22713,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T045404Z" creationid="miurahr" creationdate="20201115T045404Z">
         <seg>指定されていない場合、&lt;a3&gt;OmegaT&lt;/a3&gt;はデフォルト値(ユーザーhomeの下の&lt;a4&gt;OmegaT&lt;/a4&gt;フォルダー、または使用できない場合は現在の作業フォルダー)に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not given, OmegaT reverts to default values (OmegaT folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123521Z" creationid="Hiroshi Miura" creationdate="20220824T123521Z">
+        <seg>指定されていない場合、OmegaTはデフォルト値(ユーザーhomeの下のOmegaTフォルダー、または使用できない場合は現在の作業フォルダー)に戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30930,6 +30978,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T061131Z">
         <seg>OmegaT を独自にビルドするためには、ant プログラム（&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;）も必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note the double &lt;l2&gt;-&lt;/l2&gt; character.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123556Z" creationid="Hiroshi Miura" creationdate="20220824T123556Z">
+        <seg>2つの&lt;l2&gt;-&lt;/l2&gt;文字に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44791,6 +44847,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most important is &lt;l0&gt;/path/to/project&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;p2&gt;/path/to/config-files/&lt;/p2&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123343Z" creationid="Hiroshi Miura" creationdate="20220824T123343Z">
+        <seg>最も重要なのは&lt;l0&gt;/path/to/project&lt;/l0&gt;です。オプションで&lt;l1&gt;--config-dir=&lt;p2&gt;/path/to/config-files/&lt;/p2&gt;&lt;/l1&gt;も指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T045238Z" creationid="miurahr" creationdate="20201115T045238Z">
@@ -49004,6 +49068,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T124311Z">
         <seg>Java Web Start を使用して OmegaT を最初に起動する場合は、ブラウザ上で以下の URL にアクセスしてください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start OmegaT in console mode, some extra parameters have to be passed to it on startup.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123231Z" creationid="Hiroshi Miura" creationdate="20220824T123147Z">
+        <seg>コンソールモードで OmegaT を起動する場合、いくつかの引数が必要になります。</seg>
       </tuv>
     </tu>
     <tu>
