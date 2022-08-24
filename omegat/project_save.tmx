@@ -9714,6 +9714,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to move to the next untranslated segment (or &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T124421Z" creationid="Hiroshi Miura" creationdate="20220824T124421Z">
+        <seg>ひとつの分節を翻訳し終えたら、&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; キーを押して、次の未翻訳分節へと移動します（&lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; キーを押すと、次の翻訳済み分節へ移動します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T030715Z">
@@ -11963,6 +11971,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T060956Z">
         <seg>ソースコードからの &lt;a0&gt;OmegaT&lt;/a0&gt; のビルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Building OmegaT From Source</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123830Z" creationid="Hiroshi Miura" creationdate="20220824T123830Z">
+        <seg>ソースコードからの OmegaT のビルド</seg>
       </tuv>
     </tu>
     <tu>
@@ -23326,6 +23342,14 @@ JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T124043Z" creationid="Hiroshi Miura" creationdate="20220824T124043Z">
+        <seg>他の設定に用があれば、&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;E&lt;/k2&gt;&lt;&lt;/k0&gt; キーを押して、いつでもこのダイアログに戻ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130302T155359Z">
@@ -32543,6 +32567,15 @@ with exactly the same structure, including copies of any non-supported files.</s
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T030515Z">
+        <seg>OmegaT は選択されたファイルを、新しく作成されたプロジェクトの &lt;f2&gt;source&lt;/f2&gt; フォルダーへコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;source&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T124129Z" creationid="Hiroshi Miura" creationdate="20220824T124129Z">
         <seg>OmegaT は選択されたファイルを、新しく作成されたプロジェクトの &lt;f2&gt;source&lt;/f2&gt; フォルダーへコピーします。</seg>
       </tuv>
     </tu>
@@ -48020,6 +48053,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123931Z" creationid="Hiroshi Miura" creationdate="20220824T123931Z">
+        <seg>これにより、&lt;f0&gt;./build/distributions&lt;/f0&gt;フォルダにOmegaTの完全な配布が作成されます。このフォルダには、OmegaTの実行に必要なすべてを含むzipファイルがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T040928Z" creationid="miurahr" creationdate="20201115T040928Z">
@@ -52750,6 +52791,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T030746Z">
         <seg>翻訳の成果を確認したくなったら、&lt;k2&gt;Ctrl+D&lt;/k2&gt; キーを押して、いつでも訳文ファイルを生成できます。訳文ファイルは、プロジェクトの &lt;f3&gt;target&lt;/f3&gt; フォルダー内に作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; to generate the translated documents, which will be created in the &lt;f10&gt;target&lt;/f10&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T125030Z" creationid="Hiroshi Miura" creationdate="20220824T125030Z">
+        <seg>翻訳の成果を確認したくなったら、&lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; キーを押して、いつでも訳文ファイルを生成できます。訳文ファイルは、プロジェクトの &lt;f10&gt;target&lt;/f10&gt; フォルダー内に作成されます。</seg>
       </tuv>
     </tu>
     <tu>
