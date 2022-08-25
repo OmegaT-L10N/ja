@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_8ce33098f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_313c851a2" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13247,6 +13247,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checks to see whether a more recent version of OmegaT has been released.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224141Z" creationid="Hiroshi Miura" creationdate="20220825T224141Z">
+        <seg>より新しいバージョンのOmegaTがリリースされたかどうかを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T205348Z">
@@ -14514,6 +14522,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054510Z" creationid="miurahr" creationdate="20201115T054510Z">
         <seg>ページのURL(&lt;g0&gt;action=edit&lt;/g0&gt;で終わる)をコピーし、&lt;a1&gt;OmegaT&lt;/a1&gt;に貼り付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224153Z" creationid="Hiroshi Miura" creationdate="20220825T224153Z">
+        <seg>ページのURL(&lt;g0&gt;action=edit&lt;/g0&gt;で終わる)をコピーし、OmegaTに貼り付けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20168,6 +20184,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For technical details, see the &lt;u4&gt;Request For Enhancement&lt;/u4&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224407Z" creationid="Hiroshi Miura" creationdate="20220825T224407Z">
+        <seg>技術的な詳細は、&lt;u4&gt;機能改善リクエスト&lt;/u4&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T033854Z">
@@ -22717,6 +22741,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text is selected, OmegaT selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224111Z" creationid="Hiroshi Miura" creationdate="20220825T224111Z">
+        <seg>テキストを何も選択していない場合、OmegaT はカーソル右にある単語をその場で選択して実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T104339Z">
@@ -23463,6 +23495,14 @@ that you install an OmegaT version with JRE included.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;Restore Main Window&lt;/g2&gt;&lt;/m0&gt; will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224435Z" creationid="Hiroshi Miura" creationdate="20220825T224435Z">
+        <seg>本来、開いていたり最小化していたりするはずのウィンドウが見当たらない場合は、&lt;m0&gt;&lt;g1&gt;［設定］&lt;/g1&gt;&lt;g2&gt;［ウィンドウを初期値に復元］&lt;/g2&gt;&lt;/m0&gt;を選んでください。ウィンドウの配置をインストール直後の状態に復元します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can program in another language, you can write code to support the core application.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20150101T002845Z">
@@ -23828,6 +23868,15 @@ OmegaT.</seg>
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T032521Z">
+        <seg>翻訳メモリファイルをプロジェクトの &lt;f6&gt;tm&lt;/f6&gt; フォルダー内に配置しておくと、OmegaT はそこから「参考訳文」と呼ばれる類似分節を自動的に検索するようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If you place such translation memory files in the &lt;f6&gt;tm&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T223824Z" creationid="Hiroshi Miura" creationdate="20220825T223824Z">
         <seg>翻訳メモリファイルをプロジェクトの &lt;f6&gt;tm&lt;/f6&gt; フォルダー内に配置しておくと、OmegaT はそこから「参考訳文」と呼ばれる類似分節を自動的に検索するようになります。</seg>
       </tuv>
     </tu>
@@ -24520,6 +24569,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T132056Z">
         <seg>もっとも基本的な形式では、このコマンドは次のようになります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In macOS, this menu item is listed in the application menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224344Z" creationid="Hiroshi Miura" creationdate="20220825T224344Z">
+        <seg>macOSでは、この項目がアプリケーション・メニューに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26107,6 +26164,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T074159Z">
         <seg>そして自由なソフトウェアです。これはたとえ商用利用であっても、利用料を支払う必要が無いということを意味しています。ユーザーライセンスを遵守すれば、改変や再配布も自由に行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; for the &lt;g3&gt;Text Search&lt;/g3&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224044Z" creationid="Hiroshi Miura" creationdate="20220825T223837Z">
+        <seg>原文や訳文から語句を検索したいときは、&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; キーを押せば、いつでも&lt;g3&gt;プロジェクトの検索&lt;/g3&gt;ウィンドウを表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30130,6 +30195,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New translation memories placed in the &lt;f0&gt;tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224218Z" creationid="Hiroshi Miura" creationdate="20220825T224218Z">
+        <seg>翻訳中に&lt;f0&gt;tm&lt;/f0&gt;フォルダに保存された新しい翻訳メモリは、カーソルセグメント間を移動するとすぐに自動的にロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T042551Z">
@@ -32343,6 +32416,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT remembers the segments executed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224123Z" creationid="Hiroshi Miura" creationdate="20220825T224123Z">
+        <seg>OmegaT は分節を選択した履歴を記憶しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
@@ -32909,6 +32990,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; to generate the target files, which will be created in the &lt;f3&gt;target&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T223724Z" creationid="Hiroshi Miura" creationdate="20220825T223724Z">
+        <seg>翻訳にタグのエラーが無いことを確認したら、&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; キーを押して訳文ファイルを生成しましょう。訳文ファイルは、プロジェクトの &lt;f3&gt;target&lt;/f3&gt; フォルダー内に作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T031214Z">
@@ -33258,6 +33347,15 @@ happen should you file a bug report.</seg>
         <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054521Z" creationid="miurahr" creationdate="20201115T054521Z">
+        <seg>&lt;f1&gt;/target&lt;/f1&gt;フォルダに生成された&lt;f0&gt;.UTF8&lt;/f0&gt;ファイルを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224210Z" creationid="Hiroshi Miura" creationdate="20220825T224210Z">
         <seg>&lt;f1&gt;/target&lt;/f1&gt;フォルダに生成された&lt;f0&gt;.UTF8&lt;/f0&gt;ファイルを開きます。</seg>
       </tuv>
     </tu>
@@ -37210,6 +37308,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224238Z" creationid="Hiroshi Miura" creationdate="20220825T224238Z">
+        <seg>再起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20210922T041838Z" creationid="suzume" creationdate="20210922T041838Z">
@@ -38006,6 +38112,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T162817Z">
         <seg>プロジェクトを保存し &lt;a0&gt;OmegaT&lt;/a0&gt; を終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project and quits OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224258Z" creationid="Hiroshi Miura" creationdate="20220825T224258Z">
+        <seg>プロジェクトを保存し OmegaT を終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project and restarts OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224247Z" creationid="Hiroshi Miura" creationdate="20220825T224247Z">
+        <seg>プロジェクトを保存し OmegaT を終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39887,6 +40009,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T092038Z">
         <seg>ウィンドウの配置を変更しているうちに収拾がつかなくなった場合は、&lt;g0&gt;&lt;i1/&gt;&lt;i2/&gt;［設定］→［ウィンドウを初期値に復元］&lt;/g0&gt;を選んでください。ウィンドウの配置がインストール直後の状態に復元されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;Restore Main Window&lt;/g2&gt;&lt;/m0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224507Z" creationid="Hiroshi Miura" creationdate="20220825T224507Z">
+        <seg>ウィンドウの配置を変更しているうちに収拾がつかなくなった場合は、&lt;m0&gt;&lt;g1&gt;［設定］&lt;/g1&gt;&lt;g2&gt;［ウィンドウを初期値に復元］&lt;/g2&gt;&lt;/m0&gt;を選んでください。ウィンドウの配置がインストール直後の状態に復元されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44085,6 +44215,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f0&gt;selection.txt&lt;/f0&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224101Z" creationid="Hiroshi Miura" creationdate="20220825T224101Z">
+        <seg>出力された内容は、個人設定フォルダーの &lt;f0&gt;selection.txt&lt;/f0&gt; というファイルにコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T170425Z">
@@ -46696,6 +46834,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T223655Z" creationid="Hiroshi Miura" creationdate="20220825T223655Z">
+        <seg>そうならないよう、訳文ファイルを生成する前に &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; キーを押して、タグが正しいか検証しておくとよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130926T163509Z">
@@ -49033,6 +49179,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T223744Z" creationid="Hiroshi Miura" creationdate="20220825T223744Z">
+        <seg>プロジェクトの初期設定を確認したければ、&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt; キーを押してプロジェクト設定ダイアログを開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T180502Z" creationid="Yu-Tang" creationdate="20141202T180502Z">
@@ -49085,6 +49239,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T031745Z">
         <seg>プロジェクトに含まれる原文ファイルの一覧を確認したければ、&lt;k2&gt;Ctrl+L&lt;/k2&gt; キーを押して&lt;g1&gt;翻訳対象ファイル一覧&lt;/g1&gt;ダイアログを開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see a list of files in the project, open the &lt;g3&gt;Project Files&lt;/g3&gt; dialog by pressing &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T223813Z" creationid="Hiroshi Miura" creationdate="20220825T223813Z">
+        <seg>プロジェクトに含まれる原文ファイルの一覧を確認したければ、&lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt; キーを押して&lt;g3&gt;翻訳対象ファイル一覧&lt;/g3&gt;ダイアログを開いてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50769,10 +50931,28 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224225Z" creationid="Hiroshi Miura" creationdate="20220825T224225Z">
+        <seg>&lt;f0&gt;source&lt;/f0&gt;ディレクトリでローカルに追加または変更されたファイルをリポジトリにアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054702Z" creationid="miurahr" creationdate="20201115T054702Z">
+        <seg>&lt;f0&gt;target&lt;/f0&gt;ディレクトリで、ローカルに作成されたファイルをリポジトリにアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224231Z" creationid="Hiroshi Miura" creationdate="20220825T224231Z">
         <seg>&lt;f0&gt;target&lt;/f0&gt;ディレクトリで、ローカルに作成されたファイルをリポジトリにアップロードします。</seg>
       </tuv>
     </tu>
@@ -51710,6 +51890,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usual translations inserted from the &lt;f3&gt;auto&lt;/f3&gt; folder are displayed in orange.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224359Z" creationid="Hiroshi Miura" creationdate="20220825T224359Z">
+        <seg>&lt;f3&gt;auto&lt;/f3&gt; フォルダーから挿入された通常の翻訳は、オレンジ色で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usual translations inserted from the auto folder are displayed in orange.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T084701Z" creationid="Yu-Tang" creationdate="20141202T084701Z">
@@ -52523,6 +52711,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the user exits OmegaT, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224003Z" creationid="Hiroshi Miura" creationdate="20220825T224003Z">
+        <seg>OmegaT を閉じるとき、このファイルは空の状態ではなく、通常のクリップボードと同じように機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T141146Z">
@@ -53124,6 +53320,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g0&gt;Back in history&lt;/g0&gt;... command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224132Z" creationid="Hiroshi Miura" creationdate="20220825T224132Z">
+        <seg>このコマンドを実行すると、&lt;g0&gt;［分節の選択履歴を戻る］&lt;/g0&gt;コマンドによって移動した履歴をたどり、戻る前に選択していた分節へ移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;... command.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T053435Z" creationid="miurahr" creationdate="20201115T053435Z">
@@ -53699,6 +53903,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T123753Z" creationid="miurahr" creationdate="20220512T123753Z">
         <seg>以下の手順でOmegaTをメニューへ追加できます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, or copy existing glossaries to the &lt;f4&gt;glossary&lt;/f4&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T223939Z" creationid="Hiroshi Miura" creationdate="20220825T223826Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt; キーを押すと、新しい用語を追加することができます。また既存の用語集ファイルをプロジェクトの &lt;f4&gt;glossary&lt;/f4&gt; フォルダーにコピーしておくと、OmegaT はそこから用語を自動的に検索するようになります。</seg>
       </tuv>
     </tu>
     <tu>
