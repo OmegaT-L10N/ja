@@ -23994,6 +23994,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; and delete with &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224557Z" creationid="Hiroshi Miura" creationdate="20220825T224557Z">
+        <seg>その分節の訳文を原文と同じにしたいときは、編集領域のテキストを削除して空欄にしておいてください（&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt;で全選択して&lt;k3&gt;Del&lt;/k3&gt;で削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T065147Z">
@@ -38608,6 +38616,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;e4&gt;Translation editing&lt;/e4&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224611Z" creationid="Hiroshi Miura" creationdate="20220825T224611Z">
+        <seg>詳細は、「&lt;e4&gt;翻訳入力行の設定&lt;/e4&gt;」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T174353Z">
@@ -49427,6 +49443,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T050332Z">
         <seg>選択した（太字で表示された）参考訳文を、現在編集中の訳文と置換して使用するには&lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; を押します。現在のカーソル位置に挿入する場合は［&lt;g7&gt;Ctrl+I&lt;i8/&gt;&lt;/g7&gt;］を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; to replace the target field with the match or use &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224648Z" creationid="Hiroshi Miura" creationdate="20220825T224648Z">
+        <seg>選択した（太字で表示された）参考訳文を、現在編集中の訳文と置換して使用するには&lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; を押します。現在のカーソル位置に挿入する場合は［&lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt;］を押します。</seg>
       </tuv>
     </tu>
     <tu>
