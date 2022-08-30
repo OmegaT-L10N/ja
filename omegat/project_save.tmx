@@ -4171,6 +4171,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124804Z" creationid="Hiroshi Miura" creationdate="20220830T124804Z">
+        <seg>&lt;e0&gt;プロジェクトへのファイル追加：&lt;/e0&gt;&lt;g1&gt;原文ファイル追加...&lt;/g1&gt;ボタンをクリックして、原文ファイルを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T051403Z" creationid="miurahr" creationdate="20201101T051403Z">
@@ -5149,6 +5157,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Close&lt;/g0&gt;: close the window without any change.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125123Z" creationid="Hiroshi Miura" creationdate="20220830T125123Z">
+        <seg>&lt;g0&gt;閉じる：&lt;/g0&gt;変更なしにウィンドウを閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220507T032608Z" creationid="miurahr" creationdate="20220507T032608Z">
@@ -5249,6 +5265,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T095151Z" creationid="Hiroshi Miura" creationdate="20220424T095151Z">
         <seg>&lt;g0&gt;分節化しないプロジェクトから、先頭と末尾の空白文字を削除&lt;/g0&gt;：OmegaT は既定で、先頭と末尾の空白文字を削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125020Z" creationid="Hiroshi Miura" creationdate="20220830T125020Z">
+        <seg>&lt;g0&gt;すべて置換：&lt;/g0&gt;すべての検索文字列を置換後の文字列で置き換えます（事前に置換件数を示した確認ダイアログが表示されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace:&lt;/g0&gt; operates a "one by one" replacement, by the mean of buttons in the header of the Editor pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125046Z" creationid="Hiroshi Miura" creationdate="20220830T125046Z">
+        <seg>&lt;g0&gt;置換フィルター：&lt;/g0&gt;編集ウィンドウに置換用のフィルターをかけ、&lt;g1&gt;編集ウィンドウのヘッダー&lt;/g1&gt;に現れるボタンを使って、1 件ずつ置換します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9681,6 +9713,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>After several of these operations, select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124426Z" creationid="Hiroshi Miura" creationdate="20220830T124426Z">
+        <seg>これらの操作をいくつか行った後、[&lt;m0&gt;&lt;g1&gt;編集&lt;/g1&gt;&lt;g2&gt;再整合保留中&lt;/g2&gt;&lt;/m0&gt;]を選択して、他のセグメントの整合を更新します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>After that, you need to download the project into a new folder.</seg>
       </tuv>
@@ -13503,6 +13544,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g1&gt;Replace Next&lt;/g1&gt; or &lt;g2&gt;Skip&lt;/g2&gt;, then end the replacement session with &lt;g3&gt;Finish&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125113Z" creationid="Hiroshi Miura" creationdate="20220830T125113Z">
+        <seg>&lt;g1&gt;［置換して次へ］&lt;/g1&gt;か&lt;g2&gt;［次を検索］&lt;/g2&gt;をクリックしていき、最後に&lt;g3&gt;［フィルターを解除］&lt;/g3&gt;でフィルターを解除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click in the other column on the translation corresponding to the first segment.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061744Z" creationid="miurahr" creationdate="20201115T061744Z">
@@ -13635,6 +13684,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T092515Z" creationid="Yu-Tang" creationdate="20141202T092515Z">
         <seg>&lt;e0&gt;［検索文字列］&lt;/e0&gt;欄のドロップダウンボタンをクリックすると、直近の検索履歴が 10 個まで表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the dropdown arrow of the &lt;g0&gt;Search for&lt;/g0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125222Z" creationid="Hiroshi Miura" creationdate="20220830T125222Z">
+        <seg>&lt;g0&gt;［検索文字列］&lt;/g0&gt;欄のドロップダウンボタンをクリックすると、直近の検索履歴が 10 個まで表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18105,6 +18162,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;g0&gt;Replace with&lt;/g0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125007Z" creationid="Hiroshi Miura" creationdate="20220830T125007Z">
+        <seg>&lt;g0&gt;［置換後の文字列］&lt;/g0&gt;欄に新しい語句を入力し（正規表現は使えません）、以下のいずれかをクリックします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T155518Z">
@@ -18699,6 +18764,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141110T232051Z" creationid="Yu-Tang" creationdate="20141110T232051Z">
         <seg>例外的に、&lt;e0&gt;未翻訳分節&lt;/e0&gt;にチェックを入れると、翻訳前の分節の原文も検索対象になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Except one: check &lt;g0&gt;Untranslated&lt;/g0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125138Z" creationid="Hiroshi Miura" creationdate="20220830T125138Z">
+        <seg>例外的に、&lt;g0&gt;未翻訳分節&lt;/g0&gt;にチェックを入れると、翻訳前の分節の原文も検索対象になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23508,6 +23581,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt; subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124315Z" creationid="Hiroshi Miura" creationdate="20220830T124315Z">
+        <seg>すでに修正済で、綴り確認機能に無視させるか学習させる単語は、&lt;f0&gt;omegat&lt;/f0&gt; フォルダーのファイルに入力しておきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
       </tuv>
@@ -26176,6 +26258,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141111T210421Z" creationid="Yu-Tang" creationdate="20141111T210421Z">
         <seg>また&lt;e0&gt;［...へ移動］&lt;/e0&gt;ボタンでファイルの順番を任意に変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;g0&gt;Move ...&lt;/g0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124639Z" creationid="Hiroshi Miura" creationdate="20220830T124639Z">
+        <seg>また&lt;g0&gt;［...へ移動］&lt;/g0&gt;ボタンでファイルの順番を任意に変更することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31927,6 +32017,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 4.3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124352Z" creationid="Hiroshi Miura" creationdate="20220830T124352Z">
+        <seg>OmegaT 4.3.1 - 取扱説明書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T143116Z" creationid="suzume" creationdate="20201122T143116Z">
@@ -33689,10 +33787,26 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;g3&gt;Search for&lt;/g3&gt; box.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124934Z" creationid="Hiroshi Miura" creationdate="20220830T124934Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt; で検索と置換ウィンドウを開き、&lt;g3&gt;［検索文字列］&lt;/g3&gt;欄に検索したい語句または正規表現を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141110T233252Z" creationid="Yu-Tang" creationdate="20141110T233252Z">
         <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; で文字列検索ウィンドウを開き、&lt;e3&gt;［検索文字列］&lt;/e3&gt;欄に検索したい単語または語句を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;g3&gt;Search for&lt;/g3&gt; box.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125158Z" creationid="Hiroshi Miura" creationdate="20220830T125158Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; で文字列検索ウィンドウを開き、&lt;g3&gt;［検索文字列］&lt;/g3&gt;欄に検索したい単語または語句を入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35529,6 +35643,15 @@ project without team functionality.</seg>
         <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T082120Z" creationid="miurahr" creationdate="20201115T061742Z">
+        <seg>スペースバー(&lt;m0&gt;&lt;g1&gt;[編集]&lt;/g1&gt;&lt;g2&gt;[ピンポイント整合を開始]&lt;/g2&gt;&lt;/m0&gt;のショートカット)を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Press the space bar (shortcut for &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124418Z" creationid="Hiroshi Miura" creationdate="20220830T124418Z">
         <seg>スペースバー(&lt;m0&gt;&lt;g1&gt;[編集]&lt;/g1&gt;&lt;g2&gt;[ピンポイント整合を開始]&lt;/g2&gt;&lt;/m0&gt;のショートカット)を押します。</seg>
       </tuv>
     </tu>
@@ -43365,6 +43488,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124706Z" creationid="Hiroshi Miura" creationdate="20220830T124706Z">
+        <seg>&lt;f1&gt;omegat&lt;/f1&gt; フォルダーにある &lt;f0&gt;project_stats.txt&lt;/f0&gt; には、各ファイルに含まれる分節についての詳細な情報が記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T052812Z">
@@ -43433,6 +43564,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061943Z" creationid="miurahr" creationdate="20201115T061943Z">
         <seg>&lt;g2&gt;翻訳対象ファイル一覧&lt;/g2&gt;ウィンドウは、次の情報を表示します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g4&gt;Project Files&lt;/g4&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124602Z" creationid="Hiroshi Miura" creationdate="20220830T124602Z">
+        <seg>&lt;g4&gt;翻訳対象ファイル一覧&lt;/g4&gt;ウィンドウは、次の情報を表示します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46344,6 +46483,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The set of &lt;e0&gt;Unique&lt;/e0&gt; segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124649Z" creationid="Hiroshi Miura" creationdate="20220830T124649Z">
+        <seg>&lt;e0&gt;繰り返しを除いた&lt;/e0&gt;分節数とは、すべての分節から重複するものを除いて数えた合計です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The settings in your project indicate which is the source and which the target language.</seg>
       </tuv>
@@ -47011,6 +47159,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The word or phrase is entered in the &lt;g3&gt;Search for&lt;/g3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125207Z" creationid="Hiroshi Miura" creationdate="20220830T125207Z">
+        <seg>この場合、&lt;g3&gt;［検索文字列］&lt;/g3&gt;欄に単語または語句が自動的に入力されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T155255Z">
@@ -47063,6 +47219,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141110T195943Z" creationid="Yu-Tang" creationdate="20141110T195943Z">
         <seg>&lt;e0&gt;［検索］&lt;/e0&gt;ボタンをクリックすると、検索条件に一致したすべての分節が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then click on &lt;g0&gt;Search&lt;/g0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124946Z" creationid="Hiroshi Miura" creationdate="20220830T124946Z">
+        <seg>&lt;g0&gt;［検索］&lt;/g0&gt;ボタンをクリックすると、検索条件に一致したすべての分節が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47314,6 +47478,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T050704Z" creationid="Yu-Tang" creationdate="20141104T050704Z">
         <seg>対象は、原文ファイルフォルダーに存在し、OmegaT が扱える形式のファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are the files present in the &lt;f0&gt;source&lt;/f0&gt; folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124617Z" creationid="Hiroshi Miura" creationdate="20220830T124617Z">
+        <seg>対象は、&lt;f0&gt;source&lt;/f0&gt;フォルダーに存在し、OmegaT が扱える形式のファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48919,6 +49091,15 @@ file type is associated with Java on your system.</seg>
         <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T081654Z" creationid="miurahr" creationdate="20201115T025009Z">
+        <seg>このウィンドウにアクセスするには、&lt;m0&gt;&lt;g1&gt;[ツール]&lt;/g1&gt;&lt;g2&gt;[整合ツール...]&lt;/g2&gt;&lt;/m0&gt;を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>To access this window, select &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Align Files...&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124403Z" creationid="Hiroshi Miura" creationdate="20220830T124403Z">
         <seg>このウィンドウにアクセスするには、&lt;m0&gt;&lt;g1&gt;[ツール]&lt;/g1&gt;&lt;g2&gt;[整合ツール...]&lt;/g2&gt;&lt;/m0&gt;を選択します。</seg>
       </tuv>
     </tu>
@@ -51628,6 +51809,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T053136Z" creationid="miurahr" creationdate="20201115T053136Z">
         <seg>&lt;k0&gt;&lt;k1&gt;[Shift]&lt;/k1&gt;&lt;k2&gt;[F3]&lt;/k2&gt;&lt;/k0&gt;を使用して、4つの選択肢を順番に切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; to open and &lt;k3&gt;Esc&lt;/k3&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124536Z" creationid="Hiroshi Miura" creationdate="20220830T124536Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt;で開き、&lt;k3&gt;Esc&lt;/k3&gt;で閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54487,6 +54676,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on &lt;g3&gt;Import from MediaWiki&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124825Z" creationid="Hiroshi Miura" creationdate="20220830T124825Z">
+        <seg>&lt;g3&gt;MediaWiki から原文ファイルを追加...&lt;/g3&gt;ボタンを押して URL を指定すると、MediaWiki 形式で記述されたウェブページを原文ファイルとして追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T062147Z" creationid="miurahr" creationdate="20201115T062147Z">
@@ -54608,6 +54805,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T062334Z" creationid="miurahr" creationdate="20201115T062334Z">
         <seg>また&lt;g0&gt;［ツール］&lt;/g0&gt;メニューからスクリプトを選んだり、割り当てられたショートカットキー &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt;（# は 1 から 12）を使うことで、スクリプトを実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools&lt;/g0&gt; menu or by pressing &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124912Z" creationid="Hiroshi Miura" creationdate="20220830T124912Z">
+        <seg>また&lt;g0&gt;［ツール］&lt;/g0&gt;メニューからスクリプトを選んだり、割り当てられたショートカットキー &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt;（# は 1 から 12）を使うことで、スクリプトを実行できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55140,6 +55345,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T074323Z">
         <seg>&lt;g0&gt;メニューの［ツール］→［翻訳状況］&lt;/g0&gt;から参照できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can view it by selecting &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Statistics&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124255Z" creationid="Hiroshi Miura" creationdate="20220830T124255Z">
+        <seg>メニューの&lt;m0&gt;&lt;g1&gt;ツール&lt;&lt;/g1&gt;&lt;g2&gt;翻訳状況&lt;/g2&gt;&lt;/m0&gt;から参照できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56544,6 +56757,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T075303Z">
         <seg>現在のプロジェクトの参考訳文の一致率が記録されます。&lt;g0&gt;メニューの［ツール］→［参考訳文の一致率］&lt;/g0&gt;を選ぶと、作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the latest project match statistics, generated by &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Match Statistics&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124337Z" creationid="Hiroshi Miura" creationdate="20220830T124337Z">
+        <seg>現在のプロジェクトの参考訳文の一致率が記録されます。メニューの&lt;m0&gt;&lt;g1&gt;ツール&lt;/g1&gt;&lt;g2&gt;参考訳文の一致率&lt;/g2&gt;&lt;/m0&gt;を選ぶと、作成されます。</seg>
       </tuv>
     </tu>
     <tu>
