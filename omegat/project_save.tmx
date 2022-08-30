@@ -20143,6 +20143,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with &lt;e3&gt;[fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123913Z" creationid="Hiroshi Miura" creationdate="20220830T123913Z">
+        <seg>たとえば、デフォルト設定のままであれば、補助的な翻訳メモリから自動挿入された訳文には、先頭に&lt;e3&gt;[参考]&lt;/e3&gt;という接頭辞が付きます。これにより、翻訳者が後から翻訳を見直すときに、その訳文が参考訳文のままなのかどうかを簡単に識別できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130318T044148Z">
@@ -22793,6 +22801,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the &lt;f0&gt;tm/auto&lt;/f0&gt; folder and avoid confirming a lot of &lt;e1&gt;[fuzzy]&lt;/e1&gt; cases.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123947Z" creationid="Hiroshi Miura" creationdate="20220830T123947Z">
+        <seg>補助的な翻訳メモリの内容がすべて正しい、ということがあらかじめはっきりと分かっている場合は、そのファイルを &lt;f0&gt;tm/auto&lt;/f0&gt; フォルダーに置いてください。そこから自動挿入される訳文には、&lt;e1&gt;[参考]&lt;/e1&gt;という接頭辞が付きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130318T044141Z">
@@ -23085,6 +23101,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Create Alternative Translation&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123545Z" creationid="Hiroshi Miura" creationdate="20220830T123545Z">
+        <seg>もし現在の翻訳がしっくりこない場合は、&lt;m0&gt;&lt;g1&gt;編集&lt;/g1&gt;&lt;g2&gt;例外訳文を登録&lt;/g2&gt;&lt;/m0&gt;コマンドを選んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T201952Z">
@@ -23357,10 +23381,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124126Z" creationid="Hiroshi Miura" creationdate="20220830T124126Z">
+        <seg>それ以上変更されないようにする&lt;e0&gt;必要がない&lt;/e0&gt;場合は、&lt;f1&gt;tm/enforce&lt;/f1&gt;からTMXを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061105Z" creationid="miurahr" creationdate="20201115T061105Z">
         <seg>引き続き変更されないようにする &lt;e0&gt;必要&lt;/e0&gt;がある場合は、 TMX を /tm/enforceに置きつづけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124139Z" creationid="Hiroshi Miura" creationdate="20220830T124139Z">
+        <seg>引き続き変更されないようにする &lt;e0&gt;必要&lt;/e0&gt;がある場合は、 TMX を &lt;f1&gt;tm/enforce&lt;/f1&gt;に置きつづけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23907,6 +23947,14 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141111T165355Z" creationid="Yu-Tang" creationdate="20141111T165355Z">
         <seg>OmegaT の &lt;f0&gt;project_save.tmx&lt;/f0&gt; よりも優先度が高いことが明らかな TMX がある場合は、そのファイルを /tm/enforce に配置してください。そこからの分節は、既存の翻訳を無条件に上書きします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt; to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124104Z" creationid="Hiroshi Miura" creationdate="20220830T124104Z">
+        <seg>OmegaT の &lt;f0&gt;project_save.tmx&lt;/f0&gt; よりも優先度が高いことが明らかな TMX がある場合は、そのファイルを &lt;f1&gt;tm/enforce&lt;/f1&gt; に配置してください。そこからの分節は、既存の翻訳を無条件に上書きします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31191,6 +31239,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the TMX files in the &lt;f0&gt;tm&lt;/f0&gt; folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123923Z" creationid="Hiroshi Miura" creationdate="20220830T123923Z">
+        <seg>&lt;f0&gt;tm&lt;/f0&gt; フォルダーに配置する TMX ファイルは、gzip 形式で圧縮しておくこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T043937Z">
@@ -31419,6 +31475,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061112Z" creationid="miurahr" creationdate="20201115T061112Z">
         <seg>注:ステップ3の前にTMXが/tm/enforceから削除された場合、強制はまったく保持されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: if TMX is removed from &lt;f0&gt;tm/auto&lt;/f0&gt; before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124041Z" creationid="Hiroshi Miura" creationdate="20220830T124041Z">
+        <seg>注:ステップ3の前に&lt;f0&gt;tm/auto&lt;/f0&gt;からTMXが削除された場合、追加の変換単位は追加されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: if TMX is removed from &lt;f0&gt;tm/enforce&lt;/f0&gt; before step 3, enforcements aren't kept at all.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124152Z" creationid="Hiroshi Miura" creationdate="20220830T124152Z">
+        <seg>注:ステップ3の前にTMXが&lt;f0&gt;tm/enforce&lt;/f0&gt;から削除された場合、強制はまったく保持されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35406,6 +35478,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123509Z" creationid="Hiroshi Miura" creationdate="20220830T123509Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt;を押すと、現在の分節のうち選択された部分を、機械翻訳に置換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141203T024200Z" creationid="Yu-Tang" creationdate="20141203T024200Z">
@@ -36212,6 +36292,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060836Z" creationid="miurahr" creationdate="20201115T060836Z">
         <seg>TMX を /tm/enforceに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124000Z" creationid="Hiroshi Miura" creationdate="20220830T124000Z">
+        <seg>Put the TMX in &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124114Z" creationid="Hiroshi Miura" creationdate="20220830T124114Z">
+        <seg>TMX を &lt;f0&gt;tm/enforce&lt;/f0&gt;に配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43261,10 +43357,26 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;omegat&lt;/f0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124204Z" creationid="Hiroshi Miura" creationdate="20220830T124204Z">
+        <seg>&lt;f0&gt;omegat&lt;/f0&gt; フォルダーには最低でも１つ、場合によってはそれ以上のファイルが存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T052812Z">
         <seg>omegat フォルダーにある &lt;f0&gt;project_stats.txt&lt;/f0&gt; には、各ファイルに含まれる分節についての詳細な情報が記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;tm&lt;/f0&gt; folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123808Z" creationid="Hiroshi Miura" creationdate="20220830T123808Z">
+        <seg>&lt;f0&gt;tm&lt;/f0&gt; フォルダーには補助的な翻訳メモリ（TMX ファイル）をいくつでも置いておくことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44201,6 +44313,22 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T084715Z">
         <seg>生成されるファイルは、その時点の翻訳作業の進行状況を反映した内容になります。つまり、&lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt; に保存された翻訳メモリの内容が反映されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123753Z" creationid="Hiroshi Miura" creationdate="20220830T123753Z">
+        <seg>生成されるファイルは、その時点の翻訳作業の進行状況を反映した内容になります。つまり、&lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt; に保存された翻訳メモリの内容が反映されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of translation memories in the &lt;f0&gt;tm&lt;/f0&gt; subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123822Z" creationid="Hiroshi Miura" creationdate="20220830T123822Z">
+        <seg>&lt;f0&gt;tm&lt;/f0&gt; フォルダーに配置された翻訳メモリの内容は、参考訳文の候補を探す際に参照されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45326,6 +45454,15 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T072323Z">
+        <seg>ここで最も重要なのは、&lt;f1&gt;project_save.tmx&lt;/f1&gt; でしょう。このファイルこそ、プロジェクトの作業用翻訳メモリになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx&lt;/f1&gt;, that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124224Z" creationid="Hiroshi Miura" creationdate="20220830T124224Z">
         <seg>ここで最も重要なのは、&lt;f1&gt;project_save.tmx&lt;/f1&gt; でしょう。このファイルこそ、プロジェクトの作業用翻訳メモリになります。</seg>
       </tuv>
     </tu>
@@ -54507,6 +54644,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can browse through notes using &lt;m0&gt;&lt;g1&gt;GoTo&lt;/g1&gt;&lt;g2&gt;Next Note&lt;/g2&gt;&lt;/m0&gt; and &lt;m3&gt;&lt;g4&gt;GoTo&lt;/g4&gt;&lt;g5&gt;Previous Note&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123731Z" creationid="Hiroshi Miura" creationdate="20220830T123731Z">
+        <seg>メモを見るには、&lt;m0&gt;&lt;g1&gt;移動&lt;/g1&gt;&lt;g2&gt;次のメモ&lt;/g2&gt;&lt;/m0&gt;か&lt;m3&gt;&lt;g4&gt;移動&lt;/g4&gt;&lt;g5&gt;前のメモ&lt;/g5&gt;&lt;/m3&gt;を使います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160308T145626Z" creationid="Yu-Tang" creationdate="20160308T145626Z">
@@ -54623,6 +54768,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151121T213633Z">
         <seg>また、「例外訳文」のうちの（もっとも普遍的な）１つを、既定値に設定することもできます。この場合は、&lt;g1&gt;［編集］→［基本訳文として使用］&lt;/g1&gt;（訳注：OmegaT 3.5.2 アップデート 1 以前では［既定値訳文として使用］）を選んでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;m3&gt;&lt;g4&gt;Edit&lt;/g4&gt;&lt;g5&gt;Use as Default Translation&lt;/g5&gt;&lt;/m3&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123621Z" creationid="Hiroshi Miura" creationdate="20220830T123621Z">
+        <seg>また、「例外訳文」のうちの（もっとも普遍的な）１つを、既定値に設定することもできます。この場合は、&lt;m3&gt;&lt;g4&gt;編集&lt;/g4&gt;&lt;g5&gt;基本訳文として使用&lt;/g5&gt;&lt;/m3&gt;を選んでください。</seg>
       </tuv>
     </tu>
     <tu>
