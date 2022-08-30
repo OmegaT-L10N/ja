@@ -8761,6 +8761,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A nice collection of useful regex cases can be found in OmegaT itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115659Z" creationid="Hiroshi Miura" creationdate="20220830T115659Z">
+        <seg>正規表現の便利な構文例は、OmegaT 自体にも含まれています（［設定］→［分節化規則...］を参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T035922Z">
@@ -21006,6 +21014,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115551Z" creationid="Hiroshi Miura" creationdate="20220830T115551Z">
+        <seg>用語集は&lt;f0&gt;glossary&lt;/f0&gt;プロジェクトフォルダに配置する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T070253Z">
@@ -23788,6 +23804,15 @@ folder, see the manual for its location).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If you have TransTips option activated (&lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;TransTips&lt;/g2&gt;&lt;/m0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T120149Z" creationid="Hiroshi Miura" creationdate="20220830T120149Z">
+        <seg>用語ヒントを有効化している場合（&lt;g0&gt;［設定］→［用語ヒント］&lt;/g0&gt;）は、原文分節中の下線が引かれた用語の上で右クリックすると、ポップアップメニューにその対訳が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
@@ -23835,6 +23860,14 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130425T105440Z">
         <seg>すでにテキストの大部分を翻訳した後で、プロジェクト設定中の訳文の言語コードが辞書の言語と一致していないことに気づいた場合（たとえば言語コードが pt_BR であるのに、pt_BR 用の辞書が存在しない場合）は、単純に２つの辞書ファイルの名前を変更すれば問題ありません（&lt;e0&gt;pt_PT.aff&lt;/e0&gt; と &lt;e1&gt;pt_PT.dic&lt;/e1&gt; をそれぞれ &lt;e2&gt;pt_BR.aff&lt;/e2&gt; と &lt;e3&gt;pt_BR.dic&lt;/e3&gt; に変更）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;f0&gt;pt_PT.aff&lt;/f0&gt; and &lt;f1&gt;pt_PT.dic&lt;/f1&gt; to &lt;f2&gt;pt_BR.aff&lt;/f2&gt; and &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T120032Z" creationid="Hiroshi Miura" creationdate="20220830T120032Z">
+        <seg>すでにテキストの大部分を翻訳した後で、プロジェクト設定中の訳文の言語コードが辞書の言語と一致していないことに気づいた場合（たとえば言語コードが pt_BR であるのに、pt_BR 用の辞書が存在しない場合）は、単純に２つの辞書ファイルの名前を変更すれば問題ありません（&lt;f0&gt;pt_PT.aff&lt;/f0&gt; と &lt;f1&gt;pt_PT.dic&lt;/f1&gt; をそれぞれ &lt;f2&gt;pt_BR.aff&lt;/f2&gt; と &lt;f3&gt;pt_BR.dic&lt;/f3&gt; に変更）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26697,6 +26730,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210510T234501Z" creationid="miurahr" creationdate="20210510T234501Z">
         <seg>名前と場所はプロジェクトのプロパティダイアログで変更できますが、拡張子は&lt;f0&gt;.txt&lt;/f0&gt;または&lt;f1&gt;.utf8&lt;/f1&gt;で、場所は&lt;f2&gt;/glossary&lt;/f2&gt;プロジェクトフォルダに含まれている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115524Z" creationid="Hiroshi Miura" creationdate="20220830T115524Z">
+        <seg>名前と場所はプロジェクトのプロパティダイアログで変更できますが、拡張子は&lt;f0&gt;.txt&lt;/f0&gt;または&lt;f1&gt;.utf8&lt;/f1&gt;で、場所は&lt;f2&gt;glossary&lt;/f2&gt;プロジェクトフォルダに含まれている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30595,6 +30636,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No glossary file found in the &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115643Z" creationid="Hiroshi Miura" creationdate="20220830T115643Z">
+        <seg>&lt;f0&gt;glossary&lt;/f0&gt; フォルダーに用語集ファイルがない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T163246Z">
@@ -30963,6 +31012,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T160632Z">
         <seg>&lt;f0&gt;［削除］&lt;/f0&gt;ボタンを押すと、選択した辞書は物理的に削除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that &lt;g0&gt;Remove&lt;/g0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T120050Z" creationid="Hiroshi Miura" creationdate="20220830T120050Z">
+        <seg>&lt;g0&gt;［削除］&lt;/g0&gt;ボタンを押すと、選択した辞書は物理的に削除されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31931,6 +31988,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130326T062833Z">
         <seg>OmegaT は、以下に示すメーリングリストや管理システムも持っています。これらは SourceForge がホストになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115543Z" creationid="Hiroshi Miura" creationdate="20220830T115543Z">
+        <seg>OmegaTは、プロジェクトを開くと、このフォルダ内の用語集ファイルを自動的に検出します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33074,6 +33139,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T100625Z">
         <seg>&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; ファイルを修正した場合は、新しいショートカット設定を反映させるために、忘れず &lt;a1&gt;OmegaT&lt;/a1&gt; を再起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, OmegaT must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115848Z" creationid="Hiroshi Miura" creationdate="20220830T115848Z">
+        <seg>&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; ファイルを修正した場合は、新しいショートカット設定を反映させるために、忘れず OmegaT を再起動してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38272,6 +38345,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T111650Z">
         <seg>ファイルを保存したら、&lt;a0&gt;OmegaT&lt;/a0&gt; を再起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save then the file and relaunch OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115902Z" creationid="Hiroshi Miura" creationdate="20220830T115902Z">
+        <seg>ファイルを保存したら、OmegaT を再起動してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44214,6 +44295,15 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The default writable glossary is located in the the &lt;f0&gt;glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115338Z" creationid="Hiroshi Miura" creationdate="20220830T115338Z">
+        <seg>デフォルトの書き込み可能な用語集は&lt;f0&gt;/glossary&lt;/f0&gt;プロジェクトフォルダにあり、&lt;f1&gt;glossary.txt&lt;/f1&gt;という名前が付いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The dialog allows to enable or disable the following options:</seg>
       </tuv>
@@ -46352,6 +46442,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;f0&gt;pt_br.aff&lt;/f0&gt; and &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115949Z" creationid="Hiroshi Miura" creationdate="20220830T115949Z">
+        <seg>綴り確認機能は、訳文の言語コードから使用する言語を判別します。たとえば、訳文言語がブラジルポルトガル語（PT_BR）である場合、辞書が存在するフォルダーには次の２つのファイル &lt;f0&gt;pt_br.aff&lt;/f0&gt; と &lt;f1&gt;pt_br.dic&lt;/f1&gt; が存在する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The statistics shown is available as a tab-separated &lt;f1&gt;project_stats.txt&lt;/f1&gt; file (subfolder &lt;f2&gt;omegat&lt;/f2&gt;), ready to be loaded into a spreadsheet program for the user's convenience.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T060748Z">
@@ -47252,6 +47350,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T234701Z" creationid="miurahr" creationdate="20201106T234656Z">
         <seg>PDFにはテキストのフォーマット情報が含まれていますが、訳文ファイルを作成するときに&lt;a0&gt;OmegaT&lt;/a0&gt;がこの情報を再利用することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They contain text formatting information, but such information cannot be reused by OmegaT in order to create target files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T120125Z" creationid="Hiroshi Miura" creationdate="20220830T120125Z">
+        <seg>PDFにはテキストのフォーマット情報が含まれていますが、訳文ファイルを作成するときにOmegaTがこの情報を再利用することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49627,6 +49733,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T040132Z" creationid="miurahr" creationdate="20201101T040132Z">
         <seg>既存の用語集を使用するには、プロジェクトの作成後に&lt;f0&gt;/glossary&lt;/f0&gt;フォルダに配置します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115531Z" creationid="Hiroshi Miura" creationdate="20220830T115531Z">
+        <seg>既存の用語集を使用するには、プロジェクトの作成後に&lt;f0&gt;glossary&lt;/f0&gt;フォルダに配置します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54418,6 +54532,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (accessible by &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115811Z" creationid="Hiroshi Miura" creationdate="20220830T115811Z">
+        <seg>ショートカット定義ファイルをOmegaT環境設定フォルダ(メニューから&lt;m0&gt;&lt;g1&gt;設定&lt;/g1&gt;&lt;g2&gt;設定フォルダー&lt;/g2&gt;&lt;/m0&gt;でアクセス可能)に置くと、すでに割り当てられているショートカットを変更したり、新しいショートカットを追加したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T085110Z">
@@ -56278,6 +56400,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144930Z" creationid="miurahr" creationdate="20201101T144930Z">
         <seg>ファイルを&lt;f0&gt;/source&lt;/f0&gt;フォルダにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>copy the files to the &lt;f0&gt;source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T120059Z" creationid="Hiroshi Miura" creationdate="20220830T120059Z">
+        <seg>ファイルを&lt;f0&gt;source&lt;/f0&gt;フォルダにコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60424,6 +60554,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T141138Z">
         <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectRestartMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115907Z" creationid="Hiroshi Miura" creationdate="20220830T115907Z">
+        <seg>projectRestartMenuItem</seg>
       </tuv>
     </tu>
     <tu>
