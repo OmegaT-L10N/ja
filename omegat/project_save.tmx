@@ -2284,6 +2284,36 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125903Z" creationid="Hiroshi Miura" creationdate="20220830T125903Z">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Camtasia for Windows (*.camproj)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T095402Z">
@@ -2384,6 +2414,24 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T094522Z">
         <seg>- Magento CE Locale CSV ファイル（.csv）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125901Z" creationid="Hiroshi Miura" creationdate="20220830T125901Z">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5181,6 +5229,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Display: all matching segments&lt;/g0&gt;: if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125425Z" creationid="Hiroshi Miura" creationdate="20220830T125425Z">
+        <seg>&lt;g0&gt;表示：繰り返し分節：&lt;/g0&gt;内容が同じ分節が複数見つかった場合でも、検索結果にすべての分節を繰り返し表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Display: file names&lt;/g0&gt;: if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125440Z" creationid="Hiroshi Miura" creationdate="20220830T125440Z">
+        <seg>&lt;g0&gt;表示：ファイル名：&lt;/g0&gt;分節ごとに、その分節が属するファイル名を先頭に表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220507T032847Z" creationid="miurahr" creationdate="20220507T032847Z">
@@ -5285,10 +5349,34 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Search in Files&lt;/g0&gt;: search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125620Z" creationid="Hiroshi Miura" creationdate="20220830T125620Z">
+        <seg>&lt;g0&gt;ファイルから検索：&lt;/g0&gt;単独のファイル、またはフォルダーに含まれるファイル群を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Search in Project&lt;/g0&gt;: check &lt;g1&gt;Memory&lt;/g1&gt; to include the project memory (&lt;f2&gt;project_save.tmx&lt;/f2&gt; file) in the search.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125505Z" creationid="Hiroshi Miura" creationdate="20220830T125505Z">
+        <seg>&lt;g0&gt;プロジェクトを検索&lt;/g0&gt;：&lt;g1&gt;内部メモリ&lt;/g1&gt;にチェックを入れると、プロジェクト専用の翻訳メモリ（&lt;f2&gt;project_save.tmx&lt;/f2&gt; ファイル）から検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220507T032323Z" creationid="miurahr" creationdate="20220507T032323Z">
         <seg>&lt;g0&gt;以下の正規表現に一致する文字列を翻訳しない&lt;/g0&gt;：指定した正規表現に一致するテキストは、翻訳対象とせずスキップすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Space matches nbsp&lt;/g0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125257Z" creationid="Hiroshi Miura" creationdate="20220830T125257Z">
+        <seg>&lt;g0&gt;スペース文字で nbsp も検索&lt;/g0&gt;：検索文字列に入力されたスペース文字を、通常のスペース文字だけでなく、ノーブレークスペース（\u00A）にも一致させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5321,6 +5409,70 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220505T060523Z" creationid="miurahr" creationdate="20220505T060523Z">
         <seg>&lt;g0&gt;以下の属性を翻訳：&lt;/g0&gt;選択した属性を編集ウィンドウで分節として表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translated or untranslated&lt;/g0&gt;: search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125343Z" creationid="Hiroshi Miura" creationdate="20220830T125343Z">
+        <seg>&lt;g0&gt;全分節：&lt;/g0&gt;翻訳済み分節と未翻訳分節の両方から検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translated&lt;/g0&gt;: search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125355Z" creationid="Hiroshi Miura" creationdate="20220830T125355Z">
+        <seg>&lt;g0&gt;翻訳済み分節：&lt;/g0&gt;翻訳済み分節だけから検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125408Z" creationid="Hiroshi Miura" creationdate="20220830T125408Z">
+        <seg>&lt;g0&gt;未翻訳分節：&lt;/g0&gt;未翻訳分節だけから検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;case sensitive&lt;/g0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125233Z" creationid="Hiroshi Miura" creationdate="20220830T125233Z">
+        <seg>&lt;g0&gt;大文字と小文字を区別：&lt;/g0&gt;指定した文字列そのものを検索します。大文字と小文字の違いも含めて、一致を判断します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in comments&lt;/g0&gt;: search in comments to segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125334Z" creationid="Hiroshi Miura" creationdate="20220830T125334Z">
+        <seg>&lt;g0&gt;コメントを検索：&lt;/g0&gt;コメントから検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in notes&lt;/g0&gt;: search in notes to segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125325Z" creationid="Hiroshi Miura" creationdate="20220830T125325Z">
+        <seg>&lt;g0&gt;メモを検索：&lt;/g0&gt;メモから検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125308Z" creationid="Hiroshi Miura" creationdate="20220830T125308Z">
+        <seg>&lt;g0&gt;原文を検索：&lt;/g0&gt;原文分節から検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in translations&lt;/g0&gt;: search in the target segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125316Z" creationid="Hiroshi Miura" creationdate="20220830T125316Z">
+        <seg>&lt;g0&gt;訳文を検索：&lt;/g0&gt;訳文分節から検索します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11006,6 +11158,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As OmegaT handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125708Z" creationid="Hiroshi Miura" creationdate="20220830T125708Z">
+        <seg>OmegaT は、同一の分節を１つの実体として扱うので、見つかった最初の分節のみを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -12904,6 +13064,22 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;g3&gt;TMs&lt;/g3&gt; to include the translation memories located in the &lt;f4&gt;tm&lt;/f4&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125543Z" creationid="Hiroshi Miura" creationdate="20220830T125543Z">
+        <seg>&lt;g3&gt;翻訳メモリ&lt;/g3&gt;にチェックを入れると、&lt;f4&gt;tm&lt;/f4&gt; フォルダー内の翻訳メモリファイルが検索対象になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;g5&gt;Glossaries&lt;/g5&gt; to include the glossaries located in the &lt;f6&gt;glossary&lt;/f6&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125608Z" creationid="Hiroshi Miura" creationdate="20220830T125608Z">
+        <seg>&lt;g5&gt;用語集&lt;/g5&gt;にチェックを入れると、&lt;f6&gt;glossary&lt;/f6&gt; フォルダー内の用語集ファイルが検索対象になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170201T141307Z" creationid="amake" creationdate="20170201T141307Z">
@@ -14236,6 +14412,15 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121113T145730Z">
         <seg>接続済み。プロジェクトはチームプロジェクトモードです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Consequently, although OmegaT is quite able to handle &lt;f1&gt;tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125637Z" creationid="Hiroshi Miura" creationdate="20220830T125637Z">
+        <seg>そのため、OmegaT は &lt;f1&gt;TMX&lt;/f1&gt; ファイルの検索にも対応していますが、ファイル検索機能からは対象外になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17095,6 +17280,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T100547Z" creationid="Kasuya" creationdate="20160705T100333Z">
         <seg>分節をダブルクリックすると、その分節を編集ウィンドウ内で編集することができます（&lt;e0&gt;［編集ウィンドウと同期する］&lt;/e0&gt;のチェックが入っている場合は、１クリックのみで済みます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;g0&gt;Auto-sync with Editor&lt;/g0&gt; option is checked).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125736Z" creationid="Hiroshi Miura" creationdate="20220830T125736Z">
+        <seg>分節をダブルクリックすると、その分節を編集ウィンドウ内で編集することができます（&lt;g0&gt;［編集ウィンドウと同期する］&lt;/g0&gt;のチェックが入っている場合は、１クリックのみで済みます）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27057,6 +27250,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125830Z" creationid="Hiroshi Miura" creationdate="20220830T125830Z">
+        <seg>Jean-Christophe Helary (プロジェクトマネージャー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T191424Z">
@@ -35628,6 +35829,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140330T035743Z">
         <seg>最下部にある［&lt;e0&gt;フィルター&lt;/e0&gt;］ボタンをクリックすると、編集ウィンドウには現在の検索条件に一致する分節のみが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the &lt;g0&gt;Filter&lt;/g0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125752Z" creationid="Hiroshi Miura" creationdate="20220830T125752Z">
+        <seg>最下部にある［&lt;g0&gt;フィルター&lt;/g0&gt;］ボタンをクリックすると、編集ウィンドウには現在の検索条件に一致する分節のみが表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49850,6 +50059,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remove a filter, press the &lt;g0&gt;Remove filter&lt;/g0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125801Z" creationid="Hiroshi Miura" creationdate="20220830T125801Z">
+        <seg>フィルターを解除するには、［&lt;g0&gt;フィルターを解除&lt;/g0&gt;］ボタンをクリックするか、またはプロジェクトを再読み込みしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To reuse it in &lt;a5&gt;OmegaT&lt;/a5&gt; rename it to &lt;e6&gt;project_save.tmx &lt;/e6&gt; and place it in the &lt;l7&gt;omegat&lt;/l7&gt;-folder of your project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T182600Z">
@@ -53235,6 +53452,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T024339Z" creationid="miurahr" creationdate="20201115T024339Z">
         <seg>&lt;e1&gt;全角/半角文字を区別しない&lt;/e1&gt;オプションがチェックされている場合、全角文字(CJK文字:かな漢字やアルファベットＡＢＣ)を検索すると半角文字に一致し、逆に半角文字を検索すると 全角文字に一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When &lt;g1&gt;Full/Half width char insensitive&lt;/g1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125650Z" creationid="Hiroshi Miura" creationdate="20220830T125650Z">
+        <seg>&lt;g1&gt;全角/半角文字を区別しない&lt;/g1&gt;オプションがチェックされている場合、全角文字(CJK文字:かな漢字やアルファベットＡＢＣ)を検索すると半角文字に一致し、逆に半角文字を検索すると 全角文字に一致します。</seg>
       </tuv>
     </tu>
     <tu>
