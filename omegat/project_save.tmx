@@ -12343,6 +12343,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T084055Z" creationid="Hiroshi Miura" creationdate="20220830T084055Z">
+        <seg>外部プログラムのよびだしが中断されました: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130531T132010Z">
@@ -12415,6 +12423,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T083931Z" creationid="Hiroshi Miura" creationdate="20220830T083931Z">
+        <seg>bashのPATHの通った場所にGPG実行可能ファイルが見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T122704Z" creationid="Yu-Tang" creationdate="20150716T122704Z">
@@ -12443,6 +12459,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121013T134135Z">
         <seg>リンク {0} を開けません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T084032Z" creationid="Hiroshi Miura" creationdate="20220830T084032Z">
+        <seg>GPG環境を正常に準備できませんでした</seg>
       </tuv>
     </tu>
     <tu>
@@ -18341,6 +18365,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T083840Z" creationid="Hiroshi Miura" creationdate="20220830T083840Z">
+        <seg>外部プログラムの出力を取得中にエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141616Z" creationid="miurahr" creationdate="20201101T141616Z">
@@ -18999,6 +19031,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130523T065328Z">
         <seg>外部の文書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T084123Z" creationid="Hiroshi Miura" creationdate="20220830T084123Z">
+        <seg>外部プログラムが異常終了しました({1}): {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28301,6 +28341,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T114925Z" creationid="Hiroshi Miura" creationdate="20220830T114925Z">
+        <seg>PATH環境変数から検索したGPGコマンド {0}はアクセスできません。スキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T170507Z">
@@ -28490,6 +28538,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T142050Z">
         <seg>機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translate Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T083741Z" creationid="Hiroshi Miura" creationdate="20220830T083741Z">
+        <seg>機械翻訳ハイライト</seg>
       </tuv>
     </tu>
     <tu>
@@ -30439,6 +30495,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201123T041108Z" creationid="suzume" creationdate="20201122T143637Z">
         <seg>変換する DOCX ファイルはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T084238Z" creationid="Hiroshi Miura" creationdate="20220830T084238Z">
+        <seg>キーID "{0}" のGPG公開鍵がみつかりません。Git設定の git config user.signingKeyを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50875,6 +50939,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T173308Z">
         <seg>{0} のプラグインの型が不明です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown/Manual</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T083752Z" creationid="Hiroshi Miura" creationdate="20220830T083752Z">
+        <seg>不明/マニュアル</seg>
       </tuv>
     </tu>
     <tu>
