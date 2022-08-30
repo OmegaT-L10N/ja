@@ -12345,8 +12345,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Call to external program was interrupted: {0}</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T084055Z" creationid="Hiroshi Miura" creationdate="20220830T084055Z">
-        <seg>外部プログラムのよびだしが中断されました: {0}</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115226Z" creationid="Hiroshi Miura" creationdate="20220830T084055Z">
+        <seg>外部プログラムの呼びだしが中断されました: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18919,6 +18919,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T165958Z">
         <seg>選択した領域を別のテキストファイルに出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115130Z" creationid="Hiroshi Miura" creationdate="20220830T115130Z">
+        <seg>外部 GPG が有効なシグニチャーを返しませんでした。{0}が返されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28343,8 +28351,8 @@ automatically download and install it.</seg>
       <tuv lang="en">
         <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T114925Z" creationid="Hiroshi Miura" creationdate="20220830T114925Z">
-        <seg>PATH環境変数から検索したGPGコマンド {0}はアクセスできません。スキップします。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115154Z" creationid="Hiroshi Miura" creationdate="20220830T114925Z">
+        <seg>PATH環境変数から検索したGPG実行ファイル {0}はアクセスできません。スキップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30495,6 +30503,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201123T041108Z" creationid="suzume" creationdate="20201122T143637Z">
         <seg>変換する DOCX ファイルはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115050Z" creationid="Hiroshi Miura" creationdate="20220830T115050Z">
+        <seg>GPG実行可能ファイルが見つかりません。Git設定の"Committing"セクションで指定するか git config gpg.programで定義してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51740,6 +51756,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130124T154620Z">
         <seg>取扱説明書...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T114941Z" creationid="Hiroshi Miura" creationdate="20220830T114941Z">
+        <seg>ユーザーが署名をキャンセルしました(パスフレーズが入力されていません)</seg>
       </tuv>
     </tu>
     <tu>
