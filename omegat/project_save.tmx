@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_313c851a2" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_7fc17ce66" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -437,6 +437,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font size to dictionary pane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T082656Z" creationid="Hiroshi Miura" creationdate="20220830T082656Z">
+        <seg>このフォントサイズ設定を辞書ウィンドウに適用する(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z" creationid="Yu-Tang" creationdate="20150418T040041Z">
@@ -817,6 +825,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>完全一致検索(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Export TMs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T082246Z" creationid="Hiroshi Miura" creationdate="20220830T082246Z">
+        <seg>TMを出力(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18795,6 +18811,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T082759Z" creationid="Hiroshi Miura" creationdate="20220830T082722Z">
+        <seg>翻訳メモリの結果出力フォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export the segment to text files</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T122718Z">
@@ -36628,6 +36652,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote project file lacks git setting.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T082424Z" creationid="Hiroshi Miura" creationdate="20220830T082424Z">
+        <seg>リモートのプロジェクトファイルに、Gitの設定が不足しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T053749Z" creationid="suzume" creationdate="20200119T053749Z">
@@ -40337,6 +40369,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T115714Z" creationid="amake" creationdate="20170128T115714Z">
         <seg>サイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Size on Dictionary pane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T082629Z" creationid="Hiroshi Miura" creationdate="20220830T082629Z">
+        <seg>辞書ウィンドウ上のフォントサイズ</seg>
       </tuv>
     </tu>
     <tu>
@@ -47935,6 +47975,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This may be intentional, but likely an oversight.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T082604Z" creationid="Hiroshi Miura" creationdate="20220830T082604Z">
+        <seg>これは意図的とおもわれますが、チームの設定ミスかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This means for instance that you do not need to exit a project you are currently working on if you decide to add another ancillary TM to it: you simply reload the project, and the changes you have made will be included.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T080115Z">
@@ -51058,6 +51106,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T011606Z" creationid="miurahr" creationdate="20201101T011606Z">
         <seg>n 番目のグループを参照するには $n を使用します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T082349Z" creationid="Hiroshi Miura" creationdate="20220830T082349Z">
+        <seg>要約ビューを使用する(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
