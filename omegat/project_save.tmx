@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_7fc17ce66" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d3038e76" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39286,8 +39286,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See /docs/contributors.txt</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T043409Z" creationid="suzume" creationdate="20200119T043409Z">
-        <seg>/docs/contributors.txt を参照にしてください。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220831T085822Z" creationid="suzume" creationdate="20200119T043409Z">
+        <seg>/docs/contributors.txt を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See /docs/libraries.txt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220831T085858Z" creationid="Hiroshi Miura" creationdate="20220831T085817Z">
+        <seg>/docs/libraries.txtを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
