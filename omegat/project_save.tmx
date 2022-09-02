@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d3038e76" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_c3d69c953" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12553,8 +12553,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Call to external program was interrupted: {0}</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115226Z" creationid="Hiroshi Miura" creationdate="20220830T084055Z">
-        <seg>外部プログラムの呼びだしが中断されました: {0}</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220902T034944Z" creationid="Hiroshi Miura" creationdate="20220830T084055Z">
+        <seg>外部プログラム呼び出しが中断されました: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12673,8 +12673,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Cannot prepare GPG environment properly</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T084032Z" creationid="Hiroshi Miura" creationdate="20220830T084032Z">
-        <seg>GPG環境を正常に準備できませんでした</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220902T035100Z" creationid="Hiroshi Miura" creationdate="20220830T084032Z">
+        <seg>適切なGPG環境を用意できません</seg>
       </tuv>
     </tu>
     <tu>
