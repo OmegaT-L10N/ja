@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_c3d69c953" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_ca8b8144f" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15816,6 +15816,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be override by the remote project configuration content.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220919T053512Z" creationid="miurahr" creationdate="20220919T053426Z">
+        <seg>現在のプロジェクト設定は、チームプロジェクトの設定内容によって上書きされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current team:
 (alphabetical order)</seg>
       </tuv>
@@ -16366,6 +16374,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220328T124414Z" creationid="Hiroshi Miura" creationdate="20220326T084137Z">
         <seg>辞書(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Dictionaries Folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220919T053400Z" creationid="miurahr" creationdate="20220919T053400Z">
+        <seg>辞書フォルダー：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19139,6 +19156,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Export Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220919T053404Z" creationid="miurahr" creationdate="20220919T053404Z">
+        <seg>翻訳メモリの結果出力フォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Export Translation Memory Files Folder</seg>
       </tuv>
@@ -21191,6 +21217,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220919T053752Z" creationid="miurahr" creationdate="20220919T053752Z">
+        <seg>Git通知: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Give access to the five last edited projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T084149Z" creationid="Yu-Tang" creationdate="20141201T084149Z">
@@ -21243,6 +21277,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T042252Z">
         <seg>用語集 (Glossaries)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Glossaries Folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220919T053356Z" creationid="miurahr" creationdate="20220919T053356Z">
+        <seg>用語集フォルダー：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46016,6 +46059,14 @@ sure this has not already been reported.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original file is saved as backup: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220919T053429Z" creationid="miurahr" creationdate="20220919T053429Z">
+        <seg>The original file is saved as backup: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The output pseudotranslated TMX file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T040230Z" creationid="Yu-Tang" creationdate="20160212T040230Z">
@@ -50846,6 +50897,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140310T171554Z">
         <seg>訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20220919T053351Z" creationid="miurahr" creationdate="20220919T053351Z">
+        <seg>翻訳メモリフォルダー：</seg>
       </tuv>
     </tu>
     <tu>
