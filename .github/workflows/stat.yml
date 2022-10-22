@@ -26,6 +26,7 @@ jobs:
         uses: gradle/gradle-build-action@v2
         with:
           arguments: translate
+          gradle-version: 6.9.3
       - name: Report coverage
         uses: miurahr/omegat-stat@v1
         with:
