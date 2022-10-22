@@ -11443,6 +11443,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources in separate folders.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155206Z" creationid="Hiroshi Miura" creationdate="20221022T155206Z">
+        <seg>OmegaT の翻訳プロジェクトは、複数のフォルダーの様々な資材から構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T224632Z" creationid="Kasuya" creationdate="20160705T091829Z">
@@ -15026,6 +15034,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150521T044032Z" creationid="Yu-Tang" creationdate="20150418T011601Z">
         <seg>同様に技術情報に従い、アプリケーションの登録を完了してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the button to select the folder that you want to use instead of the default resource folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155653Z" creationid="Hiroshi Miura" creationdate="20221022T155653Z">
+        <seg>ボタンをクリックして、デフォルトの資材フォルダの代わりに使用するフォルダを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22360,6 +22376,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T153944Z" creationid="Hiroshi Miura" creationdate="20221022T153944Z">
         <seg>セキュリティ上の理由から、プロジェクトベースの外部コマンドはデフォルトで無効になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security purposes, project-based external searches are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155054Z" creationid="Hiroshi Miura" creationdate="20221022T155054Z">
+        <seg>セキュリティ上の理由から、プロジェクトベースの外部検索はデフォルトで無効になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36052,6 +36076,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT will consider that this folder contains the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155813Z" creationid="Hiroshi Miura" creationdate="20221022T155813Z">
+        <seg>OmegaTは、変換したいファイルがこのフォルダにあるとみなします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
@@ -41200,6 +41233,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resource folders can be located anywhere on your machine, including on shared disks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155255Z" creationid="Hiroshi Miura" creationdate="20221022T155255Z">
+        <seg>資材のフォルダは、共有ディスクを含むマシン上の任意の場所に配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142129Z" creationid="amake" creationdate="20170128T142129Z">
@@ -41212,6 +41253,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T004354Z" creationid="miurahr" creationdate="20201101T004354Z">
         <seg>リソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resources do not have to be contained in the default project folder that OmegaT creates.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155449Z" creationid="Hiroshi Miura" creationdate="20221022T155353Z">
+        <seg>資材は、OmegaTが作成するデフォルトのプロジェクト・フォルダーに含まれている必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47393,6 +47442,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all the user-defined project resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155345Z" creationid="Hiroshi Miura" creationdate="20221022T155345Z">
+        <seg>&lt;g0&gt;[参照]&lt;/g0&gt;ボタンは、すべてのユーザー定義プロジェクト資源で使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Display Context Description for TBX Glossaries&lt;/g0&gt; option allows to show or hide contextual information with the terms (that come from TBX glossaries located in &lt;f1&gt;glossary&lt;/f1&gt; folder) in the Glossary pane.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141203T024058Z" creationid="Yu-Tang" creationdate="20141203T024058Z">
@@ -50028,6 +50085,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T170648Z">
         <seg>新しい規則集は、プロジェクトと共に保存されます。またプログラム共通の分節化規則集には干渉しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The new set of searches will be stored in the &lt;l0/&gt; file of the &lt;l1/&gt; folder of the project and will supersede the general set of searches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154941Z" creationid="Hiroshi Miura" creationdate="20221022T154941Z">
+        <seg>新しい検索条件は、プロジェクトと共に&lt;l1/&gt;フォルダーの&lt;l0/&gt;ファイルに保存されます。またユーザーレベルの一般の検索設定を上書きします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54470,6 +54535,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To delete project specific external searches, click &lt;g0&gt;Remove&lt;/g0&gt; or remove that file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155029Z" creationid="Hiroshi Miura" creationdate="20221022T155029Z">
+        <seg>プロジェクト専用の外部検索を無効にするには、&lt;g0&gt;削除&lt;/g0&gt;をクリックにするか、そのファイルを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To delete project specific file filters, uncheck the check box.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T021350Z">
@@ -58595,6 +58668,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a new project is created, OmegaT proposes to create a project folder that contains all the resources used in the translation, but that structure is not compulsory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155234Z" creationid="Hiroshi Miura" creationdate="20221022T155234Z">
+        <seg>新しいプロジェクトが作成されると、OmegaTは翻訳で使用されるすべての資材を含むプロジェクトフォルダーの作成を提案しますが、その構造は必須ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T065430Z">
@@ -60020,6 +60101,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can access all the locations with &lt;l0/&gt; and its submenus.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155322Z" creationid="Hiroshi Miura" creationdate="20221022T155322Z">
+        <seg>&lt;l0/&gt;とそのサブメニューを使用して、それらのすべての場所にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can access that folder directly with the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu entry.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160704T083550Z" creationid="Kasuya" creationdate="20160704T083354Z">
@@ -60693,6 +60782,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders the project will use, at will, even during the course of the translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155303Z" creationid="Hiroshi Miura" creationdate="20221022T155303Z">
+        <seg>フォルダにファイルを追加または削除したり、プロジェクトで使用するフォルダを変更したりすることで、プロジェクトの構造を変更することができます。これは、翻訳中でも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
@@ -60788,6 +60886,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094836Z" creationid="Hiroshi Miura" creationdate="20220424T094836Z">
         <seg>OmegaTのユーザインタフェースのレテーマを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can select any folder that you want to hold your resources, even folders located on shared disks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155607Z" creationid="Hiroshi Miura" creationdate="20221022T155422Z">
+        <seg>共有ディスク上にあるフォルダも含めて、リソースを格納するフォルダを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63387,6 +63494,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T132304Z" creationid="Hiroshi Miura" creationdate="20221022T132304Z">
         <seg>0または1が続く&lt;c0&gt;イベント&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>followed by 1 &lt;c0&gt;key&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155804Z" creationid="Hiroshi Miura" creationdate="20221022T155804Z">
+        <seg>followed by 1 &lt;c0&gt;key&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
