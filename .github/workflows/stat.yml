@@ -22,7 +22,8 @@ jobs:
       - name: Prepare gradle config
         run: |
           echo "plugins { id 'org.omegat.gradle' version '1.5.9' }" > build.gradle
-          echo "omegat {version='5.7.1'}" >> build.gradle
+          echo "omegat {version='5.7.1'" >> build.gradle
+          echo "projectDir='$rootDir'}" >> build.gradle
         shell: bash
       - name: Generate translation
         uses: gradle/gradle-build-action@v2
