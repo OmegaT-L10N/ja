@@ -24747,6 +24747,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, no formatting (inline) tags will be displayed in the source segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T134647Z" creationid="Hiroshi Miura" creationdate="20221022T134647Z">
+        <seg>オンにすると、原文分節に整形用(インライン)タグが表示されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T031612Z" creationid="Yu-Tang" creationdate="20141104T031612Z">
@@ -25078,8 +25086,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If not checked, all segments can be assigned a different translation.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T134431Z" creationid="Hiroshi Miura" creationdate="20221022T134431Z">
-        <seg>If not checked, all segments can be assigned a different translation.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T134521Z" creationid="Hiroshi Miura" creationdate="20221022T134431Z">
+        <seg>チェックがない場合、すべての分節に異なる訳文を割りあてることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53142,6 +53150,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T155140Z">
         <seg>この処理は、語尾や語頭の変化形を持つ言語を扱う場合に、とても役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is especially useful when dealing with texts where inline formatting is not particularly useful (e.g., OCRed PDF, or poorly converted .odt or .docx files.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T134653Z" creationid="Hiroshi Miura" creationdate="20221022T134653Z">
+        <seg>This is especially useful when dealing with texts where inline formatting is not particularly useful (e.g., OCRed PDF, or poorly converted .odt or .docx files.)</seg>
       </tuv>
     </tu>
     <tu>
