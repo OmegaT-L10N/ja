@@ -13463,6 +13463,22 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, external searches are global and are available by to all projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154723Z" creationid="Hiroshi Miura" creationdate="20221022T154723Z">
+        <seg>デフォルトでは、外部検索はユーザーレベルであり、すべてのプロジェクトで使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, file filter settings are global and are shared by all projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154255Z" creationid="Hiroshi Miura" creationdate="20221022T154255Z">
+        <seg>デフォルトでは、フィルターの設定はユーザーレベルであり、すべてのプロジェクトで共有されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060021Z" creationid="miurahr" creationdate="20201115T060021Z">
@@ -13483,6 +13499,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T180816Z">
         <seg>デフォルトでは、左から右へ表記する（LTR）言語は左寄せ、右から左へ表記する（RTL）言語は右寄せです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, post-processing commands are global and are available to all projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T153826Z" creationid="Hiroshi Miura" creationdate="20221022T153826Z">
+        <seg>デフォルトでは、後処理コマンドはユーザーレベルであり、すべてのプロジェクトで使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14527,6 +14551,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T071925Z">
         <seg>プロジェクト設定で指定したフォルダー（もしくはそのサブフォルダー）中に、辞書ファイルが存在しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the &lt;g0&gt;Make the file filter settings project specific&lt;/g0&gt; box, and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154424Z" creationid="Hiroshi Miura" creationdate="20221022T154424Z">
+        <seg>&lt;g0&gt;［フィルター設定をプロジェクト専用にする］&lt;/g0&gt;チェックボックスにチェックを入れてから、必要な設定に変更してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22320,6 +22352,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T171909Z">
         <seg>判別しやすいよう、文字キーは大文字で表記します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security purposes, project-based external commands are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T153944Z" creationid="Hiroshi Miura" creationdate="20221022T153944Z">
+        <seg>セキュリティ上の理由から、プロジェクトベースの外部コマンドはデフォルトで無効になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30928,6 +30968,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T084337Z" creationid="Kasuya" creationdate="20160706T084337Z">
         <seg>ローカル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File Filters...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154232Z" creationid="Hiroshi Miura" creationdate="20221022T154232Z">
+        <seg>ローカルファイルフィルター</seg>
       </tuv>
     </tu>
     <tu>
@@ -42545,6 +42593,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; in &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154658Z" creationid="Hiroshi Miura" creationdate="20221022T154647Z">
+        <seg>具体例は&lt;l1/&gt;の&lt;l0/&gt;を参照。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T174353Z">
@@ -49952,6 +50008,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The new set of filters will be stored in the &lt;l0/&gt; file of the &lt;l1/&gt; folder of the project and will supersede the general set of file filters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154525Z" creationid="Hiroshi Miura" creationdate="20221022T154427Z">
+        <seg>新しいフィルター定義は、プロジェクトと共に&lt;l1/&gt;フォルダーの&lt;l0/&gt;ファイルに保存されます。またユーザーレベルのフィルター設定には干渉しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The new set of rules will be stored in the &lt;l0/&gt; file of the &lt;l1/&gt; folder of the project and will supersede the global segmentation rules.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T134138Z" creationid="Hiroshi Miura" creationdate="20221022T134138Z">
@@ -52246,10 +52310,27 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are defined in Preferences – &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T153911Z" creationid="Hiroshi Miura" creationdate="20221022T153911Z">
+        <seg>これらの設定は、[設定] – &lt;l0/&gt;で定義できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T092947Z">
         <seg>このような訳文は、未翻訳分節と区別するために、編集ウィンドウ上では &lt;空訳文&gt; と表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>They are found in Preferences – &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154311Z" creationid="Hiroshi Miura" creationdate="20221022T154311Z">
+        <seg>これらの設定は、[設定] – &lt;l0/&gt;で定義できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54418,6 +54499,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T134205Z" creationid="Hiroshi Miura" creationdate="20221022T134205Z">
         <seg>プロジェクト専用の分節化規則を削除したい場合は、チェックボックスのチェックを外してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable project specific file filters, uncheck the box or remove that file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154547Z" creationid="Hiroshi Miura" creationdate="20221022T154547Z">
+        <seg>プロジェクト専用のファイルフィルターを無効にするには、チェックボックスをオフにするか、そのファイルを削除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57235,6 +57324,22 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this button to create local external searches specific to your project and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154836Z" creationid="Hiroshi Miura" creationdate="20221022T154836Z">
+        <seg>プロジェクト専用の外部検索を作成するには、このボタンを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local file filters specific to your project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154333Z" creationid="Hiroshi Miura" creationdate="20221022T154333Z">
+        <seg>プロジェクト専用のフィルター設定を作成するには、このボタンを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this button to create local rules specific to your project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T133850Z" creationid="Hiroshi Miura" creationdate="20221022T133850Z">
@@ -58789,6 +58894,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144232Z" creationid="miurahr" creationdate="20201101T144232Z">
         <seg>チームプロジェクトで作業する場合、このウィンドウでリモートフォルダとローカルフォルダ間のマッピングを定義できます(具体例は&lt;l0&gt;ここ&lt;/l0&gt;を参照)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between the remote and local folders.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154618Z" creationid="Hiroshi Miura" creationdate="20221022T154618Z">
+        <seg>チームプロジェクトで作業する場合、このウィンドウでリモートフォルダとローカルフォルダ間のマッピングを定義できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60439,6 +60552,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T023540Z">
         <seg>プロジェクト専用ファイルフィルターを設定するには、まずメニューから&lt;e0&gt;［プロジェクト］→［プロジェクト設定...］を選びます。&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can enable them by checking Preferences – &lt;l0/&gt; in the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154158Z" creationid="Hiroshi Miura" creationdate="20221022T154158Z">
+        <seg>有効にするには、&lt;l1/&gt; 設定の[設定] – &lt;l0/&gt;でチェックをいれます。</seg>
       </tuv>
     </tu>
     <tu>
