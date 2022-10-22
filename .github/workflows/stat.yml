@@ -20,7 +20,9 @@ jobs:
         with:
           java-version: 8
       - name: Prepare gradle config
-        run: echo "plugins { id 'org.omegat.gradle' version '1.5.9' }" > build.gradle
+        run: |
+          echo "plugins { id 'org.omegat.gradle' version '1.5.9' }" > build.gradle
+          echo "omegat {version='5.7.1'}" >> build.gradle
         shell: bash
       - name: Generate translation
         uses: gradle/gradle-build-action@v2
