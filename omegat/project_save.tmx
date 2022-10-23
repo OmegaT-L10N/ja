@@ -11453,6 +11453,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Also remember not modifying the project configuration or adding TMX files on the meantime, as that may affect the results.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121841Z" creationid="miurahr" creationdate="20221023T121841Z">
+        <seg>また、プロジェクトの設定を変更したり、TMXファイルを追加したりしないでください。結果に影響する可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
@@ -15518,6 +15527,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Close the project, preventing on any modification on the current status of the backup files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121759Z" creationid="miurahr" creationdate="20221023T121759Z">
+        <seg>プロジェクトを閉じて、バックアップファイルの現在のステータスが変更されないようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Closes or opens the &lt;l0&gt;Project files window&lt;/l0&gt; (depending on whether it is open or closed).</seg>
       </tuv>
@@ -16422,6 +16440,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy it to the &lt;f0&gt;omegat/&lt;/f0&gt; folder of your new project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121921Z" creationid="miurahr" creationdate="20221023T121911Z">
+        <seg>それを新しいプロジェクトの&lt;f0&gt;omegat/&lt;/f0&gt;フォルダーにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the 
 OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
@@ -16443,6 +16469,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224153Z" creationid="Hiroshi Miura" creationdate="20220825T224153Z">
         <seg>ページのURL(&lt;g0&gt;action=edit&lt;/g0&gt;で終わる)をコピーし、OmegaTに貼り付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Copy the contents of the various user folders to their equivalent in the new project (source files, reference translation memory files, glossary files).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121859Z" creationid="miurahr" creationdate="20221023T121859Z">
+        <seg>さまざまなユーザーフォルダの内容を、新しいプロジェクト内の対応するフォルダ(ソースファイル、参照翻訳メモリファイル、用語集ファイル)にコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16764,6 +16799,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130309T012355Z">
         <seg>ProjectLocker で新しいプロジェクトを作成します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Create a new project with the same settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121854Z" creationid="miurahr" creationdate="20221023T121854Z">
+        <seg>同じ設定で新しいプロジェクトを作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28249,6 +28293,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>In rare cases where your computer freezes and OmegaT does not have the time to properly close, some important files can be broken and keep your project from reopening after you have rebooted your machine.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121851Z" creationid="miurahr" creationdate="20221023T121851Z">
+        <seg>コンピュータがフリーズし、OmegaTが適切に閉じる時間がないというまれなケースでは、いくつかの重要なファイルが壊れて、マシンを再起動した後にプロジェクトが再び開かないことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
@@ -28472,6 +28525,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T024820Z">
         <seg>次の手順として、作業コピーフォルダーに OmegaT のファイルを追加しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>In the old project, select the translation memory (backup or not) most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121904Z" creationid="miurahr" creationdate="20221023T121904Z">
+        <seg>古いプロジェクトで、探しているデータが含まれている可能性が最も高い翻訳メモリ(バックアップかどうか)を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30731,6 +30793,15 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T110317Z" creationid="Kasuya" creationdate="20160706T103515Z">
         <seg>別の訳文を選ぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Keep an eye on safely storing all the different files you are renaming for eventual reuse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121832Z" creationid="miurahr" creationdate="20221023T121832Z">
+        <seg>最終的な再利用のために、名前を変更するすべての異なるファイルを安全に保存することに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38313,6 +38384,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the new project the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122112Z" creationid="miurahr" creationdate="20221023T121913Z">
+        <seg>新しいプロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T140420Z">
@@ -42107,6 +42186,24 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121812Z" creationid="miurahr" creationdate="20221023T121812Z">
+        <seg>名前を&lt;f0&gt;project_save.tmx&lt;/f0&gt;に変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (to &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, for example).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121804Z" creationid="miurahr" creationdate="20221023T121804Z">
+        <seg>現在の&lt;f0&gt;project_save.tmx&lt;/f0&gt;ファイルの名前を変更します(たとえば、&lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file ( e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
@@ -42120,6 +42217,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T155019Z">
         <seg>プロジェクトを再読み込みしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Reopen the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121814Z" creationid="miurahr" creationdate="20221023T121814Z">
+        <seg>プロジェクトを再度開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44993,6 +45099,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T041210Z" creationid="miurahr" creationdate="20201115T041210Z">
         <seg>アイコンとして &lt;f3&gt;OmegaT.png&lt;/f3&gt; を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Select the backup translation memory most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121809Z" creationid="miurahr" creationdate="20221023T121809Z">
+        <seg>検索するデータが含まれている可能性が最も高いバックアップ翻訳メモリを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54401,6 +54516,23 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This action will restore in the new project the status of the translation to the moment on which the selected project translation memory was created in the old project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121923Z" creationid="miurahr" creationdate="20221023T121923Z">
+        <seg>This action will restore in the new project the status of the translation to the moment on which the selected project translation memory was created in the old project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This action will restore the status of the translation to the moment on which the selected backup was created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121819Z" creationid="miurahr" creationdate="20221023T121819Z">
+        <seg>この操作を行うと、選択したバックアップが作成された時点の変換ステータスが復元されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Yu-Tang）"the target version for the complete project" の意味がよく分からず。</note>
       <tuv lang="en">
         <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
@@ -63269,6 +63401,15 @@ window to be able to launch it from any location.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You may repeat this operation as needed for locating older situations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121825Z" creationid="miurahr" creationdate="20221023T121825Z">
+        <seg>古い状況を特定するために、必要に応じてこの操作を繰り返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
       </tuv>
@@ -63502,6 +63643,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T023040Z">
         <seg>OmegaT が対応するファイル形式の原文ファイルが含まれていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project won't open?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121846Z" creationid="miurahr" creationdate="20221023T121846Z">
+        <seg>プロジェクトが開かない?</seg>
       </tuv>
     </tu>
     <tu>
