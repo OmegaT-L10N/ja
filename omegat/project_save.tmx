@@ -3347,6 +3347,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--remote-project &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131206Z" creationid="miurahr" creationdate="20221023T131206Z">
+        <seg>--remote-project &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T021353Z" creationid="Yu-Tang" creationdate="20160212T021353Z">
@@ -19508,6 +19516,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Download the OmegaT project from the specified URL specified in &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;, and load it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131214Z" creationid="miurahr" creationdate="20221023T131214Z">
+        <seg>&lt;e0&gt;&lt;path-to-OmegaT-project-file&gt;&lt;/e0&gt;で指定したURLからOmegaTプロジェクトをダウンロードし、読み込みします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
@@ -29132,6 +29149,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialize a team project using &lt;e0&gt;SL&lt;/e0&gt; and &lt;e1&gt;TL&lt;/e1&gt; as the source and target two-letter language codes, respectively.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131307Z" creationid="miurahr" creationdate="20221023T131307Z">
+        <seg>原文と訳文言語の2文字の言語コードとして、それぞれ&lt;e0&gt;SL&lt;/e0&gt;と&lt;e1&gt;TL&lt;/e1&gt;を使用してチームプロジェクトを初期化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T005907Z" creationid="miurahr" creationdate="20201101T005907Z">
@@ -31770,6 +31795,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T141313Z">
         <seg>起動コマンドの引数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch the GUI and load the specified project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131159Z" creationid="miurahr" creationdate="20221023T131159Z">
+        <seg>GUIを起動して指定されたプロジェクトを開きます</seg>
       </tuv>
     </tu>
     <tu>
@@ -60212,6 +60245,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use this option if you want to prevent OmegaT from synchronizing the project contents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131238Z" creationid="miurahr" creationdate="20221023T131238Z">
+        <seg>この引数を指定すると、チームプロジェクトを開いても同期しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
       </tuv>
@@ -71258,6 +71300,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>path to an omegat project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131133Z" creationid="miurahr" creationdate="20221023T131133Z">
+        <seg>OmegaTプロジェクトへの道</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>path/to/OmegaT.jar</seg>
       </tuv>
@@ -72410,6 +72461,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;e0&gt;SL&lt;/e0&gt; &lt;e1&gt;TL&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131240Z" creationid="miurahr" creationdate="20221023T131240Z">
+        <seg>team init &lt;e0&gt;SL&lt;/e0&gt; &lt;e1&gt;TL&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
