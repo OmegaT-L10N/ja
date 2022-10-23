@@ -16450,6 +16450,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Consult the documentation for your server or hosting service for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132609Z" creationid="miurahr" creationdate="20221023T132609Z">
+        <seg>詳細については、サーバまたはホスティングサービスのマニュアルを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Consult the documentation for your system for more information.</seg>
       </tuv>
@@ -17191,6 +17200,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T154844Z">
         <seg>仮翻訳の TMX を作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Create the project structure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132804Z" creationid="miurahr" creationdate="20221023T132804Z">
+        <seg>プロジェクト構造を作成する</seg>
       </tuv>
     </tu>
     <tu>
@@ -22330,6 +22348,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Fill the empty local copy with a real OmegaT project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132515Z" creationid="miurahr" creationdate="20221023T132515Z">
+        <seg>空のローカルコピーを実際のOmegaTプロジェクトで埋める</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
@@ -24073,6 +24100,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Give access rights to your team</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132534Z" creationid="miurahr" creationdate="20221023T132534Z">
+        <seg>チームにアクセス権を付与する</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Give access to the five last edited projects.</seg>
       </tuv>
@@ -24946,6 +24982,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T064902Z">
         <seg>ハウサ語（Hausa）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Have everybody download the project from OmegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132537Z" creationid="miurahr" creationdate="20221023T132537Z">
+        <seg>OmegaTからプロジェクトをダウンロードしてもらう</seg>
       </tuv>
     </tu>
     <tu>
@@ -27145,6 +27190,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;usual GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132833Z" creationid="miurahr" creationdate="20221023T132833Z">
+        <seg>新しい空のプロジェクトを作成する場合は、&lt;l0&gt;通常のGUI手順&lt;/l0&gt;に従うか、コマンドラインから直接作成することができます。 &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are in any doubt, we recommend that you use the version supplied with 
 JRE.</seg>
       </tuv>
@@ -27710,6 +27763,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to perform translation or review tasks on that project, use OmegaT to separately download the team project and work from there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132800Z" creationid="miurahr" creationdate="20221023T132800Z">
+        <seg>そのプロジェクトで翻訳やレビュー作業を行う必要がある場合は、OmegaTを使用して、チームプロジェクトと作業用のプロジェクトを別々にダウンロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T234755Z" creationid="miurahr" creationdate="20201106T234755Z">
@@ -27722,6 +27783,15 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T031803Z">
         <seg>原文のタグを確認する必要はあるが、翻訳後の文書に整形情報を含む必要があまりないのであれば、訳文にタグを入れる必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you need to work on the project too, download the project yourself to a local location different from the local team project location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132545Z" creationid="miurahr" creationdate="20221023T132545Z">
+        <seg>プロジェクトで作業する必要がある場合は、ローカルチームプロジェクトの場所とは異なるローカルの場所にプロジェクトを自分でダウンロードします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30514,6 +30584,15 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130515T062104Z">
         <seg>これは、真剣に取り組んでいる開発者とテスト実施者以外にはお勧めしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>It is recommended that you do not use that folder for translation tasks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132745Z" creationid="miurahr" creationdate="20221023T132745Z">
+        <seg>このフォルダーを翻訳作業に使用しないことをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40888,6 +40967,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preparations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132558Z" creationid="miurahr" creationdate="20221023T132558Z">
+        <seg>準備作業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prerequisites</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T155607Z">
@@ -41854,6 +41941,15 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Push the registered files to the hosting server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132531Z" creationid="miurahr" creationdate="20221023T132531Z">
+        <seg>登録したファイルをホストサーバにプッシュする</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
@@ -42349,6 +42445,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T183527Z">
         <seg>原文と同一訳文を登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Register the project files into the local vcs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132520Z" creationid="miurahr" creationdate="20221023T132520Z">
+        <seg>プロジェクトファイルをローカルVCSに登録します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52450,6 +52555,15 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The local repository is used to add the initial project to the server, and can also be used for maintenance tasks, such as deleting files, that cannot be performed directly within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132741Z" creationid="miurahr" creationdate="20221023T132741Z">
+        <seg>ローカルリポジトリは、最初のプロジェクトをサーバに追加するために使用されます。また、OmegaT内で直接実行できないファイルの削除などのメンテナンスタスクにも使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
@@ -55710,6 +55824,15 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This can normally be done through a web interface, a graphical application, or the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132603Z" creationid="miurahr" creationdate="20221023T132603Z">
+        <seg>これは通常、Webインターフェース、グラフィカルプログラム、またはコマンドラインを使用して実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
@@ -56572,6 +56695,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130515T053100Z">
         <seg>OmegaT の機能と開発について、より技術的な意見交換を行うことを目的としています。OmegaT の開発者と、開発に関心を持つ人たちが利用することを想定しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This local version contains your &lt;e0&gt;project manager&lt;/e0&gt; copy of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132726Z" creationid="miurahr" creationdate="20221023T132726Z">
+        <seg>&lt;e0&gt;プロジェクトマネージャ&lt;/e0&gt;用のOmegaTプロジェクトのコピーがこのローカルのディレクトリにあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60533,6 +60664,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T154921Z">
         <seg>この引数を指定すると、チームプロジェクトを開いても同期しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use it to make modifications that affect all the team.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132734Z" creationid="miurahr" creationdate="20221023T132734Z">
+        <seg>すべてのチームに影響する変更を行う場合に使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64871,6 +65011,15 @@ them.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T034858Z" creationid="suzume" creationdate="20200119T034858Z">
         <seg>Youtube 字幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Your can now also work on the project with the team</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132553Z" creationid="miurahr" creationdate="20221023T132553Z">
+        <seg>これで、チームと一緒にプロジェクトで作業することもできます。</seg>
       </tuv>
     </tu>
     <tu>
