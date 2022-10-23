@@ -13161,6 +13161,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be very cautious about making changes to the files in the source folder, to the segmentation rules, or to the file filters, partway through a project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122348Z" creationid="miurahr" creationdate="20221023T122327Z">
+        <seg>プロジェクトの途中で、原文フォルダーのファイル、文節化規則、またはフィルターを変更する場合は、十分に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T144424Z">
@@ -22179,6 +22187,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Fix all the tag issues that were found in your documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122145Z" creationid="miurahr" creationdate="20221023T122145Z">
+        <seg>文書内で見つかったタグの問題をすべて修正します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
@@ -28318,6 +28335,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>In some cases, missing tags will keep the file from opening.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122134Z" creationid="miurahr" creationdate="20221023T122134Z">
+        <seg>タグがないと、ファイルが開かない場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>In some operating systems, this folder is not displayed by default.</seg>
       </tuv>
@@ -33822,6 +33848,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifying either after you have started your translation could result in OmegaT becoming unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122437Z" creationid="miurahr" creationdate="20221023T122437Z">
+        <seg>翻訳を開始した後にいずれかを変更すると、OmegaTは翻訳済みの分節を見つけられなくなるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T083049Z">
@@ -38383,6 +38417,15 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Open the documents again in the original application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122152Z" creationid="miurahr" creationdate="20221023T122152Z">
+        <seg>元のアプリケーションでドキュメントを再度開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Open the new project the project.</seg>
       </tuv>
@@ -38404,6 +38447,15 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140323T052431Z">
         <seg>現在のプロジェクトフォルダーを OS のシェル上で開きます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Open the project in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122137Z" creationid="miurahr" creationdate="20221023T122137Z">
+        <seg>OmegaTでプロジェクトを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40132,6 +40184,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033029Z" creationid="miurahr" creationdate="20201101T033029Z">
         <seg>強力なツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Practice regularly "emergency" measures, like restoring translations from a project, to make sure you won't lose too much time the day you need to use those skills.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122222Z" creationid="miurahr" creationdate="20221023T122222Z">
+        <seg>プロジェクトから翻訳を復元するなどの「緊急」措置を定期的に練習して、これらのスキルを使用する必要がある日に時間を無駄にしないようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47527,8 +47588,8 @@ and then start OmegaT.</seg>
       <tuv lang="en">
         <seg>Summary</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T150338Z" creationid="amake" creationdate="20170128T150338Z">
-        <seg>概要</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122216Z" creationid="amake" creationdate="20170128T150338Z">
+        <seg>まとめ</seg>
       </tuv>
     </tu>
     <tu>
@@ -54516,11 +54577,21 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This action will fix the internal tag consistency issues that might have been induced by not properly inserting the tags in the translation while in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122157Z" creationid="miurahr" creationdate="20221023T122157Z">
+        <seg>このアクションにより、OmegaTにいる間に翻訳にタグが正しく挿入されなかったために発生した内部タグの一貫性の問題が修正されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>This action will restore in the new project the status of the translation to the moment on which the selected project translation memory was created in the old project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221023T121923Z" creationid="miurahr" creationdate="20221023T121923Z">
-        <seg>This action will restore in the new project the status of the translation to the moment on which the selected project translation memory was created in the old project.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122119Z" creationid="miurahr" creationdate="20221023T121923Z">
+        <seg>この操作を行うと、新しいプロジェクトでは、選択したプロジェクト翻訳メモリが古いプロジェクトで作成された時点の変換の状態が復元されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56307,6 +56378,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T033302Z">
         <seg>訳文ファイルを開くたびに表示設定を変えるという手間を避けるため、あらかじめ原文ファイルの表示設定を変えて保存しておく方法も検討してみましょう。この場合、訳文ファイルにとって適切な表示設定に合わせて、原文ファイルの表示を設定することになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>To avoid losing important data, make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to a backup media, such as a USB key or an external hard drive, or to a cloud service.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122201Z" creationid="miurahr" creationdate="20221023T122201Z">
+        <seg>重要なデータの損失を防ぐために、&lt;f0&gt;/OmegaT/project_save.tmx&lt;/f0&gt;ファイルの定期的なコピーを、USBキーや外部ハードドライブなどのバックアップメディア、またはクラウドサービスに作成してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59205,6 +59285,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; and focus on &lt;g1&gt;Tag issues&lt;/g1&gt; .</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122142Z" creationid="miurahr" creationdate="20221023T122142Z">
+        <seg>&lt;l0/&gt;を使用し、&lt;g1&gt;タグの問題&lt;/g1&gt;に焦点を当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files.</seg>
       </tuv>
@@ -59228,6 +59317,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T055224Z" creationid="Hiroshi Miura" creationdate="20221022T055224Z">
         <seg>&lt;l0/&gt;を使用して新しい検索ウィンドウを開き、検索する単語またはフレーズを検索領域に入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to recreate the documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122149Z" creationid="miurahr" creationdate="20221023T122149Z">
+        <seg>&lt;l0/&gt;を使用してドキュメントを再作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60332,6 +60430,15 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130412T015628Z">
         <seg>ごく初期のバージョンの &lt;a0&gt;OmegaT&lt;/a0&gt; は、段落単位でしか原文を分節化できず、また HTML と Open Document ファイルに対しては、整形用のタグに対する番号付けを適切に行えない場合がありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Very often, office suite files contain tags that must be copied into the translation to ensure that the translated file can be opened in the original application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122131Z" creationid="miurahr" creationdate="20221023T122131Z">
+        <seg>多くの場合、オフィススイートファイルには、元のアプリケーションで訳文ファイルを開くことができるように、翻訳にコピーする必要のあるタグが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62657,6 +62764,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can control the frequency of the file saving in the Preferences – &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122245Z" creationid="miurahr" creationdate="20221023T122245Z">
+        <seg>ファイルを保存する頻度は、[設定]-&lt;l0/&gt;で制御できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
@@ -63651,6 +63766,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121846Z" creationid="miurahr" creationdate="20221023T121846Z">
         <seg>プロジェクトが開かない?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Your translated file won't open?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122123Z" creationid="miurahr" creationdate="20221023T122123Z">
+        <seg>訳文ファイルが開かないんですか?</seg>
       </tuv>
     </tu>
     <tu>
