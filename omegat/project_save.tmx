@@ -14667,6 +14667,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check tag issues with &lt;l0/&gt; and produce translated documents regularly to catch any problems quickly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051517Z" creationid="Hiroshi Miura" creationdate="20221023T051517Z">
+        <seg>&lt;l0/&gt;でタグの問題をチェックし、定期的に翻訳文書を作成して、問題を迅速に把握します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check that &lt;u0&gt;Translate API service &lt;/u0&gt;has been activated.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T152352Z">
@@ -15840,6 +15848,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T020033Z">
         <seg>そのため、OmegaT は &lt;f1&gt;TMX&lt;/f1&gt; ファイルの検索にも対応していますが、ファイル検索機能からは対象外になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consequently, if the source language is LTR and the target language is RTL, or vice versa, you will need to toggle back and forth between the two modes to read the source and enter the target easily.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051410Z" creationid="Hiroshi Miura" creationdate="20221023T051410Z">
+        <seg>したがって、原文言語がLTRで訳文言語がRTLの場合、またはその逆の場合は、原文を読み込み、訳文を簡単に入力するために、2つのモードを切り替える必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21747,6 +21763,14 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Find lost translations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T052255Z" creationid="Hiroshi Miura" creationdate="20221023T052255Z">
+        <seg>Find lost translations</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -24267,6 +24291,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hint: it may be simpler to translate a plain text version of the document and add any necessary styling in the relevant application at a later stage.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051546Z" creationid="Hiroshi Miura" creationdate="20221023T051546Z">
+        <seg>ヒント:文書のプレーンな文字版を翻訳し、後の段階で関連するアプリケーションに必要なスタイルを追加する方が簡単な場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hints</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T154433Z">
@@ -24441,6 +24473,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T031152Z">
         <seg>ただし、もしタグを誤って編集すると、訳文ファイルを開くときに問題が起きるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, it is often necessary to include LTR text, such as OmegaT tags, product names that must retain their original LTR language direction, or placeholders in localization files, within an RTL document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051225Z" creationid="Hiroshi Miura" creationdate="20221023T051225Z">
+        <seg>ただし、多くの場合、OmegaTタグなどのLTRテキスト、元のLTR言語の方向を保持する必要がある製品名、または地域化ファイル内のプレースホルダをRTLドキュメント内に含める必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27738,6 +27778,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T144459Z">
         <seg>この場合、原文ファイルに付属する対訳は、&lt;f0&gt;project_save.tmx&lt;/f0&gt; に移行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>In such cases, you must switch to RTL mode to ensure the RTL (or, more precisely, bidirectional) text is displayed correctly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051309Z" creationid="Hiroshi Miura" creationdate="20221023T051309Z">
+        <seg>このような場合は、RTLモードに切り替えて、RTL(正確には双方向)テキストが正しく表示されるようにする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32933,12 +32982,11 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Mixing RTL and LTR</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T050958Z" creationid="Hiroshi Miura" creationdate="20221023T050958Z">
-        <seg>RTLとLTRの混在</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051234Z" creationid="Hiroshi Miura" creationdate="20221023T050958Z">
+        <seg>RTL言語と、LTR言語の混在</seg>
       </tuv>
     </tu>
     <tu>
@@ -34445,6 +34493,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that OmegaT shows both the source and target in the same mode.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051329Z" creationid="Hiroshi Miura" creationdate="20221023T051329Z">
+        <seg>OmegaTは、原文と訳文の両方を同じモードで表示することに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that all parameters start with a double - character.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T161204Z">
@@ -34505,6 +34561,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T125911Z">
         <seg>もし、起動時に何らかの引数を指定したい場合（上記参照）は、通常のインストールを行う必要がある点に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that in Microsoft Word .docx files, a number of changes are made automatically:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T052058Z" creationid="Hiroshi Miura" creationdate="20221023T052058Z">
+        <seg>ここで、.docx ファイルに関しては、以下の箇所が自動的に変更されます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36328,6 +36392,15 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T160959Z">
         <seg>OmegaT は非常に普及している２つのバージョン管理システム（以下、VCS）に対応しています。&lt;u0&gt;Apache Subversion&lt;/u0&gt;（コマンド名が svn であることから、しばしば SVN の略称で呼ばれる）と、&lt;u1&gt;Git&lt;/u1&gt; です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT tags are LTR strings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051420Z" creationid="Hiroshi Miura" creationdate="20221023T051420Z">
+        <seg>OmegaTタグはLTR文字列です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38404,6 +38477,15 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T163522Z">
         <seg>段落、セクション、表は bidi に設定されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Paragraphs, sections and tables are set to bidirectional text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T052101Z" creationid="Hiroshi Miura" creationdate="20221023T052101Z">
+        <seg>段落、セクション、および表は双方向テキストに設定されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42203,6 +42285,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T081635Z" creationid="Hiroshi Miura" creationdate="20221021T081620Z">
         <seg>スクリプトを実行するには、&lt;f0&gt;sudo&lt;/f0&gt;パスワードを入力する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Runs (short sections of text in the same style) are set to RTL.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T052110Z" creationid="Hiroshi Miura" creationdate="20221023T052110Z">
+        <seg>ラン(同じスタイルの短いテキスト部分)はRTLに設定されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47189,6 +47280,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130412T015827Z">
         <seg>タグがあるということは、多くの場合、ある種の書式整形がそこで行われているということを表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags in RTL Segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051438Z" creationid="Hiroshi Miura" creationdate="20221023T051412Z">
+        <seg>RTL分節内のタグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -52281,6 +52380,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The translated document will be created in the same display direction as the original.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051609Z" creationid="Hiroshi Miura" creationdate="20221023T051609Z">
+        <seg>訳文ファイルが生成されると、その表記方向は原文ファイルと同じになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
@@ -52923,6 +53031,14 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141128T130403Z">
         <seg>そのため OmegaT の設定フォルダー
 の場所を確定できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, translators are encouraged to remove style information from the original document whenever possible to limit the number of tags displayed in the editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051504Z" creationid="Hiroshi Miura" creationdate="20221023T051504Z">
+        <seg>したがって、エディタに表示されるタグの数を制限するために、可能な限り元の文書からスタイル情報を削除することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56423,6 +56539,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T174718Z">
         <seg>以下の要素を翻訳：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated Documents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051555Z" creationid="Hiroshi Miura" creationdate="20221023T051555Z">
+        <seg>訳文ファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -60337,6 +60461,15 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>With some file formats, such as ODF, it is also possible to modify the settings in the source file so that they are automatically applied to the target file, eliminating the need to set them every time you open it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T052116Z" creationid="Hiroshi Miura" creationdate="20221023T052116Z">
+        <seg>ODFなどの一部のファイル形式では、ソースファイルの設定を変更してターゲットファイルに自動的に適用することもできます。これにより、ソースファイルを開くたびに設定を行う必要がなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
@@ -61930,6 +62063,14 @@ omegat.kaptn</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can use the default (LTR) mode to write purely RTL text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051301Z" creationid="Hiroshi Miura" creationdate="20221023T051007Z">
+        <seg>デフォルト(LTR/左から右)モードを使用して、純粋なRTL/右から左言語のテキストを書き込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can use the search window to find specific segments in a project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T054818Z">
@@ -62222,6 +62363,14 @@ them.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T144547Z" creationid="amake" creationdate="20170128T144547Z">
         <seg>OmegaT を起動するたびに入力を求められます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will have to change the text direction of the target document in its own application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051634Z" creationid="Hiroshi Miura" creationdate="20221023T051634Z">
+        <seg>訳文ファイルのテキスト方向を独自のアプリケーションで変更する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
