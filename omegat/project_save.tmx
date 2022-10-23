@@ -3454,6 +3454,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;e0&gt;&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132215Z" creationid="miurahr" creationdate="20221023T132215Z">
+        <seg>--script=&lt;e0&gt;&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--script=&lt;path&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T035405Z" creationid="Yu-Tang" creationdate="20160212T035405Z">
@@ -10147,6 +10155,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>A script file to run when a project event is triggered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132221Z" creationid="miurahr" creationdate="20221023T132221Z">
+        <seg>プロジェクトイベントがトリガーされたときに実行するスクリプトファイル。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
@@ -10457,6 +10474,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T035141Z" creationid="Yu-Tang" creationdate="20160212T035555Z">
         <seg>中断: タグが不正な場合、エラー終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132244Z" creationid="miurahr" creationdate="20221023T132232Z">
+        <seg>中断: タグの問題がある場合はエラーで終了します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11829,6 +11854,15 @@ OmegaT.exe.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>An OmegaT team projects synchronizes the project translation memory &lt;l0/&gt; and the project writable glossary &lt;l1/&gt; between the hosting server and all the participating team members, and manages all possible conflicts between them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132416Z" creationid="miurahr" creationdate="20221023T132416Z">
+        <seg>OmegaTチームプロジェクトは、プロジェクト翻訳メモリ&lt;l0/&gt;とプロジェクト書き込み可能用語集&lt;l1/&gt;を、ホストサーバとすべての参加チームメンバー間で同期し、それらの間で発生する可能性のあるすべての競合を管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>An OmegaT translation project consists of a number of resources in separate folders.</seg>
       </tuv>
@@ -12650,6 +12684,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130305T162929Z">
         <seg>一致率は、事実上の業界標準にしたがい、次のグループに分類されます：繰り返し、完全に一致、95% - 100%、85% - 94%、75% - 84%、50% - 74%、一致しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>As information on those topics is readily available, this guide limits itself to describing their use in the context of an OmegaT team project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132332Z" creationid="miurahr" creationdate="20221023T132332Z">
+        <seg>これらのトピックに関する情報は容易に入手できるため、このガイドでは、OmegaTのチームプロジェクトのコンテキストでの使用についてのみ説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15066,6 +15109,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Check tag issues.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132225Z" creationid="miurahr" creationdate="20221023T132225Z">
+        <seg>タグの問題を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Check that &lt;u0&gt;Translate API service &lt;/u0&gt;has been activated.</seg>
       </tuv>
@@ -17115,6 +17167,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130425T103829Z">
         <seg>プロジェクトを配置するための空のフォルダーを作成したら、その上で右クリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an empty repository on your vcs hosting server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132443Z" creationid="miurahr" creationdate="20221023T132433Z">
+        <seg>VCSサーバ上に空のプロジェクトを作成します</seg>
       </tuv>
     </tu>
     <tu>
@@ -33240,6 +33300,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;SVN&lt;/e0&gt; or &lt;e1&gt;Git&lt;/e1&gt; version control system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132303Z" creationid="miurahr" creationdate="20221023T132303Z">
+        <seg>チームプロジェクトを管理するには、&lt;e0&gt;SVN&lt;/e0&gt;または&lt;e1&gt;Git&lt;/e1&gt;バージョン管理システムの知識が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Manfred Martin</seg>
       </tuv>
@@ -34104,6 +34173,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T133543Z">
         <seg>最小化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Minimize the output shown on the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132214Z" creationid="miurahr" creationdate="20221023T132214Z">
+        <seg>コマンドラインに表示される出力を最小化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35413,6 +35491,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151118T160515Z" creationid="Yu-Tang" creationdate="20151118T160515Z">
         <seg>ノーブレークスペース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Non-gui mode options:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132210Z" creationid="miurahr" creationdate="20221023T132210Z">
+        <seg>非GUIモードのオプション:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43148,6 +43235,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Reports about tag issues are output to the terminal window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132252Z" creationid="miurahr" creationdate="20221023T132252Z">
+        <seg>タグの問題に関するレポートは、ターミナルウィンドウに出力されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
@@ -46134,6 +46230,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Set up a team project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132255Z" creationid="miurahr" creationdate="20221023T132255Z">
+        <seg>チームプロジェクトを設定する</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Sets</seg>
       </tuv>
@@ -47573,6 +47678,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144753Z" creationid="miurahr" creationdate="20201101T144744Z">
         <seg>特定の引数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132203Z" creationid="miurahr" creationdate="20221023T132203Z">
+        <seg>出力形式を指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51188,6 +51302,15 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The data is the same as when using &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132206Z" creationid="miurahr" creationdate="20221023T132206Z">
+        <seg>データは&lt;l0/&gt;を使用した場合と同じです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
@@ -54111,6 +54234,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120001Z" creationid="miurahr" creationdate="20221023T115937Z">
         <seg>以下の手順は、&lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt;ショートカットを&lt;l3/&gt;関数に割り当てる方法を示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The steps to set up a team project are the following:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132419Z" creationid="miurahr" creationdate="20221023T132419Z">
+        <seg>チームプロジェクトを設定する手順は次のとおりです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60494,6 +60626,14 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use the local vcs to make a local copy (clone)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132505Z" creationid="miurahr" creationdate="20221023T132441Z">
+        <seg>ローカルのVCSを使用してワーキングディレクトリ(クローン)を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use the tables in the &lt;l0/&gt; section below to find the values for &lt;c1&gt;function code&lt;/c1&gt;.</seg>
@@ -61583,6 +61723,15 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Warn: Show warnings without exiting if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132239Z" creationid="miurahr" creationdate="20221023T132239Z">
+        <seg>警告:タグに問題がある場合は、終了せずに警告を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Warning</seg>
       </tuv>
@@ -61672,6 +61821,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T142857Z">
         <seg>そのため、可能な限り Oracle 社が提供する Java Runtime Environment（JRE）をダウンロードしてインストールするか、JRE が付属した OmegaT パッケージを利用してください（「Linux」と記されている .tar.bz2 ファイルです）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We will call them the &lt;e2&gt;vcs&lt;/e2&gt; here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132404Z" creationid="miurahr" creationdate="20221023T132305Z">
+        <seg>ここでは、これらを&lt;e2&gt;vcs(バージョン管理システム,Version Control System)&lt;/e2&gt;と呼びます。</seg>
       </tuv>
     </tu>
     <tu>
