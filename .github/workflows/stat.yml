@@ -46,7 +46,7 @@ jobs:
           arguments: translate
           gradle-version: 7.5.1
       - name: Report coverage
-        uses: miurahr/omegat-stat@v1
+        uses: miurahr/omegat-stat@v1.2.14
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           min-coverage: 80.0
