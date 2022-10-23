@@ -7258,10 +7258,30 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133702Z" creationid="miurahr" creationdate="20221023T133702Z">
+        <seg>&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140037Z" creationid="suzume" creationdate="20201122T140037Z">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133706Z" creationid="miurahr" creationdate="20221023T133706Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9955,6 +9975,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>A list of mapping parameters is presented below, and examples of their use is provided in the next section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133549Z" creationid="miurahr" creationdate="20221023T133549Z">
+        <seg>マッピングパラメータのリストを以下に示します。これらの使用例は次の項で説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
@@ -10960,6 +10989,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administrators have two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133445Z" creationid="miurahr" creationdate="20221023T133418Z">
+        <seg>管理者が、プロジェクトの場所を翻訳者に共有するには、おおきく2つの方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T142729Z">
@@ -11015,11 +11052,12 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>After creating the accounts, the administrator must send the translators their individual credentials.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221023T133414Z" creationid="miurahr" creationdate="20221023T133414Z">
-        <seg>After creating the accounts, the administrator must send the translators their individual credentials.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133421Z" creationid="miurahr" creationdate="20221023T133414Z">
+        <seg>アカウントを作成した後、管理者は翻訳者に個々の資格情報を送信する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11151,6 +11189,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T030545Z">
         <seg>原文ファイルが&lt;g3&gt;編集&lt;/g3&gt;ウィンドウに読み込まれたら、&lt;g4&gt;翻訳対象ファイル一覧&lt;/g4&gt;ダイアログを閉じましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>After the team project administrator confirms that a translator has been able to open the team project, it is a good idea to make sure that the &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the administrator (on the server) and the translator (locally).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133517Z" creationid="miurahr" creationdate="20221023T133517Z">
+        <seg>チームプロジェクト管理者が翻訳者がチームプロジェクトを開くことができたことを確認した後、&lt;l0&gt;プロジェクト翻訳状況&lt;/l0&gt;が管理者(サーバ上)と翻訳者(ローカル)の両方で同じであることを確認することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11836,6 +11883,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T002643Z" creationid="Hiroshi Miura" creationdate="20221022T002643Z">
         <seg>最も単純な正規表現(&lt;e0&gt;regex&lt;/e0&gt;または&lt;e1&gt;regexp&lt;/e1&gt;と略されることが多い)でさえ、気が遠く複雑に見えますが、OmegaTだけでなく、日常的に使用する他の多くのアプリケーションでも非常に役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the mapping feature is primarily intended for gathering source files from disparate locations, it can also be used for other types of files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133543Z" creationid="miurahr" creationdate="20221023T133543Z">
+        <seg>マッピング機能は、主に異なる場所から原文ファイルを収集することを目的としていますが、他のタイプのファイルにも使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12678,6 +12733,15 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>この場合、すべての設定が初期値となり、
 予期しない挙動が発生する可能性もありますが、動作と
 しては正常です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>As above, but for files that should be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133650Z" creationid="miurahr" creationdate="20221023T133650Z">
+        <seg>上記と同様ですが、マッピングに含める必要があるファイルの場合に使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21427,6 +21491,15 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files in the project, even if they are located in an excluded folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133658Z" creationid="miurahr" creationdate="20221023T133658Z">
+        <seg>例:&lt;u0&gt;**/*.docx&lt;/u0&gt;は、除外されたフォルダーにある場合でも、すべての.docxファイルをプロジェクトに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
       </tuv>
@@ -21440,6 +21513,15 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T232734Z" creationid="miurahr" creationdate="20201106T232734Z">
         <seg>例:&lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt;は、パスに/excludedfolder/が含まれるファイルと拡張子.txtのファイルを除外します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, as well as files with the &lt;f1&gt;.txt&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133642Z" creationid="miurahr" creationdate="20221023T133642Z">
+        <seg>例:&lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt;は、パスに/excludedfolder/が含まれるファイルと、&lt;f1&gt;.txt&lt;/f1&gt;拡張子のファイルを除外します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27135,6 +27217,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If they do not match, make sure the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are properly shared.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133522Z" creationid="miurahr" creationdate="20221023T133522Z">
+        <seg>これらが一致しない場合は、&lt;f0&gt;filters.xml&lt;/f0&gt;ファイルと&lt;f1&gt;segmentation.conf&lt;/f1&gt;ファイルが正しく共有されていることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If this is not the case, open the main dialog by selecting&lt;e0&gt; Options → File Filters...&lt;/e0&gt; from the main menu.</seg>
       </tuv>
@@ -30607,6 +30698,15 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>It is possible to map various remote locations to local files via the OmegaT user interface using &lt;l0/&gt; in the &lt;l1/&gt; dialog, or by editing the &lt;l2/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133530Z" creationid="miurahr" creationdate="20221023T133530Z">
+        <seg>&lt;l1/&gt;ダイアログの&lt;l0/&gt;を使用して、または&lt;l2/&gt;ファイルを編集することによって、OmegaTユーザーインターフェースを介してさまざまなリモートロケーションをローカルファイルにマッピングすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>It is possible to modify the project properties during a translation session.</seg>
       </tuv>
@@ -33545,6 +33645,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20150101T003430Z">
         <seg>これを読んでいる人のなかには、これまでにユーザー向け文書を幾度も翻訳した経験のある方も多いことでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for additional sources from a remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133722Z" creationid="miurahr" creationdate="20221023T133722Z">
+        <seg>フィルタを使用した、リモートリポジトリからの追加原文のマッピング:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43523,6 +43631,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Repository mappings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133525Z" creationid="miurahr" creationdate="20221023T133525Z">
+        <seg>リポジトリマッピング</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
@@ -46272,6 +46389,23 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Send a URL and ask the translators to use the &lt;l0/&gt; command to create a local copy of the project on their own system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133452Z" creationid="miurahr" creationdate="20221023T133452Z">
+        <seg>URLを送信し、&lt;l0/&gt;コマンドを使用してプロジェクトのローカルコピーを作成するように翻訳者に依頼します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing the project URL, and then have the translators copy it to an empty folder and open it in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133503Z" creationid="miurahr" creationdate="20221023T133503Z">
+        <seg>プロジェクトURLを含む&lt;f0&gt;omegat.project&lt;/f0&gt;ファイルを送信し、翻訳者に空のフォルダーにコピーしてOmegaTで開いてもらいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Sentence level segmentation</seg>
       </tuv>
@@ -47071,6 +47205,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T030150Z">
         <seg>複数の翻訳メモリの同時使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133654Z" creationid="miurahr" creationdate="20221023T133654Z">
+        <seg>ファイルは特に除外されない限りデフォルトではに含まれるため、この設定は除外パターンの例外を指定するためだけに必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55995,10 +56138,27 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133621Z" creationid="miurahr" creationdate="20221023T133621Z">
+        <seg>&lt;e0&gt;http&lt;/e0&gt;(httpsを含む)、&lt;e1&gt;svn&lt;/e1&gt;、&lt;e2&gt;git&lt;/e2&gt;、&lt;e3&gt;file&lt;/e3&gt;のいずれかです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be either http (which includes https), svn, git or file.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T232507Z" creationid="miurahr" creationdate="20201106T232507Z">
         <seg>http(httpsを含む)、svn、git、fileのいずれかです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This can be useful if the project is set up to use different &lt;l1&gt;mappings&lt;/l1&gt; for each translator.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133508Z" creationid="miurahr" creationdate="20221023T133508Z">
+        <seg>これは、プロジェクトが翻訳者ごとに異なる&lt;l1&gt;マッピング&lt;/l1&gt;を使用するように設定されている場合に便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60774,6 +60934,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use a semicolon to separate different patterns.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133635Z" creationid="miurahr" creationdate="20221023T133635Z">
+        <seg>異なるパターンを区切るには、セミコロンを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use all mine</seg>
       </tuv>
@@ -61080,6 +61249,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T061226Z">
         <seg>untar コマンド（Windows であれば、たとえば &lt;f0&gt;WinRAR&lt;/f0&gt; などのユーティリティ）で、そのファイルを展開します。展開先は、プロジェクトフォルダー配下の「dictionary」フォルダーの中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use wildcards (following the Apache Ant style: *, ?, **) to add patterns for files that should not be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133632Z" creationid="miurahr" creationdate="20221023T133632Z">
+        <seg>マッピングに含めるべきでないファイルのパターンを追加するには、ワイルドカード(Apache Antスタイルの*、?、**に従う)を使用します。</seg>
       </tuv>
     </tu>
     <tu>
