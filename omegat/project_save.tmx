@@ -13256,6 +13256,15 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Before graphical interfaces became common, users interacted with computers via a command-line interface (CLI), which requires typing commands to give instructions to the computer.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124222Z" creationid="miurahr" creationdate="20221023T124222Z">
+        <seg>グラフィカルインターフェイスが一般的になる前は、ユーザはコマンドラインインターフェース(CLI)を介してコンピュータと対話していました。CLIでは、コマンドを入力してコンピュータに指示を与える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Before proceeding</seg>
       </tuv>
@@ -15741,6 +15750,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Command line launch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124010Z" creationid="miurahr" creationdate="20221023T124010Z">
+        <seg>コマンドライン起動</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Command:</seg>
       </tuv>
@@ -16192,6 +16210,14 @@ documentation.</seg>
         <seg>コンソール翻訳モード:
 	--source-pattern=&lt;pattern&gt;
 		処理する原文ファイルのホワイトリスト用正規表現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the documentation for your system for more information.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124007Z" creationid="miurahr" creationdate="20221023T124007Z">
+        <seg>詳細については、システムのマニュアル文書を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25531,6 +25557,15 @@ not be entered.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T093757Z" creationid="Kasuya" creationdate="20160705T093218Z">
         <seg>&lt;e0&gt;［関連性の強い補完候補を自動的に表示する］&lt;/e0&gt;にチェックが入っていると、用語集の訳語項目の最初の文字を入力することにより、またはタグの場合は「&lt;」を入力することにより、入力補完が自動的に起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with Java 8 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T123949Z" creationid="miurahr" creationdate="20221023T123949Z">
+        <seg>&lt;f0&gt;.jar&lt;/f0&gt;ファイルがJava 8 Runtime Environmentに正しく関連付けられ、PATH設定が正しい場合は、&lt;f1&gt;OmegaT.jar&lt;/f1&gt;をクリック(またはダブルクリック)して直接起動することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37756,6 +37791,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>On modern systems, the CLI is accessed through an application generally called a "terminal" or "console".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124229Z" creationid="miurahr" creationdate="20221023T124229Z">
+        <seg>最近のシステムでは、CLIは一般に「ターミナル」または「コンソール」と呼ばれるプログラムを介してアクセスされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>On other platforms</seg>
@@ -46129,6 +46173,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140321T125744Z">
         <seg>訳文の置換スクリプト（簡易版）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Simplified Overview</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124213Z" creationid="miurahr" creationdate="20221023T124213Z">
+        <seg>簡素化された概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -60332,6 +60385,15 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Using the command line allows you to set various options that control or modify the behavior of the application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124016Z" creationid="miurahr" creationdate="20221023T124016Z">
+        <seg>コマンドラインを使用すると、オプションの動作をコントロールまたは修正するさまざまなプログラムを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
       </tuv>
@@ -62694,6 +62756,14 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define and save sets of options in scripts that you can then use to launch OmegaT for a particular purpose.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124208Z" creationid="miurahr" creationdate="20221023T124208Z">
+        <seg>また、特別な目的のためにOmegaTを使う場合に、起動スクリプトに一連の設定を定義して保存することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T054928Z" creationid="miurahr" creationdate="20201101T054928Z">
@@ -62965,6 +63035,15 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20131221T115554Z">
         <seg>タスクに応じて、それぞれ個別に新規プロジェクトを作成しても構いませんし、原文ファイルはいつでも追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can create a script that includes the desired command line launch parameters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T123942Z" creationid="miurahr" creationdate="20221023T123942Z">
+        <seg>必要なコマンドライン起動パラメータを含むスクリプトを作成できます。</seg>
       </tuv>
     </tu>
     <tu>
