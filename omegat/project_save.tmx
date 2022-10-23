@@ -9514,6 +9514,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the applicaton.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115131Z" creationid="miurahr" creationdate="20221023T115131Z">
+        <seg>コメント行は&lt;c0&gt;#&lt;/c0&gt;で始まり、それ以降はすべてアプリケーションによって無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
@@ -19823,6 +19832,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160541Z">
         <seg>docs フォルダーの場所を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Empty lines and comments can be added to organize the list and make it easier to read.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115126Z" creationid="miurahr" creationdate="20221023T115126Z">
+        <seg>空行とコメントを追加してリストを整理し、読みやすくすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49673,6 +49690,15 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20140203T005853Z">
         <seg>ファイルサイズが小さいため、ダウンロードが早く終わります。また、インストールに必要なハードディスク容量も少なくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The easiest way to modify the shortcuts is to download copies of the default files to &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115514Z" creationid="miurahr" creationdate="20221023T115514Z">
+        <seg>ショートカットを変更する最も簡単な方法は、前述のように、デフォルトのファイルのコピーを&lt;l0&gt;構成フォルダー&lt;/l0&gt;にダウンロードし、そこで必要な変更を行うことです。</seg>
       </tuv>
     </tu>
     <tu>
