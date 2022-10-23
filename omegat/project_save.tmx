@@ -3507,6 +3507,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dhttp.proxyHost=.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124739Z" creationid="miurahr" creationdate="20221023T124739Z">
+        <seg>-Dhttp.proxyHost=.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dhttp.proxyPort=.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124756Z" creationid="miurahr" creationdate="20221023T124756Z">
+        <seg>-Dhttp.proxyPort=.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140243Z" creationid="suzume" creationdate="20201122T140243Z">
@@ -3536,6 +3552,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T121003Z" creationid="Hiroshi Miura" creationdate="20221021T121003Z">
         <seg>-Duser.country=CC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Duser.language=LL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124640Z" creationid="miurahr" creationdate="20221023T124640Z">
+        <seg>-Duser.language=LL</seg>
       </tuv>
     </tu>
     <tu>
@@ -4105,6 +4129,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130427T140812Z">
         <seg>&lt;候補はありません&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;OmegaT parameters&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124620Z" creationid="miurahr" creationdate="20221023T124620Z">
+        <seg>&lt;OmegaT parameters&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6229,6 +6261,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140043Z" creationid="suzume" creationdate="20201122T140043Z">
         <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;java parameters&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124543Z" creationid="miurahr" creationdate="20221023T124543Z">
+        <seg>&lt;java parameters&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26353,6 +26393,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If that variant is not available, the user interface follows the same priority as above.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124724Z" creationid="miurahr" creationdate="20221023T124724Z">
+        <seg>それが利用できない場合は、ユーザーインターフェースは上記と同じ優先順位になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
@@ -26479,6 +26528,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155852Z" creationid="Hiroshi Miura" creationdate="20221022T155852Z">
         <seg>フォルダーが空の場合、翻訳可能なコンテンツを含むファイルがない場合、またはOmegaTのファイルフィルターでサポートされているファイルがない場合、OmegaTはフォルダーが空であることを通知します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If the language is not available, OmegaT defaults to English even if the system uses a different default language.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124705Z" creationid="miurahr" creationdate="20221023T124705Z">
+        <seg>もし OS の言語に対応していない場合、OmegaT はデフォルトの英語で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30786,6 +30844,15 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T033352Z">
         <seg>TMX ファイルから「余分な」翻訳単位を消す Java コマンドラインスクリプトです。訳文分節がない翻訳単位と、訳文分節が原文分節と同一の翻訳単位をすべて消去します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Java parameters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124626Z" creationid="miurahr" creationdate="20221023T124626Z">
+        <seg>Javaパラメータ</seg>
       </tuv>
     </tu>
     <tu>
@@ -38973,6 +39040,15 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Optional parameters accepted by the &lt;c0&gt;java&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124546Z" creationid="miurahr" creationdate="20221023T124546Z">
+        <seg>&lt;c0&gt;java&lt;/c0&gt;コマンドで受け入れられるオプションのパラメータ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Optionally, you can let &lt;a0&gt;OmegaT&lt;/a0&gt; have an additional tmx file (&lt;a1&gt;OmegaT&lt;/a1&gt;-style) anywhere you specify, containing all translatable segments of the project.</seg>
       </tuv>
@@ -41394,6 +41470,15 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Proxy host ip address</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124738Z" creationid="miurahr" creationdate="20221023T124738Z">
+        <seg>プロキシサーバーのホスト名と IP アドレス</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Proxy host port number</seg>
       </tuv>
@@ -42593,6 +42678,49 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T115547Z" creationid="amake" creationdate="20170128T115547Z">
         <seg>原文挿入時に用語集から置換(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;.&lt;/c0&gt; with the IP address of your proxy server, if your system uses one.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124753Z" creationid="miurahr" creationdate="20221023T124753Z">
+        <seg>&lt;c0&gt;.&lt;/c0&gt;&gt;をプロキシサーバのIPアドレスに置き換えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;.&lt;/c0&gt; with the port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124803Z" creationid="miurahr" creationdate="20221023T124803Z">
+        <seg>&lt;c0&gt;.&lt;/c0&gt;をシステムがプロキシサーバにアクセスするために使用するポート番号に置き換えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124715Z" creationid="miurahr" creationdate="20221023T124715Z">
+        <seg>&lt;c0&gt;CC&lt;/c0&gt;を&lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt;リストから希望する2文字の国コードに置き換えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;LL&lt;/c0&gt; with the desired two-letter language code from the &lt;u1&gt;ISO 639.1&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124647Z" creationid="miurahr" creationdate="20221023T124647Z">
+        <seg>&lt;c0&gt;LL&lt;/c0&gt;を&lt;u1&gt;ISO 639.1&lt;/u1&gt;リストから希望する2文字の言語コードに置き換えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;SIZE&lt;/c0&gt; is a number of bytes in multiples of 1024 and at least 2 MB, followed by &lt;c1&gt;k&lt;/c1&gt; for kilobytes, &lt;c2&gt;m&lt;/c2&gt; for megabytes, or &lt;c3&gt;g&lt;/c3&gt; for gigabytes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124733Z" creationid="miurahr" creationdate="20221023T124733Z">
+        <seg>&lt;c0&gt;SIZE&lt;/c0&gt;は、1024の倍数で2 MB以上のバイト数で、キロバイトの場合は&lt;c1&gt;k&lt;/c1&gt;、メガバイトの場合は&lt;c2&gt;m&lt;/c2&gt;、ギガバイトの場合は&lt;c3&gt;g&lt;/c3&gt;が後に続きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51826,6 +51954,15 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The list below presents parameters for the &lt;c0&gt;java&lt;/c0&gt; that can be useful when working with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124631Z" creationid="miurahr" creationdate="20221023T124631Z">
+        <seg>以下のリストは、OmegaTで作業するときに役立つ&lt;c0&gt;java&lt;/c0&gt;のパラメータを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -51908,6 +52045,15 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T175127Z" creationid="Yu-Tang" creationdate="20141202T175127Z">
         <seg>&lt;f1&gt;.tbx&lt;/f1&gt; ファイルの場所は &lt;f2&gt;glossary&lt;/f2&gt; フォルダー内を指定する必要があります。ただし、直下ではなくもっと深い階層に置いてもかまいません（たとえば &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The location of the OmegaT java executable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124619Z" creationid="miurahr" creationdate="20221023T124619Z">
+        <seg>OmegaT java実行可能ファイルの場所。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52426,6 +52572,15 @@ sure this has not already been reported.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The options specific to OmegaT are described &lt;l0&gt;later in this section&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124624Z" creationid="miurahr" creationdate="20221023T124624Z">
+        <seg>OmegaT特有のオプションは、&lt;l0&gt;この項の後の方&lt;/l0&gt;で説明されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The original file is saved as backup: {0}</seg>
       </tuv>
@@ -52448,6 +52603,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T122642Z" creationid="miurahr" creationdate="20221023T122642Z">
         <seg>このパッケージには、KDEユーザーに役立つ&lt;f0&gt;OmegaT.kaptn&lt;/f0&gt;Kaptainスクリプトと、OmegaTを実行するために適切な&lt;a2&gt;java&lt;/a2&gt;コマンドを自動的に起動する&lt;f1&gt;OmegaT&lt;/f1&gt;bashスクリプトも用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters relevant to running OmegaT are described below :&lt;l1&gt;below.&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124616Z" creationid="miurahr" creationdate="20221023T124616Z">
+        <seg>OmegaTの実行に関連するパラメータは、 &lt;l1&gt;以下&lt;/l1&gt;に説明されています</seg>
       </tuv>
     </tu>
     <tu>
@@ -55215,6 +55378,15 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This command tells the Java Virtual Machine to run a Jar package.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124542Z" creationid="miurahr" creationdate="20221023T124542Z">
+        <seg>このコマンドは、Java仮想マシンにJarパッケージを実行するように指示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
@@ -56092,6 +56264,15 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T113134Z" creationid="miurahr" creationdate="20220512T113134Z">
         <seg>翻訳入力の前に、原文を削除するキー入力の手間が省けます（つまり &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt;と&lt;k3&gt;Del&lt;/k3&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This option combines with the previous user interface language parameter to specify a regional variant.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124719Z" creationid="miurahr" creationdate="20221023T124719Z">
+        <seg>この設定は、以前のユーザーインターフェース言語引数と結合して、地域のバリエーションを指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60214,11 +60395,12 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>User interface language</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T143023Z">
-        <seg>ユーザーインターフェース言語</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124639Z">
+        <seg>ユーザーインターフェースの表示言語</seg>
       </tuv>
     </tu>
     <tu>
@@ -60560,6 +60742,15 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T181131Z">
         <seg>この設定を使うと、訳文ファイルにエンコーディング宣言を含めるかどうかを指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Using this option will launch OmegaT with the user interface in that language, if available (even partially).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124701Z" creationid="miurahr" creationdate="20221023T124701Z">
+        <seg>ユーザーインターフェースがその言語に対応していれば、OmegaT はそれを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62929,6 +63120,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T181510Z">
         <seg>&lt;u6&gt;バグ報告&lt;/u6&gt;や&lt;u7&gt;機能改善リクエスト&lt;/u7&gt;も行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also get a list of these options in the terminal with the &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124842Z" creationid="miurahr" creationdate="20221023T124842Z">
+        <seg>&lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt;コマンドを使用して、ターミナルでこれらのOmegaTのリストを取得することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68846,6 +69045,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>java -jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124538Z" creationid="miurahr" creationdate="20221023T124538Z">
+        <seg>java -jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T132024Z">
@@ -68858,6 +69065,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T161043Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar &lt;java parameters&gt; path/to/OmegaT.jar &lt;OmegaT parameters&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124534Z" creationid="miurahr" creationdate="20221023T124534Z">
+        <seg>java -jar &lt;java parameters&gt; path/to/OmegaT.jar &lt;OmegaT parameters&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -71032,6 +71247,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>pan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>path/to/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124616Z" creationid="miurahr" creationdate="20221023T124616Z">
+        <seg>path/to/OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
