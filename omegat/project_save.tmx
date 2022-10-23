@@ -3152,6 +3152,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131939Z" creationid="miurahr" creationdate="20221023T131939Z">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T013324Z">
@@ -3187,6 +3195,14 @@ menu, on the desktop and in the quick launch area.</seg>
 	  --output-file=[stats-output-file]
 	    指定されたファイルに出力するか、省略されれば
 	    標準出力に表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats &lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132142Z" creationid="miurahr" creationdate="20221023T132142Z">
+        <seg>--mode=console-stats &lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3257,10 +3273,26 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--output-file=[stats-output-file]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132144Z" creationid="miurahr" creationdate="20221023T132144Z">
+        <seg>--output-file=[stats-output-file]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T052932Z">
         <seg>--output-tag-validation-={正規表現}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetmx=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131937Z" creationid="miurahr" creationdate="20221023T131937Z">
+        <seg>--pseudotranslatetmx=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3487,6 +3519,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T050852Z">
         <seg>--source-pattern={正規表現} \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text][txt][json]]]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132158Z" creationid="miurahr" creationdate="20221023T132158Z">
+        <seg>--stats-type=[xml|text][txt][json]]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -23192,6 +23232,15 @@ Tutorial.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, the folder must contain a bundle ending with _fr.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132137Z" creationid="miurahr" creationdate="20221023T132137Z">
+        <seg>たとえば、プロジェクトがEN-to-FRの場合、フォルダーには_frで終わるバンドルが含まれている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>For instance, plain text files.</seg>
       </tuv>
@@ -29030,6 +29079,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>In this mode OmegaT will create a TMX for the whole project using only the source files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131929Z" creationid="miurahr" creationdate="20221023T131929Z">
+        <seg>このモードでは、原文ファイルのみを元にして、プロジェクト全体を対象にした翻訳メモリを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
@@ -29067,6 +29125,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T050007Z">
         <seg>このモードでは、&lt;l0&gt;source&lt;/l0&gt; フォルダーにある Java の properties ファイルを整列します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will align the files in the /source folder of the project with those at the location specified by the &lt;e0&gt;--alignDir&lt;/e0&gt; parameter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132021Z" creationid="miurahr" creationdate="20221023T132021Z">
+        <seg>このモードでは、OmegTは、プロジェクトの /source フォルダにあるファイルを、&lt;e0&gt;--alignDir&lt;/e0&gt;引数で指定された場所にあるコンテンツで対訳集の整合をします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41014,6 +41080,15 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Prints to that file, or to standard output if absent.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132150Z" creationid="miurahr" creationdate="20221023T132150Z">
+        <seg>そのファイルに出力するか、存在しない場合は標準出力に出力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Priority glossary</seg>
       </tuv>
@@ -43195,6 +43270,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T050358Z">
         <seg>要件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Requires &lt;e0&gt;--output-file&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132201Z" creationid="miurahr" creationdate="20221023T132201Z">
+        <seg>&lt;e0&gt;--output-file&lt;/e0&gt;が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47549,6 +47633,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Specify the TMX file to be created with:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131936Z" creationid="miurahr" creationdate="20221023T131936Z">
+        <seg>TMX ファイルに関する設定は、次の引数で指定します：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Specify the encoding for your plain text files</seg>
       </tuv>
@@ -48224,6 +48317,15 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142530Z" creationid="amake" creationdate="20170128T142530Z">
         <seg>使用可能なファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Supported filters include: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, and Windows Resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132118Z" creationid="miurahr" creationdate="20221023T132118Z">
+        <seg>サポートされているフィルタには、ILIAS言語ファイル、Java(TM)リソースバンドル、キー=値テキスト、Magento CEロケールCSV、MoodlePHP、Mozilla DTD、Mozilla FTL、PO、RC、SubRip Subtitles、およびWindowsリソースがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49415,6 +49517,15 @@ The scope of a text replacement is the target segments of the project, whether t
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>That folder must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132129Z" creationid="miurahr" creationdate="20221023T132129Z">
+        <seg>そのフォルダーには、プロジェクトの訳文言語の翻訳が含まれている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>That includes the platforms described above, but also the platforms for which specific packages are not provided.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023356Z" creationid="Hiroshi Miura" creationdate="20221023T023356Z">
@@ -49637,6 +49748,15 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T143140Z">
         <seg>「&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;」引数の指定により、&lt;a1&gt;OmegaT&lt;/a1&gt; は OS の言語よりも優先して、指定した言語を使用するようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;--alignDir&lt;/e0&gt; parameter is used to specify the location of the data in the target language, which must be a folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132125Z" creationid="miurahr" creationdate="20221023T132125Z">
+        <seg>&lt;e0&gt;--alignDir&lt;/e0&gt;引数は、訳文言語内のデータの場所を指定するために使用されます。フォルダーは、翻訳されたファイルを含む言語である必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51480,6 +51600,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file types that can be aligned depend on whether the alignment is supported by the file filter .</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132100Z" creationid="miurahr" creationdate="20221023T132100Z">
+        <seg>整合できるファイルタイプは、整合がフィルターでサポートされているかどうかによって異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T181733Z">
@@ -52788,6 +52916,15 @@ sure this has not already been reported.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The output defaults to xml.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132156Z" creationid="miurahr" creationdate="20221023T132156Z">
+        <seg>出力のデフォルトはxmlです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The output pseudotranslated TMX file.</seg>
       </tuv>
@@ -53263,6 +53400,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151118T155143Z">
         <seg>複数訳文になる場合、翻訳が「基本訳文」になるか「例外訳文」になるかは、原文分節の読み込まれる順番に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting TMX file is saved in the /omegat folder as align.tmx.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132043Z" creationid="miurahr" creationdate="20221023T132043Z">
+        <seg>作成されたTMXファイルは、/omegatフォルダーにalign.tmxとして保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62629,6 +62774,15 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T225042Z" creationid="Hiroshi Miura" creationdate="20221004T225042Z">
         <seg> --stats-type を省略した場合は、ファイル拡張子からフォーマットを検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Without &lt;e0&gt;--stats-type&lt;/e0&gt;, detects format from file extension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132152Z" creationid="miurahr" creationdate="20221023T132152Z">
+        <seg>&lt;e0&gt;--stats-type&lt;/e0&gt;がないと、ファイル拡張子から形式を検出します。</seg>
       </tuv>
     </tu>
     <tu>
