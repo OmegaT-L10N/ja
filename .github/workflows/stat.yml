@@ -1,4 +1,4 @@
-name: translation progress stat
+name: translation stat
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - master
     paths:
       - omegat/project_save.tmx
-  workflow_dispach:
+  workflow_dispatch:
 
 jobs:
   progress-translation:
