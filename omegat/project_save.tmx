@@ -12849,6 +12849,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Automatic backups</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121640Z" creationid="miurahr" creationdate="20221023T121640Z">
+        <seg>自動バックアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Automatic saving</seg>
       </tuv>
@@ -19577,6 +19586,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>END</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121533Z" creationid="miurahr" creationdate="20221023T121533Z">
+        <seg>END</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ENTER</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121054Z" creationid="miurahr" creationdate="20221023T121021Z">
@@ -20814,6 +20831,24 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Every time &lt;f0&gt;project_save.tmx&lt;/f0&gt; has been modified: either after using &lt;l1/&gt;, or as a regular backup every 3 minutes by default, OmegaT creates a backup with the name &lt;f2&gt;project_save.tmx.bak&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121718Z" creationid="miurahr" creationdate="20221023T121718Z">
+        <seg>&lt;f0&gt;project_save.tmx&lt;/f0&gt;が変更されるたびに、&lt;l1/&gt;を使用した後、またはデフォルトではで3分ごとの通常のバックアップとして、OmegaTは&lt;f2&gt;project_save.tmx.bak&lt;/f2&gt;という名前のバックアップを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Everytime you use &lt;l0/&gt;, or as a regular backup every 3 minutes by default, OmegaT saves the current state of the translation into &lt;f1&gt;project_save.tmx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121728Z" creationid="miurahr" creationdate="20221023T121728Z">
+        <seg>&lt;l0/&gt;を使用するたびに、またはデフォルトではで3分ごとの通常のバックアップとして、OmegaTは変換の現在の状態を&lt;f1&gt;project_save.tmx&lt;/f1&gt;に保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Ewe</seg>
       </tuv>
@@ -22004,11 +22039,12 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Find lost translations</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T052255Z" creationid="Hiroshi Miura" creationdate="20221023T052255Z">
-        <seg>Find lost translations</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121552Z" creationid="Hiroshi Miura" creationdate="20221023T052255Z">
+        <seg>失われた翻訳の検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -23924,6 +23960,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>Go Down One Page in Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121500Z" creationid="miurahr" creationdate="20221023T121500Z">
+        <seg>表の1ページ下へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>Go Down The List</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121348Z" creationid="miurahr" creationdate="20221023T121348Z">
@@ -24006,6 +24051,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>Go Up One Page in Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121457Z" creationid="miurahr" creationdate="20221023T121457Z">
+        <seg>表の1ページ上へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>Go Up The List</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121344Z" creationid="miurahr" creationdate="20221023T121344Z">
@@ -24029,6 +24083,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Go to First Row in Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121524Z" creationid="miurahr" creationdate="20221023T121524Z">
+        <seg>表の最初の行に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Go to First Segment</seg>
@@ -24038,12 +24100,37 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Go to First Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121510Z" creationid="miurahr" creationdate="20221023T121510Z">
+        <seg>最初の表に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Row in Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121532Z" creationid="miurahr" creationdate="20221023T121532Z">
+        <seg>表の最後の行に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Go to Last Segment</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121140Z" creationid="miurahr" creationdate="20221023T121140Z">
         <seg>最後の分節に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Go to Last Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121515Z" creationid="miurahr" creationdate="20221023T121515Z">
+        <seg>最後の表に移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -24290,6 +24377,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T121405Z">
         <seg>HHC ファイルのサイズが大きすぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HOME</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121525Z" creationid="miurahr" creationdate="20221023T121525Z">
+        <seg>HOME</seg>
       </tuv>
     </tu>
     <tu>
@@ -26650,6 +26745,15 @@ that you install an OmegaT version with JRE included.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T130759Z">
         <seg>認証が必要なプロキシを使用している場合、ユーザー名とパスワードを入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you believe that you have lost translation data, it might probably be safely stored in your most recent backup memory, which is usually less than a few minutes old or so.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121747Z" creationid="miurahr" creationdate="20221023T121747Z">
+        <seg>翻訳データを紛失したと思われる場合は、おそらく最新のバックアップメモリに安全に保存されている可能性があります。最新のバックアップメモリは通常、数分前のものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36063,6 +36167,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT also creates regular backups of that file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121648Z" creationid="miurahr" creationdate="20221023T121648Z">
+        <seg>OmegaTは、そのファイルの定期的なバックアップも作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
       </tuv>
@@ -36525,6 +36638,15 @@ translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT is a robust and trustworthy application, but even so, it is smart take precautions to guard against data loss when using it, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121636Z" creationid="miurahr" creationdate="20221023T121636Z">
+        <seg>OmegaTは堅牢で信頼できるプログラムですが、それでも、他のプログラムと同様に、使用時にデータ損失を防ぐための予防措置を講じることは賢明です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT is a robust application.</seg>
       </tuv>
@@ -36686,6 +36808,15 @@ be launched.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20150101T000211Z">
         <seg>OmegaT は、単に製品というだけではなく、ユーザーが参加できる楽しいプロジェクトでもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT keeps up to 10 of those files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121700Z" creationid="miurahr" creationdate="20221023T121700Z">
+        <seg>OmegaTはこれらのファイルを10個まで保持しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36864,6 +36995,15 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T145420Z">
         <seg>OmegaT は言語コードの指定方法として、次の２種類の標準規約を認識します：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT regularly and automatically stores all your progress in the &lt;l0/&gt; file located in the project’s &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121644Z" creationid="miurahr" creationdate="20221023T121644Z">
+        <seg>OmegaTは、プロジェクトの&lt;l1/&gt;フォルダーにある&lt;l0/&gt;ファイルに、すべての進行状況を定期的かつ自動的に保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40356,6 +40496,15 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Proceed as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121750Z" creationid="miurahr" creationdate="20221023T121750Z">
+        <seg>次の手順を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Proceed?</seg>
       </tuv>
@@ -41071,6 +41220,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T120749Z" creationid="amake" creationdate="20170128T120749Z">
         <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RIGHT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121452Z" creationid="miurahr" creationdate="20221023T121452Z">
+        <seg>RIGHT</seg>
       </tuv>
     </tu>
     <tu>
@@ -48494,6 +48651,15 @@ The scope of a text replacement is the target segments of the project, whether t
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>That file is a copy of &lt;f3&gt;project_save.tmx&lt;/f3&gt; &lt;e4&gt;before&lt;/e4&gt; the modification.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121722Z" creationid="miurahr" creationdate="20221023T121722Z">
+        <seg>このファイルは、変更前の&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;e4&gt;&lt;/e4&gt;のコピーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>That folder contains all the files needed to run OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023024Z" creationid="Hiroshi Miura" creationdate="20221023T023024Z">
@@ -49651,6 +49817,15 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The backup filename follows the pattern &lt;f0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/f0&gt; where &lt;c1&gt;YYYY&lt;/c1&gt; represents the 4-digit year, &lt;c2&gt;MM&lt;/c2&gt; the month, &lt;c3&gt;DD&lt;/c3&gt; the day of the month, and &lt;c4&gt;hh&lt;/c4&gt; and &lt;c5&gt;mm&lt;/c5&gt; indicate the hours and minutes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121710Z" creationid="miurahr" creationdate="20221023T121710Z">
+        <seg>バックアップファイル名はパターン&lt;f0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/f0&gt;に従います。ここで、&lt;c1&gt;YYYY&lt;/c1&gt;は4桁の年、&lt;c2&gt;MM&lt;/c2&gt;は月、&lt;c3&gt;DD&lt;/c3&gt;は日を表し、&lt;c4&gt;hh&lt;/c4&gt;と&lt;c5&gt;mm&lt;/c5&gt;は時間と分を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The basic command has already been mentioned above.</seg>
       </tuv>
@@ -50480,6 +50655,15 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T054523Z" creationid="suzume" creationdate="20200119T054523Z">
         <seg>ファイル「{0}」はサポートされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The file &lt;f0&gt;project_save.tmx&lt;/f0&gt; always contains the most recent data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121732Z" creationid="miurahr" creationdate="20221023T121732Z">
+        <seg>ファイル&lt;f0&gt;project_save.tmx&lt;/f0&gt;には、常に最新のデータが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60927,6 +61111,15 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>When you open a project, OmegaT backs-up &lt;f0&gt;project_save.tmx&lt;/f0&gt; into a timestamped backup file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121656Z" creationid="miurahr" creationdate="20221023T121656Z">
+        <seg>プロジェクトを開くと、OmegaTは&lt;f0&gt;project_save.tmx&lt;/f0&gt;をタイムスタンプ付きのバックアップファイルにバックアップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
@@ -63026,6 +63219,15 @@ SourceForge too.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You lost your translation?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121740Z" creationid="miurahr" creationdate="20221023T121740Z">
+        <seg>翻訳を失くしたの?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
@@ -64251,10 +64453,66 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>autocompleterTableFirst</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121510Z" creationid="miurahr" creationdate="20221023T121510Z">
+        <seg>autocompleterTableFirst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableFirstInRow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121525Z" creationid="miurahr" creationdate="20221023T121525Z">
+        <seg>autocompleterTableFirstInRow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLast</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121516Z" creationid="miurahr" creationdate="20221023T121516Z">
+        <seg>autocompleterTableLast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLastInRow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121532Z" creationid="miurahr" creationdate="20221023T121532Z">
+        <seg>autocompleterTableLastInRow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>autocompleterTableLeft</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121436Z" creationid="miurahr" creationdate="20221023T121436Z">
         <seg>autocompleterTableLeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTablePageDown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121501Z" creationid="miurahr" creationdate="20221023T121501Z">
+        <seg>autocompleterTablePageDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTablePageUp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121457Z" creationid="miurahr" creationdate="20221023T121457Z">
+        <seg>autocompleterTablePageUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableRight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121447Z" creationid="miurahr" creationdate="20221023T121447Z">
+        <seg>autocompleterTableRight</seg>
       </tuv>
     </tu>
     <tu>
@@ -64901,6 +65159,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl END</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121516Z" creationid="miurahr" creationdate="20221023T121516Z">
+        <seg>ctrl END</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl ENTER</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121026Z" creationid="miurahr" creationdate="20221023T121026Z">
@@ -64913,6 +65179,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120511Z" creationid="miurahr" creationdate="20221023T120511Z">
         <seg>ctrl F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl HOME</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121511Z" creationid="miurahr" creationdate="20221023T121511Z">
+        <seg>ctrl HOME</seg>
       </tuv>
     </tu>
     <tu>
@@ -68763,6 +69037,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta END</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121516Z" creationid="miurahr" creationdate="20221023T121516Z">
+        <seg>meta END</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta ENTER</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121026Z" creationid="miurahr" creationdate="20221023T121026Z">
@@ -68775,6 +69057,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120513Z" creationid="miurahr" creationdate="20221023T120513Z">
         <seg>meta F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta HOME</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121511Z" creationid="miurahr" creationdate="20221023T121511Z">
+        <seg>meta HOME</seg>
       </tuv>
     </tu>
     <tu>
