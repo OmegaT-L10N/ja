@@ -12834,6 +12834,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autocompleter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121211Z" creationid="miurahr" creationdate="20221023T121211Z">
+        <seg>Autocompleter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T053749Z">
@@ -15470,6 +15478,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121340Z" creationid="miurahr" creationdate="20221023T121340Z">
+        <seg>自動補完を閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close Project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T040009Z">
@@ -15859,6 +15875,22 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T143056Z">
         <seg>確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm Autocompleter Without Closing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121331Z" creationid="miurahr" creationdate="20221023T121331Z">
+        <seg>閉じずに自動補完を確認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm and Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121310Z" creationid="miurahr" creationdate="20221023T121310Z">
+        <seg>自動補完を確認して閉じる</seg>
       </tuv>
     </tu>
     <tu>
@@ -17643,6 +17675,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>ダイアグラム(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DOWN</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121348Z" creationid="miurahr" creationdate="20221023T121348Z">
+        <seg>DOWN</seg>
       </tuv>
     </tu>
     <tu>
@@ -19568,6 +19608,14 @@ several security warnings.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>ESCAPE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121228Z" creationid="miurahr" creationdate="20221023T121228Z">
+        <seg>ESCAPE</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -21420,6 +21468,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T142243Z">
         <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121205Z" creationid="miurahr" creationdate="20221023T121205Z">
+        <seg>F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121211Z" creationid="miurahr" creationdate="20221023T121211Z">
+        <seg>F3</seg>
       </tuv>
     </tu>
     <tu>
@@ -23849,6 +23913,48 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Go Down One Page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121354Z" creationid="miurahr" creationdate="20221023T121354Z">
+        <seg>1ページ下へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Go Down The List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121348Z" creationid="miurahr" creationdate="20221023T121348Z">
+        <seg>リストの下へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down in Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121426Z" creationid="miurahr" creationdate="20221023T121404Z">
+        <seg>表内を下へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Left in Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121435Z" creationid="miurahr" creationdate="20221023T121413Z">
+        <seg>表内を左へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Right in Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121447Z" creationid="miurahr" creationdate="20221023T121447Z">
+        <seg>表内を右へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Go To</seg>
       </tuv>
@@ -23886,6 +23992,32 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T022207Z">
         <seg>移動メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Go Up One Page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121351Z" creationid="miurahr" creationdate="20221023T121351Z">
+        <seg>1ページ上へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Go Up The List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121344Z" creationid="miurahr" creationdate="20221023T121344Z">
+        <seg>リストを上に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up in Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121420Z" creationid="miurahr" creationdate="20221023T121357Z">
+        <seg>表内を上へ移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -25041,6 +25173,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T031753Z" creationid="suzume" creationdate="20200119T031753Z">
         <seg>INS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INSERT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121210Z" creationid="miurahr" creationdate="20221023T121210Z">
+        <seg>INSERT</seg>
       </tuv>
     </tu>
     <tu>
@@ -30753,6 +30893,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140607T151352Z">
         <seg>辞書に追加：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LEFT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121436Z" creationid="miurahr" creationdate="20221023T121436Z">
+        <seg>LEFT</seg>
       </tuv>
     </tu>
     <tu>
@@ -37758,6 +37906,30 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121226Z" creationid="miurahr" creationdate="20221023T121226Z">
+        <seg>自動補完機能を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Next View</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121242Z" creationid="miurahr" creationdate="20221023T121242Z">
+        <seg>次の自動補完ビューを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Previous View</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121253Z" creationid="miurahr" creationdate="20221023T121253Z">
+        <seg>前の自動補完ビューを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Open Context Menu</seg>
@@ -38666,6 +38838,22 @@ install the Oracle JRE on your own.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160308T151037Z" creationid="Yu-Tang" creationdate="20160308T151037Z">
         <seg>TMX ファイルを /tm/enforce フォルダーから移動や削除すると、上書きはされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAGE_DOWN</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121354Z" creationid="miurahr" creationdate="20221023T121354Z">
+        <seg>PAGE_DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAGE_UP</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121351Z" creationid="miurahr" creationdate="20221023T121351Z">
+        <seg>PAGE_UP</seg>
       </tuv>
     </tu>
     <tu>
@@ -45654,11 +45842,47 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Skip Next Token</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121147Z" creationid="miurahr" creationdate="20221023T121147Z">
+        <seg>次のトークンをスキップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Skip Next Token with Selection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121155Z" creationid="miurahr" creationdate="20221023T121152Z">
+        <seg>選択した次のトークンをスキップ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Skip PO header</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T084913Z">
         <seg>PO ヘッダーを無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Skip Previous Token</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121150Z" creationid="miurahr" creationdate="20221023T121150Z">
+        <seg>前のトークンをスキップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Skip Previous Token with Selection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121159Z" creationid="miurahr" creationdate="20221023T121159Z">
+        <seg>選択した前のトークンをスキップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -56761,6 +56985,24 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Toggle Cursor Lock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121204Z" creationid="miurahr" creationdate="20221023T121204Z">
+        <seg>カーソルロックの切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Toggle Overtype</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121209Z" creationid="miurahr" creationdate="20221023T121209Z">
+        <seg>上書き入力の切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
@@ -57663,6 +57905,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T031751Z" creationid="suzume" creationdate="20200119T031751Z">
         <seg>UNL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UP</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121345Z" creationid="miurahr" creationdate="20221023T121345Z">
+        <seg>UP</seg>
       </tuv>
     </tu>
     <tu>
@@ -63768,6 +64018,30 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>alt RIGHT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121148Z" creationid="miurahr" creationdate="20221023T121148Z">
+        <seg>alt RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt shift LEFT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121200Z" creationid="miurahr" creationdate="20221023T121200Z">
+        <seg>alt shift LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt shift RIGHT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121157Z" creationid="miurahr" creationdate="20221023T121157Z">
+        <seg>alt shift RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>am</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T203604Z">
@@ -63893,6 +64167,110 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T170236Z">
         <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterClose</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121341Z" creationid="miurahr" creationdate="20221023T121341Z">
+        <seg>autocompleterClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterConfirmAndClose</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121310Z" creationid="miurahr" creationdate="20221023T121310Z">
+        <seg>autocompleterConfirmAndClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterConfirmWithoutClose</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121331Z" creationid="miurahr" creationdate="20221023T121331Z">
+        <seg>autocompleterConfirmWithoutClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListDown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121348Z" creationid="miurahr" creationdate="20221023T121348Z">
+        <seg>autocompleterListDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListPageDown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121354Z" creationid="miurahr" creationdate="20221023T121354Z">
+        <seg>autocompleterListPageDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListPageUp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121351Z" creationid="miurahr" creationdate="20221023T121351Z">
+        <seg>autocompleterListPageUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListUp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121345Z" creationid="miurahr" creationdate="20221023T121345Z">
+        <seg>autocompleterListUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterNextView</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121242Z" creationid="miurahr" creationdate="20221023T121242Z">
+        <seg>autocompleterNextView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterPrevView</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121253Z" creationid="miurahr" creationdate="20221023T121253Z">
+        <seg>autocompleterPrevView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableDown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121404Z" creationid="miurahr" creationdate="20221023T121404Z">
+        <seg>autocompleterTableDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLeft</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121436Z" creationid="miurahr" creationdate="20221023T121436Z">
+        <seg>autocompleterTableLeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableUp</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121357Z" creationid="miurahr" creationdate="20221023T121357Z">
+        <seg>autocompleterTableUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTrigger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121227Z" creationid="miurahr" creationdate="20221023T121227Z">
+        <seg>autocompleterTrigger</seg>
       </tuv>
     </tu>
     <tu>
@@ -64571,6 +64949,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl LEFT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121151Z" creationid="miurahr" creationdate="20221023T121151Z">
+        <seg>ctrl LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl M</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120506Z" creationid="miurahr" creationdate="20221023T120506Z">
@@ -64635,10 +65021,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl RIGHT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121148Z" creationid="miurahr" creationdate="20221023T121148Z">
+        <seg>ctrl RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl S</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120451Z" creationid="miurahr" creationdate="20221023T120451Z">
         <seg>ctrl S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl SPACE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121228Z" creationid="miurahr" creationdate="20221023T121228Z">
+        <seg>ctrl SPACE</seg>
       </tuv>
     </tu>
     <tu>
@@ -64723,6 +65125,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift LEFT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121200Z" creationid="miurahr" creationdate="20221023T121200Z">
+        <seg>ctrl shift LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift M</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120633Z" creationid="miurahr" creationdate="20221023T120633Z">
@@ -64771,10 +65181,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift RIGHT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121156Z" creationid="miurahr" creationdate="20221023T121156Z">
+        <seg>ctrl shift RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift S</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120625Z" creationid="miurahr" creationdate="20221023T120625Z">
         <seg>ctrl shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift SPACE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121253Z" creationid="miurahr" creationdate="20221023T121253Z">
+        <seg>ctrl shift SPACE</seg>
       </tuv>
     </tu>
     <tu>
@@ -65348,10 +65774,58 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editorSkipNextToken</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121147Z" creationid="miurahr" creationdate="20221023T121147Z">
+        <seg>editorSkipNextToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipNextTokenWithSelection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121153Z" creationid="miurahr" creationdate="20221023T121153Z">
+        <seg>editorSkipNextTokenWithSelection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipPrevToken</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121151Z" creationid="miurahr" creationdate="20221023T121151Z">
+        <seg>editorSkipPrevToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipPrevTokenWithSelection</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121159Z" creationid="miurahr" creationdate="20221023T121159Z">
+        <seg>editorSkipPrevTokenWithSelection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editorSwitchOrientation</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121118Z" creationid="miurahr" creationdate="20221023T121118Z">
         <seg>editorSwitchOrientation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorToggleCursorLock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121204Z" creationid="miurahr" creationdate="20221023T121204Z">
+        <seg>editorToggleCursorLock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorToggleOvertype</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121210Z" creationid="miurahr" creationdate="20221023T121210Z">
+        <seg>editorToggleOvertype</seg>
       </tuv>
     </tu>
     <tu>
@@ -68365,6 +68839,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120629Z" creationid="miurahr" creationdate="20221023T120629Z">
         <seg>meta P (meta Enter / shift Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta PAGE_DOWN</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T121142Z" creationid="miurahr" creationdate="20221023T121142Z">
+        <seg>meta PAGE_DOWN</seg>
       </tuv>
     </tu>
     <tu>
