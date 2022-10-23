@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_bee7bf6f8" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d1034fa" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4454,6 +4454,24 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;event&lt;/c0&gt; can be: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T105834Z" creationid="miurahr" creationdate="20221023T105834Z">
+        <seg>&lt;c0&gt;イベント&lt;/c0&gt;は、&lt;o1&gt;入力された&lt;/o1&gt;、&lt;o2&gt;押された&lt;/o2&gt;、&lt;o3&gt;解放された&lt;/o3&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T105814Z" creationid="miurahr" creationdate="20221023T105814Z">
+        <seg>&lt;c0&gt;修飾子&lt;/c0&gt;は次のいずれかです:&lt;l1&gt;shift&lt;/l1&gt;、&lt;l2&gt;ctrl&lt;/l2&gt;、&lt;l3&gt;meta&lt;/l3&gt;、&lt;l4&gt;alt&lt;/l4&gt;、&lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
@@ -6997,12 +7015,30 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; refers to the &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T105828Z" creationid="miurahr" creationdate="20221023T105828Z">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt;は、2つの&lt;e2&gt;Alt&lt;/e2&gt;キーを持つキーボードのスペースバーの右側にある&lt;e1&gt;Alt&lt;/e1&gt;キーを指します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T012845Z" creationid="Hiroshi Miura" creationdate="20221022T012813Z">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (ここで “␣” は1つの空白文字を意味します)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; refers to the key with the Windows logo on most keyboards for Windows or Linux systems, and to the &lt;l1&gt;command&lt;/l1&gt; on macOS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T105820Z" creationid="miurahr" creationdate="20221023T105820Z">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt;は、WindowsまたはLinuxシステムのほとんどのキーボードにあるWindowsロゴのキーと、macOSの&lt;l1&gt;コマンド&lt;/l1&gt;を指します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61835,6 +61871,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can refer to the &lt;l1&gt;table presenting the different editor shortcuts&lt;/l1&gt; to find the values for keys such as &lt;l2&gt;Home&lt;/l2&gt;, &lt;l3&gt;Page Up&lt;/l3&gt;, or the arrow keys.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115112Z" creationid="miurahr" creationdate="20221023T115112Z">
+        <seg>&lt;l1&gt;さまざまな編集ショートカットを示す表&lt;/l1&gt;を参照して、&lt;l2&gt;Home&lt;/l2&gt;、&lt;l3&gt;Page Up&lt;/l3&gt;、矢印キーなどのキーの値を確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f0&gt;-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; and &lt;f2&gt;-level2.tmx&lt;/f2&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
@@ -63183,6 +63228,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T103406Z">
         <seg>そして &lt;c0&gt;&lt;キー&gt;&lt;/c0&gt; には、キーボード上で利用可能な任意のキーを指定できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>and &lt;c0&gt;key&lt;/c0&gt; can be any key available on your keyboard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T105838Z" creationid="miurahr" creationdate="20221023T105838Z">
+        <seg>&lt;c0&gt;key&lt;/c0&gt;は、キーボードで使用可能な任意のキーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69926,6 +69980,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T083545Z">
         <seg>翻訳内容を入力、編集する場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>where:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T105805Z" creationid="miurahr" creationdate="20221023T105805Z">
+        <seg>ここで:</seg>
       </tuv>
     </tu>
     <tu>
