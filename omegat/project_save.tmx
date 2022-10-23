@@ -4177,6 +4177,16 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133723Z" creationid="miurahr" creationdate="20221023T133723Z">
+        <seg>&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;/repository&gt;</seg>
@@ -21370,6 +21380,14 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Everything in &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; is mapped to the local OmegaT project source folder, except files with a &lt;f1&gt;.bak&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133743Z" creationid="miurahr" creationdate="20221023T133743Z">
+        <seg>&lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt;のすべては、&lt;f1&gt;.bak&lt;/f1&gt;拡張子のファイルを除いて、ローカルOmegaTプロジェクトの原文フォルダーにマップされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Everytime you use &lt;l0/&gt;, or as a regular backup every 3 minutes by default, OmegaT saves the current state of the translation into &lt;f1&gt;project_save.tmx&lt;/f1&gt;</seg>
@@ -25648,6 +25666,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T043630Z">
         <seg>ただし、RFE を提出したことによって、望まれる機能や改良が自動的に実装されるわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the &lt;f2&gt;readme.bak&lt;/f2&gt; is also included.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133745Z" creationid="miurahr" creationdate="20221023T133745Z">
+        <seg>However, the &lt;f2&gt;readme.bak&lt;/f2&gt; is also included.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30617,6 +30643,15 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T130427Z">
         <seg>この場合、スペイン語の翻訳は少なくとも部分的に、実際の書物の翻訳に基づいている可能性が高いと言えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>It is also possible to use a team project configuration where several translators share the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file, and only a subset of the other files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133937Z" creationid="miurahr" creationdate="20221023T133937Z">
+        <seg>OmegaTチームプロジェクトは、複数の翻訳者がproject_save.tmxファイルを共有しますが、(ソース)ファイルの(すべて)は共有しない、異なる方法で設定することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46373,6 +46408,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Selective sharing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133837Z" creationid="miurahr" creationdate="20221023T133837Z">
+        <seg>選択的な共有</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
@@ -48826,6 +48870,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Support other formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T134014Z" creationid="miurahr" creationdate="20221023T134014Z">
+        <seg>Support other formats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Supported Files</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142530Z" creationid="amake" creationdate="20170128T142530Z">
@@ -51097,6 +51149,15 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The above process describes the most common scenario, in which the team project administrator has full control of the project and all files (and statistics) are identical in all instances of the project, both on the server and the local systems of the translators.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133922Z" creationid="miurahr" creationdate="20221023T133922Z">
+        <seg>上記のプロセスでは、プロジェクトマネージャがプロジェクトを完全に制御し、ファイル(および翻訳状況)が両方の側(サーバ側と通訳者側)で同一である通常のケースについて説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The administrator may decide to include following folders and their contents as well: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; and &lt;f2&gt;dictionary&lt;/f2&gt;.</seg>
       </tuv>
@@ -51244,6 +51305,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T141323Z">
         <seg>基本的なコマンドはすでに上記で述べた通りです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic procedure is the essentially the same, except that the team project administrator does not add every file to the version-controlled project on the server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133956Z" creationid="miurahr" creationdate="20221023T133956Z">
+        <seg>この場合も手順は同じですが、プロジェクト管理者はプロジェクトに(すべての)ファイルをバージョン管理に追加するわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53776,6 +53845,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The project will not load if a file specified in a mapping does not exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133823Z" creationid="miurahr" creationdate="20221023T133823Z">
+        <seg>マッピングで指定されたファイルが存在しない場合、プロジェクトは読み込みしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The project writable glossary is by default located in the &lt;l0/&gt; folder and called &lt;l1/&gt;.</seg>
@@ -53890,6 +53968,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T025650Z">
         <seg>設定ファイルは、&lt;l2&gt;filters.conf&lt;/l2&gt; と &lt;l3&gt;segmentation.conf&lt;/l3&gt; です。ユーザーのホームフォルダー（Windows の場合 &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt;、Linux の場合 &lt;l6&gt;%user%/.omegat/&lt;/l6&gt;）にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The remaining files are either copied by the translators themselves, or mappings that synchronize files from other locations are defined.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T134010Z" creationid="miurahr" creationdate="20221023T134010Z">
+        <seg>代わりに、翻訳者はファイル自体をコピーするか、マッピングを追加して他の場所からファイルを同期します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57075,6 +57162,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T234351Z" creationid="miurahr" creationdate="20201106T234351Z">
         <seg>これにより、翻訳するファイルの名前を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it possible to rename the file to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133816Z" creationid="miurahr" creationdate="20221023T133816Z">
+        <seg>This makes it possible to rename the file to translate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64027,6 +64122,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T032624Z">
         <seg>&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; キーを押すと、新しい用語を追加することができます。また既存の用語集ファイルをプロジェクトの &lt;f1&gt;glossary&lt;/f1&gt; フォルダーにコピーしておくと、OmegaT はそこから用語を自動的に検索するようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but one of the mappings must include the &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133833Z" creationid="miurahr" creationdate="20221023T133833Z">
+        <seg>マッピングは必要な数だけ追加できますが、マッピングの1つには&lt;f0&gt;omegat.project&lt;/f0&gt;ファイルが含まれている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
