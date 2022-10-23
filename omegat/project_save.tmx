@@ -1957,6 +1957,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Call Last Search Window)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120543Z" creationid="miurahr" creationdate="20221023T120543Z">
+        <seg>(最新の検索ウィンドウを呼びだす)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(If you think you have significantly contributed to the OmegaT Project 
 but you don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
@@ -25071,6 +25079,15 @@ path need not be entered.)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If OmegaT is open, you will have to restart it for your changes to take effect.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120253Z" creationid="miurahr" creationdate="20221023T120253Z">
+        <seg>OmegaTが開いている場合は、変更を有効にするために再起動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
@@ -31420,6 +31437,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lists of functions and codes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120326Z" creationid="miurahr" creationdate="20221023T120326Z">
+        <seg>機能とコードのリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T043556Z">
@@ -32863,6 +32888,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T153616Z">
         <seg>メニューとキーボードショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Menu functions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120329Z" creationid="miurahr" creationdate="20221023T120329Z">
+        <seg>メニュー機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -42754,6 +42788,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Save and close the file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120233Z" creationid="miurahr" creationdate="20221023T120233Z">
+        <seg>ファイルを保存して閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
@@ -42791,6 +42834,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T083553Z" creationid="Hiroshi Miura" creationdate="20220830T083553Z">
         <seg>訳文の由来を保存する(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Save the file after you have finished making your changes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120248Z" creationid="miurahr" creationdate="20221023T120248Z">
+        <seg>変更が完了したら、ファイルを保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44908,6 +44960,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T173958Z">
         <seg>ショートカットのカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts in parentheses are alternatives for the same function found in the &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120441Z" creationid="miurahr" creationdate="20221023T120441Z">
+        <seg>括弧内のショートカットは、&lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;にある同じ機能の代替です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50293,6 +50353,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The functions that can be modified in the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file, along with their default values, are presented in the tables below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120420Z" creationid="miurahr" creationdate="20221023T120420Z">
+        <seg>&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;ファイルで変更できる機能のデフォルト値を以下の表に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The fuzzy matches can be also sorted in different ways (for displaying only; no influence on statistics).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T091015Z" creationid="Yu-Tang" creationdate="20141201T091015Z">
@@ -51021,6 +51089,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next section presents tables with the function codes and corresponding default shortcut for each menu or editor function in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120317Z" creationid="miurahr" creationdate="20221023T120317Z">
+        <seg>次の項には、機能コードと、OmegaTの各メニューまたはデフォルトの関数に対応する編集ショートカットを示す表があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T143223Z">
@@ -51034,6 +51110,15 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T045307Z">
         <seg>次に、その現象がすでに他のユーザーから報告されていないかどうか、確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The next time you start OmegaT, you your new shortcut should be active and displayed next to the name of the function in the menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120240Z" creationid="miurahr" creationdate="20221023T120240Z">
+        <seg>次にOmegaTを起動すると、新しいショートカットがアクティブになり、メニューの機能名の横に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53524,6 +53609,15 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T185427Z">
         <seg>選んだ要素は、翻訳時に個別の分節として表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>They will now be availabe in OmegaT as long as there are no conflicts with other functions or with system-wide shortcuts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120303Z" creationid="miurahr" creationdate="20221023T120303Z">
+        <seg>他の機能やシステム全体のショートカットと競合しない限り、これらはOmegaTで利用できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62611,6 +62705,15 @@ them.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Your modified or added shortcuts should now be displayed next to the menu items you have changed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120258Z" creationid="miurahr" creationdate="20221023T120258Z">
+        <seg>変更または追加したショートカットが、変更したメニュー項目の横に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
@@ -64003,6 +64106,174 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl D</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120454Z" creationid="miurahr" creationdate="20221023T120454Z">
+        <seg>ctrl D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl E</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120456Z" creationid="miurahr" creationdate="20221023T120456Z">
+        <seg>ctrl E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl F</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120511Z" creationid="miurahr" creationdate="20221023T120511Z">
+        <seg>ctrl F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl I</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120505Z" creationid="miurahr" creationdate="20221023T120505Z">
+        <seg>ctrl I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl L</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120457Z" creationid="miurahr" creationdate="20221023T120457Z">
+        <seg>ctrl L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl M</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120506Z" creationid="miurahr" creationdate="20221023T120506Z">
+        <seg>ctrl M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl O</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120447Z" creationid="miurahr" creationdate="20221023T120447Z">
+        <seg>ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Q</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120459Z" creationid="miurahr" creationdate="20221023T120459Z">
+        <seg>ctrl Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl R</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120504Z" creationid="miurahr" creationdate="20221023T120504Z">
+        <seg>ctrl R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl S</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120451Z" creationid="miurahr" creationdate="20221023T120451Z">
+        <seg>ctrl S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl T</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120508Z" creationid="miurahr" creationdate="20221023T120508Z">
+        <seg>ctrl T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Y</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120504Z" creationid="miurahr" creationdate="20221023T120504Z">
+        <seg>ctrl Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Z</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120503Z" creationid="miurahr" creationdate="20221023T120503Z">
+        <seg>ctrl Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift C</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120509Z" creationid="miurahr" creationdate="20221023T120509Z">
+        <seg>ctrl shift C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift D</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120455Z" creationid="miurahr" creationdate="20221023T120455Z">
+        <seg>ctrl shift D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift G</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120510Z" creationid="miurahr" creationdate="20221023T120510Z">
+        <seg>ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift I</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120507Z" creationid="miurahr" creationdate="20221023T120507Z">
+        <seg>ctrl shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift N</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120445Z" creationid="miurahr" creationdate="20221023T120445Z">
+        <seg>ctrl shift N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift R</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120507Z" creationid="miurahr" creationdate="20221023T120507Z">
+        <seg>ctrl shift R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift T</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120508Z" creationid="miurahr" creationdate="20221023T120508Z">
+        <seg>ctrl shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift W</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120450Z" creationid="miurahr" creationdate="20221023T120450Z">
+        <seg>ctrl shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cu</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -64280,6 +64551,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130410T152601Z">
         <seg>editMultipleAlternate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editMultipleAlternate=alt X</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120228Z" creationid="miurahr" creationdate="20221023T120228Z">
+        <seg>editMultipleAlternate=alt X</seg>
       </tuv>
     </tu>
     <tu>
@@ -67241,6 +67520,174 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta D</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120454Z" creationid="miurahr" creationdate="20221023T120454Z">
+        <seg>meta D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta E</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120456Z" creationid="miurahr" creationdate="20221023T120456Z">
+        <seg>meta E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta F</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120513Z" creationid="miurahr" creationdate="20221023T120513Z">
+        <seg>meta F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta I</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120505Z" creationid="miurahr" creationdate="20221023T120505Z">
+        <seg>meta I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta L</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120457Z" creationid="miurahr" creationdate="20221023T120457Z">
+        <seg>meta L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta M</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120506Z" creationid="miurahr" creationdate="20221023T120506Z">
+        <seg>meta M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta O</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120447Z" creationid="miurahr" creationdate="20221023T120447Z">
+        <seg>meta O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Q</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120500Z" creationid="miurahr" creationdate="20221023T120500Z">
+        <seg>meta Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta R</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120505Z" creationid="miurahr" creationdate="20221023T120505Z">
+        <seg>meta R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta S</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120451Z" creationid="miurahr" creationdate="20221023T120451Z">
+        <seg>meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta T</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120509Z" creationid="miurahr" creationdate="20221023T120509Z">
+        <seg>meta T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Y</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120504Z" creationid="miurahr" creationdate="20221023T120504Z">
+        <seg>meta Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Z</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120503Z" creationid="miurahr" creationdate="20221023T120503Z">
+        <seg>meta Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift C</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120509Z" creationid="miurahr" creationdate="20221023T120509Z">
+        <seg>meta shift C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift D</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120455Z" creationid="miurahr" creationdate="20221023T120455Z">
+        <seg>meta shift D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift G</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120510Z" creationid="miurahr" creationdate="20221023T120510Z">
+        <seg>meta shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift I</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120507Z" creationid="miurahr" creationdate="20221023T120507Z">
+        <seg>meta shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift N</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120446Z" creationid="miurahr" creationdate="20221023T120446Z">
+        <seg>meta shift N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift R</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120507Z" creationid="miurahr" creationdate="20221023T120507Z">
+        <seg>meta shift R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift T</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120508Z" creationid="miurahr" creationdate="20221023T120508Z">
+        <seg>meta shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift W</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120450Z" creationid="miurahr" creationdate="20221023T120450Z">
+        <seg>meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mg</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -68368,6 +68815,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T115637Z" creationid="miurahr" creationdate="20221023T115637Z">
         <seg>projectCloseMenuItem=meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCommitSourceFiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120453Z" creationid="miurahr" creationdate="20221023T120453Z">
+        <seg>projectCommitSourceFiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCommitTargetFiles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120454Z" creationid="miurahr" creationdate="20221023T120454Z">
+        <seg>projectCommitTargetFiles</seg>
       </tuv>
     </tu>
     <tu>
