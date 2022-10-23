@@ -14940,6 +14940,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Click &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155904Z" creationid="Hiroshi Miura" creationdate="20221022T155904Z">
+        <seg>&lt;g0&gt;[除外]&lt;/g0&gt;をクリックして、OmegaTによって無視されるファイルまたはフォルダを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Click &lt;g1&gt;Defaults&lt;/g1&gt; to reset the file filters to the default settings.</seg>
       </tuv>
@@ -20651,6 +20660,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclusions...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155900Z" creationid="Hiroshi Miura" creationdate="20221022T155900Z">
+        <seg>除外...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130113T015219Z">
@@ -23127,6 +23144,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Glossaries Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015455Z" creationid="Hiroshi Miura" creationdate="20221023T015455Z">
+        <seg>用語集フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Glossaries Folder:</seg>
@@ -25083,6 +25108,24 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If matches are found, they will be displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015655Z" creationid="Hiroshi Miura" creationdate="20221023T015655Z">
+        <seg>一致するものが見つかると、&lt;l0/&gt;に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If matches are found, they will be displayed in the &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015448Z" creationid="Hiroshi Miura" creationdate="20221023T015311Z">
+        <seg>一致するものが見つかると、&lt;l0/&gt;に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
@@ -25424,6 +25467,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121005T035604Z">
         <seg>［設定...］でフィルター個別の設定変更も行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If the folder is empty, if none of the files contain translatable contents, or if there are no files supported by OmegaT’s file filters, OmegaT will tell you that the folder is empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155852Z" creationid="Hiroshi Miura" creationdate="20221022T155852Z">
+        <seg>フォルダーが空の場合、翻訳可能なコンテンツを含むファイルがない場合、またはOmegaTのファイルフィルターでサポートされているファイルがない場合、OmegaTはフォルダーが空であることを通知します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29309,6 +29361,23 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T140456Z">
         <seg>最初の実行時に、お使いのコンピューターに適した実行環境とアプリケーションを自動でインストールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>It will try to read all the files at once, and will display in the editor the translatable contents that it has found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155830Z" creationid="Hiroshi Miura" creationdate="20221022T155830Z">
+        <seg>すべてのファイルを一度に読み取ろうとし、見つかった翻訳可能な内容をエディタに表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will try to read all the files at once, and will match their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015439Z" creationid="Hiroshi Miura" creationdate="20221023T015302Z">
+        <seg>すべてのファイルを一度に読み取り、翻訳したい分節に対するファジーマッチ検索を行ないます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36082,6 +36151,22 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155813Z" creationid="Hiroshi Miura" creationdate="20221022T155813Z">
         <seg>OmegaTは、変換したいファイルがこのフォルダにあるとみなします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will consider that this folder contains the files that you want to use as reference glossaries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015513Z" creationid="Hiroshi Miura" creationdate="20221023T015513Z">
+        <seg>OmegaTは、このフォルダに用語集として利用するファイルを期待します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will consider that this folder contains the files that you want to use as reference translation memories.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015227Z" creationid="Hiroshi Miura" creationdate="20221023T015227Z">
+        <seg>OmegaTは、このフォルダに翻訳メモリとして利用するファイルを期待します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47681,6 +47766,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Exclusion patterns dialog, allows you to add or remove a pattern, or to edit one by double-clicking it, or selecting it and pressing F2.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015025Z" creationid="Hiroshi Miura" creationdate="20221023T015025Z">
+        <seg>除外構成例集ダイアログで、構成例の追加と削除ができます。また ダブルクリックや構成例を選んでF2 キーを押すと編集もできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T201243Z">
@@ -51916,6 +52009,15 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The writeable glossary if the file that OmegaT will use when you want to add translated glossary terms to your project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015817Z" creationid="Hiroshi Miura" creationdate="20221023T015817Z">
+        <seg>翻訳された用語集をプロジェクトに追加するときにOmegaTが使用するファイルの書き込み可能な用語集。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -55794,6 +55896,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140310T171554Z">
         <seg>訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation Memories Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015057Z" creationid="Hiroshi Miura" creationdate="20221023T015057Z">
+        <seg>翻訳メモリフォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -61058,6 +61168,15 @@ omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can use wildcards that follow the &lt;u0&gt;Apache ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015046Z" creationid="Hiroshi Miura" creationdate="20221023T015046Z">
+        <seg>構成例には &lt;u0&gt;Ant 構文&lt;/u0&gt;にのっとったワイルドカード文字も使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can verify the bug report page at
 SourceForge too.</seg>
@@ -65023,6 +65142,23 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>is not copied to the &lt;l0/&gt; folder when the translated files are created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T160053Z" creationid="Hiroshi Miura" creationdate="20221022T160053Z">
+        <seg>訳文ファイル生成時に、訳文ファイルフォルダーにコピーされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not displayed in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155924Z" creationid="Hiroshi Miura" creationdate="20221022T155924Z">
+        <seg>&lt;l0/&gt;ウィンドウには表示されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>is not displayed in the Editor pane,</seg>
       </tuv>
@@ -65036,6 +65172,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T100514Z" creationid="Yu-Tang" creationdate="20141201T100514Z">
         <seg>翻訳状況の集計対象になりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not taken into account in the &lt;l0/&gt; window, and</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T160022Z" creationid="Hiroshi Miura" creationdate="20221022T160022Z">
+        <seg>&lt;l0/&gt;ウィンドウの集計対象になりません</seg>
       </tuv>
     </tu>
     <tu>
