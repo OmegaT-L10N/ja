@@ -3604,6 +3604,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T030905Z" creationid="Hiroshi Miura" creationdate="20221023T030905Z">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.repositories</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140906Z" creationid="suzume" creationdate="20201122T140906Z">
@@ -11142,6 +11150,24 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>All the parameters located in a &lt;l3/&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T025959Z" creationid="Hiroshi Miura" creationdate="20221023T025959Z">
+        <seg>&lt;l3/&gt;にあるすべてのパラメーターは、そのプロジェクトを開くOmegaTのバージョンに関係なく、そのプロジェクトに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>All the parameters located in the &lt;l0/&gt; will be shared unless you specify a different configuration folder with the &lt;l1&gt;--config-dir=&lt;path&gt;&lt;/l1&gt; option from the &lt;l2/&gt; on the command line .</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T025954Z" creationid="Hiroshi Miura" creationdate="20221023T025954Z">
+        <seg>コマンドラインの&lt;l2/&gt;から&lt;l1&gt;--config-dir=&lt;path&gt;&lt;/l1&gt;オプションを使用して別の構成フォルダを指定しない限り、&lt;l0/&gt;にあるすべてのパラメータは共有されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>All the user manual files can be found in this folder.</seg>
       </tuv>
@@ -13318,6 +13344,15 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130515T053131Z">
         <seg>バグ、機能追加の要望、文書に関する問題は、以下に示す管理システムにより SourceForge 上で取り扱っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Build OmegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T030017Z" creationid="Hiroshi Miura" creationdate="20221023T030017Z">
+        <seg>OmegaTの構築</seg>
       </tuv>
     </tu>
     <tu>
@@ -17614,6 +17649,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130412T103324Z">
         <seg>Sébastien Guillardeau の学位論文（2010年、ドイツ語）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Delete OmegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T030002Z" creationid="Hiroshi Miura" creationdate="20221023T030002Z">
+        <seg>OmegaTの削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -26617,6 +26661,15 @@ OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you performed a manual installation on Linux, you will have to manually delete the OmegaT folders in &lt;f0&gt;opt/&lt;/f0&gt;, as well as the symlinks placed in &lt;f1&gt;/usr/local/bin/&lt;/f1&gt; by the installation script.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T030015Z" creationid="Hiroshi Miura" creationdate="20221023T030015Z">
+        <seg>Linuxで手動インストールを実行した場合は、&lt;f0&gt;opt/&lt;/f0&gt;のOmegaTフォルダと、インストール・スクリプトによって&lt;f1&gt;/usr/local/bin/&lt;/f1&gt;に置かれたシンボリック・リンクを手動で削除する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
@@ -26786,6 +26839,15 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T032105Z" creationid="Hiroshi Miura" creationdate="20221022T032058Z">
         <seg>正規表現の使用についてさらに詳しく知りたい場合は、次の2つのWebサイトが非常に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you want to remove OmegaT completely, you will also have to delete the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T030008Z" creationid="Hiroshi Miura" creationdate="20221023T030008Z">
+        <seg>OmegaTを完全に削除したい場合は、構成フォルダーも削除する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36797,6 +36859,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T052200Z" creationid="miurahr" creationdate="20201115T052200Z">
         <seg>コードがダウンロードされたら、ソースフォルダでコマンドを開き、次のように入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the code is downloaded, open a terminal in the source folder (&lt;f0&gt;/omegat/src&lt;/f0&gt;) and type:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T030904Z" creationid="Hiroshi Miura" creationdate="20221023T030904Z">
+        <seg>コードがダウンロードされたら、ソースフォルダ(&lt;f0&gt;omegat-code/&lt;/f0&gt;)で端末を開き、次のように入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51750,6 +51820,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the &lt;u0/&gt; repository or directly from &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T030052Z" creationid="Hiroshi Miura" creationdate="20221023T030052Z">
+        <seg>現在のバージョンのソースは、Gitクライアントを使用して&lt;u0/&gt;リポジトリから取得することも、&lt;u1&gt;SourceForge&lt;/u1&gt;から直接取得することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
@@ -54499,6 +54578,15 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T123931Z" creationid="Hiroshi Miura" creationdate="20220824T123931Z">
         <seg>これにより、&lt;f0&gt;./build/distributions&lt;/f0&gt;フォルダにOmegaTの完全な配布が作成されます。このフォルダには、OmegaTの実行に必要なすべてを含むzipファイルがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;build/install/OmegaT&lt;/f0&gt; folder, ready to be launched.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T031000Z" creationid="Hiroshi Miura" creationdate="20221023T031000Z">
+        <seg>これにより、&lt;f0&gt;build/install/OmegaT&lt;/f0&gt;フォルダにOmegaTの完全なディストリビューションが作成され、起動できるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58118,6 +58206,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T061226Z">
         <seg>untar コマンド（Windows であれば、たとえば &lt;f0&gt;WinRAR&lt;/f0&gt; などのユーティリティ）で、そのファイルを展開します。展開先は、プロジェクトフォルダー配下の「dictionary」フォルダーの中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use your operating system’s standard procedure to remove OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T030005Z" creationid="Hiroshi Miura" creationdate="20221023T030005Z">
+        <seg>ご使用のオペレーティング・システムの標準手順に従って、OmegaTを削除します。</seg>
       </tuv>
     </tu>
     <tu>
