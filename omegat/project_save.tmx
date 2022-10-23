@@ -10221,6 +10221,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A whitelist of regular expressions defining the source files to process.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131735Z" creationid="miurahr" creationdate="20221023T131735Z">
+        <seg>処理する原文ファイルを定義する正規表現のホワイトリスト。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -12245,6 +12253,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T012408Z" creationid="Hiroshi Miura" creationdate="20221022T012408Z">
         <seg>「c」で始まり「t」で終わる4つの文字の組み合わせ:「&lt;e0&gt;cart&lt;/e0&gt;」、「&lt;e1&gt;cult&lt;/e1&gt;」、「&lt;e2&gt;coat&lt;/e2&gt;」、または「&lt;e3&gt;cbzt&lt;/e3&gt;」や「&lt;e4&gt;cqlt&lt;/e4&gt;」などの意味不明な組み合わせでも一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any files also named test.html in other subfolders will be ignored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131845Z" creationid="miurahr" creationdate="20221023T131845Z">
+        <seg>他のフォルダーにあるtest.htmlという名前のファイルはすべて無視されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24984,6 +25000,15 @@ Its winter has come</seg>
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>Here are some typical examples:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131748Z" creationid="miurahr" creationdate="20221023T131748Z">
+        <seg>次に、典型的な例をいくつか示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>Here are the default OmegaT.jar locations for each major platform:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T124428Z" creationid="miurahr" creationdate="20221023T124428Z">
@@ -29018,6 +29043,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060135Z" creationid="miurahr" creationdate="20201115T060102Z">
         <seg>このモードでは、ペインの下部に「&lt;g1&gt;カーソルロック解除&lt;/g1&gt;」と表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT attempts to translate the files in the source folder with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131708Z" creationid="miurahr" creationdate="20221023T131708Z">
+        <seg>このモードでは、原文フォルダーのファイルを、既にある翻訳メモリを使って翻訳しようとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38534,6 +38567,22 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only translate &lt;f0&gt;test.html&lt;/f0&gt; file in the source folder itself.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131825Z" creationid="miurahr" creationdate="20221023T131825Z">
+        <seg>原文フォルダーにある&lt;f0&gt;test.html&lt;/f0&gt;ファイルのみを翻訳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only translate the &lt;f0&gt;test.html&lt;/f0&gt; file in the &lt;f1&gt;dir-10&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131904Z" creationid="miurahr" creationdate="20221023T131904Z">
+        <seg>&lt;f1&gt;dir-10&lt;/f1&gt;フォルダーの&lt;f0&gt;test.html&lt;/f0&gt;ファイルのみ翻訳します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only when you are sure you are the first to have found some
 reproducible sequence of event that triggered something not supposed to
 happen should you file a bug report.</seg>
@@ -42365,6 +42414,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T031306Z">
         <seg>もし、タグの取り扱いが面倒な場合や整形が翻訳内容にそれほど影響しないときは、訳文にタグを付けないことが、もっとも簡単な解決策になりうることを忘れないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Remember that in regular expressions, the period and backslash character must be escaped: "\." and "\\".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131745Z" creationid="miurahr" creationdate="20221023T131745Z">
+        <seg>正規表現では、ピリオドとバックスラッシュ文字("\."と"\\")をエスケープする必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47447,6 +47505,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T093047Z" creationid="Yu-Tang" creationdate="20160212T020934Z">
         <seg>デフォルト（GUI）以外のモードを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Specify a mode other than the GUI default.The following options are available:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131557Z" creationid="miurahr" creationdate="20221023T131557Z">
+        <seg>GUIデフォルトの以外のモードを指定します。次のオプションを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56174,6 +56241,15 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This is useful if OmegaT is run on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131719Z" creationid="miurahr" creationdate="20221023T131719Z">
+        <seg>これは、TMXファイルが自動的にプロジェクトに供給されるサーバでOmegaTを実行する場合に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
       </tuv>
@@ -58408,6 +58484,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T234604Z" creationid="miurahr" creationdate="20201106T234604Z">
         <seg>PDFファイルの翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate all HTML files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131759Z" creationid="miurahr" creationdate="20221023T131759Z">
+        <seg>すべてのHTMLファイルを翻訳する。</seg>
       </tuv>
     </tu>
     <tu>
