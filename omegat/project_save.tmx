@@ -10813,6 +10813,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Add the necessary files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132923Z" creationid="miurahr" creationdate="20221023T132923Z">
+        <seg>必要なファイルを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
@@ -15374,6 +15383,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Chose the appropriate settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132843Z" creationid="miurahr" creationdate="20221023T132843Z">
+        <seg>適切な設定を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Chuvash</seg>
       </tuv>
@@ -16830,6 +16848,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T165828Z">
         <seg>翻訳メモリの対象にしたい原文文書を、source フォルダーにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the files to translate to the source/ folder, and use your SVN or Git client, or the command line, to add and publish them to the repository.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133010Z" creationid="miurahr" creationdate="20221023T133010Z">
+        <seg>原文フォルダーにファイルをコピーし、SVNまたはGitクライアント、またはコマンドラインを使用して、それらをリポジトリに追加して共有します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27190,6 +27216,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are converting an existing project, make sure you delete any files in the project that you do not need or want to upload to the server before proceeding to the next step.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132952Z" creationid="miurahr" creationdate="20221023T132952Z">
+        <seg>既存のプロジェクトを変換する場合は、次の手順に進む前に、プロジェクト内の不要なファイルや、サーバにアップロードしたくないファイルを、すべて削除してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;usual GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T132833Z" creationid="miurahr" creationdate="20221023T132833Z">
@@ -33307,6 +33341,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150519T113635Z" creationid="Yu-Tang" creationdate="20150519T113612Z">
         <seg>ファイルが存在するか、現在のログオンユーザーに削除権限があるか、確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make the necessary changes to the project properties at this stage, including local file filters or segmentation settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132919Z" creationid="miurahr" creationdate="20221023T132919Z">
+        <seg>この段階で、ローカルのフィルタ設定や分節化設定など、プロジェクト設定に必要な変更を加えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45106,6 +45148,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;spellchecker files&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132935Z" creationid="miurahr" creationdate="20221023T132935Z">
+        <seg>詳細については、&lt;l0&gt;スペルチェッカーファイル&lt;/l0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See &lt;l1/&gt; for details.</seg>
@@ -46810,6 +46861,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Similarly add any relevant lists of spellchecker files you want to make available to everyone working on the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132929Z" creationid="miurahr" creationdate="20221023T132929Z">
+        <seg>同様に、プロジェクトで作業しているすべての人が使用できるようにするスペルチェッカーファイルの関連リストを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -47569,6 +47629,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220424T101027Z" creationid="miurahr" creationdate="20220424T101027Z">
         <seg>原文ファイル名構成例には、&lt;e3&gt;検索機能&lt;/e3&gt;と同様にワイルドカード文字を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files can also be added from OmegaT using the &lt;l0/&gt; command in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133024Z" creationid="miurahr" creationdate="20221023T133024Z">
+        <seg>原文ファイルは、&lt;l1/&gt;メニューの&lt;l0/&gt;コマンドを使用してOmegaTから追加することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55962,6 +56030,15 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This command also automatically registers the project in the version control system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T132837Z" creationid="miurahr" creationdate="20221023T132837Z">
+        <seg>また、このコマンドはプロジェクトをバージョン管理システムに自動的に登録します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
       </tuv>
@@ -57058,6 +57135,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033908Z" creationid="miurahr" creationdate="20201101T033908Z">
         <seg>このサイトは英語でも利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This step can be performed before the registering and publishing the project for the first time, and can also be used to add new files, or update existing ones after the project has been created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133122Z" creationid="miurahr" creationdate="20221023T133122Z">
+        <seg>この手順は、プロジェクトを初めて登録して共有する前に実行できます。また、プロジェクトの作成後に新しいファイルを追加したり、既存のファイルを更新したりする場合にも使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64890,6 +64975,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220408T053655Z" creationid="Hiroshi Miura" creationdate="20220408T053655Z">
         <seg>次に、再度 &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; を押して、提案された機械翻訳を挿入する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must use your SVN or Git client or the command line to add and publish any dictionaries, glossaries, translation memories or other files you want to include in the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T133109Z" creationid="miurahr" creationdate="20221023T133109Z">
+        <seg>プロジェクトに含める辞書、用語集、翻訳メモリ、その他のファイルを追加して公開するには、SVNまたはGitクライアントかコマンドを使用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
