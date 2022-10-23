@@ -18,7 +18,9 @@ jobs:
       - name: check latest commit less than a day
         id: should_run
         continue-on-error: true
-        run: test -z "$(git rev-list --after='24 hours' ${{ github.sha }})" && echo "should_run=false" >> $GITHUB_OUTPUT
+        run: |
+          test -z "$(git rev-list --after='24 hours' ${{ github.sha }})" && echo "should_run=false" >> $GITHUB_OUTPUT
+          exit 0
 
   progress-translation:
     runs-on: ubuntu-latest
