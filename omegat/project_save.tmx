@@ -3683,6 +3683,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124431Z" creationid="miurahr" creationdate="20221023T124431Z">
+        <seg>/Applications/OmegaT.app/Contents/Java/OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T190957Z">
@@ -3712,6 +3720,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T131948Z" creationid="Hiroshi Miura" creationdate="20221021T131948Z">
         <seg>/opt/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124512Z" creationid="miurahr" creationdate="20221023T124432Z">
+        <seg>/opt/omegat/OmegaT-default/OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,6 +13459,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both are available from the &lt;g2&gt;System Tools&lt;/g2&gt; folder of the &lt;g3&gt;Start Menu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124334Z" creationid="miurahr" creationdate="20221023T124334Z">
+        <seg>どちらも、&lt;g3&gt;[スタート]メニュー&lt;/g3&gt;の&lt;g2&gt;[システムツール]&lt;/g2&gt;にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break rule</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T051354Z">
@@ -14007,6 +14031,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T131946Z" creationid="Hiroshi Miura" creationdate="20221021T131946Z">
         <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124430Z" creationid="miurahr" creationdate="20221023T124430Z">
+        <seg>C:\Program Files\OmegaT\OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -15756,6 +15788,15 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T124010Z" creationid="miurahr" creationdate="20221023T124010Z">
         <seg>コマンドライン起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Command syntax</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124530Z" creationid="miurahr" creationdate="20221023T124530Z">
+        <seg>コマンド構文</seg>
       </tuv>
     </tu>
     <tu>
@@ -23205,6 +23246,15 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>For the sake of simplicity, this manual refers to it as the terminal.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124232Z" creationid="miurahr" creationdate="20221023T124232Z">
+        <seg>簡単にするために、このマニュアルでは端末と呼びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
@@ -24814,6 +24864,15 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T002728Z" creationid="Hiroshi Miura" creationdate="20221022T002728Z">
         <seg>以下にいくつかの例を示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Here are the default OmegaT.jar locations for each major platform:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124428Z" creationid="miurahr" creationdate="20221023T124428Z">
+        <seg>各主要プラットフォームのデフォルトのOmegaT.jarの場所は次のとおりです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28691,6 +28750,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T074220Z" creationid="Yu-Tang" creationdate="20141202T074220Z">
         <seg>訳文ファイルを生成した場合、該当する分節には何も出力されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>In the terminal, you type commands and their associated parameters to perform tasks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124412Z" creationid="miurahr" creationdate="20221023T124412Z">
+        <seg>ターミナルでは、コマンドとその関連パラメータを入力してタスクを実行します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32641,6 +32709,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T112855Z">
         <seg>機械翻訳サービスは、研究評価段階では良好で堅実な結果を達成しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Macos</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124430Z" creationid="miurahr" creationdate="20221023T124430Z">
+        <seg>Macos</seg>
       </tuv>
     </tu>
     <tu>
@@ -37721,6 +37797,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>On Linux, the default terminal application for your distribution should be available from the application menu or one of its submenus.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124408Z" creationid="miurahr" creationdate="20221023T124408Z">
+        <seg>Linuxでは、あなたのディストリビューションのデフォルトのターミナルプログラムはプログラムメニューかそのサブメニューの一つから利用できるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>On Mac OS X</seg>
       </tuv>
@@ -37764,6 +37849,23 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>On Windows, the (&lt;c0&gt;\&lt;/c0&gt; character is used to separate folder and file names, while macOS and Linux the &lt;c1&gt;/&lt;/c1&gt; to do so.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124424Z" creationid="miurahr" creationdate="20221023T124424Z">
+        <seg>Windowsでは、フォルダーとファイル名を区切るために(&lt;c0&gt;\&lt;/c0&gt;文字が使用されますが、macOSとLinuxでは&lt;c1&gt;/&lt;/c1&gt;文字が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows, you can use either the &lt;a0&gt;Command Prompt&lt;/a0&gt; or &lt;a1&gt;Powershell&lt;/a1&gt; as a terminal.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124302Z" creationid="miurahr" creationdate="20221023T124238Z">
+        <seg>Windowsでは端末アプリとして&lt;a0&gt;コマンドプロンプト&lt;/a0&gt;または&lt;a1&gt;PowerShell&lt;/a1&gt;を使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>On macOS</seg>
       </tuv>
@@ -37791,12 +37893,11 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>On modern systems, the CLI is accessed through an application generally called a "terminal" or "console".</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221023T124229Z" creationid="miurahr" creationdate="20221023T124229Z">
-        <seg>最近のシステムでは、CLIは一般に「ターミナル」または「コンソール」と呼ばれるプログラムを介してアクセスされます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124248Z" creationid="miurahr" creationdate="20221023T124229Z">
+        <seg>最近のシステムでは、CLIは一般に「端末」または「コンソール」と呼ばれるプログラムを介してアクセスされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49028,6 +49129,15 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>That location is written &lt;f0&gt;path/to/OmegaT.jar&lt;/f0&gt; in this chapter but you'll have to replace it with the real location according to your platform.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124528Z" creationid="miurahr" creationdate="20221023T124503Z">
+        <seg>この場所は、この章では&lt;f0&gt;path/to/OmegaT.jar&lt;/f0&gt;と記述されていますが、プラットフォームに応じて実際の場所に置き換える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
@@ -51843,6 +51953,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS equivalent is the &lt;a0&gt;Terminal&lt;/a0&gt; application located in the &lt;f1&gt;Utilities&lt;/f1&gt; folder of the &lt;f2&gt;Applications&lt;/f2&gt; main folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124403Z" creationid="miurahr" creationdate="20221023T124403Z">
+        <seg>macOSで相当しているのは、&lt;a0&gt;ターミナル&lt;/a0&gt;プログラムで、&lt;f2&gt;アプリケーション&lt;/f2&gt;メインフォルダーの&lt;f1&gt;ユーティリティ&lt;/f1&gt;フォルダーにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T043855Z" creationid="miurahr" creationdate="20201115T043855Z">
@@ -53493,6 +53611,24 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140207T213838Z">
         <seg>定義する言語コードの文法は正規表現の文法に従います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The syntax to launch OmegaT from the terminal is:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124533Z" creationid="miurahr" creationdate="20221023T124533Z">
+        <seg>ターミナルからOmegaTを起動するための構文は次のとおりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The syntax used to specify the location of an application or folder depends on the platform.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124419Z" creationid="miurahr" creationdate="20221023T124419Z">
+        <seg>プログラムまたはフォルダーの位置を指定するために使用される構文は、プラットフォームによって異なります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55778,6 +55914,15 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130313T065109Z">
         <seg>このメーリングリストは、OmegaT のローカライザー（地域化作業者）用です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This makes it easy to perform certain tasks that would be difficult to perform using a graphical interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T124416Z" creationid="miurahr" creationdate="20221023T124416Z">
+        <seg>これにより、グラフィカルインターフェースを使用して実行することが困難な特定のタスクを簡単に実行できます。</seg>
       </tuv>
     </tu>
     <tu>
