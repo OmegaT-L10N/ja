@@ -11295,6 +11295,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alongside an existing version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T025943Z" creationid="Hiroshi Miura" creationdate="20221023T024744Z">
+        <seg>既存のバージョンと併存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130309T145508Z">
@@ -21854,6 +21862,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Follow your system’s instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024056Z" creationid="Hiroshi Miura" creationdate="20221023T024056Z">
+        <seg>システムの指示に従って、選択した便利な場所にOmegaTショートカットをインストールします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Font</seg>
       </tuv>
@@ -26256,6 +26273,15 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144054Z" creationid="miurahr" creationdate="20201101T144054Z">
         <seg>たとえば、翻訳の途中で分節化を文単位から段落単位に変更しても、そのプロジェクトの内部翻訳メモリは何も変わりません。OmegaT は段落単位でしか分節化できなかった旧形式の翻訳メモリをアップグレードできますが、その逆はできないのです。ただし OmegaT は、文単位の既存の翻訳を結合して、段落単位の参考訳文を作ることはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you decide to install a new version, keep the following in mind:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024238Z" creationid="Hiroshi Miura" creationdate="20221023T024238Z">
+        <seg>新しいバージョンをインストールする場合は、次の点に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35392,6 +35418,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT can tell you when a new version is available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024101Z" creationid="Hiroshi Miura" creationdate="20221023T024101Z">
+        <seg>OmegaTは、新しいバージョンが利用可能になったときに通知します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT classic theme</seg>
       </tuv>
@@ -36048,6 +36083,15 @@ selecting, obtaining and installing it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT projects are &lt;e1&gt;not&lt;/e1&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024529Z" creationid="Hiroshi Miura" creationdate="20221023T024529Z">
+        <seg>OmegaTプロジェクトは、OmegaT内に格納&lt;e1&gt;されません&lt;/e1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
@@ -36521,6 +36565,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130305T154841Z">
         <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;e0&gt;not&lt;/e0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024252Z" creationid="Hiroshi Miura" creationdate="20221023T024252Z">
+        <seg>OmegaTの環境設定は構成フォルダに格納され、新しいバージョンによって変更されることは&lt;e0&gt;ありません&lt;/e0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37947,6 +38000,15 @@ install the Oracle JRE on your own.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024631Z" creationid="Hiroshi Miura" creationdate="20221023T024631Z">
+        <seg>既存のバージョンを上書き</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Overlapping is the result of bad manipulations of tag pairs and is guaranteed to result in formatting corruption and sometimes in the translated file not opening at all.</seg>
       </tuv>
@@ -38188,6 +38250,15 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T163522Z">
         <seg>段落、セクション、表は bidi に設定されます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; for &lt;l1/&gt; and the &lt;f2&gt;Configuration.properties&lt;/f2&gt; and &lt;f3&gt;Info.plist&lt;/f3&gt; files for &lt;l4/&gt; packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024608Z" creationid="Hiroshi Miura" creationdate="20221023T024608Z">
+        <seg>ダウンロードしたOmegaTパッケージに含まれるパラメータファイル(特に&lt;l1/&gt;の&lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;、および&lt;l4/&gt;パッケージの&lt;f2&gt;Configuration.properties&lt;/f2&gt;および&lt;f3&gt;Info.plist&lt;/f3&gt;ファイル)は上書きまたは削除される可能性があるため、これらのファイルを使用してOmegaTの起動パラメータを変更している場合は、アップグレードの前にバックアップを作成することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39859,6 +39930,15 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130309T013502Z">
         <seg>プロジェクトは、自分のニーズと開発スタイルに合わせて管理できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;e0&gt;not&lt;/e0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024517Z" creationid="Hiroshi Miura" creationdate="20221023T024256Z">
+        <seg>過去に作成したプロジェクトや現在使用しているプロジェクトは、&lt;e0&gt;変更または削除されません&lt;/e0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47703,6 +47783,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024627Z" creationid="Hiroshi Miura" creationdate="20221023T024627Z">
+        <seg>&lt;f0&gt;plugins&lt;/f0&gt;および&lt;f1&gt;scripts&lt;/f1&gt;フォルダは上書きされる可能性があるため、アップグレードする前にバックアップを作成することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124706Z" creationid="Hiroshi Miura" creationdate="20220830T124706Z">
@@ -48689,6 +48777,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060742Z" creationid="miurahr" creationdate="20201115T060742Z">
         <seg>変更が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;u0&gt;change.txt&lt;/u0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024232Z" creationid="Hiroshi Miura" creationdate="20221023T024232Z">
+        <seg>現在のバージョンから現在のバージョンへの変更は、開発サイトの&lt;u0&gt;changes.txt&lt;/u0&gt;ファイルに文書化されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52292,6 +52388,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024740Z" creationid="Hiroshi Miura" creationdate="20221023T024740Z">
+        <seg>「古い」バージョンの OmegaT は上書きされますが、OmegaTのインターフェースからの個人設定は、さまざまな構成フォルダに保持されます(上記参照)。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -52797,6 +52901,15 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T031108Z">
         <seg>タグは保護されます。したがってタグの中身を書き換えることはできません。しかしタグごと削除したり、手入力したり、移動したりすることはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024557Z" creationid="Hiroshi Miura" creationdate="20221023T024557Z">
+        <seg>これらは、OmegaTアプリケーション自体に物理的に接続されていない独立したオブジェクトです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53341,6 +53454,15 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T041626Z" creationid="miurahr" creationdate="20201115T041626Z">
         <seg>&lt;f1&gt;OmegaT&lt;/f1&gt; フォルダーが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This creates a folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024053Z" creationid="Hiroshi Miura" creationdate="20221023T024053Z">
+        <seg>これにより、OmegaTの実行に必要なすべてのファイルを含むフォルダーが作成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54429,6 +54551,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will enable you to keep any number of versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024809Z" creationid="Hiroshi Miura" creationdate="20221023T024809Z">
+        <seg>この方法を使うと、古いバージョンと新しいバージョンを共存させることができます。新しいバージョンに慣れるまでは、古いバージョンも使い続けたいという場合に、適しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210103T091726Z" creationid="miurahr" creationdate="20201115T042902Z">
@@ -55059,6 +55189,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150521T035749Z" creationid="Yu-Tang" creationdate="20150521T035749Z">
         <seg>指定方法については、OmegaT ランチャーを編集するか、&lt;l1&gt;OmegaT のインストールと実行&lt;/l1&gt;を参照してコマンドライン指定で起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024640Z" creationid="Hiroshi Miura" creationdate="20221023T024640Z">
+        <seg>これを行うには、新しいバージョンをインストールするときに、既存のインストールと同じインストールフォルダを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57307,6 +57446,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T164020Z">
         <seg>用語集ファイルの更新は、とても簡単です。&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; を押して、新しい用語、その訳文、任意のコメントを入力（入力欄は TAB キーで移動できます）し、保存するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024058Z" creationid="Hiroshi Miura" creationdate="20221023T024058Z">
+        <seg>アップグレード</seg>
       </tuv>
     </tu>
     <tu>
@@ -65012,6 +65160,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140433Z" creationid="suzume" creationdate="20201122T140433Z">
         <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024103Z" creationid="Hiroshi Miura" creationdate="20221023T024103Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt</seg>
       </tuv>
     </tu>
     <tu>
