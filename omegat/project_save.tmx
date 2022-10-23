@@ -171,6 +171,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120212Z" creationid="miurahr" creationdate="20221023T120212Z">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
       </tuv>
@@ -12429,6 +12437,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120201Z" creationid="miurahr" creationdate="20221023T120201Z">
+        <seg>以下の&lt;l0&gt;編集メニュー表&lt;/l0&gt;に示すように、&lt;g1&gt;[例外訳文の作成]&lt;/g1&gt;の機能コードは&lt;c2&gt;editMultipleAlternate&lt;/c2&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>As soon as you save the modifications you have made to any glossary, they will be taken into account by OmegaT and term matches will be automatically displayed in the &lt;l0/&gt; pane.</seg>
@@ -17761,6 +17777,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T030002Z" creationid="Hiroshi Miura" creationdate="20221023T030002Z">
         <seg>OmegaTの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120227Z" creationid="miurahr" creationdate="20221023T120227Z">
+        <seg>行の先頭の&lt;c0&gt;#&lt;/c0&gt;を削除して、OmegaTがショートカットを認識できるようにし、行の最後の&lt;c2&gt;=&lt;/c2&gt;記号の後に&lt;o1&gt;alt X&lt;/o1&gt;を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27095,8 +27120,8 @@ installation program can create shortcuts to launch OmegaT.</seg>
       <tuv lang="en">
         <seg>If your language pair calls for the frequent use &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221023T115932Z" creationid="miurahr" creationdate="20221023T115932Z">
-        <seg>言語ペアが&lt;l0&gt;代替翻訳&lt;/l0&gt;を頻繁に使用する必要がある場合に、デフォルトでは有効ではないため、その機能へショートカットを割り当てたいと思うでしょう。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115953Z" creationid="miurahr" creationdate="20221023T115932Z">
+        <seg>言語ペアが&lt;l0&gt;代替翻訳&lt;/l0&gt;を頻繁に使用する必要がある場合に、デフォルトのショートカットが無いため、ショートカットを割り当てたいと思うでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37631,6 +37656,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to &lt;l1&gt;your configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120101Z" creationid="miurahr" creationdate="20221023T120101Z">
+        <seg>&lt;l1&gt;構成フォルダー&lt;/l1&gt;にコピーした&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;をテキストエディターで開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Scripting window</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T055529Z" creationid="miurahr" creationdate="20201115T055529Z">
@@ -43235,6 +43268,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T150845Z">
         <seg>文字列「&lt;l0&gt;open file&lt;/l0&gt;」を検索した場合、「&lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;」とは一致しますが、「&lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt;」や「&lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;」とは一致しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Searching for that code in the file will bring you to the following line:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120210Z" creationid="miurahr" creationdate="20221023T120210Z">
+        <seg>ファイル内でそのコードを検索すると、次の行が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50525,6 +50567,15 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The line is currently a comment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120215Z" creationid="miurahr" creationdate="20221023T120215Z">
+        <seg>この行は現在コメントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
       </tuv>
@@ -52243,6 +52294,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T044041Z">
         <seg>メインウィンドウの底部にあるステータスバーには、実行中の処理についてのメッセージが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt; function.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120001Z" creationid="miurahr" creationdate="20221023T115937Z">
+        <seg>以下の手順は、&lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt;ショートカットを&lt;l3/&gt;関数に割り当てる方法を示しています。</seg>
       </tuv>
     </tu>
     <tu>
