@@ -23,7 +23,7 @@ jobs:
           exit 0
 
   progress-translation:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     needs: check_latest
     if: ${{ needs.check_latest.outputs.should_run != 'false' }}
     name: Check translation progress
