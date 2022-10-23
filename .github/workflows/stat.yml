@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - master
-  pull_request:
-    branches:
-      - master
+    paths:
+      - omegat/project_save.tmx
+  workflow_dispach:
 
 jobs:
   progress-translation:
