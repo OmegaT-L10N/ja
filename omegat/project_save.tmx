@@ -10803,6 +10803,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>After the unpacking or installation is complete, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023050Z" creationid="Hiroshi Miura" creationdate="20221023T023050Z">
+        <seg>解凍またはインストールが完了したら、ダウンロードしたファイルは不要になったため削除できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
@@ -11425,6 +11434,15 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T002643Z" creationid="Hiroshi Miura" creationdate="20221022T002643Z">
         <seg>最も単純な正規表現(&lt;e0&gt;regex&lt;/e0&gt;または&lt;e1&gt;regexp&lt;/e1&gt;と略されることが多い)でさえ、気が遠く複雑に見えますが、OmegaTだけでなく、日常的に使用する他の多くのアプリケーションでも非常に役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023029Z" creationid="Hiroshi Miura" creationdate="20221023T023029Z">
+        <seg>使用可能なファイルからOmegaTを直接実行することもできますが、そこにある&lt;f0&gt;linux-install.sh&lt;/f0&gt;スクリプトを実行して、OmegaTをより適切な場所にインストールすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16211,6 +16229,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023251Z" creationid="Hiroshi Miura" creationdate="20221023T023251Z">
+        <seg>このフォルダーを適切な場所（&lt;f3&gt;Applications&lt;/f3&gt;フォルダなど）へコピーしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054526Z" creationid="miurahr" creationdate="20201115T054526Z">
@@ -18745,6 +18771,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Double click on the package you downloaded to unpack it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023058Z" creationid="Hiroshi Miura" creationdate="20221023T023058Z">
+        <seg>ダウンロードしたパッケージをダブルクリックして解凍します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
@@ -18940,6 +18975,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the &lt;e0&gt;Cross-platform without JRE&lt;/e0&gt; version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023413Z" creationid="Hiroshi Miura" creationdate="20221023T023413Z">
+        <seg>&lt;e0&gt;クロスプラットフォーム(JRE無し)&lt;/e0&gt;バージョンをダウンロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T061053Z">
@@ -19064,6 +19107,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150521T053406Z" creationid="Yu-Tang" creationdate="20150521T030904Z">
         <seg>プロジェクトに追加したい用語集ファイルをここにドラッグしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Java runtime Eclipse Temurin provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T022958Z" creationid="Hiroshi Miura" creationdate="20221023T022958Z">
+        <seg>OmegaTチームはOmegaTチームはEclipse FoundationのAdoptium Projectが提供するJavaランタイムEclipse Temurinを推奨していますが、Java 8互換のランタイム環境であればどれでも動作するはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20384,6 +20436,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T134013Z">
         <seg>イベント：プロジェクトの変更 - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eventually, drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock to easily access it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023333Z" creationid="Hiroshi Miura" creationdate="20221023T023333Z">
+        <seg>最終的には、&lt;f0&gt;OmegaT.app&lt;/f0&gt; ファイルをドックへドラッグ＆ドロップして、簡単にアクセスできるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25722,6 +25782,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023044Z" creationid="Hiroshi Miura" creationdate="20221023T023044Z">
+        <seg>存在しない場合は、&lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt;にプログラムをインストールし、デフォルトバージョンとして設定します(&lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
@@ -26332,8 +26401,8 @@ OmegaT is to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you have defined project specific settings here, they will supercede any modifications you make to the global settings and the latter will not be taken into account in your project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T132406Z" creationid="Hiroshi Miura" creationdate="20221022T132406Z">
-        <seg>If you have defined project specific settings here, they will supercede any modifications you make to the global settings and the latter will not be taken into account in your project.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T022657Z" creationid="Hiroshi Miura" creationdate="20221022T132406Z">
+        <seg>ここでプロジェクト専用の設定を定義した場合、それらの設定はユーザーレベルに対する変更より優先され、ユーザーレベル設定はプロジェクトでは考慮されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30953,6 +31022,15 @@ Launch OmegaT as follows.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Linux distributions offer OmegaT packages with semi-automated installation processes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023004Z" creationid="Hiroshi Miura" creationdate="20221023T023004Z">
+        <seg>Linuxディストリビューションでは、インストール・プロセスが半自動化されたOmegaTパッケージが提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Linux on PowerPC systems: 
 Users will need to download IBM's JRE, as Sun does 
@@ -35061,6 +35139,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT 5.8.0 and later also support Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T022843Z" creationid="Hiroshi Miura" creationdate="20221023T022843Z">
+        <seg>OmegaT 5.8.0以降では、すべてのプラットフォームでJava 11 Runtime Environmentもサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT 5.8.0 requires a Java 8 Runtime Environment (JRE) to run.</seg>
@@ -36515,6 +36602,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>On other platforms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023346Z" creationid="Hiroshi Miura" creationdate="20221023T023346Z">
+        <seg>その他のシステム</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
@@ -36704,6 +36800,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T041747Z" creationid="miurahr" creationdate="20201115T041747Z">
         <seg>ここまでくれば、&lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;ファイルを削除してもかまいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023341Z" creationid="Hiroshi Miura" creationdate="20221023T023341Z">
+        <seg>ダウンロードしたファイルは不要になったため、削除することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47336,6 +47441,24 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>That folder contains all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023024Z" creationid="Hiroshi Miura" creationdate="20221023T023024Z">
+        <seg>このフォルダーには、OmegaTの実行に必要なすべてのファイルが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>That includes the platforms described above, but also the platforms for which specific packages are not provided.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023356Z" creationid="Hiroshi Miura" creationdate="20221023T023356Z">
+        <seg>これには、上記のプラットフォームだけでなく、特定のパッケージが提供されていないプラットフォームも含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>That is the reason why exception rules must come before segmentation rules.</seg>
@@ -47829,6 +47952,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T012315Z" creationid="Hiroshi Miura" creationdate="20221022T012254Z">
         <seg>ドル記号: &lt;l0&gt;$&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023426Z" creationid="Hiroshi Miura" creationdate="20221023T023426Z">
+        <seg>Eclipse Foundationは&lt;u0/&gt;では、多くのシステムにOpenJDK Runtime Environments JREを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49416,6 +49547,14 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user guide index) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023208Z" creationid="Hiroshi Miura" creationdate="20221023T023208Z">
+        <seg>このフォルダには、&lt;f2&gt;index.html&lt;/f2&gt;(ユーザガイドのインデックス)と&lt;f1&gt;OmegaT.app&lt;/f1&gt;(アプリケーション)の2つのファイルが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>The folder structure will reflect the copied contents and files that are not supported by OmegaT’s file filters will be copied without modifications.</seg>
@@ -49800,6 +49939,15 @@ in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061901Z" creationid="miurahr" creationdate="20201101T061901Z">
         <seg>インストーラーは、スタートメニュー、デスクトップ、およびクイック起動領域にショートカットを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;u0&gt;https://omegat.org&lt;/u0&gt; site.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023012Z" creationid="Hiroshi Miura" creationdate="20221023T023012Z">
+        <seg>ここに記載されている手順は、&lt;u0&gt;https://omegat.org&lt;/u0&gt;のサイトからパッケージをダウンロードする人に適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53181,10 +53329,27 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023111Z" creationid="Hiroshi Miura" creationdate="20221023T023111Z">
+        <seg>&lt;f0&gt;OmegaT&lt;/f0&gt; フォルダーが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T041626Z" creationid="miurahr" creationdate="20201115T041626Z">
         <seg>&lt;f1&gt;OmegaT&lt;/f1&gt; フォルダーが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This creates a new folder named after the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023020Z" creationid="Hiroshi Miura" creationdate="20221023T023020Z">
+        <seg>これにより、ダウンロードしたパッケージの名前が付いた新しいフォルダが作成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53478,6 +53643,15 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T191433Z">
         <seg>この情報は「通常の」Windows 版 OmegaT のみを対象としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This information applies to all systems that have a Java version compatible with Java 8 Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023353Z" creationid="Hiroshi Miura" creationdate="20221023T023353Z">
+        <seg>この情報は、Java 8 Runtime Environmentと互換性のあるJavaバージョンを持つすべてのシステムに適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56962,11 +57136,29 @@ file and the OmegaT application.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Unpack the file that you downloaded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023437Z" creationid="Hiroshi Miura" creationdate="20221023T023437Z">
+        <seg>ダウンロードしたファイルを解凍します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T202927Z">
         <seg>ダウンロードしたファイルを展開（unpack/untar）してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Unpack/untar the file you downloaded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023014Z" creationid="Hiroshi Miura" creationdate="20221023T023014Z">
+        <seg>ダウンロードしたファイルを解凍します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64636,6 +64828,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://adoptium.net/temurin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023416Z" creationid="Hiroshi Miura" creationdate="20221023T023416Z">
+        <seg>https://adoptium.net/temurin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T100703Z" creationid="Yu-Tang" creationdate="20141201T100703Z">
@@ -64648,6 +64848,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T151742Z">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/?license=IBM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023427Z" creationid="Hiroshi Miura" creationdate="20221023T023427Z">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/?license=IBM</seg>
       </tuv>
     </tu>
     <tu>
