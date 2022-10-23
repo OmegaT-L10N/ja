@@ -2940,6 +2940,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131408Z" creationid="miurahr" creationdate="20221023T131408Z">
+        <seg>--config-dir=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140257Z" creationid="suzume" creationdate="20201122T140257Z">
@@ -2971,6 +2979,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160704T085651Z" creationid="Kasuya" creationdate="20160704T085651Z">
         <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131419Z" creationid="miurahr" creationdate="20221023T131419Z">
+        <seg>--config-file=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3074,6 +3090,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140300Z" creationid="suzume" creationdate="20201122T140300Z">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console mode name]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131522Z" creationid="miurahr" creationdate="20221023T131522Z">
+        <seg>--mode=[console mode name]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3351,6 +3375,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T131206Z" creationid="miurahr" creationdate="20221023T131206Z">
         <seg>--remote-project &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131504Z" creationid="miurahr" creationdate="20221023T131504Z">
+        <seg>--resource-bundle=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9555,6 +9587,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T065606Z" creationid="Yu-Tang" creationdate="20160212T021511Z">
         <seg>インターフェースのローカライズに使用されるJava .properties
 		ファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A Java .properties file to use for interface text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131549Z" creationid="miurahr" creationdate="20221023T131520Z">
+        <seg>UIの地域化に使用されるJava .propertiesファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18984,6 +19024,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Do not lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131317Z" creationid="miurahr" creationdate="20221023T131317Z">
+        <seg>プロジェクトの omegat.project ファイルをロックしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Do not remember the last directory opened in the file picker.</seg>
       </tuv>
@@ -22650,6 +22699,15 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140330T035732Z">
         <seg>検索結果の分節間を移動しやすいように、編集ウィンドウに対して検索フィルターをかけることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>For ex:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131459Z" creationid="miurahr" creationdate="20221023T131459Z">
+        <seg>たとえば：</seg>
       </tuv>
     </tu>
     <tu>
@@ -38011,6 +38069,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On some platforms, the omegat.project file is locked by default and attempting to open an already open project in another instance of OmegaT results in an error.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131329Z" creationid="miurahr" creationdate="20221023T131329Z">
+        <seg>一部のプラットフォームでは、OmegaT.projectファイルがデフォルトではロックされているため、既に開いているプロジェクトをOmegaTの別のインスタンスで開こうとするとエラーが発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T103035Z">
@@ -47385,6 +47451,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a source- or target-language tokenizer (using this option overrides project settings).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131407Z" creationid="miurahr" creationdate="20221023T131407Z">
+        <seg>原文言語または訳文言語のトークナイザーを指定します(この設定を使用すると、プロジェクトの設定が上書きされます)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T143700Z" creationid="miurahr" creationdate="20201101T143700Z">
@@ -51073,6 +51147,15 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The directory used to read and write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131419Z" creationid="miurahr" creationdate="20221023T131419Z">
+        <seg>OmegaT の各種設定ファイルを入出力するフォルダーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
@@ -52001,6 +52084,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T124631Z" creationid="miurahr" creationdate="20221023T124631Z">
         <seg>以下のリストは、OmegaTで作業するときに役立つ&lt;c0&gt;java&lt;/c0&gt;のパラメータを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list can include Java options as well as OmegaT options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131452Z" creationid="miurahr" creationdate="20221023T131452Z">
+        <seg>このリストには、JavaオプションとOmegaTオプションを含めることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53452,6 +53543,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124649Z" creationid="Hiroshi Miura" creationdate="20220830T124649Z">
         <seg>&lt;e0&gt;繰り返しを除いた&lt;/e0&gt;分節数とは、すべての分節から重複するものを除いて数えた合計です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The settings are a list of items that can be written in the form &lt;p0&gt;key=value&lt;/p0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131443Z" creationid="miurahr" creationdate="20221023T131422Z">
+        <seg>設定は、&lt;p0&gt;キー=値&lt;/p0&gt;の形式で記述できる項目のリストです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56338,6 +56438,15 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061658Z" creationid="miurahr" creationdate="20201115T061658Z">
         <seg>このオプションは、選択した両方のファイルがKey=Valueファイルとして認識される場合にのみ表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This option prevents that error.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131334Z" creationid="miurahr" creationdate="20221023T131334Z">
+        <seg>この設定はそのエラーを防止します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67132,6 +67241,15 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131503Z" creationid="miurahr" creationdate="20221023T131503Z">
+        <seg>…などです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>etc...</seg>
       </tuv>
@@ -73144,6 +73262,16 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T183452Z">
         <seg>ユーザー デフォルトの分節化規則です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user.language=fr
+config-dir="path/to/new/configdir"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T131459Z" creationid="miurahr" creationdate="20221023T131459Z">
+        <seg>user.language=fr
+config-dir="path/to/new/configdir"</seg>
       </tuv>
     </tu>
     <tu>
