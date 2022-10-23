@@ -10638,6 +10638,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding a shortcut</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115756Z" creationid="miurahr" creationdate="20221023T115756Z">
+        <seg>ショートカットの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding new source files</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233724Z" creationid="miurahr" creationdate="20201106T233724Z">
@@ -24586,6 +24594,15 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115659Z" creationid="miurahr" creationdate="20221023T115659Z">
+        <seg>ただし、ショートカットから&lt;k0&gt;S&lt;/k0&gt;キーを削除して、&lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt;(または&lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt;(macOSの場合))して、他のアプリケーションで使用するショートカットと一致させることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
@@ -27072,6 +27089,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T202332Z">
         <seg>既存の OmegaT が「Windows with JRE」バージョンの場合は、新しいバージョンも「Windows with JRE」でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your language pair calls for the frequent use &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115932Z" creationid="miurahr" creationdate="20221023T115932Z">
+        <seg>言語ペアが&lt;l0&gt;代替翻訳&lt;/l0&gt;を頻繁に使用する必要がある場合に、デフォルトでは有効ではないため、その機能へショートカットを割り当てたいと思うでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55567,6 +55592,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To do so, modify the &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115733Z" creationid="miurahr" creationdate="20221023T115733Z">
+        <seg>そのためには、&lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;ファイルを次のように変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -66074,6 +66107,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>in Windows or Linux, or</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115744Z" creationid="miurahr" creationdate="20221023T115744Z">
+        <seg>WindowsとLinux、および</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>in regular expressions</seg>
       </tuv>
@@ -67706,6 +67748,23 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>on Windows and Linux, and as</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115635Z" creationid="miurahr" creationdate="20221023T115635Z">
+        <seg>WindowsとLinux、および</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on macOS.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115650Z" creationid="miurahr" creationdate="20221023T115650Z">
+        <seg>macOSで</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
@@ -68217,6 +68276,38 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T141037Z">
         <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115734Z" creationid="miurahr" creationdate="20221023T115734Z">
+        <seg>projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115631Z" creationid="miurahr" creationdate="20221023T115631Z">
+        <seg>projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta W</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115744Z" creationid="miurahr" creationdate="20221023T115744Z">
+        <seg>projectCloseMenuItem=meta W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta shift W</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T115637Z" creationid="miurahr" creationdate="20221023T115637Z">
+        <seg>projectCloseMenuItem=meta shift W</seg>
       </tuv>
     </tu>
     <tu>
