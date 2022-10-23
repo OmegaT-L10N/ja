@@ -10495,6 +10495,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added items are automatically recognized and displayed if they match terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020019Z" creationid="Hiroshi Miura" creationdate="20221023T020019Z">
+        <seg>追加された項目は、現在の分節内の用語と一致する場合に自動的に認識され、表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20131210T180020Z">
@@ -17765,6 +17773,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Dictionaries Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020035Z" creationid="Hiroshi Miura" creationdate="20221023T020035Z">
+        <seg>辞書フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Dictionaries Folder:</seg>
@@ -20787,6 +20803,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T083653Z" creationid="Hiroshi Miura" creationdate="20220830T083653Z">
         <seg>翻訳メモリを出力するフォルダー {0} は存在していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exported Translation Memories Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020629Z" creationid="Hiroshi Miura" creationdate="20221023T020629Z">
+        <seg>翻訳メモリ出力フォルダー：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36155,6 +36179,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will consider that this folder contains the files that you want to use as reference dictionaries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020053Z" creationid="Hiroshi Miura" creationdate="20221023T020053Z">
+        <seg>OmegaTは、このフォルダに辞書として利用するファイルを期待します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will consider that this folder contains the files that you want to use as reference glossaries.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015513Z" creationid="Hiroshi Miura" creationdate="20221023T015513Z">
@@ -42831,12 +42863,12 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>See &lt;l2/&gt; for details.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T033858Z" creationid="Hiroshi Miura" creationdate="20221022T033858Z">
-        <seg>See &lt;l2/&gt; for details.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020608Z" creationid="Hiroshi Miura" creationdate="20221022T033858Z">
+        <seg>詳細は&lt;l2/&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48147,6 +48179,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX files will contain only the segments that have been translated at the moment the translated files have been created with &lt;l0/&gt; or &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020742Z" creationid="Hiroshi Miura" creationdate="20221023T020742Z">
+        <seg>TMXファイルには、変換後のファイルが&lt;l0/&gt;または&lt;l1/&gt;で作成された時点での、翻訳済みの分節のみが含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T173004Z">
@@ -49295,6 +49335,15 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T165426Z">
         <seg>フォルダーには２つのファイルが含まれています。index.html と &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app&lt;/e3&gt; です。このフォルダーを適切な場所（アプリケーションフォルダなど）へコピーしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The folder structure will reflect the copied contents and files that are not supported by OmegaT’s file filters will be copied without modifications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020539Z" creationid="Hiroshi Miura" creationdate="20221023T020539Z">
+        <seg>フォルダー構造はコピーされた内容を反映し、OmegaTのファイルフィルターでサポートされていないファイルは変更されずにコピーされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52009,12 +52058,11 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>The writeable glossary if the file that OmegaT will use when you want to add translated glossary terms to your project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015817Z" creationid="Hiroshi Miura" creationdate="20221023T015817Z">
-        <seg>翻訳された用語集をプロジェクトに追加するときにOmegaTが使用するファイルの書き込み可能な用語集。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020002Z" creationid="Hiroshi Miura" creationdate="20221023T015817Z">
+        <seg>OmegaTで編集中に、用語を追加する書き込み可能な用語集ファイル。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53244,6 +53292,22 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T080439Z">
         <seg>このフォルダーは、最初は空の状態です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is the place where OmegaT will copy the contents of the &lt;l0/&gt; folder where all the translated segments will be replaced by their translation and the non-translated segments will be kept in the original language.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020523Z" creationid="Hiroshi Miura" creationdate="20221023T020523Z">
+        <seg>このフォルダーは、OmegaTが&lt;l0/&gt;フォルダーの内容をコピーする場所です。このフォルダーでは、すべての翻訳済みの分節は訳文に置き換えられ、未翻訳の分節は原文で保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is the place where OmegaT will copy the current state of the translation in the form of TMX files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020653Z" creationid="Hiroshi Miura" creationdate="20221023T020653Z">
+        <seg>このフォルダーは、OmegaTが翻訳の現在の状態をTMXファイル形式で出力する場所です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55981,6 +56045,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Translation memories to export</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020746Z" creationid="Hiroshi Miura" creationdate="20221023T020746Z">
+        <seg>エクスポートする翻訳メモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translation memories to export:</seg>
       </tuv>
@@ -57225,6 +57298,23 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124536Z" creationid="Hiroshi Miura" creationdate="20220830T124536Z">
         <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt;で開き、&lt;k3&gt;Esc&lt;/k3&gt;で閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020556Z" creationid="Hiroshi Miura" creationdate="20221023T020556Z">
+        <seg>&lt;l0/&gt;または&lt;l1/&gt;を使用して、翻訳されたファイルを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to add a term.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020007Z" creationid="Hiroshi Miura" creationdate="20221023T015820Z">
+        <seg>&lt;l0/&gt;を使用して用語を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69499,6 +69589,28 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T054726Z" creationid="suzume" creationdate="20200119T054726Z">
         <seg>単語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/Dialogs_ProjectProperties.xml</prop>
+      <prop type="prev">OmegaT will consider that this folder contains the files that you want to use as reference dictionaries.</prop>
+      <prop type="next">See &lt;l0/&gt; for details.</prop>
+      <tuv lang="en">
+        <seg>It will try to read all the files at once, and will match their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020124Z" creationid="Hiroshi Miura" creationdate="20221023T020124Z">
+        <seg>すべてのファイルを一度に読み取り、翻訳したい分節に対する検索を行ないます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/Dialogs_ProjectProperties.xml</prop>
+      <prop type="prev">OmegaT will consider that this folder contains the files that you want to use as reference glossaries.</prop>
+      <prop type="next">See &lt;l0/&gt; for details.</prop>
+      <tuv lang="en">
+        <seg>It will try to read all the files at once, and will match their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020153Z" creationid="Hiroshi Miura" creationdate="20221023T020153Z">
+        <seg>すべてのファイルを一度に読み取り、翻訳したい分節に対する検索を行ないます。</seg>
       </tuv>
     </tu>
     <tu>
