@@ -18,7 +18,7 @@ jobs:
       - name: check latest commit less than a day
         id: should_run
         continue-on-error: true
-        run: test -z "$(git rev-list --after='24 hours' ${{ github.sha }})" && echo "::set-output name=should_run::false"
+        run: test -z "$(git rev-list --after='24 hours' ${{ github.sha }})" && echo "should_run=false" >> $GITHUB_OUTPUT
 
   progress-translation:
     runs-on: ubuntu-latest
@@ -48,4 +48,3 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           min-coverage: 80.0
-          target-coverage: 99.0
