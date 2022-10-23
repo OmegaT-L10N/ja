@@ -10954,6 +10954,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Agressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120639Z" creationid="miurahr" creationdate="20221023T120639Z">
+        <seg>Agressive Font Fallback</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Akan</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T022838Z">
@@ -10998,6 +11006,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T081846Z" creationid="amake" creationdate="20170128T142938Z">
         <seg>整合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align File...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120656Z" creationid="miurahr" creationdate="20221023T120656Z">
+        <seg>ファイルを整列...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12758,6 +12774,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T184414Z">
         <seg>入力補完→用語集...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/History Completion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120831Z" creationid="miurahr" creationdate="20221023T120831Z">
+        <seg>Auto-completion/History Completion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/History Prediction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120834Z" creationid="miurahr" creationdate="20221023T120834Z">
+        <seg>Auto-completion/History Prediction</seg>
       </tuv>
     </tu>
     <tu>
@@ -18139,6 +18171,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T212006Z">
         <seg>辞書ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary/Use Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120753Z" creationid="miurahr" creationdate="20221023T120713Z">
+        <seg>辞書/辞書項目の照合にトークナイザーを使う</seg>
       </tuv>
     </tu>
     <tu>
@@ -23744,6 +23784,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary/Use Fuzzy Matching for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120807Z" creationid="miurahr" creationdate="20221023T120711Z">
+        <seg>用語集/用語の照合にトークナイザーを使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary/Use Stemming for Glossary Entries</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T041018Z" creationid="miurahr" creationdate="20201101T041018Z">
@@ -28550,6 +28598,51 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120608Z" creationid="miurahr" creationdate="20221023T120608Z">
+        <seg>Unicode制御文字/左から右への埋め込みの挿入(LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120558Z" creationid="miurahr" creationdate="20221023T120558Z">
+        <seg>Unicode制御文字/左から右へのマークの挿入(LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120621Z" creationid="miurahr" creationdate="20221023T120621Z">
+        <seg>Unicode制御文字/ポップ方向フォーマットの挿入(PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120612Z" creationid="miurahr" creationdate="20221023T120612Z">
+        <seg>Unicode制御文字/右から左への埋め込みの挿入(RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120603Z" creationid="miurahr" creationdate="20221023T120603Z">
+        <seg>Unicode制御文字/右から左への記号の挿入(RLM U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Insert match</seg>
       </tuv>
@@ -29381,6 +29474,15 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T074159Z">
         <seg>そして自由なソフトウェアです。これはたとえ商用利用であっても、利用料を支払う必要が無いということを意味しています。ユーザーライセンスを遵守すれば、改変や再配布も自由に行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>It is not possible to add a shortcut to call the script editor, or to modify the shortcuts assigned to the scripts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120707Z" creationid="miurahr" creationdate="20221023T120707Z">
+        <seg>ショートカットを追加してスクリプト編集を呼び出したり、スクリプトに割り当てられたショートカットを変更したりすることはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31903,6 +32005,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translate/Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120826Z" creationid="miurahr" creationdate="20221023T120711Z">
+        <seg>機械翻訳/翻訳を自動的に取得する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T132750Z">
@@ -32487,6 +32597,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T024310Z">
         <seg>ノーブレークスペースを色付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120636Z" creationid="miurahr" creationdate="20221023T120636Z">
+        <seg>Mark Paragraph Delimitations</seg>
       </tuv>
     </tu>
     <tu>
@@ -33172,6 +33290,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T164328Z">
         <seg>更新情報を表示 / 現在の分節で表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification Info/Display for Current Segment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120640Z" creationid="miurahr" creationdate="20221023T120640Z">
+        <seg>Modification Info/Display for Current Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -48353,6 +48479,15 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120701Z" creationid="miurahr" creationdate="20221023T120701Z">
+        <seg>&lt;l1/&gt;メニューの&lt;l0/&gt;項目は例外です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -58820,6 +58955,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User Guide...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120841Z" creationid="miurahr" creationdate="20221023T120841Z">
+        <seg>User Guide...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User Manual...</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130124T154620Z">
@@ -64106,10 +64249,58 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120549Z" creationid="miurahr" creationdate="20221023T120549Z">
+        <seg>ctrl 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120549Z" creationid="miurahr" creationdate="20221023T120549Z">
+        <seg>ctrl 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120550Z" creationid="miurahr" creationdate="20221023T120550Z">
+        <seg>ctrl 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120551Z" creationid="miurahr" creationdate="20221023T120551Z">
+        <seg>ctrl 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120552Z" creationid="miurahr" creationdate="20221023T120552Z">
+        <seg>ctrl 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl D</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120454Z" creationid="miurahr" creationdate="20221023T120454Z">
         <seg>ctrl D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl DOWN</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120548Z" creationid="miurahr" creationdate="20221023T120548Z">
+        <seg>ctrl DOWN</seg>
       </tuv>
     </tu>
     <tu>
@@ -64138,6 +64329,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl J</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120630Z" creationid="miurahr" creationdate="20221023T120630Z">
+        <seg>ctrl J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl K</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120545Z" creationid="miurahr" creationdate="20221023T120545Z">
+        <seg>ctrl K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl L</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120457Z" creationid="miurahr" creationdate="20221023T120457Z">
@@ -64154,10 +64361,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl N (Enter/Tab)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120628Z" creationid="miurahr" creationdate="20221023T120628Z">
+        <seg>ctrl N (Enter/Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl O</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120447Z" creationid="miurahr" creationdate="20221023T120447Z">
         <seg>ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl P (ctrl Enter / ctrl Tab)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120629Z" creationid="miurahr" creationdate="20221023T120629Z">
+        <seg>ctrl P (ctrl Enter / ctrl Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64194,6 +64417,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl U</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120627Z" creationid="miurahr" creationdate="20221023T120627Z">
+        <seg>ctrl U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl UP</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120548Z" creationid="miurahr" creationdate="20221023T120548Z">
+        <seg>ctrl UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl Y</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120504Z" creationid="miurahr" creationdate="20221023T120504Z">
@@ -64226,6 +64465,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift F</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120544Z" creationid="miurahr" creationdate="20221023T120544Z">
+        <seg>ctrl shift F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift G</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120510Z" creationid="miurahr" creationdate="20221023T120510Z">
@@ -64242,10 +64489,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift M</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120633Z" creationid="miurahr" creationdate="20221023T120633Z">
+        <seg>ctrl shift M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift N</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120445Z" creationid="miurahr" creationdate="20221023T120445Z">
         <seg>ctrl shift N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift P</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120634Z" creationid="miurahr" creationdate="20221023T120634Z">
+        <seg>ctrl shift P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift Q</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120632Z" creationid="miurahr" creationdate="20221023T120632Z">
+        <seg>ctrl shift Q</seg>
       </tuv>
     </tu>
     <tu>
@@ -64258,10 +64529,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift S</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120625Z" creationid="miurahr" creationdate="20221023T120625Z">
+        <seg>ctrl shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift T</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120508Z" creationid="miurahr" creationdate="20221023T120508Z">
         <seg>ctrl shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift U</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120627Z" creationid="miurahr" creationdate="20221023T120627Z">
+        <seg>ctrl shift U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift V</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120641Z" creationid="miurahr" creationdate="20221023T120641Z">
+        <seg>ctrl shift V</seg>
       </tuv>
     </tu>
     <tu>
@@ -64631,6 +64926,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T183758Z">
         <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSearchDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120545Z" creationid="miurahr" creationdate="20221023T120545Z">
+        <seg>editSearchDictionaryMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -66523,6 +66826,46 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>insertCharsLRE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120608Z" creationid="miurahr" creationdate="20221023T120608Z">
+        <seg>insertCharsLRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsLRM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120559Z" creationid="miurahr" creationdate="20221023T120559Z">
+        <seg>insertCharsLRM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsPDF</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120624Z" creationid="miurahr" creationdate="20221023T120624Z">
+        <seg>insertCharsPDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsRLE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120612Z" creationid="miurahr" creationdate="20221023T120612Z">
+        <seg>insertCharsRLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsRLM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120604Z" creationid="miurahr" creationdate="20221023T120604Z">
+        <seg>insertCharsRLM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>io</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -67520,10 +67863,58 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120549Z" creationid="miurahr" creationdate="20221023T120549Z">
+        <seg>meta 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120550Z" creationid="miurahr" creationdate="20221023T120550Z">
+        <seg>meta 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120550Z" creationid="miurahr" creationdate="20221023T120550Z">
+        <seg>meta 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120551Z" creationid="miurahr" creationdate="20221023T120551Z">
+        <seg>meta 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120554Z" creationid="miurahr" creationdate="20221023T120554Z">
+        <seg>meta 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta D</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120454Z" creationid="miurahr" creationdate="20221023T120454Z">
         <seg>meta D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta DOWN</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120548Z" creationid="miurahr" creationdate="20221023T120548Z">
+        <seg>meta DOWN</seg>
       </tuv>
     </tu>
     <tu>
@@ -67552,6 +67943,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta J</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120630Z" creationid="miurahr" creationdate="20221023T120630Z">
+        <seg>meta J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta K</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120545Z" creationid="miurahr" creationdate="20221023T120545Z">
+        <seg>meta K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta L</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120457Z" creationid="miurahr" creationdate="20221023T120457Z">
@@ -67568,10 +67975,26 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta N (Enter/Tab)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120628Z" creationid="miurahr" creationdate="20221023T120628Z">
+        <seg>meta N (Enter/Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta O</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120447Z" creationid="miurahr" creationdate="20221023T120447Z">
         <seg>meta O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta P (meta Enter / shift Tab)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120629Z" creationid="miurahr" creationdate="20221023T120629Z">
+        <seg>meta P (meta Enter / shift Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -67608,6 +68031,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta U</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120627Z" creationid="miurahr" creationdate="20221023T120627Z">
+        <seg>meta U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta UP</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120548Z" creationid="miurahr" creationdate="20221023T120548Z">
+        <seg>meta UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta Y</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120504Z" creationid="miurahr" creationdate="20221023T120504Z">
@@ -67640,6 +68079,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta shift F</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120544Z" creationid="miurahr" creationdate="20221023T120544Z">
+        <seg>meta shift F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift G</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120510Z" creationid="miurahr" creationdate="20221023T120510Z">
@@ -67656,10 +68103,34 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta shift M</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120633Z" creationid="miurahr" creationdate="20221023T120633Z">
+        <seg>meta shift M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift N</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120446Z" creationid="miurahr" creationdate="20221023T120446Z">
         <seg>meta shift N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift P</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120634Z" creationid="miurahr" creationdate="20221023T120634Z">
+        <seg>meta shift P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift Q</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120632Z" creationid="miurahr" creationdate="20221023T120632Z">
+        <seg>meta shift Q</seg>
       </tuv>
     </tu>
     <tu>
@@ -67672,10 +68143,34 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta shift S</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120625Z" creationid="miurahr" creationdate="20221023T120625Z">
+        <seg>meta shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift T</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120508Z" creationid="miurahr" creationdate="20221023T120508Z">
         <seg>meta shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift U</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120628Z" creationid="miurahr" creationdate="20221023T120628Z">
+        <seg>meta shift U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift V</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120642Z" creationid="miurahr" creationdate="20221023T120642Z">
+        <seg>meta shift V</seg>
       </tuv>
     </tu>
     <tu>
@@ -68401,6 +68896,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAutoCompleteHistoryCompletionMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120833Z" creationid="miurahr" creationdate="20221023T120833Z">
+        <seg>optionsAutoCompleteHistoryCompletionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteHistoryPredictionMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120836Z" creationid="miurahr" creationdate="20221023T120836Z">
+        <seg>optionsAutoCompleteHistoryPredictionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T135701Z" creationid="suzume" creationdate="20201122T135701Z">
@@ -68413,6 +68924,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T135702Z" creationid="suzume" creationdate="20201122T135702Z">
         <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsDictionaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120722Z" creationid="miurahr" creationdate="20221023T120722Z">
+        <seg>optionsDictionaryFuzzyMatchingCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -68441,6 +68960,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsGlossaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120712Z" creationid="miurahr" creationdate="20221023T120712Z">
+        <seg>optionsGlossaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T135700Z" creationid="suzume" creationdate="20201122T135700Z">
@@ -68453,6 +68980,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T135657Z" creationid="suzume" creationdate="20201122T135657Z">
         <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsMTAutoFetchCheckboxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120711Z" creationid="miurahr" creationdate="20221023T120711Z">
+        <seg>optionsMTAutoFetchCheckboxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsPreferencesMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120709Z" creationid="miurahr" creationdate="20221023T120709Z">
+        <seg>optionsPreferencesMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -69372,6 +69915,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>shift F3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120547Z" creationid="miurahr" creationdate="20221023T120547Z">
+        <seg>shift F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T143624Z" creationid="miurahr" creationdate="20201101T143624Z">
@@ -70113,6 +70664,30 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>toolsAlignFilesMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120656Z" creationid="miurahr" creationdate="20221023T120656Z">
+        <seg>toolsAlignFilesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsCheckIssuesCurrentFileMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120642Z" creationid="miurahr" creationdate="20221023T120642Z">
+        <seg>toolsCheckIssuesCurrentFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsCheckIssuesMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120641Z" creationid="miurahr" creationdate="20221023T120641Z">
+        <seg>toolsCheckIssuesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>toolsShowStatisticsMatchesMenuItem</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T142007Z">
@@ -70529,6 +71104,30 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>viewMarkFontFallbackCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120639Z" creationid="miurahr" creationdate="20221023T120639Z">
+        <seg>viewMarkFontFallbackCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkGlossaryMatchesCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120638Z" creationid="miurahr" creationdate="20221023T120638Z">
+        <seg>viewMarkGlossaryMatchesCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkLanguageCheckerCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120639Z" creationid="miurahr" creationdate="20221023T120639Z">
+        <seg>viewMarkLanguageCheckerCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>viewMarkNBSPCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130410T152633Z">
@@ -70549,6 +71148,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130410T152620Z">
         <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkParagraphStartCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T120636Z" creationid="miurahr" creationdate="20221023T120636Z">
+        <seg>viewMarkParagraphStartCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
