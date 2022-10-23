@@ -22844,8 +22844,8 @@ Tutorial.</seg>
       <tuv lang="en">
         <seg>For example, to change the amount of memory available uncomment the line &lt;l0&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l0&gt; by removing the &lt;l1&gt;&lt;!--&lt;/l1&gt; and &lt;l2&gt;--&gt;&lt;/l2&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221023T123617Z" creationid="miurahr" creationdate="20221023T123617Z">
-        <seg>For example, to change the amount of memory available uncomment the line &lt;l0&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l0&gt; by removing the &lt;l1&gt;&lt;!--&lt;/l1&gt; and &lt;l2&gt;--&gt;&lt;/l2&gt;.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T123826Z" creationid="miurahr" creationdate="20221023T123617Z">
+        <seg>たとえば、使用可能なメモリー量を変更するには、 &lt;l1&gt;&lt;!--&lt;/l1&gt; と &lt;l2&gt;--&gt;&lt;/l2&gt;を削除して、行&lt;l0&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l0&gt;のコメントを解除します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33631,6 +33631,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T164022Z">
         <seg>その方法はディストリビューションによって異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Methods vary from one system to another, but in general, once OmegaT is installed, you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T123929Z" creationid="miurahr" creationdate="20221023T123929Z">
+        <seg>方法はシステムによって異なりますが、一般的に、OmegaTをインストールすると、コマンドラインから直接起動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56185,6 +56194,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l3&gt;6g&lt;/l3&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T123837Z" creationid="miurahr" creationdate="20221023T123837Z">
+        <seg>これにより、6GBのメモリでOmegaTが起動されます。&lt;l3&gt;6g&lt;/l3&gt;を必要な量に変更してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210103T091726Z" creationid="miurahr" creationdate="20201115T042902Z">
@@ -62808,6 +62825,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T043118Z" creationid="miurahr" creationdate="20201115T043118Z">
         <seg>また AppleScript や Automator を使用して、よく行う作業をサービスやスクリプトとして登録しておくこともできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use AppleScript, Automator or Shortcuts to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T123911Z" creationid="miurahr" creationdate="20221023T123911Z">
+        <seg>また AppleScript や Automator やショートカットを使用して、よく行う作業をサービスやスクリプトとして登録しておくこともできます。</seg>
       </tuv>
     </tu>
     <tu>
