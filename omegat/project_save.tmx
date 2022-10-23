@@ -5701,6 +5701,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;Configuration.properties&lt;/f0&gt; is located in &lt;f1&gt;Contents/Resources/&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122913Z" creationid="miurahr" creationdate="20221023T122913Z">
+        <seg>&lt;f0&gt;Configuration.properties&lt;/f0&gt;は&lt;f1&gt;Contents/Resources/&lt;/f1&gt;にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T043050Z" creationid="miurahr" creationdate="20201115T043050Z">
@@ -5730,6 +5738,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T050239Z">
         <seg>&lt;f0&gt;alignDir&lt;/f0&gt; には、プロジェクトの訳文言語に翻訳された訳文ファイルを配置しておく必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f2&gt;Info.plist&lt;/f2&gt; is located in &lt;f3&gt;Contents/&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122923Z" creationid="miurahr" creationdate="20221023T122923Z">
+        <seg>&lt;f2&gt;Info.plist&lt;/f2&gt; は、 &lt;f3&gt;Contents/&lt;/f3&gt;にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56311,6 +56327,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To access the files inside &lt;f0&gt;OmegaT.app&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select “Show Package Contents”.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T123043Z" creationid="miurahr" creationdate="20221023T123043Z">
+        <seg> &lt;f0&gt;OmegaT.app&lt;/f0&gt;の中のファイルにアクセスするには、まず&lt;f1&gt;OmegaT.app&lt;/f1&gt;を右クリックして、[パッケージの内容を表示］を選びます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141112T184032Z" creationid="Yu-Tang" creationdate="20141112T184032Z">
@@ -63141,6 +63165,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T042013Z" creationid="miurahr" creationdate="20201115T042013Z">
         <seg>OmegaT の挙動は、パッケージに含まれる &lt;e0&gt;Properties&lt;/e0&gt; と&lt;f1&gt;Configuration.properties&lt;/f1&gt; ファイルを編集することでカスタマイズできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the behavior of OmegaT.app by editing the &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) as well as the &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) files located inside the OmegaT.app package.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221023T122858Z" creationid="miurahr" creationdate="20221023T122858Z">
+        <seg>OmegaT の挙動は、OmegaT.app パッケージに含まれる &lt;f1&gt;Info.plist&lt;/e0&gt;(Java構成)と&lt;f0&gt;Configuration.properties&lt;/f0&gt;(OmegaT構成)ファイルを編集することでカスタマイズできます。</seg>
       </tuv>
     </tu>
     <tu>
