@@ -3633,6 +3633,16 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141445Z" creationid="miurahr" creationdate="20221103T141445Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    出力形式を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T035450Z" creationid="Yu-Tang" creationdate="20160212T035450Z">
@@ -3966,6 +3976,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T014534Z" creationid="Hiroshi Miura" creationdate="20221022T014534Z">
         <seg>1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141700Z" creationid="miurahr" creationdate="20221103T141627Z">
+        <seg>1) 原文フォルダーのファイル数を削減します</seg>
       </tuv>
     </tu>
     <tu>
@@ -26156,6 +26174,16 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141543Z" creationid="miurahr" creationdate="20221103T141543Z">
+        <seg> --stats-type を省略した場合は、ファイル拡張子から
+ 	    フォーマットを検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T093757Z" creationid="Kasuya" creationdate="20160705T093218Z">
@@ -38044,6 +38072,15 @@ selecting, obtaining and installing it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141613Z" creationid="miurahr" creationdate="20221103T141613Z">
+        <seg>メモリ不足のため OmegaT が動作しません。OK を押すと、OmegaT を終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
@@ -40717,6 +40754,18 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141603Z" creationid="miurahr" creationdate="20221103T141603Z">
+        <seg>ソースファイルを ./source に配置し、./tmと ./glossaryと ./dictionary 内の追加資材
+を必要に応じて追加して、コミットします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
@@ -41200,6 +41249,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T074446Z">
         <seg>ポルトガル語（Portuguese）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141632Z" creationid="miurahr" creationdate="20221103T141626Z">
+        <seg>解決方法:</seg>
       </tuv>
     </tu>
     <tu>
@@ -72180,6 +72237,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130205T203651Z">
         <seg>一単語分、右に移動します。ただし分節の末尾よりも右には移動しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>only options:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141552Z" creationid="miurahr" creationdate="20221103T141552Z">
+        <seg>コンソールのみのオプション:</seg>
       </tuv>
     </tu>
     <tu>
