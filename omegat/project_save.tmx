@@ -466,6 +466,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143218Z" creationid="miurahr" creationdate="20221103T143218Z">
+        <seg>このフォントサイズ設定を辞書ウィンドウに適用する(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Apply this font size to dictionary pane</seg>
       </tuv>
@@ -478,6 +487,15 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z" creationid="Yu-Tang" creationdate="20150418T040041Z">
+        <seg>この字体を表形式データ（翻訳対象ファイル一覧や翻訳状況など）に適用(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143157Z" creationid="miurahr" creationdate="20221103T143157Z">
         <seg>この字体を表形式データ（翻訳対象ファイル一覧や翻訳状況など）に適用(&amp;A)</seg>
       </tuv>
     </tu>
@@ -1852,6 +1870,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T121748Z" creationid="Yu-Tang" creationdate="20150716T121748Z">
         <seg>原文中で単語が離れている用語を表示(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User Guide...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142916Z" creationid="miurahr" creationdate="20221103T142916Z">
+        <seg>利用者ガイド(&amp;)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15620,6 +15646,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143130Z" creationid="miurahr" creationdate="20221103T143130Z">
+        <seg>これが意図的なものかどうかを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140604T161908Z">
@@ -22440,6 +22474,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160759Z">
         <seg>プロジェクトを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143013Z" creationid="miurahr" creationdate="20221103T143013Z">
+        <seg>訳文ファイルを生成できませんでした!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38210,6 +38252,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142942Z" creationid="miurahr" creationdate="20221103T142942Z">
+        <seg>変更を反映するために、プロジェクトを再読み込みする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT on Linux HowTo</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T005113Z">
@@ -43264,6 +43314,24 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20210922T041846Z" creationid="suzume" creationdate="20210922T041846Z">
         <seg>変更を適用するためにプロジェクトの再読み込みが必要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142950Z" creationid="miurahr" creationdate="20221103T142950Z">
+        <seg>プロジェクトを再読み込みしますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143135Z" creationid="miurahr" creationdate="20221103T143135Z">
+        <seg>プロジェクトを再読み込みしますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -55975,6 +56043,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143119Z" creationid="miurahr" creationdate="20221103T143119Z">
+        <seg>リモートプロジェクトファイルにGitの設定がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no local working copies in {0}.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T062755Z" creationid="miurahr" creationdate="20201115T062755Z">
@@ -60537,6 +60613,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143036Z" creationid="miurahr" creationdate="20221103T143036Z">
+        <seg>タグがないか破損しているため、訳文ファイルを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T083920Z" creationid="Kasuya" creationdate="20160706T083920Z">
@@ -61506,6 +61590,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T040953Z" creationid="miurahr" creationdate="20201101T040953Z">
         <seg>原文中で単語が離れている用語を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143054Z" creationid="miurahr" creationdate="20221103T143054Z">
+        <seg>[ツール]&gt;[問題をチェック]を使用してタグの問題を修正し、再試行してください。</seg>
       </tuv>
     </tu>
     <tu>
