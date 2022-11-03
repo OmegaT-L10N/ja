@@ -17561,6 +17561,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144030Z" creationid="miurahr" creationdate="20221103T144030Z">
+        <seg>プロジェクトフォルダーを作成</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
@@ -18329,6 +18338,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151015T101411Z" creationid="Yu-Tang" creationdate="20151015T101411Z">
         <seg>現在 VM が使用しているメモリは {0} MB です。空き容量は {1} MB で、最大 {2} MB が使用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144040Z" creationid="miurahr" creationdate="20221103T144040Z">
+        <seg>現在のプロジェクト設定は、チームプロジェクトの設定内容によって上書きされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21008,6 +21026,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143946Z" creationid="miurahr" creationdate="20221103T143946Z">
+        <seg>［設定］→［保存と訳文ファイル生成］から有効化...&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T173406Z">
@@ -21220,6 +21246,16 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T123804Z" creationid="miurahr" creationdate="20220512T123804Z">
         <seg>［新規アイテム名］として OmegaT と入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY  format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144118Z" creationid="miurahr" creationdate="20221103T144118Z">
+        <seg>言語コードをxx-YY、xxx-YY、xx_YY、またはxxx_YYの形式で入力します。ここで、
+xxまたはxxxはは言語コード、YYは国コード(省略可能)です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33365,6 +33401,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searches...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144007Z" creationid="miurahr" creationdate="20221103T143956Z">
+        <seg>プロジェクト専用の外部検索...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142452Z" creationid="miurahr" creationdate="20221103T142452Z">
@@ -33405,6 +33449,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Post-processing Commands (Disabled):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143841Z" creationid="miurahr" creationdate="20221103T143836Z">
+        <seg>プロジェクト専用の後処理用コマンド(無効):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local Project Folder:</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T094948Z" creationid="Kasuya" creationdate="20160706T094948Z">
@@ -33425,6 +33477,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122359Z" creationid="amake" creationdate="20170128T122359Z">
         <seg>ローカルインストール先:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143900Z" creationid="miurahr" creationdate="20221103T143837Z">
+        <seg>プロジェクト専用の後処理コマンドは無効になり、実行されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48871,6 +48931,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144021Z" creationid="miurahr" creationdate="20221103T144021Z">
+        <seg>新しい場所を指定するか、再作成してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Spell &amp;Checking...</seg>
       </tuv>
@@ -54178,6 +54247,15 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T124624Z" creationid="miurahr" creationdate="20221023T124624Z">
         <seg>OmegaT特有のオプションは、&lt;l0&gt;この項の後の方&lt;/l0&gt;で説明されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144050Z" creationid="miurahr" creationdate="20221103T144050Z">
+        <seg>元のファイルはバックアップ保存されます: {0}</seg>
       </tuv>
     </tu>
     <tu>
