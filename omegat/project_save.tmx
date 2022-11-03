@@ -975,6 +975,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145331Z" creationid="miurahr" creationdate="20221103T145331Z">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -13390,6 +13398,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto replace plural specification</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145055Z" creationid="miurahr" creationdate="20221103T145055Z">
+        <seg>複数形指定を自動置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T115604Z" creationid="amake" creationdate="20170128T115604Z">
@@ -17703,6 +17719,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Create paragraphs on:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145125Z" creationid="miurahr" creationdate="20221103T145125Z">
+        <seg>段落の作成場所:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
@@ -19827,6 +19852,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120304T092646Z">
         <seg>DocBook（*.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145302Z" creationid="miurahr" creationdate="20221103T145302Z">
+        <seg>DocBookファイルには適切なDOCTYPE宣言が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24219,6 +24253,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130427T162623Z">
         <seg>現在翻訳している文章中に、用語集に登録済みの単語があった場合は、参照用として用語集ウィンドウにその対訳が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145214Z" creationid="miurahr" creationdate="20221103T145214Z">
+        <seg>Java 8と互換のあるエスケープUnicodeリテラルの書き込みを強制する</seg>
       </tuv>
     </tu>
     <tu>
@@ -32158,6 +32200,15 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145157Z" creationid="miurahr" creationdate="20221103T145157Z">
+        <seg>ユニコードのリテラル表記（\uXXXX）をエスケープ解除しない(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Keep an eye on safely storing all the different files you are renaming for eventual reuse.</seg>
@@ -33201,6 +33252,14 @@ Launch OmegaT as follows.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T045734Z" creationid="Hiroshi Miura" creationdate="20221022T045734Z">
         <seg>改行、その後に任意の文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145143Z" creationid="miurahr" creationdate="20221103T145143Z">
+        <seg>訳文ファイルの行の長さ(0=制限なし)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35352,6 +35411,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130614T101333Z">
         <seg>モノリンガル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monolingual XLIFF</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145227Z" creationid="miurahr" creationdate="20221103T145227Z">
+        <seg>モノリンガルのXLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -40762,6 +40829,14 @@ install the Oracle JRE on your own.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145115Z" creationid="miurahr" creationdate="20221103T145115Z">
+        <seg>PDFテキストのコンテンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T131446Z" creationid="Kasuya" creationdate="20160705T131446Z">
@@ -45157,6 +45232,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140716T131119Z">
         <seg>SQLJet 1.1.10（GPL v2 ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG  / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145244Z" creationid="miurahr" creationdate="20221103T145244Z">
+        <seg>SVG または Adobe Illustrator 出力</seg>
       </tuv>
     </tu>
     <tu>
@@ -50242,6 +50325,15 @@ and then start OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145315Z" creationid="miurahr" creationdate="20221103T145315Z">
+        <seg>タグ処理の互換性</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Tag name:</seg>
       </tuv>
@@ -50271,6 +50363,15 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T010810Z">
         <seg>タグ操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145329Z" creationid="miurahr" creationdate="20221103T145329Z">
+        <seg>タグのショートカット(OmegaT 2.6互換ファイルには適用されません):</seg>
       </tuv>
     </tu>
     <tu>
@@ -64676,6 +64777,14 @@ https://ja.wordpress.org/</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T061120Z" creationid="Yu-Tang" creationdate="20160212T061120Z">
         <seg>WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145255Z" creationid="miurahr" creationdate="20221103T145255Z">
+        <seg>Wordpress XML出力</seg>
       </tuv>
     </tu>
     <tu>
