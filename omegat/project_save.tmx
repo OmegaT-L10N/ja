@@ -2974,6 +2974,17 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141054Z" creationid="miurahr" creationdate="20221103T141054Z">
+        <seg>--config-dir=&lt;path&gt;
+	OmegaT の各種設定ファイルを入出力するフォルダーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
@@ -3123,6 +3134,16 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141131Z" creationid="miurahr" creationdate="20221103T141131Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+	デフォルトのGUI以外のモードを指定します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T020803Z" creationid="Yu-Tang" creationdate="20160212T020803Z">
@@ -3177,6 +3198,18 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141223Z" creationid="miurahr" creationdate="20221103T141223Z">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    疑似翻訳した TMX ファイルを出力します</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>--mode=console-pseudotranslatetmx
@@ -3199,6 +3232,24 @@ menu, on the desktop and in the quick launch area.</seg>
 	    Prints to that file, or to standard output if absent.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T224956Z" creationid="Hiroshi Miura" creationdate="20221004T224956Z">
+        <seg>--mode=console-stats
+	  project_path
+	    プロジェクトのパス
+	  --output-file=[stats-output-file]
+	    指定されたファイルに出力するか、省略されれば
+	    標準出力に表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141421Z" creationid="miurahr" creationdate="20221103T141421Z">
         <seg>--mode=console-stats
 	  project_path
 	    プロジェクトのパス
@@ -3361,6 +3412,16 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141311Z" creationid="miurahr" creationdate="20221103T141311Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    疑似翻訳 TMX の訳文に何を設定するか指定します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--quiet</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T035239Z" creationid="Yu-Tang" creationdate="20160212T035239Z">
@@ -3457,6 +3518,18 @@ menu, on the desktop and in the quick launch area.</seg>
 	  A Java .properties file to use for interface text</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T224522Z" creationid="Hiroshi Miura" creationdate="20221004T224522Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	インターフェースのローカライズに使用されるJava .properties
+	ファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141108Z" creationid="miurahr" creationdate="20221103T141108Z">
         <seg>--resource-bundle=&lt;path&gt;
 	インターフェースのローカライズに使用されるJava .properties
 	ファイルです。</seg>
