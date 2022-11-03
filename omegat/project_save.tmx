@@ -645,8 +645,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T010955Z" creationid="miurahr" creationdate="20201101T010955Z">
-        <seg>メニューをクリア(C)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142220Z" creationid="miurahr" creationdate="20201101T010955Z">
+        <seg>メニューをクリア(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10901,10 +10901,35 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142244Z" creationid="miurahr" creationdate="20221103T142244Z">
+        <seg>原文ファイルを追加...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files(&amp;Y)...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142227Z" creationid="miurahr" creationdate="20221103T142227Z">
+        <seg>ファイルを追加(&amp;Y)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T085829Z" creationid="Kasuya" creationdate="20160706T085829Z">
         <seg>用語の追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Add Online Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142255Z" creationid="miurahr" creationdate="20221103T142255Z">
+        <seg>MediaWiki から原文ファイルを追加(&amp;W)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -37335,6 +37360,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142127Z" creationid="miurahr" creationdate="20221103T142127Z">
+        <seg>OmegaTは自動的に「YES」設定を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115543Z" creationid="Hiroshi Miura" creationdate="20220830T115543Z">
@@ -39356,6 +39389,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140813T165329Z">
         <seg>最近使用したプロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Recent(&amp;J)...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142201Z" creationid="miurahr" creationdate="20221103T142201Z">
+        <seg>最近使用したプロジェクトを開く(&amp;J)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -54025,6 +54066,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T155358Z">
         <seg>例示されたプロジェクトは、繰り返しを除いたプロジェクトの分節がすべて翻訳済みになっていることから明らかなように、翻訳が完了していることが分かります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142111Z" creationid="miurahr" creationdate="20221103T142111Z">
+        <seg>空のプロジェクトです。</seg>
       </tuv>
     </tu>
     <tu>
