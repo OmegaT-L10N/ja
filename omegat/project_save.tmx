@@ -419,6 +419,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144945Z" creationid="miurahr" creationdate="20221103T144945Z">
+        <seg>原文が空の分節を許可(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -16272,6 +16280,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144749Z" creationid="miurahr" creationdate="20221103T144749Z">
+        <seg>検索ウィンドウを閉じてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Closes or opens the &lt;l0&gt;Project files window&lt;/l0&gt; (depending on whether it is open or closed).</seg>
       </tuv>
@@ -28879,6 +28896,15 @@ double-click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Ignore PO header(&amp;S)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145029Z" creationid="miurahr" creationdate="20221103T145029Z">
+        <seg>PO ヘッダーを無視(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations</seg>
       </tuv>
@@ -34794,6 +34820,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T130745Z" creationid="Hiroshi Miura" creationdate="20221022T130745Z">
         <seg>一致した文字列は、青い太字で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144822Z" creationid="miurahr" creationdate="20221103T144822Z">
+        <seg>見つかった分節数：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -48202,6 +48236,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped translation unites for which no source  segment was found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144914Z" creationid="miurahr" creationdate="20221103T144914Z">
+        <seg>原文分節が見つからなかったためにスキップされた訳文の文節です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T011744Z" creationid="miurahr" creationdate="20201101T011744Z">
@@ -51900,11 +51942,29 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144937Z" creationid="miurahr" creationdate="20221103T144937Z">
+        <seg>TMX ファイルの読み込みを続行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The TMX files will contain only the segments that have been translated at the moment the translated files have been created with &lt;l0/&gt; or &lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020742Z" creationid="Hiroshi Miura" creationdate="20221023T020742Z">
         <seg>TMXファイルには、変換後のファイルが&lt;l0/&gt;または&lt;l1/&gt;で作成された時点での、翻訳済みの分節のみが含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144927Z" creationid="miurahr" creationdate="20221103T144927Z">
+        <seg>TMX の原文言語 {0} と、プロジェクトの原文言語 {1} が異なります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60265,6 +60325,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T202559Z">
         <seg>XHTML や HTML ファイルでは、オブジェクトの属性も翻訳の対象になることがあります。このような場合は、属性値だけを分節として取り出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T145023Z" creationid="miurahr" creationdate="20221103T145023Z">
+        <seg>原文が空の分節を翻訳する(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
