@@ -690,6 +690,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142541Z" creationid="miurahr" creationdate="20221103T142541Z">
+        <seg>現在の原文ファイル(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
@@ -862,6 +871,15 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Export TMs</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T082246Z" creationid="Hiroshi Miura" creationdate="20220830T082246Z">
+        <seg>TMを出力(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142531Z" creationid="miurahr" creationdate="20221103T142531Z">
         <seg>TMを出力(&amp;E)</seg>
       </tuv>
     </tu>
@@ -10934,6 +10952,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142314Z" creationid="miurahr" creationdate="20221103T142314Z">
+        <seg>MediaWiki から原文ファイルを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T104233Z">
@@ -14480,6 +14506,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142551Z" creationid="miurahr" creationdate="20221103T142551Z">
+        <seg>現在の訳文ファイル(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>C:\Program Files\OmegaT\</seg>
@@ -17311,11 +17346,28 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142430Z" creationid="miurahr" creationdate="20221103T142430Z">
+        <seg>訳文ファイルを生成(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151118T155143Z">
         <seg>例外訳文を登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142434Z" creationid="miurahr" creationdate="20221103T142434Z">
+        <seg>Create Current Translate&amp;d File</seg>
       </tuv>
     </tu>
     <tu>
@@ -22304,11 +22356,29 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142415Z" creationid="miurahr" creationdate="20221103T142415Z">
+        <seg>ファイルのコピーに失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160759Z">
         <seg>プロジェクトを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Failed to download Mediawiki page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142403Z" creationid="miurahr" creationdate="20221103T142403Z">
+        <seg>Mediawikiページのダウンロードに失敗しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -33097,6 +33167,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142452Z" creationid="miurahr" creationdate="20221103T142452Z">
+        <seg>ローカルファイルフィルター(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File Filters...</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154232Z" creationid="Hiroshi Miura" creationdate="20221022T154232Z">
@@ -39098,6 +39176,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Online Mediawiki Page URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142358Z" creationid="miurahr" creationdate="20221103T142358Z">
+        <seg>MediaWikiのページURL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130313T061528Z">
@@ -40262,6 +40348,14 @@ install the Oracle JRE on your own.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160308T151037Z" creationid="Yu-Tang" creationdate="20160308T151037Z">
         <seg>TMX ファイルを /tm/enforce フォルダーから移動や削除すると、上書きはされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142522Z" creationid="miurahr" creationdate="20221103T142522Z">
+        <seg>プロジェクトフォルダー(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48027,6 +48121,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140310T171537Z">
         <seg>原文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source &amp;Files...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142510Z" creationid="miurahr" creationdate="20221103T142510Z">
+        <seg>原文ファイル(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
