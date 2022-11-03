@@ -2719,6 +2719,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane,
+	- use Project &gt; Add Files...,
+	- use Project &gt; Source Files... and click on Add Files...
+	- or use your file manager to copy files to the 'source' folder,
+	   and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141932Z" creationid="miurahr" creationdate="20221103T141811Z">
+        <seg>- このエディタペインにファイルをドラッグアンドドロップします。
+	-[プロジェクト]&gt;[原文ファイルを追加...]を使用します。
+	-「プロジェクトファイル」ウィンドウで「原文ファイルを追加...」をクリックします。
+	-ファイルマネージャを使用してプロジェクトの 'source' フォルダにファイルをコピーし、
+	   [プロジェクト]&gt;[再読み込み]でプロジェクトを再読み込みします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T074513Z">
@@ -2811,6 +2827,16 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T075356Z">
         <seg>- Google Translate などの機械翻訳サービスへの対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- use Options &gt; File Filters... to verify that their format is supported by OmegaT,
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142106Z" creationid="miurahr" creationdate="20221103T142106Z">
+        <seg>- 設定 &gt; ファイルフィルターを開き... そのフォーマットがOmegaTでサポートされているか、確認します。
+	- 元のアプリケーションでそのファイルを開き、空でないことを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4048,6 +4074,14 @@ The current setting is {0}MB;</seg>
 java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar 
 と指定し、OmegaT が使用できるメモリを増やす
 （現在の設定：{0} MB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141722Z" creationid="miurahr" creationdate="20221103T141722Z">
+        <seg>2) OmegaTに割りあてるメモリー容量を増やします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27133,6 +27167,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T051904Z">
         <seg>引数を省略した場合は、すべてのファイルが処理されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141940Z" creationid="miurahr" creationdate="20221103T141940Z">
+        <seg>プロジェクトにファイルが含まれていても、その内容がここに表示されない場合:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58132,6 +58175,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141850Z" creationid="miurahr" creationdate="20221103T141748Z">
+        <seg>プロジェクトにファイルを追加するには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210510T234609Z" creationid="miurahr" creationdate="20210510T234609Z">
@@ -60958,6 +61009,18 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141103T171905Z" creationid="Yu-Tang" creationdate="20141103T171905Z">
         <seg>使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141727Z" creationid="miurahr" creationdate="20221103T141727Z">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -65570,6 +65633,15 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233033Z" creationid="miurahr" creationdate="20201106T233033Z">
         <seg>これを指定する必要があるのは、一部の除外を上書きする場合だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141737Z" creationid="miurahr" creationdate="20221103T141737Z">
+        <seg>プロジェクトに翻訳可能なファイルが含まれていないようです。</seg>
       </tuv>
     </tu>
     <tu>
