@@ -1556,6 +1556,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142618Z" creationid="miurahr" creationdate="20221103T142618Z">
+        <seg>検索(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
@@ -1592,6 +1601,15 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Sentence Case</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151015T105922Z" creationid="Yu-Tang" creationdate="20151015T105922Z">
+        <seg>文頭のみを大文字に(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142653Z" creationid="miurahr" creationdate="20221103T142653Z">
         <seg>文頭のみを大文字に(&amp;S)</seg>
       </tuv>
     </tu>
@@ -1780,6 +1798,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142645Z" creationid="miurahr" creationdate="20221103T142645Z">
+        <seg>すべて大文字に(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Undo Changes</seg>
       </tuv>
@@ -1861,10 +1888,27 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142606Z" creationid="miurahr" creationdate="20221103T142606Z">
+        <seg>書き込み可能な用語集(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Writeable Glossary</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T115924Z" creationid="Yu-Tang" creationdate="20150716T115901Z">
         <seg>書き込み可能な用語集ファイル(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142642Z" creationid="miurahr" creationdate="20221103T142642Z">
+        <seg>すべて小文字に(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10556,6 +10600,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>A&amp;uto-Completion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142744Z" creationid="miurahr" creationdate="20221103T142744Z">
+        <seg>入力補完(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A&amp;uto-completion</seg>
       </tuv>
@@ -13429,6 +13482,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically &amp;Show Relevant Suggestions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142807Z" creationid="miurahr" creationdate="20221103T142807Z">
+        <seg>自動補完/関連性の強い補完候補を自動的に表示する(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T142453Z" creationid="miurahr" creationdate="20201101T142453Z">
@@ -15126,6 +15187,15 @@ documentation.</seg>
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170201T141307Z" creationid="amake" creationdate="20170201T141307Z">
+        <seg>品質チェック（現在の文書のみ）(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142702Z" creationid="miurahr" creationdate="20221103T142702Z">
         <seg>品質チェック（現在の文書のみ）(&amp;C)</seg>
       </tuv>
     </tu>
@@ -24538,6 +24608,22 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142855Z" creationid="miurahr" creationdate="20221103T142855Z">
+        <seg>ユーザーレベルの分節化規則(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142832Z" creationid="miurahr" creationdate="20221103T142832Z">
+        <seg>ユーザーレベルのファイルフィルター(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Global or local?</seg>
@@ -33508,6 +33594,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z">
+        <seg>機械翻訳(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Mac&amp;hine Translation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142707Z" creationid="miurahr" creationdate="20221103T142707Z">
         <seg>機械翻訳(&amp;H)</seg>
       </tuv>
     </tu>
@@ -43875,6 +43970,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140201T093239Z">
         <seg>置換後の文字列：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142636Z" creationid="miurahr" creationdate="20221103T142636Z">
+        <seg>置換...</seg>
       </tuv>
     </tu>
     <tu>
@@ -61189,6 +61292,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T082349Z" creationid="Hiroshi Miura" creationdate="20220830T082349Z">
         <seg>要約ビューを使用する(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T142735Z" creationid="miurahr" creationdate="20221103T142735Z">
+        <seg>参考訳文を使用(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
