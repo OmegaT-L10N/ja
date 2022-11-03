@@ -16608,6 +16608,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143326Z" creationid="miurahr" creationdate="20221103T143326Z">
+        <seg>完了した現在の翻訳は{0}として保存されました</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
@@ -16863,6 +16872,19 @@ documentation.</seg>
         <seg>コンソール翻訳モード:
 	--source-pattern=&lt;pattern&gt;
 		処理する原文ファイルのホワイトリスト用正規表現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143310Z" creationid="miurahr" creationdate="20221103T143310Z">
+        <seg>回復方法について
+取扱説明書などを参照してください。このエラーがどのようにして
+発生したかの情報とともに、ソフトウェア開発担当に送ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17794,6 +17816,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160749Z">
         <seg>訳文ファイル {0} を生成中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143340Z" creationid="miurahr" creationdate="20221103T143340Z">
+        <seg>訳文ファイルを生成: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21470,6 +21500,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143508Z" creationid="miurahr" creationdate="20221103T143441Z">
+        <seg>後処理用コマンドの起動に失敗しました：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130508T161631Z">
@@ -22042,6 +22080,15 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130113T015219Z">
         <seg>外部コマンドを実行しています...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143409Z" creationid="miurahr" creationdate="20221103T143409Z">
+        <seg>後処理用外部コマンド：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41584,6 +41631,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143503Z" creationid="miurahr" creationdate="20221103T143503Z">
+        <seg>後処理用コマンドを実行しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T174927Z">
@@ -48332,6 +48387,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T104239Z">
         <seg>原文ファイル名の構成例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143253Z" creationid="miurahr" creationdate="20221103T143253Z">
+        <seg>原文ファイル ({1}中{0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143231Z" creationid="miurahr" creationdate="20221103T143231Z">
+        <seg>原文ファイル ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -60003,6 +60074,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143400Z" creationid="miurahr" creationdate="20221103T143400Z">
+        <seg>訳文ファイルの生成を完了</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
@@ -60017,6 +60097,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T053420Z" creationid="miurahr" creationdate="20201101T053420Z">
         <seg>訳文ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143349Z" creationid="miurahr" creationdate="20221103T143349Z">
+        <seg>訳文ファイルの生成を完了</seg>
       </tuv>
     </tu>
     <tu>
