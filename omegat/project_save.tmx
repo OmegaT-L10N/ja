@@ -23232,6 +23232,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144256Z" creationid="miurahr" creationdate="20221103T144256Z">
+        <seg>空ではないフォルダーがすでに存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
@@ -24431,6 +24440,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T043622Z" creationid="Yu-Tang" creationdate="20160212T043622Z">
+        <seg>全角/半角文字を区別しない(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144326Z" creationid="miurahr" creationdate="20221103T144326Z">
         <seg>全角/半角文字を区別しない(&amp;W)</seg>
       </tuv>
     </tu>
@@ -30770,6 +30787,15 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T084922Z" creationid="Kasuya" creationdate="20160706T084902Z">
         <seg>不正なリポジトリの種類：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Invalid translated file language!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144127Z" creationid="miurahr" creationdate="20221103T144127Z">
+        <seg>無効な訳文ファイル言語です!</seg>
       </tuv>
     </tu>
     <tu>
@@ -37873,6 +37899,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T151257Z">
         <seg>OmegaT は、指定した単語をすべて含む、すべての分節の一覧を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144309Z" creationid="miurahr" creationdate="20221103T144309Z">
+        <seg>このフォルダーに対する読み取り権限と書き込み権限がありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45503,6 +45537,16 @@ https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%9E%E3%83%88%E3%83%AD%E3%8
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144440Z" creationid="miurahr" creationdate="20221103T144440Z">
+        <seg>適用範囲:
+プロジェクト検索は、デフォルトでは原文と訳文、外部翻訳メモリ、用語集、メモ、コメントに対して行われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151115T193808Z" creationid="Yu-Tang" creationdate="20151115T193808Z">
@@ -46879,6 +46923,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141844Z" creationid="miurahr" creationdate="20201101T141844Z">
         <seg>スクリプトファイルの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144259Z" creationid="miurahr" creationdate="20221103T144259Z">
+        <seg>他のフォルダーを選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52644,6 +52697,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dictionary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144251Z" creationid="miurahr" creationdate="20221103T144251Z">
+        <seg>辞書ファイルフォルダーは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T052636Z">
@@ -52840,6 +52901,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T033658Z">
         <seg>エスケープ文字（'\u001B'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The export translation memory folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144239Z" creationid="miurahr" creationdate="20221103T144239Z">
+        <seg>翻訳メモリを出力するフォルダー は存在していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53344,6 +53413,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T182534Z">
         <seg>用語集ファイルが空である</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144203Z" creationid="miurahr" creationdate="20221103T144203Z">
+        <seg>用語集フォルダーは存在しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55314,6 +55391,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144145Z" creationid="miurahr" creationdate="20221103T144145Z">
+        <seg>原文ファイルフォルダーは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T175047Z">
@@ -55784,6 +55869,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144154Z" creationid="miurahr" creationdate="20221103T144154Z">
+        <seg>訳文ファイルフォルダーは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files will then need to be converted back to the original format.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T171741Z">
@@ -55804,6 +55897,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T180724Z">
         <seg>この TMX ファイル中の翻訳内容は以下のいずれかです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation memory files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144228Z" creationid="miurahr" creationdate="20221103T144228Z">
+        <seg>翻訳メモリファイルフォルダーは存在しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56053,6 +56154,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T002239Z" creationid="Hiroshi Miura" creationdate="20221022T002239Z">
         <seg>プロジェクトの書き込み可能な用語集は、常にUTF-8エンコーディングで保存されたTSVファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writeable glossary file folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144217Z" creationid="miurahr" creationdate="20221103T144217Z">
+        <seg>書き込み可能な用語集フォルダーは存在しません。</seg>
       </tuv>
     </tu>
     <tu>
