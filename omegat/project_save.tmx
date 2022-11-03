@@ -1874,6 +1874,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Use local segmentation rules</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143755Z" creationid="miurahr" creationdate="20221103T143755Z">
+        <seg>プロジェクト専用の分節化規則を使用(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User Guide...</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142916Z" creationid="miurahr" creationdate="20221103T142916Z">
@@ -21444,6 +21452,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143655Z" creationid="miurahr" creationdate="20221103T143655Z">
+        <seg>後処理用コマンドの監視に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T140802Z">
@@ -22083,12 +22099,11 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Executing post-processing commands...</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221103T143409Z" creationid="miurahr" creationdate="20221103T143409Z">
-        <seg>後処理用外部コマンド：</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143517Z" creationid="miurahr" creationdate="20221103T143409Z">
+        <seg>後処理用コマンド：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33342,6 +33357,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143735Z" creationid="miurahr" creationdate="20221103T143735Z">
+        <seg>プロジェクト専用の分節化規則(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142452Z" creationid="miurahr" creationdate="20221103T142452Z">
@@ -33370,6 +33393,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T160226Z">
         <seg>ローカルフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Post-processing Commands</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143818Z" creationid="miurahr" creationdate="20221103T143818Z">
+        <seg>プロジェクト専用の後処理用コマンド：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41630,11 +41661,36 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Post processing command failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143607Z" creationid="miurahr" creationdate="20221103T143607Z">
+        <seg>後処理用コマンドが異常終了。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Post-processing commands completed.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T143503Z" creationid="miurahr" creationdate="20221103T143503Z">
         <seg>後処理用コマンドを実行しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143600Z" creationid="miurahr" creationdate="20221103T143600Z">
+        <seg>後処理用コマンドが異常終了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands was interrupted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143637Z" creationid="miurahr" creationdate="20221103T143637Z">
+        <seg>後処理用コマンドの実行が中断しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45536,6 +45592,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T032302Z" creationid="miurahr" creationdate="20201101T032302Z">
         <seg>スクリプト/プロシージャを使用すると、次の操作を実行できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;ntence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T143715Z" creationid="miurahr" creationdate="20221103T143715Z">
+        <seg>文単位の分節化(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
