@@ -3074,6 +3074,16 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T141039Z" creationid="miurahr" creationdate="20221103T141039Z">
+        <seg>--disable-project-locking
+	omegat.project ファイルをロックしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>--disable-project-locking
@@ -35707,6 +35717,14 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>No option: Launch GUI</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T140957Z" creationid="miurahr" creationdate="20221103T140957Z">
+        <seg>設定なし: GUIを起動します</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>No options: Launch GUI</seg>
@@ -44250,6 +44268,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user guide.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T140933Z" creationid="miurahr" creationdate="20221103T140858Z">
+        <seg>実行方法"を参照ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T153605Z">
@@ -45251,6 +45277,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T014357Z">
         <seg>詳しくは取扱説明書の「第３章：OmegaT のインストールと実行」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T140943Z" creationid="miurahr" creationdate="20221103T140919Z">
+        <seg>利用者ガイドの "OmegaTの...</seg>
       </tuv>
     </tu>
     <tu>
