@@ -1954,6 +1954,17 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144713Z" creationid="miurahr" creationdate="20221103T144650Z">
+        <seg>半角 * は、０個以上の任意の文字と一致します。たとえば run* で検索すると、run、runs、running などと一致します。
+半角 ? は、任意の１文字と一致します。たとえば run? は runs、rung には一致しますが、run や running には一致しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
@@ -32245,6 +32256,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144525Z" creationid="miurahr" creationdate="20221103T144525Z">
+        <seg>キーワード検索は、検索文字列をスペース区切りの単語リストとみなして、すべて含むか照合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151115T195828Z" creationid="Yu-Tang" creationdate="20151115T194819Z">
@@ -43418,6 +43437,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user guide.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144553Z" creationid="miurahr" creationdate="20221103T144553Z">
+        <seg>正規表現検索は、検索文字列を Java の正規表現（詳細は利用者ガイドを参照）として照合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151115T200059Z" creationid="Yu-Tang" creationdate="20151115T195658Z">
@@ -45905,6 +45932,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T192205Z">
         <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144501Z" creationid="miurahr" creationdate="20221103T144501Z">
+        <seg>検索は、指定したフォルダー階層で実行することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50755,6 +50791,16 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140201T102351Z">
         <seg>テキストの置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144738Z" creationid="miurahr" creationdate="20221103T144738Z">
+        <seg>テキストの置換：
+置換の対象範囲は、現在のプロジェクトの訳文分節です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58654,6 +58700,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Tick or untick the approrpiate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144451Z" creationid="miurahr" creationdate="20221103T144451Z">
+        <seg>これらの設定を変更するには、該当するチェックボックスをオンまたはオフにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Tigrinya</seg>
       </tuv>
@@ -64159,6 +64214,16 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130213T171227Z">
         <seg>WiX ローカリゼーションファイル（*.wxl）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144658Z" creationid="miurahr" creationdate="20221103T144625Z">
+        <seg>ワイルドカード：
+完全一致検索とキーワード検索の両方で、ワイルドカードの半角の * と ? を使用できます</seg>
       </tuv>
     </tu>
     <tu>
@@ -75520,6 +75585,14 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T131801Z">
         <seg>&lt;e0&gt;（フォルダー）&lt;/e0&gt; には、&lt;a1&gt;OmegaT&lt;/a1&gt; プログラムのうち &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt; がある場所のフォルダー名を、絶対パスで指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221103T144639Z" creationid="miurahr" creationdate="20221103T144639Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
