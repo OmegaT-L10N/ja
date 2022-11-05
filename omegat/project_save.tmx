@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f745fe47f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d1034fa" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1895,6 +1895,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T121748Z" creationid="Yu-Tang" creationdate="20150716T121748Z">
         <seg>原文中で単語が離れている用語を表示(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Use local file filter settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T065617Z" creationid="miurahr" creationdate="20221105T065617Z">
+        <seg>プロジェクト専用ファイルフィルターの設定(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19802,6 +19810,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to &amp;identify alternate translations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T065755Z" creationid="miurahr" creationdate="20221105T065755Z">
+        <seg>複数訳文の識別時にファイル名情報を無視する(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130508T155650Z">
@@ -24899,6 +24915,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142832Z" creationid="miurahr" creationdate="20221103T142832Z">
         <seg>ユーザーレベルのファイルフィルター(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T065526Z" creationid="miurahr" creationdate="20221105T065526Z">
+        <seg>ユーザーレベルファイルフィルタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -33598,6 +33623,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T065554Z" creationid="miurahr" creationdate="20221105T065554Z">
+        <seg>プロジェクト専用ファイルフィルター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File Filters...</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154232Z" creationid="Hiroshi Miura" creationdate="20221022T154232Z">
@@ -34514,6 +34547,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>双方向アルゴリズム制御文字を色付け(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Mark &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T065456Z" creationid="miurahr" creationdate="20221105T065456Z">
+        <seg>ノーブレークスペースを色付け(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47157,6 +47199,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T065637Z" creationid="miurahr" creationdate="20221105T065637Z">
+        <seg>フィルターを選択し、[編集]または[オプション]をクリックしてカスタマイズします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T041830Z" creationid="miurahr" creationdate="20201101T041830Z">
@@ -47546,6 +47596,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145705Z" creationid="amake" creationdate="20170128T145705Z">
         <seg>設定済み、保存済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T065448Z" creationid="miurahr" creationdate="20221105T065448Z">
+        <seg>訳文を&lt;空訳文&gt;にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -48537,6 +48596,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T021012Z" creationid="Hiroshi Miura" creationdate="20221022T021012Z">
         <seg>式の中には、文字ではなく位置を指定するものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T065518Z" creationid="miurahr" creationdate="20221105T065518Z">
+        <seg>一部のフィルターでは、エンコーディングの変更ができません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61378,6 +61445,15 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T132920Z" creationid="Hiroshi Miura" creationdate="20221022T132920Z">
         <seg>段落を分割しない場合は、チェックボックスをオフにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T065647Z" creationid="miurahr" creationdate="20221105T065647Z">
+        <seg>オフにすると、無効になります。</seg>
       </tuv>
     </tu>
     <tu>
