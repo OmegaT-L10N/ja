@@ -25692,6 +25692,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085203Z" creationid="miurahr" creationdate="20221105T085203Z">
+        <seg>HTMLファイルのサイズが大きすぎます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML user manual online</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T024036Z" creationid="miurahr" creationdate="20201101T024036Z">
@@ -27792,6 +27800,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085338Z" creationid="miurahr" creationdate="20221105T085338Z">
+        <seg>ファイル中にエンコーディング宣言がある場合、以下の設定は反映されず、その宣言が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
@@ -29076,6 +29092,33 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T144141Z" creationid="amake" creationdate="20170128T144008Z">
         <seg>無視:「{0}」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085419Z" creationid="miurahr" creationdate="20221105T085419Z">
+        <seg>無視された&lt;meta&gt;タグの"content"属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085408Z" creationid="miurahr" creationdate="20221105T085408Z">
+        <seg>無視された段落(正規表現)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085426Z" creationid="miurahr" creationdate="20221105T085426Z">
+        <seg>無視されるタグ(属性=値)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35460,6 +35503,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>Modify encoding declaration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085350Z" creationid="miurahr" creationdate="20221105T085350Z">
+        <seg>エンコーディング宣言の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>Modifying a shortcut</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T115615Z" creationid="miurahr" creationdate="20221023T115615Z">
@@ -37268,6 +37320,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130212T081423Z">
         <seg>注意：HTML ファイル中にエンコーディング宣言が存在しない場合、以下の原文ファイルのエンコーディング設定が有効になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085256Z" creationid="miurahr" creationdate="20221105T085256Z">
+        <seg>注意：HTML ファイルにエンコーディング宣言がない場合のみ、原文ファイルのエンコーディング設定が有効です。</seg>
       </tuv>
     </tu>
     <tu>
