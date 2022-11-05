@@ -14107,6 +14107,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090758Z" creationid="miurahr" creationdate="20221105T090758Z">
+        <seg>タグに課題がある訳文ファイルの作成をブロックする(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130315T060736Z">
@@ -15132,6 +15140,15 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T133502Z" creationid="Hiroshi Miura" creationdate="20221022T133502Z">
         <seg>翻訳中に分節化規則の設定を変更しても、プロジェクトの翻訳メモリに登録されている分節は変更されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090717Z" creationid="miurahr" creationdate="20221105T090717Z">
+        <seg>警告：不用意にタグ順序を入れ替えると訳文ファイルを開けなくなるおそれがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17619,6 +17636,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090830Z" creationid="miurahr" creationdate="20221105T090830Z">
+        <seg>フラグの設定されたテキストと独自タグを翻訳状況にカウントする(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z" creationid="Yu-Tang" creationdate="20150418T043641Z">
@@ -18666,6 +18691,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T002827Z" creationid="Hiroshi Miura" creationdate="20221022T002827Z">
         <seg>カスタムタグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090845Z" creationid="miurahr" creationdate="20221105T090845Z">
+        <seg>カスタムタグ(正規表現):</seg>
       </tuv>
     </tu>
     <tu>
@@ -19774,6 +19808,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130301T091811Z">
+        <seg>現在の分節と一致率の高い参考訳文を、翻訳メモリから表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091014Z" creationid="miurahr" creationdate="20221105T091014Z">
         <seg>現在の分節と一致率の高い参考訳文を、翻訳メモリから表示します。</seg>
       </tuv>
     </tu>
@@ -23410,6 +23453,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T003238Z" creationid="Hiroshi Miura" creationdate="20221022T003045Z">
         <seg>フラグ付き文字列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090939Z" creationid="miurahr" creationdate="20221105T090939Z">
+        <seg>フラグの設定されたテキスト(正規表現):</seg>
       </tuv>
     </tu>
     <tu>
