@@ -1127,6 +1127,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091614Z" creationid="miurahr" creationdate="20221105T091614Z">
+        <seg>新しい言語をインストール(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T143726Z" creationid="amake" creationdate="20170128T143726Z">
@@ -10382,6 +10390,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091324Z" creationid="miurahr" creationdate="20221105T091324Z">
+        <seg>メモとは、単に元のテキストまたはその翻訳に関する注釈です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A number between &lt;e0&gt;0.0&lt;/e0&gt; and &lt;e1/&gt;0.9, or just the final &lt;e2&gt;1.5&lt;/e2&gt; in numbers such as 11.5 or 561.5.</seg>
@@ -13705,6 +13722,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T135052Z">
         <seg>利用可能な辞書：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091542Z" creationid="miurahr" creationdate="20221105T091542Z">
+        <seg>利用可能な言語:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24106,6 +24131,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091432Z" creationid="miurahr" creationdate="20221105T091432Z">
+        <seg>コメントをサポートするファイル形式およびフィルター(例:POフィルター)の場合、アクティブな分節の翻訳者向けのコメントがあれば、それを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Linux.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130316T021534Z">
@@ -27078,6 +27111,19 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T124630Z" creationid="miurahr" creationdate="20220512T124630Z">
         <seg>ユーザーインターフェースがその言語に対応していれば、OmegaT はそれを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091514Z" creationid="miurahr" creationdate="20221105T091514Z">
+        <seg>指定した場所は、
+そこへアクセスできるようになった後に使用されます。
+その際、設定はすべて初期値があらためて使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39321,6 +39367,19 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091450Z" creationid="miurahr" creationdate="20221105T091450Z">
+        <seg>OmegaT は、オペレーティングシステムの名称やホーム
+フォルダーの場所などを含むシステム設定へアクセス
+できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT will automatically parse even the most complex source folder
 hierarchies, to access all the supported files, and produce a target folder
@@ -49688,6 +49747,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the translation(&amp;A)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091532Z" creationid="miurahr" creationdate="20221105T091532Z">
+        <seg>訳文をスペルチェック(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140607T144943Z">
@@ -49708,6 +49775,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T102405Z">
         <seg>綴り確認機能の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091554Z" creationid="miurahr" creationdate="20221105T091554Z">
+        <seg>スペルチェック辞書の場所:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67318,6 +67394,17 @@ them.</seg>
 create its configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141128T123858Z">
+        <seg>オペレーティングシステムの設定により、OmegaT の
+設定フォルダーを作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T091455Z" creationid="miurahr" creationdate="20221105T091455Z">
         <seg>オペレーティングシステムの設定により、OmegaT の
 設定フォルダーを作成できませんでした。</seg>
       </tuv>
