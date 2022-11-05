@@ -661,6 +661,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090021Z" creationid="miurahr" creationdate="20221105T090021Z">
+        <seg>分節を離れる時に品質チェックする(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Choose...</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -1766,6 +1774,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>翻訳状況(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at untranslated and at segments with  alternatives</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085842Z" creationid="miurahr" creationdate="20221105T085842Z">
+        <seg>未翻訳および代替翻訳のある分節で停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -37640,6 +37656,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Number of segments to initially load:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090121Z" creationid="miurahr" creationdate="20221105T090121Z">
+        <seg>当初に読みこんだ分節数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number of the match from 1 to 5</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T194607Z">
@@ -64158,6 +64182,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T030519Z">
         <seg>この設定にチェックを入れると、原文分節からすべての整形用のタグを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085756Z" creationid="miurahr" creationdate="20221105T085756Z">
+        <seg>空の分節に入る場合:</seg>
       </tuv>
     </tu>
     <tu>
