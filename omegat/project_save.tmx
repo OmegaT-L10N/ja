@@ -11843,6 +11843,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085615Z" creationid="miurahr" creationdate="20221105T085615Z">
+        <seg>プロジェクトの原文言語に一致するすべてのセットが適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
@@ -12951,6 +12959,15 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130409T134646Z">
         <seg>すべてのタグを自動修正してよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085707Z" creationid="miurahr" creationdate="20221105T085707Z">
+        <seg>分節化規則集「{0}」を削除してよいですか？ </seg>
       </tuv>
     </tu>
     <tu>
@@ -16699,6 +16716,15 @@ documentation.</seg>
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121019T124315Z">
+        <seg>訳文ファイルの空白圧縮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085442Z" creationid="miurahr" creationdate="20221105T085442Z">
         <seg>訳文ファイルの空白圧縮</seg>
       </tuv>
     </tu>
@@ -24927,6 +24953,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085519Z" creationid="miurahr" creationdate="20221105T085519Z">
+        <seg>ユーザーレベルの分節化規則</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Global or local?</seg>
@@ -27797,6 +27831,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T025850Z">
         <seg>他のフォルダーに「test.html」という同名のファイルがあったとしても、無視されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If there is a declaration, that encoding  be used regardless of the setting specifyied here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085506Z" creationid="miurahr" creationdate="20221105T085506Z">
+        <seg>ファイル中にエンコーディング宣言がある場合、以下の設定は反映されず、その宣言が使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32699,6 +32742,15 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085621Z" creationid="miurahr" creationdate="20221105T085621Z">
+        <seg>言語セット</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
@@ -33718,6 +33770,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T094948Z" creationid="Kasuya" creationdate="20160706T094948Z">
         <seg>ローカルプロジェクトフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085525Z" creationid="miurahr" creationdate="20221105T085525Z">
+        <seg>プロジェクト専用の分節化規則</seg>
       </tuv>
     </tu>
     <tu>
@@ -37320,6 +37380,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130212T081423Z">
         <seg>注意：HTML ファイル中にエンコーディング宣言が存在しない場合、以下の原文ファイルのエンコーディング設定が有効になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085503Z" creationid="miurahr" creationdate="20221105T085503Z">
+        <seg>注意：HHC ファイルにエンコーディング宣言がない場合のみ、原文ファイルのエンコーディング設定が有効です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44059,6 +44127,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Remove HTML comments in translated file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085451Z" creationid="miurahr" creationdate="20221105T085451Z">
+        <seg>訳文ファイルの HTML コメントを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
       </tuv>
@@ -49263,6 +49340,16 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144753Z" creationid="miurahr" creationdate="20201101T144744Z">
         <seg>特定の引数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085559Z" creationid="miurahr" creationdate="20221105T085559Z">
+        <seg>特定のセットは、一般的なセットの上に置く必要があります:
+たとえば、"FR-CA"は"FR.*"の上にあるべきで、"FR.*"は".*"の上にあるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66956,6 +67043,14 @@ them.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120258Z" creationid="miurahr" creationdate="20221023T120258Z">
         <seg>変更または追加したショートカットが、変更したメニュー項目の横に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T085736Z" creationid="miurahr" creationdate="20221105T085736Z">
+        <seg>ユーザの名前やIDは、翻訳を識別するために使用されます。</seg>
       </tuv>
     </tu>
     <tu>
