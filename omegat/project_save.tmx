@@ -18663,6 +18663,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090406Z" creationid="miurahr" creationdate="20221105T090406Z">
+        <seg>分節の変更情報のカスタマイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T145713Z" creationid="miurahr" creationdate="20221103T145713Z">
@@ -34838,6 +34846,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Mark all non-unique segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090239Z" creationid="miurahr" creationdate="20221105T090239Z">
+        <seg>繰り返しのある分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Mark unknown words</seg>
       </tuv>
@@ -41236,6 +41253,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T043726Z" creationid="suzume" creationdate="20200119T043726Z">
         <seg>段落区切り形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090131Z" creationid="miurahr" creationdate="20221105T090131Z">
+        <seg>段落区切り:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47932,6 +47957,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090144Z" creationid="miurahr" creationdate="20221105T090144Z">
+        <seg>OmegaT以外のTMXファイルから作成されたタグの設定:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
@@ -48386,6 +48420,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T121055Z" creationid="amake" creationdate="20170128T121051Z">
         <seg>保護されたパーツのツールチップを簡素化する(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090256Z" creationid="miurahr" creationdate="20221105T090256Z">
+        <seg>タグとツールチップを簡略化(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49602,6 +49644,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T124704Z" creationid="miurahr" creationdate="20201108T124550Z">
         <seg>通常版 - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Standard template</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090307Z" creationid="miurahr" creationdate="20221105T090307Z">
+        <seg>標準テンプレート</seg>
       </tuv>
     </tu>
     <tu>
@@ -51146,6 +51197,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T152130Z">
         <seg>テルグ語（Telugu）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090326Z" creationid="miurahr" creationdate="20221105T090326Z">
+        <seg>日付のない分節のテンプレート</seg>
       </tuv>
     </tu>
     <tu>
@@ -62330,6 +62389,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>独立したタグ（例：&lt;i/&gt;）の場合は XML を使用(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221105T090226Z" creationid="miurahr" creationdate="20221105T090226Z">
+        <seg>独立したタグ（例：&lt;i/&gt;）の場合は XML表記 を使用する(&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
