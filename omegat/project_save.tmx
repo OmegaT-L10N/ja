@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_811c8902d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_36dc8cd2a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11108,6 +11108,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223606Z" creationid="Hiroshi Miura" creationdate="20221109T223606Z">
+        <seg>ファイルを追加(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Files to Source Folder...</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142244Z" creationid="miurahr" creationdate="20221103T142244Z">
@@ -13962,6 +13970,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be cautious about making changes to the files in the source folder, to the segmentation rules, or to the file filters, partway through a project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222851Z" creationid="Hiroshi Miura" creationdate="20221109T222851Z">
+        <seg>プロジェクトの途中で、原文フォルダーのファイル、文節化規則、またはフィルターを変更する場合は注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Be very cautious about making changes to the files in the source folder, to the segmentation rules, or to the file filters, partway through a project.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T122348Z" creationid="miurahr" creationdate="20221023T122327Z">
@@ -16414,6 +16430,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Close OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223049Z" creationid="Hiroshi Miura" creationdate="20221109T223049Z">
+        <seg>OmegaTを閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Close Project</seg>
       </tuv>
@@ -16435,6 +16460,15 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T140101Z">
         <seg>プロジェクトを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Close the project, preventing any modification to the current status of the backup files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222820Z" creationid="Hiroshi Miura" creationdate="20221109T222820Z">
+        <seg>プロジェクトを閉じて、バックアップファイルの現在のステータスが変更されないようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17430,6 +17464,15 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121921Z" creationid="miurahr" creationdate="20221023T121911Z">
         <seg>それを新しいプロジェクトの&lt;f0&gt;omegat/&lt;/f0&gt;フォルダーにコピーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Copy one of the old files into the new configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223117Z" creationid="Hiroshi Miura" creationdate="20221109T223117Z">
+        <seg>古いファイルの1つを新しい設定フォルダにコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21994,6 +22037,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even if you fear you might have lost translation data, it is probably safely stored in your most recent backup memory, which is usually less than a few minutes old or so.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222729Z" creationid="Hiroshi Miura" creationdate="20221109T222729Z">
+        <seg>翻訳データを紛失したのではないかと心配していても、おそらく最新のバックアップの翻訳メモリに安全に保存されています。通常、バックアップは数分前のものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T064725Z" creationid="miurahr" creationdate="20201108T124525Z">
@@ -22085,10 +22136,27 @@ No one hears your screams</seg>
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>Every time &lt;f0&gt;project_save.tmx&lt;/f0&gt; has been modified:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222202Z" creationid="Hiroshi Miura" creationdate="20221109T222202Z">
+        <seg>&lt;f0&gt;project_save.tmx&lt;/f0&gt;が変更されるたびに、次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>Every time &lt;f0&gt;project_save.tmx&lt;/f0&gt; has been modified: either after using &lt;l1/&gt;, or as a regular backup every 3 minutes by default, OmegaT creates a backup with the name &lt;f2&gt;project_save.tmx.bak&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121718Z" creationid="miurahr" creationdate="20221023T121718Z">
         <seg>&lt;f0&gt;project_save.tmx&lt;/f0&gt;が変更されるたびに、&lt;l1/&gt;を使用した後、またはデフォルトではで3分ごとの通常のバックアップとして、OmegaTは&lt;f2&gt;project_save.tmx.bak&lt;/f2&gt;という名前のバックアップを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you use &lt;l0/&gt;, or as a regular backup every 3 minutes by default, OmegaT saves the current state of the translation into &lt;f1&gt;project_save.tmx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222552Z" creationid="Hiroshi Miura" creationdate="20221109T222552Z">
+        <seg>&lt;l0/&gt;を使用するたびに、またはデフォルトでは3分ごとの通常のバックアップとして、OmegaTは翻訳の現在の状態を&lt;f1&gt;project_save.tmx&lt;/f1&gt;に保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25556,6 +25624,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Go back to step 5.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223130Z" creationid="Hiroshi Miura" creationdate="20221109T223130Z">
+        <seg>手順5に戻ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Go to</seg>
       </tuv>
@@ -27006,6 +27083,24 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T040349Z">
         <seg>システムレベルで Java がインストールされている場合、フルパスを指定する必要はありません。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If OmegaT does not work as expected at this point, feel free to reach out for support.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223104Z" creationid="Hiroshi Miura" creationdate="20221109T223104Z">
+        <seg>この時点でOmegaTが期待通りに動作しない場合は、遠慮なくサポートに連絡してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If OmegaT does not work as expected at this point, you have identified the faulty file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223123Z" creationid="Hiroshi Miura" creationdate="20221109T223123Z">
+        <seg>この時点でOmegaTが期待どおりに動作しない場合は、問題のあるファイルを特定したことになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28465,6 +28560,15 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you can’t use OmegaT’s menus, see &lt;l0/&gt; to find the configuration folder location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223038Z" creationid="Hiroshi Miura" creationdate="20221109T223038Z">
+        <seg>OmegaTのメニューを使用できない場合は、&lt;l0/&gt;を参照して設定フォルダの場所を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
@@ -29251,6 +29355,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140607T145206Z">
         <seg>無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223624Z" creationid="Hiroshi Miura" creationdate="20221109T223624Z">
+        <seg>&amp;PO ヘッダーを無視</seg>
       </tuv>
     </tu>
     <tu>
@@ -34471,6 +34583,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Make a backup of the contents and delete the original folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223053Z" creationid="Hiroshi Miura" creationdate="20221109T223053Z">
+        <seg>内容をバックアップして、元のフォルダを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Make a slight change anywhere in the project.</seg>
       </tuv>
@@ -35791,6 +35912,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T122437Z" creationid="miurahr" creationdate="20221023T122437Z">
         <seg>翻訳を開始した後にいずれかを変更すると、OmegaTは翻訳済みの分節を見つけられなくなるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifying either after you have started your translation could result in some segments not being displayed anymore, or unexpected new segments appearing instead.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222924Z" creationid="Hiroshi Miura" creationdate="20221109T222924Z">
+        <seg>翻訳を開始した後にを変更すると、一部の分節が表示されなくなったり、予期しない新しい分節が表示されることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38425,6 +38554,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT creates a backup with the name &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222435Z" creationid="Hiroshi Miura" creationdate="20221109T222435Z">
+        <seg>OmegaTは、&lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;という名前のバックアップを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>原文ミス？</note>
       <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
@@ -39546,6 +39684,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT won’t behave?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222955Z" creationid="Hiroshi Miura" creationdate="20221109T222955Z">
+        <seg>OmegaTが動作しない?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT {0} is now available.</seg>
       </tuv>
@@ -40269,6 +40416,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223538Z" creationid="Hiroshi Miura" creationdate="20221109T223511Z">
+        <seg>最近開いたプロジェクト(&amp;E)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T112252Z">
@@ -40563,6 +40718,15 @@ happen should you file a bug report.</seg>
         <seg>Open the new project the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T122112Z" creationid="miurahr" creationdate="20221023T121913Z">
+        <seg>新しいプロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Open the new project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222939Z" creationid="Hiroshi Miura" creationdate="20221109T222939Z">
         <seg>新しいプロジェクトを開きます。</seg>
       </tuv>
     </tu>
@@ -44118,6 +44282,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regularly “practice emergency” measures such as restoring translations from a project, to make sure you won’t lose too much time the day you need to use those skills.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223427Z" creationid="Hiroshi Miura" creationdate="20221109T223427Z">
+        <seg>プロジェクトから翻訳を復元するなどの「緊急演習」を定期的に練習して、実際に対処が必要な日に、時間を無駄にしないようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Release details</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T073625Z">
@@ -44465,6 +44637,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140607T151125Z">
         <seg>定義済みの削除すべき文字列を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Remove it from the configuration folder and proceed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223127Z" creationid="Hiroshi Miura" creationdate="20221109T223127Z">
+        <seg>構成フォルダから削除して、次に進みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45207,6 +45388,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20210922T041838Z" creationid="suzume" creationdate="20210922T041838Z">
         <seg>変更を適用するために再起動が必要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Restart OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223056Z" creationid="Hiroshi Miura" creationdate="20221109T223056Z">
+        <seg>OmegaTを再起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49095,6 +49285,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Something has happened and OmegaT won’t behave anymore.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223008Z" creationid="Hiroshi Miura" creationdate="20221109T223008Z">
+        <seg>何かが起こり、OmegaTは動作しなくなりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160118T044806Z" creationid="Kasuya" creationdate="20160118T044806Z">
@@ -51645,6 +51843,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20150101T003511Z">
         <seg>OmegaT のユーザーインターフェースやヘルプテキストを、さまざまな言語へ翻訳してくださった方々に感謝します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That file is a copy of &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;before&lt;/e1&gt; the modification.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222511Z" creationid="Hiroshi Miura" creationdate="20221109T222511Z">
+        <seg>このファイルは、&lt;e1&gt;変更前&lt;/e1&gt;の&lt;f0&gt;project_save.tmx&lt;/f0&gt;のコピーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62728,6 +62934,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; from the &lt;l1/&gt; menu to access the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223044Z" creationid="Hiroshi Miura" creationdate="20221109T223028Z">
+        <seg>&lt;l1/&gt;メニューの&lt;l0/&gt;を使用して、設定フォルダにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020556Z" creationid="Hiroshi Miura" creationdate="20221023T020556Z">
@@ -64400,6 +64614,15 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Whatever you try, you can’t seem to be able to fix it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223014Z" creationid="Hiroshi Miura" creationdate="20221109T223014Z">
+        <seg>あなたが何をしようと、あなたはそれを修正できないようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
       </tuv>
@@ -64892,6 +65115,15 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T175353Z">
         <seg>次の分節に移動すると、最初の参考訳文（最も一致率の高いもの）が自動的に選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>When you open a project, OmegaT backs &lt;f0&gt;project_save.tmx&lt;/f0&gt; up into a timestamped backup file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222152Z" creationid="Hiroshi Miura" creationdate="20221109T222152Z">
+        <seg>プロジェクトを開くと、OmegaTは&lt;f0&gt;project_save.tmx&lt;/f0&gt;をタイムスタンプ付きのバックアップファイルにバックアップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66376,6 +66608,15 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can control the frequency of the file saving in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222610Z" creationid="Hiroshi Miura" creationdate="20221109T222610Z">
+        <seg>ファイルを保存する頻度は&lt;l0/&gt;で設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can control the frequency of the file saving in the Preferences – &lt;l0/&gt;.</seg>
       </tuv>
@@ -67300,6 +67541,15 @@ them.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You want to try one last thing before calling for help: restart OmegaT with its default settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223023Z" creationid="Hiroshi Miura" creationdate="20221109T223023Z">
+        <seg>ヘルプを呼び出す前に、最後にもう1つ試したいことがあります。それは、デフォルト設定でOmegaTを再起動することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You will be able to use it only after the administrator commits omegat.project to the repository.</seg>
       </tuv>
@@ -67451,11 +67701,29 @@ create the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Your project won’t open?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222933Z" creationid="Hiroshi Miura" creationdate="20221109T222933Z">
+        <seg>プロジェクトが開かない?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Your translated file won't open?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T122123Z" creationid="miurahr" creationdate="20221023T122123Z">
+        <seg>訳文ファイルが開かないんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Your translated file won’t open?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222947Z" creationid="Hiroshi Miura" creationdate="20221109T222947Z">
         <seg>訳文ファイルが開かないんですか?</seg>
       </tuv>
     </tu>
@@ -68098,6 +68366,15 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T203244Z">
         <seg>abk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>above and proceed until you are satisfied.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223133Z" creationid="Hiroshi Miura" creationdate="20221109T223133Z">
+        <seg>満足できる結果が得られるまで作業を続けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70063,6 +70340,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T210050Z">
         <seg>ee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>either after using &lt;l0/&gt;,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222222Z" creationid="Hiroshi Miura" creationdate="20221109T222222Z">
+        <seg>&lt;l0/&gt;を使用した後、</seg>
       </tuv>
     </tu>
     <tu>
@@ -74247,6 +74532,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>or as a regular backup every 3 minutes by default,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222235Z" creationid="Hiroshi Miura" creationdate="20221109T222235Z">
+        <seg>デフォルトでは3分ごとの定期的なバックアップとして使用します。</seg>
       </tuv>
     </tu>
     <tu>
