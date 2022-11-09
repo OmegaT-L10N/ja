@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d1034fa" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_811c8902d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38766,6 +38766,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a robust and trustworthy application, but even so, it is smart to take precautions to guard against data loss when using it, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T133501Z" creationid="Hiroshi Miura" creationdate="20221109T133501Z">
+        <seg>OmegaT is a robust and trustworthy application, but even so, it is smart to take precautions to guard against data loss when using it, just as with any other application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a robust application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T115230Z" creationid="miurahr" creationdate="20220512T115230Z">
@@ -61463,6 +61471,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T160523Z" creationid="Hiroshi Miura" creationdate="20221004T160523Z">
         <seg>翻訳者は、翻訳メモリを&lt;e0&gt;作成&lt;/e0&gt;したり、&lt;e1&gt;関連付け&lt;/e1&gt;する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Troubleshoot issues</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T133407Z" creationid="Hiroshi Miura" creationdate="20221109T133407Z">
+        <seg>Troubleshoot issues</seg>
       </tuv>
     </tu>
     <tu>
