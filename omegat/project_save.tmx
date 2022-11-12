@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_36dc8cd2a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d1034fa" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16919,6 +16919,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Confirm deletion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T050832Z" creationid="miurahr" creationdate="20221112T050832Z">
+        <seg>削除の確認</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
@@ -18879,6 +18888,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T050805Z" creationid="miurahr" creationdate="20221112T050805Z">
+        <seg>削除(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -19132,6 +19149,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233810Z" creationid="miurahr" creationdate="20201106T233810Z">
         <seg>ソースファイルの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Deletion failed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T050839Z" creationid="miurahr" creationdate="20221112T050839Z">
+        <seg>削除に失敗しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -31019,6 +31045,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T065702Z" creationid="Hiroshi Miura" creationdate="20221021T065702Z">
         <seg>OmegaT をインストールする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install failed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T050855Z" creationid="miurahr" creationdate="20221112T050855Z">
+        <seg>インストールに失敗しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -49968,6 +50002,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T050745Z" creationid="miurahr" creationdate="20221112T050745Z">
+        <seg>訳文をスペルチェック(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Spellcheck the translation(&amp;A)</seg>
       </tuv>
@@ -62042,6 +62085,15 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Unable to delete the selected dictionary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T050837Z" creationid="miurahr" creationdate="20221112T050837Z">
+        <seg>選択した辞書を削除できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
@@ -66140,6 +66192,15 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T032242Z">
         <seg>ユーザーは、自由にコピーし、他の人々に配布することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T050829Z" creationid="miurahr" creationdate="20221112T050829Z">
+        <seg>現在プロジェクトが使用している辞書を削除しようとしています。</seg>
       </tuv>
     </tu>
     <tu>
