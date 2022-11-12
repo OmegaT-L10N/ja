@@ -12444,6 +12444,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while downloading the spellchecking dictionary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T050926Z" creationid="miurahr" creationdate="20221112T050926Z">
+        <seg>スペルチェッカー辞書のダウンロード中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while opening the item.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T121723Z" creationid="Yu-Tang" creationdate="20150716T121723Z">
@@ -33046,6 +33054,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T051118Z" creationid="miurahr" creationdate="20221112T051118Z">
+        <seg>言語インストーラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language Name</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T121428Z">
@@ -36973,6 +36989,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T135040Z">
         <seg>リモートサーバーに新しい辞書は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T051226Z" creationid="miurahr" creationdate="20221112T051226Z">
+        <seg>リモートサーバーに新しい言語は存在しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47950,6 +47974,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the languages you want to install and press Install.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T051151Z" creationid="miurahr" creationdate="20221112T051151Z">
+        <seg>組み込む言語を選択して［組み込み］をクリックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the location of the language checker.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T054356Z" creationid="miurahr" creationdate="20201101T054356Z">
@@ -56613,6 +56645,22 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T050943Z" creationid="miurahr" creationdate="20221112T050901Z">
+        <seg>指定されたスペルチェッカー辞書フォルダーを使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T051054Z" creationid="miurahr" creationdate="20221112T050909Z">
+        <seg>指定されたスペルチェッカー辞書フォルダーが見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="ja" changeid="yu-tang" changedate="20150211T162833Z" creationid="yu-tang" creationdate="20150211T162833Z">
@@ -61761,6 +61809,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T173614Z">
         <seg>トラブルシューティング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Try again later.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221112T051102Z" creationid="miurahr" creationdate="20221112T051102Z">
+        <seg>実行し直してください。</seg>
       </tuv>
     </tu>
     <tu>
