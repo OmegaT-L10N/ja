@@ -22,11 +22,11 @@ jobs:
           test -z "$(git rev-list --after='24 hours' ${{ github.sha }})" && echo "should_run=false" >> $GITHUB_OUTPUT
           exit 0
 
-  progress-translation:
+  run_translate:
     runs-on: ubuntu-20.04
     needs: check_latest
     if: ${{ needs.check_latest.outputs.should_run != 'false' }}
-    name: Check translation progress
+    name: Run translation process
     steps:
       - uses: actions/checkout@v3
       - name: make source and target directory
@@ -46,8 +46,23 @@ jobs:
         with:
           arguments: translate
           gradle-version: 7.5.1
-      - name: Report coverage
-        uses: miurahr/omegat-stat@v1.2.14
+      - name: upload stats
+        uses: actions/upload-artifact@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          min-coverage: 80.0
+          name: stats
+          path: omegat/project_stats.txt
+
+  report_coverage:
+    runs-on: ubuntu-20.04
+    needs: run_translate
+    name: Report statistics summary
+    steps:
+      - name: download stats
+        uses: actions/download-artifact@v3
+        with:
+          name: stats
+          path: omegat
+      - name: Report coverage
+        uses: miurahr/omegat-stat@v2.0.6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
