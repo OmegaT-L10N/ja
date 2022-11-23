@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_1bbe2454d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_eccb12b10" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2914,6 +2914,23 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T232248Z" creationid="Hiroshi Miura" creationdate="20221123T231231Z">
+        <seg>- このエディタペインにファイルをドラッグアンドドロップします。
+	-[プロジェクト]&gt;[原文ファイルを追加...]を使用します。
+	-「プロジェクトファイル」ウィンドウで「原文ファイルを追加...」をクリックします。
+	-ファイルマネージャを使用してプロジェクトの 'source' フォルダにファイルをコピーし、
+	   [プロジェクト]&gt;[再読み込み]でプロジェクトを再読み込みします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
       </tuv>
@@ -3191,13 +3208,14 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>--config-dir=&lt;path&gt;
 	  The folder used to read or write OmegaT configuration files.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T225506Z" creationid="Hiroshi Miura" creationdate="20221123T225506Z">
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230538Z" creationid="Hiroshi Miura" creationdate="20221123T225506Z">
         <seg>--config-dir=&lt;path&gt;
-	  The folder used to read or write OmegaT configuration files.</seg>
+	OmegaT の各種設定ファイルを入出力するフォルダーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3243,14 +3261,13 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T224359Z" creationid="Hiroshi Miura" creationdate="20221004T224359Z">
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230518Z" creationid="Hiroshi Miura" creationdate="20221004T224359Z">
         <seg>--config-file=&lt;path&gt;
-	デフォルト設定を読み込む元になるJavaの .propertiesファイルです</seg>
+	デフォルト設定を読み込む元になるJavaの .propertiesファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3280,6 +3297,16 @@ menu, on the desktop and in the quick launch area.</seg>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T224246Z" creationid="Hiroshi Miura" creationdate="20221004T224246Z">
         <seg>--disable-location-save
 	ダイアログで開いた最後のフォルダーを記憶しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230500Z" creationid="Hiroshi Miura" creationdate="20221123T230323Z">
+        <seg>--disable-location-save
+	ダイアログで開いた最後のフォルダーを記憶しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3353,9 +3380,9 @@ menu, on the desktop and in the quick launch area.</seg>
         <seg>--mode=[console mode name]
 	  Specify a mode other than the GUI default.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221103T141131Z" creationid="miurahr" creationdate="20221103T141131Z">
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230615Z" creationid="miurahr" creationdate="20221103T141131Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-	デフォルトのGUI以外のモードを指定します</seg>
+	デフォルトのGUI以外のモードを指定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3399,6 +3426,18 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230710Z" creationid="Hiroshi Miura" creationdate="20221123T230655Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    訳文ファイルを配置したフォルダーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T131939Z" creationid="miurahr" creationdate="20221023T131939Z">
@@ -3419,10 +3458,10 @@ menu, on the desktop and in the quick launch area.</seg>
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221103T141223Z" creationid="miurahr" creationdate="20221103T141223Z">
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230628Z" creationid="miurahr" creationdate="20221103T141223Z">
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
-	    疑似翻訳した TMX ファイルを出力します</seg>
+	    疑似翻訳した TMX ファイルを出力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3476,6 +3515,18 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230750Z" creationid="Hiroshi Miura" creationdate="20221123T230656Z">
+        <seg>--mode=console-stats
+	  project_path
+	    プロジェクトのパスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-stats &lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T132142Z" creationid="miurahr" creationdate="20221023T132142Z">
@@ -3491,16 +3542,15 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>--mode=console-translate
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T224718Z" creationid="Hiroshi Miura" creationdate="20221004T224718Z">
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230637Z" creationid="Hiroshi Miura" creationdate="20221004T224718Z">
         <seg>--mode=console-translate
 	  --source-pattern=&lt;pattern&gt;
-	処理する原文ファイルのホワイトリスト用正規表現</seg>
+	処理する原文ファイルのホワイトリスト用正規表現です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3538,14 +3588,13 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T223853Z" creationid="Hiroshi Miura" creationdate="20221004T223853Z">
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230440Z" creationid="Hiroshi Miura" creationdate="20221004T223853Z">
         <seg>--no-team
-	チームプロジェクト機能を無効にします</seg>
+	チームプロジェクト機能を無効にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3554,6 +3603,18 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T132144Z" creationid="miurahr" creationdate="20221023T132144Z">
         <seg>--output-file=[stats-output-file]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230903Z" creationid="Hiroshi Miura" creationdate="20221123T230903Z">
+        <seg>--output-file=[stats-output-file]
+	    指定されたファイルに出力するか、省略
+	    されれば標準出力に表示します。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3746,6 +3807,18 @@ menu, on the desktop and in the quick launch area.</seg>
 	  A Java .properties file to use for the interface text</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T141108Z" creationid="miurahr" creationdate="20221103T141108Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	インターフェースのローカライズに使用されるJava .properties
+	ファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230604Z" creationid="Hiroshi Miura" creationdate="20221123T230604Z">
         <seg>--resource-bundle=&lt;path&gt;
 	インターフェースのローカライズに使用されるJava .properties
 	ファイルです。</seg>
@@ -4270,8 +4343,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>2) Increase the amount of memory available to OmegaT.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221103T141722Z" creationid="miurahr" creationdate="20221103T141722Z">
-        <seg>2) OmegaTに割りあてるメモリー容量を増やします。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T231223Z" creationid="miurahr" creationdate="20221103T141722Z">
+        <seg>2) OmegaTに割りあてるメモリ容量を増やします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30882,11 +30955,12 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Insert Unicode Control C&amp;haracter</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T225554Z" creationid="Hiroshi Miura" creationdate="20221123T225554Z">
-        <seg>Insert Unicode Control C&amp;haracter</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230133Z" creationid="Hiroshi Miura" creationdate="20221123T225554Z">
+        <seg>Unicode 制御文字を挿入</seg>
       </tuv>
     </tu>
     <tu>
@@ -33614,11 +33688,29 @@ Launch OmegaT as follows.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230155Z" creationid="Hiroshi Miura" creationdate="20221123T230155Z">
+        <seg>左から右への埋め込み(LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T011051Z" creationid="miurahr" creationdate="20201101T011051Z">
         <seg>左から右への埋め込み(LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230148Z" creationid="Hiroshi Miura" creationdate="20221123T230148Z">
+        <seg>左から右のマーク (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37023,6 +37115,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T140957Z" creationid="miurahr" creationdate="20221103T140957Z">
         <seg>設定なし: GUIを起動します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230425Z" creationid="Hiroshi Miura" creationdate="20221123T230312Z">
+        <seg>設定なし: GUIを起動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42582,6 +42682,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230205Z" creationid="Hiroshi Miura" creationdate="20221123T230205Z">
+        <seg>Pop 方向フォーマット (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T034237Z" creationid="miurahr" creationdate="20201101T034237Z">
@@ -43503,8 +43611,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T225500Z" creationid="Hiroshi Miura" creationdate="20221123T225500Z">
-        <seg>Project path only: Launch GUI and load specified project.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230410Z" creationid="Hiroshi Miura" creationdate="20221123T225500Z">
+        <seg>プロジェクトのパスのみ: GUIを起動して指定されたプロジェクトを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45749,10 +45857,27 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230212Z" creationid="Hiroshi Miura" creationdate="20221123T230157Z">
+        <seg>右から左への埋め込み(RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T011115Z" creationid="miurahr" creationdate="20201101T011115Z">
         <seg>右から左への埋め込み(RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230152Z" creationid="Hiroshi Miura" creationdate="20221123T230152Z">
+        <seg>右から左のマーク (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47225,9 +47350,9 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20200119T085013Z" creationid="Yu-Tang" creationdate="20160212T024452Z">
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230512Z" creationid="Yu-Tang" creationdate="20160212T024452Z">
         <seg>有効な値の一覧は OmegaT.jar/META-INF/
-		MANIFEST.MF を参照してください</seg>
+		MANIFEST.MF を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62913,9 +63038,9 @@ on line {1}, column {2}.</seg>
         <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
 	See --help.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T225541Z" creationid="Hiroshi Miura" creationdate="20221123T225541Z">
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T231015Z" creationid="Hiroshi Miura" creationdate="20221123T225541Z">
         <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
-	See --help.</seg>
+	 --helpの出力を参照してくだだい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62932,10 +63057,10 @@ on line {1}, column {2}.</seg>
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221103T141727Z" creationid="miurahr" creationdate="20221103T141727Z">
-        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
-line or in the OmegaT start script;
-The current setting is {0}MB;</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T231204Z" creationid="miurahr" creationdate="20221103T141727Z">
+        <seg>コマンドラインまたはOmegaT起動スクリプトで、 "java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar"と指定し、 
+OmegaTが使用できるメモリを増やす
+(現在の設定は {0}MB)</seg>
       </tuv>
     </tu>
     <tu>
@@ -63266,6 +63391,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144917Z" creationid="miurahr" creationdate="20201101T144917Z">
         <seg>SVNまたはGitクライアントを使用して、翻訳するファイルを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230259Z" creationid="Hiroshi Miura" creationdate="20221123T230259Z">
+        <seg>Use as Default Translati&amp;on</seg>
       </tuv>
     </tu>
     <tu>
@@ -75977,14 +76110,13 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Team project tool.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T224102Z" creationid="Hiroshi Miura" creationdate="20221004T224020Z">
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T230446Z" creationid="Hiroshi Miura" creationdate="20221004T224020Z">
         <seg>team init &lt;source language&gt; &lt;target language&gt;
-	チームプロジェクトツール</seg>
+	チームプロジェクトツール。</seg>
       </tuv>
     </tu>
     <tu>
