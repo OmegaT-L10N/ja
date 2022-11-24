@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_a369132f3" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_eccb12b10" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -660,6 +660,7 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <note>従来、タグの検証だけだったが、現在は品質チェックに拡張されている。</note>
       <tuv lang="en">
         <seg>&amp;Check issues when leaving a segment</seg>
       </tuv>
@@ -1689,6 +1690,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224017Z" creationid="Hiroshi Miura" creationdate="20221124T224017Z">
+        <seg>シート名(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Show All</seg>
       </tuv>
@@ -1798,6 +1808,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>翻訳状況(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224406Z" creationid="Hiroshi Miura" creationdate="20221124T224406Z">
+        <seg>未翻訳および代替翻訳のある分節で停止(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13534,6 +13552,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to convert fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224557Z" creationid="Hiroshi Miura" creationdate="20221124T224540Z">
+        <seg>参考訳文の番号を変更する(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T173258Z">
@@ -13738,6 +13764,15 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150521T030358Z" creationid="Yu-Tang" creationdate="20150521T030358Z">
+        <seg>編集ウィンドウと同期する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223728Z" creationid="Hiroshi Miura" creationdate="20221124T223728Z">
         <seg>編集ウィンドウと同期する</seg>
       </tuv>
     </tu>
@@ -14363,6 +14398,15 @@ documentation.</seg>
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140205T113421Z">
+        <seg>分割する/しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224331Z" creationid="Hiroshi Miura" creationdate="20221124T224331Z">
         <seg>分割する/しない</seg>
       </tuv>
     </tu>
@@ -16685,6 +16729,15 @@ documentation.</seg>
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T173412Z">
+        <seg>列のインデックスは 1 である必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223946Z" creationid="Hiroshi Miura" creationdate="20221124T223946Z">
         <seg>列のインデックスは 1 である必要があります。</seg>
       </tuv>
     </tu>
@@ -20865,6 +20918,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224042Z" creationid="Hiroshi Miura" creationdate="20221124T224042Z">
+        <seg>重複するフォールバック テキスト(&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
@@ -20985,6 +21047,15 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>選択領域を出力(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224350Z" creationid="Hiroshi Miura" creationdate="20221124T224350Z">
+        <seg>分節をテキストファイルへ出力(&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21986,6 +22057,15 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223933Z" creationid="Hiroshi Miura" creationdate="20221124T223933Z">
+        <seg>プラグインの読み込み中にクラス '{0}': {1}: {2} でエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
@@ -22050,6 +22130,15 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223736Z" creationid="Hiroshi Miura" creationdate="20221124T223736Z">
+        <seg>フォルダー階層の検索時にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Error starting external command: {0}</seg>
       </tuv>
@@ -22070,6 +22159,15 @@ No one hears your screams</seg>
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130508T161631Z">
+        <seg>プラグインのアンロード中にクラス '{0}': {1} でエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223939Z" creationid="Hiroshi Miura" creationdate="20221124T223939Z">
         <seg>プラグインのアンロード中にクラス '{0}': {1} でエラーが発生しました。</seg>
       </tuv>
     </tu>
@@ -22954,6 +23052,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>External lLin&amp;ks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224159Z" creationid="Hiroshi Miura" creationdate="20221124T224159Z">
+        <seg>外部リンク(&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>External program failed({1}): {0}</seg>
       </tuv>
@@ -23238,6 +23345,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224228Z" creationid="Hiroshi Miura" creationdate="20221124T224228Z">
+        <seg>ファイル形式(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T024036Z" creationid="miurahr" creationdate="20201115T024036Z">
@@ -23409,6 +23524,15 @@ Gossamer threads hold you back
         <seg>Filename Variables:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T105359Z">
+        <seg>使用可能な変数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224307Z" creationid="Hiroshi Miura" creationdate="20221124T224307Z">
         <seg>使用可能な変数：</seg>
       </tuv>
     </tu>
@@ -28278,6 +28402,15 @@ their defaults as a result of the location change.</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>If there is a declaration, that encoding  be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224323Z" creationid="Hiroshi Miura" creationdate="20221124T224323Z">
+        <seg>ファイル中にエンコーディング宣言がある場合、以下の設定は反映されず、その宣言が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>If there is a declaration, that encoding  be used regardless of the setting specifyied here.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T085506Z" creationid="miurahr" creationdate="20221105T085506Z">
@@ -30827,6 +30960,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <note>最初に読み込みできる最大の分節は、性能を維持するため。この値をこえる場合は、オンデマンドで読み込みされる。</note>
+      <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224859Z" creationid="Hiroshi Miura" creationdate="20221124T224708Z">
+        <seg>最初に読み込む最大分節数：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
@@ -33223,6 +33365,15 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130314T110124Z">
         <seg>翻訳単位言語要素の言語が指定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224329Z" creationid="Hiroshi Miura" creationdate="20221124T224329Z">
+        <seg>言語コードの正規表現</seg>
       </tuv>
     </tu>
     <tu>
@@ -35974,6 +36125,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224339Z" creationid="Hiroshi Miura" creationdate="20221124T224339Z">
+        <seg>上へ移動(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
@@ -36398,6 +36558,15 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142554Z" creationid="amake" creationdate="20170128T142554Z">
         <seg>下へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Move F&amp;irst</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224337Z" creationid="Hiroshi Miura" creationdate="20221124T224337Z">
+        <seg>先頭へ移動(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36828,6 +36997,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T053607Z" creationid="suzume" creationdate="20200119T053607Z">
         <seg>新規ローカルプロジェクトフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224346Z" creationid="Hiroshi Miura" creationdate="20221124T224346Z">
+        <seg>新規言語（言語コード + 国コード）</seg>
       </tuv>
     </tu>
     <tu>
@@ -37306,6 +37484,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T030212Z">
         <seg>非視覚的な整形（OmegaT の編集画面上には表示されません）は、訳文ファイルに引き継がれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224036Z" creationid="Hiroshi Miura" creationdate="20221124T224036Z">
+        <seg>非表示の命令とテキスト(&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37956,6 +38143,24 @@ as the Applications folder.</seg>
         <seg>Note: The Source File Encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T085256Z" creationid="miurahr" creationdate="20221105T085256Z">
+        <seg>注意：HTML ファイルにエンコーディング宣言がない場合のみ、原文ファイルのエンコーディング設定が有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224320Z" creationid="Hiroshi Miura" creationdate="20221124T224320Z">
+        <seg>注意：HHC ファイルにエンコーディング宣言がない場合のみ、原文ファイルのエンコーディング設定が有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224317Z" creationid="Hiroshi Miura" creationdate="20221124T224317Z">
         <seg>注意：HTML ファイルにエンコーディング宣言がない場合のみ、原文ファイルのエンコーディング設定が有効です。</seg>
       </tuv>
     </tu>
@@ -41545,6 +41750,15 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224206Z" creationid="Hiroshi Miura" creationdate="20221124T224206Z">
+        <seg>その他の設定：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
       </tuv>
@@ -42023,6 +42237,24 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
         <seg>Pattern Before</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140205T113447Z">
+        <seg>前方の正規表現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224334Z" creationid="Hiroshi Miura" creationdate="20221124T224334Z">
+        <seg>後方の正規表現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224333Z" creationid="Hiroshi Miura" creationdate="20221124T224333Z">
         <seg>前方の正規表現</seg>
       </tuv>
     </tu>
@@ -42796,6 +43028,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224044Z" creationid="Hiroshi Miura" creationdate="20221124T224044Z">
+        <seg>PowerPoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Powerful tools</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033029Z" creationid="miurahr" creationdate="20201101T033029Z">
@@ -42907,6 +43147,14 @@ language you would like to translate to.</seg>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061244Z" creationid="miurahr" creationdate="20201101T061244Z">
         <seg>OmegaTをインストールするための前提条件
 ===================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224251Z" creationid="Hiroshi Miura" creationdate="20221124T224251Z">
+        <seg>すべてのタグの空白を維持(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46151,6 +46399,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224048Z" creationid="Hiroshi Miura" creationdate="20221124T224048Z">
+        <seg>スライドのコメント(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
@@ -46504,6 +46761,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>訳文が、マニュアル翻訳の場合は、Manual/Unknownが、MTの結果の場合はMTエンジンの名称がはいる。→由来とした</note>
       <tuv lang="en">
         <seg>Save origin of &amp;translation</seg>
       </tuv>
@@ -48494,6 +48752,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224342Z" creationid="Hiroshi Miura" creationdate="20221124T224342Z">
+        <seg>設定済み、保存済み</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
@@ -49324,6 +49591,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Skipped translation units for which no source  segment was found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223917Z" creationid="Hiroshi Miura" creationdate="20221124T223917Z">
+        <seg>原文分節が見つからなかったためにスキップされた訳文の文節です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
@@ -49348,6 +49624,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224052Z" creationid="Hiroshi Miura" creationdate="20221124T224052Z">
+        <seg>スライド マスター(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Slide External Lin&amp;ks</seg>
       </tuv>
@@ -49360,6 +49645,15 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Slide La&amp;youts</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
+        <seg>スライド レイアウト(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224058Z" creationid="Hiroshi Miura" creationdate="20221124T224058Z">
         <seg>スライド レイアウト(&amp;Y)</seg>
       </tuv>
     </tu>
@@ -49631,6 +49925,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224727Z" creationid="Hiroshi Miura" creationdate="20221124T224727Z">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by full text, not shortcut</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130917T055808Z">
@@ -49830,6 +50132,24 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223953Z" creationid="Hiroshi Miura" creationdate="20221124T223953Z">
+        <seg>原文ファイルのエンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224302Z" creationid="Hiroshi Miura" creationdate="20221124T224257Z">
+        <seg>原文のエンコーディング：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
@@ -49843,6 +50163,24 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T111357Z">
         <seg>原文ファイル形式、ファイル名構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223950Z" creationid="Hiroshi Miura" creationdate="20221124T223950Z">
+        <seg>原文ファイル名の構成例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224255Z" creationid="Hiroshi Miura" creationdate="20221124T224255Z">
+        <seg>原文ファイル名の構成例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50404,6 +50742,15 @@ https://support.microsoft.com/kb/901125/</note>
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151015T105435Z" creationid="Yu-Tang" creationdate="20151015T105435Z">
+        <seg>ソフト改行（任意指定の行区切り）を段落区切りとみなす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224215Z" creationid="Hiroshi Miura" creationdate="20221124T224215Z">
         <seg>ソフト改行（任意指定の行区切り）を段落区切りとみなす</seg>
       </tuv>
     </tu>
@@ -57480,6 +57827,24 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The writable glossary file folder does not exist!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223711Z" creationid="Hiroshi Miura" creationdate="20221124T223711Z">
+        <seg>書き込み可能な用語集フォルダーは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The writable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223716Z" creationid="Hiroshi Miura" creationdate="20221124T223716Z">
+        <seg>書き込み可能な用語集ファイルは用語集フォルダーに存在しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The writable glossary for the project is always a TSV file saved in UTF-8 encoding.</seg>
@@ -61683,6 +62048,24 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223955Z" creationid="Hiroshi Miura" creationdate="20221124T223955Z">
+        <seg>訳文ファイルのエンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224304Z" creationid="Hiroshi Miura" creationdate="20221124T224259Z">
+        <seg>訳文のエンコーディング：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
@@ -61697,6 +62080,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T053420Z" creationid="miurahr" creationdate="20201101T053420Z">
         <seg>訳文ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223958Z" creationid="Hiroshi Miura" creationdate="20221124T223958Z">
+        <seg>訳文ファイル名の構成例</seg>
       </tuv>
     </tu>
     <tu>
@@ -62355,6 +62747,15 @@ Exact searches match the whole search string.</seg>
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T170155Z">
+        <seg>XML ファイルを読み込めません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223746Z" creationid="Hiroshi Miura" creationdate="20221124T223746Z">
         <seg>XML ファイルを読み込めません。</seg>
       </tuv>
     </tu>
@@ -63505,6 +63906,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T132734Z" creationid="miurahr" creationdate="20221023T132734Z">
         <seg>すべてのチームに影響する変更を行う場合に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224243Z" creationid="Hiroshi Miura" creationdate="20221124T224243Z">
+        <seg>プロジェクト専用ファイルフィルターの設定(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -67972,6 +68381,15 @@ them.</seg>
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T173112Z">
+        <seg>このプロジェクトは文単位で分節化されていますが、TMX ファイルは段落単位で分節化されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223926Z" creationid="Hiroshi Miura" creationdate="20221124T223926Z">
         <seg>このプロジェクトは文単位で分節化されていますが、TMX ファイルは段落単位で分節化されています。</seg>
       </tuv>
     </tu>
@@ -73337,6 +73755,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T170233Z">
         <seg>読み込みが完了しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T223839Z" creationid="Hiroshi Miura" creationdate="20221124T223839Z">
+        <seg>属性 {0} 読み込みが完了しました。</seg>
       </tuv>
     </tu>
     <tu>
