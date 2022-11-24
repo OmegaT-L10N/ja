@@ -3046,6 +3046,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T232914Z" creationid="Hiroshi Miura" creationdate="20221123T232426Z">
+        <seg>- プロジェクト&gt; プロジェクト設定 &gt; プロジェクト専用ファイルフィルター...を開き 
+	そのフォーマットがOmegaTでサポートされているか、確認します。
+	あるいは、設定 &gt; ユーザーレベル ファイルフィルタの設定画面を開き、
+	同様にサポートされているか、確認します。
+	- 元のアプリケーションでそのファイルを開き、内容が空でないことを確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140503T043232Z">
@@ -11228,6 +11244,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142255Z" creationid="miurahr" creationdate="20221103T142255Z">
         <seg>MediaWiki から原文ファイルを追加(&amp;W)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T024412Z" creationid="Hiroshi Miura" creationdate="20221124T024412Z">
+        <seg>MediaWiki から原文ファイルを追加(&amp;M)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20240,6 +20264,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150521T031545Z" creationid="Yu-Tang" creationdate="20150521T031545Z">
         <seg>置き換えてよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T232941Z" creationid="Hiroshi Miura" creationdate="20221123T232941Z">
+        <seg>チームプロジェクトをダウンロード...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34197,8 +34230,8 @@ automatically download and install it.</seg>
       <tuv lang="en">
         <seg>Local File Filters...</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154232Z" creationid="Hiroshi Miura" creationdate="20221022T154232Z">
-        <seg>ローカルファイルフィルター</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221123T232520Z" creationid="Hiroshi Miura" creationdate="20221022T154232Z">
+        <seg>プロジェクト専用ファイルフィルター</seg>
       </tuv>
     </tu>
     <tu>
