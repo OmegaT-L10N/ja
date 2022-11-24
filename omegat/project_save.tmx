@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_eccb12b10" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_a369132f3" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -44099,6 +44099,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T051504Z" creationid="Hiroshi Miura" creationdate="20221022T051504Z">
         <seg>翻訳する最初のセグメントが見つかるまで下にスクロールするのではなく、翻訳者は&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;をすばやく押して、&lt;l3&gt;アクションに直接ジャンプし&lt;/l3&gt;、翻訳を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T025557Z" creationid="Hiroshi Miura" creationdate="20221124T025557Z">
+        <seg>Re&amp;load</seg>
       </tuv>
     </tu>
     <tu>
