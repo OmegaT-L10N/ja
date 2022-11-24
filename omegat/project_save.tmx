@@ -10919,6 +10919,24 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>API key (optional)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T231810Z" creationid="Hiroshi Miura" creationdate="20221124T231810Z">
+        <seg>APIキー(オプション)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T231807Z" creationid="Hiroshi Miura" creationdate="20221124T231807Z">
+        <seg>API キー:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
@@ -16700,6 +16718,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T232142Z" creationid="Hiroshi Miura" creationdate="20221124T232025Z">
+        <seg>原文ファイルをコミット(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code has been contributed by</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T043645Z">
@@ -16766,6 +16792,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T012723Z" creationid="Hiroshi Miura" creationdate="20221022T012723Z">
         <seg>「c」で始まり「t」で終わる4文字を含む組み合わせだが、複数の行になっている場合は一致しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T232053Z" creationid="Hiroshi Miura" creationdate="20221124T232036Z">
+        <seg>訳文ファイルをコミット(&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17966,8 +18000,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221103T142434Z" creationid="miurahr" creationdate="20221103T142434Z">
-        <seg>Create Current Translate&amp;d File</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T232215Z" creationid="miurahr" creationdate="20221103T142434Z">
+        <seg>現在の訳文ファイルのみ生成(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26073,6 +26107,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130124T032837Z">
         <seg>移動メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Google API key not available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T231815Z" creationid="Hiroshi Miura" creationdate="20221124T231815Z">
+        <seg>Google API キーが見つかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47879,6 +47922,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T231847Z" creationid="Hiroshi Miura" creationdate="20221124T231847Z">
+        <seg>OmegaT 利用者ガイドを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130212T081533Z">
@@ -64385,8 +64436,8 @@ OmegaTが使用できるメモリを増やす
       <tuv lang="en">
         <seg>User manual online</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T023929Z" creationid="miurahr" creationdate="20201101T023929Z">
-        <seg>オンライン取扱説明書j</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T231915Z" creationid="miurahr" creationdate="20201101T023929Z">
+        <seg>オンライン取扱説明書</seg>
       </tuv>
     </tu>
     <tu>
