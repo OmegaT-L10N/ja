@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_eccb12b10" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d1034fa" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -403,6 +403,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235631Z" creationid="miurahr" creationdate="20221209T235631Z">
+        <seg>ファイルを追加(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033504Z">
@@ -521,6 +529,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T054505Z" creationid="suzume" creationdate="20200119T054505Z">
         <seg>全ファイルに適用する(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235525Z" creationid="miurahr" creationdate="20221209T235525Z">
+        <seg>入力補完(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +778,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T115213Z" creationid="Yu-Tang" creationdate="20150716T115213Z">
+        <seg>辞書(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235515Z" creationid="miurahr" creationdate="20221209T235515Z">
         <seg>辞書(&amp;D)</seg>
       </tuv>
     </tu>
@@ -1212,6 +1236,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>すべて小文字に(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235504Z" creationid="miurahr" creationdate="20221209T235504Z">
+        <seg>機械翻訳(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11047,6 +11079,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130124T154700Z">
         <seg>OmegaT について...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235449Z" creationid="miurahr" creationdate="20221209T235449Z">
+        <seg>設定フォルダにアクセス(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26086,6 +26126,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235602Z" creationid="miurahr" creationdate="20221209T235602Z">
+        <seg>分節へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Go to Segment Source</seg>
       </tuv>
@@ -26768,6 +26817,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170201T142950Z" creationid="amake" creationdate="20170201T142950Z">
         <seg>履歴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235535Z" creationid="miurahr" creationdate="20221209T235535Z">
+        <seg>履歴補完(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235546Z" creationid="miurahr" creationdate="20221209T235546Z">
+        <seg>履歴予測(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34526,6 +34591,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T094948Z" creationid="Kasuya" creationdate="20160706T094948Z">
         <seg>ローカルプロジェクトフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235853Z" creationid="miurahr" creationdate="20221209T235853Z">
+        <seg>Local Segmentation R&amp;ules...</seg>
       </tuv>
     </tu>
     <tu>
@@ -43106,6 +43179,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235638Z" creationid="miurahr" creationdate="20221209T235638Z">
+        <seg>後処理用コマンドが異常終了。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Post-processing commands completed.</seg>
       </tuv>
@@ -43126,6 +43208,15 @@ language you would like to translate to.</seg>
         <seg>Post-processing commands was interrupted.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T143637Z" creationid="miurahr" creationdate="20221103T143637Z">
+        <seg>後処理用コマンドの実行が中断しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235642Z" creationid="miurahr" creationdate="20221209T235642Z">
         <seg>後処理用コマンドの実行が中断しました。</seg>
       </tuv>
     </tu>
@@ -47216,6 +47307,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235757Z" creationid="miurahr" creationdate="20221209T235757Z">
+        <seg>文単位の分節化(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
@@ -50507,6 +50607,15 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160212T070337Z" creationid="Yu-Tang" creationdate="20160212T023859Z">
         <seg>原文または訳文言語に使用するトークナイザーです（プロジェクト設
 		定より優先されます）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221209T235613Z" creationid="miurahr" creationdate="20221209T235613Z">
+        <seg>原文と訳文の長さ（文字数）</seg>
       </tuv>
     </tu>
     <tu>
