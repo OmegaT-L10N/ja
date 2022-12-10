@@ -2294,6 +2294,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001434Z" creationid="miurahr" creationdate="20221210T001434Z">
+        <seg>( API キーを使用している場合は、パスワードを空のままにします。 )</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
@@ -19285,6 +19294,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>DeepL API key not available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001425Z" creationid="miurahr" creationdate="20221210T001425Z">
+        <seg>DeepL API キーは使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
       </tuv>
@@ -20085,6 +20103,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130301T093726Z">
+        <seg>ある原文と同一内容の分節が複数ある場合に、文脈に応じて作られたその原文向けの複数の翻訳を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001450Z" creationid="miurahr" creationdate="20221210T001450Z">
         <seg>ある原文と同一内容の分節が複数ある場合に、文脈に応じて作られたその原文向けの複数の翻訳を表示します。</seg>
       </tuv>
     </tu>
@@ -22045,6 +22072,15 @@ xxまたはxxxはは言語コード、YYは国コード(省略可能)です。</
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130313T101532Z">
         <seg>ProjectLocker から取得した URL を［&lt;e0&gt;リポジトリのURL&lt;/e0&gt;］欄に入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001531Z" creationid="miurahr" creationdate="20221210T001531Z">
+        <seg>セット名を入力してください：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36486,6 +36522,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001430Z" creationid="miurahr" creationdate="20221210T001430Z">
+        <seg>モデル ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
@@ -37743,6 +37788,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140717T122243Z">
         <seg>タグと数値を除く一致率（ステミングなし）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001549Z" creationid="miurahr" creationdate="20221210T001549Z">
+        <seg>書き込み可能な用語集ファイルが用語集フォルダーに存在しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46754,6 +46807,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001529Z" creationid="miurahr" creationdate="20221210T001529Z">
+        <seg>スロット #{0} のスクリプトを実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
@@ -48798,12 +48860,11 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Select a plugin file (*.jar, *.zip)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221210T001329Z" creationid="miurahr" creationdate="20221210T001329Z">
-        <seg>スクリプトファイルの選択</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001421Z" creationid="miurahr" creationdate="20221210T001329Z">
+        <seg>プラグインファイル(*.jar,*.zip)の選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -51646,6 +51707,15 @@ https://support.microsoft.com/kb/901125/</note>
         <seg>Subscription Key:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141722Z" creationid="miurahr" creationdate="20201101T141722Z">
+        <seg>Subscriptionキー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Subscription key:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001441Z" creationid="miurahr" creationdate="20221210T001441Z">
         <seg>Subscriptionキー:</seg>
       </tuv>
     </tu>
@@ -62548,6 +62618,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001534Z" creationid="miurahr" creationdate="20221210T001534Z">
+        <seg>この複数形は #{0} の形式で訳してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translated Documents</seg>
       </tuv>
@@ -63306,6 +63385,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160757Z">
         <seg>新しい TMX ファイルを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T002243Z" creationid="miurahr" creationdate="20221210T002243Z">
+        <seg>サーバーの翻訳が更新されているため、自分の変更を登録できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65054,6 +65141,15 @@ searchable without subscription:</seg>
         <seg>Username or API Key:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141700Z" creationid="miurahr" creationdate="20201101T141700Z">
+        <seg>ユーザー名または API キー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T001428Z" creationid="miurahr" creationdate="20221210T001428Z">
         <seg>ユーザー名または API キー:</seg>
       </tuv>
     </tu>
