@@ -443,6 +443,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T003203Z" creationid="miurahr" creationdate="20221210T003203Z">
+        <seg>プロジェクト専用の後処理用コマンドを許可(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T141536Z" creationid="amake" creationdate="20170128T141536Z">
@@ -18496,6 +18504,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Creation of new team project cancelled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T002956Z" creationid="miurahr" creationdate="20221210T002956Z">
+        <seg>チームプロジェクトの新規作成を中止しました</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Creator</seg>
       </tuv>
@@ -20776,6 +20793,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T003016Z" creationid="miurahr" creationdate="20221210T003016Z">
+        <seg>もう一度、確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
@@ -22136,6 +22162,15 @@ xxまたはxxxはは言語コード、YYは国コード(省略可能)です。</
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T002933Z" creationid="miurahr" creationdate="20221210T002933Z">
+        <seg>{0}のユーザー名/パスワードを入力してください</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Enter your master password.</seg>
       </tuv>
@@ -22353,6 +22388,15 @@ No one hears your screams</seg>
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141917Z" creationid="miurahr" creationdate="20201101T141917Z">
+        <seg>リモートプロジェクトファイルとして{0}を取得中にエラーが発生しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T003038Z" creationid="miurahr" creationdate="20221210T003038Z">
         <seg>リモートプロジェクトファイルとして{0}を取得中にエラーが発生しました</seg>
       </tuv>
     </tu>
@@ -25771,6 +25815,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T035508Z" creationid="Hiroshi Miura" creationdate="20221022T033310Z">
         <seg>ユーザーレベルか、プロジェクトのローカルルールか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T003132Z" creationid="miurahr" creationdate="20221210T003132Z">
+        <seg>ユーザーレベルの後処理用外部コマンド</seg>
       </tuv>
     </tu>
     <tu>
@@ -37771,6 +37823,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T003029Z" creationid="miurahr" creationdate="20221210T003029Z">
+        <seg>定義済みの資格情報が渡されませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
@@ -44258,6 +44319,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T134237Z">
         <seg>プロジェクト作成の開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T003103Z" creationid="miurahr" creationdate="20221210T003103Z">
+        <seg>プロジェクト保存間隔</seg>
       </tuv>
     </tu>
     <tu>
@@ -53146,6 +53215,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121231T150227Z">
         <seg>削除対象の文字列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T003657Z" creationid="miurahr" creationdate="20221210T003657Z">
+        <seg>Text to remove</seg>
       </tuv>
     </tu>
     <tu>
@@ -65061,6 +65138,15 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T143443Z">
         <seg>ユーザーの地域設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T003007Z" creationid="miurahr" creationdate="20221210T003007Z">
+        <seg>ユーザーの認証に失敗しました</seg>
       </tuv>
     </tu>
     <tu>
