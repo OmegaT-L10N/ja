@@ -951,12 +951,11 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>&amp;Exported TMs</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221103T142531Z" creationid="miurahr" creationdate="20221103T142531Z">
-        <seg>TMを出力(&amp;E)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T011418Z" creationid="miurahr" creationdate="20221103T142531Z">
+        <seg>エキスポート(&amp;E)先</seg>
       </tuv>
     </tu>
     <tu>
@@ -1823,8 +1822,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T115812Z" creationid="Yu-Tang" creationdate="20150716T115812Z">
-        <seg>原文ファイル(&amp;S)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T011206Z" creationid="Yu-Tang" creationdate="20150716T115812Z">
+        <seg>原文ファイル(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1895,8 +1894,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T115825Z" creationid="Yu-Tang" creationdate="20150716T115825Z">
-        <seg>訳文ファイル(&amp;T)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T011214Z" creationid="Yu-Tang" creationdate="20150716T115825Z">
+        <seg>訳文ファイル(&amp;K)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42379,8 +42378,8 @@ install the Oracle JRE on your own.</seg>
       <tuv lang="en">
         <seg>P&amp;roject Folder</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221103T142522Z" creationid="miurahr" creationdate="20221103T142522Z">
-        <seg>プロジェクトフォルダー(&amp;R)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T011200Z" creationid="miurahr" creationdate="20221103T142522Z">
+        <seg>プロジェクトフォルダー(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
