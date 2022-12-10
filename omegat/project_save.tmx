@@ -34597,8 +34597,8 @@ automatically download and install it.</seg>
       <tuv lang="en">
         <seg>Local Segmentation R&amp;ules...</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221209T235853Z" creationid="miurahr" creationdate="20221209T235853Z">
-        <seg>Local Segmentation R&amp;ules...</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T000645Z" creationid="miurahr" creationdate="20221209T235853Z">
+        <seg>プロジェクト専用の分節化規則(&amp;U)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50500,6 +50500,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T000743Z" creationid="miurahr" creationdate="20221210T000743Z">
+        <seg>原文ファイルフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
@@ -64191,6 +64200,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T132734Z" creationid="miurahr" creationdate="20221023T132734Z">
         <seg>すべてのチームに影響する変更を行う場合に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T000649Z" creationid="miurahr" creationdate="20221210T000635Z">
+        <seg>プロジェクト専用の分節化規則を使用(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
