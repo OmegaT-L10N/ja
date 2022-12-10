@@ -16165,6 +16165,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T002813Z" creationid="miurahr" creationdate="20221210T002813Z">
+        <seg>リポジトリに正しいコミットとファイルがあることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
@@ -17518,6 +17527,16 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T004447Z" creationid="miurahr" creationdate="20201101T004447Z">
         <seg>連絡先とサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T002753Z" creationid="miurahr" creationdate="20221210T002753Z">
+        <seg>他に必要な手続きがあるか、プロジェクトの管理者に確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44209,6 +44228,23 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T002757Z" creationid="miurahr" creationdate="20221210T002757Z">
+        <seg>プロジェクトの変換に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T002728Z" creationid="miurahr" creationdate="20221210T002728Z">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Project creating end</seg>
       </tuv>
@@ -60798,10 +60834,9 @@ this version will not interfere with it.</seg>
 delete your local data and re-download the project contents from
 the server.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221210T002554Z" creationid="miurahr" creationdate="20221210T002554Z">
-        <seg>This will
-delete your local data and re-download the project contents from
-the server.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T002715Z" creationid="miurahr" creationdate="20221210T002554Z">
+        <seg>PC側のデータを削除し、
+サーバーからプロジェクトをダウンロードし直します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68920,6 +68955,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T165812Z">
         <seg>それらの内容がいったん現在のプロジェクトの &lt;f0&gt;project_save.tmx&lt;/f0&gt; に蓄積されたなら、もう必要ないファイルを削除してもよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221210T002917Z" creationid="miurahr" creationdate="20221210T002917Z">
+        <seg>リポジトリに、最初のコミットを実行しましたか？</seg>
       </tuv>
     </tu>
     <tu>
