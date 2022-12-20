@@ -492,6 +492,15 @@ java -jar OmegaT.jar $*</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000140Z" creationid="Hiroshi Miura" creationdate="20221220T000140Z">
+        <seg>終了時に常に確認(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>&amp;Apply a different font size to the dictionary pane</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T143218Z" creationid="miurahr" creationdate="20221103T143218Z">
@@ -1094,6 +1103,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001100Z" creationid="Hiroshi Miura" creationdate="20221220T001100Z">
+        <seg>ダウンロードに移動(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
@@ -1115,6 +1133,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T011252Z" creationid="miurahr" creationdate="20201101T011252Z">
         <seg>大文字と小文字が大きく異なる(例:FOO対foo)検出結果を無視(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000448Z" creationid="Hiroshi Miura" creationdate="20221220T000448Z">
+        <seg>大/小文字が異なる(例:FOO対foo)検出結果を無視(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1175,6 +1201,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000915Z" creationid="Hiroshi Miura" creationdate="20221220T000915Z">
+        <seg>プラグインをディスクからインストール(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T143726Z" creationid="amake" creationdate="20170128T143726Z">
@@ -1220,6 +1254,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122300Z" creationid="amake" creationdate="20170128T122300Z">
         <seg>ローカルサーバーを起動(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000508Z" creationid="Hiroshi Miura" creationdate="20221220T000508Z">
+        <seg>レイアウト(&amp;L):</seg>
       </tuv>
     </tu>
     <tu>
@@ -12330,6 +12372,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000714Z" creationid="Hiroshi Miura" creationdate="20221220T000714Z">
+        <seg>プロジェクト専用の後処理用コマンドを許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130917T060742Z">
@@ -13672,6 +13722,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T203806Z">
         <seg>アッサム語（Assamese）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assign &amp;shortcut</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000747Z" creationid="Hiroshi Miura" creationdate="20221220T000747Z">
+        <seg>ショートカット(&amp;S)のわりあて</seg>
       </tuv>
     </tu>
     <tu>
@@ -17358,6 +17416,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001216Z" creationid="Hiroshi Miura" creationdate="20221220T001216Z">
+        <seg>Configuration Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T143056Z">
@@ -17718,6 +17784,15 @@ additional steps need to be taken.</seg>
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150451Z" creationid="amake" creationdate="20170128T150451Z">
+        <seg>コンテキストメニューの優先度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000719Z" creationid="Hiroshi Miura" creationdate="20221220T000719Z">
         <seg>コンテキストメニューの優先度:</seg>
       </tuv>
     </tu>
@@ -20173,6 +20248,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>FIXME: 訳文のチェック必要</note>
+      <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000235Z" creationid="Hiroshi Miura" creationdate="20221220T000235Z">
+        <seg>TBX用語集を文脈として表示</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Display a list of segments where source and target identical content</seg>
       </tuv>
@@ -21566,6 +21650,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T132231Z" creationid="Hiroshi Miura" creationdate="20221021T132231Z">
         <seg>翻訳された各ユーザーガイドは、それぞれの言語フォルダに格納されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each translated user manual comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001149Z" creationid="Hiroshi Miura" creationdate="20221220T001149Z">
+        <seg>翻訳された各取扱説明書は、それぞれの言語フォルダに格納されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23458,6 +23550,30 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150318Z" creationid="amake" creationdate="20170128T150318Z">
         <seg>外部検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Command</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000758Z" creationid="Hiroshi Miura" creationdate="20221220T000758Z">
+        <seg>外部検索コマンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000730Z" creationid="Hiroshi Miura" creationdate="20221220T000730Z">
+        <seg>外部検索セット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000753Z" creationid="Hiroshi Miura" creationdate="20221220T000753Z">
+        <seg>外部検索 URL </seg>
       </tuv>
     </tu>
     <tu>
@@ -25971,6 +26087,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000655Z" creationid="Hiroshi Miura" creationdate="20221220T000655Z">
+        <seg>ユーザーレベルの外部検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global File &amp;Filters...</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142832Z" creationid="miurahr" creationdate="20221103T142832Z">
@@ -26530,6 +26654,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T142358Z" creationid="miurahr" creationdate="20201101T142358Z">
+        <seg>「設定」 &gt; 「外部検索」を有効にしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000623Z" creationid="Hiroshi Miura" creationdate="20221220T000623Z">
         <seg>「設定」 &gt; 「外部検索」を有効にしてください。</seg>
       </tuv>
     </tu>
@@ -30729,6 +30862,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>In editor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000705Z" creationid="Hiroshi Miura" creationdate="20221220T000705Z">
+        <seg>編集エリア</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
@@ -31954,6 +32096,22 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221112T050855Z" creationid="miurahr" creationdate="20221112T050855Z">
         <seg>インストールに失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000926Z" creationid="Hiroshi Miura" creationdate="20221220T000926Z">
+        <seg>プラグインファイルのインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin {0} {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001037Z" creationid="Hiroshi Miura" creationdate="20221220T001005Z">
+        <seg>プラグインのインストール {0} {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35016,6 +35174,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000700Z" creationid="Hiroshi Miura" creationdate="20221220T000700Z">
+        <seg>プロジェクト専用の外部検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local External Searches...</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T144007Z" creationid="miurahr" creationdate="20221103T143956Z">
@@ -35150,6 +35316,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T143900Z" creationid="miurahr" creationdate="20221103T143837Z">
         <seg>プロジェクト専用の後処理コマンドは無効になり、実行されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000556Z" creationid="Hiroshi Miura" creationdate="20221220T000556Z">
+        <seg>プロジェクト専用のプロジェクトコマンドは、セキュリティ上の理由で無効になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36278,6 +36452,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Master password:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000811Z" creationid="Hiroshi Miura" creationdate="20221220T000811Z">
+        <seg>マスターパスワード:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -36357,6 +36540,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="JC Helary" changedate="20130111T153856Z">
         <seg>参考訳文の一致率ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000319Z" creationid="Hiroshi Miura" creationdate="20221220T000239Z">
+        <seg>用語が別々に表示されている場合でも、用語グループを一致させる</seg>
       </tuv>
     </tu>
     <tu>
@@ -36693,6 +36885,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
         <seg>Merge alternate definitions for the same term</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210510T234217Z" creationid="miurahr" creationdate="20210510T234217Z">
+        <seg>同じ用語の代替の定義を結合する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000457Z" creationid="Hiroshi Miura" creationdate="20221220T000457Z">
         <seg>同じ用語の代替の定義を結合する</seg>
       </tuv>
     </tu>
@@ -38458,6 +38659,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not assigned</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000809Z" creationid="Hiroshi Miura" creationdate="20221220T000809Z">
+        <seg>わりあてなし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T034035Z">
@@ -38470,6 +38679,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140207T213447Z">
         <seg>存在しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000836Z" creationid="Hiroshi Miura" creationdate="20221220T000836Z">
+        <seg>未設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -42674,6 +42892,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other plugins are available online.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000851Z" creationid="Hiroshi Miura" creationdate="20221220T000851Z">
+        <seg>さまざまな プラグインがオンラインで提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T084742Z" creationid="Yu-Tang" creationdate="20141202T084742Z">
@@ -43809,6 +44035,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221210T001405Z" creationid="miurahr" creationdate="20221210T001324Z">
         <seg>プラグインのインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001042Z" creationid="Hiroshi Miura" creationdate="20221220T001042Z">
+        <seg>プラグインのインストールに失敗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46536,6 +46770,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000423Z" creationid="Hiroshi Miura" creationdate="20221220T000423Z">
+        <seg>原文挿入時に用語集から置換</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
@@ -48157,6 +48400,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000531Z" creationid="Hiroshi Miura" creationdate="20221220T000531Z">
+        <seg>自動的に検索(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search ({0})</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T142307Z" creationid="miurahr" creationdate="20201101T142307Z">
@@ -48876,6 +49127,31 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T173910Z" creationid="Yu-Tang" creationdate="20141202T173910Z">
         <seg>すべてのメニュー項目の詳細については、「メニューとキーボードショートカット」ページの&lt;e1&gt;メインメニュー&lt;/e1&gt;の各項目を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001111Z" creationid="Hiroshi Miura" creationdate="20221220T001111Z">
+        <seg>詳細については-&lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001158Z" creationid="Hiroshi Miura" creationdate="20221220T001158Z">
+        <seg>詳細については、設定-&lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001211Z" creationid="Hiroshi Miura" creationdate="20221220T001211Z">
+        <seg>詳細については、&lt;l0/&gt;ウインドウを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49841,6 +50117,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T145705Z" creationid="amake" creationdate="20170128T145705Z">
         <seg>設定済み、保存済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000832Z" creationid="Hiroshi Miura" creationdate="20221220T000820Z">
+        <seg>設定・保存済み</seg>
       </tuv>
     </tu>
     <tu>
@@ -56392,6 +56676,14 @@ But others await</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The index to the multilingual user manual.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001134Z" creationid="Hiroshi Miura" creationdate="20221220T001134Z">
+        <seg>多言語の取扱説明書の索引を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The information below summarizes their use and how they are invoked:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T172204Z">
@@ -60480,6 +60772,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T162149Z">
         <seg>このファイルはプロジェクトに必ず存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001056Z" creationid="Hiroshi Miura" creationdate="20221220T001056Z">
+        <seg>このファイルは、プラグインのアーカイブではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64640,6 +64940,18 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001019Z" creationid="Hiroshi Miura" creationdate="20221220T001004Z">
+        <seg>プラグインの更新・上書き {0}
+現在: {1}
+更新: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Upgrading OmegaT</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T191205Z">
@@ -64878,6 +65190,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000132Z" creationid="Hiroshi Miura" creationdate="20221220T000132Z">
+        <seg>&amp;TAB キーで次の分節へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -64893,11 +65213,28 @@ OmegaTが使用できるメモリを増やす
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000515Z" creationid="Hiroshi Miura" creationdate="20221220T000515Z">
+        <seg>参考訳文を使用(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20170127T082521Z" creationid="Yu-Tang" creationdate="20170127T082521Z">
         <seg>辞書項目の照合にトークナイザーを使う(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000338Z" creationid="Hiroshi Miura" creationdate="20221220T000338Z">
+        <seg>ステミング（語幹処理）を適用(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
