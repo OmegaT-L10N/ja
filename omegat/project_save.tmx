@@ -17418,8 +17418,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Configuration Folder</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001216Z" creationid="Hiroshi Miura" creationdate="20221220T001216Z">
-        <seg>Configuration Folder</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001325Z" creationid="Hiroshi Miura" creationdate="20221220T001216Z">
+        <seg>設定フォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -37224,6 +37224,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T002157Z" creationid="Hiroshi Miura" creationdate="20221220T002157Z">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -49138,6 +49146,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001725Z" creationid="Hiroshi Miura" creationdate="20221220T001725Z">
+        <seg>詳細については、 &lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
@@ -55539,6 +55555,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001459Z" creationid="Hiroshi Miura" creationdate="20221220T001410Z">
+        <seg>設定フォルダーには、OmegaT設定の大部分\が格納されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -56964,6 +56988,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T124619Z" creationid="miurahr" creationdate="20221023T124619Z">
         <seg>OmegaT java実行可能ファイルの場所。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001610Z" creationid="Hiroshi Miura" creationdate="20221220T001610Z">
+        <seg>標準設定フォルダーの場所はシステムによって異なります(&lt;e0&gt;~&lt;/e0&gt;の文字はホームディレクトリを表します)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65364,6 +65396,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001532Z" creationid="Hiroshi Miura" creationdate="20221220T001532Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用してアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T091202Z" creationid="miurahr" creationdate="20221105T091202Z">
@@ -69551,6 +69591,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T101246Z">
         <seg>どの要素を翻訳するか、選ぶことができます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001704Z" creationid="Hiroshi Miura" creationdate="20221220T001704Z">
+        <seg>コマンドラインから起動する場合には、標準以外のOmegaT設定フォルダーを指定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79661,6 +79709,30 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T175008Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001613Z" creationid="Hiroshi Miura" creationdate="20221220T001613Z">
+        <seg>~/.omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001614Z" creationid="Hiroshi Miura" creationdate="20221220T001614Z">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001615Z" creationid="Hiroshi Miura" creationdate="20221220T001615Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
