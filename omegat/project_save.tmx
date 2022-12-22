@@ -11669,6 +11669,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional contents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124548Z" creationid="miurahr" creationdate="20221222T124548Z">
+        <seg>その他のファイルたち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T050028Z">
@@ -60968,12 +60976,11 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221222T124010Z" creationid="miurahr" creationdate="20221222T124010Z">
-        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用したときに現在選択されているテキストが格納されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124527Z" creationid="miurahr" creationdate="20221222T124010Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用したときに、画面で選択されているテキストが格納されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61682,6 +61689,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T045314Z" creationid="miurahr" creationdate="20201101T045314Z">
         <seg>ユーザーインターフェースの各部分について、任意の色に変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124646Z" creationid="miurahr" creationdate="20221222T124646Z">
+        <seg>これは、編集ウィンドウのショートカットをカスタマイズするためのパラメータのファイルです。</seg>
       </tuv>
     </tu>
     <tu>
