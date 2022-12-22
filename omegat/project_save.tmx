@@ -11730,6 +11730,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional themes can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153301Z" creationid="miurahr" creationdate="20221222T153301Z">
+        <seg>様々なテーマをプラグインとして追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T161325Z">
@@ -38913,6 +38921,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Not all natively provided Java themes are compatible with OmegaT operation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153322Z" creationid="miurahr" creationdate="20221222T153322Z">
+        <seg>ネイティブに提供されているすべてのJavaテーマがOmegaT操作と互換性があるわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Not assigned</seg>
       </tuv>
@@ -47533,6 +47550,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Restores the OmegaT window panes to their default arrangement.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153334Z" creationid="miurahr" creationdate="20221222T153334Z">
+        <seg>OmegaT で使用する各ウィンドウを、初期位置に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Restores the components of the main OmegaT window to their default state.</seg>
       </tuv>
@@ -50075,6 +50101,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a theme for the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153246Z" creationid="miurahr" creationdate="20221222T153246Z">
+        <seg>OmegaTのユーザインタフェースのテーマを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select appropriate version</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221219T235633Z" creationid="Hiroshi Miura" creationdate="20221219T235349Z">
@@ -50192,6 +50226,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061734Z" creationid="miurahr" creationdate="20201115T061734Z">
         <seg>最初のセグメントを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the font and font size used to display the text in the main window panes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153543Z" creationid="miurahr" creationdate="20221222T153543Z">
+        <seg>メイン画面のウィンドウに使用するテキストのフォントとサイズを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59469,6 +59511,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The themes also provide predefined set of default colors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153308Z" creationid="miurahr" creationdate="20221222T153308Z">
+        <seg>テーマには、定義済みのデフォルトのの色のセットも用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
@@ -66456,6 +66507,15 @@ OmegaTが使用できるメモリを増やす
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use this feature when you are unable to restore the desired arrangement after undocking, moving, or hiding one or more panes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153344Z" creationid="miurahr" creationdate="20221222T153344Z">
+        <seg>この機能は、1つまたは複数のペインをドッキング解除、移動、または非表示にした後で、目的の配置を復元できない場合に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
@@ -70430,6 +70490,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T132724Z" creationid="Hiroshi Miura" creationdate="20221021T132724Z">
         <seg>&lt;l0/&gt;を使用して、この用語集に新しい用語を入力できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use it when panes do not appear as expected after an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153411Z" creationid="miurahr" creationdate="20221222T153411Z">
+        <seg>また、OmegaT をバージョンアップし、期待するウィンドウが表示されなくなったような場合にも、使用できます。</seg>
       </tuv>
     </tu>
     <tu>
