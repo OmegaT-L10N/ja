@@ -55606,8 +55606,8 @@ shown below.</seg>
       <tuv lang="en">
         <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001459Z" creationid="Hiroshi Miura" creationdate="20221220T001410Z">
-        <seg>設定フォルダーには、OmegaT設定の大部分\が格納されます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T123455Z" creationid="Hiroshi Miura" creationdate="20221220T001410Z">
+        <seg>設定フォルダーには、OmegaT設定の大部分が格納されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57257,6 +57257,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T062430Z" creationid="miurahr" creationdate="20201101T062412Z">
         <seg>OmegaT に関する最新の情報は以下のウェブサイトで公開されています:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T123617Z" creationid="miurahr" creationdate="20221222T123617Z">
+        <seg>最重要なのは、 &lt;f0&gt;OmegaT.log&lt;/f0&gt;です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59884,6 +59892,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T123720Z" creationid="miurahr" creationdate="20221222T123720Z">
+        <seg>これらのファイルには、様々な内部の状態が記録されており、OmegaT実行中のプログラム内のイベントメッセージが記録されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054309Z" creationid="miurahr" creationdate="20201115T054309Z">
@@ -60901,6 +60917,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T103729Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 実行中の Java エラーメッセージが記録されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T123556Z" creationid="miurahr" creationdate="20221222T123443Z">
+        <seg>このフォルダーには、たくさんのログファイルが保存されています。</seg>
       </tuv>
     </tu>
     <tu>
