@@ -28836,8 +28836,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221222T123953Z" creationid="miurahr" creationdate="20221222T123953Z">
-        <seg>適切な機能を使用する場合、このフォルダーには最大で3つのテキストファイルがあります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124112Z" creationid="miurahr" creationdate="20221222T123953Z">
+        <seg>スクリプト機能を使用する場合、このフォルダーに最大で3つのテキストファイルが保存されます：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59098,6 +59098,22 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124238Z" creationid="miurahr" creationdate="20221222T124116Z">
+        <seg>ファイル内のテキストは、次の分節に移動するたびに置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124040Z" creationid="miurahr" creationdate="20221222T124040Z">
+        <seg>ファイル内のテキストは、スクリプト機能が呼び出されるたびに置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text is exported to a plain text file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T042031Z">
@@ -60897,6 +60913,22 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124211Z" creationid="miurahr" creationdate="20221222T124113Z">
+        <seg>&lt;l1/&gt;設定が有効になると、編集中の分節の&lt;e0&gt;原文テキスト&lt;/e0&gt;がこのファイルに入ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124308Z" creationid="miurahr" creationdate="20221222T124308Z">
+        <seg>&lt;l1/&gt;設定が有効になると、編集中の分節の&lt;e0&gt;訳文テキスト&lt;/e0&gt;がこのファイルに入ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T123421Z" creationid="miurahr" creationdate="20221222T123421Z">
@@ -62008,6 +62040,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T044046Z">
         <seg>Thomas Huriaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those three files provide as a simple way to access some OmegaT content and process it with local programs such as shell scripts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124445Z" creationid="miurahr" creationdate="20221222T124445Z">
+        <seg>これらの3つのファイルをとおして、シェルスクリプトなどのローカルプログラムで自動処理するときに、OmegaTのコンテンツに簡単にアクセスできるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78514,6 +78554,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T174955Z">
         <seg>target = project.getTranslationInfo(currsegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target.txt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124238Z" creationid="miurahr" creationdate="20221222T124238Z">
+        <seg>target.txt</seg>
       </tuv>
     </tu>
     <tu>
