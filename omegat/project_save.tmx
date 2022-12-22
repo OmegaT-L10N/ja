@@ -42652,6 +42652,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the local folder where OmegaT configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T151631Z" creationid="miurahr" creationdate="20221222T151631Z">
+        <seg>OmegaT設定ファイルが保管されているローカル・ディレクトリーを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T053552Z" creationid="miurahr" creationdate="20201115T053552Z">
@@ -57929,6 +57937,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The program will ask for confirmation before closing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T151229Z" creationid="miurahr" creationdate="20221222T151229Z">
+        <seg>OmegaT を終了する前に、常に確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The program will see confirmation before closing down.</seg>
       </tuv>
@@ -61754,6 +61771,15 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>This option is useful with some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T151220Z" creationid="miurahr" creationdate="20221222T151220Z">
+        <seg>この設定は、中国語、日本語、または朝鮮語のような入力システムの場合に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
       </tuv>
@@ -61768,6 +61794,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T131334Z" creationid="miurahr" creationdate="20221023T131334Z">
         <seg>この設定はそのエラーを防止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option sets the segment validation key to &lt;k0&gt;Tab&lt;/k0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T151206Z" creationid="miurahr" creationdate="20221222T151206Z">
+        <seg>編集する分節を次へ進めるキーを、代わりに［Tab］キーとします。</seg>
       </tuv>
     </tu>
     <tu>
