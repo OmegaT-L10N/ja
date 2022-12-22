@@ -13454,6 +13454,23 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153816Z" creationid="miurahr" creationdate="20221222T153816Z">
+        <seg>字体サイズ設定を辞書ウィンドウに適用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153722Z" creationid="miurahr" creationdate="20221222T153722Z">
+        <seg>この字体を表形式データ(プロジェクトファイル、翻訳状況など)に適用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T203609Z">
@@ -15237,6 +15254,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the dictionary pane uses the same font size as the main window panes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153921Z" creationid="miurahr" creationdate="20221222T153921Z">
+        <seg>デフォルトでは、辞書ウィンドウはメイン ウィンドウと同じ字体のサイズを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T145249Z">
@@ -15827,6 +15852,15 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T162112Z">
         <seg>文字数（空白を除く）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Characters that are not supported will appear as squares.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153712Z" creationid="miurahr" creationdate="20221222T153712Z">
+        <seg>サポートされていない文字は四角形で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30442,6 +30476,15 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you work in a language pair that uses different writing systems, make sure you choose a font that can display both languages correctly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153638Z" creationid="miurahr" creationdate="20221222T153638Z">
+        <seg>異なる記述方式を使用する言語ペアで作業する場合は、両方の言語を正しく表示できる字体を選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;u0&gt; OmegaT PayPal account&lt;/u0&gt;.</seg>
       </tuv>
@@ -41268,6 +41311,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT uses the same font for both the source and target languages.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153614Z" creationid="miurahr" creationdate="20221222T153614Z">
+        <seg>OmegaTでは、原文と訳文の両方に同じ字体を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130123T092648Z">
@@ -50232,8 +50283,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select the font and font size used to display the text in the main window panes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221222T153543Z" creationid="miurahr" creationdate="20221222T153543Z">
-        <seg>メイン画面のウィンドウに使用するテキストのフォントとサイズを選択します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153702Z" creationid="miurahr" creationdate="20221222T153543Z">
+        <seg>メイン画面のウィンドウに使用するテキストの字体とサイズを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53540,6 +53591,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T141847Z" creationid="amake" creationdate="20170128T141847Z">
         <seg>テーブル表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tabular data is by default displayed in a monospaced font that keeps columns properly aligned.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153741Z" creationid="miurahr" creationdate="20221222T153741Z">
+        <seg>表形式のデータは、列が正しく位置合わせされるように、デフォルトではで等間隔の字体で表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67023,6 +67082,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T054449Z" creationid="miurahr" creationdate="20201101T054449Z">
         <seg>ローカル・マシン上で、 OmegaT で提供されている言語チェッカーとは異なる言語チェッカーを使用すると、検証ルールを個別設定できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a proportional font will break that layout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153759Z" creationid="miurahr" creationdate="20221222T153759Z">
+        <seg>プロポーショナル字体を使用すると、そのレイアウトが壊れるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
