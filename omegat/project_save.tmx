@@ -41397,6 +41397,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will use the associated tokenizer to find matches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152615Z" creationid="miurahr" creationdate="20221222T152615Z">
+        <seg>用語集の機能の検索に、語幹処理(ステミング)を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130515T220528Z">
@@ -66147,6 +66155,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use stemming</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152515Z" creationid="miurahr" creationdate="20221222T152515Z">
+        <seg>Use stemming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T042053Z" creationid="miurahr" creationdate="20201101T042053Z">
@@ -67672,6 +67688,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a glossary term is a compound word, the term will match even if the words appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152512Z" creationid="miurahr" creationdate="20221222T152512Z">
+        <seg>用語集の用語が複合語である場合、原文テキストで単語が別々に表示されていても、その用語は一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a new project is created, OmegaT proposes to create a project folder that contains all the resources used in the translation, but that structure is not compulsory.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155234Z" creationid="Hiroshi Miura" creationdate="20221022T155234Z">
@@ -68173,6 +68197,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220512T115342Z" creationid="miurahr" creationdate="20220512T115342Z">
         <seg>OmegaT は、翻訳作業のすべての内容を翻訳メモリ（&lt;f1&gt;omegat&lt;/f1&gt; フォルダーの &lt;f0&gt;project_save.tmx&lt;/f0&gt; ファイル）に保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you use</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152639Z" creationid="miurahr" creationdate="20221222T152639Z">
+        <seg>When you use</seg>
       </tuv>
     </tu>
     <tu>
