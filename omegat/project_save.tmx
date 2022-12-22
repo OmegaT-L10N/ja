@@ -62914,6 +62914,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T123142Z" creationid="miurahr" creationdate="20221222T123142Z">
+        <seg>プロジェクトを開いたときに、原文ファイル一覧ウィンドウを自動的に開かないようにするには、&lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt;を検索して、&lt;t1&gt;true&lt;/t1&gt;を&lt;t2&gt;false&lt;/t2&gt;に置き換える編集をします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T223744Z" creationid="Hiroshi Miura" creationdate="20220825T223744Z">
