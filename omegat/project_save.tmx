@@ -30205,6 +30205,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you specify such a configuration folder, all modifications made in this dialog will be stored there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T151013Z" creationid="miurahr" creationdate="20221222T151013Z">
+        <seg>このように構成フォルダーを指定すると、このダイアログで行われたすべての変更が、指定されたフォルダーに格納されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T065433Z">
@@ -32954,12 +32962,11 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>It is possible to have OmegaT use a different configuration folder to define project-specific configurations.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221222T150830Z" creationid="miurahr" creationdate="20221222T150830Z">
-        <seg>OmegaTで別の構成フォルダーを使用して、プロジェクト固有の構成を定義することができます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T150834Z" creationid="miurahr" creationdate="20221222T150830Z">
+        <seg>OmegaTで別の構成フォルダーを使用して、プロジェクト固有の構成を定義することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49283,6 +49290,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T150944Z" creationid="miurahr" creationdate="20221222T150831Z">
+        <seg>詳細は&lt;l0/&gt;項をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
@@ -55895,6 +55911,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T105619Z">
         <seg>Mac 向けのデフォルトの OmegaT のショートカット定義ファイルも Sourceforge から入手できます。それらはすべて「ctrl」の代わりに「meta」を使用しています：&lt;u0&gt;デフォルトの Mac 向け OmegaT ショートカット&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default key to validate and leave a segment is &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T151139Z" creationid="miurahr" creationdate="20221222T151139Z">
+        <seg>デフォルトでの確定と分節の移動は、&lt;k0&gt;Enter&lt;/k0&gt;のキーになります。</seg>
       </tuv>
     </tu>
     <tu>
