@@ -21770,6 +21770,14 @@ several security warnings.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T155132Z" creationid="miurahr" creationdate="20221222T155132Z">
+        <seg>カーソルが次の文字に移動するたびにOmegaTは、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -29120,6 +29128,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220824T121823Z" creationid="Hiroshi Miura" creationdate="20220824T121823Z">
         <seg>もし OS の言語に対応していない場合、OmegaT はデフォルトの英語で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending on what the rule defined.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T155537Z" creationid="miurahr" creationdate="20221222T155537Z">
+        <seg>位置が両方の規則に一致する場合、規則の定義内容に応じて、その位置はブレークまたは非ブレークと見なされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72060,6 +72077,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T155200Z" creationid="miurahr" creationdate="20221222T155200Z">
+        <seg>その場所の後のテキストは、関連する&lt;e0&gt;After&lt;/e0&gt;ルールに対応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and then:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T062057Z" creationid="miurahr" creationdate="20201101T062057Z">
@@ -79588,6 +79613,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130310T084734Z">
         <seg>プロジェクト専用のフィルター定義ファイル（省略可）-- &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the text before the location corresponds to a &lt;e0&gt;Before&lt;/e0&gt; rule,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T155207Z" creationid="miurahr" creationdate="20221222T155148Z">
+        <seg>その場所の前のテキストは、&lt;e0&gt;Before&lt;/e0&gt;ルールに対応します。</seg>
       </tuv>
     </tu>
     <tu>
