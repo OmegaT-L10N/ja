@@ -2884,6 +2884,26 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T150209Z" creationid="miurahr" creationdate="20221222T150209Z">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T094741Z">
@@ -44347,6 +44367,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Preferences set in this dialog are saved to the default &lt;l0&gt;configuration folder&lt;/l0&gt; and apply to all translation projects unless you have specified a different configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T150722Z" creationid="miurahr" creationdate="20221222T150722Z">
+        <seg>このダイアログで設定された環境設定は、デフォルトの&lt;l0&gt;構成フォルダー&lt;/l0&gt;に保存され、別の構成フォルダーを指定しない限り、すべての翻訳プロジェクトに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
@@ -65678,6 +65707,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this dialog (the &lt;l2&gt;OmegaT&lt;/l2&gt; menu on macOS).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T150354Z" creationid="miurahr" creationdate="20221222T150354Z">
+        <seg> &lt;l0/&gt;&lt;l1/&gt;を使用 (macOSでは、 &lt;l2&gt;OmegaT&lt;/l2&gt;メニューを使用)してこのダイアログにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T123850Z" creationid="miurahr" creationdate="20221222T123850Z">
@@ -65992,6 +66029,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T132505Z" creationid="miurahr" creationdate="20221023T132441Z">
         <seg>ローカルのVCSを使用してワーキングディレクトリ(クローン)を作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the search field at the top of the preferences list to look for specific items.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T150424Z" creationid="miurahr" creationdate="20221222T150424Z">
+        <seg>環境設定リストの上部にある検索領域を使用して、特定の項目を検索できます。</seg>
       </tuv>
     </tu>
     <tu>
