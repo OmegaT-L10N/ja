@@ -64282,6 +64282,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate "paragraphs".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T155050Z" creationid="miurahr" creationdate="20221222T155050Z">
+        <seg>XHTML や HTML ファイルでは、オブジェクトの属性も翻訳の対象になることがあります。このような場合は、属性値だけを別の文として取り出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T202559Z">
@@ -66538,6 +66546,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T154854Z" creationid="miurahr" creationdate="20221222T154854Z">
+        <seg>&lt;l0/&gt;プロジェクトプロパティを使用して、分節化のタイプを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T234955Z" creationid="miurahr" creationdate="20201106T234955Z">
@@ -68029,12 +68045,11 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T032310Z" creationid="Hiroshi Miura" creationdate="20221022T032310Z">
-        <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T155001Z" creationid="Hiroshi Miura" creationdate="20221022T032310Z">
+        <seg>訳文を入力すると、原文分節を含むテキストがその翻訳結果とともにプロジェクトのメモリに保存され、その後、プロジェクト内の他の原文セグメントとの一致の判定に使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70716,6 +70731,15 @@ SourceForge too.</seg>
         <seg>You can visualize segmentation as the process of moving the cursor along the text, on character at a time.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T033250Z" creationid="Hiroshi Miura" creationdate="20221022T033250Z">
+        <seg>分節化は、文字単位でテキストに沿ってカーソルを移動するプロセスとして視覚化できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T155056Z" creationid="miurahr" creationdate="20221222T155056Z">
         <seg>分節化は、文字単位でテキストに沿ってカーソルを移動するプロセスとして視覚化できます。</seg>
       </tuv>
     </tu>
