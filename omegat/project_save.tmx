@@ -56247,6 +56247,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file contents are not encrypted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T125156Z" creationid="miurahr" creationdate="20221222T125156Z">
+        <seg>このファイルは、暗号化されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T063221Z">
@@ -60945,6 +60953,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the login information for your team project repositories.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T125133Z" creationid="miurahr" creationdate="20221222T125133Z">
+        <seg>これは、チームプロジェクトのリポジトリーのログイン情報が保存されるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T123421Z" creationid="miurahr" creationdate="20221222T123421Z">
@@ -61021,6 +61037,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020653Z" creationid="Hiroshi Miura" creationdate="20221023T020653Z">
         <seg>このフォルダーは、OmegaTが翻訳の現在の状態をTMXファイル形式で出力する場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T125302Z" creationid="miurahr" creationdate="20221222T125302Z">
+        <seg>このフォルダには、ユーザごとに導入するOmegaTのプラグインをインストールするためのフォルダーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61701,6 +61725,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T125026Z" creationid="miurahr" creationdate="20221222T125026Z">
+        <seg>これは、自動テキスト置換の設定パラメータが保存されるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized editor shortcuts.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T124646Z" creationid="miurahr" creationdate="20221222T124646Z">
@@ -61711,8 +61743,8 @@ this version will not interfere with it.</seg>
       <tuv lang="en">
         <seg>This parameter file contains customized external search parameters.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221222T124951Z" creationid="miurahr" creationdate="20221222T124815Z">
-        <seg>これは、外部検索パラメータが保存されるファイルです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T125037Z" creationid="miurahr" creationdate="20221222T124815Z">
+        <seg>これは、外部検索の設定パラメータが保存されるファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61721,6 +61753,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T124835Z" creationid="miurahr" creationdate="20221222T124809Z">
         <seg>これは、ファイル種別ごとのフィルター設定が保存されるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T125224Z" creationid="miurahr" creationdate="20221222T125224Z">
+        <seg>これは、分節化ルールをカスタマイズするためのファイルです。</seg>
       </tuv>
     </tu>
     <tu>
