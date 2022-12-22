@@ -11096,6 +11096,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>API client ID</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152232Z" creationid="miurahr" creationdate="20221222T152232Z">
+        <seg>API client ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152241Z" creationid="miurahr" creationdate="20221222T152241Z">
+        <seg>API key</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>API key (optional)</seg>
@@ -20302,6 +20318,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX glossaries context description</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152449Z" creationid="miurahr" creationdate="20221222T152449Z">
+        <seg>Display TBX glossaries context description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display a list of segments where source and target identical content</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140323T061730Z">
@@ -22281,6 +22305,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130205T204135Z">
         <seg>End*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Engine</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152147Z" creationid="miurahr" creationdate="20221222T152147Z">
+        <seg>エンジン</seg>
       </tuv>
     </tu>
     <tu>
@@ -35022,6 +35054,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Link</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152221Z" creationid="miurahr" creationdate="20221222T152158Z">
+        <seg>リンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Links (&amp;URL)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -36031,6 +36071,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150519T113635Z" creationid="Yu-Tang" creationdate="20150519T113612Z">
         <seg>ファイルが存在するか、現在のログオンユーザーに削除権限があるか、確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the proper credentials before using this function.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152125Z" creationid="miurahr" creationdate="20221222T152125Z">
+        <seg>この機能を使用する前に、適切な資格情報を入手してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37096,6 +37144,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft translator</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152229Z" creationid="miurahr" creationdate="20221222T152229Z">
+        <seg>Microsoft translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140131T184808Z">
@@ -37586,6 +37642,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Most providers require some kind of registration before using their services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152054Z" creationid="miurahr" creationdate="20221222T152054Z">
+        <seg>ほとんどのプロバイダは、サービスを利用する前に何らかの登録を必要とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Most users will find the default file filter options sufficient.</seg>
       </tuv>
@@ -37908,10 +37973,26 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MyMemory (human translation)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152238Z" creationid="miurahr" creationdate="20221222T152238Z">
+        <seg>MyMemory (human translation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MyMemory (human)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130828T094034Z">
         <seg>MyMemory（人力）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyMemory (machine translation)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152235Z" creationid="miurahr" creationdate="20221222T152235Z">
+        <seg>MyMemory (machine translation)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47177,6 +47258,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Required credentials</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152139Z" creationid="miurahr" creationdate="20221222T152139Z">
+        <seg>必要な資格情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T050358Z">
@@ -47198,6 +47287,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T032149Z">
         <seg>Linuxとw3m、tcl/tk が必要です（一般にこれらは Linux に組みこまれています）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires a Deepl Pro Advanced plan available only in some countries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152218Z" creationid="miurahr" creationdate="20221222T152218Z">
+        <seg>一部の国でのみ利用可能なDeepl Pro Advancedプランの契約が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -64694,6 +64791,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL, Model ID, Login ID, Password</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152240Z" creationid="miurahr" creationdate="20221222T152240Z">
+        <seg>URL, Model ID, Login ID, Password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL, key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152237Z" creationid="miurahr" creationdate="20221222T152237Z">
+        <seg>URL, key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL:</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122406Z" creationid="amake" creationdate="20170128T122406Z">
@@ -66110,8 +66223,8 @@ OmegaTが使用できるメモリを増やす
       <tuv lang="en">
         <seg>Use the &lt;g1&gt;Configure&lt;/g1&gt; button to manage your authentication credentials for that provider.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221222T151953Z" creationid="miurahr" creationdate="20221222T151953Z">
-        <seg>Use the &lt;g1&gt;Configure&lt;/g1&gt; button to manage your authentication credentials for that provider.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152045Z" creationid="miurahr" creationdate="20221222T151953Z">
+        <seg>&lt;g1&gt;設定&lt;/g1&gt;ボタンで、そのプロバイダの認証資格情報を管理できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68963,6 +69076,14 @@ https://ja.wordpress.org/</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T140000Z">
         <seg>「YYYYMMDDHHNN」の部分は、前回保存した日付を 4 桁の年（YYYY）、月（MM）、日（DD）、時（HH）、分（NN）で表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152242Z" creationid="miurahr" creationdate="20221222T152242Z">
+        <seg>Yandex</seg>
       </tuv>
     </tu>
     <tu>
@@ -74385,6 +74506,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.apertium.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152237Z" creationid="miurahr" creationdate="20221222T152237Z">
+        <seg>http://www.apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.apertium.org/</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T133909Z">
@@ -74521,6 +74650,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152241Z" creationid="miurahr" creationdate="20221222T152241Z">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152241Z" creationid="miurahr" creationdate="20221222T152241Z">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://datamarket.azure.com/account</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T151742Z">
@@ -74607,6 +74752,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130429T151933Z">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152236Z" creationid="miurahr" creationdate="20221222T152236Z">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152235Z" creationid="miurahr" creationdate="20221222T152235Z">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -74850,6 +75011,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152226Z" creationid="miurahr" creationdate="20221222T152226Z">
+        <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020837Z" creationid="Hiroshi Miura" creationdate="20221023T020837Z">
@@ -74858,10 +75027,26 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.ibm.com/watson</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152240Z" creationid="miurahr" creationdate="20221222T152240Z">
+        <seg>https://www.ibm.com/watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140104Z" creationid="suzume" creationdate="20201122T140104Z">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.microsoft.com/en-us/translator/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152232Z" creationid="miurahr" creationdate="20221222T152232Z">
+        <seg>https://www.microsoft.com/en-us/translator/</seg>
       </tuv>
     </tu>
     <tu>
@@ -74888,6 +75073,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T020837Z" creationid="Hiroshi Miura" creationdate="20221022T020837Z">
         <seg>https://www.regular-expressions.info/unicode.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://yandex.com/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152243Z" creationid="miurahr" creationdate="20221222T152243Z">
+        <seg>https://yandex.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://yandex.com/dev/dictionary/keys/get/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152242Z" creationid="miurahr" creationdate="20221222T152242Z">
+        <seg>https://yandex.com/dev/dictionary/keys/get/</seg>
       </tuv>
     </tu>
     <tu>
