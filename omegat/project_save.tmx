@@ -28278,6 +28278,14 @@ path need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has multiple definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153011Z" creationid="miurahr" creationdate="20221222T153011Z">
+        <seg>用語集の用語に複数の定義があったときに、同じ行に一度に表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140330T035817Z">
@@ -29795,6 +29803,14 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024238Z" creationid="Hiroshi Miura" creationdate="20221023T024238Z">
         <seg>新しいバージョンをインストールする場合は、次の点に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you disable this function you will need to use &lt;l0/&gt;&lt;l1/&gt; to search for dictionary matches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153104Z" creationid="miurahr" creationdate="20221222T153104Z">
+        <seg>この機能を無効にした場合は、&lt;l0/&gt;&lt;l1/&gt;を使用して、辞書を検索する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37067,6 +37083,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094627Z" creationid="Hiroshi Miura" creationdate="20220424T094627Z">
         <seg>同じ用語の代替の定義を結合する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definition of the same term</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152941Z" creationid="miurahr" creationdate="20221222T152941Z">
+        <seg>同じ用語の代替の定義を結合します</seg>
       </tuv>
     </tu>
     <tu>
@@ -44529,6 +44553,14 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Preferences here define how the contents of the &lt;l0/&gt; folder are displayed in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153035Z" creationid="miurahr" creationdate="20221222T153035Z">
+        <seg>ここでは、&lt;l0/&gt;フォルダーの内容が&lt;l1/&gt;ウィンドウにどのように表示されるか、定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Preferences set in this dialog are saved to the default &lt;l0&gt;configuration folder&lt;/l0&gt; and apply to all translation projects unless you have specified a different configuration folder.</seg>
@@ -48769,6 +48801,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search automatically</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153039Z" creationid="miurahr" creationdate="20221222T153039Z">
+        <seg>自動的に検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for segments containing all keywords you specified, in any order.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T150857Z">
@@ -51516,6 +51556,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T081513Z" creationid="amake" creationdate="20170128T143519Z">
         <seg>一部の整合ペアは“要チェック”とされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Some dictionary drivers provided as plugins do not support this feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153232Z" creationid="miurahr" creationdate="20221222T153232Z">
+        <seg>プラグインとして提供されている一部の辞書ドライバは、この機能をサポートしていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66124,6 +66173,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use condensed view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153222Z" creationid="miurahr" creationdate="20221222T153222Z">
+        <seg>要約ビューを使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use custom templates for modification &amp;info</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T121100Z" creationid="amake" creationdate="20170128T121100Z">
@@ -66136,6 +66193,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140814T204151Z">
         <seg>更新情報の表示書式に独自テンプレートを使う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use fuzzy matching</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T153217Z" creationid="miurahr" creationdate="20221222T153217Z">
+        <seg>用語に語幹処理を使用</seg>
       </tuv>
     </tu>
     <tu>
