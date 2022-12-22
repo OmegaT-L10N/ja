@@ -49204,6 +49204,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124713Z" creationid="miurahr" creationdate="20221222T124713Z">
+        <seg>詳細は、付録の &lt;l0/&gt; をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001111Z" creationid="Hiroshi Miura" creationdate="20221220T001111Z">
@@ -61700,6 +61708,30 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124951Z" creationid="miurahr" creationdate="20221222T124815Z">
+        <seg>これは、外部検索パラメータが保存されるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized file filters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124835Z" creationid="miurahr" creationdate="20221222T124809Z">
+        <seg>これは、ファイル種別ごとのフィルター設定が保存されるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124742Z" creationid="miurahr" creationdate="20221222T124742Z">
+        <seg>これは、ユーザインタフェースのショートカットを変更するパラメータのファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This process relies only on the structure of the source file to produce segments.</seg>
@@ -73355,6 +73387,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20170126T093028Z" creationid="suzume" creationdate="20170126T093028Z">
         <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>finder.xml</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T124811Z" creationid="miurahr" creationdate="20221222T124811Z">
+        <seg>finder.xml</seg>
       </tuv>
     </tu>
     <tu>
