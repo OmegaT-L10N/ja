@@ -28694,6 +28694,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If local file filters are used, modifying global file filters will have no effect on the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T154733Z" creationid="miurahr" creationdate="20221222T154733Z">
+        <seg>プロジェクト専用のファイルフィルタが使用されている場合、ユーザーレベルファイルフィルタを変更してもプロジェクトに影響しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>If matches are found, they will be displayed in the &lt;l0/&gt; pane.</seg>
@@ -49562,6 +49570,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for a general explanation of segmentation (global or local, paragraph or sentence, etc.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T154827Z" creationid="miurahr" creationdate="20221222T154827Z">
+        <seg>分節化(ユーザレベルまたはプロジェクト専用、段落または文、設定など)の一般的な説明については、&lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix for details.</seg>
       </tuv>
@@ -49618,6 +49635,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001211Z" creationid="Hiroshi Miura" creationdate="20221220T001211Z">
         <seg>詳細については、&lt;l0/&gt;ウインドウを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T154650Z" creationid="miurahr" creationdate="20221222T154650Z">
+        <seg>詳細は、付録の &lt;l1/&gt; をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56167,6 +56192,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T123753Z" creationid="Hiroshi Miura" creationdate="20220830T123753Z">
         <seg>生成されるファイルは、その時点の翻訳作業の進行状況を反映した内容になります。つまり、&lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt; に保存された翻訳メモリの内容が反映されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of this preference are identical to the contents of the &lt;l0&gt;local file filters&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T154625Z" creationid="miurahr" creationdate="20221222T154625Z">
+        <seg>この設定の内容は、&lt;l0&gt;プロジェクト専用ファイルフィルタ&lt;/l0&gt;ダイアログの内容と同じです。</seg>
       </tuv>
     </tu>
     <tu>
