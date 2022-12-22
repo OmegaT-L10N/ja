@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_5563f28a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4d1034fa" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29694,6 +29694,14 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150521T043959Z" creationid="Yu-Tang" creationdate="20150418T011404Z">
         <seg>上記の技術情報を参照し、サブスクリプションを登録してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T121509Z" creationid="miurahr" creationdate="20221222T121509Z">
+        <seg>デフォルトの設定フォルダーを使用しない場合には、&lt;l0&gt;環境設定&lt;/l0&gt;で行われた変更はすべて指定された設定フォルダーに保存されます。そのため、デフォルトの設定フォルダーで作業を再開しても反映されません。</seg>
       </tuv>
     </tu>
     <tu>
