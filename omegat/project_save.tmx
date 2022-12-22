@@ -11712,6 +11712,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Additional layouts can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152929Z" creationid="miurahr" creationdate="20221222T152929Z">
+        <seg>選択可能なレイアウトの種類は、プラグインとして追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
@@ -30564,6 +30573,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore matches with very different case (e.g., USER vs user)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152909Z" creationid="miurahr" creationdate="20221222T152822Z">
+        <seg>大/小文字が異なる(例:USER対user)検出結果を無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -34765,6 +34782,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152914Z" creationid="miurahr" creationdate="20221222T152914Z">
+        <seg>レイアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Layout variations can be added as plugins.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T094606Z" creationid="Hiroshi Miura" creationdate="20220424T094606Z">
@@ -36877,6 +36902,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T130745Z" creationid="Hiroshi Miura" creationdate="20221022T130745Z">
         <seg>一致した文字列は、青い太字で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches with very different case are not displayed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152905Z" creationid="miurahr" creationdate="20221222T152855Z">
+        <seg>大文字と小文字が大きく異なる検出結果を表示しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49973,6 +50006,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T065637Z" creationid="miurahr" creationdate="20221105T065637Z">
         <seg>フィルターを選択し、[編集]または[オプション]をクリックしてカスタマイズします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Select a layout for the glossary pane contents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152919Z" creationid="miurahr" creationdate="20221222T152919Z">
+        <seg>用語集画面のレイアウトを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79421,6 +79463,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to insert the source content in the target segment, words with a glossary entry will automatically be replaced by their translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20221222T152750Z" creationid="miurahr" creationdate="20221222T152750Z">
+        <seg>原文のまま訳文の分節に挿入すると、用語集にある単語は、自動的にその訳文に置き換えられます。</seg>
       </tuv>
     </tu>
     <tu>
