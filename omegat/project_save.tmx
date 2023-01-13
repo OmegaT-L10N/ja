@@ -5747,6 +5747,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210612Z" creationid="Hiroshi Miura" creationdate="20230113T210612Z">
+        <seg>&lt;e0&gt;このマニュアルでの表記は: :&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130312T032634Z">
@@ -6626,6 +6634,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;New...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210658Z" creationid="Hiroshi Miura" creationdate="20230113T210658Z">
+        <seg>&lt;g0&gt;新規作成...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Open...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210724Z" creationid="Hiroshi Miura" creationdate="20230113T210724Z">
+        <seg>&lt;g0&gt;開く...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220424T095233Z" creationid="Hiroshi Miura" creationdate="20220424T095233Z">
@@ -6646,6 +6670,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144524Z" creationid="miurahr" creationdate="20201101T144524Z">
         <seg>&lt;g0&gt;プロジェクト&lt;/g0&gt; &lt;g1&gt;新規...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Reload&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T211037Z" creationid="Hiroshi Miura" creationdate="20230113T211037Z">
+        <seg>&lt;g0&gt;再読み込み&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17019,6 +17051,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Clicking one will save the current project, close it and open the selected project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210902Z" creationid="Hiroshi Miura" creationdate="20230113T210902Z">
+        <seg>選択肢のいずれかをクリックすると、現在のプロジェクトを保存して閉じ、選択したプロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Client ID:</seg>
       </tuv>
@@ -26304,6 +26345,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the last ten edited projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210832Z" creationid="Hiroshi Miura" creationdate="20230113T210832Z">
+        <seg>最近使用したプロジェクト（デフォルト設定では10こ まで）にアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gives access to the list of plugins available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T143915Z" creationid="miurahr" creationdate="20201101T143915Z">
@@ -35281,6 +35330,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T224945Z" creationid="Hiroshi Miura" creationdate="20230113T224945Z">
+        <seg>License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -38548,6 +38605,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224218Z" creationid="Hiroshi Miura" creationdate="20220825T224218Z">
         <seg>翻訳中に&lt;f0&gt;tm&lt;/f0&gt;フォルダに保存された新しい翻訳メモリは、カーソルセグメント間を移動するとすぐに自動的にロードされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New translation memories placed in the &lt;l0/&gt; folder while translating are automatically taken into account as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T211154Z" creationid="Hiroshi Miura" creationdate="20230113T211154Z">
+        <seg>翻訳中に&lt;l0/&gt;フォルダに保存された新しい翻訳メモリは、カーソルセグメント間を移動するとすぐに自動的にロードされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41913,6 +41978,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210531Z" creationid="Hiroshi Miura" creationdate="20230113T210531Z">
+        <seg>Windows と Linuxでは: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210418Z" creationid="Hiroshi Miura" creationdate="20230113T210418Z">
@@ -42639,6 +42712,15 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142201Z" creationid="miurahr" creationdate="20221103T142201Z">
         <seg>最近使用したプロジェクトを開く(&amp;J)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Open Recent...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210739Z" creationid="Hiroshi Miura" creationdate="20230113T210739Z">
+        <seg>最近使用したプロジェクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -62345,6 +62427,15 @@ this version will not interfere with it.</seg>
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>This menu gives you access to project management commands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210503Z" creationid="Hiroshi Miura" creationdate="20230113T210503Z">
+        <seg>このメニューでは、プロジェクト管理コマンドにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>This menu gives you access to segment edition commands.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210319Z" creationid="Hiroshi Miura" creationdate="20230113T210319Z">
@@ -66380,6 +66471,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T103842Z" creationid="Yu-Tang" creationdate="20141201T103842Z">
         <seg>&lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt;（Mac では Cmd+PgUp/PgDn）を押すことで、&lt;e2&gt;用語集&lt;/e2&gt;、&lt;e3&gt;定型文&lt;/e3&gt;、&lt;e4&gt;未使用のタグ&lt;/e4&gt;、&lt;e5&gt;文字一覧&lt;/e5&gt;を連続的に切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;Clear Menu&lt;/g0&gt; function to delete the list of recent projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T211008Z" creationid="Hiroshi Miura" creationdate="20230113T211008Z">
+        <seg>&lt;g0&gt;[メニューのクリア]&lt;/g0&gt;を使用すると、最近のプロジェクトの一覧を削除します。</seg>
       </tuv>
     </tu>
     <tu>
