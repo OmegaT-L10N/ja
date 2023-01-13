@@ -1693,8 +1693,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z">
-        <seg>ウインドウを初期位置に復元(&amp;R)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205403Z">
+        <seg>ウインドウ(&amp;W)を初期位置に復元</seg>
       </tuv>
     </tu>
     <tu>
@@ -16930,6 +16930,14 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210144Z" creationid="Hiroshi Miura" creationdate="20230113T210144Z">
+        <seg>&lt;g0&gt;［初期値を復元］&lt;/g0&gt; をクリックすると、それまでのフィルター設定をリセットし初期設定に戻します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click the drop-down arrow of the &lt;g0&gt;Search for:&lt;/g0&gt; field to access the last ten searches.</seg>
@@ -20293,6 +20301,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T083701Z" creationid="Kasuya" creationdate="20160706T083701Z">
         <seg>チームモードのプロジェクト用にディレクトリ{0}が自動生成されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205931Z" creationid="Hiroshi Miura" creationdate="20230113T205931Z">
+        <seg>特定のフィルターに関連付けられているファイルを翻訳しない場合は、そのチェックボックスをオフにして無効にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24239,6 +24255,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205813Z" creationid="Hiroshi Miura" creationdate="20230113T205813Z">
+        <seg>ファイルフィルタは、ローカルで特定のプロジェクトに固有のものか、ユーザーレベルで構成フォルダーを共有するすべてのプロジェクトで使用できるものの二種類あります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File filters are pieces of code capable of:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T015119Z">
@@ -24464,6 +24488,15 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="yu-tang" changedate="20150306T075933Z" creationid="yu-tang" creationdate="20150306T075933Z">
         <seg>フィルター：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Filters in bold are used in the current project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205842Z" creationid="Hiroshi Miura" creationdate="20230113T205842Z">
+        <seg>現在のプロジェクトで使用しているフィルターを太字で示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24947,6 +24980,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T075313Z" creationid="Kasuya" creationdate="20160705T072739Z">
         <seg>機密上の理由から、すべての分節を機械翻訳ツールによって処理するのが望ましくないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205830Z" creationid="Hiroshi Miura" creationdate="20230113T205830Z">
+        <seg>詳細情報は以下を確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36599,8 +36640,8 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       <tuv lang="en">
         <seg>Mark &amp;Language Checker Issues</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T203732Z" creationid="Hiroshi Miura" creationdate="20230113T203732Z">
-        <seg>言語チェッカー(&amp;C)の指摘を色づけ</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T204948Z" creationid="Hiroshi Miura" creationdate="20230113T203732Z">
+        <seg>言語チェッカー(&amp;C)の指摘</seg>
       </tuv>
     </tu>
     <tu>
@@ -36787,6 +36828,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T090239Z" creationid="miurahr" creationdate="20221105T090239Z">
         <seg>繰り返しのある分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205643Z" creationid="Hiroshi Miura" creationdate="20230113T205407Z">
+        <seg>繰り返しのある全分節を色づけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -37647,6 +37696,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140321T035251Z">
         <seg>変更された分節数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210259Z" creationid="Hiroshi Miura" creationdate="20230113T210259Z">
+        <seg>変更されたユーザーレベルファイルのフィルター設定は、&lt;l0/&gt;の設定フォルダーに保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41851,6 +41909,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T160623Z" creationid="Hiroshi Miura" creationdate="20221004T160623Z">
         <seg>WindowsおよびLinuxの場合:&lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210418Z" creationid="Hiroshi Miura" creationdate="20230113T210418Z">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47143,6 +47209,23 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205504Z" creationid="Hiroshi Miura" creationdate="20230113T205504Z">
+        <seg>Repeated segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205655Z" creationid="Hiroshi Miura" creationdate="20230113T205655Z">
+        <seg>繰り返しのある分節の背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20131107T165235Z">
@@ -51131,6 +51214,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Shortcut description example</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210342Z" creationid="Hiroshi Miura" creationdate="20230113T210342Z">
+        <seg>ショートカットの説明の例</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Shortcut:</seg>
       </tuv>
@@ -51889,6 +51981,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T065518Z" creationid="miurahr" creationdate="20221105T065518Z">
         <seg>一部のフィルターでは、エンコーディングの変更ができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210103Z" creationid="Hiroshi Miura" creationdate="20230113T210103Z">
+        <seg>一部のフィルタには、設定をさらにカスタマイズするための&lt;g0&gt;オプション.&lt;/g0&gt;ボタンがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60222,6 +60323,15 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Their contents will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205943Z" creationid="Hiroshi Miura" creationdate="20230113T205943Z">
+        <seg>これらのコンテンツは翻訳用には表示されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Theme</seg>
       </tuv>
@@ -62233,6 +62343,15 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This menu gives you access to segment edition commands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210319Z" creationid="Hiroshi Miura" creationdate="20230113T210319Z">
+        <seg>このメニューでは、分節編集コマンドにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
@@ -63726,6 +63845,15 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220424T101611Z" creationid="miurahr" creationdate="20220424T101611Z">
         <seg>ファイルフィルター構成例を編集するには、それぞれの欄をダブルクリックして直接修正するか、&lt;g0&gt;編集&lt;/g0&gt;ボタンをクリックします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210051Z" creationid="Hiroshi Miura" creationdate="20230113T210051Z">
+        <seg>フィルター対象とするファイルやエンコーディングを変更する場合は&lt;e1&gt;［編集...］&lt;/e1&gt;をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76796,6 +76924,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>logs/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205657Z" creationid="Hiroshi Miura" creationdate="20230113T205657Z">
+        <seg>logs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>logs/OmegaT.log</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T103706Z">
@@ -77950,6 +78086,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat.autotext</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205659Z" creationid="Hiroshi Miura" creationdate="20230113T205659Z">
+        <seg>omegat.autotext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>omegat.kaptn</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140917Z" creationid="suzume" creationdate="20201122T140917Z">
@@ -78884,6 +79028,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>repositories.properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205700Z" creationid="Hiroshi Miura" creationdate="20230113T205700Z">
+        <seg>repositories.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>repository type</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T232501Z" creationid="miurahr" creationdate="20201106T232501Z">
@@ -79399,6 +79551,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source.txt</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205658Z" creationid="Hiroshi Miura" creationdate="20230113T205658Z">
+        <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>spa</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -79411,6 +79571,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20140205T122131Z">
         <seg>分割すべき「でない」テキストを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>spelling/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205702Z" creationid="Hiroshi Miura" creationdate="20230113T205702Z">
+        <seg>spelling/</seg>
       </tuv>
     </tu>
     <tu>
