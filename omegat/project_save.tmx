@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_9223ca1d9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_5563f28a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1402,6 +1402,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201601Z" creationid="Hiroshi Miura" creationdate="20230113T201354Z">
+        <seg>次のtm/auto/ からの分節(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Next Segment with xAUTO</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221219T234821Z" creationid="Hiroshi Miura" creationdate="20221219T234821Z">
@@ -1503,6 +1511,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033505Z">
         <seg>前の分節(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201615Z" creationid="Hiroshi Miura" creationdate="20230113T201424Z">
+        <seg>前のtm/auto/ からの分節(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14040,8 +14056,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221219T234801Z" creationid="Hiroshi Miura" creationdate="20221219T234801Z">
-        <seg>自動生成分節(&amp;L)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201406Z" creationid="Hiroshi Miura" creationdate="20221219T234801Z">
+        <seg>自動生成された分節(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20305,6 +20321,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202825Z" creationid="Hiroshi Miura" creationdate="20230113T202825Z">
+        <seg>空白文字を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T151810Z" creationid="amake" creationdate="20170128T151810Z">
@@ -20321,10 +20345,26 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202558Z" creationid="Hiroshi Miura" creationdate="20230113T202558Z">
+        <seg>ノーブレークスペースを表示(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>表示しない(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201753Z" creationid="Hiroshi Miura" creationdate="20230113T201753Z">
+        <seg>段落区切りを表示(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27475,11 +27515,45 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201701Z" creationid="Hiroshi Miura" creationdate="20230113T201646Z">
+        <seg>翻訳済み分節を色づけ(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201718Z" creationid="Hiroshi Miura" creationdate="20230113T201651Z">
+        <seg>未翻訳分節を色づけ(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142925Z" creationid="amake" creationdate="20170128T142925Z">
         <seg>ハイライトパターン...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Repeated Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201839Z" creationid="Hiroshi Miura" creationdate="20230113T201806Z">
+        <seg>繰り返しのある分節を色づけ(&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201826Z" creationid="Hiroshi Miura" creationdate="20230113T201826Z">
+        <seg>メモ付き分節を色付け(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32032,6 +32106,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T161250Z">
         <seg>最初にプロジェクトが作成された時点では、メインの翻訳メモリ &lt;f0&gt;project_save.tmx&lt;/f0&gt; は空の状態です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201312Z" creationid="Hiroshi Miura" creationdate="20230113T201312Z">
+        <seg>Bidi制御文字を挿入</seg>
       </tuv>
     </tu>
     <tu>
@@ -38163,6 +38245,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201517Z" creationid="Hiroshi Miura" creationdate="20230113T201517Z">
+        <seg>次のtm/enforce/ からの分節(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>N&amp;ext Segment with xENFORCED</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221219T234858Z" creationid="Hiroshi Miura" creationdate="20221219T234858Z">
@@ -43376,6 +43466,14 @@ install the Oracle JRE on your own.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20160308T151037Z" creationid="Yu-Tang" creationdate="20160308T151037Z">
         <seg>TMX ファイルを /tm/enforce フォルダーから移動や削除すると、上書きはされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201554Z" creationid="Hiroshi Miura" creationdate="20230113T201554Z">
+        <seg>前のtm/enforce/ からの分節(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
