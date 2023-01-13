@@ -20323,8 +20323,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202825Z" creationid="Hiroshi Miura" creationdate="20230113T202825Z">
-        <seg>空白文字を表示</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T203028Z" creationid="Hiroshi Miura" creationdate="20230113T202825Z">
+        <seg>空白(&amp;H)文字を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -20345,10 +20345,26 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T203131Z" creationid="Hiroshi Miura" creationdate="20230113T203131Z">
+        <seg>&amp;Bidi制御文字を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T204500Z" creationid="Hiroshi Miura" creationdate="20230113T203904Z">
+        <seg>更新情報を表示(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202558Z" creationid="Hiroshi Miura" creationdate="20230113T202558Z">
-        <seg>ノーブレークスペースを表示(&amp;N)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T204248Z" creationid="Hiroshi Miura" creationdate="20230113T202558Z">
+        <seg>ノーブレークスペース(&amp;NBSP)を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -20363,8 +20379,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="en">
         <seg>Display &amp;Paragraph Delimitations</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201753Z" creationid="Hiroshi Miura" creationdate="20230113T201753Z">
-        <seg>段落区切りを表示(&amp;P)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202908Z" creationid="Hiroshi Miura" creationdate="20230113T201753Z">
+        <seg>段落(&amp;D)区切りを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -27515,21 +27531,27 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
-        <seg>Highlight &amp;Translated Segments</seg>
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201701Z" creationid="Hiroshi Miura" creationdate="20230113T201646Z">
-        <seg>翻訳済み分節を色づけ(&amp;T)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T203246Z" creationid="Hiroshi Miura" creationdate="20230113T203246Z">
+        <seg>自動(&amp;J)生成分節を色づけ</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202843Z" creationid="Hiroshi Miura" creationdate="20230113T201646Z">
+        <seg>翻訳済み(&amp;Z)分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Highlight &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201718Z" creationid="Hiroshi Miura" creationdate="20230113T201651Z">
-        <seg>未翻訳分節を色づけ(&amp;U)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202852Z" creationid="Hiroshi Miura" creationdate="20230113T201651Z">
+        <seg>未(&amp;M)翻訳分節を色づけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -27544,16 +27566,16 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Highlight Repeated Se&amp;gments</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201839Z" creationid="Hiroshi Miura" creationdate="20230113T201806Z">
-        <seg>繰り返しのある分節を色づけ(&amp;K)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202927Z" creationid="Hiroshi Miura" creationdate="20230113T201806Z">
+        <seg>繰り返し(&amp;K)のある分節を色づけ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201826Z" creationid="Hiroshi Miura" creationdate="20230113T201826Z">
-        <seg>メモ付き分節を色付け(&amp;W)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202944Z" creationid="Hiroshi Miura" creationdate="20230113T201826Z">
+        <seg>メモ(&amp;M)付き分節を色付け</seg>
       </tuv>
     </tu>
     <tu>
@@ -36571,6 +36593,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>双方向アルゴリズム制御文字を色付け(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T203732Z" creationid="Hiroshi Miura" creationdate="20230113T203732Z">
+        <seg>言語チェッカー(&amp;C)の指摘を色づけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -66347,6 +66377,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T123850Z" creationid="miurahr" creationdate="20221222T123850Z">
         <seg>&lt;l0/&gt;&lt;l1/&gt;を使用して、このファイルを閲覧できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T203809Z" creationid="Hiroshi Miura" creationdate="20230113T203809Z">
+        <seg>代替フォント(&amp;F)を積極的に使用</seg>
       </tuv>
     </tu>
     <tu>
