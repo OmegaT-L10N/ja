@@ -20355,8 +20355,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       <tuv lang="en">
         <seg>Display &amp;Modification Info</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T204500Z" creationid="Hiroshi Miura" creationdate="20230113T203904Z">
-        <seg>更新情報を表示(&amp;I)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T204656Z" creationid="Hiroshi Miura" creationdate="20230113T203904Z">
+        <seg>更新(&amp;O)情報を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -27550,8 +27550,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Highlight &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202852Z" creationid="Hiroshi Miura" creationdate="20230113T201651Z">
-        <seg>未(&amp;M)翻訳分節を色づけ</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T204548Z" creationid="Hiroshi Miura" creationdate="20230113T201651Z">
+        <seg>未(&amp;I)翻訳分節を色づけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -74346,6 +74346,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T204758Z" creationid="Hiroshi Miura" creationdate="20230113T204758Z">
+        <seg>すべて(&amp;S)の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T094319Z">
@@ -74358,6 +74366,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T094321Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T204808Z" creationid="Hiroshi Miura" creationdate="20230113T204658Z">
+        <seg>現在(&amp;G)の分節</seg>
       </tuv>
     </tu>
     <tu>
