@@ -32430,6 +32430,22 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234704Z" creationid="Hiroshi Miura" creationdate="20230113T233751Z">
+        <seg>右から左への分節で、左から右に綴る必要がある弱い方向性の文字の後に、LRMを挿入します。(例えばアラビア語の文章の中の英語の抜粋の場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234609Z" creationid="Hiroshi Miura" creationdate="20230113T234609Z">
+        <seg>左から右の分節の中で、右から左に綴る必要がある弱い方向性の文字の後に、RLMを挿入します。(例えば英語の文章の中のアラビア語の抜粋の場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T232600Z" creationid="Hiroshi Miura" creationdate="20230113T232600Z">
