@@ -12372,6 +12372,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in order.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003203Z" creationid="Hiroshi Miura" creationdate="20230114T003203Z">
+        <seg>言語コードの正規表現に一致する分節化規則は、設定した順に適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
@@ -15056,6 +15065,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160118T045933Z" creationid="Kasuya" creationdate="20160118T045414Z">
         <seg>しかし、ユーザーはこのデータを「{2}」に変更しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Buttons are very few in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002147Z" creationid="Hiroshi Miura" creationdate="20230114T002147Z">
+        <seg>OmegaTには、ボタンがとても少ないことに気づかれるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25049,6 +25066,15 @@ Tutorial.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>For a translation from Japanese, &lt;e0&gt;only&lt;/e0&gt; the rule set associated to the &lt;c1&gt;JA.*&lt;/c1&gt; pattern and the generic rule sets associated to the &lt;c2&gt;.*&lt;/c2&gt; will be taken into account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003035Z" creationid="Hiroshi Miura" creationdate="20230114T003035Z">
+        <seg>日本語からの翻訳では、&lt;e0&gt;&lt;/e0&gt;&lt;c1&gt;JA.*&lt;/c1&gt;パターンに関連付けられた規則集と&lt;c2&gt;.*&lt;/c2&gt;に関連付けられた汎用ルールセットのみが考慮されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
@@ -30378,6 +30404,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have set local rules in the &lt;l0/&gt; dialog, modifications here will not be taken into account.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002801Z" creationid="Hiroshi Miura" creationdate="20230114T002801Z">
+        <seg>&lt;l0/&gt;ダイアログでプロジェクト専用のルールを設定した場合に、ここでの変更は考慮されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have the source and the target Properties files for one and the same contents in your language pair, this procedure will create a corresponding tmx file for these contents.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T062000Z">
@@ -34464,6 +34498,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key shortcut description reminder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002558Z" creationid="Hiroshi Miura" creationdate="20230114T002558Z">
+        <seg>キーボードショートカットの説明上の注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T133518Z">
@@ -37519,6 +37561,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items that do not have a shortcut indicated next to them have no default shortcut assigned by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002509Z" creationid="Hiroshi Miura" creationdate="20230114T002509Z">
+        <seg>メインメニューのほとんどの項目に、新しいショートカットを割り当てることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060511Z" creationid="miurahr" creationdate="20201115T060511Z">
@@ -37526,12 +37576,11 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Menus are where you access most of OmegaT's functions.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220919T072910Z" creationid="Hiroshi Miura" creationdate="20220919T072910Z">
-        <seg>Menus are where you access most of OmegaT's functions.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002342Z" creationid="Hiroshi Miura" creationdate="20220919T072910Z">
+        <seg>OmegaTのほとんどの機能は、メニューからアクセスできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38149,11 +38198,28 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Most of the action takes place with the help of shortcuts associated to menu items.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002209Z" creationid="Hiroshi Miura" creationdate="20230114T002209Z">
+        <seg>ほとんどのアクションは、メニュー項目に関連付けられたショートカットを使用して実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T094658Z">
         <seg>メインメニューに表示されるほとんどの項目には、新しいショートカットを割り当てることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of the menu items are associated with a keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002413Z" creationid="Hiroshi Miura" creationdate="20230114T002326Z">
+        <seg>ほとんどの機能にキーボードショートカットが割り当てられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41403,6 +41469,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT looks a bit stern, if not outright unfriendly, to people who are used to button based interfaces.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002113Z" creationid="Hiroshi Miura" creationdate="20230114T002113Z">
+        <seg>OmegaTは、ボタンベースのインターフェースに慣れている人には、完全に駄目とは言わないまでも、少し難しくに見えるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT main window</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T084713Z">
@@ -42712,6 +42786,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T014113Z" creationid="Hiroshi Miura" creationdate="20221022T014113Z">
         <seg>千単位の区切り文字の後の部分だけが一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the rules associated to language patterns that correspond to the source language of your project are applied.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002941Z" creationid="Hiroshi Miura" creationdate="20230114T002941Z">
+        <seg>プロジェクトの原文言語に対応する言語ごとの規則が適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48447,6 +48529,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rules for Japanese</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003019Z" creationid="Hiroshi Miura" creationdate="20230114T003019Z">
+        <seg>日本語の規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rules for specific language regions should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003241Z" creationid="Hiroshi Miura" creationdate="20230114T003241Z">
+        <seg>したがって、特定の言語のために設定した規則は、デフォルトのものより高い優先順位を与えるほうがよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rules...</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T143019Z" creationid="amake" creationdate="20170128T143019Z">
@@ -50077,6 +50175,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix if you want to modify or add shortcuts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002530Z" creationid="Hiroshi Miura" creationdate="20230114T002530Z">
+        <seg>ショートカットを変更または追加する場合は、付録&lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001111Z" creationid="Hiroshi Miura" creationdate="20221220T001111Z">
@@ -50107,6 +50213,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001158Z" creationid="Hiroshi Miura" creationdate="20221220T001158Z">
         <seg>詳細については、設定-&lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; project properties.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003001Z" creationid="Hiroshi Miura" creationdate="20230114T003001Z">
+        <seg>&lt;l0/&gt;プロジェクト設定を見てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51489,6 +51603,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T171605Z">
         <seg>ショートカットは&lt;k0&gt;［Ctrl］&lt;/k0&gt;キーと文字キーを同時に押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts are ubiquitous in this manual and you should be able very shortly to remember the few that are useful in the course of a standard translation day.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002259Z" creationid="Hiroshi Miura" creationdate="20230114T002259Z">
+        <seg>このマニュアルには、ショートカットの解説が豊富に用意されているので、通常の翻訳作業に役立つショートカットをすぐに覚えられるはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56161,6 +56283,15 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T133922Z" creationid="miurahr" creationdate="20221023T133922Z">
         <seg>上記のプロセスでは、プロジェクトマネージャがプロジェクトを完全に制御し、ファイル(および翻訳状況)が両方の側(サーバ側と通訳者側)で同一である通常のケースについて説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The action associated with an item also hints at its function in case the display fails to convey the visual differences: &lt;e0&gt;use&lt;/e0&gt; a menu item, or &lt;e1&gt;click&lt;/e1&gt; on a button.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002010Z" creationid="Hiroshi Miura" creationdate="20230114T001749Z">
+        <seg>項目に関連付けられたアクションは、内容表示が視覚的な違いを伝えることができない場合にも、その機能を示します:&lt;e0&gt;メニュー項目を使用&lt;/e0&gt;するか、&lt;e1&gt;ボタンをクリック&lt;/e1&gt;します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61097,6 +61228,14 @@ You, victim of one</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>They are displayed in a way that makes it easier to identify their function.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T001803Z" creationid="Hiroshi Miura" creationdate="20230114T001747Z">
+        <seg>これらは、機能を識別しやすいような方法で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>They are found in Preferences – &lt;l0/&gt;.</seg>
@@ -61900,6 +62039,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T045631Z" creationid="miurahr" creationdate="20201101T045631Z">
         <seg>使用可能なファイルフィルターを一覧表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog only accesses the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002709Z" creationid="Hiroshi Miura" creationdate="20230114T002709Z">
+        <seg>このダイアログでは、ユーザーレベルの分節化規則のみ変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62930,6 +63077,15 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T021517Z" creationid="Hiroshi Miura" creationdate="20221022T021517Z">
         <seg>このセクションでは、上記のさまざまな式を組み合わせて、OmegaTで強力な検索を実行する方法を示す例をいくつか示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This section presents the conventions used to distinguish the elements of the OmegaT user interface in this manual.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T001737Z" creationid="Hiroshi Miura" creationdate="20230114T001737Z">
+        <seg>この項は、このマニュアルでOmegaTユーザーインターフェースの要素を区別するために使用される規則を示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69040,6 +69196,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T020832Z">
         <seg>同じ顧客または分野について、プロジェクトを新しく作成するときは、&lt;g0&gt;［プロジェクト］→「プロジェクト設定...］&lt;/g0&gt; ウィンドウで、［翻訳メモリフォルダー］にその保管フォルダーを指定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you click on a language pattern in the top half of the dialog, a list of associated rules will be displayed in the bottom half of the dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003121Z" creationid="Hiroshi Miura" creationdate="20230114T003121Z">
+        <seg>ダイアログの上半分にある言語の構成例をクリックすると、関連付けられたルールのリストがダイアログの下半分に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80260,6 +80424,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>tha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>the &lt;l0/&gt; preference, etc.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002610Z" creationid="Hiroshi Miura" creationdate="20230114T002610Z">
+        <seg>&lt;l0/&gt;設定など</seg>
       </tuv>
     </tu>
     <tu>
