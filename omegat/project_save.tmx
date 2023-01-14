@@ -12868,6 +12868,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of an &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; file that stores the location of all the resources and of a &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; translation memory file that stores all the translations made while working on that project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T235925Z" creationid="Hiroshi Miura" creationdate="20230113T235925Z">
+        <seg>OmegaT の翻訳プロジェクトは、複数のフォルダーの様々な資材から構成されています。&lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt;ファイルは、全ての資材の場所を格納しています。&lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt;翻訳メモリファイルには、プロジェクトで翻訳した翻訳文が格納されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T224632Z" creationid="Kasuya" creationdate="20160705T091829Z">
@@ -15250,6 +15258,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T153826Z" creationid="Hiroshi Miura" creationdate="20221022T153826Z">
         <seg>デフォルトでは、後処理コマンドはユーザーレベルであり、すべてのプロジェクトで使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, resources include the project’s translation memory, which is automatically created upon project creation, and the files to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T000104Z" creationid="Hiroshi Miura" creationdate="20230114T000104Z">
+        <seg>デフォルトでは、プロジェクトの作成時に自動的に作成されるプロジェクトの翻訳メモリ、および翻訳へのファイルがプロジェクト資材として格納されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22274,6 +22290,22 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122716Z" creationid="amake" creationdate="20170128T122716Z">
         <seg>メールアドレス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embeddings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234713Z" creationid="Hiroshi Miura" creationdate="20230113T234713Z">
+        <seg>埋め込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234828Z" creationid="Hiroshi Miura" creationdate="20230113T234828Z">
+        <seg>埋め込みを使用して、分節の綴り方向と反対に綴る必要がある(いくつかの単語とスペースを含むような)長い文章を作成することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32432,16 +32464,16 @@ Google 検索結果(2013/2/11)：
       <tuv lang="en">
         <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text)</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234704Z" creationid="Hiroshi Miura" creationdate="20230113T233751Z">
-        <seg>右から左への分節で、左から右に綴る必要がある弱い方向性の文字の後に、LRMを挿入します。(例えばアラビア語の文章の中の英語の抜粋の場合)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T235128Z" creationid="Hiroshi Miura" creationdate="20230113T233751Z">
+        <seg>右から左への分節で、左から右に綴る必要がある弱い方向性の文字の後に、左から右へ指示(LRM: left-to-right Mark)文字を挿入します。(例えばアラビア語の文章の中の英語の抜粋の場合)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text)</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234609Z" creationid="Hiroshi Miura" creationdate="20230113T234609Z">
-        <seg>左から右の分節の中で、右から左に綴る必要がある弱い方向性の文字の後に、RLMを挿入します。(例えば英語の文章の中のアラビア語の抜粋の場合)</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T235659Z" creationid="Hiroshi Miura" creationdate="20230113T234609Z">
+        <seg>左から右の分節の中で、右から左に綴る必要がある弱い方向性の文字の後に、右から左へ指示(RLM: right-to-left mark)文字を挿入します。(例えば英語の文章の中のアラビア語の抜粋の場合)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61020,6 +61052,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T000142Z" creationid="Hiroshi Miura" creationdate="20230114T000142Z">
+        <seg>また、参照用の翻訳メモリ、用語集、その他の参照ファイルをプロジェクト資材として格納することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can be created and updated manually or imported from other projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210510T234341Z" creationid="miurahr" creationdate="20210510T234341Z">
@@ -63550,10 +63590,26 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234957Z" creationid="Hiroshi Miura" creationdate="20230113T234919Z">
+        <seg>右から左への分節に左から右への埋め込みを作成するには、左から右への埋め込み(LRE: Left-to-Right Embedding)文字を挿入し、左から右への文章を入力または挿入してから、ポップ方向書式設定(PDF: Pop Directional Formatting)文字を挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T091743Z" creationid="Yu-Tang" creationdate="20141202T091743Z">
         <seg>プロジェクト専用のファイルフィルター設定を作成するには、&lt;g0&gt;［ファイルフィルター...］ &lt;/g0&gt;ボタンをクリックし、開いたウィンドウの&lt;g1&gt;［ファイルフィルター設定をプロジェクト専用にする］&lt;/g1&gt;チェックボックスにチェックを入れてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a right-to-left embedding in a left-to-right segment, insert a right-to-left embedding (RLE) character, type or insert the right-to-left text, and then insert the PDF character.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T235016Z" creationid="Hiroshi Miura" creationdate="20230113T234940Z">
+        <seg>左から右の分節に右から左への埋め込みを作成するには、右から左への埋め込み(RLE: Right-to-Left embedding)文字を挿入し、右から左への文章を入力または挿入してから、PDF文字を挿入します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65242,6 +65298,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T154049Z">
         <seg>翻訳者のコメント：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Translators can easily modify the contents or location of those resources at any time during the translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T000010Z" creationid="Hiroshi Miura" creationdate="20230114T000010Z">
+        <seg>翻訳者は、翻訳中にいつでもこれらのリソースの内容や場所を簡単に変更できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68361,6 +68426,15 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Welcome to OmegaT, a computer-assisted translation (CAT) tool that offers great flexibility, performance and robustness, as well as features beyond those of commercial offerings, even for beginning translators.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T235725Z" creationid="Hiroshi Miura" creationdate="20230113T235725Z">
+        <seg>OmeaTは、コンピュータ支援翻訳(CAT)ツールであり、優れた柔軟性とパフォーマンスを提供するとともに、商用製品以上の機能を提供します。初心者の翻訳者も利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Well, have you considered learning?</seg>
       </tuv>
@@ -70586,6 +70660,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T000700Z" creationid="Hiroshi Miura" creationdate="20221022T000700Z">
         <seg>&lt;l0/&gt;ダイアログを使用すると、主題またはクライアントに基づいて複数の用語フォルダを作成し、プロジェクトの必要に応じてそれらを指定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create two kinds of embeddings depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234845Z" creationid="Hiroshi Miura" creationdate="20230113T234845Z">
+        <seg>分節の綴り方向に応じて、次の2種類の埋め込みを作成できます。</seg>
       </tuv>
     </tu>
     <tu>
