@@ -12372,12 +12372,11 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in order.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003203Z" creationid="Hiroshi Miura" creationdate="20230114T003203Z">
-        <seg>言語コードの正規表現に一致する分節化規則は、設定した順に適用されます。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003336Z" creationid="Hiroshi Miura" creationdate="20230114T003203Z">
+        <seg>言語の構成例に一致する分節化規則は、設定れた優先順で適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12890,6 +12889,14 @@ OmegaT.exe.</seg>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T224632Z" creationid="Kasuya" creationdate="20160705T091829Z">
         <seg>原文と訳文の単語の大文字化を一致させることを試みます。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An empty line will appear at the bottom of the table.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003725Z" creationid="Hiroshi Miura" creationdate="20230114T003725Z">
+        <seg>表の最下部に新しい行が作成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15658,6 +15665,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Cascading priorities</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003408Z" creationid="Hiroshi Miura" creationdate="20230114T003408Z">
+        <seg>優先順位のカスケード</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -15747,6 +15763,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T100521Z">
         <seg>このとき、拡張子を &lt;l1&gt;.txt&lt;/l1&gt; から &lt;l2&gt;.utf8&lt;/l2&gt; に変更してください。OmegaT はこのファイルを UTF-8 ファイルとして自動的に認識します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the name of the rule set and the language pattern to the desired label and corresponding pattern.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003859Z" creationid="Hiroshi Miura" creationdate="20230114T003859Z">
+        <seg>規則集と言語の構成例の名前について、目的の名称と対応するパターンに変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16823,6 +16847,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141110T231337Z" creationid="Yu-Tang" creationdate="20141110T230753Z">
         <seg>&lt;e2&gt;［置換して次へ］&lt;/e2&gt;か&lt;e3&gt;［次を検索］&lt;/e3&gt;をクリックしていき、最後に&lt;e4&gt;［フィルターを解除］&lt;/e4&gt;でフィルターを解除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g0&gt;Add&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003704Z" creationid="Hiroshi Miura" creationdate="20230114T003704Z">
+        <seg>&lt;g0&gt;追加&lt;/g0&gt;をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23593,6 +23625,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception rules should be listed &lt;e0&gt;above&lt;/e0&gt; break rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T004041Z" creationid="Hiroshi Miura" creationdate="20230114T004041Z">
+        <seg>例外規則は、分節化規則よりも&lt;e0&gt;前に&lt;/e0&gt;なければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T121340Z">
@@ -25066,12 +25106,11 @@ Tutorial.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>For a translation from Japanese, &lt;e0&gt;only&lt;/e0&gt; the rule set associated to the &lt;c1&gt;JA.*&lt;/c1&gt; pattern and the generic rule sets associated to the &lt;c2&gt;.*&lt;/c2&gt; will be taken into account.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003035Z" creationid="Hiroshi Miura" creationdate="20230114T003035Z">
-        <seg>日本語からの翻訳では、&lt;e0&gt;&lt;/e0&gt;&lt;c1&gt;JA.*&lt;/c1&gt;パターンに関連付けられた規則集と&lt;c2&gt;.*&lt;/c2&gt;に関連付けられた汎用ルールセットのみが考慮されます。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003649Z" creationid="Hiroshi Miura" creationdate="20230114T003035Z">
+        <seg>日本語からの翻訳では、&lt;e0&gt;&lt;/e0&gt;&lt;c1&gt;JA.*&lt;/c1&gt;パターンに関連付けられた規則集と&lt;c2&gt;.*&lt;/c2&gt;に関連付けられた汎用の規則のみが考慮されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48539,8 +48578,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Rules for specific language regions should be higher than default ones.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003241Z" creationid="Hiroshi Miura" creationdate="20230114T003241Z">
-        <seg>したがって、特定の言語のために設定した規則は、デフォルトのものより高い優先順位を与えるほうがよいでしょう。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003325Z" creationid="Hiroshi Miura" creationdate="20230114T003241Z">
+        <seg>特定の言語のために設定した規則は、デフォルトのものより高い優先順位を与えるほうがよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57989,6 +58028,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The language pattern is a regular expression.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003920Z" creationid="Hiroshi Miura" creationdate="20230114T003920Z">
+        <seg>言語の構成には、正規表現を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T190525Z">
@@ -59367,6 +59414,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T065025Z">
         <seg>プロジェクトの原文と訳文の言語に応じて、規則が（もしあれば）適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rules for &lt;e0&gt;FR-CA&lt;/e0&gt; should be set higher than those for &lt;e1&gt;FR.*&lt;/e1&gt;, which should themselves be higher than the generic &lt;e2&gt;.*&lt;/e2&gt; set.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003609Z" creationid="Hiroshi Miura" creationdate="20230114T003518Z">
+        <seg>カナダフランス語&lt;e0&gt;FR-CA&lt;/e0&gt;用の規則は、フランス語&lt;e1&gt;FR.*&lt;/e1&gt;用の規則よりも優先順位を高くし、なおかつ汎用&lt;e2&gt;.*&lt;/e2&gt;の規則よりも高くしておきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63429,6 +63484,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French—if any—will apply first, followed by the rules for French and lastly, by the generic rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003551Z" creationid="Hiroshi Miura" creationdate="20230114T003551Z">
+        <seg>こうしておけば、カナダフランス語を原文とするプロジェクトでは、まずカナダフランス語用の規則、次にフランス語用の規則、最後に汎用の規則、という順序で適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tiago Saboga</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T044053Z">
@@ -63856,6 +63919,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234957Z" creationid="Hiroshi Miura" creationdate="20230113T234919Z">
         <seg>右から左への分節に左から右への埋め込みを作成するには、左から右への埋め込み(LRE: Left-to-Right Embedding)文字を挿入し、左から右への文章を入力または挿入してから、ポップ方向書式設定(PDF: Pop Directional Formatting)文字を挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>To create a new rule set:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003654Z" creationid="Hiroshi Miura" creationdate="20230114T003654Z">
+        <seg>規則の新規作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -67349,6 +67421,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Move Up&lt;/g0&gt; button to set the rule set priority.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T004001Z" creationid="Hiroshi Miura" creationdate="20230114T004001Z">
+        <seg>&lt;g0&gt;上へ移動&lt;/g0&gt;ボタンを使用して、規則集の優先順位を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;g1&gt;Configure&lt;/g1&gt; button to manage your authentication credentials for that provider.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T152045Z" creationid="miurahr" creationdate="20221222T151953Z">
@@ -68830,6 +68910,15 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T133004Z">
         <seg>OmegaT は原文フォルダーにファイルを見つけると、まず拡張子から判別してファイルフィルターを選択しようとします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>When OmegaT reads files, it puts a non-breaking marker at every exception location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T011950Z" creationid="Hiroshi Miura" creationdate="20230114T011950Z">
+        <seg>OmegaTがファイルを読み込むとき、すべての例外の場所に非分割マーカーを配置します。</seg>
       </tuv>
     </tu>
     <tu>
