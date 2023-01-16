@@ -20163,6 +20163,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Depending on the original format, OmegaT, however, will present this sentence in a fashion similar to this one:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121304Z" creationid="Hiroshi Miura" creationdate="20230116T121304Z">
+        <seg>ただし、元の書式によっては、OmegaTは次のような形式でこの文を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
@@ -21340,6 +21349,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T175726Z">
         <seg>文書によっては、商標、名称、その他の固有名詞など、原文と同じ状態で残す必要のある箇所を含んでいる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documents often also contain tags that have nothing to do with decorations, but are nevertheless important in the source files (and, consequently, in the translated files).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121220Z" creationid="Hiroshi Miura" creationdate="20230116T121127Z">
+        <seg>多くの場合、文書には装飾とは関係のないタグも含まれていますが、それでも原文ファイルでは(ひいては、訳文ファイルでも)重要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28155,6 +28172,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How decorations are displayed in OmegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121318Z" creationid="Hiroshi Miura" creationdate="20230116T121311Z">
+        <seg>OmegaTでの修飾の表示方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T035743Z">
@@ -29576,6 +29601,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the documents you translate use bold, italics, or other decorative elements, OmegaT will convert those elements into tags that enclose the decorated text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120940Z" creationid="Hiroshi Miura" creationdate="20230116T120940Z">
+        <seg>翻訳対象の文書に、太字や強調文字などの修飾がついた文字がある場合、OmegaTはそれらの要素をタグに変換し、修飾つきの部分をタグで囲むようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T063958Z">
@@ -30707,6 +30740,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T031237Z">
         <seg>この状態でフィルターの設定を変更すると、プロジェクト専用フィルターだけが更新されます。ユーザーレベルのフィルターには影響しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you make mistakes when you manage the tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121628Z" creationid="Hiroshi Miura" creationdate="20230116T121628Z">
+        <seg>タグの管理を間違えると、訳文ファイルを開くことができなくなる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37036,6 +37077,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Manage your tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120751Z" creationid="Hiroshi Miura" creationdate="20230116T120751Z">
+        <seg>タグの管理</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;SVN&lt;/e0&gt; or &lt;e1&gt;Git&lt;/e1&gt; version control system.</seg>
@@ -41670,6 +41719,24 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201110T013954Z">
         <seg>OmegaT では、生成される訳文が原文と同じということになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT is an &lt;c0&gt;&lt;t0/&gt;&lt;/c0&gt;easy to use&lt;c1&gt;&lt;t1/&gt;&lt;/c1&gt; program for &lt;c2&gt;&lt;t2/&gt;&lt;/c2&gt;eager&lt;c3&gt;&lt;t3/&gt;&lt;/c3&gt; translators</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121402Z" creationid="Hiroshi Miura" creationdate="20230116T121312Z">
+        <seg>OmegaTは、&lt;c0&gt;&lt;t0/&gt;&lt;/c0&gt;使いやすい&lt;c1&gt;&lt;t1/&gt;&lt;/c1&gt;プログラムで、&lt;c2&gt;&lt;t2/&gt;&lt;/c2&gt;熱心な&lt;c3&gt;&lt;t3/&gt;&lt;/c3&gt;翻訳者向けです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT is an &lt;e0&gt;easy-to-use&lt;/e0&gt; program for &lt;e1&gt;eager&lt;/e1&gt; translators</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121251Z" creationid="Hiroshi Miura" creationdate="20230116T121251Z">
+        <seg>OmegaTは、&lt;e1&gt;熱心な&lt;/e1&gt;翻訳者向けの&lt;e0&gt;使いやすい&lt;/e0&gt;プログラムです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50211,6 +50278,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>See &lt;l0/&gt; &lt;l1/&gt; and &lt;l2/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121438Z" creationid="Hiroshi Miura" creationdate="20230116T121438Z">
+        <seg>詳細については、&lt;l0/&gt;&lt;l1/&gt;および&lt;l2/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>See &lt;l0/&gt; for details.</seg>
@@ -50705,6 +50781,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T154650Z" creationid="miurahr" creationdate="20221222T154650Z">
         <seg>詳細は、付録の &lt;l1/&gt; をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120438Z" creationid="Hiroshi Miura" creationdate="20230116T120438Z">
+        <seg>詳細は&lt;l0/&gt;項をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51610,6 +51695,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T202609Z">
         <seg>文単位の分節化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence with decorative formatting</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121238Z" creationid="Hiroshi Miura" creationdate="20230116T121238Z">
+        <seg>装飾書式が設定された文</seg>
       </tuv>
     </tu>
     <tu>
@@ -54322,6 +54415,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such files include LibreOffice files, HTML files an Microsoft Office files for example.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121134Z" creationid="Hiroshi Miura" creationdate="20230116T121121Z">
+        <seg>これらの処理がされるファイルには、OneNoteファイル、HTMLファイル、Microsoft Officeファイルなどがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such files may also be written out in any encoding.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T145145Z">
@@ -56104,6 +56205,22 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; function lets you search the entire project for terms, sentence fragments and so on, using exact, keyword, or regular expression searches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120226Z" creationid="Hiroshi Miura" creationdate="20230116T120226Z">
+        <seg>&lt;l0/&gt;機能を使用すると、完全検索、キーワード検索、または正規表現検索を使用して、プロジェクト全体で用語や文の一部などを検索できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; gives easy access to various frequently used functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120720Z" creationid="Hiroshi Miura" creationdate="20230116T120720Z">
+        <seg> &lt;l0/&gt;を使うことで、頻繁に使う機能に簡単にアクセスできるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
@@ -56198,6 +56315,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T004638Z" creationid="Hiroshi Miura" creationdate="20221022T004638Z">
         <seg>&lt;l0&gt;\&lt;/l0&gt;文字は非常に特殊な文字です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l1/&gt; is also available in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120742Z" creationid="Hiroshi Miura" creationdate="20230116T120742Z">
+        <seg>編集ウィンドウには、 &lt;l1/&gt;もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60799,6 +60924,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The tags in OmegaT are grayed, making them easy to recognize.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121419Z" creationid="Hiroshi Miura" creationdate="20230116T121419Z">
+        <seg>OmegaTのタグはグレー表示されているので、認識しやすいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130116T201606Z">
@@ -61894,6 +62027,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T012907Z" creationid="Hiroshi Miura" creationdate="20221022T012907Z">
         <seg>They are not followed by a space.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are protected to prevent you from modifying their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121525Z" creationid="Hiroshi Miura" creationdate="20230116T121430Z">
+        <seg>タグは中を変更できないように保護されていますが、削除したり、手動で入力したり、対象の文の中で移動したりすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71492,6 +71633,15 @@ Spotlight search field.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can also define strings that OmegaT should warn you about if you leave them in a translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121548Z" creationid="Hiroshi Miura" creationdate="20230116T121548Z">
+        <seg>また、変換時にOmegaTが警告する文字列を定義することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
@@ -71513,6 +71663,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T181510Z">
         <seg>&lt;u6&gt;バグ報告&lt;/u6&gt;や&lt;u7&gt;機能改善リクエスト&lt;/u7&gt;も行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also focus only on the results by filtering them in the Editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120357Z" creationid="Hiroshi Miura" creationdate="20230116T120357Z">
+        <seg>また、編集ウィンドウでフィルタリングすることで、検索結果のみに注目して作業することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71573,6 +71731,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061916Z" creationid="miurahr" creationdate="20201101T061916Z">
         <seg>あるいは OmegaT.exe ファイルをマウスの右ボタンでドラッグすれば、ショートカットを自分で作成し、上記のような場所へ配置することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also narrow the scope of the search based on information such as author or date.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120303Z" creationid="Hiroshi Miura" creationdate="20230116T120303Z">
+        <seg>作成者や日付などの情報に基づいて検索範囲を絞り込むこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71862,6 +72028,15 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can define custom tags that will be managed in the same manner.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T121536Z" creationid="Hiroshi Miura" creationdate="20230116T121536Z">
+        <seg>同じ方法で管理されるカスタムタグを定義できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
@@ -72059,6 +72234,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can leave notes to yourself or team members in the &lt;l0/&gt; pane while you translate, and go back to annotated segments with &lt;l1/&gt; or &lt;l2/&gt; in the &lt;l3/&gt; menu, or from the &lt;l4/&gt; window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120644Z" creationid="Hiroshi Miura" creationdate="20230116T120644Z">
+        <seg>翻訳中に&lt;l0/&gt;ウィンドウで自分用やチームメンバー用にメモを残し、&lt;l3/&gt;メニューや&lt;l4/&gt;ウィンドウから、&lt;l1/&gt;または&lt;l2/&gt;で注釈を付けた分節に戻ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can limit the segmentation rules used by the project to that project by either setting local rules with &lt;l0/&gt;, in &lt;l1/&gt;, or by starting OmegaT from the command line.</seg>
@@ -72180,6 +72363,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T024534Z">
         <seg>これら３つの TMX ファイル（&lt;f2&gt;-omegat.tmx&lt;/f2&gt;、&lt;f3&gt;-level1.tmx&lt;/f3&gt;、&lt;f4&gt;-level2.tmx&lt;/f4&gt;）は「エクスポートした翻訳メモリ」、つまり現在のプロジェクトの内容をバイリンガル形式で外部出力したものと、みなすことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can replace terms with the &lt;l0/&gt; function using a similar dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120427Z" creationid="Hiroshi Miura" creationdate="20230116T120427Z">
+        <seg>同様のダイアログを使用して、&lt;l0/&gt;機能で用語を置き換えることができます。</seg>
       </tuv>
     </tu>
     <tu>
