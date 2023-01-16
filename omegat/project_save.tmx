@@ -15518,6 +15518,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>By default, that folder is the project folder itself but you can change its location to make it more practical to share exported TM files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153416Z" creationid="Hiroshi Miura" creationdate="20230116T153416Z">
+        <seg>デフォルトでは、そのフォルダーはプロジェクトフォルダーそのものですが、場所を変更して、書き出されたTMファイルを共有しやすくすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
@@ -20592,6 +20601,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>Dictionaries folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152727Z" creationid="Hiroshi Miura" creationdate="20230116T152727Z">
+        <seg>辞書フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>Dictionaries folder:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221210T000756Z" creationid="miurahr" creationdate="20221210T000756Z">
@@ -22059,6 +22077,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150521T053406Z" creationid="Yu-Tang" creationdate="20150521T030904Z">
         <seg>プロジェクトに追加したい用語集ファイルをここにドラッグしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153618Z" creationid="Hiroshi Miura" creationdate="20230116T153618Z">
+        <seg>OmegaTチームはEclipse FoundationのAdoptium Projectが提供するJavaランタイムEclipse Temurinを推奨していますが、Java 8互換のランタイム環境であればどれでも動作するはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24240,6 +24266,15 @@ Gossamer threads hold you back
         <seg>Exported Translation Memories Folder</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T020629Z" creationid="Hiroshi Miura" creationdate="20221023T020629Z">
+        <seg>翻訳メモリ出力フォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Exported translation memories folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153113Z" creationid="Hiroshi Miura" creationdate="20230116T153113Z">
         <seg>翻訳メモリ出力フォルダー：</seg>
       </tuv>
     </tu>
@@ -27223,6 +27258,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Glossary files folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152536Z" creationid="Hiroshi Miura" creationdate="20230116T152536Z">
+        <seg>用語集フォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
@@ -29541,6 +29585,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T154733Z" creationid="miurahr" creationdate="20221222T154733Z">
         <seg>プロジェクト専用のファイルフィルタが使用されている場合、ユーザーレベルファイルフィルタを変更してもプロジェクトに影響しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If matches are found, they are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152840Z" creationid="Hiroshi Miura" creationdate="20230116T152840Z">
+        <seg>一致するものが見つかると、&lt;l0/&gt;に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34118,6 +34171,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T133937Z" creationid="miurahr" creationdate="20221023T133937Z">
         <seg>OmegaTチームプロジェクトは、複数の翻訳者がproject_save.tmxファイルを共有しますが、(ソース)ファイルの(すべて)は共有しない、異なる方法で設定することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is automatically created the first time a term is added.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152653Z" creationid="Hiroshi Miura" creationdate="20230116T152653Z">
+        <seg>このファイルは、最初の用語定義を作成したときに自動的に生成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41451,6 +41512,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT 5.8.0 and later can also run with Java 11 Runtime Environment on any platform.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153530Z" creationid="Hiroshi Miura" creationdate="20230116T153530Z">
+        <seg>OmegaT 5.8.0以降では、すべてのプラットフォームでJava 11 Runtime Environmentもサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT 5.8.0 requires a Java 8 Runtime Environment (JRE) to run.</seg>
@@ -42710,6 +42780,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and matches their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152832Z" creationid="Hiroshi Miura" creationdate="20230116T152832Z">
+        <seg>すべての辞書ファイルの索引を一度に読み取り、翻訳したい分節に対する検索を行ないます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061154Z" creationid="miurahr" creationdate="20201101T061154Z">
@@ -42967,6 +43045,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152218Z" creationid="Hiroshi Miura" creationdate="20230116T152135Z">
         <seg>OmegaTは、中のすべてのファイルを一度に読み取ろうとし、見つかった翻訳可能な内容をエディタに表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT will try to read all the files at once, and will match their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152532Z" creationid="Hiroshi Miura" creationdate="20230116T152446Z">
+        <seg>すべてのファイルを一度に読み取り、翻訳したい分節に対するファジーマッチ検索を行ないます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50985,6 +51072,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;The Eclipse Temurin™ project&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153640Z" creationid="Hiroshi Miura" creationdate="20230116T153640Z">
+        <seg> &lt;u0&gt;The Eclipse Temurin™ project&lt;/u0&gt;を参照。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T043156Z">
@@ -51349,6 +51444,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;u0&gt;TMX 1.4b Specification&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153505Z" creationid="Hiroshi Miura" creationdate="20230116T153505Z">
+        <seg>詳細については、&lt;u0&gt;TMX 1.4b仕様&lt;/u0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
@@ -51597,6 +51701,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T032509Z" creationid="Hiroshi Miura" creationdate="20221022T032509Z">
         <seg>分節は、デフォルトではファイル形式自体によって定義される&lt;e0&gt;段落&lt;/e0&gt;になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments that have been translated will be replaced by their translation and untranslated segments will remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153044Z" creationid="Hiroshi Miura" creationdate="20230116T152930Z">
+        <seg>翻訳された分節はその翻訳に置き換えられ、未翻訳分節は元の言語のままになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53503,6 +53615,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T151914Z">
         <seg>ソマリ語（Somali）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Some Linux distributions offer OmegaT in their package manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153718Z" creationid="Hiroshi Miura" creationdate="20230116T153718Z">
+        <seg>一部のLinuxディストリビューションでは、パッケージマネージャにOmegaTが用意されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57115,6 +57236,15 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The Exclusion patterns dialog allows you to add or remove a pattern or to edit one by double-clicking it, or selecting it and pressing &lt;k0&gt;F2&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152324Z" creationid="Hiroshi Miura" creationdate="20230116T152324Z">
+        <seg>除外構成例集ダイアログで、構成例の追加と削除ができます。また ダブルクリックや構成例を選んでF2 キーを押すと編集もできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The Exclusion patterns dialog, allows you to add or remove a pattern, or to edit one by double-clicking it, or selecting it and pressing F2.</seg>
       </tuv>
@@ -57518,6 +57648,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T144937Z" creationid="miurahr" creationdate="20221103T144937Z">
         <seg>TMX ファイルの読み込みを続行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX files will contain only the segments that correspond to the current contents of the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153245Z" creationid="Hiroshi Miura" creationdate="20230116T153245Z">
+        <seg>TMXファイルには、&lt;l0/&gt;フォルダーの現在のコンテンツに対応する分節だけが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58891,6 +59029,23 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153835Z" creationid="Hiroshi Miura" creationdate="20230116T153835Z">
+        <seg>このフォルダには、&lt;f2&gt;index.html&lt;/f2&gt;(取扱説明書入口ページ)と&lt;f1&gt;OmegaT.app&lt;/f1&gt;(アプリケーション)の2つのファイルが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The folder structure reflects the copied contents and files that are not supported by OmegaT’s file filters will be copied without modifications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153106Z" creationid="Hiroshi Miura" creationdate="20230116T153106Z">
+        <seg>フォルダー構造はコピーされた内容を反映し、OmegaTのファイルフィルターでサポートされていないファイルは変更されずにコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>The folder structure will reflect the copied contents and files that are not supported by OmegaT’s file filters will be copied without modifications.</seg>
@@ -59331,6 +59486,15 @@ in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061901Z" creationid="miurahr" creationdate="20201101T061901Z">
         <seg>インストーラーは、スタートメニュー、デスクトップ、およびクイック起動領域にショートカットを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;u0&gt;https://omegat.org&lt;/u0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153728Z" creationid="Hiroshi Miura" creationdate="20230116T153728Z">
+        <seg>ここに記載されている手順は、&lt;u0&gt;https://omegat.org&lt;/u0&gt;のサイトからパッケージをダウンロードする人に適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61863,6 +62027,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files are the translated versions of the files located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152940Z" creationid="Hiroshi Miura" creationdate="20230116T152927Z">
+        <seg>訳文ファイルは、&lt;l0/&gt;フォルダーにあるファイルの翻訳バージョンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files folder does not exist!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T144154Z" creationid="miurahr" creationdate="20221103T144154Z">
@@ -62174,6 +62346,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T002239Z" creationid="Hiroshi Miura" creationdate="20221022T002239Z">
         <seg>プロジェクトの書き込み可能な用語集は、常にUTF-8エンコーディングで保存されたTSVファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary is the file that OmegaT uses when you add translated glossary terms to your project with the &lt;l0/&gt;&lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152619Z" creationid="Hiroshi Miura" creationdate="20230116T152619Z">
+        <seg>書き込み可能な用語集は、&lt;l0/&gt;&lt;l1/&gt;メニューを使用して翻訳されたOmegaT用語をプロジェクトに追加するときに用語集機能が使用するファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63357,6 +63537,14 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This checkbox lets you choose in which format you want OmegaT to create the above TMX files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153433Z" creationid="Hiroshi Miura" creationdate="20230116T153433Z">
+        <seg>このチェックボックスでは、OmegaTで上記のTMXファイルを作成するときのフォーマットを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>This checkbox lists lets you choose in which format you want OmegaT to create the above TMX files.</seg>
@@ -63744,6 +63932,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is &lt;e0&gt;always&lt;/e0&gt; located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152723Z" creationid="Hiroshi Miura" creationdate="20230116T152723Z">
+        <seg>このファイルはプロジェクトの&lt;l1/&gt;フォルダーに&lt;e0&gt;必ず存在&lt;/e0&gt;します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001056Z" creationid="Hiroshi Miura" creationdate="20221220T001056Z">
@@ -63788,6 +63984,30 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152153Z" creationid="Hiroshi Miura" creationdate="20230116T152132Z">
         <seg>翻訳対象の原文ファイルがこのフォルダにあるとみなします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference dictionaries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152740Z" creationid="Hiroshi Miura" creationdate="20230116T152740Z">
+        <seg>このフォルダに辞書として利用するファイルを保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference glossaries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152600Z" creationid="Hiroshi Miura" creationdate="20230116T152600Z">
+        <seg>このフォルダに用語集として利用するファイルを保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference translation memories.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152518Z" creationid="Hiroshi Miura" creationdate="20230116T152444Z">
+        <seg>このフォルダに、翻訳メモリとして利用するファイルが保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64123,6 +64343,22 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T175833Z">
         <seg>こちらが初期設定です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the folder where OmegaT copies the current state of the translation in the form of TMX files when you create the translated files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153151Z" creationid="Hiroshi Miura" creationdate="20230116T153151Z">
+        <seg>このフォルダーは、OmegaTが訳文生成の際に、翻訳の現在の状態をTMXファイル形式で出力する場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the folder where OmegaT creates the translated files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152913Z" creationid="Hiroshi Miura" creationdate="20230116T152913Z">
+        <seg>ここはOmegaTが訳文ファイルを作成するフォルダーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65522,6 +65758,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140205T113824Z">
         <seg>改節を禁止するための規則を定義する場合は、［分割する/しない］チェックボックスにチェックを入れずにおきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define exclusions, use the &lt;u1&gt;Apache ant syntax&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152426Z" creationid="Hiroshi Miura" creationdate="20230116T152426Z">
+        <seg>除外定義には &lt;u0&gt;Ant 構文&lt;/u0&gt;が使えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66944,6 +67188,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated files folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152846Z" creationid="Hiroshi Miura" creationdate="20230116T152846Z">
+        <seg>訳文ファイルフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
@@ -67111,6 +67364,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130123T083556Z">
         <seg>翻訳メモリは、同じ分節の繰り返しや、似通った表現が多く現れる翻訳に非常に便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translation memories folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152431Z" creationid="Hiroshi Miura" creationdate="20230116T152431Z">
+        <seg>翻訳メモリフォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -68693,6 +68955,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T223044Z" creationid="Hiroshi Miura" creationdate="20221109T223028Z">
         <seg>&lt;l1/&gt;メニューの&lt;l0/&gt;を使用して、設定フォルダにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files and the exported TMX files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153359Z" creationid="Hiroshi Miura" creationdate="20230116T153359Z">
+        <seg>&lt;l0/&gt;または&lt;l1/&gt;を使用して、訳文ファイルとTMXファイル出力を作成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72546,6 +72816,15 @@ Spotlight search field.</seg>
         <seg>You can also change this later by editing &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T065736Z" creationid="Hiroshi Miura" creationdate="20221021T065736Z">
+        <seg>&lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;を編集して、後でこれを変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can also change this later by editing the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153700Z" creationid="Hiroshi Miura" creationdate="20230116T153700Z">
         <seg>&lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;を編集して、後でこれを変更することもできます。</seg>
       </tuv>
     </tu>
@@ -78053,6 +78332,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153641Z" creationid="Hiroshi Miura" creationdate="20230116T153641Z">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/?license=IBM</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023427Z" creationid="Hiroshi Miura" creationdate="20221023T023427Z">
@@ -78236,6 +78523,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140912Z" creationid="suzume" creationdate="20201122T140912Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153532Z" creationid="Hiroshi Miura" creationdate="20230116T153532Z">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
       </tuv>
     </tu>
     <tu>
