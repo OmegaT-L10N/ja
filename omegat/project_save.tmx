@@ -15410,10 +15410,28 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>By default, external searches are global and are shared by all projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151804Z" creationid="Hiroshi Miura" creationdate="20230116T151804Z">
+        <seg>デフォルトでは、外部検索はユーザーレベルであり、すべてのプロジェクトで使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>By default, file filter settings are global and are shared by all projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154255Z" creationid="Hiroshi Miura" creationdate="20221022T154255Z">
+        <seg>デフォルトでは、フィルターの設定はユーザーレベルであり、すべてのプロジェクトで共有されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>By default, file filter settings are global and shared by all projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151339Z" creationid="Hiroshi Miura" creationdate="20230116T151339Z">
         <seg>デフォルトでは、フィルターの設定はユーザーレベルであり、すべてのプロジェクトで共有されます。</seg>
       </tuv>
     </tu>
@@ -16665,6 +16683,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T053920Z" creationid="miurahr" creationdate="20201115T053920Z">
         <seg>同じ語根を持つ単語を辞書に表示する場合は、[&lt;g0&gt;辞書項目の照合にトークナイザを使用する&lt;/g0&gt;]オプションをオンにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the &lt;o0&gt;Use local file filter settings&lt;/o0&gt; box, and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151455Z" creationid="Hiroshi Miura" creationdate="20230116T151455Z">
+        <seg> &lt;o0&gt;フィルター設定をプロジェクト専用にする&lt;/o0&gt;チェックボックスにチェックを入れてから、必要な設定に変更してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26126,6 +26152,15 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T171909Z">
         <seg>判別しやすいよう、文字キーは大文字で表記します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>For security purposes, local project-based external searches are disabled by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151922Z" creationid="Hiroshi Miura" creationdate="20230116T151922Z">
+        <seg>セキュリティ上の理由から、プロジェクトベースの外部検索はデフォルトで無効になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36677,6 +36712,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local commands are run before global commands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151328Z" creationid="Hiroshi Miura" creationdate="20230116T151328Z">
+        <seg>プロジェクト専用の後処理用コマンドは、ユーザーレベルコマンドの前に実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T234356Z" creationid="miurahr" creationdate="20201106T234356Z">
@@ -42916,6 +42959,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T175850Z">
         <seg>OmegaT としては未翻訳の分節として残すことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will try to read all the files at once, and will display in the editor the translatable contents that it has found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152218Z" creationid="Hiroshi Miura" creationdate="20230116T152135Z">
+        <seg>OmegaTは、中のすべてのファイルを一度に読み取ろうとし、見つかった翻訳可能な内容をエディタに表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51234,6 +51285,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section of the &lt;l1/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151753Z" creationid="Hiroshi Miura" creationdate="20230116T151753Z">
+        <seg>詳細については、 &lt;l1/&gt;ハウツー項の&lt;l0/&gt;章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001211Z" creationid="Hiroshi Miura" creationdate="20221220T001211Z">
@@ -53967,6 +54026,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source files folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152114Z" creationid="Hiroshi Miura" creationdate="20230116T152114Z">
+        <seg>原文ファイルフォルダー</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
@@ -54942,6 +55010,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033806Z" creationid="miurahr" creationdate="20201101T033806Z">
         <seg>このような補助コードは、例えばJavascriptやGroovy、Tcl/Tkなどで既に書かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such commands are defined in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151259Z" creationid="Hiroshi Miura" creationdate="20230116T151259Z">
+        <seg>そのようなコマンドは&lt;l0/&gt;設定でで定義できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60461,6 +60537,22 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder, and the settings will supersede the global external searches settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151908Z" creationid="Hiroshi Miura" creationdate="20230116T151908Z">
+        <seg>新しい外部検索は、プロジェクトの&lt;l1/&gt;フォルダーの中の&lt;l0/&gt; ファイルに保存され、この定義により、ユーザレベルのフィルター設定が上書きされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its omegat folder, and the settings will supersede the global file filter settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151716Z" creationid="Hiroshi Miura" creationdate="20230116T151716Z">
+        <seg>新しいフィルター定義は、プロジェクトのomegatフォルダーの中の&lt;l0/&gt; ファイルに保存され、この定義により、ユーザレベルのフィルター設定が上書きされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder, and the rules will supersede the global segmentation rules.</seg>
@@ -62633,6 +62725,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are defined in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151818Z" creationid="Hiroshi Miura" creationdate="20230116T151818Z">
+        <seg>これらの設定は、 &lt;l0/&gt;設定で定義できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T092947Z">
@@ -62654,6 +62754,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T154311Z" creationid="Hiroshi Miura" creationdate="20221022T154311Z">
         <seg>これらの設定は、[設定] – &lt;l0/&gt;で定義できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are found in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151357Z" creationid="Hiroshi Miura" creationdate="20230116T151357Z">
+        <seg>これらの設定は、 &lt;l0/&gt;設定で定義できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63672,6 +63780,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T123556Z" creationid="miurahr" creationdate="20221222T123443Z">
         <seg>このフォルダーには、たくさんのログファイルが保存されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152153Z" creationid="Hiroshi Miura" creationdate="20230116T152132Z">
+        <seg>翻訳対象の原文ファイルがこのフォルダにあるとみなします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65417,6 +65533,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>To delete project specific external searches, click on &lt;g0&gt;Remove&lt;/g0&gt; or remove that file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151916Z" creationid="Hiroshi Miura" creationdate="20230116T151916Z">
+        <seg>プロジェクト専用の外部検索を無効にするには、&lt;g0&gt;削除&lt;/g0&gt;をクリックにするか、そのファイルを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>To delete project specific file filters, uncheck the check box.</seg>
       </tuv>
@@ -65587,6 +65712,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T150417Z">
         <seg>綴り確認機能を有効にするには、&lt;g0&gt;［設定］→［綴り確認...］&lt;/g0&gt;を選び、&lt;g1&gt;［テキストの綴り確認を自動で行う］&lt;/g1&gt;チェックボックスにチェックを入れます（上図を参照してください）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable them, check &lt;l0/&gt; in the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151939Z" creationid="Hiroshi Miura" creationdate="20230116T151939Z">
+        <seg>有効にするには、&lt;l1/&gt; 設定の &lt;l0/&gt;でチェックをいれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68599,6 +68732,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access all the project ressource locations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152109Z" creationid="Hiroshi Miura" creationdate="20230116T152109Z">
+        <seg>プロジェクト資材の場所にアクセスするには、 &lt;l0/&gt;&lt;l1/&gt;を使用しサブメニューを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120026Z" creationid="Hiroshi Miura" creationdate="20230116T120026Z">
@@ -70596,6 +70737,15 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>When a new project is created, OmegaT proposes to create a default project folder that contains all the resources used in the translation, but that structure is not compulsory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152025Z" creationid="Hiroshi Miura" creationdate="20230116T152025Z">
+        <seg>新しいプロジェクトが作成されると、OmegaTは翻訳で使用されるすべての資材を含むプロジェクトフォルダーの作成を提案しますが、その構造は必須ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>When a new project is created, OmegaT proposes to create a project folder that contains all the resources used in the translation, but that structure is not compulsory.</seg>
       </tuv>
@@ -72413,6 +72563,15 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T124208Z" creationid="miurahr" creationdate="20221023T124208Z">
         <seg>また、特別な目的のためにOmegaTを使う場合に、起動スクリプトに一連の設定を定義して保存することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can also define global post-processing commands available to all projects that share the same configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151230Z" creationid="Hiroshi Miura" creationdate="20230116T151230Z">
+        <seg>また、同じユーザーレベル設定を共有するすべてのプロジェクトで使用可能なフォルダー後処理コマンドを定義することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78778,6 +78937,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T160022Z" creationid="Hiroshi Miura" creationdate="20221022T160022Z">
         <seg>&lt;l0/&gt;ウィンドウの集計対象になりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not taken into account in the various statistics reports (use &lt;l0/&gt;&lt;l1/&gt;, etc.), and</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152308Z" creationid="Hiroshi Miura" creationdate="20230116T152308Z">
+        <seg>翻訳状況の集計対象になりません(&lt;l0/&gt;&lt;l1/&gt;を使用)</seg>
       </tuv>
     </tu>
     <tu>
