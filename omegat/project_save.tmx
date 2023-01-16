@@ -10740,6 +10740,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A list of mapping parameters is presented below, and examples of their use are provided in the next section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231947Z" creationid="Hiroshi Miura" creationdate="20230116T231947Z">
+        <seg>A list of mapping parameters is presented below, and examples of their use are provided in the next section.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>A list of mapping parameters is presented below, and examples of their use is provided in the next section.</seg>
@@ -30419,6 +30427,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231907Z" creationid="Hiroshi Miura" creationdate="20230116T231907Z">
+        <seg>翻訳者が自分でアカウントを登録することができない自前サーバの場合、チームプロジェクト管理者は、翻訳者の書き込みアクセス権を持つアカウントを作成する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If the server is self-hosted that does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
       </tuv>
@@ -32748,8 +32765,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="en">
         <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0&gt;and only in such projects&lt;/e0&gt;, the source and target files can be modified locally and uploaded to the server using &lt;l1/&gt;&lt;l2/&gt; and &lt;l3/&gt;&lt;l4/&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231710Z" creationid="Hiroshi Miura" creationdate="20230116T231710Z">
-        <seg>ローカルリポジトリとリモートリポジトリ(デフォルトの)間の単純なマッピングを使用するチームプロジェクトでは、原文ファイルと訳文ファイルをローカルで変更して、&lt;l3/&gt;メニューの&lt;l1/&gt;コマンドと&lt;l2/&gt;コマンドを使用して、&lt;e0&gt;このプロジェクトに閉じ&lt;/e0&gt;た操作として、サーバにアップロードできます。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231820Z" creationid="Hiroshi Miura" creationdate="20230116T231710Z">
+        <seg>ローカルリポジトリとリモートリポジトリ(デフォルトの)間の単純なマッピングを使用するチームプロジェクトで、かつ、&lt;e0&gt;このプロジェクトに閉じて&lt;/e0&gt;いる場合は、原文ファイルと訳文ファイルをローカルで変更して、&lt;l3/&gt;メニューの&lt;l1/&gt;コマンドと&lt;l2/&gt;コマンドを使用して、サーバにアップロードできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47857,6 +47874,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Put the registered files on the hosting server</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231843Z" creationid="Hiroshi Miura" creationdate="20230116T231843Z">
+        <seg>登録したファイルをホストサーバに配置する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pāli</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T074350Z">
@@ -48344,6 +48369,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T183527Z">
         <seg>原文と同一訳文を登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Register the project files into the local VCS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231832Z" creationid="Hiroshi Miura" creationdate="20230116T231832Z">
+        <seg>プロジェクトファイルをローカルVCSに登録します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51985,6 +52019,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l2/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231828Z" creationid="Hiroshi Miura" creationdate="20230116T231828Z">
+        <seg>詳細は&lt;l2/&gt;の設定を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; project property for details.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T111026Z" creationid="Hiroshi Miura" creationdate="20230116T111026Z">
@@ -52903,6 +52945,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T024142Z" creationid="miurahr" creationdate="20201101T024142Z">
         <seg>自己学習型オンライントレーニングコース(英語)(有料)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send a URL and ask the translators to use &lt;l0/&gt;&lt;l1/&gt; to create a local copy of the project on their own system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231932Z" creationid="Hiroshi Miura" creationdate="20230116T231932Z">
+        <seg>URLを送信し、&lt;l0/&gt;&lt;l1/&gt;を使用してプロジェクトのローカルコピーを作成するように翻訳者に依頼します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62587,6 +62637,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T000701Z" creationid="Hiroshi Miura" creationdate="20230114T000701Z">
         <seg>チーム機能を使うと、業界レベルの堅牢性と柔軟性をもってチームメンバー間でプロジェクト資材を同期できるようになり、メンバー間で異なる訳文の競合を容易に解決できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The team project administrator must use the local VCS to &lt;e0&gt;modify&lt;/e0&gt; or &lt;e1&gt;delete&lt;/e1&gt; those files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231730Z" creationid="Hiroshi Miura" creationdate="20230116T231730Z">
+        <seg>チームプロジェクト管理者は、ローカルVCSを使用して、これらのファイルを&lt;e0&gt;変更&lt;/e0&gt;または&lt;e1&gt;削除&lt;/e1&gt;する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74447,6 +74506,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T003431Z" creationid="Hiroshi Miura" creationdate="20221022T003431Z">
         <seg>自由に変更して、文書の分節化を改善したり、一般的なルールを追加したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can now also work on the project with the team</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231941Z" creationid="Hiroshi Miura" creationdate="20230116T231941Z">
+        <seg>これで、チームと一緒にプロジェクトで作業することもできます。</seg>
       </tuv>
     </tu>
     <tu>
