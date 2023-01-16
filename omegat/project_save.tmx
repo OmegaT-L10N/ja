@@ -11955,6 +11955,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>After quickly tapping &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; to insert the match, she makes the necessary changes to match the revised text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T123406Z" creationid="Hiroshi Miura" creationdate="20230116T123406Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt;をすばやくタップして一致する訳語を挿入(Insert)した後、彼女は修正されたテキストにあわせて必要な変更を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>After quickly tapping &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k1&gt; to insert the match, she makes the necessary changes to match the revised text.</seg>
@@ -13856,6 +13864,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>As she savours her coffee, the translator reflects on how much more smoothly she was able to use the various OmegaT functions compared to when she had just gotten started and spent a lot of time clicking through menus.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124248Z" creationid="Hiroshi Miura" creationdate="20230116T124248Z">
+        <seg>彼女がコーヒーを味わいながら、翻訳者は、彼女が利用を始めたばかりでメニューをクリックするのに多くの時間を費やしたときと比較して、彼女がさまざまなOmegaTの機能をどれだけスムーズに使用できたかを振り返ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
@@ -13992,6 +14009,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130123T083015Z">
         <seg>同時に、それまでに記憶した翻訳内容をメモリから参照することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the same time, the translator realized that during her session, she used the &lt;l0/&gt;&lt;l1/&gt; menu and the cursor keys several times, and decides to &lt;l2&gt;add a new shortcut&lt;/l2&gt; to streamline that part of the process as well.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124354Z" creationid="Hiroshi Miura" creationdate="20230116T124354Z">
+        <seg>同時に、翻訳者は作業中に&lt;l0/&gt;&lt;l1/&gt;メニューとカーソルキーを使用して特定の機能を何度か選択していたことに気付き、&lt;l2&gt;新しいショートカットを追加する&lt;/l2&gt;ことにしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15451,6 +15476,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T082710Z">
         <seg>タググループを削除することで、関連する整形情報が訳文ファイルから削除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By the time she gets near the end of the section, she has also used &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt; once or twice to replace already automatically entered fuzzy matches from the previous translation with better matches from earlier in the current section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T123718Z" creationid="Hiroshi Miura" creationdate="20230116T123718Z">
+        <seg>項の終わりに近づくまでに、彼女は、&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt;を1回または2回使用して、以前の変換からすでに自動的に入力された参考訳文をもとに、現在の項を、以前のより良い訳文に置き換え(Replace)ました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33269,6 +33302,15 @@ Simply launch the installation program.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Instead of reaching for the mouse, she unlocks the cursor with &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, uses the cursor keys and standard system shortcuts to navigate to the term and select it, and then presses &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;call up the glossary entry dialog&lt;/l6&gt; to enter the source term, and then switches back to the editor and repeats the process to enter the target term.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T123307Z" creationid="Hiroshi Miura" creationdate="20230116T123307Z">
+        <seg>マウスに手を伸ばす代わりに、彼女は&lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;を押してカーソルキーの移動制限を解除して、カーソルキーを使用して登録したい原文用語に移動しました。そして、標準システムショートカットを使って用語を選択し、次に&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt;を押して&lt;l6&gt;用語集入力ダイアログ&lt;/l6&gt;を呼び出しました。ダイアログには、すでに原文の用語が入っており、訳語を入力してエディタに戻り、通常の翻訳作業に戻りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
       </tuv>
@@ -35558,6 +35600,15 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
         <seg>Later on, the translator comes up with a better way to phrase a somewhat thorny expression that came up earlier, so she selects it in the source text, presses &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; &lt;l3&gt;to find&lt;/l3&gt; it, and then uses &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt; to immediately to that segment from the search dialog.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T052509Z" creationid="Hiroshi Miura" creationdate="20221022T052509Z">
+        <seg>その後、翻訳者は、前に出てきたいささか厄介な原文の表現を、適切な訳文に表現するもっと良い方法を思いつき、彼女は&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;を押して原文のテキストで&lt;l3&gt;検索(Find)&lt;/l3&gt;して戻り先を見つけて、、次に&lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt;を使用して、検索ダイアログからその分節にすぐに移動(Jump)しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Later on, the translator comes up with a better way to phrase a somewhat thorny expression that had come up earlier, so she selects it in the source text, presses &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; &lt;l3&gt;to find&lt;/l3&gt; it, and then uses &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt; to immediately jump to that segment from the search dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T123803Z" creationid="Hiroshi Miura" creationdate="20230116T123803Z">
         <seg>その後、翻訳者は、前に出てきたいささか厄介な原文の表現を、適切な訳文に表現するもっと良い方法を思いつき、彼女は&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;を押して原文のテキストで&lt;l3&gt;検索(Find)&lt;/l3&gt;して戻り先を見つけて、、次に&lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt;を使用して、検索ダイアログからその分節にすぐに移動(Jump)しました。</seg>
       </tuv>
     </tu>
@@ -42273,6 +42324,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T160959Z">
         <seg>OmegaT は非常に普及している２つのバージョン管理システム（以下、VCS）に対応しています。&lt;u0&gt;Apache Subversion&lt;/u0&gt;（コマンド名が svn であることから、しばしば SVN の略称で呼ばれる）と、&lt;u1&gt;Git&lt;/u1&gt; です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT synchronises the Editor contents with the selected result, so she can edit the segments right away.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124226Z" creationid="Hiroshi Miura" creationdate="20230116T124226Z">
+        <seg>OmegaT は、検索ウィンドウの選択と編集ウィンドウの表示を連携させてくれるので、見つけた分節ですぐに作業を開始できました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52177,6 +52236,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>She now decides to review the annoted segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T123938Z" creationid="Hiroshi Miura" creationdate="20230116T123938Z">
+        <seg>次に、メモされた分節を確認することにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>She uses &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; to find them, and in the search window uses &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;N&lt;/k5&gt;&lt;/k3&gt; and &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;P&lt;/k8&gt;&lt;/k6&gt; to navigate the results.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124105Z" creationid="Hiroshi Miura" creationdate="20230116T124105Z">
+        <seg>彼女は、 &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; を押して、メモつきの分節を検索し、 検索ウィンドウで&lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;N&lt;/k5&gt;&lt;/k3&gt; と &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;P&lt;/k8&gt;&lt;/k6&gt; で、上下に検索結果を移動しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Shift</seg>
@@ -52709,6 +52784,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Since OmegaT has registered her navigation history, she only needs to use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt; to immediately continue from where she left off.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T123924Z" creationid="Hiroshi Miura" creationdate="20230116T123924Z">
+        <seg>OmegaTは操作履歴を登録しているので、  &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt;を使って、すぐに元の場所に戻って、作業を再開させられました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
@@ -53130,6 +53213,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T023134Z">
         <seg>移動されたプロジェクトフォルダーがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some segments will require modifications later on, so she uses &lt;k0&gt;&lt;k1&gt;A&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt; to enter the Notes pane, leave herself a note and comes back to the Editor pane with &lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;C&lt;/k6&gt;&lt;k7&gt;E&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T123651Z" creationid="Hiroshi Miura" creationdate="20230116T123651Z">
+        <seg>一部の分節ではあとで修正が必要になりました。そこで彼女は、 &lt;k0&gt;&lt;k1&gt;A&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;を使ってメモウィンドウに移動し、自分のために メモをかきました。そして、 &lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;C&lt;/k6&gt;&lt;k7&gt;E&lt;/k7&gt;&lt;/k4&gt;を使って編集ウィンドウにもどりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56142,12 +56233,11 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T055157Z" creationid="Hiroshi Miura" creationdate="20221022T055157Z">
-        <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124633Z" creationid="Hiroshi Miura" creationdate="20221022T055157Z">
+        <seg>&lt;c0&gt;ショートカット&lt;/c0&gt; は、ユーザーが打鍵するキーの組み合わせを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61331,6 +61421,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The translator has enabled the &lt;l0&gt;auto-completion&lt;/l0&gt; to automatically display not only history predictions, but also glossary terms, and pre-defined short strings, which can be entered with simple arrow navigation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T123331Z" creationid="Hiroshi Miura" creationdate="20230116T123331Z">
+        <seg>翻訳者は&lt;l0&gt;自動補完機能&lt;/l0&gt;を有効にして、履歴予測だけでなく、用語集の用語や定義済みの短い文字列も自動的に表示します。これらは簡単な矢印ナビゲーションで入力できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>The translator has enabled the auto-completer to automatically display history predictions, but also glossary terms, and pre-defined short strings, which can be entered with simple arrow navigation.</seg>
@@ -62801,6 +62899,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130128T150944Z">
         <seg>このコマンドは、訳文ファイルを生成した後に実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This continues, with the occasional sequence of &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt; (or other number) followed by &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt; when one of the matches from 2 to 5 is more suitable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T123447Z" creationid="Hiroshi Miura" creationdate="20230116T123447Z">
+        <seg>2～5の一致の1つがより適切な場合は、&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt;(または他の番号)で選択して、&lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt;で候補を挿入(Insert)できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76352,8 +76458,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>followed by 1 &lt;c0&gt;key&lt;/c0&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155804Z" creationid="Hiroshi Miura" creationdate="20221022T155804Z">
-        <seg>followed by 1 &lt;c0&gt;key&lt;/c0&gt;</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124541Z" creationid="Hiroshi Miura" creationdate="20221022T155804Z">
+        <seg>1 &lt;c0&gt;key&lt;/c0&gt;が続きます</seg>
       </tuv>
     </tu>
     <tu>
@@ -77316,6 +77422,38 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140432Z" creationid="suzume" creationdate="20201122T140432Z">
         <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124400Z" creationid="Hiroshi Miura" creationdate="20230116T124400Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124358Z" creationid="Hiroshi Miura" creationdate="20230116T124358Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124359Z" creationid="Hiroshi Miura" creationdate="20230116T124359Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124356Z" creationid="Hiroshi Miura" creationdate="20230116T124356Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -82620,6 +82758,14 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140120T183945Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124509Z" creationid="Hiroshi Miura" creationdate="20230116T124509Z">
+        <seg>ここで &lt;c0&gt;修飾子&lt;/c0&gt; は次のいずれかです: &lt;l1&gt;shift&lt;/l1&gt;、 &lt;l2&gt;ctrl&lt;/l2&gt;、 &lt;l3&gt;meta&lt;/l3&gt;、 &lt;l4&gt;alt&lt;/l4&gt;、&lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
