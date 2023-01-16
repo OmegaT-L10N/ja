@@ -11598,6 +11598,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add a segmentation rule to segment further them, or an exception rule to merge them with the part they were split from.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T111209Z" creationid="Hiroshi Miura" creationdate="20230116T111209Z">
+        <seg>分節に分節化規則を追加してさらに分割するか、例外規則を追加して分割された部分を結合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130916T174510Z">
@@ -11634,6 +11642,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T232722Z" creationid="miurahr" creationdate="20201106T232722Z">
         <seg>ワイルドカード(Apache Antスタイル):*,?,**を使用してパターンを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add reminders in the &lt;l0/&gt; pane for problematic segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115724Z" creationid="Hiroshi Miura" creationdate="20230116T115724Z">
+        <seg>問題のある分節に対して&lt;l0/&gt;ウィンドウに備忘録を追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12076,6 +12092,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T030715Z">
         <seg>ひとつの分節を翻訳し終えたら、&lt;k0&gt;Ctrl+U&lt;/k0&gt; キーを押して、次の未翻訳分節へと移動します（&lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; キーを押すと、次の翻訳済み分節へ移動します）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you have typed the translation of a segment, use &lt;l0/&gt;&lt;l1/&gt; to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115451Z" creationid="Hiroshi Miura" creationdate="20230116T115451Z">
+        <seg>分節の翻訳を入力した後、&lt;l0/&gt;&lt;l1/&gt;を使用して次の未翻訳分節に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22424,6 +22448,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either a segment is translated, or it is not.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115651Z" creationid="Hiroshi Miura" creationdate="20230116T115651Z">
+        <seg>分節が翻訳されたか、されてないかのどちらかです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either can be used as the source or target.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T143812Z">
@@ -24878,6 +24910,14 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Find the location of that space.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T114943Z" creationid="Hiroshi Miura" creationdate="20230116T114943Z">
+        <seg>その空白文字の場所を見つけて</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -27130,6 +27170,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Go back to OmegaT and use &lt;l0/&gt;&lt;l1/&gt; to have OmegaT recognize the change.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115114Z" creationid="Hiroshi Miura" creationdate="20230116T115114Z">
+        <seg>OmegaT にもどり、 &lt;l0/&gt;&lt;l1/&gt;を使用して、変更を認識させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Go back to step 5.</seg>
@@ -27281,6 +27329,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160118T044909Z" creationid="Kasuya" creationdate="20160118T044909Z">
         <seg>https://term.tilde.com/account/keys/create?system=omegaT にアクセスし、専用の API キーを作成してください。それを Java の起動オプション -Dtaas.user.key=xxxxx に指定して OmegaT を起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to the source file with &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T114931Z" creationid="Hiroshi Miura" creationdate="20230116T114931Z">
+        <seg> &lt;l0/&gt;&lt;l1/&gt;で、原文ファイルにアクセスします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30659,6 +30715,15 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T160534Z">
         <seg>プロジェクトの分節化規則を変更したり原文ファイルを削除したりすると、一部の候補が&lt;e1&gt;現在の原文に存在しない文字列&lt;/e1&gt;として参考訳文ウィンドウに表示されることがあります。このような参考訳文は、すでに存在しないが、修正前にその翻訳が記録された分節を参照しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you need a specific review process you can, for example:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115700Z" creationid="Hiroshi Miura" creationdate="20230116T115700Z">
+        <seg>特定のレビュープロセスが必要な場合は、次のようなことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36791,6 +36856,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make it look good!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115125Z" creationid="Hiroshi Miura" creationdate="20230116T115125Z">
+        <seg>どうでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T090841Z">
@@ -41243,6 +41316,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not assign different statuses to translated segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115622Z" creationid="Hiroshi Miura" creationdate="20230116T115622Z">
+        <seg>OmegaTでは、翻訳済みの分節に異なるステータスは割り当てられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions for this folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T144309Z" creationid="miurahr" creationdate="20221103T144309Z">
@@ -42713,6 +42794,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T043246Z">
         <seg>ユーザーが、OmegaT に対する変更や機能強化の提案を明確にまとめたら、その提案を開発チームに検討してもらうための規定の手続きがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once all that is done, the source files appear in OmegaT in a layout that looks like this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115203Z" creationid="Hiroshi Miura" creationdate="20230116T115203Z">
+        <seg>変更作業がうまくいけば、原文ファイルは次のようなレイアウトでOmegaTに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44422,6 +44511,15 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T043726Z" creationid="suzume" creationdate="20200119T043726Z">
         <seg>段落区切り形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Paragraph delimitations are defined in the &lt;l2/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115343Z" creationid="Hiroshi Miura" creationdate="20230116T115343Z">
+        <seg>段落の区切りは&lt;l2/&gt;設定で定義されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48067,6 +48165,14 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Replace it with a non-breakable space.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115032Z" creationid="Hiroshi Miura" creationdate="20230116T115032Z">
+        <seg>分割できない空白文字(Non-Breakable Space)に交換してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Replace matches when inserting source text</seg>
@@ -49418,6 +49524,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Save the file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115041Z" creationid="Hiroshi Miura" creationdate="20230116T115041Z">
+        <seg>ファイルを保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
@@ -50531,6 +50646,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001725Z" creationid="Hiroshi Miura" creationdate="20221220T001725Z">
         <seg>詳細については、 &lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; menu for more navigation options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115555Z" creationid="Hiroshi Miura" creationdate="20230116T115503Z">
+        <seg>その他の移動操作については、 &lt;l0/&gt; メニューを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55991,6 +56114,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane is where you type your translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115412Z" creationid="Hiroshi Miura" creationdate="20230116T115412Z">
+        <seg>&lt;l0/&gt;ウィンドウで、翻訳を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071959Z" creationid="Hiroshi Miura" creationdate="20230116T071959Z">
@@ -60506,6 +60637,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The standard space character is often used as a segment boundary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T114829Z" creationid="Hiroshi Miura" creationdate="20230116T114819Z">
+        <seg>標準の空白文字は、分節の境界として欧文などで、よく使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The statistics shown is available as a tab-separated &lt;f1&gt;project_stats.txt&lt;/f1&gt; file (subfolder &lt;f2&gt;omegat&lt;/f2&gt;), ready to be loaded into a spreadsheet program for the user's convenience.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T060748Z">
@@ -64509,6 +64648,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>To display paragraph delimitations and see which paragraph each segment is part of, use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115334Z" creationid="Hiroshi Miura" creationdate="20230116T115313Z">
+        <seg>段落の区切りを内容表示し、各分節がどの段落の一部であるかを確認するには、&lt;l0/&gt;&lt;l1/&gt;を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
       </tuv>
@@ -65026,6 +65174,15 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T223813Z" creationid="Hiroshi Miura" creationdate="20220825T223813Z">
         <seg>プロジェクトに含まれる原文ファイルの一覧を確認したければ、&lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt; キーを押して&lt;g3&gt;翻訳対象ファイル一覧&lt;/g3&gt;ダイアログを開いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>To see how efficient you can be with shortcuts, see the &lt;l0/&gt; section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115423Z" creationid="Hiroshi Miura" creationdate="20230116T115423Z">
+        <seg>ショートカットを効率的に使用する方法については、&lt;l0/&gt;項を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65676,6 +65833,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221210T001534Z" creationid="miurahr" creationdate="20221210T001534Z">
         <seg>この複数形は #{0} の形式で訳してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate your files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115354Z" creationid="Hiroshi Miura" creationdate="20230116T115354Z">
+        <seg>ファイルを翻訳しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67576,6 +67741,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120026Z" creationid="Hiroshi Miura" creationdate="20230116T120026Z">
+        <seg>用語集の検索方法は、&lt;l0/&gt;&lt;l1/&gt;および&lt;l2/&gt;の環境設定を使用して管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T110245Z" creationid="Hiroshi Miura" creationdate="20230116T110245Z">
@@ -67600,10 +67773,43 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add terms to your glossary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115950Z" creationid="Hiroshi Miura" creationdate="20230116T115950Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用すると、用語集に用語を追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to come back to this dialog after you have created the project,.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T090841Z" creationid="Hiroshi Miura" creationdate="20230116T090841Z">
         <seg> プロジェクトを作成したあとも、&lt;l0/&gt;&lt;l1/&gt;を使用すれば、いつでもこのダイアログに戻ってくることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter the Notes pane and add your remark,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115805Z" creationid="Hiroshi Miura" creationdate="20230116T115805Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用するとNotesウィンドウに移動でき、そこでコメントを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to filter segments based on criteria that you set, and review only those.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115933Z" creationid="Hiroshi Miura" creationdate="20230116T115933Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用して、自分で設定した基準で分節をフィルター検索し、問題のある分節のみを確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to return to the Editor pane and resume your translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115815Z" creationid="Hiroshi Miura" creationdate="20230116T115815Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用して編集ウィンドウに戻り、翻訳を再開します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67982,6 +68188,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; menu to manage translation memory matches and perform other various useful functions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120155Z" creationid="Hiroshi Miura" creationdate="20230116T120155Z">
+        <seg>&lt;l0/&gt;メニューには、翻訳メモリの検索方法を管理できるほか、さまざまな便利な機能が設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T154854Z" creationid="miurahr" creationdate="20221222T154854Z">
@@ -68035,6 +68249,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T165353Z">
         <seg>上側の原文を参照しながら、下側の翻訳入力行の内容を修正または上書きし翻訳を進めてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various options in the &lt;l0/&gt; menu and move the various &lt;l1&gt;panes&lt;/l1&gt; around to obtain the layout that fits your workflow best:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115306Z" creationid="Hiroshi Miura" creationdate="20230116T115253Z">
+        <seg>&lt;l0/&gt;メニューのさまざまなオプションを使用して、さまざまな&lt;l1&gt;ウィンドウ&lt;/l1&gt;を移動し、自身の作業手順に最適なレイアウトになるようにカスタマイズします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69882,6 +70104,23 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you enter a segment containing terms that match entries in your glossaries, those terms and their translations will be displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120049Z" creationid="Hiroshi Miura" creationdate="20230116T120049Z">
+        <seg>用語集の項目と一致する用語を含む分節に到達すると、その用語とその翻訳が&lt;l0/&gt;ウィンドウに表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>When you enter a segment that matches part of the content of the project translation memories, OmegaT displays the matches in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120106Z" creationid="Hiroshi Miura" creationdate="20230116T120106Z">
+        <seg>プロジェクトの翻訳メモリの内容の一部と一致する分節を入力すると、OmegaTは&lt;l0/&gt;ウィンドウに一致するものを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you exit the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T032433Z">
@@ -69894,6 +70133,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054516Z" creationid="miurahr" creationdate="20201115T054516Z">
         <seg>翻訳が終わったら、Wikipediaにインポートするには:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you leave the segment, its translation is automatically stored into the &lt;l0/&gt; file and will be used as reference for the rest of your translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115516Z" creationid="Hiroshi Miura" creationdate="20230116T115501Z">
+        <seg>分節を出ると、その翻訳は自動的に&lt;l0/&gt;ファイルに保存され、残りの翻訳の参照用として使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71707,6 +71954,15 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
         <seg>ライセンスのテキストは、
 /docs/OmegaT-license.txt
 を参照してください。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can follow the steps below to merge two text sections separated by a space character:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T114847Z" creationid="Hiroshi Miura" creationdate="20230116T114822Z">
+        <seg>空白文字で区切られた2つの文章セクションを結合するには、次の手順に従います。</seg>
       </tuv>
     </tu>
     <tu>
