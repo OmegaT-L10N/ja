@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f5b54a845" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_9b906f039" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24835,6 +24835,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First steps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T061736Z" creationid="Hiroshi Miura" creationdate="20230116T061736Z">
+        <seg>最初の一歩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130310T160033Z">
@@ -27933,6 +27941,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170201T143009Z" creationid="amake" creationdate="20170201T143009Z">
         <seg>履歴予測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T061828Z" creationid="Hiroshi Miura" creationdate="20230116T061828Z">
+        <seg>取扱説明書を開くには、 &lt;k0&gt;F1&lt;/k0&gt; キーを押すか、 &lt;g1&gt;&gt; ヘルプ&lt;/g1&gt;メニューにアクセスします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33336,6 +33352,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T163313Z">
         <seg>タグ検証機能は、独自タグについても、OmegaT のタグと同じように、個数と順番が変わっていないか確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It comes with a thorough introduction to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T061957Z" creationid="Hiroshi Miura" creationdate="20230116T061957Z">
+        <seg>取扱説明書には、OmegaTの徹底入門が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64621,6 +64645,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start using OmegaT with minimal settings, do this:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T062108Z" creationid="Hiroshi Miura" creationdate="20230116T062032Z">
+        <seg>最低限の構成でOmegaTを使いはじめるには、次のようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130113T073310Z">
@@ -66966,6 +66998,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T103842Z" creationid="Yu-Tang" creationdate="20141201T103842Z">
         <seg>&lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt;（Mac では Cmd+PgUp/PgDn）を押すことで、&lt;e2&gt;用語集&lt;/e2&gt;、&lt;e3&gt;定型文&lt;/e3&gt;、&lt;e4&gt;未使用のタグ&lt;/e4&gt;、&lt;e5&gt;文字一覧&lt;/e5&gt;を連続的に切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; New...&lt;/g1&gt; to create a new project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T062147Z" creationid="Hiroshi Miura" creationdate="20230116T062038Z">
+        <seg>新規プロジェクトを、メニューの &lt;g0&gt;&gt;プロジェクト&lt;/g0&gt; &lt;g1&gt;&gt; 新規作成...&lt;/g1&gt; から作成します。</seg>
       </tuv>
     </tu>
     <tu>
