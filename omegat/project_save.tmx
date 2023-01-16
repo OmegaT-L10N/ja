@@ -12799,6 +12799,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Also remember not to modify the project configuration or add TMX files in the meantime, as doing so may affect the results.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223335Z" creationid="Hiroshi Miura" creationdate="20230116T223335Z">
+        <seg>また、プロジェクトの設定を変更したり、TMXファイルを追加したりしないでください。結果に影響する可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
@@ -17508,6 +17517,15 @@ documentation.</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>Close the project to prevent any changes to the current status of the backup files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223234Z" creationid="Hiroshi Miura" creationdate="20230116T223234Z">
+        <seg>プロジェクトを閉じて、バックアップファイルの現在のステータスが変更されないようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>Close the project, preventing any modification to the current status of the backup files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221109T222820Z" creationid="Hiroshi Miura" creationdate="20221109T222820Z">
@@ -18143,6 +18161,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Consider safely storing all the different files you are renaming for eventual reuse.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223320Z" creationid="Hiroshi Miura" creationdate="20230116T223320Z">
+        <seg>最終的な再利用のために、名前を変更するすべての異なるファイルを安全に保存することに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
       </tuv>
@@ -18645,6 +18672,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220825T224153Z" creationid="Hiroshi Miura" creationdate="20220825T224153Z">
         <seg>ページのURL(&lt;g0&gt;action=edit&lt;/g0&gt;で終わる)をコピーし、OmegaTに貼り付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Copy the contents of the various user folders to the equivalent location in the new project (source files, reference translation memory files, glossary files).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T224049Z" creationid="Hiroshi Miura" creationdate="20230116T224049Z">
+        <seg>さまざまなユーザーフォルダの内容を、新しいプロジェクト内の対応するフォルダ(ソースファイル、参照翻訳メモリファイル、用語集ファイル)にコピーします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23774,11 +23810,28 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Every time the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file is modified:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T222658Z" creationid="Hiroshi Miura" creationdate="20230116T222658Z">
+        <seg>&lt;f0&gt;project_save.tmx&lt;/f0&gt;が変更されるたびに、次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Every time you create the translated files (see &lt;l0/&gt;, above), OmegaT creates three translation memories that contain the state of the translation of the files currently in the &lt;l1/&gt; folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T122905Z" creationid="Hiroshi Miura" creationdate="20230116T122819Z">
         <seg>訳文ファイル(上記の&lt;l0/&gt;を参照)を作成するたびに、OmegaTは、デフォルトでは、現在&lt;l1/&gt;フォルダーにあるファイルの翻訳状態を含む3つの翻訳メモリを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you save the project data (use &lt;l0/&gt;&lt;l1/&gt;), or when making a regular backup, OmegaT saves the current state of the translation into &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223007Z" creationid="Hiroshi Miura" creationdate="20230116T223007Z">
+        <seg>プロジェクトデータを保存するたびに(&lt;l0/&gt;&lt;l1/&gt;を使用)、または通常のバックアップを作成するときに、OmegaTは翻訳の現在の状態を&lt;f2&gt;project_save.tmx&lt;/f2&gt;に保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24169,6 +24222,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141854Z" creationid="miurahr" creationdate="20201101T141854Z">
         <seg>スクリプト{0}(イベント{1})を実行しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exercise caution with changes made to files in the source folder, the segmentation rules, or the file filters, partway through a project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223410Z" creationid="Hiroshi Miura" creationdate="20230116T223410Z">
+        <seg>プロジェクトの途中で、原文フォルダーのファイル、文節化規則、またはフィルターを変更する場合は、特に注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25320,6 +25381,15 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130409T134535Z">
         <seg>すべて修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Fix all tag issues found in your documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T224536Z" creationid="Hiroshi Miura" creationdate="20230116T224536Z">
+        <seg>文書内で見つかったタグの問題をすべて修正します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32654,10 +32724,27 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the old project, select the translation memory file (main or backup) most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T224114Z" creationid="Hiroshi Miura" creationdate="20230116T224114Z">
+        <seg>古いプロジェクトで、探しているデータが含まれている可能性が最も高い翻訳メモリ(メインまたはバックアップ)を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T164756Z">
         <seg>このオプションを指定すると、画面出力が極力抑えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>In the rare case where your computer freezes and OmegaT does not have time to close properly, some important files can be corrupted and keep your project from reopening after you reboot your system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T224026Z" creationid="Hiroshi Miura" creationdate="20230116T224026Z">
+        <seg>コンピュータがフリーズし、OmegaTが適切に閉じる時間がないというまれなケースでは、いくつかの重要なファイルが壊れて、マシンを再起動した後にプロジェクトが再び開かないことがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38952,6 +39039,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifying any of those after you have started your translation could result in some segments disapparing or new segments appearing unexpectedly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223455Z" creationid="Hiroshi Miura" creationdate="20230116T223455Z">
+        <seg>翻訳を開始した後にいずれかを変更すると、一部の分節が表示されなくなったり、予期しない新しい分節が表示されることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying either after you have started your translation could result in OmegaT becoming unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T122437Z" creationid="miurahr" creationdate="20221023T122437Z">
@@ -41876,6 +41971,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT creates a backup file named &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T222832Z" creationid="Hiroshi Miura" creationdate="20230116T222832Z">
+        <seg>OmegaTは、&lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;という名前のバックアップを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>OmegaT creates a backup with the name &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
@@ -42454,6 +42558,15 @@ be launched.</seg>
         <seg>OmegaT keeps up to 10 of those files.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121700Z" creationid="miurahr" creationdate="20221023T121700Z">
+        <seg>OmegaTはこれらのファイルを10個まで保持しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT keeps up to ten of those files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T222641Z" creationid="Hiroshi Miura" creationdate="20230116T222641Z">
         <seg>OmegaTはこれらのファイルを10個まで保持しています。</seg>
       </tuv>
     </tu>
@@ -48613,6 +48726,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt; if necessary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T224123Z" creationid="Hiroshi Miura" creationdate="20230116T224123Z">
+        <seg>名前を&lt;f0&gt;project_save.tmx&lt;/f0&gt;に変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
@@ -48636,6 +48758,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T140142Z">
         <seg>現在の &lt;f0&gt;project_save.tmx&lt;/f0&gt; ファイルの名前を一時的に変更する（たとえば &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file (to &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, for example).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223244Z" creationid="Hiroshi Miura" creationdate="20230116T223244Z">
+        <seg>現在の&lt;f0&gt;project_save.tmx&lt;/f0&gt;ファイルの名前を変更します(たとえば、&lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56608,6 +56739,15 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>That file is a copy of &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;before&lt;/e1&gt; it was modified.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T222854Z" creationid="Hiroshi Miura" creationdate="20230116T222854Z">
+        <seg>このファイルは、&lt;e1&gt;変更前&lt;/e1&gt;の&lt;f0&gt;project_save.tmx&lt;/f0&gt;のコピーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>That file is a copy of &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;before&lt;/e1&gt; the modification.</seg>
       </tuv>
@@ -56926,6 +57066,15 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024627Z" creationid="Hiroshi Miura" creationdate="20221023T024627Z">
         <seg>&lt;f0&gt;plugins&lt;/f0&gt;および&lt;f1&gt;scripts&lt;/f1&gt;フォルダは上書きされる可能性があるため、アップグレードする前にバックアップを作成することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;project_save.tmx&lt;/f0&gt; file always contains the most recent data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223015Z" creationid="Hiroshi Miura" creationdate="20230116T223015Z">
+        <seg>ファイル&lt;f0&gt;project_save.tmx&lt;/f0&gt;には、常に最新のデータが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63379,6 +63528,23 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>This action will restore your translation to its state at the point the selected backup was created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223259Z" creationid="Hiroshi Miura" creationdate="20230116T223259Z">
+        <seg>この操作を行うと、選択したバックアップが作成された時点の変換ステータスが復元されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action will set the new project the state of your translation at the point the selected project translation memory was created in the old project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T224415Z" creationid="Hiroshi Miura" creationdate="20230116T224415Z">
+        <seg>これで新しいプロジェクトは、古いプロジェクトが選択したプロジェクト翻訳メモリを作成した時点での、翻訳状態になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Yu-Tang）"the target version for the complete project" の意味がよく分からず。</note>
       <tuv lang="en">
         <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
@@ -69121,6 +69287,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and focus on &lt;g2&gt;Tag issues&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T224436Z" creationid="Hiroshi Miura" creationdate="20230116T224436Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用し、&lt;g2&gt;タグの問題&lt;/g2&gt;に焦点を当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access all the project ressource locations.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152109Z" creationid="Hiroshi Miura" creationdate="20230116T152109Z">
@@ -71647,6 +71821,15 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>When you open a project, OmegaT backs up the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file to a timestamped backup file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T222631Z" creationid="Hiroshi Miura" creationdate="20230116T222631Z">
+        <seg>プロジェクトを開くと、OmegaTは&lt;f0&gt;project_save.tmx&lt;/f0&gt;をタイムスタンプ付きのバックアップファイルにバックアップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>When you open a project, OmegaT backs-up &lt;f0&gt;project_save.tmx&lt;/f0&gt; into a timestamped backup file.</seg>
@@ -73806,6 +73989,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can set the frequency of the regular backups in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223215Z" creationid="Hiroshi Miura" creationdate="20230116T223215Z">
+        <seg>通常のバックアップ保存の頻度は、&lt;l0/&gt;設定で制御できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T001704Z" creationid="Hiroshi Miura" creationdate="20221220T001704Z">
@@ -74172,6 +74363,15 @@ window to be able to launch it from any location.</seg>
         <seg>You may repeat this operation as needed for locating older situations.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121825Z" creationid="miurahr" creationdate="20221023T121825Z">
+        <seg>古い状況を特定するために、必要に応じてこの操作を繰り返します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You may repeat this operation as needed to find older states.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223309Z" creationid="Hiroshi Miura" creationdate="20230116T223309Z">
         <seg>古い状況を特定するために、必要に応じてこの操作を繰り返します。</seg>
       </tuv>
     </tu>
@@ -77221,6 +77421,15 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T210050Z">
         <seg>ee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>either after saving the project data (use &lt;l0/&gt;&lt;l1/&gt;),</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T222721Z" creationid="Hiroshi Miura" creationdate="20230116T222721Z">
+        <seg>プロジェクトデータを保存した後(&lt;l0/&gt;&lt;l1/&gt;を使用)</seg>
       </tuv>
     </tu>
     <tu>
@@ -81686,6 +81895,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233947Z" creationid="miurahr" creationdate="20201106T233947Z">
         <seg>または、コマンドラインで&lt;c0&gt;--no-team&lt;/c0&gt;オプションを使用してプロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>or when making a regular backup (every 3 minutes by default),</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T222819Z" creationid="Hiroshi Miura" creationdate="20230116T222819Z">
+        <seg>または通常のバックアップ(デフォルトではでは3分ごと)を作成する場合</seg>
       </tuv>
     </tu>
     <tu>
