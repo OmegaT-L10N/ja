@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_9b906f039" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_71426466e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5743,6 +5743,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T142709Z">
         <seg>&lt;e0&gt;重要：&lt;/e0&gt;補助用の TMX ファイルは必ず「XX_YY.tmx」形式にリネームしなければなりません。「XX_YY」はプロジェクトの訳文言語と同じコードです。たとえば上の例では、「ZH_CN.tmx」となっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072419Z" creationid="Hiroshi Miura" creationdate="20230116T072409Z">
+        <seg>&lt;e0&gt;この取扱説明書では:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12858,6 +12866,14 @@ OmegaT.exe.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>An OmegaT project is simply a set of folders and folders that holds all your default resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072752Z" creationid="Hiroshi Miura" creationdate="20230116T072752Z">
+        <seg>OmegaTプロジェクトは、一連のフォルダーからなり、すべてのデフォルトのプロジェクト資材がそこに格納されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>An OmegaT team projects synchronizes the project translation memory &lt;l0/&gt; and the project writable glossary &lt;l1/&gt; between the hosting server and all the participating team members, and manages all possible conflicts between them.</seg>
@@ -15076,6 +15092,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Buttons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071925Z" creationid="Hiroshi Miura" creationdate="20230116T071925Z">
+        <seg>ボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Buttons are very few in OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002147Z" creationid="Hiroshi Miura" creationdate="20230114T002147Z">
@@ -15908,6 +15932,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T150433Z">
         <seg>このフラグを変更しても、翻訳メモリにすでに記録された分節は変更されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapters, how-to and appendices</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072131Z" creationid="Hiroshi Miura" creationdate="20230116T072131Z">
+        <seg>各章とハウツー項目、 付録</seg>
       </tuv>
     </tu>
     <tu>
@@ -16993,6 +17025,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T030535Z">
         <seg>次に&lt;g1&gt;［ファイルフィルター...］&lt;/g1&gt;ボタンをクリックして、&lt;g2&gt;［ファイルフィルター設定をプロジェクト専用にする］&lt;/g2&gt;チェックボックスにチェックを入れます&lt;i3/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071933Z" creationid="Hiroshi Miura" creationdate="20230116T071933Z">
+        <seg>&lt;l0/&gt;をクリックする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18750,6 +18790,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T145721Z" creationid="miurahr" creationdate="20201101T144459Z">
         <seg>リポジトリーのローカル・コピーを作成します (SVNは&lt;c0&gt;チェックアウト&lt;/c0&gt; 、 Gitでは &lt;c1&gt;clone&lt;/c1&gt; を使用 ) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Create a new project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072433Z" creationid="Hiroshi Miura" creationdate="20230116T072410Z">
+        <seg>プロジェクトの新規作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -24592,6 +24641,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224307Z" creationid="Hiroshi Miura" creationdate="20221124T224307Z">
         <seg>使用可能な変数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files and folders</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072017Z" creationid="Hiroshi Miura" creationdate="20230116T072017Z">
+        <seg>ファイルとフォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -30507,6 +30564,14 @@ OmegaT is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have not yet installed OmegaT, see the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072504Z" creationid="Hiroshi Miura" creationdate="20230116T072504Z">
+        <seg>まだOmegaTをインストールしていない場合は、 &lt;l0/&gt;のハウツーの項目を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have set local rules in the &lt;l0/&gt; dialog, modifications here will not be taken into account.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002801Z" creationid="Hiroshi Miura" creationdate="20230114T002801Z">
@@ -31865,6 +31930,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141112T192243Z" creationid="Yu-Tang" creationdate="20141112T192243Z">
         <seg>ダイアログ上で、すべての分野から用語を取得するか、特定の一分野からだけ取得するかを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that dialog, select the languages of your source and translated files, set the various options, and click on &lt;g0&gt;OK&lt;/g0&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T081847Z" creationid="Hiroshi Miura" creationdate="20230116T081847Z">
+        <seg>そのダイアログで原文ファイルと訳文ファイルの言語を選択し、オプション設定を調整して&lt;g0&gt;確定&lt;/g0&gt;をクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34641,6 +34714,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key modifiers are identified by a single letter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072406Z" creationid="Hiroshi Miura" creationdate="20230116T072406Z">
+        <seg>修飾キーは一文字の英字で表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key shortcut description reminder:</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T002558Z" creationid="Hiroshi Miura" creationdate="20230114T002558Z">
@@ -35733,6 +35814,14 @@ Launch OmegaT as follows.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130515T093400Z">
         <seg>以下のリンクから、さまざまなバージョンの OmegaT を入手できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Links to external resources</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072206Z" creationid="Hiroshi Miura" creationdate="20230116T072206Z">
+        <seg>外部リソースへのWebリンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -37707,6 +37796,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
         <seg>Menu item</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T120912Z" creationid="Hiroshi Miura" creationdate="20221021T120912Z">
+        <seg>メニュー項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu items</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071912Z" creationid="Hiroshi Miura" creationdate="20230116T071912Z">
         <seg>メニュー項目</seg>
       </tuv>
     </tu>
@@ -44249,6 +44346,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Panes, windows, dialogs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071950Z" creationid="Hiroshi Miura" creationdate="20230116T071950Z">
+        <seg>ウィンドウやダイアログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Panjabi, Punjabi</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T074336Z">
@@ -45341,6 +45446,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141904Z" creationid="miurahr" creationdate="20201101T141904Z">
         <seg>定義済みの資格情報が渡されませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preference settings and project properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072039Z" creationid="Hiroshi Miura" creationdate="20230116T072039Z">
+        <seg>環境設定とプロジェクト設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -51774,6 +51887,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcuts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072235Z" creationid="Hiroshi Miura" creationdate="20230116T072235Z">
+        <seg>ショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T171605Z">
@@ -52043,8 +52164,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Similarly, links to the various parts of the manual are displayed in a way that make it easier to identify the function of the linked item.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071232Z" creationid="Hiroshi Miura" creationdate="20230116T071232Z">
-        <seg>Similarly, links to the various parts of the manual are displayed in a way that make it easier to identify the function of the linked item.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071904Z" creationid="Hiroshi Miura" creationdate="20230116T071232Z">
+        <seg>同様に、マニュアルの各所へのリンクが示されるので、その項目の機能を簡単に識別できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55764,12 +55885,44 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; chapter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072148Z" creationid="Hiroshi Miura" creationdate="20230116T072148Z">
+        <seg>第 &lt;l0/&gt; 章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens after you have named your project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072827Z" creationid="Hiroshi Miura" creationdate="20230116T072800Z">
+        <seg>プロジェクトに名前をつけたら、 &lt;l0/&gt;ダイアログが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120701Z" creationid="miurahr" creationdate="20221023T120701Z">
         <seg>&lt;l1/&gt;メニューの&lt;l0/&gt;項目は例外です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071959Z" creationid="Hiroshi Miura" creationdate="20230116T071959Z">
+        <seg>&lt;l0/&gt; ウィンドウ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072050Z" creationid="Hiroshi Miura" creationdate="20230116T072050Z">
+        <seg>&lt;l0/&gt; プロジェクト設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55780,6 +55933,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T002705Z" creationid="Hiroshi Miura" creationdate="20221022T002705Z">
         <seg>この付録の最後にある&lt;l0/&gt;のセクションでは、このガイドの範囲を超えた高度な使用方法や複雑な使用方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt; &lt;f1&gt;omegat.project&lt;/f1&gt; &lt;/l0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072025Z" creationid="Hiroshi Miura" creationdate="20230116T072025Z">
+        <seg>&lt;l0&gt; &lt;f1&gt;omegat.project&lt;/f1&gt; &lt;/l0&gt; ファイル。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55834,6 +55995,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T142056Z">
         <seg>&lt;m0&gt;&lt;s1&gt;&lt;k2&gt;&lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt;&lt;/k2&gt;&lt;/s1&gt; &lt;g5&gt;プロジェクト&lt;/g5&gt; &lt;g6&gt;プロジェクト設定...&lt;/g6&gt;&lt;/m0&gt; ダイアログは、プロジェクトの言語や使用フォルダーを変更する場合に使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072231Z" creationid="Hiroshi Miura" creationdate="20230116T072231Z">
+        <seg> &lt;u0&gt;Java 正規表現の解説文書&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -63937,6 +64106,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To avoid duplicating shortcut descriptions, we use single letters as a common identifier for modifiers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072344Z" creationid="Hiroshi Miura" creationdate="20230116T072344Z">
+        <seg>ショートカット表記が煩雑になるのを避けるため、同時におす修飾キー を共通の一文字で表記します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>To avoid losing important data, make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to a backup media, such as a USB key or an external hard drive, or to a cloud service.</seg>
@@ -64531,6 +64708,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To learn how to launch OmegaT, see the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072542Z" creationid="Hiroshi Miura" creationdate="20230116T072542Z">
+        <seg> OmegaTの 取扱いを学ぶには、 &lt;l0/&gt; のハウツーの項目を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141112T192041Z" creationid="Yu-Tang" creationdate="20141112T191928Z">
@@ -64809,6 +64994,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130113T073310Z">
         <seg>まずプロジェクトを作成しましょう。プロジェクトには、原文ファイルをはじめ、翻訳メモリや用語集、そしていずれ生成するはずの訳文ファイルなど、すべてのファイルが保持されることになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start using OmegaT, you first have to create a project to hold all your files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072619Z" creationid="Hiroshi Miura" creationdate="20230116T072619Z">
+        <seg>OmegaTを使いはじめるときは、まずプロジェクトを新規作成する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67323,6 +67516,22 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T123850Z" creationid="miurahr" creationdate="20221222T123850Z">
         <seg>&lt;l0/&gt;&lt;l1/&gt;を使用して、このファイルを閲覧できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;, and select an empty folder or create a new one with the name of your project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072657Z" creationid="Hiroshi Miura" creationdate="20230116T072657Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を利用して、空のフォルダーか、 プロジェクト名のあたらしいフォルダーを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071921Z" creationid="Hiroshi Miura" creationdate="20230116T071921Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用する。</seg>
       </tuv>
     </tu>
     <tu>
