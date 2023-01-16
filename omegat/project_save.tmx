@@ -12554,6 +12554,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>All the parameters located in a &lt;l0&gt;project folder&lt;/l0&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154433Z" creationid="Hiroshi Miura" creationdate="20230116T154433Z">
+        <seg>&lt;l0&gt;プロジェクトフォルダー&lt;/l0&gt;にあるすべてのパラメーターは、そのプロジェクトを開くOmegaTのバージョンに関係なく、そのプロジェクトに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>All the parameters located in a &lt;l3/&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
@@ -12569,6 +12577,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T025954Z" creationid="Hiroshi Miura" creationdate="20221023T025954Z">
         <seg>コマンドラインの&lt;l2/&gt;から&lt;l1&gt;--config-dir=&lt;path&gt;&lt;/l1&gt;オプションを使用して別の構成フォルダを指定しない限り、&lt;l0/&gt;にあるすべてのパラメータは共有されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>All the parameters located in the OmegaT configuration folder will be shared unless you specify a different configuration folder with the &lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt; option on the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154349Z" creationid="Hiroshi Miura" creationdate="20230116T154349Z">
+        <seg>コマンドラインで&lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt;OmegaTを使用して別の構成フォルダーを指定しない限り、フォルダー構成設定にあるすべてのパラメータが共有されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20466,6 +20483,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
         <seg>Detailed instructions on building OmegaT are in the docs_devel &lt;u0&gt;README.txt&lt;/u0&gt; file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T031509Z" creationid="Hiroshi Miura" creationdate="20221023T031036Z">
+        <seg>OmegaTのビルドに関する詳細な手順については、`docs_devel`フォルダの中の&lt;u0&gt;README.txt&lt;/u0&gt;ファイルを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Detailed instructions on building OmegaT can be found in the &lt;u0&gt;README.txt&lt;/u0&gt; file located in the &lt;f1&gt;docs_devel&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154705Z" creationid="Hiroshi Miura" creationdate="20230116T154705Z">
         <seg>OmegaTのビルドに関する詳細な手順については、`docs_devel`フォルダの中の&lt;u0&gt;README.txt&lt;/u0&gt;ファイルを参照してください。</seg>
       </tuv>
     </tu>
@@ -29812,6 +29838,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T053630Z" creationid="miurahr" creationdate="20201115T053630Z">
         <seg>複数の変換エンジンを選択した場合は、&lt;k0&gt;&lt;k1&gt;[Ctrl]&lt;/k1&gt;&lt;k2&gt;[M]&lt;/k2&gt;&lt;/k0&gt;を使用して変換エンジンを切り替え、最後に選択した変換エンジンを挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If so desired, drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock for easier access.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153910Z" creationid="Hiroshi Miura" creationdate="20230116T153910Z">
+        <seg>希望する場合、&lt;f0&gt;OmegaT.app&lt;/f0&gt; ファイルをドックへドラッグ＆ドロップして、簡単にアクセスできるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43482,6 +43516,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the code is downloaded, open a terminal in the source folder (&lt;f0&gt;omegat-code/&lt;/f0&gt; if you cloned from Sourceforge, or &lt;f1&gt;/omegat&lt;/f1&gt; if you cloned from GitHub) and type:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154634Z" creationid="Hiroshi Miura" creationdate="20230116T154634Z">
+        <seg>コードがダウンロードされたら、(もしSourceforgeからクローンした場合はソースフォルダ&lt;f0&gt;omegat-code/&lt;/f0&gt;、GitHubからクローンしたら&lt;f1&gt;omegat/&lt;/f1&gt;)で端末を開き、次のように入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T024810Z">
@@ -43551,6 +43593,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023341Z" creationid="Hiroshi Miura" creationdate="20221023T023341Z">
         <seg>ダウンロードしたファイルは不要になったため、削除することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T153948Z" creationid="Hiroshi Miura" creationdate="20230116T153948Z">
+        <seg>ここまでくれば、ダウンロードしたファイルは不要になり、削除することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45237,6 +45287,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024608Z" creationid="Hiroshi Miura" creationdate="20221023T024608Z">
         <seg>ダウンロードしたOmegaTパッケージに含まれるパラメータファイル(特に&lt;l1/&gt;の&lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;、および&lt;l4/&gt;パッケージの&lt;f2&gt;Configuration.properties&lt;/f2&gt;および&lt;f3&gt;Info.plist&lt;/f3&gt;ファイル)は上書きまたは削除される可能性があるため、これらのファイルを使用してOmegaTの起動パラメータを変更している場合は、アップグレードの前にバックアップを作成することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; for &lt;l1&gt;Windows&lt;/l1&gt; and the &lt;f2&gt;Configuration.properties&lt;/f2&gt; and &lt;f3&gt;Info.plist&lt;/f3&gt; files for &lt;l4&gt;macOS&lt;/l4&gt; packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154330Z" creationid="Hiroshi Miura" creationdate="20230116T154330Z">
+        <seg>ダウンロードしたOmegaTパッケージに含まれるパラメータファイル(特に&lt;l1&gt;WIndows&lt;/l1&gt;むけの&lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;、おおび&lt;l4&gt;macOS&lt;/l4&gt;パッケージの&lt;f2&gt;Configuration.properties&lt;/f2&gt;および&lt;f3&gt;Info.plist&lt;/f3&gt;ファイル)は上書きまたは削除される可能性があるため、これらのファイルを使用してOmegaTの起動パラメータを変更している場合は、アップグレードの前にバックアップを作成することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51405,9 +51463,27 @@ The scope of a search is by default the project and can be set to be any files l
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154129Z" creationid="Hiroshi Miura" creationdate="20230116T154129Z">
+        <seg>詳細については-&lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; section for details.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120438Z" creationid="Hiroshi Miura" creationdate="20230116T120438Z">
+        <seg>詳細は&lt;l0/&gt;項をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154354Z" creationid="Hiroshi Miura" creationdate="20230116T154354Z">
         <seg>詳細は&lt;l0/&gt;項をご覧ください。</seg>
       </tuv>
     </tu>
@@ -56567,6 +56643,15 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>That includes the platforms described above, as well as platforms for which no specific OmegaT package is provided.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154014Z" creationid="Hiroshi Miura" creationdate="20230116T154014Z">
+        <seg>これには、上記のプラットフォームだけでなく、特定のパッケージが提供されていないプラットフォームも含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>That includes the platforms described above, but also the platforms for which specific packages are not provided.</seg>
@@ -58031,6 +58116,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024232Z" creationid="Hiroshi Miura" creationdate="20221023T024232Z">
         <seg>現在のバージョンから現在のバージョンへの変更は、開発サイトの&lt;u0&gt;changes.txt&lt;/u0&gt;ファイルに文書化されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;u0&gt;changes.txt&lt;/u0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154122Z" creationid="Hiroshi Miura" creationdate="20230116T154122Z">
+        <seg>あなたのバージョンから最新バージョンへの変更は、開発サイトの&lt;u0&gt;changes.txt&lt;/u0&gt;ファイルに文書化されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61442,6 +61535,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The source code for the current version can either be downloaded directly from the OmegaT &lt;u0&gt;download page&lt;/u0&gt;, or cloned from the &lt;u1&gt;Sourceforge&lt;/u1&gt; or &lt;u2&gt;GitHub&lt;/u2&gt; repositories.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154456Z" creationid="Hiroshi Miura" creationdate="20230116T154456Z">
+        <seg>現在のバージョンのソースコードは、OmegaTの&lt;u0&gt;ダウンロードページ&lt;/u0&gt;から直接ダウンロードするか、&lt;u1&gt;Sourceforge&lt;/u1&gt;または&lt;u2&gt;GitHub&lt;/u2&gt;リポジトリからクローンすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
@@ -64125,6 +64227,15 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>This information applies to any system for a Java version compatible with Java 8 Runtime Environment is available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154002Z" creationid="Hiroshi Miura" creationdate="20230116T154002Z">
+        <seg>この情報は、Java 8 Runtime Environmentと互換性のあるJavaバージョンを持つすべてのシステムに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64</seg>
       </tuv>
@@ -65035,6 +65146,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T031000Z" creationid="Hiroshi Miura" creationdate="20221023T031000Z">
         <seg>これにより、&lt;f0&gt;build/install/OmegaT&lt;/f0&gt;フォルダにOmegaTの完全なディストリビューションが作成され、起動できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will create a full, ready to launch distribution of OmegaT in the &lt;f0&gt;build/install/OmegaT&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154659Z" creationid="Hiroshi Miura" creationdate="20230116T154659Z">
+        <seg>これにより、&lt;f0&gt;build/install/OmegaT&lt;/f0&gt;フォルダにOmegaTの完全なディストリビューションが作成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78402,6 +78521,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140432Z" creationid="suzume" creationdate="20201122T140432Z">
         <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154440Z" creationid="Hiroshi Miura" creationdate="20230116T154440Z">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
       </tuv>
     </tu>
     <tu>
