@@ -11647,6 +11647,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Access to machine translation services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231930Z" creationid="Hiroshi Miura" creationdate="20230117T231930Z">
+        <seg>機械翻訳サービスへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access to team projects</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232016Z" creationid="Hiroshi Miura" creationdate="20230117T232016Z">
+        <seg>チームプロジェクトへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Accessing a team project requires the following information:</seg>
@@ -14970,6 +14986,15 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T204103Z">
         <seg>バシキール語（Bashkir）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Basically, that means that you have:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231434Z" creationid="Hiroshi Miura" creationdate="20230117T231434Z">
+        <seg>基本的に、これは次のことを意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18696,6 +18721,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232708Z" creationid="Hiroshi Miura" creationdate="20230117T232708Z">
+        <seg>貢献</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T121356Z">
@@ -18824,6 +18857,15 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T033807Z">
         <seg>Wordfast により作成された TMX 形式の翻訳メモリーを、OmegaT で読める形に変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Cookies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232618Z" creationid="Hiroshi Miura" creationdate="20230117T232558Z">
+        <seg>クッキー</seg>
       </tuv>
     </tu>
     <tu>
@@ -20664,6 +20706,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233810Z" creationid="miurahr" creationdate="20201106T233810Z">
         <seg>ソースファイルの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232726Z" creationid="Hiroshi Miura" creationdate="20230117T232726Z">
+        <seg>このファイルを削除すると、フィルターの環境設定もリセットされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31397,6 +31448,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find through your analysis that OmegaT communicates with an online service that you have not set, that would be a bug and we would ask you to report it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232401Z" creationid="Hiroshi Miura" creationdate="20230117T232401Z">
+        <seg>もし万が一、設定していないオンラインサービスとOmegaTが通信していることが判明したならば、それはバグですのでぜひ開発チームに報告するようにお願いします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T210713Z">
@@ -32943,6 +33002,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T133200Z" creationid="miurahr" creationdate="20221023T133200Z">
         <seg>ローカルリポジトリとリモートリポジトリ(デフォルトの)間の単純なマッピングを使用するチームプロジェクトでは、&lt;e0&gt;この場合のみ&lt;/e0&gt;、原文ファイルと訳文ファイルをローカルで変更し、&lt;l3/&gt;メニューの&lt;l1/&gt;コマンドと&lt;l2/&gt;コマンドを使用してサーバにアップロードできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that case, OmegaT shares information with online services:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232008Z" creationid="Hiroshi Miura" creationdate="20230117T231801Z">
+        <seg>次の場合、OmegaTは、情報をオンラインサービスに共有します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36897,8 +36964,8 @@ Launch OmegaT as follows.</seg>
       <tuv lang="en">
         <seg>License</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T224945Z" creationid="Hiroshi Miura" creationdate="20230113T224945Z">
-        <seg>License</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231348Z" creationid="Hiroshi Miura" creationdate="20230113T224945Z">
+        <seg>ライセンス</seg>
       </tuv>
     </tu>
     <tu>
@@ -39496,6 +39563,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210259Z" creationid="Hiroshi Miura" creationdate="20230113T210259Z">
         <seg>変更されたユーザーレベルファイルのフィルター設定は、&lt;l0/&gt;の設定フォルダーに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232739Z" creationid="Hiroshi Miura" creationdate="20230117T232739Z">
+        <seg>変更されたローカルファイルフィルタは、プロジェクトフォルダーにある&lt;l0/&gt;ファイルに保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42322,6 +42398,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232231Z" creationid="Hiroshi Miura" creationdate="20230117T232231Z">
+        <seg>OmegaTは、最新版があるかどうか自動的に開発サーバと通信しますが、ユーザーの情報を送信しません。ユーザーは、環境設定から、この通信をしないように任意に設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142127Z" creationid="miurahr" creationdate="20221103T142127Z">
@@ -42528,6 +42612,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT does not collect any user information and does not transmit any information without the explicit consent of the user.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231748Z" creationid="Hiroshi Miura" creationdate="20230117T231748Z">
+        <seg>OmegaTは、いかなるユーザー情報も収集せず、ユーザーの明示的な同意なしにいかなる情報も送信しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT does not have read and write permissions for this folder.</seg>
       </tuv>
@@ -42541,6 +42634,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T011527Z" creationid="miurahr" creationdate="20201101T011527Z">
         <seg>OmegaT には、このフォルダーに対する読み取り権限と書き込み権限がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not store your information online (this is not a "cloud-based" product).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232614Z" creationid="Hiroshi Miura" creationdate="20230117T232455Z">
+        <seg>OmegaTは、ユーザーの情報をオンラインで保存することはありません(「クラウドベース」の製品ではありません)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42939,6 +43040,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T000731Z" creationid="Hiroshi Miura" creationdate="20230114T000731Z">
         <seg>OmegaTは、翻訳プロセスを容易にするだけでなく、翻訳者がデータの損失を心配する必要がないように設計されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is distributed under the GPL v3 license agreement.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231419Z" creationid="Hiroshi Miura" creationdate="20230117T231419Z">
+        <seg>OmegaTは、GPL v3 ライセンスのもと頒布されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45608,6 +45717,14 @@ install the Oracle JRE on your own.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Our website only uses cookies that are strictly necessary cookies for its operation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232657Z" creationid="Hiroshi Miura" creationdate="20230117T232657Z">
+        <seg>私たちのWebサイトでは、Webサイトの表示に必要不可欠なCookieのみを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Out-of-order</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130406T224531Z">
@@ -46787,6 +46904,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Policies</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232717Z" creationid="Hiroshi Miura" creationdate="20230117T232717Z">
+        <seg>ポリシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T121527Z">
@@ -47341,6 +47466,15 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T021703Z" creationid="Yu-Tang" creationdate="20141104T021703Z">
         <seg>用語集の優先順位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231742Z" creationid="Hiroshi Miura" creationdate="20230117T231742Z">
+        <seg>プライバシーポリシー</seg>
       </tuv>
     </tu>
     <tu>
@@ -57529,6 +57663,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>That file is compliant with the TMX specification, which is a standard used by most tools of the same category.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232539Z" creationid="Hiroshi Miura" creationdate="20230117T232450Z">
+        <seg>このファイルは、翻訳支援ツールの多くで使用されている標準規格のTMX仕様に準拠しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>That folder contains all the files needed to run OmegaT.</seg>
@@ -63176,6 +63318,24 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The translatable data (ie.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232413Z" creationid="Hiroshi Miura" creationdate="20230117T232413Z">
+        <seg>翻訳可能なデータ(つまり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The translated data is stored in a file called project_save.tmx located in the omegat/ folder of any translation project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232437Z" creationid="Hiroshi Miura" creationdate="20230117T232437Z">
+        <seg>翻訳されたデータは、すべての翻訳プロジェクトのOmegaT/フォルダーにあるproject_save.tmxというファイルに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>The translated document will be created in the same display direction as the original.</seg>
@@ -63397,6 +63557,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130312T031747Z">
         <seg>取扱説明書は OmegaT のインストールフォルダー内の &lt;f0&gt;docs&lt;/f0&gt; フォルダーにあります。たとえば英語版を見たければ &lt;f0&gt;docs/en/index.html&lt;/f0&gt; ファイルをウェブブラウザーで開けば閲覧できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The user or their project manager can set OmegaT to use online services.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231835Z" creationid="Hiroshi Miura" creationdate="20230117T231757Z">
+        <seg>OmegaTのユーザーや翻訳チームのプロジェクトマネージャは、オンラインサービスを利用するようにOmegaTを設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63927,6 +64095,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T051504Z" creationid="Hiroshi Miura" creationdate="20221023T051504Z">
         <seg>したがって、エディタに表示されるタグの数を制限するために、可能な限り元の文書からスタイル情報を削除することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These 4 items are a good summary but you can also read the &lt;a0&gt;whole license&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231734Z" creationid="Hiroshi Miura" creationdate="20230117T231640Z">
+        <seg>この4つの自由は、ライセンスの概要を示していますが、 できれば&lt;a0&gt;ライセンス全文の&lt;/a0&gt;確認をおねがいします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84520,6 +84696,48 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T050247Z">
         <seg>現在、編集ウィンドウで開かれているファイルは、青い背景色でハイライト表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>the files you are translating) are accessed to display the translatable contents to the user.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232425Z" creationid="Hiroshi Miura" creationdate="20230117T232425Z">
+        <seg>翻訳するファイル)にアクセスして、翻訳可能なコンテンツをユーザーに内容表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to change the software to suit your needs,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231525Z" creationid="Hiroshi Miura" creationdate="20230117T231525Z">
+        <seg>ソフトウエアをニーズにあわせて改変する自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the changes you make.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231643Z" creationid="Hiroshi Miura" creationdate="20230117T231638Z">
+        <seg>変更したソフトウエアを配付する自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the software with your friends and neighbors, and</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231602Z" creationid="Hiroshi Miura" creationdate="20230117T231602Z">
+        <seg>ソフトウエアを友人や隣人に配布する自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>the freedom to use the software for any purpose,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231448Z" creationid="Hiroshi Miura" creationdate="20230117T231448Z">
+        <seg>OmegaTをいかなる目的に対しても利用することができる自由。</seg>
       </tuv>
     </tu>
     <tu>
