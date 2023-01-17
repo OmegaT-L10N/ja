@@ -7077,6 +7077,18 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;
+	&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000659Z" creationid="Hiroshi Miura" creationdate="20230117T000659Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;
+	&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;java parameters&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T124543Z" creationid="miurahr" creationdate="20221023T124543Z">
@@ -10153,6 +10165,20 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;
+	&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;
+	&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000703Z" creationid="Hiroshi Miura" creationdate="20230117T000703Z">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;
+	&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;
+	&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140020Z" creationid="suzume" creationdate="20201122T140020Z">
@@ -10169,10 +10195,46 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+	&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000700Z" creationid="Hiroshi Miura" creationdate="20230117T000700Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+	&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+	&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000701Z" creationid="Hiroshi Miura" creationdate="20230117T000701Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+	&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140039Z" creationid="suzume" creationdate="20201122T140039Z">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;
+	&lt;mapping local="source/subdir" repository=""&gt;
+	    &lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000659Z" creationid="Hiroshi Miura" creationdate="20230117T000659Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;
+	&lt;mapping local="source/subdir" repository=""&gt;
+	    &lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10185,10 +10247,34 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;
+	&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000657Z" creationid="Hiroshi Miura" creationdate="20230117T000657Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;
+	&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140033Z" creationid="suzume" creationdate="20201122T140033Z">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;
+	&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000553Z" creationid="Hiroshi Miura" creationdate="20230117T000553Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;
+	&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10740,11 +10826,12 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>A list of mapping parameters is presented below, and examples of their use are provided in the next section.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231947Z" creationid="Hiroshi Miura" creationdate="20230116T231947Z">
-        <seg>A list of mapping parameters is presented below, and examples of their use are provided in the next section.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000539Z" creationid="Hiroshi Miura" creationdate="20230116T231947Z">
+        <seg>マッピングパラメータのリストを以下に示します。これらの使用例は次の項で説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10863,6 +10950,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T003819Z" creationid="Hiroshi Miura" creationdate="20221022T003819Z">
         <seg>正規表現では、多数の文字または文字の組み合わせに特別な意味があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A number of free software third party utilities provide such “round-trip” conversion, including:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001603Z" creationid="Hiroshi Miura" creationdate="20230117T001603Z">
+        <seg>このような「往復可能な」変換は、次のフリーソフトウェアのツールが提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14161,6 +14256,23 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000747Z" creationid="Hiroshi Miura" creationdate="20221220T000747Z">
         <seg>ショートカット(&amp;S)のわりあて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Associate the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000901Z" creationid="Hiroshi Miura" creationdate="20230117T000901Z">
+        <seg>書式をすでにサポートされている書式に関連付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Association</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001009Z" creationid="Hiroshi Miura" creationdate="20230117T001009Z">
+        <seg>関連づけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -18634,6 +18746,14 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Conversion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001402Z" creationid="Hiroshi Miura" creationdate="20230117T001402Z">
+        <seg>変換</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
@@ -18664,6 +18784,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T141332Z" creationid="amake" creationdate="20170128T141332Z">
         <seg>旧チームプロジェクトの変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000914Z" creationid="Hiroshi Miura" creationdate="20230117T000914Z">
+        <seg>すでに支持されている書式に書式を変換します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20708,6 +20836,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140605T083133Z">
         <seg>リポジトリの種類を確認中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Develop a filter for the format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001003Z" creationid="Hiroshi Miura" creationdate="20230117T001003Z">
+        <seg>ファイル形式のフィルターを開発します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24567,6 +24703,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extend OmegaT with third-party plugins that support the format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000945Z" creationid="Hiroshi Miura" creationdate="20230117T000945Z">
+        <seg>その形式をサポートするサードパーティのプラグインでOmegaTを拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115130Z" creationid="Hiroshi Miura" creationdate="20220830T115130Z">
@@ -25120,6 +25264,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T034950Z">
         <seg>ファイルフィルター ダイアログ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File filters have a list of file extensions that are associated to them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001105Z" creationid="Hiroshi Miura" creationdate="20230117T001105Z">
+        <seg>ファイルフィルターは、それぞれ関連付けるファイル拡張子のリストを持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30312,6 +30464,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001340Z" creationid="Hiroshi Miura" creationdate="20230117T001340Z">
+        <seg>翻訳したいファイル形式がサポートのあるファイル形式に構造的に近い場合は、対応するファイルフィルターの拡張子のリストにそのファイル拡張子を追加するか、そのファイルフィルターで受け入れられる拡張子に変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>If the language is not available, OmegaT defaults to English even if the system uses a different default language.</seg>
@@ -31538,6 +31698,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T031803Z">
         <seg>原文のタグを確認する必要はあるが、翻訳後の文書に整形情報を含む必要があまりないのであれば、訳文にタグを入れる必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to support formats that are not covered by OmegaT, there are four ways to do so:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000852Z" creationid="Hiroshi Miura" creationdate="20230117T000726Z">
+        <seg>OmegaTでサポートされていないファイル形式の翻訳が必要な場合は、次の4つの方法から対処を選びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36735,6 +36903,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: Apache License Version 2.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001634Z" creationid="Hiroshi Miura" creationdate="20230117T001634Z">
+        <seg>ライセンス: Apache License Version 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -38071,6 +38247,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233105Z" creationid="miurahr" creationdate="20201106T233105Z">
         <seg>リポジトリのサブディレクトリにあるプロジェクトのマッピング:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subfolder of the repository:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000655Z" creationid="Hiroshi Miura" creationdate="20230117T000655Z">
+        <seg>リポジトリのサブフォルダーにあるプロジェクトのマッピング:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43564,6 +43748,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's file filters provide a wide range of support for common and less common file formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000756Z" creationid="Hiroshi Miura" creationdate="20230117T000721Z">
+        <seg>OmegaTのファイルフィルタは、一般的なファイル形式に加え、あまり一般的でないファイル形式に対してもサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's main features are:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T074205Z">
@@ -48012,6 +48204,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rainbow, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001620Z" creationid="Hiroshi Miura" creationdate="20230117T001620Z">
+        <seg>&lt;u0&gt;Okapi Framework&lt;/u0&gt;が提供するRainbow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rashid Umarov</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T044055Z">
@@ -48755,6 +48955,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T232530Z" creationid="miurahr" creationdate="20201106T232530Z">
         <seg>翻訳するファイルのリモート・ロケーションまたはディレクトリー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote location or folder of the files to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000628Z" creationid="Hiroshi Miura" creationdate="20230117T000543Z">
+        <seg>翻訳するファイルのリモートの場所またはフォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -58118,6 +58326,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Okapi Framework comes with a number of file filters, including some not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001711Z" creationid="Hiroshi Miura" creationdate="20230117T001711Z">
+        <seg>Okapi Frameworkには、OmegaTがネイティブにサポートしない形式を含めた、複数のファイルフィルタが付属しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT GUI is launched if no option is specified.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T131126Z" creationid="miurahr" creationdate="20221023T131126Z">
@@ -58588,6 +58804,15 @@ shown below.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T141323Z">
         <seg>基本的なコマンドはすでに上記で述べた通りです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The basic procedure is essentially the same, except that the team project administrator does not add every file to the version-controlled project on the server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000711Z" creationid="Hiroshi Miura" creationdate="20230117T000711Z">
+        <seg>この場合も手順は同じですが、プロジェクト管理者はプロジェクトに(すべての)ファイルをバージョン管理に追加するわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66828,6 +67053,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>To ensure that all the properties of a format are properly taken into account, it is sometimes preferable to convert the file to a supported format and then convert the translated file back to the original format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001516Z" creationid="Hiroshi Miura" creationdate="20230117T001516Z">
+        <seg>そのファイル内のすべての書式が適切に考慮されるようにするには、サポートされている形式にファイルを変換してから、訳文ファイルを元の書式に変換する方が望ましい場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -73992,6 +74225,15 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can also use OmegaT's custom tag function to register format specific strings and have OmegaT handle them as if they were normal tags.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001354Z" creationid="Hiroshi Miura" creationdate="20230117T001354Z">
+        <seg>また、OmegaTのカスタムタグ機能を使用して書式固有の文字列を登録し、OmegaTに通常のタグと同じように処理させることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can ask the user group for advice if you have problems.</seg>
       </tuv>
@@ -79489,6 +79731,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T152235Z" creationid="miurahr" creationdate="20221222T152235Z">
         <seg>https://mymemory.translated.net/doc/cat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001607Z" creationid="Hiroshi Miura" creationdate="20230117T001607Z">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001635Z" creationid="Hiroshi Miura" creationdate="20230117T001635Z">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
       </tuv>
     </tu>
     <tu>
