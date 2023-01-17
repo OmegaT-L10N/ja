@@ -36911,6 +36911,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: GNU General Public License v2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001830Z" creationid="Hiroshi Miura" creationdate="20230117T001830Z">
+        <seg>サイセンス: GNU General Public License v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -48203,11 +48211,29 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Rainbow can create XLIFF 1.2 compliant files or OmegaT projects from all the files set as “input” files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001746Z" creationid="Hiroshi Miura" creationdate="20230117T001746Z">
+        <seg>Rainbowでは、「入力」ファイルとして設定されたすべてのファイルから、XLIFF 1.2準拠のファイルまたはOmegaTプロジェクトを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Rainbow, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001620Z" creationid="Hiroshi Miura" creationdate="20230117T001620Z">
         <seg>&lt;u0&gt;Okapi Framework&lt;/u0&gt;が提供するRainbow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Rainbow-supported files are converted into XLIFF and inserted as source files into a full fledged OmegaT project that you can open with OmegaT right away.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001805Z" creationid="Hiroshi Miura" creationdate="20230117T001748Z">
+        <seg>RainbowがサポートするファイルはXLIFFに変換され、ソースファイルとして完全なOmegaTプロジェクトに挿入されます。このプロジェクトは、OmegaTですぐに開くことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51826,6 +51852,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Converters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002450Z" creationid="Hiroshi Miura" creationdate="20230117T002450Z">
+        <seg>See &lt;u0&gt;Converters&lt;/u0&gt; for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T235031Z" creationid="miurahr" creationdate="20201106T235031Z">
@@ -51834,10 +51868,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;List of file filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001732Z" creationid="Hiroshi Miura" creationdate="20230117T001732Z">
+        <seg>詳細については、&lt;u0&gt;ファイルフィルターの一覧&lt;/u0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T154732Z">
         <seg>『SimpleDateFormat』の書式については、&lt;u0&gt;Oracle 技術文書&lt;/u0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001825Z" creationid="Hiroshi Miura" creationdate="20230117T001825Z">
+        <seg>詳細は、&lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58591,6 +58641,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Translate Toolkit offers a number of convertion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002429Z" creationid="Hiroshi Miura" creationdate="20230117T002429Z">
+        <seg>Translate Toolkitには、po書式との間の変換ツールがいくつか用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150845Z" creationid="amake" creationdate="20170128T150845Z">
@@ -59249,6 +59307,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T033742Z">
         <seg>x に対応する制御文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The converters from the &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002442Z" creationid="Hiroshi Miura" creationdate="20230117T001907Z">
+        <seg>&lt;u0&gt;Translate Toolkit&lt;/u0&gt;のコンバータ</seg>
       </tuv>
     </tu>
     <tu>
@@ -79264,6 +79330,22 @@ https://docs.oracle.com/javase/6/docs/api/java/text/SimpleDateFormat.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/commands/index.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002229Z" creationid="Hiroshi Miura" creationdate="20230117T002229Z">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/commands/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001900Z" creationid="Hiroshi Miura" creationdate="20230117T001900Z">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>原文のリンクが間違っています：
 https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html</note>
       <tuv lang="en">
@@ -79743,6 +79825,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001734Z" creationid="Hiroshi Miura" creationdate="20230117T001734Z">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001635Z" creationid="Hiroshi Miura" creationdate="20230117T001635Z">
@@ -79804,6 +79894,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140912Z" creationid="suzume" creationdate="20201122T140912Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://po4a.org</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001825Z" creationid="Hiroshi Miura" creationdate="20230117T001825Z">
+        <seg>https://po4a.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -82988,6 +83086,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T132125Z" creationid="Hiroshi Miura" creationdate="20221022T132125Z">
         <seg>plugins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>po4a</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001826Z" creationid="Hiroshi Miura" creationdate="20230117T001826Z">
+        <seg>po4a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>po4a supports a number of free software documentation formats, listed on the site front page, and offers conversion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001857Z" creationid="Hiroshi Miura" creationdate="20230117T001857Z">
+        <seg>po4aは、サイトのフロント・ページにリストされているように、多数のフリー・ソフトウェアの文書ファイル形式をサポートしており、po書式との間の変換ツールを提供しています。</seg>
       </tuv>
     </tu>
     <tu>
