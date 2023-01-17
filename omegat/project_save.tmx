@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f941367dd" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f8caf9aa1" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36911,6 +36911,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: Eclipse Public License v1.0</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002541Z" creationid="Hiroshi Miura" creationdate="20230117T002541Z">
+        <seg>ライセンス: Eclipse Public License v1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>License: GNU General Public License v2</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001830Z" creationid="Hiroshi Miura" creationdate="20230117T001830Z">
@@ -38039,6 +38047,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Make sure you understand the format requirements when you start working on a PDF or similar file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003333Z" creationid="Hiroshi Miura" creationdate="20230117T003333Z">
+        <seg>PDFまたは類似のファイルで作業を開始するときは、書式の要件を理解していることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Make the necessary changes to the project properties at this stage, including local file filters or segmentation settings.</seg>
       </tuv>
@@ -38963,6 +38980,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T170103Z">
         <seg>検索結果の数が上限に達しました：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maxprograms also distributes &lt;u1&gt;XLIFF Manager&lt;/u1&gt;, a graphical user interface for the OpenXLIFF Filters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002701Z" creationid="Hiroshi Miura" creationdate="20230117T002701Z">
+        <seg>Maxprograms はまた、&lt;u1&gt;XLIFF Manager&lt;/u1&gt;を配布しており、OpenXLIFFフィルターのGUIを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43772,6 +43797,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's po support is robust enough to handle most po files, but OmegaT's default XLIFF filter is not sufficient to support XLIFF files created by Rainbow, OpenXLIFF or other CAT tools.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003126Z" creationid="Hiroshi Miura" creationdate="20230117T002918Z">
+        <seg>OmegaTのpoサポートは、ほとんどのpoファイルを処理するのに十分に堅牢ですが、OmegaT バージョン 5.7.1 以前の標準XLIFFフィルターは、Rainbow、OpenXLIFF、または他のコンピューター翻訳支援ツールツールで作成されたXLIFFファイルを処理するには不十分です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130116T201343Z">
@@ -44973,6 +45006,30 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T174709Z">
         <seg>OpenDocument フィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF from &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002536Z" creationid="Hiroshi Miura" creationdate="20230117T002536Z">
+        <seg>&lt;u0&gt;Maxprograms&lt;/u0&gt;のOpenXLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF produces XLIFF 1.2 compliant files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002715Z" creationid="Hiroshi Miura" creationdate="20230117T002715Z">
+        <seg>OpenXLIFF は XLIFF 1.2 準拠のファイルを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF supports a number of file filters, including some not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002608Z" creationid="Hiroshi Miura" creationdate="20230117T002608Z">
+        <seg>OpenXLIFFには、OmegaTがネイティブにサポートしない形式を含めた、複数のファイルフィルタが付属しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47867,6 +47924,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130513T054520Z">
         <seg>技術情報：翻訳自動反映と複数訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proper XLIFF support in OmegaT can only be obtained thought third-party plugins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003217Z" creationid="Hiroshi Miura" creationdate="20230117T002919Z">
+        <seg>OmegaTで適切にXLIFFをサポートするには、サードパーティのプラグインを必要とするかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51761,6 +51826,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;below&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003228Z" creationid="Hiroshi Miura" creationdate="20230117T002927Z">
+        <seg>&lt;l0&gt;以下&lt;/l0&gt;に詳細を示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T072822Z">
@@ -51851,11 +51924,12 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>See &lt;u0&gt;Converters&lt;/u0&gt; for details.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002450Z" creationid="Hiroshi Miura" creationdate="20230117T002450Z">
-        <seg>See &lt;u0&gt;Converters&lt;/u0&gt; for details.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002518Z" creationid="Hiroshi Miura" creationdate="20230117T002450Z">
+        <seg>詳細については、&lt;u0&gt;コンバータ&lt;/u0&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51872,6 +51946,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001732Z" creationid="Hiroshi Miura" creationdate="20230117T001732Z">
         <seg>詳細については、&lt;u0&gt;ファイルフィルターの一覧&lt;/u0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;OpenXLIFF Filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002626Z" creationid="Hiroshi Miura" creationdate="20230117T002626Z">
+        <seg>詳細については、&lt;u0&gt;OpenXLIFF フィルター&lt;/u0&gt; を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54548,6 +54630,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210103Z" creationid="Hiroshi Miura" creationdate="20230113T210103Z">
         <seg>一部のフィルタには、設定をさらにカスタマイズするための&lt;g0&gt;オプション.&lt;/g0&gt;ボタンがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some formats, like PDF, cannot be properly handled through “round trip” conversions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003245Z" creationid="Hiroshi Miura" creationdate="20230117T003245Z">
+        <seg>PDFなどの一部の形式は、「往復の」変換では適切に処理できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64235,6 +64325,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They require an intermediate conversion to a supported format that serves as a base to manually create a proper target language document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003307Z" creationid="Hiroshi Miura" creationdate="20230117T003307Z">
+        <seg>それらは、適切な訳文言語書式を手動で作成するため、基礎となるサポートされた文書形式への中間変換を必要とします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T185427Z">
@@ -64257,6 +64355,15 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124917Z" creationid="Hiroshi Miura" creationdate="20230116T124917Z">
         <seg>他の機能やシステム全体のショートカットと競合しない限り、これらはOmegaTで利用できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Third-party plugins</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003336Z" creationid="Hiroshi Miura" creationdate="20230117T003336Z">
+        <seg>関連プログラム</seg>
       </tuv>
     </tu>
     <tu>
@@ -74619,6 +74726,15 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can find a number of online or offline utilities that convert PDF to common office formats, but the conversion will always require extensive manual adjustments to the target document before a proper PDF document can be produced.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003325Z" creationid="Hiroshi Miura" creationdate="20230117T003325Z">
+        <seg>PDFを一般的なオフィス形式に変換するためのオンラインユーティリティやオフラインユーティリティは数多くありますが、変換の際には、適切なPDF変換を作成する前に、対象となる文書に対して手動で大幅な調整を行う必要があります。また、変換後の文書に合わせてPDFを作成することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
@@ -79797,6 +79913,30 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130429T151933Z">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002519Z" creationid="Hiroshi Miura" creationdate="20230117T002519Z">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002543Z" creationid="Hiroshi Miura" creationdate="20230117T002543Z">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T002544Z" creationid="Hiroshi Miura" creationdate="20230117T002544Z">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
       </tuv>
     </tu>
     <tu>
