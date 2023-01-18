@@ -307,6 +307,30 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${extension}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024724Z" creationid="Hiroshi Miura" creationdate="20230118T024724Z">
+        <seg>${extension}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025304Z" creationid="Hiroshi Miura" creationdate="20230118T025304Z">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025324Z" creationid="Hiroshi Miura" creationdate="20230118T025324Z">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${fileNameOnly}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T194445Z">
@@ -331,6 +355,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${filename}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024647Z" creationid="Hiroshi Miura" creationdate="20230118T024647Z">
+        <seg>${filename}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${fuzzyFlag}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T194452Z">
@@ -343,6 +375,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T194436Z">
         <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${nameOnly}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024717Z" creationid="Hiroshi Miura" creationdate="20230118T024717Z">
+        <seg>${nameOnly}</seg>
       </tuv>
     </tu>
     <tu>
@@ -371,10 +411,82 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${system-host-name}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025252Z" creationid="Hiroshi Miura" creationdate="20230118T025252Z">
+        <seg>${system-host-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-os-name}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025235Z" creationid="Hiroshi Miura" creationdate="20230118T025235Z">
+        <seg>${system-os-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-user-name}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025242Z" creationid="Hiroshi Miura" creationdate="20230118T025242Z">
+        <seg>${system-user-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024841Z" creationid="Hiroshi Miura" creationdate="20230118T024841Z">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024823Z" creationid="Hiroshi Miura" creationdate="20230118T024823Z">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024805Z" creationid="Hiroshi Miura" creationdate="20230118T024805Z">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025336Z" creationid="Hiroshi Miura" creationdate="20230118T025336Z">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocale}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024738Z" creationid="Hiroshi Miura" creationdate="20230118T024738Z">
+        <seg>${targetLocale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetText}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T194439Z">
         <seg>${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${timestamp-????}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024851Z" creationid="Hiroshi Miura" creationdate="20230118T024851Z">
+        <seg>${timestamp-????}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12771,12 +12883,28 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>All the parameters located in a Project Folder will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024228Z" creationid="Hiroshi Miura" creationdate="20230118T024228Z">
+        <seg>プロジェクトフォルダーにあるすべてのパラメーターは、そのプロジェクトを開くOmegaTのバージョンに関係なく、そのプロジェクトに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>All the parameters located in the &lt;l0/&gt; will be shared unless you specify a different configuration folder with the &lt;l1&gt;--config-dir=&lt;path&gt;&lt;/l1&gt; option from the &lt;l2/&gt; on the command line .</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T025954Z" creationid="Hiroshi Miura" creationdate="20221023T025954Z">
         <seg>コマンドラインの&lt;l2/&gt;から&lt;l1&gt;--config-dir=&lt;path&gt;&lt;/l1&gt;オプションを使用して別の構成フォルダを指定しない限り、&lt;l0/&gt;にあるすべてのパラメータは共有されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; option from the OmegaT options on the command line .</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024203Z" creationid="Hiroshi Miura" creationdate="20230118T024203Z">
+        <seg>コマンドラインから&lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt;オプションを使用して別の構成フォルダを指定しない限り、構成フォルダーにあるすべてのパラメータは共有されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25571,6 +25699,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten every time you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024452Z" creationid="Hiroshi Miura" creationdate="20230118T024452Z">
+        <seg>&lt;l0/&gt;フォルダーのファイルは、同じ名前で作成された場合、作成するたびに上書きされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Files must be deleted by the project manager.</seg>
       </tuv>
@@ -35330,6 +35467,15 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>It represents the complete filename of the source file, including the extension.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024707Z" creationid="Hiroshi Miura" creationdate="20230118T024707Z">
+        <seg>拡張子を含むソースファイルの完全なファイル名を表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>It should be converted to a new team project, but it's impossible in console mode.</seg>
       </tuv>
@@ -42672,6 +42818,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024502Z" creationid="Hiroshi Miura" creationdate="20230118T024502Z">
+        <seg>OmegaTでは、言語コードやタイムスタンプを追加するなどして、作成したファイルの新しいファイル名を自動的に作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT can automatically run commands after the target files have been created.</seg>
       </tuv>
@@ -43555,6 +43710,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024529Z" creationid="Hiroshi Miura" creationdate="20221023T024529Z">
         <seg>OmegaTプロジェクトは、OmegaT内に格納&lt;e1&gt;されません&lt;/e1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT projects are &lt;s2&gt; &lt;e3&gt;not&lt;/e3&gt; &lt;/s2&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023924Z" creationid="Hiroshi Miura" creationdate="20230118T023924Z">
+        <seg>OmegaTプロジェクトは、OmegaT内に格納&lt;s2&gt;&lt;e3&gt;されません&lt;/e3&gt;&lt;/s2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44746,6 +44909,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
         <seg>(X)HTML ファイルにエンコーディング宣言がある場合のみ (&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Only if these changes are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024330Z" creationid="Hiroshi Miura" creationdate="20230118T024330Z">
+        <seg>そして、その改変が OmegaT ユーザーにとって有益になると考えられる場合にのみ、開発チームはそれを OmegaT に組み込みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46307,6 +46479,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T052101Z" creationid="Hiroshi Miura" creationdate="20221023T052101Z">
         <seg>段落、セクション、および表は双方向テキストに設定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; for Windows and the &lt;c1&gt;Configuration.properties&lt;/c1&gt; and &lt;c2&gt;Info.plist&lt;/c2&gt; files for macOS packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024051Z" creationid="Hiroshi Miura" creationdate="20230118T024051Z">
+        <seg>ダウンロードしたOmegaTパッケージに含まれるパラメータファイル(特にWindowsむけの&lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;、おおびmacOSパッケージの&lt;c1&gt;Configuration.properties&lt;/c1&gt;および&lt;c2&gt;Info.plist&lt;/c2&gt;ファイル)は上書きまたは削除される可能性があるため、これらのファイルを使用してOmegaTの起動パラメータを変更している場合は、アップグレードの前にバックアップを作成することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48293,6 +48473,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024517Z" creationid="Hiroshi Miura" creationdate="20221023T024256Z">
         <seg>過去に作成したプロジェクトや現在使用しているプロジェクトは、&lt;e0&gt;変更または削除されません&lt;/e0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023905Z" creationid="Hiroshi Miura" creationdate="20230118T023905Z">
+        <seg>過去に作成したプロジェクトや現在使用しているプロジェクトは、&lt;s0&gt;&lt;e1&gt;変更または削除されません&lt;/e1&gt;&lt;/s0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52781,6 +52969,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T110602Z" creationid="Hiroshi Miura" creationdate="20230116T110602Z">
         <seg>詳細は、 &lt;l3/&gt; のハウツー項を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025234Z" creationid="Hiroshi Miura" creationdate="20230118T025234Z">
+        <seg>例については、&lt;u0&gt;Oracleのドキュメント&lt;/u0&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58218,6 +58415,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;plugins&lt;/c0&gt; and &lt;c1&gt;scripts&lt;/c1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024109Z" creationid="Hiroshi Miura" creationdate="20230118T024109Z">
+        <seg>&lt;c0&gt;plugins&lt;/c0&gt;および&lt;c1&gt;scripts&lt;/c1&gt;フォルダは上書きされる可能性があるため、アップグレードする前にバックアップを作成することをお勧めします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124633Z" creationid="Hiroshi Miura" creationdate="20221022T055157Z">
@@ -59465,6 +59670,14 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The best way for developers to have a smooth experience when proposing such changes is to follow the guidelines defined on the &lt;a0&gt;Contributing to OmegaT page&lt;/a0&gt;, which is part of the larger &lt;a1&gt;Documentation for developers&lt;/a1&gt; OmegaT offers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024323Z" creationid="Hiroshi Miura" creationdate="20230118T024323Z">
+        <seg>このような変更を提案する際に、開発者のスムーズな対応を得るための最良の方法は、&lt;a0&gt;OmegaTへの貢献ページ&lt;/a0&gt;に定義されたガイドラインに従うことです。これは、OmegaTが提供する&lt;a1&gt;開発者向けドキュメント&lt;/a1&gt;の一部です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -59969,6 +60182,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default pattern.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024659Z" creationid="Hiroshi Miura" creationdate="20230118T024659Z">
+        <seg>デフォルトの構成例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default setting for a translation project is to create &lt;e0&gt;sentences&lt;/e0&gt; by splitting the &lt;e1&gt;paragraph blocks&lt;/e1&gt; found in the document.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T110909Z" creationid="Hiroshi Miura" creationdate="20230116T110909Z">
@@ -60078,6 +60299,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T103216Z">
         <seg>このダイアログは、訳文ファイル名の構成例編集に特化したエディターを持っているため、出力するファイル名のカスタマイズに便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog offers various options:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024646Z" creationid="Hiroshi Miura" creationdate="20230118T024646Z">
+        <seg>このダイアログでは、さまざまな設定ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60234,6 +60463,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20140203T005853Z">
         <seg>ファイルサイズが小さいため、ダウンロードが早く終わります。また、インストールに必要なハードディスク容量も少なくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The easiest way to modify it is to use the &lt;g0&gt;Edit Pattern&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024622Z" creationid="Hiroshi Miura" creationdate="20230118T024543Z">
+        <seg>最も簡単に変更する方法は、&lt;g0&gt;構成例を編集&lt;/g0&gt;ダイアログを使用することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63514,6 +63751,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024511Z" creationid="Hiroshi Miura" creationdate="20230118T024511Z">
+        <seg>ターゲットファイル名構成例は特別な構文を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
       </tuv>
@@ -65617,6 +65863,14 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a2&gt;Softpedia "100% FREE" guarantee&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024422Z" creationid="Hiroshi Miura" creationdate="20230118T024422Z">
+        <seg>これは、ユーザーの利益を保護するためであり、OmegaT が &lt;a2&gt;Softpedia "100% FREE" 保証&lt;/a2&gt;受賞を受けるという結果につながりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -67198,6 +67452,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T113020Z">
         <seg>機械翻訳サービスを利用するには、メニューから&lt;g0&gt;［設定］→［機械翻訳］&lt;/g0&gt;を選び、任意のサービスを有効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024442Z" creationid="Hiroshi Miura" creationdate="20230118T024442Z">
+        <seg>フィルターパターンを追加するには、&lt;g0&gt;追加...&lt;/g0&gt;をクリックして、同様のダイアログを開きます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72166,6 +72428,15 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T225725Z" creationid="Hiroshi Miura" creationdate="20230116T225725Z">
         <seg>OmegaTは、指定された言語コードに対応していれば、指定言語のユーザインターフェースで起動されてきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Using this pattern assigns the translated file the exact same name as the source file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024716Z" creationid="Hiroshi Miura" creationdate="20230118T024716Z">
+        <seg>このパターンを使用すると、訳文ファイルにソースファイルとまったく同じ名前が割り当てられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79184,6 +79455,22 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>encoding of the source file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025323Z" creationid="Hiroshi Miura" creationdate="20230118T025323Z">
+        <seg>原文ファイルのエンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>encoding of the target file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025336Z" creationid="Hiroshi Miura" creationdate="20230118T025336Z">
+        <seg>訳文ファイルのエンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>eng</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T210027Z">
@@ -79939,6 +80226,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>host name on the system</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025303Z" creationid="Hiroshi Miura" creationdate="20230118T025303Z">
+        <seg>システムのホスト名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>hr</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T205616Z">
@@ -80414,6 +80709,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130226T073225Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024912Z" creationid="Hiroshi Miura" creationdate="20230118T024912Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -82982,6 +83285,23 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name of the operating system</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025241Z" creationid="Hiroshi Miura" creationdate="20230118T025241Z">
+        <seg>オペレーティング・システムの名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>name of the source file, without the extension</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024723Z" creationid="Hiroshi Miura" creationdate="20230118T024723Z">
+        <seg>ソースファイルの名前(拡張子なし)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nau</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -83702,6 +84022,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>ori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>original file extension</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024734Z" creationid="Hiroshi Miura" creationdate="20230118T024734Z">
+        <seg>原文ファイルの拡張子</seg>
       </tuv>
     </tu>
     <tu>
@@ -84935,6 +85263,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>system time when the file was created</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024911Z" creationid="Hiroshi Miura" creationdate="20230118T024911Z">
+        <seg>ファイルが作成されたシステム時間</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>t</seg>
       </tuv>
@@ -84980,6 +85317,38 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T174955Z">
         <seg>target = project.getTranslationInfo(currsegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language code (xx)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024840Z" creationid="Hiroshi Miura" creationdate="20230118T024840Z">
+        <seg>訳文言語コード (xx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region (xx-YY)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024822Z" creationid="Hiroshi Miura" creationdate="20230118T024822Z">
+        <seg>訳文言語コード+地域コード (xx-YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region code (xx_YY)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024804Z" creationid="Hiroshi Miura" creationdate="20230118T024804Z">
+        <seg>訳文言語コード+地域コード (xx_YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target region code (YY)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024850Z" creationid="Hiroshi Miura" creationdate="20230118T024850Z">
+        <seg>訳文地域コード (YY)</seg>
       </tuv>
     </tu>
     <tu>
@@ -85795,6 +86164,14 @@ config-dir="path/to/new/configdir"</seg>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T131459Z" creationid="miurahr" creationdate="20221023T131459Z">
         <seg>user.language=fr
 config-dir="path/to/new/configdir"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user’s login name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025252Z" creationid="Hiroshi Miura" creationdate="20230118T025252Z">
+        <seg>ユーザーのログイン名</seg>
       </tuv>
     </tu>
     <tu>
