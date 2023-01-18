@@ -11355,6 +11355,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A value of 0 sets no limits.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031147Z" creationid="Hiroshi Miura" creationdate="20230118T031147Z">
+        <seg>0を設定すると、制限なしになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033416Z" creationid="miurahr" creationdate="20201101T033416Z">
@@ -12553,6 +12561,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T052926Z">
         <seg>パス区切り文字の「\」は、やはり「\\」のようにエスケープする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Aggregate tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031456Z" creationid="Hiroshi Miura" creationdate="20230118T031456Z">
+        <seg>タグの集約</seg>
       </tuv>
     </tu>
     <tu>
@@ -14498,6 +14515,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20140205T121729Z">
         <seg>それぞれのカーソル位置について、規則を適用できるかどうか、決められた順序で確認します。すなわち、カーソル位置の左側にあるテキスト全体が、&lt;e0&gt;前方の正規表現&lt;/e0&gt;に合致するかどうか。合致した場合はさらに、カーソル位置の右側にあるテキストが、&lt;e1&gt;後方の正規表現&lt;/e1&gt;&lt;e2&gt;&lt;/e2&gt;&lt;e3&gt;&lt;/e3&gt;に合致するかどうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>At loading, any paragraph matching the regular expression will be ignored and will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031809Z" creationid="Hiroshi Miura" creationdate="20230118T031809Z">
+        <seg>読み込み時には、正規表現に一致する段落は無視され、翻訳のために表示されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17438,6 +17464,14 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Choose here the way OmegaT creates paragraphs in your text files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031103Z" creationid="Hiroshi Miura" creationdate="20230118T031050Z">
+        <seg>ここを選択して、テキストファイルから段落に分割する方法を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Choose the appropriate settings</seg>
@@ -18318,6 +18352,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T133315Z">
         <seg>コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comments and sheet names.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031412Z" creationid="Hiroshi Miura" creationdate="20230118T031412Z">
+        <seg>コメントとシート名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20867,6 +20909,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Define the &lt;meta&gt; tag attribute values for which the associated "content" attribute will not be translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031912Z" creationid="Hiroshi Miura" creationdate="20230118T031912Z">
+        <seg>関連する「コンテンツ」属性が変換されない&lt;meta&gt;タグ属性値を定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Define the translation as being empty.</seg>
       </tuv>
@@ -21961,6 +22012,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T044109Z">
         <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Do not add quotation marks and separate the values with a comma.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031922Z" creationid="Hiroshi Miura" creationdate="20230118T031922Z">
+        <seg>引用文記号を追加したり、値をカンマで区切ったりしないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23581,6 +23641,15 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T143946Z" creationid="miurahr" creationdate="20221103T143946Z">
         <seg>［設定］→［保存と訳文ファイル生成］から有効化...&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Enable this option if soft-returns are intended to be paragraph starters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031618Z" creationid="Hiroshi Miura" creationdate="20230118T031618Z">
+        <seg>ソフトリターンが段落の開始を意図している場合は、この設定を有効にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25226,6 +25295,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221210T001315Z" creationid="miurahr" creationdate="20221210T001315Z">
         <seg>外部リンク(&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External links, charts, diagrams, drawings, and WordArt.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031448Z" creationid="Hiroshi Miura" creationdate="20230118T031448Z">
+        <seg>外部リンク、表、ダイアグラム、図、ワードアート</seg>
       </tuv>
     </tu>
     <tu>
@@ -32693,6 +32770,14 @@ double-click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs at loading (regular expression)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031812Z" creationid="Hiroshi Miura" creationdate="20230118T031756Z">
+        <seg>読み込み時に無視する段落(正規表現)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Ignored tags (attribute=value)</seg>
@@ -37443,6 +37528,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031113Z" creationid="Hiroshi Miura" creationdate="20230118T031109Z">
+        <seg>行の文字数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length in target files (0 = no limit)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T145143Z" creationid="miurahr" creationdate="20221103T145143Z">
@@ -39447,6 +39540,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximum line length</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031155Z" creationid="Hiroshi Miura" creationdate="20230118T031155Z">
+        <seg>最大行数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140320T035540Z">
@@ -41388,6 +41489,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224036Z" creationid="Hiroshi Miura" creationdate="20221124T224036Z">
         <seg>非表示の命令とテキスト(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031355Z" creationid="Hiroshi Miura" creationdate="20230118T031355Z">
+        <seg>非表示の命令文章、コメント、脚注、文末脚注、フッタ、重複するフォールバック文章、および文書プロジェクト設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55194,6 +55304,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Slide comments, slide masters, and slide layouts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031431Z" creationid="Hiroshi Miura" creationdate="20230118T031431Z">
+        <seg>スライドのコメント、スライドマスター、スライドレイアウト。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Slide la&amp;youts</seg>
@@ -56461,6 +56579,22 @@ https://support.microsoft.com/kb/901125/</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new paragraph on</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031719Z" creationid="Hiroshi Miura" creationdate="20230118T031719Z">
+        <seg>以下のタグで分節化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph on Word soft-returns</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031603Z" creationid="Hiroshi Miura" creationdate="20230118T031603Z">
+        <seg>ソフト改行（任意指定の行区切り）を段落区切りとみなす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T113636Z">
@@ -57721,6 +57855,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031523Z" creationid="Hiroshi Miura" creationdate="20230118T031523Z">
+        <seg>翻訳対象テキストを含まない連続するタグを１つのタグに集約します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tagwipe</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T143323Z" creationid="suzume" creationdate="20201122T143323Z">
@@ -57866,12 +58008,11 @@ and then start OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Target segment status</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221103T145341Z" creationid="miurahr" creationdate="20221103T145341Z">
-        <seg>対象分節の状況</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030947Z" creationid="miurahr" creationdate="20221103T145341Z">
+        <seg>訳文分節のstatus属性設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -58191,11 +58332,12 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Text files do not have generic paragraph markers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030820Z" creationid="Hiroshi Miura" creationdate="20230118T030820Z">
-        <seg>Text files do not have generic paragraph markers.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031002Z" creationid="Hiroshi Miura" creationdate="20230118T030820Z">
+        <seg>文章ファイルには、一般的な段落マーカーはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58547,6 +58689,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T124122Z">
         <seg>機械翻訳の使用を &lt;a0&gt;OmegaT&lt;/a0&gt; ユーザーに強要することは、ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031731Z" creationid="Hiroshi Miura" creationdate="20230118T031731Z">
+        <seg>HTML の &lt;br&gt; タグがある場所を段落とみなして分節化することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63203,6 +63353,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The selected attributes will appear as translatable segments in the &lt;g0&gt;Editor&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031712Z" creationid="Hiroshi Miura" creationdate="20230118T031712Z">
+        <seg>選択した属性を&lt;g0&gt;編集&lt;/g0&gt;ウィンドウで翻訳できる分節として表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T181400Z">
@@ -65273,6 +65431,15 @@ You, victim of one</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>They will appear as separate segments in the editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031343Z" creationid="Hiroshi Miura" creationdate="20230118T031343Z">
+        <seg>選んだ要素は、翻訳時に個別の分節として表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
@@ -66884,6 +67051,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141203T023903Z" creationid="Yu-Tang" creationdate="20141203T023903Z">
         <seg>チェックがある場合、&lt;u0&gt;双方向アルゴリズム制御文字&lt;/u0&gt;を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is convenient when dealing with HTML parts that only contain non translatable text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031857Z" creationid="Hiroshi Miura" creationdate="20230118T031857Z">
+        <seg>この設定は、HTMLの一部に翻訳不可能な文章のみの要素を含む場合に便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69275,6 +69450,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130116T100646Z">
         <seg>ファイルを翻訳する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following attributes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031628Z" creationid="Hiroshi Miura" creationdate="20230118T031628Z">
+        <seg>以下の属性を翻訳</seg>
       </tuv>
     </tu>
     <tu>
@@ -74032,6 +74215,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whitespace (i.e., spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031541Z" creationid="Hiroshi Miura" creationdate="20230118T031541Z">
+        <seg>チェックが入っていれば、空白文字（半角スペースや改行など）を保持します。たとえそれが文書中で意味が無い場合でも残します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whitespace - leading</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140604T144205Z">
@@ -75542,6 +75733,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T131342Z">
         <seg>これらは&lt;e1&gt;［設定］&lt;/e1&gt;メニューの&lt;e0&gt;［ファイルフィルター］&lt;/e0&gt;一覧で［テキストファイル］を選択し、［編集...］を押すと［フィルターの編集］一覧で確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose additional document elements to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031252Z" creationid="Hiroshi Miura" creationdate="20230118T031252Z">
+        <seg>追加して翻訳するXML要素を選ぶことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81463,8 +81662,8 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       <tuv lang="en">
         <seg>if checked, OmegaT changes the state of the XLIFF target part to "needs-review-translation" instead of "translated"</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030924Z" creationid="Hiroshi Miura" creationdate="20230118T030815Z">
-        <seg>チェックすると、XLIFFの"target"要素の"state"属性を「translated」ではなく「needs-review-translation」に変更します。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030952Z" creationid="Hiroshi Miura" creationdate="20230118T030815Z">
+        <seg>チェックすると、XLIFFの"target"要素の"status"属性を「translated」ではなく「needs-review-translation」に変更します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85269,6 +85468,24 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before breaking a long line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031121Z" creationid="Hiroshi Miura" creationdate="20230118T031111Z">
+        <seg>長い行を改行する前の最大文字数を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before cutting a line and ignoring the rest.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031213Z" creationid="Hiroshi Miura" creationdate="20230118T031213Z">
+        <seg>行を切断して残りを無視するまでの最大文字数を指定します。</seg>
       </tuv>
     </tu>
     <tu>
