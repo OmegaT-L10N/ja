@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_8fc1d0b40" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_c6bdc10de" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21539,6 +21539,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Development</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140630Z" creationid="Hiroshi Miura" creationdate="20230118T140630Z">
+        <seg>開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Development of OmegaT</seg>
       </tuv>
       <tuv lang="ja">
@@ -42220,6 +42228,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not all of the Okapi Framework file filters are included into the file filter plugin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140048Z" creationid="Hiroshi Miura" creationdate="20230118T140048Z">
+        <seg>Okapi Frameworkファイルフィルタのすべてが、プラグインに含まれているわけではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not assigned</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000809Z" creationid="Hiroshi Miura" creationdate="20221220T000809Z">
@@ -44560,6 +44576,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023924Z" creationid="Hiroshi Miura" creationdate="20230118T023924Z">
         <seg>OmegaTプロジェクトは、OmegaT内に格納&lt;s2&gt;&lt;e3&gt;されません&lt;/e3&gt;&lt;/s2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT provides developers with thorough documentation to create file filter plugins.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T232729Z" creationid="Hiroshi Miura" creationdate="20230118T232729Z">
+        <seg>OmegaT provides developers with thorough documentation to create file filter plugins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46954,6 +46978,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000851Z" creationid="Hiroshi Miura" creationdate="20221220T000851Z">
         <seg>さまざまな プラグインがオンラインで提供されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plugins for less common formats are listed on the OmegaT wiki.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140553Z" creationid="Hiroshi Miura" creationdate="20230118T140553Z">
+        <seg>あまり一般的でないフォーマット用の他のプラグインは、OmegaTのwikiにリストされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53358,6 +53390,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;above&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140130Z" creationid="Hiroshi Miura" creationdate="20230118T140130Z">
+        <seg>注意点は、&lt;l0&gt;上と同じ&lt;/l0&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;below&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003228Z" creationid="Hiroshi Miura" creationdate="20230117T002927Z">
@@ -53466,6 +53506,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Filters Included&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140103Z" creationid="Hiroshi Miura" creationdate="20230118T140103Z">
+        <seg>詳細については、&lt;u0&gt;利用可能フィルター&lt;/u0&gt; を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T235031Z" creationid="miurahr" creationdate="20201106T235031Z">
@@ -53494,6 +53542,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T154732Z">
         <seg>『SimpleDateFormat』の書式については、&lt;u0&gt;Oracle 技術文書&lt;/u0&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Plugins&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140622Z" creationid="Hiroshi Miura" creationdate="20230118T140622Z">
+        <seg>&lt;u0&gt;Plugins&lt;/u0&gt;を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57917,8 +57973,8 @@ and then start OmegaT.</seg>
       <tuv lang="en">
         <seg>Support other formats</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221023T134014Z" creationid="miurahr" creationdate="20221023T134014Z">
-        <seg>Support other formats</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T135938Z" creationid="miurahr" creationdate="20221023T134014Z">
+        <seg>他のファイル形式のサポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -59894,6 +59950,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;u0&gt;StaX&lt;/u0&gt; filters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140540Z" creationid="Hiroshi Miura" creationdate="20230118T140540Z">
+        <seg>The &lt;u0&gt;StaX&lt;/u0&gt; filters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T181136Z">
@@ -60240,6 +60304,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T014607Z" creationid="Hiroshi Miura" creationdate="20221022T014607Z">
         <seg>開き角括弧:  &lt;l0&gt;[&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Okapi Filters Plugin for OmegaT, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140005Z" creationid="Hiroshi Miura" creationdate="20230118T140005Z">
+        <seg>&lt;u0&gt;Okapi Framework&lt;/u0&gt;が提供するOkapi Filters for OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -74883,6 +74955,15 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>When installed, the plugin offers direct access to the added formats and also allows you to associate a custom filter parameters file created in Rainbow.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140117Z" creationid="Hiroshi Miura" creationdate="20230118T140117Z">
+        <seg>このプラグインをインストールすると、追加された形式に直接アクセスできます。また、フィルターで作成されたカスタムRainbowパラメータファイルを関連付けることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -81931,6 +82012,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://185.13.37.79:8003/index.php/p/stax-filters/downloads/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140131Z" creationid="Hiroshi Miura" creationdate="20230118T140131Z">
+        <seg>http://185.13.37.79:8003/index.php/p/stax-filters/downloads/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150418T010551Z" creationid="Yu-Tang" creationdate="20150418T010551Z">
@@ -82540,6 +82629,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140006Z" creationid="Hiroshi Miura" creationdate="20230118T140006Z">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T001734Z" creationid="Hiroshi Miura" creationdate="20230117T001734Z">
@@ -82650,6 +82747,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140433Z" creationid="suzume" creationdate="20201122T140433Z">
         <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/docs_devel/HowToCreateFilterPlugin.md</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T140634Z" creationid="Hiroshi Miura" creationdate="20230118T140634Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/docs_devel/HowToCreateFilterPlugin.md</seg>
       </tuv>
     </tu>
     <tu>
