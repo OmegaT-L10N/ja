@@ -2529,6 +2529,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Software that does this is called "machine translation".</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042800Z" creationid="Hiroshi Miura" creationdate="20230118T042750Z">
+        <seg>(これを行うソフトウェアは「機械翻訳」と呼ばれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T040312Z">
@@ -10487,6 +10495,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a translation memory application that works on Windows, macOS, Linux… It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042735Z" creationid="Hiroshi Miura" creationdate="20230118T042735Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; は、 Windows、 macOS、 Linuxで動作するフリーの翻訳メモリアプリケーションです。そして、プロ翻訳者向けのツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033058Z" creationid="miurahr" creationdate="20201101T033058Z">
@@ -11042,6 +11058,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T020958Z" creationid="Hiroshi Miura" creationdate="20221022T020958Z">
         <seg>CJK言語(&lt;u3&gt;Unicodeスクリプト&lt;/u3&gt;)の表意文字(&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;漢字&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042910Z" creationid="Hiroshi Miura" creationdate="20230118T042910Z">
+        <seg>&lt;a0&gt;フリーソフトウェアのより詳細な説明&lt;/a0&gt;は、Free Software Foundation のWebサイトにあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13270,6 +13294,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141202T073154Z">
         <seg>また CSV 形式にも対応しています（日本語訳註：こちらの文字エンコードは UTF-8 のみの対応です）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, consider testing &lt;a0&gt;nightly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043300Z" creationid="Hiroshi Miura" creationdate="20230118T043300Z">
+        <seg>また、さらに新しくて魅力的だが、バグが含まれている可能性のあるOmegaTの&lt;a0&gt;Nightlyビルド&lt;/a0&gt;をテストすることも検討してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18560,6 +18592,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T030212Z">
         <seg>他の翻訳メモリプログラムとの互換性（TMX、TTX、TXML、XLIFF、SDLXLIFF）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043200Z" creationid="Hiroshi Miura" creationdate="20230118T043200Z">
+        <seg>TMX, TTX, TXML, XLIFF, SDLXLIFFといったファイル交換形式をつうじた他の翻訳メモリプログラムとの互換性</seg>
       </tuv>
     </tu>
     <tu>
@@ -25210,6 +25250,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042704Z" creationid="Hiroshi Miura" creationdate="20230118T042614Z">
+        <seg>拡張子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115130Z" creationid="Hiroshi Miura" creationdate="20220830T115130Z">
@@ -27392,6 +27440,15 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121113T123045Z">
         <seg>パスワードを暗号化しないで保存する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Format</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042617Z" creationid="Hiroshi Miura" creationdate="20230118T042613Z">
+        <seg>ファイル形式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32697,6 +32754,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you're a programmer, and you happen to know Java, please check the &lt;a0&gt;OmegaT contribution guide&lt;/a0&gt;, or its document source text in the &lt;a1&gt;source code&lt;/a1&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043911Z" creationid="Hiroshi Miura" creationdate="20230118T043911Z">
+        <seg>プログラマーでJavaをご存知の方は、&lt;a0&gt;OmegaTコントリビューション・ガイド&lt;/a0&gt;、または/docs_develの&lt;a1&gt;ソース・コード&lt;/a1&gt;にある文書ソースの文章を参照して、貢献方法を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T202332Z">
@@ -34923,6 +34988,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043058Z" creationid="Hiroshi Miura" creationdate="20230118T043058Z">
+        <seg>Hunspellの辞書を使用する統合的なスペルチェッカー(WikipediaやMozilla FireFoxなどの他のプログラムと同じ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T080738Z">
@@ -34959,6 +35032,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130520T124924Z">
         <seg>Google Translate および Microsoft Translator 機械翻訳インターフェース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interface to machine translation/neural machine translation software/Web services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043226Z" creationid="Hiroshi Miura" creationdate="20230118T043226Z">
+        <seg>機械翻訳/ニューラル機械翻訳プログラム/ウェブサービスとの接続</seg>
       </tuv>
     </tu>
     <tu>
@@ -39977,6 +40058,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042945Z" creationid="Hiroshi Miura" creationdate="20230118T042945Z">
+        <seg>Microsoft Word/Excel/Powerpoint (2007以降)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130531T132541Z">
@@ -43272,6 +43361,14 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT can interface to some machine translation programs or Internet services)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042815Z" creationid="Hiroshi Miura" creationdate="20230118T042757Z">
+        <seg>OmegaTは一部の機械翻訳プログラムまたはインターネットサービスに接続して利用できます)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>OmegaT can tell you when a new version is available.</seg>
@@ -43471,6 +43568,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130515T082951Z">
         <seg>初心者向け手引書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T044033Z" creationid="Hiroshi Miura" creationdate="20230118T044016Z">
+        <seg>初心者向け手引書(2020年日本語版)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T044029Z" creationid="Hiroshi Miura" creationdate="20230118T043942Z">
+        <seg>初心者向け手引書(2020年英語版)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44301,6 +44414,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233252Z" creationid="miurahr" creationdate="20201106T233252Z">
         <seg>OmegaTチームプロジェクトは、最初にサーバー上に&lt;l0&gt;セットアップ&lt;/l0&gt;する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T044100Z" creationid="Hiroshi Miura" creationdate="20230118T044100Z">
+        <seg>OmegaT - CAT パワーツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools(in Japanese)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T044237Z" creationid="Hiroshi Miura" creationdate="20230118T044237Z">
+        <seg>OmegaT - CAT パワーツール(日本語版)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45944,6 +46073,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T174709Z">
         <seg>OpenDocument フィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043009Z" creationid="Hiroshi Miura" creationdate="20230118T043009Z">
+        <seg>OpenDocument Format (LibreOffice, Apache OpenOfficeのネイティブのファイル形式)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57727,6 +57864,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TSV</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043924Z" creationid="Hiroshi Miura" creationdate="20230118T043924Z">
+        <seg>TSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TaaS</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T053944Z" creationid="suzume" creationdate="20200119T053944Z">
@@ -58811,6 +58956,15 @@ The scope of a text replacement is the target segments of the project, whether t
         <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20150101T004203Z">
+        <seg>つまり、ユーザーが自由にダウンロードでき、わずかな制約の下で使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>That means that users like you can download and use it with no restrictions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042825Z" creationid="Hiroshi Miura" creationdate="20230118T042825Z">
         <seg>つまり、ユーザーが自由にダウンロードでき、わずかな制約の下で使えます。</seg>
       </tuv>
     </tu>
@@ -70990,6 +71144,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unicode support: can be used with various alphabets and scripts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043044Z" creationid="Hiroshi Miura" creationdate="20230118T043044Z">
+        <seg>Unicodeサポート：さまざまな文字を使用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uninstalling failed</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T135010Z">
@@ -72929,11 +73091,12 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>User-created files that use only latin characters may be recognized and treated as ISO-8859-1 if it does not contain non-ASCII characters or other characters interpreted as UTF-8.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042557Z" creationid="Hiroshi Miura" creationdate="20230118T042557Z">
-        <seg>欧文文字がふくまれたユーザーが作成したファイルUser-created files that use only latin characters may be recognized and treated as ISO-8859-1 if it does not contain non-ASCII characters or other characters interpreted as UTF-8.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042610Z" creationid="Hiroshi Miura" creationdate="20230118T042557Z">
+        <seg>ラテン文字のみを使用するユーザーで作成されたファイルは、非アスキー文字またはUTF-8として解釈されるその他の文字を含まない場合、ISO-8859-1として認識され、処理される場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75573,6 +75736,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T142407Z" creationid="miurahr" creationdate="20201101T142407Z">
         <seg>既に最新のバージョンを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042855Z" creationid="Hiroshi Miura" creationdate="20230118T042855Z">
+        <seg>ユーザーは、自由にコピーし、他の人々に配布することもでき、さらに自分のニーズにあわせて改変することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78849,6 +79020,22 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T204232Z">
         <seg>bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T044116Z" creationid="Hiroshi Miura" creationdate="20230118T044116Z">
+        <seg>三浦広志 著</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Susan Welsh, Marc Prior and Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T044002Z" creationid="Hiroshi Miura" creationdate="20230118T044002Z">
+        <seg>Susan Welsh、Marc Prior, 三浦 広志 著</seg>
       </tuv>
     </tu>
     <tu>
@@ -87874,6 +88061,15 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T055103Z" creationid="suzume" creationdate="20200119T055103Z">
         <seg>「{0}」（{1}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043014Z" creationid="Hiroshi Miura" creationdate="20230118T043014Z">
+        <seg>…その他 30 ほどのファイル形式</seg>
       </tuv>
     </tu>
     <tu>
