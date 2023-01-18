@@ -15860,6 +15860,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T234545Z" creationid="Hiroshi Miura" creationdate="20230117T234527Z">
+        <seg>デフォルトでは、訳文ファイルのエンコーディングは、原文ファイルと同じになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
@@ -26496,6 +26505,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T123826Z" creationid="miurahr" creationdate="20221023T123617Z">
         <seg>たとえば、使用可能なメモリー量を変更するには、 &lt;l1&gt;&lt;!--&lt;/l1&gt; と &lt;l2&gt;--&gt;&lt;/l2&gt;を削除して、行&lt;l0&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l0&gt;のコメントを解除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T234512Z" creationid="Hiroshi Miura" creationdate="20230117T234512Z">
+        <seg>たとえばテキストフィルターを readme ファイル（&lt;l1&gt;readme, read.me&lt;/l1&gt; や &lt;l2&gt;readme.txt&lt;/l2&gt;）にも対応させたい場合は、ファイル名構成例に &lt;l0&gt;read*&lt;/l0&gt; を指定してください。（日本語訳注：実際にはワイルドカード文字と衝突しない範囲で、正規表現も使用できます。たとえばファイル名の末尾に数字のついた、拡張子 .foo のファイルを扱いたい場合は、&lt;l5&gt;*\d.foo&lt;/l5&gt; のような指定が可能です。正規表現の詳細は、http://docs.oracle.com/javase/jp/6/api/java/util/regex/Pattern.html を参照してください）</seg>
       </tuv>
     </tu>
     <tu>
@@ -39919,6 +39936,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most file formats allow various possible encodings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T234539Z" creationid="Hiroshi Miura" creationdate="20230117T234526Z">
+        <seg>ほとんどのファイル形式では、さまざまな文字コードのエンコーディングが利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most functions are also available via keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T153811Z">
@@ -43189,6 +43214,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T234653Z" creationid="Hiroshi Miura" creationdate="20230117T234653Z">
+        <seg>いくつかのファイル形式（例えばJava properties ）に対しては、その形式に必須のエンコーディングを設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130520T141956Z">
@@ -43682,8 +43715,17 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130312T034505Z">
-        <seg>テキストファイルには、OS デフォルトのエンコーディング（たとえば日本語版の Windows OS では、シフト JIS 固定）を使用します</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T021241Z">
+        <seg>テキストファイルには、起動オプションで変更されていなければ、OS デフォルトのエンコーディング（たとえば新規インストールの日本語版の Windows 10/11 OSではUTF-8エンコーディグのUnicode、たとえばWindows8.1からアップデートしたWindows10ではCP932エンコーディングのSJIS日本語コード）を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT uses the encoding declaration in the source file, if present, to identify the encoding (HTML or XML based files).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T234635Z" creationid="Hiroshi Miura" creationdate="20230117T234635Z">
+        <seg>原文ファイルにエンコーディング宣言があれば、それに従います（HTML ファイル、XML ベースのファイルの場合）</seg>
       </tuv>
     </tu>
     <tu>
@@ -53520,6 +53562,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T234616Z" creationid="Hiroshi Miura" creationdate="20230117T234616Z">
+        <seg>&lt;g0&gt;&lt;auto&gt;&lt;/g0&gt;設定を選択すると、次の基準に基づいて、OmegaTが、エンコーディングを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T033840Z">
@@ -55265,6 +55315,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source and translated file encoding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T234518Z" creationid="Hiroshi Miura" creationdate="20230117T234518Z">
+        <seg>原文ファイルと訳文ファイルのエンコーディング</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Source code</seg>
       </tuv>
@@ -55338,6 +55397,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224255Z" creationid="Hiroshi Miura" creationdate="20221124T224255Z">
         <seg>原文ファイル名の構成例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T234357Z" creationid="Hiroshi Miura" creationdate="20230117T234357Z">
+        <seg>原文ファイル名構成例には、ワイルドカード文字を使用できます。&lt;l0&gt;*&lt;/l0&gt;文字は0また1文字以上の文字に、&lt;l1&gt;?&lt;/l1&gt;は厳密に1文字にマッチします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62859,6 +62926,15 @@ an access to the hard drive of the computer.</seg>
         <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T053010Z" creationid="miurahr" creationdate="20201101T053010Z">
+        <seg>原文ファイルと訳文ファイルのエンコーディングを指定する項目では、対応したすべてのエンコーディングをドロップダウンメニューから選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T234553Z" creationid="Hiroshi Miura" creationdate="20230117T234553Z">
         <seg>原文ファイルと訳文ファイルのエンコーディングを指定する項目では、対応したすべてのエンコーディングをドロップダウンメニューから選択できます。</seg>
       </tuv>
     </tu>
