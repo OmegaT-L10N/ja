@@ -13048,6 +13048,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035220Z" creationid="Hiroshi Miura" creationdate="20230118T035220Z">
+        <seg>原文が空の分節を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow local external search commands</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000714Z" creationid="Hiroshi Miura" creationdate="20221220T000714Z">
@@ -15441,6 +15449,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T204157Z">
         <seg>ビスラマ語（Bislama）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035435Z" creationid="Hiroshi Miura" creationdate="20230118T035435Z">
+        <seg>空白の原文分節は、原文言語には存在しないが訳文言語で必要な要素のプレースホルダとして機能することがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18414,8 +18430,8 @@ documentation.</seg>
       <tuv lang="en">
         <seg>Comments within an HTML file are generally addressed to developers.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034951Z" creationid="Hiroshi Miura" creationdate="20230118T034951Z">
-        <seg>Comments within an HTML file are generally addressed to developers.</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035017Z" creationid="Hiroshi Miura" creationdate="20230118T034951Z">
+        <seg>HTMLファイル中のコメントは、通常開発者むけのものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28987,6 +29003,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes create compatibility issues.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035132Z" creationid="Hiroshi Miura" creationdate="20230118T035132Z">
+        <seg>翻訳されたファイルに未翻訳コンテンツが含まれていると、互換性の問題が発生することがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -32728,6 +32752,14 @@ double-click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Ignore PO header</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035508Z" creationid="Hiroshi Miura" creationdate="20230118T035508Z">
+        <seg>PO ヘッダーを無視</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Ignore PO header(&amp;S)</seg>
@@ -36086,6 +36118,23 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035934Z" creationid="Hiroshi Miura" creationdate="20230118T035911Z">
+        <seg>Java 8はISO-8859-1エンコーディングを必要とし、その文字セット以外の文字にはユニコードのエスケープシーケンスによる文字列を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Java 9 and above requires UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035918Z" creationid="Hiroshi Miura" creationdate="20230118T035918Z">
+        <seg>Java 9以降では、UTF-8エンコーディングが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>下記公式文書にて「XML プロパティードキュメント」と訳出されているため、その前半部分に準拠しておきます。
 http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       <tuv lang="en">
@@ -36111,6 +36160,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140224T172242Z">
         <seg>Java リソースバンドル フィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Resource bundle</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035825Z" creationid="Hiroshi Miura" creationdate="20230118T035813Z">
+        <seg>Java リソースバンドル</seg>
       </tuv>
     </tu>
     <tu>
@@ -36401,6 +36458,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T145157Z" creationid="miurahr" creationdate="20221103T145157Z">
         <seg>ユニコードのリテラル表記（\uXXXX）をエスケープ解除しない(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Unicode literals (\\uXXXX)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035952Z" creationid="Hiroshi Miura" creationdate="20230118T035952Z">
+        <seg>ユニコードのリテラル表記（\uXXXX）をエスケープ解除しない</seg>
       </tuv>
     </tu>
     <tu>
@@ -43000,6 +43065,14 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT always reproduces the source contents when a segment is not provided.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035319Z" creationid="Hiroshi Miura" creationdate="20230118T035306Z">
+        <seg>訳文の分節が提供されていない場合、常に原文のコンテンツを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>OmegaT assigns shortcuts to most of the functions available in the &lt;l0/&gt;, &lt;l1/&gt;, and &lt;l2/&gt; menus and to a number of functions in the Editor window.</seg>
@@ -46438,6 +46511,14 @@ install the Oracle JRE on your own.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Override the plural specification in the header and use the target language default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035545Z" creationid="Hiroshi Miura" creationdate="20230118T035545Z">
+        <seg>PO ファイルのヘッダーにある複数形指定を、訳文言語に合わせて自動変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T031740Z" creationid="suzume" creationdate="20200119T031740Z">
@@ -46554,6 +46635,22 @@ install the Oracle JRE on your own.</seg>
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120304T092421Z">
         <seg>PO ファイル（*.po）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as an ID code, use &lt;l1&gt;msgstr&lt;/l1&gt; as the source container and expect the translation to overwrite &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035808Z" creationid="Hiroshi Miura" creationdate="20230118T035808Z">
+        <seg>PO ファイルは、&lt;l0&gt;msgid&lt;/l0&gt;をIDコードとして使用し、&lt;l1&gt;msgstr&lt;/l1&gt;を原文の場所と解釈して、&lt;l2&gt;msgstr&lt;/l2&gt;に訳文を上書きします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035639Z" creationid="Hiroshi Miura" creationdate="20230118T035639Z">
+        <seg>PO ファイルは、&lt;l0&gt;msgid&lt;/l0&gt;を使用した原文と、&lt;l1&gt;msgstr&lt;/l1&gt;に格納された訳文の両方を保持できるファイル形式です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50209,6 +50306,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T151553Z">
         <seg>訳文を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035112Z" creationid="Hiroshi Miura" creationdate="20230118T035112Z">
+        <seg>未翻訳分節を訳文ファイルに出力しない</seg>
       </tuv>
     </tu>
     <tu>
@@ -55511,6 +55616,15 @@ The scope of a search is by default the project and can be set to be any files l
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>Some applications require some Unicode literals to be kept.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T040006Z" creationid="Hiroshi Miura" creationdate="20230118T040006Z">
+        <seg>アプリケーションによっては、一部のUnicodeリテラルを保持する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>Some dictionary drivers provided as plugins do not support this feature.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T153232Z" creationid="miurahr" creationdate="20221222T153232Z">
@@ -58433,6 +58547,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035102Z" creationid="Hiroshi Miura" creationdate="20230118T034953Z">
+        <seg>HTMLのコメント中のテキスト ( &lt;l0&gt;&lt;!--&lt;/l0&gt; と &lt;l1&gt;--&gt;&lt;/l1&gt;の間)は、訳文ファイルにコピーされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in source segment that matches is shown in italic.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T183352Z">
@@ -59611,6 +59733,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T050935Z" creationid="miurahr" creationdate="20201101T050935Z">
         <seg>この設定にチェックを入れると、PO ヘッダーを翻訳対象外とみなして、原文のままにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO header will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035522Z" creationid="Hiroshi Miura" creationdate="20230118T035522Z">
+        <seg>POヘッダーは、翻訳用には表示されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61105,6 +61235,22 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130520T221721Z">
         <seg>当サイトを地域化しようとする人の便宜のために、当サイトのファイルをパッケージ化したものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035859Z" creationid="Hiroshi Miura" creationdate="20230118T035815Z">
+        <seg>デフォルトで、Java の MessageFormat パターン（{0} など）をチェックする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks printf variables ('%s', etc.) by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035211Z" creationid="Hiroshi Miura" creationdate="20230118T035154Z">
+        <seg>フィルターはデフォルトで、printf変数('%s'など)をチェックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67105,6 +67251,15 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This option allows for that.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T040015Z" creationid="Hiroshi Miura" creationdate="20230118T040015Z">
+        <seg>この設定ではそれが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This option allows the tag validation in a batch mode.</seg>
       </tuv>
@@ -67151,6 +67306,15 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141203T023903Z" creationid="Yu-Tang" creationdate="20141203T023903Z">
         <seg>チェックがある場合、&lt;u0&gt;双方向アルゴリズム制御文字&lt;/u0&gt;を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>This option forces Java 8 compatibility.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035942Z" creationid="Hiroshi Miura" creationdate="20230118T035942Z">
+        <seg>この設定はJava 8との互換性を強制します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69547,6 +69711,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate blank source segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035358Z" creationid="Hiroshi Miura" creationdate="20230118T035358Z">
+        <seg>原文が空の分節を翻訳する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate currencies representation according to source and target locale.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140323T050230Z">
@@ -69575,6 +69747,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T113153Z">
         <seg>以下の属性を翻訳：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following elements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T040017Z" creationid="Hiroshi Miura" creationdate="20230118T040017Z">
+        <seg>Translate the following elements</seg>
       </tuv>
     </tu>
     <tu>
@@ -72255,6 +72435,22 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T131238Z" creationid="miurahr" creationdate="20221023T131238Z">
         <seg>この引数を指定すると、チームプロジェクトを開いても同期しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to leave a non translated segment blank.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035352Z" creationid="Hiroshi Miura" creationdate="20230118T035309Z">
+        <seg>未翻訳の分節を空白のままにするには、この設定を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to provide a translation based on the associated comments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035503Z" creationid="Hiroshi Miura" creationdate="20230118T035503Z">
+        <seg>この設定を使用すると、関連付けられたコメントに基づいて訳文を生成します。</seg>
       </tuv>
     </tu>
     <tu>
