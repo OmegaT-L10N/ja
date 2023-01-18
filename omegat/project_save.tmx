@@ -6826,6 +6826,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Keep&lt;/g0&gt;: The segment pairs in rows that have this box checked are saved to the translation memory file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T070322Z" creationid="Hiroshi Miura" creationdate="20230118T070322Z">
+        <seg>&lt;g0&gt;保持&lt;/g0&gt;:このボックスがオンになっている行の分節ペアは、翻訳メモリファイルに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
@@ -6943,6 +6952,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220507T032323Z" creationid="miurahr" creationdate="20220507T032323Z">
         <seg>&lt;g0&gt;以下の正規表現に一致する文字列を翻訳しない&lt;/g0&gt;：指定した正規表現に一致するテキストは、翻訳対象とせずスキップすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Source&lt;/g0&gt;: The segments from the original text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082011Z" creationid="Hiroshi Miura" creationdate="20230118T082011Z">
+        <seg>&lt;g0&gt;原文&lt;/g0&gt;:原文からの分節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12494,6 +12511,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220507T032926Z" creationid="miurahr" creationdate="20220507T032926Z">
         <seg>原文ファイルを論理的な区切りで分節化した後、OmegaTはさらにそれらを文単位で分節化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After selecting the language and files, click &lt;g0&gt;OK&lt;/g0&gt; button to bring up the &lt;g1&gt;Align&lt;/g1&gt; window, which shows the results of the automatic alignment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T070258Z" creationid="Hiroshi Miura" creationdate="20230118T070258Z">
+        <seg>言語とファイルを選択した後、&lt;g0&gt;確定&lt;/g0&gt;ボタンをクリックして&lt;g1&gt;整合&lt;/g1&gt;ウィンドウを表示すると、自動整合の結果が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62661,6 +62686,15 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The main part of the window is divided into three columns:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T070312Z" creationid="Hiroshi Miura" creationdate="20230118T070312Z">
+        <seg>ウィンドウの主要部分は3つの柱に分かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The main project folder contains 3 tmx files, &lt;f0&gt;project_name-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;project_name-level1.tmx&lt;/f1&gt; and &lt;f2&gt;project_name-level2.tmx&lt;/f2&gt; (project_name being the name of your project).</seg>
       </tuv>
@@ -71284,6 +71318,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T012000Z" creationid="Yu-Tang" creationdate="20141103T175843Z">
         <seg>編集作業中にタグの破損（たとえば部分的な削除）を防ぐには、この選択肢のチェックを外しておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unchecked rows are discarded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T070424Z" creationid="Hiroshi Miura" creationdate="20230118T070424Z">
+        <seg>チェックのない行は削除されます。</seg>
       </tuv>
     </tu>
     <tu>
