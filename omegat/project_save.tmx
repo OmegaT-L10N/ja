@@ -13152,6 +13152,14 @@ OmegaT.exe.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;c0&gt;linux-install.sh&lt;/c0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T022958Z" creationid="Hiroshi Miura" creationdate="20230118T022958Z">
+        <seg>使用可能なファイルからOmegaTを直接実行することもできますが、そこにある&lt;c0&gt;linux-install.sh&lt;/c0&gt;スクリプトを実行して、OmegaTをより適切な場所にインストールすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
@@ -19076,6 +19084,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;c3&gt;Applications&lt;/c3&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023535Z" creationid="Hiroshi Miura" creationdate="20230118T023535Z">
+        <seg>このフォルダーを適切な場所（&lt;c3&gt;Applications&lt;/c3&gt;フォルダなど）へコピーしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023251Z" creationid="Hiroshi Miura" creationdate="20221023T023251Z">
@@ -22413,6 +22429,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Download the &lt;s0&gt; &lt;e1&gt;Cross-platform without JRE&lt;/e1&gt; &lt;/s0&gt; version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023627Z" creationid="Hiroshi Miura" creationdate="20230118T023627Z">
+        <seg>&lt;s0&gt;&lt;e1&gt;クロスプラットフォーム(JRE無し)&lt;/e1&gt;&lt;/s0&gt;バージョンをダウンロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Download the OmegaT project from the URL specified in &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;, and load it.</seg>
@@ -22573,6 +22597,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T022958Z" creationid="Hiroshi Miura" creationdate="20221023T022958Z">
         <seg>OmegaTチームはOmegaTチームはEclipse FoundationのAdoptium Projectが提供するJavaランタイムEclipse Temurinを推奨していますが、Java 8互換のランタイム環境であればどれでも動作するはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Java runtime Eclipse Temurin provided by the Eclipse Foundation's Adoptium Project, but any Java {{site.data.versions.standard.java_version}} compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T022923Z" creationid="Hiroshi Miura" creationdate="20230118T022923Z">
+        <seg>OmegaTチームはOmegaTチームはEclipse FoundationのAdoptium Projectが提供するJavaランタイムEclipse Temurinを推奨していますが、Java {{site.data.versions.standard.java_version}} 互換のランタイム環境であればどれでも動作するはずです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24174,6 +24206,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T134013Z">
         <seg>イベント：プロジェクトの変更 - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eventually, drag and drop &lt;c0&gt;OmegaT.app&lt;/c0&gt; onto the Dock to easily access it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023545Z" creationid="Hiroshi Miura" creationdate="20230118T023545Z">
+        <seg>最終的には、&lt;c0&gt;OmegaT.app&lt;/c0&gt; ファイルをドックへドラッグ＆ドロップして、簡単にアクセスできるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29425,6 +29465,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023814Z" creationid="Hiroshi Miura" creationdate="20230118T023814Z">
+        <seg>IBM は Linux PowerPC 向けに JRE を提供しています：&lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T043448Z" creationid="miurahr" creationdate="20201115T043448Z">
@@ -30882,6 +30930,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T085338Z" creationid="miurahr" creationdate="20221105T085338Z">
         <seg>ファイル中にエンコーディング宣言がある場合、以下の設定は反映されず、その宣言が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; and sets it as the default version (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023107Z" creationid="Hiroshi Miura" creationdate="20230118T023107Z">
+        <seg>存在しない場合は、&lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt;にプログラムをインストールし、デフォルトバージョンとして設定します(&lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44017,6 +44073,22 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} and later also support Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T022857Z" creationid="Hiroshi Miura" creationdate="20230118T022857Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} 以降では、すべてのプラットフォームでJava 11 Runtime Environmentもサポートしています。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T022726Z" creationid="Hiroshi Miura" creationdate="20230118T022726Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} の実行には、Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T043911Z">
@@ -44115,6 +44187,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024252Z" creationid="Hiroshi Miura" creationdate="20221023T024252Z">
         <seg>OmegaTの環境設定は構成フォルダに格納され、新しいバージョンによって変更されることは&lt;e0&gt;ありません&lt;/e0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023846Z" creationid="Hiroshi Miura" creationdate="20230118T023846Z">
+        <seg>OmegaTの環境設定は構成フォルダに格納され、新しいバージョンによって変更されることは&lt;s0&gt;&lt;e1&gt;ありません&lt;/e1&gt;&lt;/s0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46046,6 +46126,14 @@ install the Oracle JRE on your own.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T022455Z" creationid="Hiroshi Miura" creationdate="20221023T022455Z">
         <seg>Javaを含まないパッケージは、システム全体にインストールされたJava 8 Runtime Environmentに依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T022757Z" creationid="Hiroshi Miura" creationdate="20230118T022757Z">
+        <seg>Javaを含まないパッケージは、システム全体にインストールされたJava  {{site.data.versions.standard.java_version}} Runtime Environmentに依存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50911,6 +50999,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151115T180305Z" creationid="Yu-Tang" creationdate="20151115T180305Z">
         <seg>Java {0} ({1}-bit) 上で実行中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;c0&gt;sudo&lt;/c0&gt; password.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023011Z" creationid="Hiroshi Miura" creationdate="20230118T023011Z">
+        <seg>スクリプトを実行するには、&lt;c0&gt;sudo&lt;/c0&gt;パスワードを入力する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55997,6 +56093,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T022636Z" creationid="Hiroshi Miura" creationdate="20230118T022636Z">
+        <seg>通常版: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T024037Z" creationid="Yu-Tang" creationdate="20141126T041522Z">
@@ -58556,6 +58660,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023726Z" creationid="Hiroshi Miura" creationdate="20230118T023726Z">
+        <seg>Eclipse Foundationは、Webサイト&lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;で、多くのシステム用のOpenJDK Runtime Environments JREを提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;u0/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023426Z" creationid="Hiroshi Miura" creationdate="20221023T023426Z">
@@ -59409,6 +59521,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060742Z" creationid="miurahr" creationdate="20201115T060742Z">
         <seg>変更が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;a0&gt;changes.txt&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023829Z" creationid="Hiroshi Miura" creationdate="20230118T023829Z">
+        <seg>あなたのバージョンから最新バージョンへの変更は、開発サイトの&lt;a0&gt;changes.txt&lt;/a0&gt;ファイルに文書化されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60340,6 +60460,14 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T022701Z" creationid="Hiroshi Miura" creationdate="20230118T022701Z">
+        <seg>ファイルは&lt;a0&gt;https://omegat.org&lt;/a0&gt;から直接ダウンロードできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>The files are downloadable directly from &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
@@ -60446,6 +60574,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T165426Z">
         <seg>フォルダーには２つのファイルが含まれています。index.html と &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app&lt;/e3&gt; です。このフォルダーを適切な場所（アプリケーションフォルダなど）へコピーしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder contains two files: &lt;c1&gt;index.html&lt;/c1&gt; (the user guide index) and &lt;c2&gt;OmegaT.app&lt;/c2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023522Z" creationid="Hiroshi Miura" creationdate="20230118T023522Z">
+        <seg>このフォルダには、&lt;c1&gt;index.html&lt;/c1&gt;(取扱説明書のインデックス)と&lt;c2&gt;OmegaT.app&lt;/c2&gt;(アプリケーション)の2つのファイルが含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60931,6 +61067,14 @@ in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061901Z" creationid="miurahr" creationdate="20201101T061901Z">
         <seg>インストーラーは、スタートメニュー、デスクトップ、およびクイック起動領域にショートカットを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;a0&gt;https://omegat.org&lt;/a0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T022946Z" creationid="Hiroshi Miura" creationdate="20230118T022946Z">
+        <seg>ここに記載されている手順は、&lt;a0&gt;https://omegat.org&lt;/a0&gt;のサイトからパッケージをダウンロードする人に適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62534,6 +62678,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T151727Z">
         <seg>スクリプト {0} を実行中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023034Z" creationid="Hiroshi Miura" creationdate="20230118T023034Z">
+        <seg>このスクリプトは、&lt;c0&gt;/opt/omegat/&lt;/c0&gt;にある同じバージョンのOmegaTの既存のインストールをチェックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65254,6 +65406,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder called &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023120Z" creationid="Hiroshi Miura" creationdate="20230118T023120Z">
+        <seg>&lt;c0&gt;OmegaT&lt;/c0&gt; フォルダーが作成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates a folder called &lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; &lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T164820Z">
@@ -65730,6 +65890,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T023353Z" creationid="Hiroshi Miura" creationdate="20221023T023353Z">
         <seg>この情報は、Java 8 Runtime Environmentと互換性のあるJavaバージョンを持つすべてのシステムに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to all systems that have a Java version compatible with Java {{site.data.versions.standard.java_version}} Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023607Z" creationid="Hiroshi Miura" creationdate="20230118T023607Z">
+        <seg>この情報は、Java  {{site.data.versions.standard.java_version}}  Runtime Environmentと互換性のあるJavaバージョンを持つすべてのシステムに適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74573,6 +74741,14 @@ Spotlight search field.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130515T082802Z">
         <seg>取扱説明書は、OmegaT を起動していないときでも参照することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also change this later by editing &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T022935Z" creationid="Hiroshi Miura" creationdate="20230118T022935Z">
+        <seg>&lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;を編集して、後でこれを変更することもできます。</seg>
       </tuv>
     </tu>
     <tu>
