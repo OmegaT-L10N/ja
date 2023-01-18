@@ -6819,6 +6819,30 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Forward-Backward&lt;/g0&gt;: An alternative algorithm that can be used to align the documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082645Z" creationid="Hiroshi Miura" creationdate="20230118T082645Z">
+        <seg>&lt;g0&gt;Forward-Backward&lt;/g0&gt;: 代替のアルゴリズムで、文書の整合に利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Heapwise&lt;/g0&gt;: This mode compares the documents globally.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082353Z" creationid="Hiroshi Miura" creationdate="20230118T082330Z">
+        <seg>&lt;g0&gt;Heapwise&lt;/g0&gt;モードでは、文書のテキストを全体で評価します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;ID&lt;/g0&gt;: This mode applies to files consisting of &lt;l1&gt;key = value&lt;/l1&gt; entries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082502Z" creationid="Hiroshi Miura" creationdate="20230118T082502Z">
+        <seg>&lt;g0&gt;ID&lt;/g0&gt;: このモードでは、 &lt;l1&gt;key = value&lt;/l1&gt;のエントリーからなるファイルに適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220505T060430Z" creationid="miurahr" creationdate="20220505T060430Z">
@@ -6856,6 +6880,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210724Z" creationid="Hiroshi Miura" creationdate="20230113T210724Z">
         <seg>&lt;g0&gt;開く...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Parsewise&lt;/g0&gt;: This mode compares the documents segment by segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082357Z" creationid="Hiroshi Miura" creationdate="20230118T082341Z">
+        <seg>&lt;g1&gt;Parsewise&lt;/g1&gt;モードでは、分節ごとに評価します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6958,8 +6990,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;g0&gt;Source&lt;/g0&gt;: The segments from the original text.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082011Z" creationid="Hiroshi Miura" creationdate="20230118T082011Z">
-        <seg>&lt;g0&gt;原文&lt;/g0&gt;:原文からの分節。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082034Z" creationid="Hiroshi Miura" creationdate="20230118T082011Z">
+        <seg>&lt;g0&gt;原文&lt;/g0&gt;:原文テキストからの分節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,6 +7016,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220507T032333Z" creationid="miurahr" creationdate="20220507T032303Z">
         <seg>&lt;g0&gt;以下のタグで分節化&lt;/g0&gt;： HTML の &lt;br&gt; タグがある場所を段落とみなして分節化することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Target&lt;/g0&gt;: The segments from the translated text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082029Z" creationid="Hiroshi Miura" creationdate="20230118T082029Z">
+        <seg>&lt;g0&gt;訳文&lt;/g0&gt;:訳文テキストからの分節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,6 +7064,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125408Z" creationid="Hiroshi Miura" creationdate="20220830T125408Z">
         <seg>&lt;g0&gt;未翻訳分節：&lt;/g0&gt;未翻訳分節だけから検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Viterbi&lt;/g0&gt;: The default algorithms used to align the documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082613Z" creationid="Hiroshi Miura" creationdate="20230118T082613Z">
+        <seg>&lt;g0&gt;Viterbi&lt;/g0&gt;: デフォルトのアルゴリズムによりファイルを整合します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14414,6 +14462,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>As a rule of thumb, the lower that score, the more accurate the alignment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082214Z" creationid="Hiroshi Miura" creationdate="20230118T082214Z">
+        <seg>経験則として、スコアが低いほど、整合はより正確になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>As above, but for files that should be part of the mapping.</seg>
@@ -16737,6 +16793,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing a parameter immediately recalculates the alignment, allowing you to quickly try different combinations to obtain the best results.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082251Z" creationid="Hiroshi Miura" creationdate="20230118T082251Z">
+        <seg>調整値を変更すると、すぐに整合方法が再計算されるため、さまざまな組み合わせをすばやく試して最適な結果を得ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing segmentation rules or file filters</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T123917Z" creationid="miurahr" creationdate="20201106T233848Z">
@@ -18617,6 +18681,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T143003Z" creationid="amake" creationdate="20170128T143003Z">
         <seg>比較モード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comparison mode</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082317Z" creationid="Hiroshi Miura" creationdate="20230118T082317Z">
+        <seg>比較モード</seg>
       </tuv>
     </tu>
     <tu>
@@ -34234,6 +34306,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this step, the bottom part of the window presents various parameters and options you can change if the initial alignment looks like it could be improved.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082145Z" creationid="Hiroshi Miura" creationdate="20230118T082145Z">
+        <seg>このステップでは、ウィンドウの最下部に、さまざまなパラメータや設定オプションがあり、初期の整合がより良くなるように変更することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T035618Z">
@@ -35410,6 +35490,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also shows an &lt;g0&gt;Average score&lt;/g0&gt; result for the alignment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082204Z" creationid="Hiroshi Miura" creationdate="20230118T082147Z">
+        <seg>また、整合の&lt;g0&gt;平均スコア&lt;/g0&gt;の結果も表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T090337Z">
@@ -35697,6 +35785,22 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130503T032704Z">
         <seg>原文や訳文から語句を検索したいときは、&lt;k0&gt;Ctrl+F&lt;/k0&gt; キーを押せば、いつでも&lt;g1&gt;プロジェクトの検索&lt;/g1&gt;ウィンドウを表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is only shown when both selected files are recognized as key=value files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082556Z" creationid="Hiroshi Miura" creationdate="20230118T082514Z">
+        <seg>整合するファイルが、key=valueファイルだと判断された場合にのみ表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is only shown when it is available for the files being aligned.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082417Z" creationid="Hiroshi Miura" creationdate="20230118T082342Z">
+        <seg>整合するファイルで使用可能な場合にのみ表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47214,6 +47318,14 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Parameters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082310Z" creationid="Hiroshi Miura" creationdate="20230118T082310Z">
+        <seg>調整値</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -55010,6 +55122,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082037Z" creationid="Hiroshi Miura" creationdate="20230118T082037Z">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="ja" changeid="JC Helary" changedate="20130111T153933Z">
@@ -60534,6 +60654,15 @@ shown below.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The available parameters and options are:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082259Z" creationid="Hiroshi Miura" creationdate="20230118T082259Z">
+        <seg>可能な設定は以下の通りです：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The background is restored to normal when the segment is left.</seg>
       </tuv>
@@ -65617,6 +65746,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>There is no hard-and-fast rule on which algorithm you should choose.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082726Z" creationid="Hiroshi Miura" creationdate="20230118T082726Z">
+        <seg>どのアルゴリズムを選択するとよいのか、堅牢で簡単なルールはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -68306,6 +68443,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>This works even if the order of the keys differs in each file, and when the files have a different number of entries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082512Z" creationid="Hiroshi Miura" creationdate="20230118T082512Z">
+        <seg>これは、2つのファイルのキーの順序が同じでない場合や、2つのファイルに同じ量の情報が含まれていない場合でも機能します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
@@ -70785,6 +70931,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221112T051102Z" creationid="miurahr" creationdate="20221112T051102Z">
         <seg>実行し直してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try both, and use the one that yields the better result for your files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082744Z" creationid="Hiroshi Miura" creationdate="20230118T082744Z">
+        <seg>双方を試してみて、よりよい結果がでたほうを利用してください。</seg>
       </tuv>
     </tu>
     <tu>
