@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f8caf9aa1" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_8fc1d0b40" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12818,10 +12818,26 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligning the contents of the files is a four-step process:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T065403Z" creationid="Hiroshi Miura" creationdate="20230118T065403Z">
+        <seg>ファイルのコンテンツを整合するには、4つのステップで作業します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T081645Z" creationid="miurahr" creationdate="20201115T024453Z">
         <seg>整合ツールでは、翻訳済みの単一言語の文書から二か国語の翻訳メモリを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment is the process of creating a bilingual translation memory from a pair of already translated monolingual documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T065342Z" creationid="Hiroshi Miura" creationdate="20230118T065229Z">
+        <seg>整合とは、既に翻訳された原文言語と訳文言語の文書ペアから二言語の対の翻訳メモリを作成するプロセスです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22487,6 +22503,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130307T162508Z">
         <seg>そのフォルダーには同じ名前のファイルが３つ（拡張子違いで）存在していますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doing so has the added benefit of reducing mismatches in the initial automatic alignment, making the manual correction step smoother.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T065239Z" creationid="Hiroshi Miura" creationdate="20230118T065100Z">
+        <seg>そうすることは、最初の自動整合における不一致を減少させ、手動補正ステップをより円滑にするという利点もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32161,6 +32185,15 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T013756Z" creationid="miurahr" creationdate="20201101T013756Z">
         <seg>強力なマシンを使用している場合や、プログレッシブ読み込み時のスクロールバーの動作が気に入らない場合は、この数を増やすことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you have a translation project open, the aligner will automatically use the languages from that project, as well the project-specific segmentation rules, if any.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T070159Z" creationid="Hiroshi Miura" creationdate="20230118T070159Z">
+        <seg>翻訳プロジェクトを開いている場合、整合ツールでは自動的にそのプロジェクトの言語が使用されます。また、プロジェクト固有の分割ルールがある場合は、そのルールも使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43265,6 +43298,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also offers a command line based alignment mode for key-based formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T064451Z" creationid="Hiroshi Miura" creationdate="20230118T064336Z">
+        <seg>OmegaTでは、キーベースのフォーマット用にコマンドラインベースの整合モードも提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT always reproduces the source contents when a segment is not provided.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035319Z" creationid="Hiroshi Miura" creationdate="20230118T035306Z">
@@ -51517,6 +51558,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Review the results and makes any necessary manual adjustments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T065441Z" creationid="Hiroshi Miura" creationdate="20230118T065441Z">
+        <seg>結果を確認して、必要な手動調整を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Review your translation</seg>
       </tuv>
@@ -52310,6 +52360,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115041Z" creationid="Hiroshi Miura" creationdate="20230116T115041Z">
         <seg>ファイルを保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Save the result to a TMX file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T065445Z" creationid="Hiroshi Miura" creationdate="20230118T065445Z">
+        <seg>結果をTMXファイルに保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53509,6 +53568,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115555Z" creationid="Hiroshi Miura" creationdate="20230116T115503Z">
         <seg>その他の移動操作については、 &lt;l0/&gt; メニューを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; option for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T064454Z" creationid="Hiroshi Miura" creationdate="20230118T064339Z">
+        <seg>詳細については、&lt;l0/&gt;ウインドウを参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56804,6 +56872,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T101511Z">
         <seg>プレーンテキストファイルのエンコーディングを指定する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify the source and target languages and select the two files you want to align.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T065427Z" creationid="Hiroshi Miura" creationdate="20230118T065427Z">
+        <seg>原文と訳文の言語を指定し、整合するふたつのファイルを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60311,6 +60387,33 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T033644Z">
         <seg>警告 (ベル) 文字（'\u0007'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The aligner can read all file formats supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T065452Z" creationid="Hiroshi Miura" creationdate="20230118T065452Z">
+        <seg>整合ツールは、OmegaTがサポートするすべてのファイル形式を読み込むことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The aligner does not allow you to save your work partway through an alignment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T064926Z" creationid="Hiroshi Miura" creationdate="20230118T064643Z">
+        <seg>整合ツールでは、配置の途中で作業内容を保存することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The aligner reads the files and attempts to match the segments that correspond to one another in the original and translated texts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T065435Z" creationid="Hiroshi Miura" creationdate="20230118T065435Z">
+        <seg>整合ツールはファイルを読み取り、元のテキストと翻訳されたテキストで互いに対応するセグメントを一致させようとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65543,6 +65646,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122743Z" creationid="amake" creationdate="20170128T122545Z">
         <seg>LanguageTool の初期化中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, it is recommended that you divide the files to align into shorter files that you can comfortably align in a single session.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T065213Z" creationid="Hiroshi Miura" creationdate="20230118T064735Z">
+        <seg>そのため、整合ツールで利用するファイルは、1つのセッションで快適に作業できるように、短いファイルに分割することをお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70949,6 +71060,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UTF-8</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T064308Z" creationid="Hiroshi Miura" creationdate="20230118T064308Z">
+        <seg>UTF-8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uighur, Uyghur</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T152458Z">
@@ -72154,6 +72273,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T150354Z" creationid="miurahr" creationdate="20221222T150354Z">
         <seg> &lt;l0/&gt;&lt;l1/&gt;を使用 (macOSでは、 &lt;l2&gt;OmegaT&lt;/l2&gt;メニューを使用)してこのダイアログにアクセスします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this tool.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T064324Z" creationid="Hiroshi Miura" creationdate="20230118T064324Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用してこのツールにアクセスします。</seg>
       </tuv>
     </tu>
     <tu>
