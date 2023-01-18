@@ -8228,6 +8228,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034247Z" creationid="Hiroshi Miura" creationdate="20230118T034247Z">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130419T040252Z">
@@ -10499,6 +10507,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130410T151858Z">
         <seg>&lt;ショートカット&gt; は次の形式に従います：０個以上の &lt;c0&gt;&lt;修飾子&gt;&lt;/c0&gt;、続いて０個または１個の &lt;c1&gt;&lt;イベント&gt;&lt;/c1&gt;、続いて１個の &lt;c2&gt;&lt;キー&gt;&lt;/c2&gt;。ただし：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034356Z" creationid="Hiroshi Miura" creationdate="20230118T034356Z">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12987,6 +13003,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154349Z" creationid="Hiroshi Miura" creationdate="20230116T154349Z">
         <seg>コマンドラインで&lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt;OmegaTを使用して別の構成フォルダーを指定しない限り、フォルダー構成設定にあるすべてのパラメータが共有されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034441Z" creationid="Hiroshi Miura" creationdate="20230118T034441Z">
+        <seg>&lt;c0&gt;translate="no"&lt;/c0&gt;でマークされたすべてのタグは無視されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18388,6 +18412,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments within an HTML file are generally addressed to developers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034951Z" creationid="Hiroshi Miura" creationdate="20230118T034951Z">
+        <seg>Comments within an HTML file are generally addressed to developers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T030005Z" creationid="suzume" creationdate="20200119T030005Z">
@@ -20915,6 +20947,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031912Z" creationid="Hiroshi Miura" creationdate="20230118T031912Z">
         <seg>関連する「コンテンツ」属性が変換されない&lt;meta&gt;タグ属性値を定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Define the attribute values that make a tag non-translatable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034320Z" creationid="Hiroshi Miura" creationdate="20230118T034320Z">
+        <seg>タグを翻訳不可能にする属性値を定義します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29155,6 +29196,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034549Z" creationid="Hiroshi Miura" creationdate="20230118T034549Z">
+        <seg>ここで、訳文ファイルの宣言を追加するか変更するかを決定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Herero</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T064930Z">
@@ -32733,6 +32782,23 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T152909Z" creationid="miurahr" creationdate="20221222T152822Z">
         <seg>大/小文字が異なる(例:USER対user)検出結果を無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore tags that contain translate="no"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034347Z" creationid="Hiroshi Miura" creationdate="20230118T034347Z">
+        <seg>translate="no"属性があるタグを無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034234Z" creationid="Hiroshi Miura" creationdate="20230118T034234Z">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;の内容部分を無視する</seg>
       </tuv>
     </tu>
     <tu>
@@ -45225,6 +45291,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034451Z" creationid="Hiroshi Miura" creationdate="20230118T034451Z">
+        <seg>ここでは、XHTMLファイルのオプション(上記参照)で使用できないフィルターについてのみ説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -55838,6 +55913,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source and target files sometimes require a different encoding.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034525Z" creationid="Hiroshi Miura" creationdate="20230118T034525Z">
+        <seg>原文ファイルと訳文ファイルでは、異なるエンコーディングが必要な場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Source and translated file encoding</seg>
@@ -60766,6 +60849,15 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T115514Z" creationid="miurahr" creationdate="20221023T115514Z">
         <seg>ショートカットを変更する最も簡単な方法は、前述のように、デフォルトのファイルのコピーを&lt;l0&gt;構成フォルダー&lt;/l0&gt;にダウンロードし、そこで必要な変更を行うことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The encoding of an HTML document is generally declared within a &lt;meta&gt; element situated in the &lt;head&gt; element.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034459Z" creationid="Hiroshi Miura" creationdate="20230118T034459Z">
+        <seg>文書のエンコーディングは通常、&lt;head&gt;要素内にある&lt;meta&gt;要素内で宣言されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67047,6 +67139,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option converts such multiple continuous whitespace characters into a single space in the translated document.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034926Z" creationid="Hiroshi Miura" creationdate="20230118T034926Z">
+        <seg>連続する空白文字がある場合、訳文ファイル生成時に空白文字一つだけに変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141203T023903Z" creationid="Yu-Tang" creationdate="20141203T023903Z">
@@ -68429,6 +68529,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T122602Z">
         <seg>Google のサービスを利用するに当たっては、アカウント登録時に Google から送られてくるプライベート ユニークキーが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>To ignore this content:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034246Z" creationid="Hiroshi Miura" creationdate="20230118T034246Z">
+        <seg>このコンテンツを無視するには:</seg>
       </tuv>
     </tu>
     <tu>
@@ -74238,6 +74347,15 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Whitespace outside the tags is considered non significant in HTML/XHTML.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034908Z" creationid="Hiroshi Miura" creationdate="20230118T034908Z">
+        <seg>タグの外側の空白文字は、HTML/XHTMLでは重要ではないと見なされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Whitespaces</seg>
       </tuv>
@@ -77830,6 +77948,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121157Z" creationid="miurahr" creationdate="20221023T121157Z">
         <seg>alt shift RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>always, based on the file filter settings,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034610Z" creationid="Hiroshi Miura" creationdate="20230118T034610Z">
+        <seg>通常どおり、フィルター設定において、</seg>
       </tuv>
     </tu>
     <tu>
@@ -83662,6 +83788,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name=robots</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034301Z" creationid="Hiroshi Miura" creationdate="20230118T034301Z">
+        <seg>name=robots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nau</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
@@ -84038,6 +84172,23 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>only if the file already has a &lt;head&gt; tag,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034616Z" creationid="Hiroshi Miura" creationdate="20230118T034616Z">
+        <seg>ファイルが既に&lt;head&gt;タグを持っている場合のみ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>only if the file already has a declaration,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034643Z" creationid="Hiroshi Miura" creationdate="20230118T034643Z">
+        <seg>ファイルに、既に宣言されている場合のみ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>only options:</seg>
@@ -84357,6 +84508,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124802Z" creationid="Hiroshi Miura" creationdate="20230116T124802Z">
         <seg>macOSでは同様に:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034902Z" creationid="Hiroshi Miura" creationdate="20230118T034902Z">
+        <seg>ファイルフィルター設定で指定のエンコーディングを適用して、訳文ファイルを保存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86516,6 +86675,22 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T234100Z" creationid="miurahr" creationdate="20201101T144953Z">
         <seg> &lt;m0&gt; &lt;g1&gt;プロジェクト&lt;/g1&gt; &lt;g2&gt;原文ファイルをコミット&lt;/g2&gt; &lt;/m0&gt;を使用します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034300Z" creationid="Hiroshi Miura" creationdate="20230118T034300Z">
+        <seg>使う:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034427Z" creationid="Hiroshi Miura" creationdate="20230118T034427Z">
+        <seg> &lt;l0&gt;translate=no&lt;/l0&gt;を使用する。</seg>
       </tuv>
     </tu>
     <tu>
