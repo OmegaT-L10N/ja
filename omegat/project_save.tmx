@@ -5391,6 +5391,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041948Z" creationid="Hiroshi Miura" creationdate="20230118T041948Z">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T103304Z">
@@ -11435,6 +11443,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T035959Z">
         <seg>単語構成文字：[a-zA-Z_0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A writable glossary created for the project by OmegaT will be a TSV file saved in UTF-8.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042510Z" creationid="Hiroshi Miura" creationdate="20230118T042510Z">
+        <seg>プロジェクトの書き込み可能な用語集は、UTF-8エンコーディングで保存されたTSVファイルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28063,6 +28079,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041808Z" creationid="Hiroshi Miura" creationdate="20230118T041808Z">
+        <seg>用語集は&lt;l0/&gt;フォルダーに保存されている用語を集めたファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Glossaries are terminology files that are stored in the &lt;l0/&gt; folder.</seg>
@@ -31827,6 +31852,14 @@ folder, see the manual for its location).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you choose to use an existing file as the default glossary, all new entries will be recorded in tab-separated format and saved in UTF-8 by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041934Z" creationid="Hiroshi Miura" creationdate="20230118T041934Z">
+        <seg>既存のファイルを標準用語集として使用することを選択した場合、新しいエントリはすべてタブ区切りの書式で記録され、デフォルトでUTF-8の文字エンコーディングで保存されている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -32577,6 +32610,15 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T053709Z" creationid="miurahr" creationdate="20201101T053709Z">
         <seg>編集内容をそのフィルターの初期値に戻したい時は、［&lt;e1&gt;初期値を復元&lt;/e1&gt;］をクリックしてください。またファイルフィルターダイアログの中で、訳文ファイル名構成例を直接編集することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you want to specify a different encoding, you can do so by adding a “magic” comment that takes the following form:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041946Z" creationid="Hiroshi Miura" creationdate="20230118T041946Z">
+        <seg>別のエンコーディングを指定する場合は、次の形式の「magic」コメントを追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34131,6 +34173,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041801Z" creationid="Hiroshi Miura" creationdate="20230118T041801Z">
+        <seg>Index 項目、ブックマーク、ブックマーク参照、脚注、コメント、プレゼンテーションのノート、リンク（URL）、シート名</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
@@ -35395,6 +35446,15 @@ Simply launch the installation program.</seg>
         <seg>It is called the &lt;e1&gt;writable&lt;/e1&gt; glossary for this reason.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T132734Z" creationid="Hiroshi Miura" creationdate="20221021T132734Z">
+        <seg>この理由から、&lt;e1&gt;書き込み可能&lt;/e1&gt;用語集と呼ばれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>It is called the &lt;e2&gt;writable&lt;/e2&gt; glossary for this reason.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041823Z" creationid="Hiroshi Miura" creationdate="20230118T041823Z">
         <seg>この理由から、&lt;e1&gt;書き込み可能&lt;/e1&gt;用語集と呼ばれています。</seg>
       </tuv>
     </tu>
@@ -40189,6 +40249,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T122516Z" creationid="Hiroshi Miura" creationdate="20230116T122516Z">
         <seg>OmegaT外で行われた修正は、関連するセグメントに手動で入力するか、またはOmegaTと最終翻訳メモリを位置合わせして新しい原文ファイル(TMX)ファイルを作成し、プロジェクトフォルダーの&lt;l0/&gt;フォルダーに配置することによって、翻訳メモリに再挿入できます(したがって、最新の状態を維持するために、プロジェクト訳文ファイルにも再挿入できます)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifications made to any glossary are immediately recognized by OmegaT displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042238Z" creationid="Hiroshi Miura" creationdate="20230118T042238Z">
+        <seg>用語集に変更を加えるとOmegaTは変更を自動的に考慮して、一致する用語を&lt;l0/&gt;ウィンドウに表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49428,6 +49496,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Reference glossaries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042023Z" creationid="Hiroshi Miura" creationdate="20230118T042002Z">
+        <seg>参考用語集</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Reference windows</seg>
       </tuv>
@@ -53297,6 +53374,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T154129Z" creationid="Hiroshi Miura" creationdate="20230116T154129Z">
         <seg>詳細については-&lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042301Z" creationid="Hiroshi Miura" creationdate="20230118T042301Z">
+        <seg>詳細は、プロジェクト設定の &lt;l1/&gt; を確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64846,6 +64931,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042444Z" creationid="Hiroshi Miura" creationdate="20230118T042444Z">
+        <seg>デフォルトで、書き込み可能なプロジェクト用語集は&lt;l0/&gt;フォルダーにあり、&lt;l1/&gt;と呼ばれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writeable glossary file folder does not exist!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T144217Z" creationid="miurahr" creationdate="20221103T144217Z">
@@ -65496,6 +65589,15 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T024557Z" creationid="Hiroshi Miura" creationdate="20221023T024557Z">
         <seg>これらは、OmegaTアプリケーション自体に物理的に接続されていない独立したオブジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>They are terminology files in a format recognized by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042145Z" creationid="Hiroshi Miura" creationdate="20230118T042145Z">
+        <seg>OmegaTが認識できるファイル形式の用語集です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66539,6 +66641,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T124527Z" creationid="miurahr" creationdate="20221222T124010Z">
         <seg>&lt;l0/&gt;&lt;l1/&gt;を使用したときに、画面で選択されているテキストが格納されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder can be set outside the project, enabling you to use it, or one of the specific subfolders, in other projects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042410Z" creationid="Hiroshi Miura" creationdate="20230118T042410Z">
+        <seg>プロジェクトのフォルダーの外部に設定して、他のプロジェクトで使用したり、特定のサブフォルダで使用することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71827,6 +71937,23 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041837Z" creationid="Hiroshi Miura" creationdate="20230118T041828Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用してアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041816Z" creationid="Hiroshi Miura" creationdate="20230118T041816Z">
+        <seg>&lt;l0/&gt;を使用して、この用語集に新しい用語を入力できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter the Notes pane and add your remark,</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115805Z" creationid="Hiroshi Miura" creationdate="20230116T115805Z">
@@ -72279,6 +72406,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T154854Z" creationid="miurahr" creationdate="20221222T154854Z">
         <seg>&lt;l0/&gt;プロジェクトプロパティを使用して、分節化のタイプを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to set the location of the reference glossaries folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042341Z" creationid="Hiroshi Miura" creationdate="20230118T042341Z">
+        <seg>&lt;l0/&gt;プロジェクト設定で、参照用語集フォルダーの場所を設定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72791,6 +72926,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T053527Z" creationid="miurahr" creationdate="20201115T053527Z">
         <seg>取扱説明書...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User-created files that use only latin characters may be recognized and treated as ISO-8859-1 if it does not contain non-ASCII characters or other characters interpreted as UTF-8.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042557Z" creationid="Hiroshi Miura" creationdate="20230118T042557Z">
+        <seg>欧文文字がふくまれたユーザーが作成したファイルUser-created files that use only latin characters may be recognized and treated as ISO-8859-1 if it does not contain non-ASCII characters or other characters interpreted as UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74886,6 +75029,15 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Within that reference glossaries folder, you can create multiple terminology subfolders organized by topic, client, or any other category that suits your workflow.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042311Z" creationid="Hiroshi Miura" creationdate="20230118T042311Z">
+        <seg>その参照用語集フォルダー内に、トピック、クライアント、またはワークフローに適したその他の分類別に整理された複数の用語集サブフォルダを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Without --stats-type, detects format from file extension.</seg>
@@ -76680,6 +76832,14 @@ omegat.kaptn</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can then open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041849Z" creationid="Hiroshi Miura" creationdate="20230118T041830Z">
+        <seg>テキストエディタで開いて変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T171553Z">
@@ -76852,6 +77012,14 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T233252Z" creationid="Hiroshi Miura" creationdate="20221021T233252Z">
         <seg>プロジェクト用語集のようにOmegaTのインターフェースから変更できませんが、テキストエディタで編集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042200Z" creationid="Hiroshi Miura" creationdate="20230118T042200Z">
+        <seg>プロジェクト用語集のようにOmegaTのGUIインターフェースから変更はできませんが、テキストエディタで編集できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81199,6 +81367,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130219T133909Z">
         <seg>http://www.apertium.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T041953Z" creationid="Hiroshi Miura" creationdate="20230118T041953Z">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
       </tuv>
     </tu>
     <tu>
@@ -87161,6 +87337,14 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T124509Z" creationid="Hiroshi Miura" creationdate="20230116T124509Z">
         <seg>ここで &lt;c0&gt;修飾子&lt;/c0&gt; は次のいずれかです: &lt;l1&gt;shift&lt;/l1&gt;、 &lt;l2&gt;ctrl&lt;/l2&gt;、 &lt;l3&gt;meta&lt;/l3&gt;、 &lt;l4&gt;alt&lt;/l4&gt;、&lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042019Z" creationid="Hiroshi Miura" creationdate="20230118T042000Z">
+        <seg>ここで、&lt;p0&gt;&lt;charset&gt;&lt;/p0&gt;は通常、&lt;u1&gt;IANA Charset Registry&lt;/u1&gt;にリストされている文字エンコーディングの1つになります。</seg>
       </tuv>
     </tu>
     <tu>
