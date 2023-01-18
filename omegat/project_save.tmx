@@ -6728,6 +6728,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Character&lt;/g0&gt;: The basic unit used to determine the size of segments in languages that do not use a space to delimit words.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T083019Z" creationid="Hiroshi Miura" creationdate="20230118T083019Z">
+        <seg>&lt;g0&gt;文字&lt;/g0&gt;:単語の区切りに空白を使用しない言語で、分節のサイズを決定するために使用される基本単位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Close&lt;/g0&gt;: close the window without any change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125123Z" creationid="Hiroshi Miura" creationdate="20220830T125123Z">
@@ -6876,6 +6884,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Normal&lt;/g0&gt;: The default statistical distribution used to align the documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082830Z" creationid="Hiroshi Miura" creationdate="20230118T082830Z">
+        <seg>&lt;g0&gt;Normal&lt;/g0&gt;: 文書を整合するときに使用するデフォルトの統計的分散</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Open...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210724Z" creationid="Hiroshi Miura" creationdate="20230113T210724Z">
@@ -6888,6 +6904,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082357Z" creationid="Hiroshi Miura" creationdate="20230118T082341Z">
         <seg>&lt;g1&gt;Parsewise&lt;/g1&gt;モードでは、分節ごとに評価します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: An alternative statistical distribution that can be used to align the documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082900Z" creationid="Hiroshi Miura" creationdate="20230118T082900Z">
+        <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: 代替の統計的分散で文書の整合に利用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7072,6 +7096,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082613Z" creationid="Hiroshi Miura" creationdate="20230118T082613Z">
         <seg>&lt;g0&gt;Viterbi&lt;/g0&gt;: デフォルトのアルゴリズムによりファイルを整合します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Word&lt;/g0&gt;: The basic unit used to determine the size of segments in languages that use a space to delimit words.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T083031Z" creationid="Hiroshi Miura" creationdate="20230118T083031Z">
+        <seg>&lt;g0&gt;単語&lt;/g0&gt;:単語を区切るために空白を使用する言語で、分節のサイズを決定するために使用される基本単位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14642,6 +14674,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130520T141645Z">
         <seg>ただし、自由な開発の場合と同様に、OmegaT に対するいかなる変更も、OmegaT とそのユーザーに資さなければならないという原則がやはり適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with the algorithms, there is no hard-and-fast rule on which statistical distribution you should choose.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082938Z" creationid="Hiroshi Miura" creationdate="20230118T082938Z">
+        <seg>アルゴリズムごとに、選択する統計的分散を決定する簡単で堅牢な方法はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31926,6 +31966,14 @@ that you install an OmegaT version with JRE included.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you are working with one of each, you can try to switch between the two to see which one yields better results.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T083229Z" creationid="Hiroshi Miura" creationdate="20230118T083229Z">
+        <seg>If you are working with one of each, you can try to switch between the two to see which one yields better results.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>If you believe that you have lost translation data, it might probably be safely stored in your most recent backup memory, which is usually less than a few minutes old or so.</seg>
@@ -35598,6 +35646,14 @@ Simply launch the installation program.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130123T172316Z">
         <seg>OmegaT のインストールと Windows、Mac OS X、Linux 各 OS 上での実行について、詳しい手順がここにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It defaults to &lt;g0&gt;Character&lt;/g0&gt; if at least one of the languages involved does not delimit words with spaces, and to &lt;g1&gt;Word&lt;/g1&gt; otherwise.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T083213Z" creationid="Hiroshi Miura" creationdate="20230118T083213Z">
+        <seg>デフォルトでは、 片方の言語が単語分割に空白文字を使用しないときには&lt;g0&gt;文字&lt;/g0&gt;を選択します。そうでなければ、 &lt;g1&gt;単語&lt;/g1&gt; を使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60535,6 +60591,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The aligner automatically selects the counter based on the source and target languages of files to align.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T083110Z" creationid="Hiroshi Miura" creationdate="20230118T083110Z">
+        <seg>整合ツールは、整合するファイルの原文言語と訳文言語に基づいて、カウンターを自動的に選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>The aligner can read all file formats supported by OmegaT.</seg>
@@ -70935,6 +70999,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Try both and use the one that yields the better result for your files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082958Z" creationid="Hiroshi Miura" creationdate="20230118T082958Z">
+        <seg>双方を試してみて、よりよい結果がでたほうを利用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Try both, and use the one that yields the better result for your files.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082744Z" creationid="Hiroshi Miura" creationdate="20230118T082744Z">
@@ -73112,6 +73184,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T053341Z" creationid="miurahr" creationdate="20201115T053341Z">
         <seg>原文と同じ訳文を登録できます。&lt;l0&gt;&lt;g1&gt;［原文と同じ訳文を許可］&lt;/g1&gt;&lt;/l0&gt;にチェックが入っていない場合でも、有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to uncheck the &lt;g0&gt;Keep&lt;/g0&gt; check box for all rows.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T083237Z" creationid="Hiroshi Miura" creationdate="20230118T083237Z">
+        <seg>Use this command to uncheck the &lt;g0&gt;Keep&lt;/g0&gt; check box for all rows.</seg>
       </tuv>
     </tu>
     <tu>
