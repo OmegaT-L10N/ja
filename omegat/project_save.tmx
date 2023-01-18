@@ -7670,6 +7670,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030539Z" creationid="Hiroshi Miura" creationdate="20230118T030539Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130305T154724Z">
@@ -7678,10 +7686,26 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030539Z" creationid="Hiroshi Miura" creationdate="20230118T030539Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141103T190209Z">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030539Z" creationid="Hiroshi Miura" creationdate="20230118T030539Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,6 +7742,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030541Z" creationid="Hiroshi Miura" creationdate="20230118T030541Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130305T154731Z">
@@ -7726,10 +7758,26 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030540Z" creationid="Hiroshi Miura" creationdate="20230118T030540Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130305T154729Z">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030539Z" creationid="Hiroshi Miura" creationdate="20230118T030539Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12187,6 +12235,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T153301Z" creationid="miurahr" creationdate="20221222T153301Z">
         <seg>様々なテーマをプラグインとして追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${Extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025449Z" creationid="Hiroshi Miura" creationdate="20230118T025449Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt; と&lt;l1&gt; ${extension}&lt;/l1&gt; に関しては、追加の変数を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18386,6 +18442,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030639Z" creationid="Hiroshi Miura" creationdate="20230118T030639Z">
+        <seg>OmegaT 2.6 互換モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T030212Z">
@@ -23521,6 +23585,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030654Z" creationid="Hiroshi Miura" creationdate="20230118T030654Z">
+        <seg>OmegaT2.6で作成されたXLIFFファイルで作業する必要がある場合は、このOmegaTを有効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T173406Z">
@@ -26248,6 +26320,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T100000Z">
         <seg>OmegaT を手早く使い慣れたい場合は、まず OmegaT を起動して「お手軽スタートガイド」をお読みください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030248Z" creationid="Hiroshi Miura" creationdate="20230118T030248Z">
+        <seg>文書.xx.docxという名前のソースファイルに対して、以下の変数定義を使用すると、次のような結果になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30754,6 +30834,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T234544Z" creationid="miurahr" creationdate="20201106T234544Z">
         <seg>ファイルにマッピングが含まれていない場合は、既存のローカルマッピングだけが再適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file name is ambiguous, variables of the form &lt;l0&gt;${nameonly-&lt;/l0&gt;&lt;e1&gt;extension number&lt;/e1&gt;} and &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;extension number} &lt;/e3&gt; can be used.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030535Z" creationid="Hiroshi Miura" creationdate="20230118T030130Z">
+        <seg>ファイル名があいまいな場合、使用する構成要素を &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;番号&lt;/e1&gt;} と &lt;l2&gt;${extension-&lt;/l2&gt;-&lt;e3&gt;番号}&lt;/e3&gt; の形式で指定することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39633,6 +39721,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201124T233023Z" creationid="miurahr" creationdate="20201124T233023Z">
         <seg>マイクロソフト Word、 Excel、 Power</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T025416Z" creationid="Hiroshi Miura" creationdate="20230118T025416Z">
+        <seg>訳文ファイルのMicrosoftロケール(xx-yy形式)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53709,6 +53805,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030630Z" creationid="Hiroshi Miura" creationdate="20230118T030543Z">
+        <seg>設定を変更する場合は、フィルターを選択して&lt;g0&gt;設定...&lt;/g0&gt; を押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the first segment.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T061734Z" creationid="miurahr" creationdate="20201115T061734Z">
@@ -54264,6 +54368,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T050814Z" creationid="miurahr" creationdate="20201101T050814Z">
         <seg>以下のフィルター（テキストファイル、PO ファイル、XHTML ファイル、HTML ファイル・XHTML ファイル、OpenDocument ファイル、Microsoft Open XML ファイル）では、いくつかの専用オプションを設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several filters offer options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030607Z" creationid="Hiroshi Miura" creationdate="20230118T030537Z">
+        <seg>ファイルフィルターは設定を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57423,6 +57535,14 @@ and then start OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030731Z" creationid="Hiroshi Miura" creationdate="20230118T030731Z">
+        <seg>タグのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
@@ -57687,6 +57807,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140625T175018Z">
         <seg>訳文出現数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target file names</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030138Z" creationid="Hiroshi Miura" creationdate="20230118T030138Z">
+        <seg>訳文ファイル名</seg>
       </tuv>
     </tu>
     <tu>
@@ -58060,6 +58188,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130208T042054Z">
         <seg>テキストファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text files do not have generic paragraph markers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030820Z" creationid="Hiroshi Miura" creationdate="20230118T030820Z">
+        <seg>Text files do not have generic paragraph markers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64773,6 +64909,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T123720Z" creationid="miurahr" creationdate="20221222T123720Z">
         <seg>これらのファイルには、様々な内部の状態が記録されており、OmegaT実行中のプログラム内のイベントメッセージが記録されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These option specify the way OmegaT creates tags from the XLIFF contents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030806Z" creationid="Hiroshi Miura" creationdate="20230118T030806Z">
+        <seg>これらの設定は、OmegaTがXLIFFコンテンツからタグを作成する方法を指定しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71978,6 +72122,15 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130124T154620Z">
         <seg>取扱説明書...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030715Z" creationid="Hiroshi Miura" creationdate="20230118T030715Z">
+        <seg>ユーザーは、3つのオプション、前の段落と次の段落、&lt;trans unit&gt;ID、または&lt;trans-unit&gt;resname属性(使用可能な場合)から選択できます。使用できない場合は、IDがフォールバックとして使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81304,6 +81457,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T174932Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if checked, OmegaT changes the state of the XLIFF target part to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030924Z" creationid="Hiroshi Miura" creationdate="20230118T030815Z">
+        <seg>チェックすると、XLIFFの"target"要素の"state"属性を「translated」ではなく「needs-review-translation」に変更します。</seg>
       </tuv>
     </tu>
     <tu>
