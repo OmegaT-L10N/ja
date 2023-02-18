@@ -31700,6 +31700,15 @@ their defaults as a result of the location change.</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>If there are repeated segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T154012Z" creationid="Hiroshi Miura" creationdate="20230218T154012Z">
+        <seg>同じ内容の分節が何箇所か原文に存在する場合、［翻訳自動反映］チェックボックスにチェックを入れると、最初にその内容を一箇所翻訳した時点で、それが基本訳文に設定され、他の訳文分節にも同じ内容が設定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>If there is a declaration, that encoding  be used regardless of the setting specified here.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221124T224323Z" creationid="Hiroshi Miura" creationdate="20221124T224323Z">
@@ -32221,6 +32230,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T045246Z" creationid="Hiroshi Miura" creationdate="20221022T045246Z">
         <seg>翻訳中に分節化規則を変更した場合は、新しい分節化規則を有効にするためにプロジェクトを再ロードする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect. This will split or merge some previously translated segments, which will therefore no longer be translated. However, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153711Z" creationid="Hiroshi Miura" creationdate="20230218T153711Z">
+        <seg>翻訳中に分節化規則を変更した場合は、新しい分節化規則を有効にするためにプロジェクトを再ロードする必要があります。すると、以前に翻訳済みの一部の分節が分割または結合され、翻訳済みの分節と見なされなくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54100,6 +54117,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>See the &lt;l0/> appendix for general explanations about segmentation (global or local, paragraph or sentence, settings, and so on).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153730Z" creationid="Hiroshi Miura" creationdate="20230218T153730Z">
+        <seg>(ユーザレベルまたはプロジェクト専用、段落または文、設定など)分節化の一般的な説明については、付録&lt;l0/>を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>See the &lt;l0/> appendix if you want to modify or add shortcuts.</seg>
       </tuv>
@@ -58432,6 +58458,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switching from &lt;e0>sentence&lt;/e0> to &lt;e1>paragraph&lt;/e1> segmentation mid-translation may force OmegaT to upgrade old translation memories that did not use sentence segmentation, but not vice versa. However, OmegaT will attempt to create fuzzy matches for paragraphs by combining existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153642Z" creationid="Hiroshi Miura" creationdate="20230218T153642Z">
+        <seg>たとえば、翻訳の途中で分節化を文単位から段落単位に変更しても、そのプロジェクトの内部翻訳メモリは何も変わりません。OmegaT は段落単位でしか分節化できなかった旧形式の翻訳メモリをアップグレードできますが、その逆はできないのです。ただし OmegaT は、文単位の既存の翻訳を結合して、段落単位の参考訳文を作ることはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switching to built-in version.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T031907Z" creationid="amake" creationdate="20170128T121445Z">
@@ -58976,6 +59010,15 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T200859Z">
         <seg>タグは常に単一であるか、ペアになっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Tags are generally useful to reproduce specific layouts or characteristics of the source text in the translated text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T154022Z" creationid="Hiroshi Miura" creationdate="20230218T154022Z">
+        <seg>タグは一般に、原文の特定のレイアウトまたは修飾属性などを訳文に再現するのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64263,6 +64306,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The project will store the new set of rules in the &lt;l0/> file located in its &lt;l1/> folder. These rules will supersede the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T154003Z" creationid="Hiroshi Miura" creationdate="20230218T154003Z">
+        <seg>新しい規則集は、プロジェクトと共に&lt;l1/>フォルダーの&lt;l0/>ファイルに保存されます。またユーザーレベルの分節化規則集には干渉しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The project writable glossary is by default located in the &lt;l0/> folder and called &lt;l1/>.</seg>
@@ -64717,6 +64769,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T162527Z">
         <seg>分節化規則は、ほとんどの場合、すべてのプロジェクトに共通で適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The segmentation rules presented when you open the &lt;l0/> preferences (using &lt;l1/>&lt;l2/>) are the global rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153757Z" creationid="Hiroshi Miura" creationdate="20230218T153757Z">
+        <seg>(&lt;l1/>&lt;l2/>を使用して)&lt;l0/>設定を開いたときに表示される分節化規則は、ユーザーレベルです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65402,6 +65463,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T135009Z" creationid="Hiroshi Miura" creationdate="20221022T135009Z">
         <seg>文書からタグが本当に削除されるわけでありません。分節の最後にのこされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tags are not really removed from the document, but rather stacked at the end of the segment. In most cases, this should not keep the translated file from opening. If you just need to reduce the number of tags in a &lt;a0>Microsoft Word&lt;/a0> (2007 and later) document, you can use the &lt;l1/> script.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T154357Z" creationid="Hiroshi Miura" creationdate="20230218T154357Z">
+        <seg>文書からタグが本当に削除されるわけでありません。分節の最後に残されています。ほとんどの場合、これにより訳文ファイルが開かなくなることはありません。Microsoft Word(2007以降)文書のタグの数を減らす必要がある場合は、スクリプトを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73868,6 +73937,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T133850Z" creationid="Hiroshi Miura" creationdate="20221022T133850Z">
         <seg>プロジェクト専用のルールを作成するには、このボタンを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local rules specific to your project. Check the &lt;o0>Use local segmentation rules&lt;/o0> box, and adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153942Z" creationid="Hiroshi Miura" creationdate="20230218T153942Z">
+        <seg>プロジェクト専用のルールを作成するには、このボタンを使用します。&lt;o0>［分節化規則をプロジェクト専用にする］&lt;/o0>チェックボックスにチェックを入れてから、分節化規則を必要な状態に変更してください。</seg>
       </tuv>
     </tu>
     <tu>
