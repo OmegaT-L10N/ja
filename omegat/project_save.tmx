@@ -12081,6 +12081,24 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Adapt standard tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142144Z" creationid="Hiroshi Miura" creationdate="20230218T142144Z">
+        <seg>標準タグを適用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Adapt standard tags when the Replace with Match command invoked.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142154Z" creationid="Hiroshi Miura" creationdate="20230218T142154Z">
+        <seg>[一致するものと置換]コマンドが呼び出されたときに、標準タグを適合させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Add</seg>
       </tuv>
@@ -15630,6 +15648,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidi control characters are available from &lt;l0/>&lt;l1/>. They can be used to:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142305Z" creationid="Hiroshi Miura" creationdate="20230218T142305Z">
+        <seg>Bidi制御文字は&lt;l0/>&lt;l1/>から使用できます。次の場合に利用してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140923T133235Z" creationid="Yu-Tang" creationdate="20140923T133235Z">
@@ -18127,6 +18153,14 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;g0>Run&lt;/g0> button at the bottom of the window, or press &lt;k1>&lt;k2>C&lt;/k2>&lt;k3>R&lt;/k3>&lt;/k1> to launch the script immediately.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141622Z" creationid="Hiroshi Miura" creationdate="20230218T141622Z">
+        <seg>ウィンドウの下部にある&lt;g0>実行&lt;/g0>ボタンをクリックするか、&lt;k1>&lt;k2>C&lt;/k2>&lt;k3>R&lt;/k3>&lt;/k1>を押してスクリプトをすぐに起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Click the drop-down arrow of the &lt;g0>Search for:&lt;/g0> field to access the last ten searches.</seg>
@@ -18149,6 +18183,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125222Z" creationid="Hiroshi Miura" creationdate="20220830T125222Z">
         <seg>&lt;g0>［検索文字列］&lt;/g0>欄のドロップダウンボタンをクリックすると、直近の検索履歴が 10 個まで表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the name of a script in the list in the left-hand panel. The script is loaded in the editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141558Z" creationid="Hiroshi Miura" creationdate="20230218T141558Z">
+        <seg>左側のパネルの一覧でスクリプトの名前をクリックします。スクリプトが編集画面に読み込まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23876,6 +23918,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment. You can create two kinds of embeddings depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142449Z" creationid="Hiroshi Miura" creationdate="20230218T142449Z">
+        <seg>埋め込みを使用して、分節の綴り方向と反対に綴る必要がある(いくつかの単語とスペースを含むような)長い文章を作成することができます。分節の綴り方向に応じて、次の2種類の埋め込みを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
@@ -26637,6 +26687,15 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T111038Z">
         <seg>必要なパッケージ各々のインストール指示に従ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Follow the instructions provided in the script itself.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142132Z" creationid="Hiroshi Miura" creationdate="20230218T142132Z">
+        <seg>スクリプト自体に記載されている指示に従ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32253,6 +32312,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do have permission to write to the default folder, make sure you change the name, or make a backup, of any scripts you modify, as they will be overwritten when OmegaT is updated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141954Z" creationid="Hiroshi Miura" creationdate="20230218T141954Z">
+        <seg>標準フォルダーに書き込む権限がある場合は、変更したスクリプトの名前を変更するか、バックアップを作成してください。OmegaTが更新される時に、スクリプトが上書きされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not activate this option, all segments can be assigned a different translation, even if they are duplicated in the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T130719Z" creationid="Hiroshi Miura" creationdate="20230116T130719Z">
@@ -32909,6 +32976,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T133230Z" creationid="Hiroshi Miura" creationdate="20221022T133230Z">
         <seg>このプロジェクトでユーザーレベルルールではなくプロジェクト固有の分節化規則(プロジェクト専用ルール)を使用する場合は、右側の&lt;g0>&lt;l1/>&lt;/g0>をクリックするか、コマンドラインからOmegaTを起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to detach the script from the shortcut, right-click on its button and select &lt;g0>Remove Script&lt;/g0></seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141729Z" creationid="Hiroshi Miura" creationdate="20230218T141729Z">
+        <seg>ショートカットからスクリプトを削除する場合は、そのボタンを右クリックし、&lt;g0>スクリプトの削除&lt;/g0>を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33967,6 +34042,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In such cases, you will have to copy or move the script folder to a location for which you have write permissions, such as the &lt;l0>configuration folder&lt;/l0>, if you want to write your own scripts, add new ones, or modify existing ones.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141912Z" creationid="Hiroshi Miura" creationdate="20230218T141912Z">
+        <seg>このような場合、独自のスクリプトを記述したり、新しいスクリプトを追加したり、既存のスクリプトを変更したりするには、&lt;l0>設定フォルダー&lt;/l0>など、書き込み権限のある場所にスクリプトをコピーしたり、フォルダーを移動する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0>and only in such projects&lt;/e0>, the source and target files can be modified locally and uploaded to the server using &lt;l1/>&lt;l2/> and &lt;l3/>&lt;l4/>.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231820Z" creationid="Hiroshi Miura" creationdate="20230116T231710Z">
@@ -34908,10 +34991,28 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142355Z" creationid="Hiroshi Miura" creationdate="20230218T142355Z">
+        <seg>右から左への分節で、左から右に綴る必要がある弱い方向性の文字の後に、左から右へ指示(LRM: left-to-right Mark)文字を挿入します。(例えばアラビア語の文章の中の英語の抜粋の場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text)</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T235659Z" creationid="Hiroshi Miura" creationdate="20230113T234609Z">
+        <seg>左から右の分節の中で、右から左に綴る必要がある弱い方向性の文字の後に、右から左へ指示(RLM: right-to-left mark)文字を挿入します。(例えば英語の文章の中のアラビア語の抜粋の場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142404Z" creationid="Hiroshi Miura" creationdate="20230218T142404Z">
         <seg>左から右の分節の中で、右から左に綴る必要がある弱い方向性の文字の後に、右から左へ指示(RLM: right-to-left mark)文字を挿入します。(例えば英語の文章の中のアラビア語の抜粋の場合)</seg>
       </tuv>
     </tu>
@@ -38251,6 +38352,15 @@ experience bugs, display problems or missing features.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Linux users: depending on the configuration of your operating system, you may not have permission to write to the default scripts folder location.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141811Z" creationid="Hiroshi Miura" creationdate="20230218T141811Z">
+        <seg>Linuxユーザ:オペレーティングシステムの設定によっては、標準のスクリプトフォルダーの場所に書き込む権限がない場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Linux with 64-bit JRE</seg>
       </tuv>
@@ -40722,6 +40832,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T121610Z" creationid="Hiroshi Miura" creationdate="20221220T002157Z">
         <seg>変更された環境設定は、プロジェクトで使用される構成フォルダーに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project. If you do not use the default configuration folder, all modifications made in the &lt;l0>preferences&lt;/l0> will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142704Z" creationid="Hiroshi Miura" creationdate="20230218T142704Z">
+        <seg>変更された環境設定は、プロジェクトで使用される環境設定フォルダーに保存されます。標準環境設定フォルダーを使用しない場合、&lt;l0>環境設定&lt;/l0>で行われたすべての変更は、指定された環境設定フォルダーに保存され、標準環境設定フォルダーでの作業を再開するときには表示されません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43742,6 +43861,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221004T154022Z" creationid="Hiroshi Miura" creationdate="20221004T154022Z">
         <seg>OmeaTには2つのエディションがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT comes with a number of scripts developed by OmegaT contributors. Use the script editor to open, run, or modify scripts directly, or to write new scripts for your own use.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142105Z" creationid="Hiroshi Miura" creationdate="20230218T142105Z">
+        <seg>OmegaTには、OmegaTの貢献者によって開発された多くのスクリプトが付属しています。スクリプト編集を使用して、スクリプトを直接開いたり、実行したり、変更したり、さらには独自に使用する新しいスクリプトを作成することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52929,6 +53056,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T152426Z">
         <seg>スクリプトフォルダー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts are also launched when you are executing other scripts. Consequently, in a large project, an &lt;c0>entry_activated&lt;/c0> script is called frequently when a search/replace type of script that loops through all segments is used, rendering the application unresponsive.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141510Z" creationid="Hiroshi Miura" creationdate="20230218T141510Z">
+        <seg>スクリプトは、他のスクリプトを実行しているときにも起動されます。そのため、大規模なプロジェクトでは、すべてのセグメントをループする検索/置換タイプのスクリプトが使用されている場合に&lt;c0>entry_activated&lt;/c0>スクリプトが頻繁に呼び出され、プログラムが応答しなくなることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64405,6 +64540,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The scripts distributed with OmegaT are included for your convenience but are not supported by the OmegaT development team.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142119Z" creationid="Hiroshi Miura" creationdate="20230218T142119Z">
+        <seg>OmegaTで配布されているスクリプトは、お客様の利便性のために含まれていますが、OmegaTの開発チームではサポートしていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
@@ -66242,6 +66386,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T232855Z" creationid="Hiroshi Miura" creationdate="20230113T232855Z">
         <seg>これらの制御文字は綴り方向を変えますが、見えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>These control characters change directionality but are invisible. Use &lt;l0/>&lt;l1/> to show a visual indication of their position.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142335Z" creationid="Hiroshi Miura" creationdate="20230218T142335Z">
+        <seg>これらの制御文字は方向性を変更しますが、見えません。&lt;l0/>&lt;l1/>を使用すると、位置を視覚的に示すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68436,6 +68589,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters. See the &lt;l0/> preferences for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142531Z" creationid="Hiroshi Miura" creationdate="20230218T142531Z">
+        <seg>これは、分節化ルールをカスタマイズするためのファイルです。詳細は、&lt;l0/>設定を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized user interface shortcuts.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T124742Z" creationid="miurahr" creationdate="20221222T124742Z">
@@ -69369,6 +69530,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T235016Z" creationid="Hiroshi Miura" creationdate="20230113T234940Z">
         <seg>左から右の分節に右から左への埋め込みを作成するには、右から左への埋め込み(RLE: Right-to-Left embedding)文字を挿入し、右から左への文章を入力または挿入してから、PDF文字を挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a shortcut to a script that you use frequently, right-click one of the &lt;g0>&lt;1>&lt;/g0> to &lt;g1>&lt;12>&lt;/g1> buttons at the bottom of the window and select &lt;g2>Add Script&lt;/g2> to assign the script to that number.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141703Z" creationid="Hiroshi Miura" creationdate="20230218T141703Z">
+        <seg>頻繁に使用するスクリプトへのショートカットを作成するには、ウィンドウの下部にある&lt;g0>&lt;1>&lt;/g0>から&lt;g1>&lt;12>&lt;/g1>までのボタンのいずれかを右クリックし、&lt;g2>スクリプトの追加&lt;/g2>を選択して、その番号にスクリプトを割り当てます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77790,6 +77959,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line. See the &lt;l0/> how-to for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142626Z" creationid="Hiroshi Miura" creationdate="20230218T142626Z">
+        <seg>コマンドラインから起動する場合には、標準以外のOmegaT設定フォルダーを指定できます。利用方法は、&lt;l0/>のハウツーの章を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0>Tools &lt;/g0>menu or by pressing&lt;k1> Ctrl+Alt+F#&lt;/k1> (# 1 to 12).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20131116T174351Z">
@@ -77812,6 +77989,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T015834Z" creationid="Hiroshi Miura" creationdate="20221022T015834Z">
         <seg>これを利用して、検索時の大文字と小文字の区別を細かく制御できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can then click on the number to run its assigned script. You can also run the script from the &lt;l0/>&lt;l1/> menu by selecting the applicable menu item or by pressing the associated shortcut (&lt;k2>&lt;k3>C&lt;/k3>&lt;k4>A&lt;/k4>&lt;k5>F1 to F12&lt;/k5>&lt;/k2>).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141752Z" creationid="Hiroshi Miura" creationdate="20230218T141752Z">
+        <seg>次に、番号をクリックして、割り当てられたスクリプトを実行できます。また、&lt;l0/>&lt;l1/>メニューからスクリプトを実行するには、該当するメニュー項目を選択するか、関連するショートカット(&lt;k2>&lt;k3>C&lt;/k3>&lt;k4>A&lt;/k4>&lt;k5>F1～F12&lt;/k5>&lt;/k2>)を押します。</seg>
       </tuv>
     </tu>
     <tu>
