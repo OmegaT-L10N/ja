@@ -16172,6 +16172,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents. In non-segmented projects, disable this option to make leading and trailing whitespace modifiable in the translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151819Z" creationid="Hiroshi Miura" creationdate="20230218T151819Z">
+        <seg>デフォルトではOmegaTは、翻訳対象のコンテンツから先頭と末尾の空白文字を削除します。分節化しないプロジェクトでは、この設定を無効にすると、訳文の先頭と末尾の空白文字が編集可能になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, all files that are not excluded are included.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201106T233027Z" creationid="miurahr" creationdate="20201106T233027Z">
@@ -21884,6 +21892,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205931Z" creationid="Hiroshi Miura" creationdate="20230113T205931Z">
         <seg>特定のフィルターに関連付けられているファイルを翻訳しない場合は、そのチェックボックスをオフにして無効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it. Their contents will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151511Z" creationid="Hiroshi Miura" creationdate="20230218T151511Z">
+        <seg>特定のフィルターに関連付けられているファイルを翻訳しない場合は、そのチェックボックスをオフにして無効にします。そのコンテンツは翻訳対象として表示されなくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37944,6 +37960,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment. Removing them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151752Z" creationid="Hiroshi Miura" creationdate="20230218T151752Z">
+        <seg>通常、OmegaTが翻訳済みの分節を正しく再作成するには、先頭タグと末尾タグが必要です。これらを翻訳可能なコンテンツから削除すると、誤って削除したり変更したりすることがなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140607T151355Z">
@@ -40819,10 +40843,26 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified global file filter preferences are saved in &lt;l0/>, in the configuration folder. See &lt;l1/> for details. Deleting that file also resets the filter preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151603Z" creationid="Hiroshi Miura" creationdate="20230218T151603Z">
+        <seg>変更されたユーザーレベルファイルのフィルター設定は、&lt;l0/>の設定フォルダーに保存されます。詳細は&lt;l1/>を参照してください。このファイルを削除すると、フィルターの環境設定もリセットされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified local file filters are saved in the &lt;l0/> file, located in the project folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T232803Z" creationid="Hiroshi Miura" creationdate="20230117T232739Z">
         <seg>変更されたプロジェクト専用のファイルフィルタ設定は、プロジェクトフォルダーにある&lt;l0/>ファイルに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified local file filters are saved in the &lt;l0/> file, located in the project folder. See the &lt;l1/> chapter for details. Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151720Z" creationid="Hiroshi Miura" creationdate="20230218T151720Z">
+        <seg>変更されたプロジェクト専用のファイルフィルター設定は、&lt;l0/>の設定フォルダーに保存されます。詳細は&lt;l1/>章を参照してください。このファイルを削除すると、フィルターの環境設定もリセットされ、ユーザーレベルのフィルター設定が使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56578,6 +56618,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some preferences do not have an equivalent in the user interface. They must be modified manually.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142724Z" creationid="Hiroshi Miura" creationdate="20230218T142724Z">
+        <seg>環境設定では、ユーザーインターフェースに対応する設定が無いものがあります。それらの設定は、直接編集して反映させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T023134Z">
@@ -64968,6 +65016,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source file name is one of the elements that characterize an alternative translation. If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151911Z" creationid="Hiroshi Miura" creationdate="20230218T151911Z">
+        <seg>ソースファイル名は、例外訳文を特徴付ける要素の1つです。この設定が有効化された場合、前および次の分節や分節識別子のみが、例外訳文を特徴付けるために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source files folder does not exist!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T144145Z" creationid="miurahr" creationdate="20221103T144145Z">
@@ -66415,6 +66471,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running. If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142930Z" creationid="Hiroshi Miura" creationdate="20230218T142930Z">
+        <seg>これらのファイルには、様々な内部の状態が記録されており、OmegaT実行中のプログラム内のイベントメッセージが記録されています。もしOmegaTの動作がおかしいときは、サポートのコミュニティに報告するときに、このファイルを添付するようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These option specify the way OmegaT creates tags from the XLIFF contents.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T030806Z" creationid="Hiroshi Miura" creationdate="20230118T030806Z">
@@ -67595,10 +67659,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0>original text&lt;/e0> from of the current segment when the &lt;l1/> preference is enabled. The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T150952Z" creationid="Hiroshi Miura" creationdate="20230218T150952Z">
+        <seg>&lt;l1/>設定が有効になると、編集中の分節の&lt;e0>原文テキスト&lt;/e0>がこのファイルに入ります。ファイル内のテキストは、次の分節に移動するたびに置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the &lt;e0>translated text&lt;/e0> from the current segment when the &lt;l1/> preference is enabled.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T124308Z" creationid="miurahr" creationdate="20221222T124308Z">
         <seg>&lt;l1/>設定が有効になると、編集中の分節の&lt;e0>訳文テキスト&lt;/e0>がこのファイルに入ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0>translated text&lt;/e0> from the current segment when the &lt;l1/> preference is enabled. The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151023Z" creationid="Hiroshi Miura" creationdate="20230218T151023Z">
+        <seg>&lt;l1/>設定が有効になると、編集中の分節の&lt;e0>訳文テキスト&lt;/e0>がこのファイルに入ります。ファイル内のテキストは、次の分節に移動するたびに置き換えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67667,6 +67747,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file stores the currently selected text when &lt;l0/>&lt;l1/> is used. The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T143001Z" creationid="Hiroshi Miura" creationdate="20230218T143001Z">
+        <seg>&lt;l0/>&lt;l1/>を使用したときに、画面で選択されているテキストが格納されます。ファイル内のテキストは、スクリプト機能が呼び出されるたびに置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder can be set outside the project, enabling you to use it, or one of the specific subfolders, in other projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T042410Z" creationid="Hiroshi Miura" creationdate="20230118T042410Z">
@@ -67679,6 +67767,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T123556Z" creationid="miurahr" creationdate="20221222T123443Z">
         <seg>このフォルダーには、たくさんのログファイルが保存されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files. The most current is &lt;f0>OmegaT.log&lt;/f0>.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T142916Z" creationid="Hiroshi Miura" creationdate="20230218T142916Z">
+        <seg>このフォルダーには、たくさんのログファイルが保存されています。最重要なのは、 &lt;f0>OmegaT.log&lt;/f0>です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67723,6 +67819,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries. See the &lt;l0/> preferences for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151422Z" creationid="Hiroshi Miura" creationdate="20230218T151422Z">
+        <seg>このフォルダには、綴り確認用の辞書が格納されます。詳細は、&lt;l0/>設定を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T080439Z">
@@ -67751,6 +67855,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T125302Z" creationid="miurahr" creationdate="20221222T125302Z">
         <seg>このフォルダには、ユーザごとに導入するOmegaTのプラグインをインストールするためのフォルダーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides an alternative location for manually installed OmegaT extension plugins. See the &lt;l0/> preference for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151403Z" creationid="Hiroshi Miura" creationdate="20230218T151403Z">
+        <seg>このフォルダには、ユーザごとに導入するOmegaTのプラグインをインストールするためのフォルダーです。詳細は、&lt;l0/>設定を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68557,10 +68669,26 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters. See the &lt;l0/> preferences for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151325Z" creationid="Hiroshi Miura" creationdate="20230218T151325Z">
+        <seg>これは、自動テキスト置換の設定パラメータが保存されるファイルです。詳細は&lt;l0/>設定を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized editor shortcuts.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T124646Z" creationid="miurahr" creationdate="20221222T124646Z">
         <seg>これは、編集ウィンドウのショートカットをカスタマイズするためのパラメータのファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts. See the &lt;l0/> appendix for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151126Z" creationid="Hiroshi Miura" creationdate="20230218T151126Z">
+        <seg>これは、編集ウィンドウのショートカットをカスタマイズするためのパラメータのファイルです。詳細は、&lt;l0/>付録を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68573,10 +68701,26 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters. See the &lt;l0/> preferences for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151307Z" creationid="Hiroshi Miura" creationdate="20230218T151307Z">
+        <seg>これは、外部検索の設定パラメータが保存されるファイルです。詳細は、&lt;l0/>設定を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized file filters.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T124835Z" creationid="miurahr" creationdate="20221222T124809Z">
         <seg>これは、ファイル種別ごとのフィルター設定が保存されるファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized file filters. See the &lt;l0/> preferences for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151226Z" creationid="Hiroshi Miura" creationdate="20230218T151226Z">
+        <seg>これは、ファイル種別ごとのフィルター設定が保存されるファイルです。詳細ハ、&lt;l0/>設定を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68601,6 +68745,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T124742Z" creationid="miurahr" creationdate="20221222T124742Z">
         <seg>これは、ユーザインタフェースのショートカットを変更するパラメータのファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts. See the &lt;l0/> appendix for details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151159Z" creationid="Hiroshi Miura" creationdate="20230218T151159Z">
+        <seg>これは、ユーザーインターフェースのショートカットをカスタマイズするためのパラメータのファイルです。詳細は、&lt;l0/>付録を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77947,6 +78099,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T223215Z" creationid="Hiroshi Miura" creationdate="20230116T223215Z">
         <seg>通常のバックアップ保存の頻度は、&lt;l0/>設定で制御できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can sort the filters by name or by whether they are enabled. Click on the relevant header to sort them in ascending or descending order.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151537Z" creationid="Hiroshi Miura" creationdate="20230218T151537Z">
+        <seg>フィルタは、名前または有効かどうかでソートできます。関連するヘッダーをクリックすると、昇順または降順の順序でソートできます。</seg>
       </tuv>
     </tu>
     <tu>
