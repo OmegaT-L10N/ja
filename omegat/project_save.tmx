@@ -18074,6 +18074,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;l0/> to use project-specific (local) segmentation rules rather than the global rules. You can also start OmegaT from the command line with a project specific configuration setting to achieve a similar result.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153554Z" creationid="Hiroshi Miura" creationdate="20230218T153554Z">
+        <seg> &lt;l0/>をクリックして、ユーザーレベルの規則のかわりに、特定の分節化規則(プロジェクト専用のルール)を使用することができます。OmegaT を実行する際に、コマンドラインに起動オプションをプロジェクト専用の設定を記述して実行することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;l0/>.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071933Z" creationid="Hiroshi Miura" creationdate="20230116T071933Z">
@@ -37447,6 +37455,15 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Language codes are used in various places in OmegaT to:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153356Z" creationid="Hiroshi Miura" creationdate="20230218T153356Z">
+        <seg>言語コードは、 OmegaTの様々な箇所で使用されています：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Language codes are used in various places in OmegaT:</seg>
       </tuv>
@@ -43809,6 +43826,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T125830Z" creationid="Hiroshi Miura" creationdate="20230116T125830Z">
         <seg>OmegaTは原文言語と訳文言語に対応するトークナイザーを自動的に選択しますが、設定を手動で変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify those settings. Tokenizers allow OmegaT to provide better matches.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153444Z" creationid="Hiroshi Miura" creationdate="20230218T153444Z">
+        <seg>OmegaTは原文言語と訳文言語に対応するトークナイザーを自動的に選択しますが、設定を手動で変更することもできます。トークナイザーは、OmegaTが検索結果を良くするのに重要な働きをしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55250,6 +55275,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sentence-level segmentation splits paragraphs or other text blocks in the source file into segments based on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153515Z" creationid="Hiroshi Miura" creationdate="20230218T153515Z">
+        <seg>文単位の分節化では、原文ファイルが、分節化規則に基づいて分節に分割されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sentence-level segmentation splits the source file “paragraphs” into segments based on segmentation rules.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T132914Z" creationid="Hiroshi Miura" creationdate="20221022T132914Z">
@@ -66687,6 +66720,14 @@ You, victim of one</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>They are terminology files in a format recognized by OmegaT. You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153058Z" creationid="Hiroshi Miura" creationdate="20230218T153058Z">
+        <seg>OmegaTが認識できるファイル形式の用語集です。プロジェクト用語集のようにOmegaTのGUIインターフェースから変更はできませんが、テキストエディタで編集できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>They are terminology files in a format that OmegaT recognises.</seg>
@@ -67499,6 +67540,15 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T144015Z" creationid="miurahr" creationdate="20201101T144015Z">
         <seg>このダイアログボックスにアクセスするには、&lt;m0>&lt;g1>[プロジェクト]&lt;/g1>&lt;g2>[プロジェクト設定...]&lt;/g2>&lt;/m0>を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>This dialog is used to set the initial project properties when creating a new project or to modify them later, after the project has been created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153346Z" creationid="Hiroshi Miura" creationdate="20230218T153346Z">
+        <seg>ダイアログは、新しいプロジェクトを作成するときに最初のプロジェクト設定のために使用されます。また、プロジェクトが作成された後で、修正するためにも使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79772,6 +79822,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and so on.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153419Z" creationid="Hiroshi Miura" creationdate="20230218T153419Z">
+        <seg>などなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and the text after the location corresponds to the associated &lt;e0>After&lt;/e0> rule.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T155200Z" creationid="miurahr" creationdate="20221222T155200Z">
@@ -79784,6 +79842,15 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T062057Z" creationid="miurahr" creationdate="20201101T062057Z">
         <seg>次に:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>apply the segmentation rules defined in the &lt;l0/> preferences,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153405Z" creationid="Hiroshi Miura" creationdate="20230218T153405Z">
+        <seg>&lt;l0/>設定で定義する分節規則を適用したり、</seg>
       </tuv>
     </tu>
     <tu>
@@ -81904,6 +81971,24 @@ create the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>find grammatical and typographical mistakes from the rules set in the &lt;l0/> preferences,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153411Z" creationid="Hiroshi Miura" creationdate="20230218T153411Z">
+        <seg> &lt;l0/> 設定などで規則集を選択して、文法エラーや綴りの間違いをチェックしたり、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>find spelling mistakes from the dictionaries installed in the &lt;l0/> preferences,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153408Z" creationid="Hiroshi Miura" creationdate="20230218T153408Z">
+        <seg>&lt;l0/>設定でインストールされるスペルチェッカー用辞書をインストールしたり、</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>findInProjectReuseLastWindow</seg>
       </tuv>
@@ -82087,6 +82172,15 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>get results in the &lt;l0/> pane,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153402Z" creationid="Hiroshi Miura" creationdate="20230218T153402Z">
+        <seg> &lt;l0/>ウィンドウの結果を取得したり、</seg>
       </tuv>
     </tu>
     <tu>
