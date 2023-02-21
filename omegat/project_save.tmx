@@ -4555,6 +4555,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/bin/bash&lt;/l0&gt; or &lt;l1&gt;#!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034850Z" creationid="Hiroshi Miura" creationdate="20230221T034850Z">
+        <seg>/bin/bash&lt;/l0&gt;または&lt;l1&gt;#!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T190957Z">
@@ -14074,6 +14082,15 @@ The TMX file will not be loaded.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>And the script must be executable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034903Z" creationid="Hiroshi Miura" creationdate="20230221T034903Z">
+        <seg>スクリプトは実行可能でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
@@ -16750,6 +16767,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20140121T071909Z">
         <seg>しかし、いくつかの機能はスポンサーから有料で発注されたものであり、そうした機能はコミュニティへ寄付され、本体に取り込まれました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chaining commands with &lt;l2&gt;&amp;&amp;&lt;/l2&gt; or &lt;l3&gt;||&lt;/l3&gt; or pipes &lt;l4&gt;|&lt;/l4&gt; will not work here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034939Z" creationid="Hiroshi Miura" creationdate="20230221T034939Z">
+        <seg>&lt;l2&gt;&amp;&amp;&lt;/l2&gt; または &lt;l3&gt;||&lt;/l3&gt; またはパイプ &lt;l4&gt;|&lt;/l4&gt; でコマンドをつなぐ機能は利用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25623,6 +25648,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension of source file without a dot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034435Z" creationid="Hiroshi Miura" creationdate="20230221T034435Z">
+        <seg>原文ファイルのドットを除いた拡張子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115130Z" creationid="Hiroshi Miura" creationdate="20220830T115130Z">
@@ -33758,6 +33791,15 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>In addition to a regular command, you can call a script.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034458Z" creationid="Hiroshi Miura" creationdate="20230221T034458Z">
+        <seg>通常のコマンドに加えて、スクリプトを呼び出すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
       </tuv>
@@ -38511,6 +38553,14 @@ Launch OmegaT as follows.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux and macOS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034726Z" creationid="Hiroshi Miura" creationdate="20230221T034726Z">
+        <seg>LinuxとmacOSの場合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux binary version of Toxic.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130415T033502Z">
@@ -41857,6 +41907,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141740Z" creationid="miurahr" creationdate="20201101T141740Z">
         <seg>ニューラル機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Never run post-processing scripts from untrusted sources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034533Z" creationid="Hiroshi Miura" creationdate="20230221T034533Z">
+        <seg>信頼されていない情報源からの後処理スクリプトは、決して実行しないでください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46731,6 +46789,30 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060738Z" creationid="miurahr" creationdate="20201115T060738Z">
         <seg>プロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in Linux</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035017Z" creationid="Hiroshi Miura" creationdate="20230221T035017Z">
+        <seg>Linux で訳文フォルダーを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in Windows Powershell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035039Z" creationid="Hiroshi Miura" creationdate="20230221T035039Z">
+        <seg>Windows Powershellで訳文フォルダーを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in macOS</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035026Z" creationid="Hiroshi Miura" creationdate="20230221T035026Z">
+        <seg>macOSで訳文フォルダーを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -52695,6 +52777,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>STDOUT and STDERR are written to the &lt;l0&gt;omegat.log&lt;/l0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034703Z" creationid="Hiroshi Miura" creationdate="20230221T034703Z">
+        <seg>STDOUT および STDERR は、 &lt;l0&gt;omegat.log&lt;/l0&gt; ファイルに書き込まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>SVG  / Adobe Illustrator Export</seg>
       </tuv>
@@ -56280,6 +56371,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Simple example of a post-processing commands:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034958Z" creationid="Hiroshi Miura" creationdate="20230221T034958Z">
+        <seg>簡単な後処理用コマンドの例</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -59631,6 +59730,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Template variables can be used with both regular commands and custom scripts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034607Z" creationid="Hiroshi Miura" creationdate="20230221T034549Z">
+        <seg>テンプレート変数は、通常のコマンドとユーザ定義スクリプトの両方で使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T123333Z">
@@ -60449,6 +60556,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035214Z" creationid="Hiroshi Miura" creationdate="20230221T035214Z">
+        <seg>&lt;l0/&gt; 設定を使用すると、 OmegaT がデフォルトで赤色でマークする文字列を定義し、検証の際に検証対象ではないタグとして扱うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; preference.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T072050Z" creationid="Hiroshi Miura" creationdate="20230116T072050Z">
@@ -60463,6 +60578,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T002705Z" creationid="Hiroshi Miura" creationdate="20221022T002705Z">
         <seg>この付録の最後にある&lt;l0/&gt;のセクションでは、このガイドの範囲を超えた高度な使用方法や複雑な使用方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this manual.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035106Z" creationid="Hiroshi Miura" creationdate="20230221T035106Z">
+        <seg>この付録の最後にある&lt;l0/&gt;のセクションでは、この取扱説明書の範囲を超えた高度な使用方法や複雑な使用方法について説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60997,6 +61120,15 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20150101T000459Z">
         <seg>OmegaT プロジェクトは、ほぼすべての分野でボランティアを必要としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The PATH OmegaT uses may not be the same as the current user’s PATH.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034645Z" creationid="Hiroshi Miura" creationdate="20230221T034645Z">
+        <seg>OmegaTが使用するPATHは、現在のユーザーのPATHと同じでない場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62472,6 +62604,15 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T033658Z">
         <seg>エスケープ文字（'\u001B'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>The exit code and STDERR or the last STDOUT will appear on the status bar.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034715Z" creationid="Hiroshi Miura" creationdate="20230221T034715Z">
+        <seg>終了コードと STDERR 、または最後の STDOUT がステータス・バーに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74487,6 +74628,15 @@ OmegaTが使用できるメモリを増やす
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>User Defined Scripts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034444Z" creationid="Hiroshi Miura" creationdate="20230221T034444Z">
+        <seg>ユーザー定義スクリプト</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>User Guide...</seg>
       </tuv>
@@ -78997,6 +79147,15 @@ window to be able to launch it from any location.</seg>
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>You may need to use an absolute path for your script.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034617Z" creationid="Hiroshi Miura" creationdate="20230221T034617Z">
+        <seg>スクリプトには絶対パスを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>You may repeat this operation as needed for locating older situations.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121825Z" creationid="miurahr" creationdate="20221023T121825Z">
@@ -79168,6 +79327,14 @@ them.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T120516Z" creationid="amake" creationdate="20170128T120516Z">
         <seg>新しい場所を指定するか、再作成してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should use a shebang, e.g. &lt;l0&gt;#!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034830Z" creationid="Hiroshi Miura" creationdate="20230221T034817Z">
+        <seg>shebang表記( &lt;l0&gt;#! )を使用する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
