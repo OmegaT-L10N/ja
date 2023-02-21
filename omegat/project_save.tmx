@@ -6783,6 +6783,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Add Glossary Entry&lt;/g0&gt; (equivalent to using &lt;l1/&gt;&lt;l2/&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124726Z" creationid="Hiroshi Miura" creationdate="20230221T124726Z">
+        <seg>&lt;g0&gt;用語を追加&lt;/g0&gt;(&lt;l1/&gt;&lt;l2/&gt;を使用するのと同じ)。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/g0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
       </tuv>
@@ -6836,6 +6845,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T034032Z" creationid="Yu-Tang" creationdate="20141104T034032Z">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;：整形されたファイルの中で、タグが欠けていたり、位置が変わったりしている箇所がないかを調べます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Cut&lt;/g0&gt;, &lt;g1&gt;Copy&lt;/g1&gt;, &lt;g2&gt;Paste&lt;/g2&gt; functions,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124448Z" creationid="Hiroshi Miura" creationdate="20230221T124448Z">
+        <seg>&lt;g0&gt;切り取り&lt;/g0&gt;、&lt;g1&gt;コピー&lt;/g1&gt;、&lt;g2&gt;貼り付け&lt;/g2&gt;の機能</seg>
       </tuv>
     </tu>
     <tu>
@@ -6911,6 +6929,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T082645Z" creationid="Hiroshi Miura" creationdate="20230118T082645Z">
         <seg>&lt;g0&gt;Forward-Backward&lt;/g0&gt;: 代替のアルゴリズムで、文書の整合に利用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Go To Segment&lt;/g0&gt; (to jump to the segment under the pointer).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124456Z" creationid="Hiroshi Miura" creationdate="20230221T124456Z">
+        <seg>&lt;g0&gt;分節に移動&lt;/g0&gt;(ポインタの下の分節にジャンプします)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7064,6 +7091,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125046Z" creationid="Hiroshi Miura" creationdate="20220830T125046Z">
         <seg>&lt;g0&gt;置換フィルター：&lt;/g0&gt;編集ウィンドウに置換用のフィルターをかけ、&lt;g1&gt;編集ウィンドウのヘッダー&lt;/g1&gt;に現れるボタンを使って、1 件ずつ置換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Search Dictionaries&lt;/g0&gt; (to search for the selected term in an installed dictionary).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124504Z" creationid="Hiroshi Miura" creationdate="20230221T124504Z">
+        <seg>&lt;g0&gt;辞書の検索&lt;/g0&gt;(インストールされた辞書で選択した用語を検索するため)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15225,6 +15261,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completion menu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124736Z" creationid="Hiroshi Miura" creationdate="20230221T124736Z">
+        <seg>入力補完メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T184429Z">
@@ -16583,6 +16627,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the cursor is locked in the translation field, and the arrow keys cannot be used to move in the source text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124020Z" creationid="Hiroshi Miura" creationdate="20230221T124020Z">
+        <seg>カーソル移動範囲は、デフォルトでは翻訳領域にロックされ、矢印キーで原文に移動することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the dictionary pane uses the same font size as the main window panes.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T153921Z" creationid="miurahr" creationdate="20221222T153921Z">
@@ -16604,6 +16656,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T145249Z">
         <seg>デフォルトでは、訳文ファイルのエンコーディングは、原文ファイルと同じになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, typing text inserts the new text after the cursor in the typing direction.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T123837Z" creationid="Hiroshi Miura" creationdate="20230221T123809Z">
+        <seg>デフォルトでは、入力中の方向のカーソルの後にテキストは入力されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19592,6 +19652,15 @@ additional steps need to be taken.</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>Context menu</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124254Z" creationid="Hiroshi Miura" creationdate="20230221T124254Z">
+        <seg>コンテキストメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>Context menu priority:</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221220T000719Z" creationid="Hiroshi Miura" creationdate="20221220T000719Z">
@@ -21181,6 +21250,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Cursor lock</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T123952Z" creationid="Hiroshi Miura" creationdate="20230221T123952Z">
+        <seg>カーソルロック</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Cursor lock off</seg>
       </tuv>
@@ -21579,6 +21657,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T112041Z">
         <seg>デフォルトのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default shortcut:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124319Z" creationid="Hiroshi Miura" creationdate="20230221T124319Z">
+        <seg>デフォルトのショートカット:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33200,6 +33286,15 @@ OmegaT is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>If you have selected text and defined entries in the &lt;l0/&gt; preferences, they will also be displayed in this menu (as will local searches).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124756Z" creationid="Hiroshi Miura" creationdate="20230221T124756Z">
+        <seg>&lt;l0/&gt;環境設定で文章を選択してエントリを定義した場合は、それらもこのメニューに表示されます(ローカル検索と同様)。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you have set local rules in the &lt;l0/&gt; dialog, modifications here will not be taken into account.</seg>
       </tuv>
@@ -40873,6 +40968,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Matched glossary items, with comments, if any presented as a tooltip.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124427Z" creationid="Hiroshi Miura" creationdate="20230221T124427Z">
+        <seg>一致した用語集項目とコメント(ツールチップとして表示される場合)。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -40938,6 +41042,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T012347Z" creationid="Hiroshi Miura" creationdate="20221022T012347Z">
         <seg>任意の1文字と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches are taken from both the internal project translation memory created in real time as you translate the project, and external memories you have imported from previous projects or received from third parties.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125223Z" creationid="Hiroshi Miura" creationdate="20230221T125223Z">
+        <seg>参考訳文は、プロジェクトの翻訳メモリ時にリアルタイムで作成された内部プロジェクト翻訳と、以前のプロジェクトからインポートした外部メモリまたはサードパーティから受け取った外部メモリの全てから取得されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42492,6 +42604,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T094016Z">
         <seg>先ほど作成した辞書用フォルダーを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125018Z" creationid="Hiroshi Miura" creationdate="20230221T125018Z">
+        <seg>ナビゲーション</seg>
       </tuv>
     </tu>
     <tu>
@@ -46408,6 +46529,22 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt; &lt;k1&gt;INSERT&lt;/k1&gt; &lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T123859Z" creationid="Hiroshi Miura" creationdate="20230221T123859Z">
+        <seg>WindowsとLinux: &lt;k0&gt;&lt;k1&gt;INSERT&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124905Z" creationid="Hiroshi Miura" creationdate="20230221T124905Z">
+        <seg>WindowsおよびLinuxの場合:&lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -46511,12 +46648,36 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;S&lt;/k1&gt;&lt;k2&gt;Esc&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124327Z" creationid="Hiroshi Miura" creationdate="20230221T124327Z">
+        <seg>macOS: &lt;k0&gt;&lt;k1&gt;S&lt;/k1&gt;&lt;k2&gt;Esc&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T050557Z" creationid="Hiroshi Miura" creationdate="20221022T050557Z">
         <seg>macOSでは: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;Esc&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124916Z" creationid="Hiroshi Miura" creationdate="20230221T124916Z">
+        <seg>macOSの場合: &lt;k0&gt;Esc&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;F3&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T123917Z" creationid="Hiroshi Miura" creationdate="20230221T123917Z">
+        <seg>macOS: &lt;k0&gt;F3&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49934,6 +50095,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060045Z" creationid="miurahr" creationdate="20201115T060045Z">
         <seg>&lt;k0&gt;[F2]&lt;/k0&gt;キーを押すと、キーボードの矢印を使用して、カーソルを原文分節(またはエディタ内の任意の場所)に移動できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; unlocks the cursor and makes it possible to use the arrow keys to move in the source text (or anywhere else in the editor).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124249Z" creationid="Hiroshi Miura" creationdate="20230221T124100Z">
+        <seg>&lt;k0&gt;[F2]&lt;/k0&gt;キーを押すとカーソルをロック解除して、キーボードの矢印を使用して、カーソルを原文分節(またはエディタ内の任意の場所)に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61790,6 +61959,15 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The Editor pane context menu offers various functions available from the &lt;l0/&gt; menu, notably:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124415Z" creationid="Hiroshi Miura" creationdate="20230221T124415Z">
+        <seg>編集ウィンドウのコンテキストメニューには、&lt;l0/&gt;メニューから使用できる次のようなさまざまな機能があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
@@ -63175,6 +63353,15 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T122135Z" creationid="Hiroshi Miura" creationdate="20230221T122135Z">
         <seg>カーソル移動範囲は、デフォルトでは翻訳領域にロックされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The cursor status (locked - &lt;g0&gt;LCK&lt;/g0&gt; or unlocked - &lt;g1&gt;UNL&lt;/g1&gt;) is shown at the right of the &lt;l2&gt;status bar&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124207Z" creationid="Hiroshi Miura" creationdate="20230221T124207Z">
+        <seg>カーソルのステータス(ロック-&lt;g0&gt;LCK&lt;/g0&gt;またはロック解除-&lt;g1&gt;UNL&lt;/g1&gt;)は、&lt;l2&gt;ステータスバー&lt;/l2&gt;の右側に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64927,6 +65114,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The match viewer shows the segments from your translation memories that are most similar to the segment you are currently translating.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125130Z" creationid="Hiroshi Miura" creationdate="20230221T125130Z">
+        <seg>参考訳文ウィンドウには、現在翻訳中の分節に最も近い翻訳メモリの分節が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The matches will be displayed in bold blue.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T101759Z">
@@ -66094,6 +66289,23 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T102451Z">
         <seg>構成例の追加と編集には、同じダイアログを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The same key toggles between each mode.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T123948Z" creationid="Hiroshi Miura" creationdate="20230221T123948Z">
+        <seg>同じキーで各モードを切り替えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same key toggles between locking and unlocking the cursor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124236Z" creationid="Hiroshi Miura" creationdate="20230221T124236Z">
+        <seg>同じキーでロックとロック解除を切り替えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67652,6 +67864,15 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The writing mode (overwrite - &lt;g0&gt;OVR&lt;/g0&gt; or insert - &lt;g1&gt;INS&lt;/g1&gt;) is shown at the right of the &lt;l2&gt;status bar&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T123944Z" creationid="Hiroshi Miura" creationdate="20230221T123944Z">
+        <seg>&lt;l2&gt;ステータスバー&lt;/l2&gt;の右側には、書き込みモード(上書き-&lt;g0&gt;OVR&lt;/g0&gt;または挿入-&lt;g1&gt;INS&lt;/g1&gt;)が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
       </tuv>
@@ -68697,6 +68918,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T115743Z">
         <seg>こうしておくと、プロジェクト全体の訳文ファイルが問題ないか、いつでもチェックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows you to select text using the keyboard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124122Z" creationid="Hiroshi Miura" creationdate="20230221T124122Z">
+        <seg>キーボード操作だけで、任意のテキストを選択することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70158,6 +70387,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210319Z" creationid="Hiroshi Miura" creationdate="20230113T210319Z">
         <seg>このメニューでは、分節編集コマンドにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This menu offers the auto-completion options set in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125006Z" creationid="Hiroshi Miura" creationdate="20230221T125006Z">
+        <seg>このメニューでは、&lt;l0/&gt;設定で設定された自動補完オプションを提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72060,6 +72297,15 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130312T031550Z">
         <seg>新しい検索ウィンドウは、メインウィンドウ上で［&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;］を押すと開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>To overwrite the existing text, use the following keys:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T123843Z" creationid="Hiroshi Miura" creationdate="20230221T123843Z">
+        <seg>既存の文章を上書きするには、次のキーを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75043,6 +75289,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enable this feature.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124439Z" creationid="Hiroshi Miura" creationdate="20230221T124439Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用して、この機能を有効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary.</seg>
@@ -75069,10 +75323,27 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter the pane and add or modify a note.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125046Z" creationid="Hiroshi Miura" creationdate="20230221T125046Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用するとウィンドウに移動でき、そこでコメントを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to filter segments based on criteria that you set, and review only those.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115933Z" creationid="Hiroshi Miura" creationdate="20230116T115933Z">
         <seg>&lt;l0/&gt;&lt;l1/&gt;を使用して、自分で設定した基準で分節をフィルター検索し、問題のある分節のみを確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to go back to the Editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125052Z" creationid="Hiroshi Miura" creationdate="20230221T125052Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;を使用して編集に戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77642,6 +77913,15 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>When you enter a segment, the first fuzzy match (the one with the highest match percentage) is automatically selected.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125253Z" creationid="Hiroshi Miura" creationdate="20230221T125253Z">
+        <seg>次の分節に移動すると、最初の参考訳文（最も一致率の高いもの）が自動的に選択されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>When you exit the project.</seg>
       </tuv>
@@ -79061,6 +79341,15 @@ you think will help the developers with finding and fixing your bug.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130228T054756Z">
         <seg>&lt;g4&gt;［MediaWiki から原文ファイルを追加...］&lt;/g4&gt;ボタンを押して URL を指定すると、MediaWiki 形式で記述されたウェブページを原文ファイルとして追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can also bring up the menu by right-clicking the mouse (&lt;k0&gt;C&lt;/k0&gt; + &lt;k1&gt;click&lt;/k1&gt; on macOS).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T124402Z" creationid="Hiroshi Miura" creationdate="20230221T124402Z">
+        <seg>マウスを右クリックしてメニューを表示することもできます(macOSでは&lt;k0&gt;C&lt;/k0&gt;+&lt;k1&gt;クリック&lt;/k1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
