@@ -13115,6 +13115,15 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>All the arguments should be quoted, e.g. &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T033920Z" creationid="Hiroshi Miura" creationdate="20230221T033920Z">
+        <seg>すべての引数は引用符で囲む必要があります。たとえば、&lt;l0&gt;"${fileName}"&lt;/l0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
@@ -28034,10 +28043,86 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full name of source file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034342Z" creationid="Hiroshi Miura" creationdate="20230221T034342Z">
+        <seg>原文ファイルの完全な名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full path of the TMX</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T195719Z">
         <seg>TMX ファイルのフルパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to source file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034228Z" creationid="Hiroshi Miura" creationdate="20230221T034228Z">
+        <seg>原文ファイルへの絶対パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>Full path to the TM auto folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034137Z" creationid="Hiroshi Miura" creationdate="20230221T034137Z">
+        <seg>TM 自動フォルダーへの絶対パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>Full path to the TM root folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034126Z" creationid="Hiroshi Miura" creationdate="20230221T034126Z">
+        <seg>TM ルート・フォルダーへの絶対パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>Full path to the dictionary folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034147Z" creationid="Hiroshi Miura" creationdate="20230221T034147Z">
+        <seg>辞書フォルダーへの絶対パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the glossary folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034258Z" creationid="Hiroshi Miura" creationdate="20230221T034112Z">
+        <seg>用語集フォルダーへの絶対パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Full path to the project folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034039Z" creationid="Hiroshi Miura" creationdate="20230221T034039Z">
+        <seg>プロジェクトのフォルダーへの絶対パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the source folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034233Z" creationid="Hiroshi Miura" creationdate="20230221T034054Z">
+        <seg>原文フォルダーへの絶対パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the target folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034248Z" creationid="Hiroshi Miura" creationdate="20230221T034101Z">
+        <seg>訳文フォルダーへの絶対パス</seg>
       </tuv>
     </tu>
     <tu>
@@ -41662,6 +41747,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name of source file without extension</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034405Z" creationid="Hiroshi Miura" creationdate="20230221T034405Z">
+        <seg>原文ファイルの拡張子を除いた名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name of the TMX</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T195707Z">
@@ -43466,6 +43559,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T005352Z" creationid="miurahr" creationdate="20201101T005352Z">
         <seg>OS X (未署名)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OS default encoding</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T033628Z" creationid="Hiroshi Miura" creationdate="20230221T033628Z">
+        <seg>OSのデフォルトエンコーディング</seg>
       </tuv>
     </tu>
     <tu>
@@ -48641,6 +48742,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T143607Z" creationid="miurahr" creationdate="20221103T143607Z">
         <seg>後処理用コマンドが異常終了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-Processing Commands</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T033648Z" creationid="Hiroshi Miura" creationdate="20230221T033648Z">
+        <seg>後処理用コマンド：</seg>
       </tuv>
     </tu>
     <tu>
@@ -54249,6 +54358,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for global commands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T033734Z" creationid="Hiroshi Miura" creationdate="20230221T033734Z">
+        <seg>ユーザーレベルのコマンドは&lt;l0/&gt;設定を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
@@ -54272,6 +54389,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T003001Z" creationid="Hiroshi Miura" creationdate="20230114T003001Z">
         <seg>&lt;l0/&gt;プロジェクト設定を見てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; projet property for project specific commands.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T033714Z" creationid="Hiroshi Miura" creationdate="20230221T033714Z">
+        <seg>プロジェクト固有のコマンドについては、&lt;l0/&gt;プロジェクト設定を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57153,6 +57278,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file name relative to given root</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034321Z" creationid="Hiroshi Miura" creationdate="20230221T034321Z">
+        <seg>指定されたルートに対する原文ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file type, filename pattern</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130210T111357Z">
@@ -57257,6 +57390,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T155202Z">
         <seg>原文ファイルフォルダー {0} は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034205Z" creationid="Hiroshi Miura" creationdate="20230221T034205Z">
+        <seg>原文言語</seg>
       </tuv>
     </tu>
     <tu>
@@ -58651,6 +58792,15 @@ and then start OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>TM Root + tmx2source (See the &lt;l0/&gt; how-to for details.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034159Z" creationid="Hiroshi Miura" creationdate="20230221T034159Z">
+        <seg>TM ルート + tmx2source ( 詳細については、 &lt;l0/&gt; の how-to を参照してください。)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>TMX Level 1</seg>
       </tuv>
@@ -59281,6 +59431,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target language</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034209Z" creationid="Hiroshi Miura" creationdate="20230221T034209Z">
+        <seg>訳文言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target language tokenizer:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221210T000836Z" creationid="miurahr" creationdate="20221210T000836Z">
@@ -59453,6 +59611,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T152130Z">
         <seg>テルグ語（Telugu）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template Variables</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T033740Z" creationid="Hiroshi Miura" creationdate="20230221T033740Z">
+        <seg>テンプレート変数</seg>
       </tuv>
     </tu>
     <tu>
@@ -61601,6 +61767,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command is passed to Java runtime exec as a string with the template values expanded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T033850Z" creationid="Hiroshi Miura" creationdate="20230221T033850Z">
+        <seg>コマンドでは、 Java ランタイムの実行時に、テンプレートの値が展開された文字列として渡されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T150854Z" creationid="amake" creationdate="20170128T150854Z">
@@ -62782,6 +62956,15 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The following template variables are always available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T033939Z" creationid="Hiroshi Miura" creationdate="20230221T033939Z">
+        <seg>次のテンプレート変数は常に使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The following terms, to be used in the text below, deserve a short explanation:</seg>
       </tuv>
@@ -63683,6 +63866,15 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>The name of the project directory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034026Z" creationid="Hiroshi Miura" creationdate="20230221T034026Z">
+        <seg>プロジェクト・ディレクトリーの名前</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
@@ -63977,6 +64169,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20220919T053818Z" creationid="miurahr" creationdate="20220919T053429Z">
         <seg>元のファイルはバックアップ保存されます: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The other items on the template list are environment variables for your system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034006Z" creationid="Hiroshi Miura" creationdate="20230221T034006Z">
+        <seg>テンプレート一覧のその他の項目は、システムの環境変数です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74929,6 +75129,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T054806Z" creationid="miurahr" creationdate="20201101T054806Z">
         <seg>100前後の値を指定すると、コマンドが最上部に表示され、900前後の値を指定すると、コマンドが最下部に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variable name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034012Z" creationid="Hiroshi Miura" creationdate="20230221T034012Z">
+        <seg>変数名</seg>
       </tuv>
     </tu>
     <tu>
