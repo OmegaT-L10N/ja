@@ -8198,6 +8198,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063536Z" creationid="Hiroshi Miura" creationdate="20230221T063536Z">
+        <seg>&lt;l0&gt;\H&lt;/l0&gt;は水平方向の空白&lt;e1&gt;以外&lt;/e1&gt;の文字で、&lt;l2&gt;\V&lt;/l2&gt;は垂直方向の空白&lt;e3&gt;以外&lt;/e3&gt;の文字です(それぞれ&lt;l4&gt;[^\h]&lt;/l4&gt;と&lt;l5&gt;[^\v]&lt;/l5&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -10953,6 +10962,14 @@ copyright 2020-2023 Hiroshi Miura</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A currency symbol, which is also a &lt;u0&gt;Unicode category&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063648Z" creationid="Hiroshi Miura" creationdate="20230221T063648Z">
+        <seg>通貨記号、&lt;u0&gt;Unicodeカテゴリでもあります&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A default script called Switch Colour Themes provides a default "Dark".</seg>
       </tuv>
       <tuv lang="ja" changeid="yu-tang" changedate="20150211T174813Z" creationid="yu-tang" creationdate="20150211T174813Z">
@@ -11166,6 +11183,15 @@ copyright 2020-2023 Hiroshi Miura</seg>
         <seg>A logogram (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji &lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T020958Z" creationid="Hiroshi Miura" creationdate="20221022T020958Z">
+        <seg>CJK言語(&lt;u3&gt;Unicodeスクリプト&lt;/u3&gt;)の表意文字(&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;漢字&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>A logogram (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063602Z" creationid="Hiroshi Miura" creationdate="20230221T063602Z">
         <seg>CJK言語(&lt;u3&gt;Unicodeスクリプト&lt;/u3&gt;)の表意文字(&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;漢字&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt;)</seg>
       </tuv>
     </tu>
@@ -14018,6 +14044,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An uppercase letter (&lt;u0&gt;Unicode category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063620Z" creationid="Hiroshi Miura" creationdate="20230221T063620Z">
+        <seg>大文字(&lt;u0&gt;Unicodeカテゴリ&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T034728Z">
@@ -14205,6 +14239,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T012408Z" creationid="Hiroshi Miura" creationdate="20221022T012408Z">
         <seg>「c」で始まり「t」で終わる4つの文字の組み合わせ:「&lt;e0&gt;cart&lt;/e0&gt;」、「&lt;e1&gt;cult&lt;/e1&gt;」、「&lt;e2&gt;coat&lt;/e2&gt;」、または「&lt;e3&gt;cbzt&lt;/e3&gt;」や「&lt;e4&gt;cqlt&lt;/e4&gt;」などの意味不明な組み合わせでも一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any combinations of three letters starting with “c” and ending with “t”: “&lt;e0&gt;cat&lt;/e0&gt;”, “&lt;e1&gt;cut&lt;/e1&gt;”, “&lt;e2&gt;cot&lt;/e2&gt;”, or even nonsensical combinations such as “&lt;e3&gt;czt&lt;/e3&gt;” or “&lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T062848Z" creationid="Hiroshi Miura" creationdate="20230221T062848Z">
+        <seg>「c」で始まり「t」でおわる3文字の任意の組み合わせ:  &lt;e0&gt;cat&lt;/e0&gt;、&lt;e1&gt;cut&lt;/e1&gt;、&lt;e2&gt;cot&lt;/e2&gt;、または&lt;e3&gt;cot&lt;/e3&gt;&lt;e4&gt;cqt&lt;/e4&gt;などの無意味な組合せ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18589,6 +18631,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T012723Z" creationid="Hiroshi Miura" creationdate="20221022T012723Z">
         <seg>「c」で始まり「t」で終わる4文字を含む組み合わせだが、複数の行になっている場合は一致しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combinations containing three letters that start with “c” and ending with “t”, but are split across more than one line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T062906Z" creationid="Hiroshi Miura" creationdate="20230221T062906Z">
+        <seg>「c」で始まり「t」で終わる4文字を含む組み合わせだが、複数の行になっている場合は一致しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27400,6 +27450,15 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T131759Z">
         <seg>たとえば、チェコ語で書かれたテキストファイル（ほとんどの場合 &lt;e2&gt;ISO-9959-2&lt;/e2&gt; で書かれているでしょう）を扱う場合、拡張子を &lt;l3&gt;.txt&lt;/l3&gt; から &lt;l4&gt;.txt2&lt;/l4&gt; に変更するたけで、&lt;a5&gt;OmegaT&lt;/a5&gt; は内容を正しく解釈します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>For example, you could create the &lt;l0&gt;[£€$]&lt;/l0&gt; class to find any of those three currency symbols in the text, or [1-3] to find the number 1, 2 or 3.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063525Z" creationid="Hiroshi Miura" creationdate="20230221T063525Z">
+        <seg>たとえば、&lt;l0&gt;[£€$]&lt;/l0&gt;を指定して、テキスト内の3つの通貨記号のいずれかを検索したり、[1-3]を指定して、数値1、2、3を検索したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36602,6 +36661,15 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064214Z" creationid="Hiroshi Miura" creationdate="20230221T064214Z">
+        <seg>したがって、「equal」または「question」の「q」と一致しますが、「qigong」または「Iraq」の「q」とは&lt;e1&gt;一致しません&lt;/e1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It therefore matches the “q” in “qigong” or “Iraq”, but &lt;e2&gt;not&lt;/e2&gt; the one in “equal” or “question”.</seg>
@@ -36674,6 +36742,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T021630Z" creationid="Hiroshi Miura" creationdate="20221022T021630Z">
         <seg>また、「5136/36/71」などのパターンも検索されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T062919Z" creationid="Hiroshi Miura" creationdate="20230221T062919Z">
+        <seg>また、「Can I help you?」のような文の「Can」の最後の「an」や、「We have pasta for lunch」の「pasta」の最後の「a」も検索されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41281,6 +41358,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
         <seg>More egregious mispellings such as “licensse” or “lissense”.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T015001Z" creationid="Hiroshi Miura" creationdate="20221022T015001Z">
+        <seg>もっと間違いのある “licensse” や “lissense”には一致しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>More egregious misspellings such as “licensse” or “lissense”.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063156Z" creationid="Hiroshi Miura" creationdate="20230221T063156Z">
         <seg>もっと間違いのある “licensse” や “lissense”には一致しない。</seg>
       </tuv>
     </tu>
@@ -47260,6 +47346,14 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Ordinary OmegaT searches are case insensitive by default: they match both uppercase and lowercase characters, unless you choose to enable the &lt;l0/&gt; option.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063513Z" creationid="Hiroshi Miura" creationdate="20230221T063513Z">
+        <seg>通常のOmegaT検索は、デフォルトでは大文字と小文字が区別されません。オプション&lt;l0/&gt;を有効にしない限り、大文字と小文字の両方が一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -51017,6 +51111,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T230949Z" creationid="Hiroshi Miura" creationdate="20230116T230949Z">
         <seg>正規表現では、ピリオドとバックスラッシュ文字(&lt;c0&gt;\.&lt;/c0&gt;と&lt;c1&gt;\\&lt;/c1&gt;)をエスケープする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063355Z" creationid="Hiroshi Miura" creationdate="20230221T063355Z">
+        <seg>&lt;l1&gt;\&lt;/l1&gt;で始まるすべての&lt;e0&gt;アルファベット&lt;/e0&gt;文字は、&lt;e2&gt;文字自体ではなく、関連する特別な意味&lt;/e2&gt;を表す式になることに注意してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62187,6 +62289,15 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” misspellings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063145Z" creationid="Hiroshi Miura" creationdate="20230221T063145Z">
+        <seg>正しい “licence”や“license”の綴りや、綴り間違いの “lisence” や “lisense”に一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
       </tuv>
@@ -65492,6 +65603,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120941Z" creationid="miurahr" creationdate="20221023T120941Z">
         <seg>&lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt;ファイルで変更できるショートカットとそのデフォルト値を次の表に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The simplest regular expression consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063425Z" creationid="Hiroshi Miura" creationdate="20230221T063425Z">
+        <seg>最も単純な正規表現は、単に1つの文字、または&lt;l0&gt;\&lt;/l0&gt;と1つの意味を持つ単位を構成する文字の組み合わせで構成されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73991,6 +74111,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063110Z" creationid="Hiroshi Miura" creationdate="20230221T063110Z">
+        <seg>検索で定義された&lt;o3&gt;n&lt;/o3&gt; 番目のグループを参照するには&lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt; を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T203809Z" creationid="Hiroshi Miura" creationdate="20230113T203809Z">
@@ -76131,6 +76259,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T011939Z" creationid="Hiroshi Miura" creationdate="20221022T011939Z">
         <seg>&lt;l0&gt;角括弧で囲まれた文字クラス&lt;/l0&gt;の最初の文字である場合、そのクラスの文字は一致から除外されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the first character in &lt;l0&gt;a character class enclosed in brackets&lt;/l0&gt;, it matches all the characters that are not part of that class.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T062649Z" creationid="Hiroshi Miura" creationdate="20230221T062626Z">
+        <seg>&lt;l0&gt;角括弧で囲まれた文字クラス&lt;/l0&gt;の最初の文字である場合、そのクラスの文字は除外されて、それ以外の文字全てに一致します。</seg>
       </tuv>
     </tu>
     <tu>
