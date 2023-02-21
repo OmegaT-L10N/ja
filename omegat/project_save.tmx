@@ -8222,6 +8222,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;2148&lt;/l0&gt; is the number of the segment in the project and the &lt;l1&gt;¶&lt;/l1&gt; symbol indicates that the segment is the first segment in a paragraph.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T122100Z" creationid="Hiroshi Miura" creationdate="20230221T122100Z">
+        <seg>&lt;l0&gt;2148&lt;/l0&gt;はプロジェクト内の分節の番号であり、&lt;l1&gt;¶&lt;/l1&gt;記号は分節が段落内の最初の分節であることを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
@@ -16548,6 +16557,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>By default, the &lt;g0&gt;Comments&lt;/g0&gt; and &lt;g1&gt;Notes&lt;/g1&gt; panes have notifications enabled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120732Z" creationid="Hiroshi Miura" creationdate="20230221T120732Z">
+        <seg>デフォルトではでは、&lt;g0&gt;[コメント]&lt;/g0&gt;および&lt;g1&gt;[メモ]&lt;/g1&gt;ペインで通知が有効になっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
       </tuv>
@@ -18306,6 +18324,15 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T071933Z" creationid="Hiroshi Miura" creationdate="20230116T071933Z">
         <seg>&lt;l0/&gt;をクリックする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Click on the &lt;g0&gt;Action&lt;/g0&gt; widget at the top right.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120819Z" creationid="Hiroshi Miura" creationdate="20230221T120819Z">
+        <seg>右上の&lt;g0&gt;アクション&lt;/g0&gt;ウィジェットをクリックします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21480,6 +21507,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T121637Z" creationid="miurahr" creationdate="20221222T121637Z">
         <seg>デフォルトで保存されるファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default editor writing space</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T122019Z" creationid="Hiroshi Miura" creationdate="20230221T122019Z">
+        <seg>編集ウィンドウのデフォルトでの編集領域</seg>
       </tuv>
     </tu>
     <tu>
@@ -24711,6 +24746,15 @@ xxまたはxxxはは言語コード、YYは国コード(省略可能)です。</
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T125007Z" creationid="Hiroshi Miura" creationdate="20220830T125007Z">
         <seg>&lt;g0&gt;［置換後の文字列］&lt;/g0&gt;欄に新しい語句を入力し（正規表現は使えません）、以下のいずれかをクリックします：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Enter the pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120756Z" creationid="Hiroshi Miura" creationdate="20230221T120756Z">
+        <seg>ウィンドウに入ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33994,10 +34038,26 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;List View&lt;/g0&gt;, right click on the &lt;g1&gt;Action&lt;/g1&gt; widget at the right-end of the selected property line and select &lt;g2&gt;Notify Me When a Segment Has...&lt;/g2&gt; (where ... varies according to the desired notification).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121444Z" creationid="Hiroshi Miura" creationdate="20230221T121431Z">
+        <seg>&lt;g0&gt;リスト表示&lt;/g0&gt;で通知させたい項目の右端の&lt;g1&gt;アクション&lt;/g1&gt;ウィジェットを右クリックして、&lt;g2&gt;分節が次の場合に通知する&lt;/g2&gt;(通知によって選択するメニューの場所は異なります)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T192356Z">
         <seg>&lt;g0&gt;［設定］→［外部 TMX ファイル...］&lt;/g0&gt;で表示されるダイアログから、参考訳文ウィンドウの表示方法を設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g0&gt;Table View&lt;/g0&gt;, right click on the item and select &lt;g1&gt;Notify Me When a Segment Has...&lt;/g1&gt; (where ... varies according to the desired notification).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121436Z" creationid="Hiroshi Miura" creationdate="20230221T121238Z">
+        <seg>&lt;g0&gt;表表示&lt;/g0&gt;では、項目で右クリックして&lt;g1&gt;分節が次の場合に通知する&lt;/g1&gt;を選択します(有効にしたい通知によって選択するメニューの順序が異なります)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55583,6 +55643,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select &lt;g0&gt;Notify Me When a Segment Has...&lt;/g0&gt; (where ... varies depending on the pane for which you are enabling notifications.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121457Z" creationid="Hiroshi Miura" creationdate="20230221T120952Z">
+        <seg>&lt;g0&gt;分節が次の場合に通知する&lt;/g0&gt;を選択します(通知を有効にするウィンドウによってメニューの順序が異なります)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T053651Z" creationid="miurahr" creationdate="20201115T053651Z">
@@ -61061,6 +61129,24 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;translation field&lt;/e0&gt; is the second line, between the left border and the segment marker on the right.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121831Z" creationid="Hiroshi Miura" creationdate="20230221T121831Z">
+        <seg>&lt;e0&gt;移動領域&lt;/e0&gt;は、左側の罫線と右側の分節マーカーの間の2番目の線です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The &lt;e1&gt;translation field&lt;/e1&gt; is where you enter your translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T122028Z" creationid="Hiroshi Miura" creationdate="20230221T122028Z">
+        <seg>&lt;e1&gt;翻訳領域&lt;/e1&gt;は、翻訳を入力する場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The &lt;f0&gt;Configuration.properties&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/Resources/&lt;/f1&gt; folder.</seg>
       </tuv>
@@ -61172,6 +61258,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141203T024058Z" creationid="Yu-Tang" creationdate="20141203T024058Z">
         <seg>&lt;g0&gt;TBX 用語集の説明文を表示&lt;/g0&gt;オプションは、用語（&lt;f1&gt;用語集&lt;/f1&gt;フォルダー内の TBX ファイル由来）を含む文脈情報の表示を切り替えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g0&gt;Segment Properties&lt;/g0&gt; pane allows notification settings for each of its item.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121037Z" creationid="Hiroshi Miura" creationdate="20230221T121037Z">
+        <seg>&lt;g0&gt;分節属性&lt;/g0&gt;ウィンドウでは、各項目の通知設定を行うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62914,6 +63008,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The cursor is locked into the translation field by default.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T122135Z" creationid="Hiroshi Miura" creationdate="20230221T122135Z">
+        <seg>カーソル移動範囲は、デフォルトでは翻訳領域にロックされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T181609Z">
@@ -63586,6 +63688,14 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The first line, in bold characters against a green background, is the source text to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121731Z" creationid="Hiroshi Miura" creationdate="20230221T121731Z">
+        <seg>緑の背景に太字で表示されている最初の行は、翻訳する原文の文章です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -63805,6 +63915,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T125537Z" creationid="miurahr" creationdate="20201101T125537Z">
         <seg>次の設定は、OmegaT 2.x との互換性にチェックされている時のみ有効です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following panes can provide notifications:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121007Z" creationid="Hiroshi Miura" creationdate="20230221T121007Z">
+        <seg>次のウィンドウでは、通知を表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64300,6 +64418,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
         <seg>各ライブラリのライセンスについては、
 /lib/licenses/Licenses.txt
 に記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line below the translation field is a different segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T122229Z" creationid="Hiroshi Miura" creationdate="20230221T122229Z">
+        <seg>翻訳領域の下は別の分節です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65977,6 +66103,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The segment marker here is &lt;l0&gt;&lt;segment 2148 ¶&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T122038Z" creationid="Hiroshi Miura" creationdate="20230221T122038Z">
+        <seg>ここの分節マーカーは&lt;l0&gt;&lt;分節2148¶&gt;&lt;/l0&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The segmentation rules are generally valid across all the projects.</seg>
       </tuv>
@@ -66864,6 +66999,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T042031Z">
         <seg>テキストはプレーンテキストファイルとして出力されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text is split into numbered segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121540Z" creationid="Hiroshi Miura" creationdate="20230221T121540Z">
+        <seg>文章が多数の分節に分割されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69666,6 +69809,15 @@ this version will not interfere with it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>This is where you type and edit your translations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121507Z" creationid="Hiroshi Miura" creationdate="20230221T121507Z">
+        <seg>翻訳内容を入力、編集する場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This license allows you to do certain things with &lt;a0&gt;OmegaT&lt;/a0&gt;, including modifying and distributing it.</seg>
       </tuv>
@@ -71369,6 +71521,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150521T050355Z" creationid="Yu-Tang" creationdate="20150521T050355Z">
         <seg>OmegaT で MS Translator を有効するには、ランチャーを編集するか、&lt;l1&gt;OmegaT のインストールと実行&lt;/l1&gt;を参照してコマンドライン指定で起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>To enable or disable notifications,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120745Z" creationid="Hiroshi Miura" creationdate="20230221T120745Z">
+        <seg>通知を有効または無効にするには、</seg>
       </tuv>
     </tu>
     <tu>
@@ -74467,6 +74628,15 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T124536Z" creationid="Hiroshi Miura" creationdate="20220830T124536Z">
         <seg>&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt;で開き、&lt;k3&gt;Esc&lt;/k3&gt;で閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;k0&gt;F2&lt;/k0&gt; to unlock it and freely move it back and forth between the translation field and other parts of the pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T122201Z" creationid="Hiroshi Miura" creationdate="20230221T122201Z">
+        <seg>&lt;k0&gt;F2&lt;/k0&gt;を使用してロックを解除し、移動領域とウィンドウの他の部分との間で自由に移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79640,6 +79810,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T120427Z" creationid="Hiroshi Miura" creationdate="20230116T120427Z">
         <seg>同様のダイアログを使用して、&lt;l0/&gt;機能で用語を置き換えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121602Z" creationid="Hiroshi Miura" creationdate="20230221T121602Z">
+        <seg>スクロールで文書内を移動でき、どの分節でもダブルクリックすることで編集できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90961,6 +91139,28 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T142906Z" creationid="suzume" creationdate="20201122T142906Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Remove Tags&lt;/t0&gt;
+|Supprimer les balises&lt;t1&gt;&lt;segment 2148 ¶&gt;&lt;/t1&gt;
+
+— ¶ —————————————————————
+
+When enabled, all the formatting tags are removed from source segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121954Z" creationid="Hiroshi Miura" creationdate="20230221T121954Z">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Remove Tags&lt;/t0&gt;
+|タグの削除&lt;t1&gt;&lt;segment 2148 ¶&gt;&lt;/t1&gt;
+
+— ¶ —————————————————————
+
+この設定にチェックを入れると、原文分節からすべての整形用のタグを削除します。</seg>
       </tuv>
     </tu>
     <tu>
