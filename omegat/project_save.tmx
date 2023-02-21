@@ -11260,6 +11260,14 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>A number between &lt;e0&gt;0.0&lt;/e0&gt; and &lt;e1&gt;0.9&lt;/e1&gt;, or just the final &lt;e2&gt;0.5&lt;/e2&gt; in numbers such as 10.5 or 560.5.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035730Z" creationid="Hiroshi Miura" creationdate="20230221T035730Z">
+        <seg>&lt;e0&gt;0.0&lt;/e0&gt;から&lt;e1/&gt;0.9の間の数字、または10.5や560.5などのうち、最後の&lt;e2&gt;0.5&lt;/e2&gt;だけの数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -23583,6 +23591,15 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T003808Z" creationid="Hiroshi Miura" creationdate="20221022T003808Z">
         <seg>式のすべての文字は、一致を判断するときに関連します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Each character is briefly described below with examples of regular expressions that rely on the character as well as of text that they do, or do not, match.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035702Z" creationid="Hiroshi Miura" creationdate="20230221T035702Z">
+        <seg>各文字について、その文字に依存する正規表現と、一致するかどうかにかかわらず一致するテキストの例を使用して簡単に説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38299,6 +38316,15 @@ Launch OmegaT as follows.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035600Z" creationid="Hiroshi Miura" creationdate="20230221T035600Z">
+        <seg>バックスラッシュ(&lt;l0&gt;\&lt;/l0&gt;)がついたアルファベットは、特別な意味を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Letters of the alphabet preceded by a blackslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
@@ -50792,6 +50818,14 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035549Z" creationid="Hiroshi Miura" creationdate="20230221T035549Z">
+        <seg>正規表現は、スペース、タブ、改行など、画面に表示されない文字や印刷されない文字を含む文字列を検索するために使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -55650,6 +55684,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035819Z" creationid="Hiroshi Miura" creationdate="20230221T035819Z">
+        <seg>0,1、0-3、または0x002Eの最初の3文字などのシーケンスは、式が&lt;l0&gt;0.[0-9]&lt;/l0&gt;で、ピリオドの前にバックスラッシュがない場合に一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Serbian</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T151839Z">
@@ -56351,6 +56393,15 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Similarly, &lt;l4&gt;\R&lt;/l4&gt; matches &lt;e5&gt;any line break character&lt;/e5&gt;).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T004305Z" creationid="Hiroshi Miura" creationdate="20221022T004305Z">
+        <seg>同様に、&lt;l4&gt;\R&lt;/l4&gt;は&lt;e5&gt;任意の改行文字&lt;/e5&gt;と一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Similarly, &lt;l4&gt;\R&lt;/l4&gt; matches &lt;e5&gt;any line break character&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035610Z" creationid="Hiroshi Miura" creationdate="20230221T035610Z">
         <seg>同様に、&lt;l4&gt;\R&lt;/l4&gt;は&lt;e5&gt;任意の改行文字&lt;/e5&gt;と一致します。</seg>
       </tuv>
     </tu>
@@ -59911,6 +59962,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text highlighting in alignments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035327Z" creationid="Hiroshi Miura" creationdate="20230221T035327Z">
+        <seg>整合内のテキストの強調表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) will not be copied into the translated document.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T035102Z" creationid="Hiroshi Miura" creationdate="20230118T034953Z">
@@ -60586,6 +60645,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035106Z" creationid="Hiroshi Miura" creationdate="20230221T035106Z">
         <seg>この付録の最後にある&lt;l0/&gt;のセクションでは、この取扱説明書の範囲を超えた高度な使用方法や複雑な使用方法について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; setting allows you to define strings that OmegaT will highlight in the aligned documents.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035443Z" creationid="Hiroshi Miura" creationdate="20230221T035443Z">
+        <seg>&lt;l0/&gt; 設定を使用すると、整合された文書内で OmegaT が強調表示する文字列を定義できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63199,6 +63266,15 @@ instead.</seg>
         <seg>The full list characters is presented &lt;l0&gt;below&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T004619Z" creationid="Hiroshi Miura" creationdate="20221022T004526Z">
+        <seg>完全な文字のリストは、&lt;l0&gt;次のとおり&lt;/l0&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The full list of characters is presented &lt;l0&gt;below&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035635Z" creationid="Hiroshi Miura" creationdate="20230221T035635Z">
         <seg>完全な文字のリストは、&lt;l0&gt;次のとおり&lt;/l0&gt;です。</seg>
       </tuv>
     </tu>
@@ -68889,6 +68965,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This manual only describes a small subset of letters that take on a special meaning.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035627Z" creationid="Hiroshi Miura" creationdate="20230221T035627Z">
+        <seg>この説明書では、特別な意味を持つ文字のごく一部について説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T182524Z">
@@ -74182,6 +74266,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual expressions.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035509Z" creationid="Hiroshi Miura" creationdate="20230221T035509Z">
+        <seg>&lt;c0&gt;|&lt;/c0&gt;(OR)文字を使用して、個々の表現を区切ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual fragment definitions.</seg>
@@ -75520,6 +75612,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T170040Z">
         <seg>Microsoft Visio ファイル（*.vxd）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visual cues can help verifying that your alignment is correct.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035418Z" creationid="Hiroshi Miura" creationdate="20230221T035418Z">
+        <seg>視覚的な手がかりは、位置合わせの整合を確認するのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
