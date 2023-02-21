@@ -952,6 +952,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085640Z" creationid="Hiroshi Miura" creationdate="20230221T085640Z">
+        <seg>原文を挿入しない(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20151115T203837Z" creationid="Yu-Tang" creationdate="20151115T203837Z">
@@ -13727,6 +13735,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project consists of a set of folders and files that contain the resources used for translating.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085853Z" creationid="Hiroshi Miura" creationdate="20230221T085853Z">
+        <seg>OmegaTプロジェクトは、一連のフォルダーからなり、翻訳に使用する資材からなるファイルが格納されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T060606Z" creationid="miurahr" creationdate="20201115T060606Z">
@@ -15003,6 +15019,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T173258Z">
         <seg>参考訳文挿入の場合は数値を変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085707Z" creationid="Hiroshi Miura" creationdate="20230221T085707Z">
+        <seg>参考訳文の番号を変更する(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16299,6 +16323,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T151819Z" creationid="Hiroshi Miura" creationdate="20230218T151819Z">
         <seg>デフォルトではOmegaTは、翻訳対象のコンテンツから先頭と末尾の空白文字を削除します。分節化しないプロジェクトでは、この設定を無効にすると、訳文の先頭と末尾の空白文字が編集可能になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, a newly created project will contain all the required resources within its folder, and those resources are assigned the default names below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T090038Z" creationid="Hiroshi Miura" creationdate="20230221T090038Z">
+        <seg>デフォルトでは、新規に作成されるプロジェクトフォルダーには、すべての資材が格納されます。これらのファイルやフォルダーには、次のデフォルトの名前がつけられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21440,6 +21472,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T112041Z">
         <seg>デフォルトのショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default structure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085800Z" creationid="Hiroshi Miura" creationdate="20230221T085800Z">
+        <seg>デフォルトの構造</seg>
       </tuv>
     </tu>
     <tu>
@@ -29944,6 +29984,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085419Z" creationid="Hiroshi Miura" creationdate="20230221T085419Z">
+        <seg>先頭と末尾のタグを隠す(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T135948Z">
@@ -30010,8 +30058,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Highlight Repeated Se&amp;gments</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T202927Z" creationid="Hiroshi Miura" creationdate="20230113T201806Z">
-        <seg>繰り返し(&amp;K)のある分節を色づけ</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084944Z" creationid="Hiroshi Miura" creationdate="20230113T201806Z">
+        <seg>重複(&amp;K)のある分節を色づけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -37147,6 +37195,15 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085401Z" creationid="Hiroshi Miura" creationdate="20230221T085401Z">
+        <seg>Java リソースバンドル</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
@@ -39527,6 +39584,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085715Z" creationid="Hiroshi Miura" creationdate="20230221T085715Z">
+        <seg>機械翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translations pane</seg>
       </tuv>
       <tuv lang="ja" changeid="JC Helary" changedate="20130111T153627Z">
@@ -39596,6 +39661,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130313T064338Z">
         <seg>メーリングリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085108Z" creationid="Hiroshi Miura" creationdate="20230221T085108Z">
+        <seg>内部メモリ(&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40943,11 +41017,28 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085149Z" creationid="Hiroshi Miura" creationdate="20230221T085149Z">
+        <seg>Microsoft Office Open XML ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130213T170943Z">
         <seg>Microsoft Office Open XML（*.docx、*.dotx、*.xlsx、*.xltx、*.pptx）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085212Z" creationid="Hiroshi Miura" creationdate="20230221T085212Z">
+        <seg>Microsoft Office Open XML ファイル(従来フィルター)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41101,6 +41192,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130406T224204Z">
         <seg>未使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085328Z" creationid="Hiroshi Miura" creationdate="20230221T085328Z">
+        <seg>&lt;{1}&gt;の属性'{0}'がありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43570,6 +43669,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T055211Z" creationid="miurahr" creationdate="20201101T055211Z">
         <seg>注:これらの2つの命令は、&lt;u0&gt;(&lt;.*?&gt;)(\d+)&lt;/u0&gt;と記述することで組み合わせることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084618Z" creationid="Hiroshi Miura" creationdate="20230221T084538Z">
+        <seg>メモウインドウ</seg>
       </tuv>
     </tu>
     <tu>
@@ -49800,11 +49907,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Project Folder</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T020053Z" creationid="Hiroshi Miura" creationdate="20230114T020053Z">
-        <seg>Project Folder</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085749Z" creationid="Hiroshi Miura" creationdate="20230114T020053Z">
+        <seg>プロジェクトフォルダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -50764,6 +50872,14 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085126Z" creationid="Hiroshi Miura" creationdate="20230221T085126Z">
+        <seg>参照翻訳メモリ(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Reference glossaries</seg>
@@ -51419,6 +51535,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085429Z" creationid="Hiroshi Miura" creationdate="20230221T085429Z">
+        <seg>HTML コメントを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121005T063253Z">
@@ -51802,6 +51926,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205655Z" creationid="Hiroshi Miura" creationdate="20230113T205655Z">
         <seg>繰り返しのある分節の背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084737Z" creationid="Hiroshi Miura" creationdate="20230221T084737Z">
+        <seg>重複する分節: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -53072,6 +53204,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085354Z" creationid="Hiroshi Miura" creationdate="20230221T085354Z">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085342Z" creationid="Hiroshi Miura" creationdate="20230221T085342Z">
+        <seg>SDLプロジェクトファイル(ベータ版)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SQLJet (GPL License)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20170127T232852Z" creationid="Yu-Tang" creationdate="20170127T232852Z">
@@ -53108,6 +53256,15 @@ These words: 'Page not found'</seg>
         <seg>SVG  / Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T145244Z" creationid="miurahr" creationdate="20221103T145244Z">
+        <seg>SVG または Adobe Illustrator 出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085406Z" creationid="Hiroshi Miura" creationdate="20230221T085406Z">
         <seg>SVG または Adobe Illustrator 出力</seg>
       </tuv>
     </tu>
@@ -57010,6 +57167,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084714Z" creationid="Hiroshi Miura" creationdate="20230221T084714Z">
+        <seg>読み込みに失敗したので、原文ファイル {0} をスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped translation unites for which no source  segment was found.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T144914Z" creationid="miurahr" creationdate="20221103T144914Z">
@@ -57820,6 +57985,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085053Z" creationid="Hiroshi Miura" creationdate="20230221T085053Z">
+        <seg>原文ファイルを読み込みました。エラーのため、一部をスキップしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T155202Z">
@@ -58446,6 +58619,14 @@ https://support.microsoft.com/kb/901125/</note>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T045833Z" creationid="Hiroshi Miura" creationdate="20221022T045833Z">
         <seg>「。」の後に新しい分節を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085534Z" creationid="Hiroshi Miura" creationdate="20230221T085534Z">
+        <seg>この後で新しい分節を開始します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -61225,6 +61406,15 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T201520Z">
         <seg>用語集ウィンドウには、用語集ファイルにあらかじめ蓄積した、表現や専門用語の対訳を表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>The HTML parser threw an exception during file processing:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085606Z" creationid="Hiroshi Miura" creationdate="20230221T085606Z">
+        <seg>HTML パーサーは、ファイルの処理中に例外をスローしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77890,6 +78080,14 @@ https://ja.wordpress.org/</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XLIFF 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085218Z" creationid="Hiroshi Miura" creationdate="20230221T085218Z">
+        <seg>XLIFF2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XLIFF Filter Options</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130329T114047Z">
@@ -90685,6 +90883,16 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T054726Z" creationid="suzume" creationdate="20200119T054726Z">
         <seg>単語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">TF_MENU_GOTO_EDITOR_PANEL</prop>
+      <tuv lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084629Z" creationid="Hiroshi Miura" creationdate="20230221T084608Z">
+        <seg>編集ウインドウ</seg>
       </tuv>
     </tu>
     <tu>
