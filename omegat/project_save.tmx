@@ -10789,6 +10789,19 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Configuration&lt;/t0&gt; Folder
+Dossier de configuration
+&lt;50/50/66% &gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125518Z" creationid="Hiroshi Miura" creationdate="20230221T125518Z">
+        <seg>&lt;t0&gt;構成&lt;/t0&gt;フォルダー
+構成一式文書
+&lt;50/50/66% &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Extension&lt;/t1&gt; &lt;t2&gt;Encoding&lt;/t2&gt;</seg>
       </tuv>
@@ -64046,6 +64059,14 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The first match</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125326Z" creationid="Hiroshi Miura" creationdate="20230221T125326Z">
+        <seg>最初の参考訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -66541,6 +66562,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T181400Z">
         <seg>選択された状態の参考訳文は太字で表示されます。翻訳しようとしている分節に存在しない単語は青字で、それに隣接する単語は緑字で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>The selected fuzzy match is highlighted in bold.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125526Z" creationid="Hiroshi Miura" creationdate="20230221T125526Z">
+        <seg>選択した参考訳文が太字で強調表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78641,6 +78671,15 @@ https://ja.wordpress.org/</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Words missing from the segment you are translating are shown in blue, and adjacent words in green.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125548Z" creationid="Hiroshi Miura" creationdate="20230221T125548Z">
+        <seg>翻訳中の分節から欠落している単語は青で、隣接する単語は緑で表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Work with more than 30 file formats</seg>
       </tuv>
@@ -80238,6 +80277,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T091439Z">
         <seg>ウィンドウは重ねて表示させることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2, 3, 4, or 5&lt;/k2&gt; &lt;/k0&gt;, or use &lt;l3/&gt;&lt;l4/&gt;, to select a different match .</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T125316Z" creationid="Hiroshi Miura" creationdate="20230221T125316Z">
+        <seg>別の参考訳文を選択するには、&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2、3、4、または5&lt;/k2&gt;&lt;/k0&gt;を押すか、&lt;l3/&gt;&lt;l4/&gt;を使用します。</seg>
       </tuv>
     </tu>
     <tu>
