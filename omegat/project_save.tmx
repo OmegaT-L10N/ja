@@ -10883,6 +10883,15 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; followed by the letter “u”.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064219Z" creationid="Hiroshi Miura" creationdate="20230221T064219Z">
+        <seg>その後に文字「u」が続く文字&lt;e0&gt;ではない&lt;/e0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -18175,6 +18184,15 @@ documentation.</seg>
         <seg>Click on &lt;l0/&gt; to use project specific segmentation rules (local rules) and not the global rules.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T130106Z" creationid="Hiroshi Miura" creationdate="20230116T130106Z">
+        <seg> &lt;l0/&gt;をクリックして、ユーザーレベルの規則のかわりに、特定の分節化規則(プロジェクト専用のルール)を使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Click on &lt;l0/&gt; to use project-specific (local) segmentation rules rather than the global rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064856Z" creationid="Hiroshi Miura" creationdate="20230221T064856Z">
         <seg> &lt;l0/&gt;をクリックして、ユーザーレベルの規則のかわりに、特定の分節化規則(プロジェクト専用のルール)を使用することができます。</seg>
       </tuv>
     </tu>
@@ -26578,6 +26596,14 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Find clauses that start with a comma followed by a whitespace character, contain one or more words (including words in quotation marks, contractions, and filenames with a file extension), and end either with a comma or period.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064256Z" creationid="Hiroshi Miura" creationdate="20230221T064256Z">
+        <seg>コンマで始まり、その後に空白文字が続き、1つ以上の単語(引用符で囲まれた単語、短縮形、およびファイル拡張子の付いたファイル名を含む)を含み、コンマまたはピリオドで終わる句を検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -30271,6 +30297,14 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>However, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064943Z" creationid="Hiroshi Miura" creationdate="20230221T064943Z">
+        <seg>ただし、元の翻訳はプロジェクトの翻訳メモリ内に残ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
@@ -32889,6 +32923,15 @@ OmegaT.</seg>
     <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
+        <seg>If you just need to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065027Z" creationid="Hiroshi Miura" creationdate="20230221T065027Z">
+        <seg>&lt;a0&gt;Microsoft Word&lt;/a0&gt;(2007以降)の文書でタグの数を減らす必要がある場合は、&lt;l1/&gt;スクリプトを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
         <seg>If you just need to reduce the number of tags, you can use the &lt;l0/&gt; script.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T135154Z" creationid="Hiroshi Miura" creationdate="20221022T135154Z">
@@ -34723,6 +34766,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T051246Z" creationid="Hiroshi Miura" creationdate="20221022T051246Z">
         <seg>このガイドの内容:&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064724Z" creationid="Hiroshi Miura" creationdate="20230221T064724Z">
+        <seg>この説明書での表記は: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40164,6 +40215,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Repeated Segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064822Z" creationid="Hiroshi Miura" creationdate="20230221T064822Z">
+        <seg>繰り返しのある分節を色づけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -42209,6 +42268,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064751Z" creationid="Hiroshi Miura" creationdate="20230221T064751Z">
+        <seg>tm/auto/ からの次の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next Translated Segment</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140215T184205Z">
@@ -44168,6 +44235,15 @@ as the Applications folder.</seg>
         <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify the settings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T125830Z" creationid="Hiroshi Miura" creationdate="20230116T125830Z">
+        <seg>OmegaTは原文言語と訳文言語に対応するトークナイザーを自動的に選択しますが、設定を手動で変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify those settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064835Z" creationid="Hiroshi Miura" creationdate="20230221T064835Z">
         <seg>OmegaTは原文言語と訳文言語に対応するトークナイザーを自動的に選択しますが、設定を手動で変更することもできます。</seg>
       </tuv>
     </tu>
@@ -49397,6 +49473,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064812Z" creationid="Hiroshi Miura" creationdate="20230221T064812Z">
+        <seg>tm/auto/ からの前の分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Previous and &amp;next paragraphs</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -52234,6 +52318,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155255Z" creationid="Hiroshi Miura" creationdate="20221022T155255Z">
         <seg>資材のフォルダは、共有ディスクを含むマシン上の任意の場所に配置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resource folders can be located anywhere on your system, including on shared disks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065628Z" creationid="Hiroshi Miura" creationdate="20230221T065628Z">
+        <seg>資材のフォルダは、共有ディスクを含むシステム上の任意の場所に配置できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64890,6 +64982,22 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065156Z" creationid="Hiroshi Miura" creationdate="20230221T065156Z">
+        <seg>新しい外部検索の設定は、プロジェクトと共に&lt;l1/&gt;フォルダーの&lt;l0/&gt;ファイルに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065106Z" creationid="Hiroshi Miura" creationdate="20230221T065106Z">
+        <seg>新しいファイルフィルターの設定は、プロジェクトと共に&lt;l1/&gt;フォルダーの&lt;l0/&gt;ファイルに保存されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder. These settings will supersede the global file filter settings.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T160740Z" creationid="Hiroshi Miura" creationdate="20230218T160740Z">
@@ -64911,6 +65019,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T130520Z" creationid="Hiroshi Miura" creationdate="20230116T130520Z">
         <seg>新しい規則集は、プロジェクトと共に&lt;l1/&gt;フォルダーの&lt;l0/&gt;ファイルに保存されます。またユーザーレベルの分節化規則集には干渉しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064954Z" creationid="Hiroshi Miura" creationdate="20230221T064954Z">
+        <seg>新しい規則集は、プロジェクトと共に&lt;l1/&gt;フォルダーの&lt;l0/&gt;ファイルに保存されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67206,10 +67322,35 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These rules will supersede the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065004Z" creationid="Hiroshi Miura" creationdate="20230221T065004Z">
+        <seg>またユーザーレベルの分節化規則集には干渉しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054309Z" creationid="miurahr" creationdate="20201115T054309Z">
         <seg>これらの設定は、OmegaTの全体、つまりすべてのプロジェクトに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings will supersede the global external searches settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065207Z" creationid="Hiroshi Miura" creationdate="20230221T065207Z">
+        <seg>これらの設定は、ユーザーレベルファイルの外部検索設定よりも優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>These settings will supersede the global file filter settings.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065121Z" creationid="Hiroshi Miura" creationdate="20230221T065121Z">
+        <seg>これらの設定は、ユーザーレベルファイルのフィルター設定よりも優先されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69827,6 +69968,14 @@ settings to their defaults.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will split or merge some previously translated segments, which will therefore no longer be translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064921Z" creationid="Hiroshi Miura" creationdate="20230221T064921Z">
+        <seg>すると、以前に翻訳済みの一部の分節が分割または結合され、翻訳済みの分節ではなくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will translate a string like "$123,399.99" to "123 399,99 USD"</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140323T050417Z">
@@ -70530,6 +70679,15 @@ file type is associated with Java on your system.</seg>
         <seg>To delete project specific external searches, click on &lt;g0&gt;Remove&lt;/g0&gt; or remove that file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151916Z" creationid="Hiroshi Miura" creationdate="20230116T151916Z">
+        <seg>プロジェクト専用の外部検索を無効にするには、&lt;g0&gt;削除&lt;/g0&gt;をクリックにするか、そのファイルを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>To delete project specific external searches, click on the &lt;g0&gt;Remove&lt;/g0&gt; button or remove that file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065234Z" creationid="Hiroshi Miura" creationdate="20230221T065234Z">
         <seg>プロジェクト専用の外部検索を無効にするには、&lt;g0&gt;削除&lt;/g0&gt;をクリックにするか、そのファイルを削除します。</seg>
       </tuv>
     </tu>
@@ -74494,10 +74652,18 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064627Z" creationid="Hiroshi Miura" creationdate="20230221T064332Z">
+        <seg>プロジェクト設定の&lt;l0/&gt;を使用して、現在のプロジェクトの分節化ルールのスコープを制限します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221222T154854Z" creationid="miurahr" creationdate="20221222T154854Z">
-        <seg>&lt;l0/&gt;プロジェクトプロパティを使用して、分節化のタイプを選択します。</seg>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064446Z" creationid="miurahr" creationdate="20221222T154854Z">
+        <seg>&lt;l0/&gt;プロジェクト設定を使用して、分節化のタイプを選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76135,6 +76301,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T152512Z" creationid="miurahr" creationdate="20221222T152512Z">
         <seg>用語集の用語が複合語である場合、原文テキストで単語が別々に表示されていても、その用語は一致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a new project is created, OmegaT proposes a default project folder structure that contains all the resources used in the translation, but that structure is not compulsory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065309Z" creationid="Hiroshi Miura" creationdate="20230221T065309Z">
+        <seg>新しいプロジェクトが作成されると、OmegaTは翻訳で使用されるすべての資材を含むプロジェクトフォルダーを提案しますが、その構造は必須ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77856,6 +78030,15 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T133016Z" creationid="Hiroshi Miura" creationdate="20221022T133016Z">
         <seg>ユーザーレベルのルールにアクセスするには、&lt;l1/&gt;メニューの&lt;l0/&gt;を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can achieve a similar result by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T064604Z" creationid="Hiroshi Miura" creationdate="20230221T064604Z">
+        <seg>コマンドラインからOmegaTを起動しても、同様の結果が得られます。</seg>
       </tuv>
     </tu>
     <tu>
