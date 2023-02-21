@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_90bacbc35" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_71ca3a1ee" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6084,6 +6084,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Maximizes&lt;/e0&gt; the pane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T115615Z" creationid="Hiroshi Miura" creationdate="20230221T115615Z">
+        <seg>ウィンドウを&lt;e0&gt;最大化&lt;/e0&gt;します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Minimizes&lt;/e0&gt; the pane to a tab at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T115606Z" creationid="Hiroshi Miura" creationdate="20230221T115606Z">
+        <seg>ウィンドウを&lt;e0&gt;最小化&lt;/e0&gt;し、メインウィンドウの底部にタブ化されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130220T155533Z">
@@ -6278,6 +6294,22 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Restores&lt;/e0&gt; a maximized pane to its previous layout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T115647Z" creationid="Hiroshi Miura" creationdate="20230221T115647Z">
+        <seg>ウィンドウを以前のレイアウトで&lt;e0&gt;復元&lt;/e0&gt;します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Returns&lt;/e0&gt; the pane to the main window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T115755Z" creationid="Hiroshi Miura" creationdate="20230221T115755Z">
+        <seg>分かれたウィンドウをメインウィンドウに&lt;e0&gt;戻し&lt;/e0&gt;ます 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Sample text:&lt;/e0&gt; field for immediate preview of the selected font</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T071317Z">
@@ -6451,6 +6483,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130305T024014Z">
         <seg>&lt;e0&gt;翻訳作業の流れ：&lt;/e0&gt;翻訳対象は、ファイル１つのこともあれば、いろいろな形式のファイルを含んだたくさんのフォルダー、という場合もあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Undocks&lt;/e0&gt; the pane from the main window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T115700Z" creationid="Hiroshi Miura" creationdate="20230221T115700Z">
+        <seg>ウィンドウをメインウィンドウから&lt;e0&gt;切り離し&lt;/e0&gt;て、独立したウィンドウとして表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19509,6 +19549,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Context menus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120119Z" creationid="Hiroshi Miura" creationdate="20230221T120119Z">
+        <seg>コンテキストメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T143034Z" creationid="amake" creationdate="20170128T143034Z">
@@ -22989,6 +23037,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doing so shows a tab with the name of the pane at the top of the group.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T115918Z" creationid="Hiroshi Miura" creationdate="20230221T115908Z">
+        <seg>すると、グループの一番上にウィンドウの名前が付いたタブが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130531T132522Z">
@@ -23438,6 +23494,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Dragging and dropping</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120318Z" creationid="Hiroshi Miura" creationdate="20230221T120318Z">
+        <seg>ドラッグ＆ドロップ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
@@ -23467,6 +23532,39 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150521T053406Z" creationid="Yu-Tang" creationdate="20150521T030904Z">
         <seg>プロジェクトに追加したい用語集ファイルをここにドラッグしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping &lt;f0&gt;.tmx&lt;/f0&gt; files here will copy them to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120527Z" creationid="Hiroshi Miura" creationdate="20230221T120527Z">
+        <seg>&lt;f1&gt;.tmx&lt;/f1&gt;ファイルをドロップすると&lt;f0&gt;tm&lt;/f0&gt;フォルダーにコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Dropping an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) or a full project here will open the corresponding project after closing the currently open project, if any.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120357Z" creationid="Hiroshi Miura" creationdate="20230221T120357Z">
+        <seg>OmegaTプロジェクトファイル(&lt;f0&gt;OmegaT.project&lt;/f0&gt;)または完全なプロジェクトをここにドロップすると、現在開いているプロジェクトがあれば、それを閉じた後に対応するプロジェクトが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping files with a recognized glossary extension (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) here will copy them to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120556Z" creationid="Hiroshi Miura" creationdate="20230221T120556Z">
+        <seg>用語集として既知の拡張子（&lt;f0&gt;.txt&lt;/f0&gt;、&lt;f1&gt;.tab&lt;/f1&gt;など）を持つファイルをこのウィンドウにドロップすると、そのファイルが&lt;f2&gt;用語集&lt;/f2&gt;フォルダにコピーされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping other files will copy them to the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120436Z" creationid="Hiroshi Miura" creationdate="20230221T120419Z">
+        <seg>他のファイルをドロップすると、それらは&lt;f0&gt;原文&lt;/f0&gt;フォルダーにコピーされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26491,6 +26589,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Files can be dragged and dropped on certain panes, with the following results:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120332Z" creationid="Hiroshi Miura" creationdate="20230221T120332Z">
+        <seg>特定のペインでファイルをドラッグアンドドロップすると、次のような結果になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
       </tuv>
@@ -28396,6 +28503,15 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T131436Z">
         <seg>参考訳文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Fuzzy Matches pane</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120458Z" creationid="Hiroshi Miura" creationdate="20230221T120458Z">
+        <seg>参考訳文ウィンドウ</seg>
       </tuv>
     </tu>
     <tu>
@@ -30994,6 +31110,14 @@ path need not be entered.)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T153011Z" creationid="miurahr" creationdate="20221222T153011Z">
         <seg>用語集の用語に複数の定義があったときに、同じ行に一度に表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a pane is closed but has contents to display, OmegaT can temporarily highlight the pane tab in orange when you enter the segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120712Z" creationid="Hiroshi Miura" creationdate="20230221T120712Z">
+        <seg>ウィンドウが最小化されていても、表示コンテンツがある場合、分節に入るときにウィンドウタブを一時的にオレンジ色で強調表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38945,6 +39069,15 @@ automatically download and install it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Lists the various extra &lt;e0&gt;actions&lt;/e0&gt; available in the pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T112948Z" creationid="Hiroshi Miura" creationdate="20230221T112948Z">
+        <seg>ウィンドウで使用可能なさまざまな追加&lt;e0&gt;アクション&lt;/e0&gt;を一覧表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
@@ -40000,6 +40133,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140501T165746Z">
         <seg>Manfred Martin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>Manipulation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T112742Z" creationid="Hiroshi Miura" creationdate="20230221T112742Z">
+        <seg>操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -43763,6 +43905,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120606Z" creationid="Hiroshi Miura" creationdate="20230221T120606Z">
+        <seg>通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me Even If There Are No Search Results</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221219T234950Z" creationid="Hiroshi Miura" creationdate="20221219T234950Z">
@@ -46129,6 +46279,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;Menu&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120254Z" creationid="Hiroshi Miura" creationdate="20230221T120254Z">
+        <seg>WindowsとLinux: &lt;k0&gt;メニュー&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T131404Z">
@@ -46167,6 +46325,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T043922Z" creationid="miurahr" creationdate="20201115T043922Z">
         <seg>macOSの場合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt; &lt;k1&gt;S&lt;/k1&gt; &lt;k2&gt;Esc&lt;/k2&gt; &lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120311Z" creationid="Hiroshi Miura" creationdate="20230221T120311Z">
+        <seg>macOS: &lt;k0&gt;&lt;k1&gt;S&lt;/k1&gt;&lt;k2&gt;Esc&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48146,6 +48312,15 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T140536Z" creationid="suzume" creationdate="20201122T140536Z">
         <seg>ウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Panes can be resized by dragging the separators between them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T115948Z" creationid="Hiroshi Miura" creationdate="20230221T115948Z">
+        <seg>ウィンドウのサイズを変更するには、ウィンドウ間のセパレータをドラッグします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57448,6 +57623,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>Some panes have a context menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120134Z" creationid="Hiroshi Miura" creationdate="20230221T120134Z">
+        <seg>一部のペインには、コンテキストメニューがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Some plugins can make this task easier.</seg>
       </tuv>
@@ -64397,6 +64581,14 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The main window consists of several panes, described here, menus, described in the &lt;l0/&gt; chapter, and a status bar, described &lt;l1&gt;below&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T112854Z" creationid="Hiroshi Miura" creationdate="20230221T112753Z">
+        <seg>メインウィンドウは、本章で説明するウィンドウ、&lt;l0/&gt;で説明するメインメニュー、&lt;l1&gt;以下&lt;/l1&gt;で説明するステータスバーから構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The main window consists of several panes, the main menu and a status bar.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T084743Z">
@@ -66732,6 +66924,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The top right corner of each pane shows different icons depending on the type of pane and its current status:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T112936Z" creationid="Hiroshi Miura" creationdate="20230221T112925Z">
+        <seg>各ウィンドウの右上隅には、ウィンドウのタイプとその現在のステータスに応じたアイコンが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
         <seg>The translatable data (ie.</seg>
@@ -68191,6 +68391,15 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T115743Z">
         <seg>こうしておくと、プロジェクト全体の訳文ファイルが問題ないか、いつでもチェックできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>This also applies to the &lt;l1/&gt; window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120454Z" creationid="Hiroshi Miura" creationdate="20230221T120454Z">
+        <seg>これは、 &lt;l1/&gt; ウィンドウにも適用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74510,6 +74719,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to go back to the default layout if you lose track of the changes you made to the user interface and can no longer see certain panes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120113Z" creationid="Hiroshi Miura" creationdate="20230221T120113Z">
+        <seg>ユーザー・インターフェースに対して行った変更の追跡が失われ、特定のペインが表示されなくなる場合は、 &lt;l0/&gt;&lt;l1/&gt; を使用してデフォルトのレイアウトに戻すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T125323Z" creationid="Hiroshi Miura" creationdate="20230116T125323Z">
@@ -78810,6 +79027,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>You can call that menu using the standard method for your OS, or with the OmegaT defined shortcuts:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T120207Z" creationid="Hiroshi Miura" creationdate="20230221T120207Z">
+        <seg>このメニューは、OS標準の呼び出し方式か、OmegaTで定義されたショートカットを使用して呼び出すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can change its name and location in the &lt;l0/&gt; dialog, but you must give it a &lt;f1&gt;.txt&lt;/f1&gt; or &lt;f2&gt;.utf8&lt;/f2&gt; extension, and store it within the &lt;l3/&gt; folder or in one of its subfolders.</seg>
@@ -78906,6 +79131,15 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T065728Z" creationid="Hiroshi Miura" creationdate="20221021T065728Z">
         <seg>インストール時に使用する言語とOmegaTで使用する言語を選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[TexTra Powered by NICT]</prop>
+      <tuv lang="en">
+        <seg>You can click and hold the name of a pane to drag it to a new position or even undock it as a separate window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T112909Z" creationid="Hiroshi Miura" creationdate="20230221T112909Z">
+        <seg>ウィンドウの名前をクリックしたまま新しい位置にドラッグしたり、別のウィンドウとしてドッキング解除することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79156,6 +79390,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T023520Z" creationid="miurahr" creationdate="20201101T023520Z">
         <seg>&lt;a0&gt;ホームページ&lt;/a0&gt; に移動して、そこから必要な情報を見つけることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can group panes in the same area of the window.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T115837Z" creationid="Hiroshi Miura" creationdate="20230221T115837Z">
+        <seg>同じ領域に複数ウィンドウをグループ化できます。</seg>
       </tuv>
     </tu>
     <tu>
