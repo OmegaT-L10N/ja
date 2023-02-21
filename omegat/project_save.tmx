@@ -1104,6 +1104,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T070145Z" creationid="Hiroshi Miura" creationdate="20230221T070145Z">
+        <seg>次を検索(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T141117Z" creationid="amake" creationdate="20170128T141117Z">
@@ -1755,6 +1763,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T070228Z" creationid="Hiroshi Miura" creationdate="20230221T070228Z">
+        <seg>置換して次を検索(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T141124Z" creationid="amake" creationdate="20170128T141124Z">
@@ -1962,6 +1978,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150716T121907Z" creationid="Yu-Tang" creationdate="20150716T121907Z">
         <seg>関連性の強い補完候補を自動的に表示する(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T070133Z" creationid="Hiroshi Miura" creationdate="20230221T070133Z">
+        <seg>置換を表示(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18293,6 +18317,15 @@ documentation.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Exclusions...&lt;/g0&gt; button to specify files or folders that should be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T070048Z" creationid="Hiroshi Miura" creationdate="20230221T070048Z">
+        <seg>&lt;g0&gt;[除外]&lt;/g0&gt;をクリックして、OmegaTによって無視されるファイルまたはフォルダを定義します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
       </tuv>
@@ -29927,6 +29960,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide Tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084419Z" creationid="Hiroshi Miura" creationdate="20230221T084419Z">
+        <seg>タグを隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142910Z" creationid="amake" creationdate="20170128T142910Z">
@@ -31708,6 +31749,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155852Z" creationid="Hiroshi Miura" creationdate="20221022T155852Z">
         <seg>フォルダーが空の場合、翻訳可能なコンテンツを含むファイルがない場合、またはOmegaTのファイルフィルターでサポートされているファイルがない場合、OmegaTはフォルダーが空であることを通知します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the folder is empty, none of the files contain translatable content, or there are no files supported by the available file filters, OmegaT will tell you that the folder is empty.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T070004Z" creationid="Hiroshi Miura" creationdate="20230221T070004Z">
+        <seg>フォルダーが空の場合、翻訳可能なコンテンツを含むファイルがない場合、またはOmegaTのファイルフィルターでサポートされているファイルがない場合、OmegaTはフォルダーが空であると通知します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36544,6 +36593,15 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T014514Z" creationid="Hiroshi Miura" creationdate="20221022T014514Z">
         <seg>それだけでは使えないので、特別です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[IBM Watson]</prop>
+      <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084219Z" creationid="Hiroshi Miura" creationdate="20230221T084219Z">
+        <seg>これは TMX ファイルに保管されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45434,6 +45492,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and displays the translatable contents it finds in the editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065928Z" creationid="Hiroshi Miura" creationdate="20230221T065928Z">
+        <seg>OmegaTは、すべてのファイルを一度に読み取ろうとし、翻訳可能な内容をエディタに表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT tries to read all the files at once, and matches their contents to the segment you are translating.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T152832Z" creationid="Hiroshi Miura" creationdate="20230116T152832Z">
@@ -51313,6 +51379,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084239Z" creationid="Hiroshi Miura" creationdate="20230221T084239Z">
+        <seg>リモートリポジトリgit+sshの認証エラー：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20200119T053749Z" creationid="suzume" creationdate="20200119T053749Z">
@@ -51703,6 +51777,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130215T192250Z">
         <seg>タグ検証機能により、タグの修正と翻訳文書の再生成が簡単になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084409Z" creationid="Hiroshi Miura" creationdate="20230221T084409Z">
+        <seg>同一原文あり</seg>
       </tuv>
     </tu>
     <tu>
@@ -52350,6 +52432,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155449Z" creationid="Hiroshi Miura" creationdate="20221022T155353Z">
         <seg>資材は、OmegaTが作成するデフォルトのプロジェクト・フォルダーに含まれている必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resources do not have to be stored in the default project folder that OmegaT creates.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065804Z" creationid="Hiroshi Miura" creationdate="20230221T065804Z">
+        <seg>資材は、OmegaTが作成するデフォルトのプロジェクト・フォルダーに保存されている必要はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59046,6 +59136,14 @@ and then start OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T084338Z" creationid="Hiroshi Miura" creationdate="20230221T084338Z">
+        <seg>リポジトリ同期中</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <prop type="origin">MT:[TexTra Powered by NICT]</prop>
       <tuv lang="en">
@@ -60691,6 +60789,15 @@ current folder will be used instead.</seg>
         <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all the user-defined project resources.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155345Z" creationid="Hiroshi Miura" creationdate="20221022T155345Z">
+        <seg>&lt;g0&gt;[参照]&lt;/g0&gt;ボタンは、すべてのユーザー定義プロジェクト資源で使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all user-definable project resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065748Z" creationid="Hiroshi Miura" creationdate="20230221T065748Z">
         <seg>&lt;g0&gt;[参照]&lt;/g0&gt;ボタンは、すべてのユーザー定義プロジェクト資源で使用できます。</seg>
       </tuv>
     </tu>
@@ -74048,6 +74155,15 @@ OmegaTが使用できるメモリを増やす
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access the locations of the project resources.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065731Z" creationid="Hiroshi Miura" creationdate="20230221T065731Z">
+        <seg>プロジェクト資材の場所にアクセスするには、 &lt;l0/&gt;&lt;l1/&gt;を使用しサブメニューを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
       </tuv>
@@ -78995,6 +79111,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders used by the project at any time, even during the course of the translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065715Z" creationid="Hiroshi Miura" creationdate="20230221T065715Z">
+        <seg>フォルダにファイルを追加または削除したり、プロジェクトで使用するフォルダを変更したりすることで、プロジェクトの構造を変更することができます。これは、翻訳中でも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
@@ -79125,6 +79250,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T155607Z" creationid="Hiroshi Miura" creationdate="20221022T155422Z">
         <seg>共有ディスク上にあるフォルダも含めて、リソースを格納するフォルダを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select any folder you want to hold your resources, including folders on shared disks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065850Z" creationid="Hiroshi Miura" creationdate="20230221T065850Z">
+        <seg>共有ディスク上のフォルダなど、リソースを格納する任意のフォルダーを選択できます。</seg>
       </tuv>
     </tu>
     <tu>
