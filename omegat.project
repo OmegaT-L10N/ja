@@ -58,13 +58,20 @@
             <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
                 <mapping local="source/5.8/Bundle.properties" repository="5.8/src/org/omegat/Bundle.properties"/>
             </repository>
-            <repository type="svn" url="https://github.com/omegat-org/omegat-website.git/trunk/_i18n/en/">
-                <mapping local="source/website/" repository="/">
-                    <excludes>**/howtos/**</excludes>
-                </mapping>
-            </repository>
-            <repository type="http" url="https://github.com/omegat-org/omegat-website/">
-                <mapping local="source/website/yml/ja.yml" repository="raw/master/_i18n/en.yml"/>
+	    <repository type="http" url="https://github.com/omegat-org/omegat-website/raw/master/">
+	        <mapping local="source/website/404.html" repository="_i18n/en/404.html"/>
+	        <mapping local="source/website/about.html" repository="_i18n/en/about.html"/>
+	        <mapping local="source/website/contact.html" repository="_i18n/en/contact.html"/>
+	        <mapping local="source/website/documentation.html" repository="_i18n/en/documentation.html"/>
+	        <mapping local="source/website/download.html" repository="_i18n/en/download.html"/>
+	        <mapping local="source/website/index.html" repository="_i18n/en/index.html"/>
+	        <mapping local="source/website/install.html" repository="_i18n/en/install.html"/>
+	        <mapping local="source/website/philosophy.html" repository="_i18n/en/philosophy.html"/>
+	        <mapping local="source/website/resources.html" repository="_i18n/en/resources.html"/>
+	        <mapping local="source/website/reviews.html" repository="_i18n/en/reviews.html"/>
+	        <mapping local="source/website/sponsorship.html" repository="_i18n/en/sponsorship.html"/>
+	        <mapping local="source/website/messages.json" repository="_i18n/en/messages.json"/>
+	        <mapping local="source/website/yml/ja.yml" repository="_i18n/en.yml"/>
             </repository>
         </repositories>
     </project>
