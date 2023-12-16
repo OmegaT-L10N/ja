@@ -144,8 +144,7 @@
         <files sourceFilenameMask="*.rc" targetFilenamePattern="${filename}"/>
     </filter>
     <filter className="org.omegat.filters2.text.bundles.ResourceBundleFilter" enabled="true">
-        <files sourceFilenameMask="*.properties" targetFilenamePattern="${nameOnly}_ja.${extension}" sourceEncoding="UTF-8" targetEncod
-ing="UTF-8"/>
+        <files sourceFilenameMask="*.properties" targetFilenamePattern="${nameOnly}_ja.${extension}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
         <option name="dontRenameTargetFile" value="true"/>
         <option name="dontUnescapeULiterals" value="false"/>
         <option name="forceJava8LiteralsEscape" value="true"/>
