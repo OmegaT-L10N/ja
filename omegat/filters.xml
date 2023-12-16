@@ -144,8 +144,12 @@
         <files sourceFilenameMask="*.rc" targetFilenamePattern="${filename}"/>
     </filter>
     <filter className="org.omegat.filters2.text.bundles.ResourceBundleFilter" enabled="true">
-        <files sourceFilenameMask="*.properties" targetFilenamePattern="${nameOnly}_ja.${extension}" sourceEncoding="US-ASCII" targetEncoding="US-ASCII"/>
-    </filter>
+        <files sourceFilenameMask="*.properties" targetFilenamePattern="${nameOnly}_ja.${extension}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
+        <option name="dontRenameTargetFile" value="true"/>
+        <option name="dontUnescapeULiterals" value="false"/>
+        <option name="forceJava8LiteralsEscape" value="true"/>
+        <option name="unremoveStringsUntranslated" value="false"/>
+    </filter>  
     <filter className="org.omegat.filters2.text.dokuwiki.DokuWikiFilter" enabled="true">
         <files sourceFilenameMask="*.txt" targetFilenamePattern="${filename}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
     </filter>
