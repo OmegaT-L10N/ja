@@ -41,7 +41,7 @@
 		<mapping local="source/machinetranslators/ibmwatson/Bundle.properties" repository="machinetranslators/ibmwatson/src/main/resources/org/omegat/machinetranslators/ibmwatson/Bundle.properties"/>
 		<mapping local="source/machinetranslators/mymemory/Bundle.properties" repository="machinetranslators/mymemory/src/main/resources/org/omegat/machinetranslators/mymemory/Bundle.properties"/>
 		<mapping local="source/machinetranslators/yandex/Bundle.properties" repository="machinetranslators/yandex/src/main/resources/org/omegat/machinetranslators/yandex/Bundle.properties"/>
-		<mapping local="source/spellchecker/Bundle.properties" repository="spellchecker/hunspell-jmyspell/src/main/resources/org/omegat/spellchecker/Bundle.properties"/>
+		<mapping local="source/spellchecker/hunspell/Bundle.properties" repository="spellchecker/hunspell/src/main/resources/org/omegat/spellchecker/hunspell/Bundle.properties"/>
 		<mapping local="source/tipoftheday/Bundle.properties" repository="tipoftheday/src/main/resources/org/omegat/gui/tipoftheday/Bundle.properties"/>
                 <mapping local="source/readme_ja.txt" repository="release/readme.txt"/>
                 <mapping local="source/release/win32-specific/CustomMessages_ja.ini" repository="release/win32-specific/CustomMessages.ini"/>
