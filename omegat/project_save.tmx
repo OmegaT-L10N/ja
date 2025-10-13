@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_19c5d57a0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_51078378f" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13681,6 +13681,14 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160706T104113Z" creationid="Kasuya" creationdate="20160706T090720Z">
         <seg>動作と設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Activate segment with single click.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024521Z" creationid="miurahr" creationdate="20251013T024521Z">
+        <seg>シングルクリックで分節を編集可能にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27397,6 +27405,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor - LOADING NOW...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024600Z" creationid="miurahr" creationdate="20251013T024600Z">
+        <seg>エディター  -  読み込み中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T133539Z">
@@ -29123,6 +29139,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception when validating tags on leave</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024654Z" creationid="miurahr" creationdate="20251013T024654Z">
+        <seg>分節を離れる時にタグを検証した際に例外あり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T121340Z">
@@ -29719,6 +29743,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ExternalFinder: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024703Z" creationid="miurahr" creationdate="20251013T024703Z">
+        <seg>外部ファインダー:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Extract Text Content</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T073736Z" creationid="Hiroshi Miura" creationdate="20230223T073736Z">
@@ -29803,6 +29835,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="jchelary" changedate="20120303T141031Z">
         <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FATAL: There is no language registerd</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024334Z" creationid="miurahr" creationdate="20251013T024334Z">
+        <seg>FATAL:言語が登録されていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -29895,6 +29935,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create .repositories subdirectory for team project: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024700Z" creationid="miurahr" creationdate="20251013T024700Z">
+        <seg>チーム プロジェクトの .repositories サブディレクトリの作成に失敗しました: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160759Z">
@@ -29955,6 +30003,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231207T001014Z" creationid="Hiroshi Miura" creationdate="20231207T001014Z">
         <seg>フィルターのインスタンス化に失敗しました: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load last changes file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024406Z" creationid="miurahr" creationdate="20251013T024406Z">
+        <seg>最終変更ファイルのロードに失敗しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -41178,6 +41234,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Internal match</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T025013Z" creationid="miurahr" creationdate="20251013T025013Z">
+        <seg>内部一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T055214Z">
@@ -43370,6 +43434,14 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130213T171028Z">
         <seg>LaTex（*.tex、*.latex）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024841Z" creationid="miurahr" creationdate="20251013T024841Z">
+        <seg>言語モジュール</seg>
       </tuv>
     </tu>
     <tu>
@@ -46205,6 +46277,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Marker</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024817Z" creationid="miurahr" creationdate="20251013T024817Z">
+        <seg>マーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marks</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T232927Z" creationid="Hiroshi Miura" creationdate="20230113T232927Z">
@@ -46869,6 +46949,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merged segments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T025026Z" creationid="miurahr" creationdate="20251013T025026Z">
+        <seg>マージされた分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130207T071514Z">
@@ -47064,6 +47152,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
         <seg>Miscellanea</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T042123Z">
+        <seg>その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Miscellaneous</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024813Z" creationid="miurahr" creationdate="20251013T024813Z">
         <seg>その他</seg>
       </tuv>
     </tu>
@@ -56142,6 +56238,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin is successfully installed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024901Z" creationid="miurahr" creationdate="20251013T024901Z">
+        <seg>プラグインが正常にインストールされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130701T161705Z">
@@ -58106,6 +58210,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T085126Z" creationid="Hiroshi Miura" creationdate="20230221T085126Z">
         <seg>参照翻訳メモリ(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reference TM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024957Z" creationid="miurahr" creationdate="20251013T024957Z">
+        <seg>参考メモリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -60674,6 +60786,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140716T131119Z">
         <seg>SQLJet 1.1.10（GPL v2 ライセンス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SSH Agent connection issue: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024322Z" creationid="miurahr" creationdate="20251013T024322Z">
+        <seg>SSH エージェント接続の問題: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -65030,6 +65150,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250515T032917Z" creationid="miurahr" creationdate="20250515T032917Z">
         <seg>複数の検索結果から組み立てられた分節を表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show plugin details</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024718Z" creationid="miurahr" creationdate="20251013T024718Z">
+        <seg>プラグインの詳細を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -77712,6 +77840,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These 3rd party plugins are installed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024744Z" creationid="miurahr" creationdate="20251013T024744Z">
+        <seg>これらのサードパーティプラグインがインストールされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These 4 items are a good summary but you can also read the &lt;a0&gt;whole license&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T231734Z" creationid="Hiroshi Miura" creationdate="20230117T231640Z">
@@ -77820,6 +77956,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T150444Z" creationid="Hiroshi Miura" creationdate="20230221T150444Z">
         <seg>これらのパーセンテージは、順序ごとに次の意味を持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These plugins are included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024741Z" creationid="miurahr" creationdate="20251013T024741Z">
+        <seg>これらのプラグインはOmegaTに含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82786,6 +82930,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tokenizer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024827Z" creationid="miurahr" creationdate="20251013T024827Z">
+        <seg>トークナイザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tokenizers</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141103T173858Z" creationid="Yu-Tang" creationdate="20141103T173858Z">
@@ -84411,6 +84563,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncaught exception in thread [{0}]</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024606Z" creationid="miurahr" creationdate="20251013T024606Z">
+        <seg>スレッドでキャッチされていない例外 [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130123T090813Z">
@@ -84739,6 +84899,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024847Z" creationid="miurahr" creationdate="20251013T024847Z">
+        <seg>不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unknown language code {0} specified</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230416T225959Z" creationid="Hiroshi Miura" creationdate="20230416T225959Z">
@@ -84767,6 +84935,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T083752Z" creationid="Hiroshi Miura" creationdate="20220830T083752Z">
         <seg>不明/マニュアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unkown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024851Z" creationid="miurahr" creationdate="20251013T024851Z">
+        <seg>不明</seg>
       </tuv>
     </tu>
     <tu>
@@ -87704,6 +87880,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Validating TMX file {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024352Z" creationid="miurahr" creationdate="20251013T024352Z">
+        <seg>TMX ファイル{0}の検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Validating Tags...</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T155513Z">
@@ -87988,6 +88172,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130214T170040Z">
         <seg>Microsoft Visio ファイル（*.vxd）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visit the homepage</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251013T024857Z" creationid="miurahr" creationdate="20251013T024857Z">
+        <seg>ホームページにアクセス</seg>
       </tuv>
     </tu>
     <tu>
