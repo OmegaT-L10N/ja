@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_51078378f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_585acc2e9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17597,6 +17597,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Azure Translate plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T000002Z" creationid="miurahr" creationdate="20251113T000002Z">
+        <seg>Azure Translateプラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20150603T033506Z">
@@ -18342,6 +18350,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T204231Z">
         <seg>ブルガリア語（Bulgarian）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bundled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003356Z" creationid="miurahr" creationdate="20251113T003356Z">
+        <seg>同梱</seg>
       </tuv>
     </tu>
     <tu>
@@ -24223,6 +24239,30 @@ New version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DLTranslator API connector plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T002605Z" creationid="miurahr" creationdate="20251113T002605Z">
+        <seg>DLTranslator APIコネクコネクタープラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DLTranslator Deep Learning translator server/client</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T002942Z" creationid="miurahr" creationdate="20251113T002942Z">
+        <seg>DLTranslator 深層学習翻訳サーバ・クライアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DLTranslator is a python project that runs AI translation server on PC.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T002805Z" creationid="miurahr" creationdate="20251113T002805Z">
+        <seg>DLTranslatorはPC上でAI機械翻訳サーバーを実行うるpythonプロジェクトです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DOWN</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121348Z" creationid="miurahr" creationdate="20221023T121348Z">
@@ -24295,6 +24335,14 @@ New version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API Free plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251112T235853Z" creationid="miurahr" creationdate="20251112T235853Z">
+        <seg>DeepLフリーAPIプラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL API key not available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221210T001425Z" creationid="miurahr" creationdate="20221210T001425Z">
@@ -24307,6 +24355,14 @@ New version: {2}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141656Z" creationid="miurahr" creationdate="20201101T141656Z">
         <seg>DeepL API キーは使用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepL connector plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T000113Z" creationid="miurahr" creationdate="20251113T000113Z">
+        <seg>DeepL コネクタープラグイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -28563,8 +28619,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error while reading a TMX file in the project: {0}</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230521T015016Z" creationid="Hiroshi Miura" creationdate="20230521T015016Z">
-        <seg>プロジェクトのTMXファイルの読み込み中にエラーが発生しました。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003539Z" creationid="Hiroshi Miura" creationdate="20230521T015016Z">
+        <seg>プロジェクトのTMXファイル {0} の読み込み中にエラーが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45125,6 +45181,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MDict dictionary lookup plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T002543Z" creationid="miurahr" creationdate="20251113T002543Z">
+        <seg>MDict辞書プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MT engine error happened</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230416T230044Z" creationid="Hiroshi Miura" creationdate="20230416T230044Z">
@@ -47641,6 +47705,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T141155Z" creationid="suzume" creationdate="20201122T141155Z">
         <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moses MT connector plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T000044Z" creationid="miurahr" creationdate="20251112T235952Z">
+        <seg>Moses MTコネクタープラグイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -55019,6 +55091,14 @@ install the Oracle JRE on your own.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDIC dictionary lookup plugin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T002416Z" creationid="miurahr" creationdate="20251113T002416Z">
+        <seg>PDIC 辞書プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PO</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130531T131910Z">
@@ -57598,6 +57678,70 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T151925Z" creationid="miurahr" creationdate="20221222T151925Z">
         <seg>機械翻訳サービスリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides Azure Translate V2/V3 connector for OmagaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T000035Z" creationid="miurahr" creationdate="20251113T000035Z">
+        <seg>Azure Translate V2/V3のコネクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides DLTranslator connector.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T002614Z" creationid="miurahr" creationdate="20251113T002614Z">
+        <seg>DLTranslatorコネクター機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides DeepL MT connector (via Pro V1 API)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T000139Z" creationid="miurahr" creationdate="20251113T000139Z">
+        <seg>DeepL MT(Pro V1 API)コネクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides MDict bilingual dictionary lookup feature</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T002554Z" creationid="miurahr" creationdate="20251113T002554Z">
+        <seg>MDict辞書の検索機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides Moses Machine Translator plugin for OmegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T000102Z" creationid="miurahr" creationdate="20251113T000102Z">
+        <seg>Moses機械翻訳のコネクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides PDIC bilingual dictionary lookup feature</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T002524Z" creationid="miurahr" creationdate="20251113T002524Z">
+        <seg>PDIC辞書の検索機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides a translation API server built on dl-translate library powered by Hugging Face transformers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003059Z" creationid="miurahr" creationdate="20251113T003059Z">
+        <seg>Hugging Faceトランスフォーマーを活用した dl-translate ライブラリを使用して翻訳APIサーバを提供する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides connector for DeepL machine translation (via Free API)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T000050Z" creationid="miurahr" creationdate="20251112T235936Z">
+        <seg>DeepL機械翻訳の(Free API経由)コネクター</seg>
       </tuv>
     </tu>
     <tu>
@@ -60646,6 +60790,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running the script of scripting editor...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003329Z" creationid="miurahr" creationdate="20251113T003329Z">
+        <seg>スクリプトエディターで編集中のスクリプトを実行中..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running the script will require you to enter your &lt;c0&gt;sudo&lt;/c0&gt; password.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023011Z" creationid="Hiroshi Miura" creationdate="20230118T023011Z">
@@ -62105,6 +62257,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220831T085858Z" creationid="Hiroshi Miura" creationdate="20220831T085817Z">
         <seg>/docs/libraries.txtを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;a0&gt;DLTranslator&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T002909Z" creationid="miurahr" creationdate="20251113T002909Z">
+        <seg>&lt;a0&gt;DLTranslator&lt;/a0&gt;参照</seg>
       </tuv>
     </tu>
     <tu>
@@ -67094,8 +67254,8 @@ that points back to itself or one of its subfolders.</seg>
       <tuv lang="en">
         <seg>Spelling dictionary appears to be empty: {0}</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231207T003534Z" creationid="Hiroshi Miura" creationdate="20231207T003534Z">
-        <seg>綴り確認用辞書が空のようです。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003615Z" creationid="Hiroshi Miura" creationdate="20231207T003534Z">
+        <seg>綴り確認用辞書 {0} が空のようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75954,6 +76114,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The server accepts a request in JSON form and return a translation result by pre-trained transformer model.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003248Z" creationid="miurahr" creationdate="20251113T003248Z">
+        <seg>サーバはJSON形式の原文のリクエストを受け付けて、事前学習されたトランスフォーマーモデルを利用して翻訳結果を返却します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130301T121643Z">
@@ -84331,6 +84499,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>USD</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003436Z" creationid="miurahr" creationdate="20251113T003436Z">
+        <seg>米ドル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T124534Z" creationid="miurahr" creationdate="20201108T124534Z">
@@ -84343,6 +84519,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T064308Z" creationid="Hiroshi Miura" creationdate="20230118T064308Z">
         <seg>UTF-8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Udate available</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003404Z" creationid="miurahr" creationdate="20251113T003404Z">
+        <seg>更新あり</seg>
       </tuv>
     </tu>
     <tu>
@@ -84759,6 +84943,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T043044Z" creationid="Hiroshi Miura" creationdate="20230118T043044Z">
         <seg>Unicodeサポート：さまざまな文字を使用可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uninstalled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003413Z" creationid="miurahr" creationdate="20251113T003413Z">
+        <seg>削除ずみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -85472,6 +85664,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T090226Z" creationid="miurahr" creationdate="20221105T090226Z">
         <seg>独立したタグ（例：&lt;i/&gt;）の場合は XML表記 を使用する(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;full stemming</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251113T003349Z" creationid="miurahr" creationdate="20251113T003349Z">
+        <seg>完全ステミング（語幹処理）を適用(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
