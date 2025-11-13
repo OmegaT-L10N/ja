@@ -71,6 +71,22 @@
 	        <mapping local="source/website/reviews.html" repository="_i18n/en/reviews.html"/>
 	        <mapping local="source/website/sponsorship.html" repository="_i18n/en/sponsorship.html"/>
 	        <mapping local="source/website/messages.json" repository="_i18n/en/messages.json"/>
+		<mapping local="source/website/howto/compatibility.html" repository="_i18n/en/howto/compatibility.html"/>
+		<mapping local="source/website/howto/compatibility_deja_vu.html" repository="_i18n/en/howto/compatibility_deja_vu.html"/>
+		<mapping local="source/website/howto/compiling_from_source.html" repository="_i18n/en/howto/compiling_from_source.html"/>
+		<mapping local="source/website/howto/docx.html" repository="_i18n/en/howto/docx.html"/>
+		<mapping local="source/website/howto/export_uncleaned_rtf.html" repository="_i18n/en/howto/export_uncleaned_rtf.html"/>
+		<mapping local="source/website/howto/google_translate.html" repository="_i18n/en/howto/google_translate.html"/>
+		<mapping local="source/website/howto/iceni_infix.html" repository="_i18n/en/howto/iceni_infix.html"/>
+		<mapping local="source/website/howto/linux.html" repository="_i18n/en/howto/linux.html"/>
+		<mapping local="source/website/howto/localizing_omegat.html" repository="_i18n/en/howto/localizing_omegat.html"/>
+		<mapping local="source/website/howto/ms_translator.html" repository="_i18n/en/howto/ms_translator.html"/>
+		<mapping local="source/website/howto/new_filter.html" repository="_i18n/en/howto/new_filter.html"/>
+		<mapping local="source/website/howto/preview.html" repository="_i18n/en/howto/preview.html"/>
+		<mapping local="source/website/howto/prop12m.html" repository="_i18n/en/howto/prop12m.html"/>
+		<mapping local="source/website/howto/spelling.html" repository="_i18n/en/howto/spelling.html"/>
+		<mapping local="source/website/howto/text_export.html" repository="_i18n/en/howto/text_export.html"/>
+		<mapping local="source/website/howto/tokenizer.html" repository="_i18n/en/howto/tokenizer.html"/>
 	        <mapping local="source/website/yml/ja.yml" repository="_i18n/en.yml"/>
             </repository>
         </repositories>
