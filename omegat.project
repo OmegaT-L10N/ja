@@ -64,7 +64,7 @@
                 <mapping local="source/website/" repository="_i18n/en/">
                    <excludes>**/howtos/**</excludes>
                 </mapping>
-                <mapping local="source/website/yml/ja.yml" repository="_i18n/ja.yml"/>
+                <mapping local="source/website/yml/ja.yml" repository="_i18n/en.yml"/>
             </repository>
         </repositories>
     </project>
