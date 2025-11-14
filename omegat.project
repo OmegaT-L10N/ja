@@ -29,19 +29,21 @@
                 <mapping local="/" repository="/"/>
             </repository>
             <repository type="git" url="https://github.com/OmegaT-L10N/doc_src.git">
-                <mapping local="source/doc_src/" repository="en"/>
+                <mapping local="source/manual/" repository="en"/>
+                <mapping local="source/greeting/" repository="greeting"/>
+                <mapping local="source/tips/" repository="tips"/>
             </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
-		<mapping local="source/aligner/Bundle.properties" repository="aligner/src/main/resources/org/omegat/gui/align/Bundle.properties"/>
-		<mapping local="source/machinetranslators/apertium/Bundle.properties" repository="machinetranslators/apertium/src/main/resources/org/omegat/machinetranslators/apertium/Bundle.properties"/>
-		<mapping local="source/machinetranslators/belazar/Bundle.properties" repository="machinetranslators/belazar/src/main/resources/org/omegat/machinetranslators/belazar/Bundle.properties"/>
-		<mapping local="source/machinetranslators/google/Bundle.properties" repository="machinetranslators/google/src/main/resources/org/omegat/machinetranslators/google/Bundle.properties"/>
-		<mapping local="source/machinetranslators/ibmwatson/Bundle.properties" repository="machinetranslators/ibmwatson/src/main/resources/org/omegat/machinetranslators/ibmwatson/Bundle.properties"/>
-		<mapping local="source/machinetranslators/mymemory/Bundle.properties" repository="machinetranslators/mymemory/src/main/resources/org/omegat/machinetranslators/mymemory/Bundle.properties"/>
-		<mapping local="source/machinetranslators/yandex/Bundle.properties" repository="machinetranslators/yandex/src/main/resources/org/omegat/machinetranslators/yandex/Bundle.properties"/>
-		<mapping local="source/spellchecker/hunspell/Bundle.properties" repository="spellchecker/hunspell/src/main/resources/org/omegat/spellchecker/hunspell/Bundle.properties"/>
-		<mapping local="source/tipoftheday/Bundle.properties" repository="tipoftheday/src/main/resources/org/omegat/gui/tipoftheday/Bundle.properties"/>
+                <mapping local="source/aligner/Bundle.properties" repository="aligner/src/main/resources/org/omegat/gui/align/Bundle.properties"/>
+                <mapping local="source/machinetranslators/apertium/Bundle.properties" repository="machinetranslators/apertium/src/main/resources/org/omegat/machinetranslators/apertium/Bundle.properties"/>
+                <mapping local="source/machinetranslators/belazar/Bundle.properties" repository="machinetranslators/belazar/src/main/resources/org/omegat/machinetranslators/belazar/Bundle.properties"/>
+                <mapping local="source/machinetranslators/google/Bundle.properties" repository="machinetranslators/google/src/main/resources/org/omegat/machinetranslators/google/Bundle.properties"/>
+                <mapping local="source/machinetranslators/ibmwatson/Bundle.properties" repository="machinetranslators/ibmwatson/src/main/resources/org/omegat/machinetranslators/ibmwatson/Bundle.properties"/>
+                <mapping local="source/machinetranslators/mymemory/Bundle.properties" repository="machinetranslators/mymemory/src/main/resources/org/omegat/machinetranslators/mymemory/Bundle.properties"/>
+                <mapping local="source/machinetranslators/yandex/Bundle.properties" repository="machinetranslators/yandex/src/main/resources/org/omegat/machinetranslators/yandex/Bundle.properties"/>
+                <mapping local="source/spellchecker/hunspell/Bundle.properties" repository="spellchecker/hunspell/src/main/resources/org/omegat/spellchecker/hunspell/Bundle.properties"/>
+                <mapping local="source/tipoftheday/Bundle.properties" repository="tipoftheday/src/main/resources/org/omegat/gui/tipoftheday/Bundle.properties"/>
                 <mapping local="source/readme_ja.txt" repository="release/readme.txt"/>
                 <mapping local="source/release/win32-specific/CustomMessages_ja.ini" repository="release/win32-specific/CustomMessages.ini"/>
                 <mapping local="source/release/mac-specific/OmegaT.app/Contents/Resources/ja.lproj/Localizable.strings" repository="release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/Localizable.strings"/>
@@ -58,20 +60,11 @@
                 <mapping local="source/6.0/Bundle.properties" repository="6.0/src/org/omegat/Bundle.properties"/>
                 <mapping local="source/5.8/Bundle.properties" repository="5.8/src/org/omegat/Bundle.properties"/>
             </repository>
-	    <repository type="http" url="https://github.com/omegat-org/omegat-website/raw/master/">
-	        <mapping local="source/website/404.html" repository="_i18n/en/404.html"/>
-	        <mapping local="source/website/about.html" repository="_i18n/en/about.html"/>
-	        <mapping local="source/website/contact.html" repository="_i18n/en/contact.html"/>
-	        <mapping local="source/website/documentation.html" repository="_i18n/en/documentation.html"/>
-	        <mapping local="source/website/download.html" repository="_i18n/en/download.html"/>
-	        <mapping local="source/website/index.html" repository="_i18n/en/index.html"/>
-	        <mapping local="source/website/install.html" repository="_i18n/en/install.html"/>
-	        <mapping local="source/website/philosophy.html" repository="_i18n/en/philosophy.html"/>
-	        <mapping local="source/website/resources.html" repository="_i18n/en/resources.html"/>
-	        <mapping local="source/website/reviews.html" repository="_i18n/en/reviews.html"/>
-	        <mapping local="source/website/sponsorship.html" repository="_i18n/en/sponsorship.html"/>
-	        <mapping local="source/website/messages.json" repository="_i18n/en/messages.json"/>
-	        <mapping local="source/website/yml/ja.yml" repository="_i18n/en.yml"/>
+            <repository type="git" url="https://github.com/omegat-l10n/omegat-website.git">
+                <mapping local="source/website/" repository="_i18n/en/">
+                   <excludes>**/howtos/**</excludes>
+                </mapping>
+                <mapping local="source/website/yml/ja.yml" repository="_i18n/ja.yml"/>
             </repository>
         </repositories>
     </project>
