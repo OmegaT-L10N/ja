@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_585acc2e9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_3de03e528" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10338,8 +10338,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Browse&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153214Z" creationid="miurahr" creationdate="20251114T153214Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;参照(&amp;B)&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033658Z" creationid="miurahr" creationdate="20251114T153214Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;参照(&amp;B)&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10370,16 +10370,16 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Exclusions...&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153239Z" creationid="miurahr" creationdate="20251114T153239Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;除外...&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033716Z" creationid="miurahr" creationdate="20251114T153239Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;除外...&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;File locations&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153202Z" creationid="miurahr" creationdate="20251114T153202Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;ファイル場所設定&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033648Z" creationid="miurahr" creationdate="20251114T153202Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;ファイル場所設定&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10450,32 +10450,32 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Languages&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T150925Z" creationid="miurahr" creationdate="20251114T150925Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;言語設定&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033445Z" creationid="miurahr" creationdate="20251114T150925Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;言語設定&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Local External Searches&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153151Z" creationid="miurahr" creationdate="20251114T153151Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;プロジェクト専用の外部検索&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033634Z" creationid="miurahr" creationdate="20251114T153151Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;プロジェクト専用の外部検索&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Local File Filters...&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153115Z" creationid="miurahr" creationdate="20251114T153115Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;プロジェクト専用ファイルフィルター&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033615Z" creationid="miurahr" creationdate="20251114T153115Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;プロジェクト専用ファイルフィルター&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Local Segmentation Rules...&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T152305Z" creationid="miurahr" creationdate="20251114T152305Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;プロジェクト専用の分節化規則(&amp;S)...&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033522Z" creationid="miurahr" creationdate="20251114T152305Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;プロジェクト専用の分節化規則(&amp;S)...&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10490,8 +10490,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Options&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T150940Z" creationid="miurahr" creationdate="20251114T150940Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;設定&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033459Z" creationid="miurahr" creationdate="20251114T150940Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;設定&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10506,16 +10506,16 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Preferences&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T215223Z" creationid="miurahr" creationdate="20251114T215223Z">
-        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;]環境設定&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033400Z" creationid="miurahr" creationdate="20251114T215223Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;環境設定&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Project Properties&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153048Z" creationid="miurahr" creationdate="20251114T150904Z">
-        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;プロジェクト設定&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033436Z" creationid="miurahr" creationdate="20251114T150904Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;プロジェクト設定&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10530,8 +10530,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Repository Mapping...&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153137Z" creationid="miurahr" creationdate="20251114T153137Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;リポジトリマッピング...&lt;/g1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033626Z" creationid="miurahr" creationdate="20251114T153137Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;リポジトリマッピング...&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10698,8 +10698,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Auto-propagation of translations&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T152319Z" creationid="miurahr" creationdate="20251114T152319Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;翻訳自動反映(&amp;A)&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033538Z" creationid="miurahr" creationdate="20251114T152319Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;翻訳自動反映(&amp;A)&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10794,8 +10794,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Dictionaries folder&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153332Z" creationid="miurahr" creationdate="20251114T153332Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;辞書フォルダー：&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033747Z" creationid="miurahr" creationdate="20251114T153332Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;辞書フォルダー：&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10842,8 +10842,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Exported translation memories folder&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153359Z" creationid="miurahr" creationdate="20251114T153359Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;翻訳メモリ出力フォルダー：&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033802Z" creationid="miurahr" creationdate="20251114T153359Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;翻訳メモリ出力フォルダー：&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10866,16 +10866,16 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Glossary files folder&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153304Z" creationid="miurahr" creationdate="20251114T153304Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;用語集フォルダー&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033731Z" creationid="miurahr" creationdate="20251114T153304Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;用語集フォルダー&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Hide tags&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T152546Z" creationid="miurahr" creationdate="20251114T152546Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;タグを隠す&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033543Z" creationid="miurahr" creationdate="20251114T152546Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;タグを隠す&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10938,8 +10938,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Local post-processing commands&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153101Z" creationid="miurahr" creationdate="20251114T153101Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;プロジェクト専用の後処理用コマンド：&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033555Z" creationid="miurahr" creationdate="20251114T153101Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;プロジェクト専用の後処理用コマンド：&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10994,8 +10994,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;OmegaT&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153429Z" creationid="miurahr" creationdate="20251114T153429Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;omegat&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033813Z" creationid="miurahr" creationdate="20251114T153429Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;omegat&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11090,8 +11090,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Sentence-level segmenting&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T151019Z" creationid="miurahr" creationdate="20251114T151019Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;文単位の分節化&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033504Z" creationid="miurahr" creationdate="20251114T151019Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;文単位の分節化&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11146,8 +11146,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Source files folder&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153227Z" creationid="miurahr" creationdate="20251114T153227Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;原文ファイルフォルダー：&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033704Z" creationid="miurahr" creationdate="20251114T153227Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;原文ファイルフォルダー：&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11194,16 +11194,16 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TMX Level 1&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153442Z" creationid="miurahr" creationdate="20251114T153442Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;TMX Level 1&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033819Z" creationid="miurahr" creationdate="20251114T153442Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TMX Level 1&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TMX Level 2&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153450Z" creationid="miurahr" creationdate="20251114T153450Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;TMX Level 2&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033825Z" creationid="miurahr" creationdate="20251114T153450Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TMX Level 2&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11226,24 +11226,24 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Translated files folder&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153347Z" creationid="miurahr" creationdate="20251114T153347Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;訳文ファイルフォルダー&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033753Z" creationid="miurahr" creationdate="20251114T153347Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;訳文ファイルフォルダー&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Translation memories folder&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153252Z" creationid="miurahr" creationdate="20251114T153252Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;翻訳メモリフォルダー&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033725Z" creationid="miurahr" creationdate="20251114T153252Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;翻訳メモリフォルダー&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Translation memories to export&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153415Z" creationid="miurahr" creationdate="20251114T153415Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;エキスポートする翻訳メモリの種類:&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033809Z" creationid="miurahr" creationdate="20251114T153415Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;エキスポートする翻訳メモリの種類:&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11298,8 +11298,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Writable Glossary File&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T153317Z" creationid="miurahr" creationdate="20251114T153317Z">
-        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;o1&gt;書き込み可能な用語集ファイルを開く&lt;/o1&gt;</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033738Z" creationid="miurahr" creationdate="20251114T153317Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;書き込み可能な用語集ファイルを開く&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20327,6 +20327,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160522Z">
         <seg>docs フォルダーの場所を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Base</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251115T033312Z" creationid="miurahr" creationdate="20251115T033312Z">
+        <seg> ベース</seg>
       </tuv>
     </tu>
     <tu>
