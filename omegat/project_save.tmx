@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_3de03e528" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_71e24fe81" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11138,8 +11138,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Sort fuzzy matches by:&lt;/o1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T234341Z" creationid="miurahr" creationdate="20251114T234341Z">
-        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;参考訳文の並べ替え基準：</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T035649Z" creationid="miurahr" creationdate="20251114T234341Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;参考訳文の並べ替え基準：&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35282,8 +35282,8 @@ Tutorial.</seg>
       <tuv lang="en">
         <seg>For example, you could create the &lt;l0&gt;[£€$]&lt;/l0&gt; class to find any of those three currency symbols in the text, or [1-3] to find the number 1, 2 or 3.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T063525Z" creationid="Hiroshi Miura" creationdate="20230221T063525Z">
-        <seg>たとえば、&lt;l0&gt;[£€$]&lt;/l0&gt;を指定して、テキスト内の3つの通貨記号のいずれかを検索したり、[1-3]を指定して、数値1、2、3を検索したりできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040220Z" creationid="Hiroshi Miura" creationdate="20230221T063525Z">
+        <seg>たとえば、&lt;l0&gt;[£€$]&lt;/l0&gt;を指定して、テキスト内の三つの通貨記号のいずれかを検索したり、[1-3]を指定して、数値1、2、3を検索したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35466,8 +35466,8 @@ Tutorial.</seg>
       <tuv lang="en">
         <seg>For instance, if the project is EN-to-FR, the specified folder must contain a bundle ending with &lt;f0&gt;_fr&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230619T225748Z" creationid="Hiroshi Miura" creationdate="20230619T225748Z">
-        <seg>たとえば、プロジェクトがEN-to-FRの場合、フォルダーには_frで終わるバンドルが含まれている必要があります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040014Z" creationid="Hiroshi Miura" creationdate="20230619T225748Z">
+        <seg>たとえば、プロジェクトがEN-to-FRの場合、フォルダーには&lt;f0&gt;_fr&lt;/f0&gt;で終わるバンドルが含まれている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36865,8 +36865,8 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       <tuv lang="en">
         <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX 2) format.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T153522Z" creationid="Hiroshi Miura" creationdate="20230221T153522Z">
-        <seg>用語集は、タブ区切り形式(TSV)とカンマ区切り形式(CSV)ファイルにすることも、TermBase eXchange(TBX)形式にすることもできます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040315Z" creationid="Hiroshi Miura" creationdate="20230221T153522Z">
+        <seg>用語集は、タブ区切り形式(TSV)とカンマ区切り形式(CSV)ファイルにすることも、TermBase eXchange(TBX 2)形式にすることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45282,8 +45282,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="en">
         <seg>Insert Bidi Control Character/Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T125151Z" creationid="Hiroshi Miura" creationdate="20230116T125151Z">
-        <seg>BiDi制御文字/右から左への記号の挿入(RLM U+200F)</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040042Z" creationid="Hiroshi Miura" creationdate="20230116T125151Z">
+        <seg>BiDi制御文字/右から左への記号の挿入(RLM U+202A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -65763,8 +65763,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt; list.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20221023T124715Z" creationid="miurahr" creationdate="20221023T124715Z">
-        <seg>&lt;c0&gt;CC&lt;/c0&gt;を&lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt;リストから希望する2文字の国コードに置き換えます。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040129Z" creationid="miurahr" creationdate="20221023T124715Z">
+        <seg>&lt;c0&gt;CC&lt;/c0&gt;を&lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt;リストから希望する二文字の国コードに置き換えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70150,40 +70150,40 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select Match/Select Match #1</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230619T224140Z" creationid="Hiroshi Miura" creationdate="20230619T224140Z">
-        <seg>参考訳文の選択/参考訳文１を選択</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040200Z" creationid="Hiroshi Miura" creationdate="20230619T224140Z">
+        <seg>参考訳文の選択/参考訳文#1を選択</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match/Select Match #2</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230619T224145Z" creationid="Hiroshi Miura" creationdate="20230619T224145Z">
-        <seg>参考訳文の選択/参考訳文２を選択</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040155Z" creationid="Hiroshi Miura" creationdate="20230619T224145Z">
+        <seg>参考訳文の選択/参考訳文#2を選択</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match/Select Match #3</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230619T224149Z" creationid="Hiroshi Miura" creationdate="20230619T224149Z">
-        <seg>参考訳文の選択/参考訳文３を選択</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040151Z" creationid="Hiroshi Miura" creationdate="20230619T224149Z">
+        <seg>参考訳文の選択/参考訳文#3を選択</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match/Select Match #4</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230619T224154Z" creationid="Hiroshi Miura" creationdate="20230619T224154Z">
-        <seg>参考訳文の選択/参考訳文４を選択</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040146Z" creationid="Hiroshi Miura" creationdate="20230619T224154Z">
+        <seg>参考訳文の選択/参考訳文#4を選択</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match/Select Match #5</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230619T224203Z" creationid="Hiroshi Miura" creationdate="20230619T224203Z">
-        <seg>参考訳文の選択/参考訳文５を選択</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040141Z" creationid="Hiroshi Miura" creationdate="20230619T224203Z">
+        <seg>参考訳文の選択/参考訳文#5を選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -71070,8 +71070,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035819Z" creationid="Hiroshi Miura" creationdate="20230221T035819Z">
-        <seg>0,1、0-3、または0x002Eの最初の3文字などのシーケンスは、式が&lt;l0&gt;0.[0-9]&lt;/l0&gt;で、ピリオドの前にバックスラッシュがない場合に一致します。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040335Z" creationid="Hiroshi Miura" creationdate="20230221T035819Z">
+        <seg>0,1、0-3、または0x002Eの最初の三文字などのシーケンスは、式が&lt;l0&gt;0.[0-9]&lt;/l0&gt;で、ピリオドの前にバックスラッシュがない場合に一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72787,8 +72787,8 @@ that points back to itself or one of its subfolders.</seg>
       <tuv lang="en">
         <seg>Some segments will require further modification later on, so you use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;9&lt;/k3&gt;&lt;/k0&gt; to enter the Notepad pane, leave yourself a note and come back to the Editor pane with &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;A&lt;/k6&gt;&lt;k7&gt;0&lt;/k7&gt;&lt;/k4&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T140908Z" creationid="Hiroshi Miura" creationdate="20230223T031642Z">
-        <seg>一部の分節で、あとで修正が必要になりました。そこで &lt;k0&gt;&lt;k1&gt;A&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;を使ってメモ帳に移動し、自分のために メモを書きます。そして、 &lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;C&lt;/k6&gt;&lt;k7&gt;E&lt;/k7&gt;&lt;/k4&gt;を使って編集ウィンドウに戻ります。</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T040028Z" creationid="Hiroshi Miura" creationdate="20230223T031642Z">
+        <seg>一部の分節で、あとで修正が必要になりました。そこで &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;9&lt;/k3&gt;&lt;/k0&gt;を使ってメモ帳に移動し、自分のために メモを書きます。そして、 &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;A&lt;/k6&gt;&lt;k7&gt;0&lt;/k7&gt;&lt;/k4&gt;を使って編集ウィンドウに戻ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97078,24 +97078,24 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Video 1</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130315T060424Z">
-        <seg>ビデオ１</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T035910Z">
+        <seg>ビデオ1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Video 2</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130315T060427Z">
-        <seg>ビデオ２</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T035902Z">
+        <seg>ビデオ2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Video 3</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130315T060429Z">
-        <seg>ビデオ３</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T035856Z">
+        <seg>ビデオ3</seg>
       </tuv>
     </tu>
     <tu>
@@ -102735,8 +102735,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>[[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20251114T231347Z" creationid="miurahr" creationdate="20251114T231347Z">
-        <seg>[[&lt;t0&gt;2003&lt;/t0&gt;]], elle acquiert la nationalité allemande.</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251116T035713Z" creationid="miurahr" creationdate="20251114T231347Z">
+        <seg>[[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
       </tuv>
     </tu>
     <tu>
