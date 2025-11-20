@@ -5887,6 +5887,20 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
         <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
 [NEW]▷ ${diff}
 			
+[OLD]◀ ${diffReversed}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251120T031831Z" creationid="miurahr" creationdate="20251120T031831Z">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEW]▷ ${diff}
+			
+[OLD]◀ ${diffReversed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEW]▷ ${diff}
+			
 [OLD]◀ ${diffReversed}
 ◀ ${targetText}</seg>
       </tuv>
@@ -114939,6 +114953,14 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T143012Z" creationid="amake" creationdate="20170128T143012Z">
         <seg>▼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>◀ ${targetText}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251120T031838Z" creationid="miurahr" creationdate="20251120T031838Z">
+        <seg>◀ ${targetText}</seg>
       </tuv>
     </tu>
     <tu>
