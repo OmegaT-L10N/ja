@@ -8418,6 +8418,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;List View&lt;/g0&gt; and &lt;g1&gt;Detail View&lt;/g1&gt; offer alternative views of a segment either hiding or displaying various segment properties.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104016Z" creationid="miurahr" creationdate="20251209T104016Z">
+        <seg>&lt;g0&gt;リストビュー&lt;/g0&gt;と&lt;g1&gt;詳細ビュー&lt;/g1&gt;は、分節の別ビューを表示または非表示または表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;New...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T210658Z" creationid="Hiroshi Miura" creationdate="20230113T210658Z">
@@ -16605,6 +16613,14 @@ copyright 2020-2023 Hiroshi Miura</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the project is ready and has been uploaded to the server, the project manager has to set up access for the translators.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103437Z" creationid="miurahr" creationdate="20251209T103437Z">
+        <seg>プロジェクトが準備され、サーバにアップロードされた後、プロジェクト管理者は翻訳者へのアクセス権を設定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the project is ready and has been uploaded to the server, the project manager will require the following information to set up access for the translators:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251114T154808Z" creationid="miurahr" creationdate="20251114T154808Z">
@@ -16665,6 +16681,14 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T012021Z" creationid="Hiroshi Miura" creationdate="20230223T012021Z">
         <seg>訳文ファイルを生成した後、プロジェクト管理者から要求された場合は、&lt;l0/&gt;&lt;l1/&gt;を使用してサーバに追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you generate the target files use &lt;l0/&gt;&lt;l1/&gt; to add them to the server, if the project manager has requested you to do so.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104113Z" creationid="miurahr" creationdate="20251209T104113Z">
+        <seg>訳文ファイルを生成した後、プロジェクトマネージャから要求された場合は、&lt;l0/&gt;&lt;l1/&gt;を使用してサーバに追加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17798,6 +17822,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although OmegaT provides a mechanism for adding translation source and target files to the repository, the project manager must add any other files, such as dictionaries, glossaries or reference translation memories, from the VCS repository.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103613Z" creationid="miurahr" creationdate="20251209T103613Z">
+        <seg>OmegaT には、翻訳ソースファイルとターゲットファイルをリポジトリに追加するメカニズムが用意されていますが、プロジェクトマネージャは、辞書、用語集、参照翻訳メモリなどの他のファイルを VCS クライアントから追加する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130518T000627Z">
@@ -17978,6 +18010,14 @@ OmegaT.exe.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251114T153654Z" creationid="miurahr" creationdate="20251114T153654Z">
         <seg>OmegaTチームプロジェクトは、プロジェクト翻訳メモリ(&lt;l0/&gt;)とプロジェクト書き込み可能用語集(&lt;l1/&gt;)を、ホストサーバとすべての参加チームメンバー間で同期します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An OmegaT team project synchronizes the project translation memory &lt;l0/&gt; and the project writable glossary &lt;l1/&gt; between the VCS hosting server and all the participating team members, and manages all possible conflicts between them.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103340Z" creationid="miurahr" creationdate="20251209T103340Z">
+        <seg>OmegaTチームプロジェクトは、プロジェクト翻訳メモリ&lt;l0/&gt;とプロジェクト書き込み可能用語集&lt;l1/&gt;を、ホストサーバとすべての参加チームメンバー間で同期し、それらの間で発生する可能性のあるすべての競合を管理します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20858,6 +20898,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break rule, &lt;g0&gt;Break&lt;/g0&gt; box checked, lower in the list</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T102751Z" creationid="miurahr" creationdate="20251209T102751Z">
+        <seg>改節する規則は、&lt;g0&gt;［分割する/しない］&gt;&lt;/g0&gt;チェックボックスにチェックを入れ、リストの下位に置きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break rule, box checked, lower in the list</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T045757Z" creationid="Hiroshi Miura" creationdate="20221022T045757Z">
@@ -23110,6 +23158,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231207T000721Z" creationid="Hiroshi Miura" creationdate="20231207T000721Z">
         <seg>{0}の権限をチェックしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the server documentation if your password does not work.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103719Z" creationid="miurahr" creationdate="20251209T103719Z">
+        <seg>パスワードが機能しない場合はサーバーのドキュメントを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28346,8 +28402,8 @@ New version: {2}</seg>
       <tuv lang="en">
         <seg>Developer: OmegaT Nightly</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T021030Z" creationid="Hiroshi Miura" creationdate="20221023T021030Z">
-        <seg>開発版:OmegaT Nightly</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103218Z" creationid="Hiroshi Miura" creationdate="20221023T021030Z">
+        <seg>開発版:OmegaT Weekly</seg>
       </tuv>
     </tu>
     <tu>
@@ -32800,6 +32856,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T082758Z">
         <seg>例外規則です。? 文字の使用方法については</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception rule, &lt;g0&gt;Break&lt;/g0&gt; box unchecked, higher in the list</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T102822Z" creationid="miurahr" creationdate="20251209T102635Z">
+        <seg>改節を禁止するルールは、&lt;g0&gt;分割する/しない&lt;/g0&gt;チェックボックスにチェックを入れずに、リストの上位におきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38014,6 +38078,14 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have team members work on different parts of a translation at any given time to reduce the chances of having translation conflicts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104053Z" creationid="miurahr" creationdate="20251209T104053Z">
+        <seg>チームメンバーに翻訳の異なる部分を同時に担当させ、翻訳の競合を減らすようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you considered donating to OmegaT?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T124437Z" creationid="miurahr" creationdate="20201108T124437Z">
@@ -39756,6 +39828,14 @@ their default values.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If any shared team project files have become unnecessary, the project manager &lt;e0&gt;must&lt;/e0&gt; delete them from the VCS repository.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103652Z" creationid="miurahr" creationdate="20251209T103652Z">
+        <seg>共有チーム プロジェクト ファイルが不要になった場合、プロジェクト管理者は VCS を使用してリポジトリから削除&lt;e0&gt;する必要があります&lt;/e0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If any shared team project files have become unnecessary, the project manager &lt;e0&gt;must&lt;/e0&gt; use the VCS to delete them from the repository.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251114T155149Z" creationid="miurahr" creationdate="20251114T155149Z">
@@ -40988,6 +41068,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the project manager must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103449Z" creationid="miurahr" creationdate="20251209T103449Z">
+        <seg>翻訳者が自分でアカウントを登録することができない自前サーバの場合、プロジェクト管理者は、翻訳者の書き込みアクセス権を持つアカウントを作成する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T231907Z" creationid="Hiroshi Miura" creationdate="20230116T231907Z">
@@ -41208,6 +41296,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T085338Z" creationid="miurahr" creationdate="20221105T085338Z">
         <seg>ファイル中にエンコーディング宣言がある場合、以下の設定は反映されず、その宣言が使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is an existing &lt;f0&gt;segmentation.conf&lt;/f0&gt; file from earlier versions, OmegaT converts it automatically.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T102516Z" creationid="miurahr" creationdate="20251209T102516Z">
+        <seg>もし以前のバージョンの&lt;f0&gt;segmentation.conf&lt;/f0&gt;ファイルが存在すれば、OmegaTは自動的に変換します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42616,6 +42712,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to work on the project too, download the project yourself to a local location different from the original team project location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103509Z" creationid="miurahr" creationdate="20251209T103509Z">
+        <seg>プロジェクトで作業する必要がある場合は、ローカルチームプロジェクトの場所とは異なるローカルの場所にプロジェクトを自分でダウンロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you obtain the Oracle version of Java directly from Oracle, installation is likely to be straightforward, but you will have to configure it manually in order to make it the default version at system level.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130518T110731Z">
@@ -42888,6 +42992,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you use multiple projects on the same server, you will only be asked for your credentials once for that server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103730Z" creationid="miurahr" creationdate="20251209T103730Z">
+        <seg>同じサーバーで複数のプロジェクトを使用する場合、そのサーバーに対して資格情報の入力は一度だけ求められます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you use multiple projects on the same server, you will only be asked to enter your credentials once for that server.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251114T214212Z" creationid="miurahr" creationdate="20251114T214212Z">
@@ -42932,6 +43044,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T141729Z" creationid="Hiroshi Miura" creationdate="20230218T141729Z">
         <seg>ショートカットからスクリプトを削除する場合は、そのボタンを右クリックし、&lt;g0&gt;スクリプトの削除&lt;/g0&gt;を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to install your project on a shared drive, do not install it at the top of the drive, but rather create a folder in which you will install the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104200Z" creationid="miurahr" creationdate="20251209T104200Z">
+        <seg>共有ドライブにプロジェクトをインストールしたい場合は、ドライブの上部にインストールせず、プロジェクトをインストールするフォルダを作成してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46981,6 +47101,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to select “all” the translations of a given version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103950Z" creationid="miurahr" creationdate="20251209T103950Z">
+        <seg>また、特定のバージョンの「すべての」翻訳を選択することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is also possible to use &lt;f0&gt;OmegaT.app&lt;/f0&gt; itself to launch OmegaT from the terminal.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T003201Z" creationid="Hiroshi Miura" creationdate="20230223T003201Z">
@@ -47236,6 +47364,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141103T175036Z" creationid="Yu-Tang" creationdate="20141103T174856Z">
         <seg>プロジェクト設定ウィンドウから、トークナイザーの種類（言語のトークナイザー）やバージョン（互換設定）を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to select the appropriate translations one by one by clicking on them for each displayed segment.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103943Z" creationid="miurahr" creationdate="20251209T103943Z">
+        <seg>表示される各分節ごとに適切な翻訳を一つずつ選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51114,6 +51250,14 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T221245Z" creationid="Hiroshi Miura" creationdate="20230221T221245Z">
         <seg>ファイルが同一であることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that the two language codes are &lt;e0&gt;different&lt;/e0&gt;, that they are appropriate for your use of OmegaT, and that all other locations requiring a language code match the codes you assign here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103006Z" creationid="miurahr" creationdate="20251209T103006Z">
+        <seg>2つの言語コードが&lt;e0&gt;異なる&lt;/e0&gt;こと、OmegaTの使用に適していること、そしてそのような言語コードを必要とする他のすべての場所が、ここで割り当てたものと一致していることを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56399,6 +56543,30 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.0.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103131Z" creationid="miurahr" creationdate="20251209T103131Z">
+        <seg>OmegaT 6.0.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 6.0.1 - User Manual</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104334Z" creationid="miurahr" creationdate="20251209T104334Z">
+        <seg>OmegaT 6.0.2 - 取扱説明書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 6.0.1 requires a Java 11 Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103258Z" creationid="miurahr" creationdate="20251209T103258Z">
+        <seg>OmegaT 6.0.2 の実行には、Java 11 Runtime Environment（JRE) が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 6.1.0 - User Manual</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230521T015521Z" creationid="Hiroshi Miura" creationdate="20230521T015521Z">
@@ -57012,6 +57180,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T115622Z" creationid="Hiroshi Miura" creationdate="20230116T115622Z">
         <seg>OmegaTでは、翻訳済みの分節に異なるステータスは割り当てられません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not check the validity of the language codes that you enter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T102836Z" creationid="miurahr" creationdate="20251209T102836Z">
+        <seg>OmegaTは入力した言語コードの有効性をチェックしません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57854,6 +58030,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to be able to modify the folder within which you create the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104127Z" creationid="miurahr" creationdate="20251209T104127Z">
+        <seg>OmegaTはプロジェクトを作成するフォルダを修正できる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142942Z" creationid="miurahr" creationdate="20221103T142942Z">
@@ -57972,6 +58156,14 @@ selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T023924Z" creationid="Hiroshi Miura" creationdate="20230118T023924Z">
         <seg>OmegaTプロジェクトは、OmegaT内に格納&lt;s2&gt;&lt;e3&gt;されません&lt;/e3&gt;&lt;/s2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT provides a convenient short list of two-letter language codes, but you can type any code into the appropriate field.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T102831Z" creationid="miurahr" creationdate="20251209T102831Z">
+        <seg>OmegaTは便利な2文字の言語コードリストを提供しますが、適切なフィールドに任意のコードを入力できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59321,6 +59513,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once a OmegaT team project is installed on a server, the project manager sends members the information they need to access it: a URL indicating the location of the project, or an &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103707Z" creationid="miurahr" creationdate="20251209T103707Z">
+        <seg>OmegaTチームプロジェクトがサーバにインストールされると、プロジェクト管理者は、プロジェクトの場所を示すURLまたは&lt;f0&gt;OmegaT.project&lt;/f0&gt;ファイルなど、プロジェクトにアクセスするために必要な情報をメンバーに送信します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T043246Z">
@@ -59453,6 +59653,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T122437Z" creationid="Hiroshi Miura" creationdate="20230116T122437Z">
         <seg>訳文ファイルが作成されたら、元のアプリケーションでファイルを開いて内容を確認し、さらに最終的な変更調整することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the translations have been selected, clicking on &lt;g0&gt;Done&lt;/g0&gt; will save the selected translations to the server for sharing with other team members.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104032Z" creationid="miurahr" creationdate="20251209T104032Z">
+        <seg>翻訳を選択したら、&lt;g0&gt;「完了」&lt;/g0&gt;をクリックすると、選択した翻訳をサーバーに保存し、他のチームメンバーと共有します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59844,6 +60052,14 @@ with exactly the same structure, including copies of any non-supported files.</s
         <seg>Only the project administrator should use &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T012001Z" creationid="Hiroshi Miura" creationdate="20230223T012001Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt;は、プロジェクト管理者のみが使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the project manager should use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104058Z" creationid="miurahr" creationdate="20251209T104058Z">
         <seg>&lt;l0/&gt;&lt;l1/&gt;は、プロジェクト管理者のみが使用できます。</seg>
       </tuv>
     </tu>
@@ -63971,6 +64187,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T023530Z" creationid="miurahr" creationdate="20201101T023530Z">
         <seg>プロジェクトマネージャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project managers have two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103500Z" creationid="miurahr" creationdate="20251209T103500Z">
+        <seg>プロジェクト管理者が、プロジェクトの場所を翻訳者に共有するには、おおきく2つの方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project managers may find it advantageous—or even necessary—to handle such tasks directly from the VCS repository, particularly in cases where the project manager only acts as a coordinator and is not involved in the translation process itself.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103601Z" creationid="miurahr" creationdate="20251209T103601Z">
+        <seg>プロジェクト管理者は、特にコーディネーターとしてのみ機能し翻訳プロセス自体に関与しない場合、VCSを通じてそのようなタスクを直接処理することが有利である、あるいは必要性を感じるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72699,6 +72931,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since members do not necessarily synchronize their projects at the same time, a segment with a local translation will occasionally also have a different translation from another member available on the server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103803Z" creationid="miurahr" creationdate="20251209T103803Z">
+        <seg>メンバーが必ずしも同時にプロジェクトを同期しているわけではないため、ローカル翻訳のある分節に、サーバー上で他のメンバーと異なる翻訳が存在することもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since she had noted the number of the segment she was in, she uses &lt;k7&gt;&lt;k8&gt;C&lt;/k8&gt;&lt;k9&gt;J&lt;/k9&gt;&lt;/k7&gt; again in the editor, enters the number in the dialog, and immediately continues from where she left off.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T053933Z" creationid="Hiroshi Miura" creationdate="20221022T053933Z">
@@ -73075,6 +73315,14 @@ that points back to itself or one of its subfolders.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T023749Z" creationid="miurahr" creationdate="20201101T023749Z">
         <seg>ソーシャル・ネットワーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Solving translation conflicts</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103815Z" creationid="miurahr" creationdate="20251209T103815Z">
+        <seg>翻訳の競合の解決</seg>
       </tuv>
     </tu>
     <tu>
@@ -74481,6 +74729,14 @@ that points back to itself or one of its subfolders.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230416T230325Z" creationid="Hiroshi Miura" creationdate="20230416T230325Z">
         <seg>標準版:OmegaT 6.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard: OmegaT 6.0.1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103204Z" creationid="miurahr" creationdate="20251209T103204Z">
+        <seg>標準版: OmegaT 6.0.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -80172,6 +80428,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog offers the choice between three versions of the translated segment:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103902Z" creationid="miurahr" creationdate="20251209T103902Z">
+        <seg>ダイアログでは翻訳された分節の3つのバージョンから選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog offers various options:</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T024646Z" creationid="Hiroshi Miura" creationdate="20230118T024646Z">
@@ -83127,6 +83391,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251114T155119Z" creationid="miurahr" creationdate="20251114T155119Z">
         <seg>プロジェクトマネージャーは、特にプロジェクトマネージャーがコーディネーターとしてのみ機能し、翻訳プロセス自体に関与しない場合、VCSを通じてそのようなタスクを直接処理することが有利であり、必要であると感じるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project manager must use the local VCS to &lt;e0&gt;modify&lt;/e0&gt; or &lt;e1&gt;delete&lt;/e1&gt; those files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103425Z" creationid="miurahr" creationdate="20251209T103425Z">
+        <seg>プロジェクト管理者は、ローカルVCSを使用して、これらのファイルを&lt;e0&gt;変更&lt;/e0&gt;または&lt;e1&gt;削除&lt;/e1&gt;する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88058,6 +88330,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the project-specific segmentation rules in the &lt;u0&gt;SRX 2.0&lt;/u0&gt; format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104321Z" creationid="miurahr" creationdate="20251209T104321Z">
+        <seg>このファイルには、プロジェクト固有の分節化規則が&lt;u0&gt;SRX 2.0&lt;/u0&gt;形式で含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the project-specific segmentation rules.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T071228Z" creationid="Hiroshi Miura" creationdate="20230223T071228Z">
@@ -88853,10 +89133,26 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the version that was shared with other members since you last worked on the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103933Z" creationid="miurahr" creationdate="20251209T103933Z">
+        <seg>これは、あなたが最後にこのプロジェクトに携わって以来、他のメンバーと共有されたバージョンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T155949Z">
         <seg>表示はこのようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the “base” version from which various versions were created.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103926Z" creationid="miurahr" creationdate="20251209T103926Z">
+        <seg>これは「ベース」バージョンであり、ここから、さまざまなバージョンが生まれました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88937,6 +89233,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T121507Z" creationid="Hiroshi Miura" creationdate="20230221T121507Z">
         <seg>翻訳内容を入力、編集する場所です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is your local version, which has not yet been sent to the server for sharing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103917Z" creationid="miurahr" creationdate="20251209T103917Z">
+        <seg>結果はあなたのローカルバージョンで、まだサーバーに送って共有されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89637,6 +89941,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters in the &lt;u0&gt;SRX 2.0&lt;/u0&gt; format.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T102507Z" creationid="miurahr" creationdate="20251209T102507Z">
+        <seg>これは、分節化ルールをカスタマイズするための&lt;u0&gt;SRX2.0&lt;/u0&gt;フォーマットのファイルです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized segmentation parameters.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221222T125224Z" creationid="miurahr" creationdate="20221222T125224Z">
@@ -89872,6 +90184,14 @@ this version will not interfere with it.</seg>
         <seg>This task is normally performed by the project administrator.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T012114Z" creationid="Hiroshi Miura" creationdate="20230223T012114Z">
+        <seg>削除タスクは通常、プロジェクト管理者によって実行されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This task is normally performed by the project manager.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104122Z" creationid="miurahr" creationdate="20251209T104122Z">
         <seg>削除タスクは通常、プロジェクト管理者によって実行されます。</seg>
       </tuv>
     </tu>
@@ -90940,6 +91260,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To define a break rule, check the &lt;g0&gt;Break&lt;/g0&gt; box.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104226Z" creationid="miurahr" creationdate="20251209T104226Z">
+        <seg>分節規則を定義する場合は、&lt;g0&gt;分割する/しない&lt;/g0&gt;チェックボックスにチェックを入れます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To define a list of tags, group each tag between parentheses and separate the groups with &lt;l0&gt;|&lt;/l0&gt; (equivalent to "OR" in regular expressions).</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T152834Z" creationid="Hiroshi Miura" creationdate="20230223T152834Z">
@@ -90960,6 +91288,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140205T113824Z">
         <seg>改節を禁止するための規則を定義する場合は、［分割する/しない］チェックボックスにチェックを入れずにおきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define an exception rule, leave the &lt;g0&gt;Break &lt;/g0&gt;check box unchecked.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104216Z" creationid="miurahr" creationdate="20251209T104216Z">
+        <seg>改節を禁止するための規則を定義する場合は、&lt;g0&gt;分割する/しない&lt;/g0&gt;チェックボックスにチェックを入れずにおきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91224,6 +91560,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T151939Z" creationid="Hiroshi Miura" creationdate="20230116T151939Z">
         <seg>有効にするには、&lt;l1/&gt; 設定の &lt;l0/&gt;でチェックをいれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enhance security, some servers require external processes to connect using a separate access token instead of a password.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103714Z" creationid="miurahr" creationdate="20251209T103714Z">
+        <seg>セキュリティを強化するため、一部のサーバーは外部プロセスにパスワードの代わりに別のアクセストークンを使って接続することを求めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95366,6 +95710,14 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add source files from OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103357Z" creationid="miurahr" creationdate="20251209T103357Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt; を使用して、OmegaTから原文ファイルを追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add terms to that file.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T151448Z" creationid="Hiroshi Miura" creationdate="20230221T151448Z">
@@ -96658,6 +97010,14 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T080641Z" creationid="Hiroshi Miura" creationdate="20230223T080641Z">
         <seg>ウィンドウレイアウトの再配置中に問題が発生した場合は、この機能を使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option for parts of the translation that do not require much transformation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T104242Z" creationid="miurahr" creationdate="20251209T104242Z">
+        <seg>この設定は、訳語をあまり必要としない分節に対して一時的に使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -98303,6 +98663,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When OmegaT cannot automatically solve a difference between a local translation and the remote memory, it displays a &lt;g0&gt;Merge&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103851Z" creationid="miurahr" creationdate="20251209T103851Z">
+        <seg>OmegaTがローカル翻訳とリモートメモリの違いを自動的に解決できない場合、&lt;g0&gt;マージ&lt;/g0&gt;ダイアログを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When OmegaT commits the target files, it also commits the project statistics in &lt;f0&gt;.txt&lt;/f0&gt; and &lt;f1&gt;.json&lt;/f1&gt; format.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251114T155208Z" creationid="miurahr" creationdate="20251114T155208Z">
@@ -99059,6 +99427,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130515T032523Z">
         <seg>そこでマウス右ボタンを放すと、いくつかのオプションを示すダイアログが開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you synchronize the project, OmegaT will match the local and modified versions, and ask you to choose which version of the translation to keep.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103810Z" creationid="miurahr" creationdate="20251209T103810Z">
+        <seg>プロジェクトを同期すると、OmegaTはローカル版と修正版をマッチングし、どの翻訳バージョンを保持するか選ぶように言われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -102910,6 +103286,14 @@ unexpected, but correct behaviour.</seg>
         <seg>You must use your VCS client, or the command line, to add and publish any dictionaries, glossaries, translation memories or any other files you want to include in the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251114T153942Z" creationid="miurahr" creationdate="20251114T153942Z">
+        <seg>プロジェクトに含める辞書、用語集、翻訳メモリ、その他のファイルを追加して公開するには、VCSクライアントかコマンドを使用する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must use your VCS client, or the command line, to add and publish any dictionaries, glossaries, translation memories or other files you want to include in the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103411Z" creationid="miurahr" creationdate="20251209T103411Z">
         <seg>プロジェクトに含める辞書、用語集、翻訳メモリ、その他のファイルを追加して公開するには、VCSクライアントかコマンドを使用する必要があります。</seg>
       </tuv>
     </tu>
@@ -106837,9 +107221,25 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>find grammatical and typographical mistakes using the rules set in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103030Z" creationid="miurahr" creationdate="20251209T103030Z">
+        <seg> &lt;l0/&gt; 設定などで規則集を選択して、文法エラーや綴りの間違いをチェックしたり、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>find spelling mistakes from the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230218T153408Z" creationid="Hiroshi Miura" creationdate="20230218T153408Z">
+        <seg>&lt;l0/&gt;設定でインストールされるスペルチェッカー用辞書をインストールしたり、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>find spelling mistakes using the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103020Z" creationid="miurahr" creationdate="20251209T103020Z">
         <seg>&lt;l0/&gt;設定でインストールされるスペルチェッカー用辞書をインストールしたり、</seg>
       </tuv>
     </tu>
@@ -113253,6 +113653,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031213Z" creationid="Hiroshi Miura" creationdate="20230118T031213Z">
         <seg>行を切断して残りを無視するまでの最大文字数を指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specify the languages used in the TMX files that are created by the project (to be compliant, a TMX must use &lt;u0&gt;RFC 3066&lt;/u0&gt; language codes),</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T103111Z" creationid="miurahr" creationdate="20251209T103111Z">
+        <seg>プロジェクトが作成するTMXファイルで使用される言語を指定すること(標準準拠のためには、TMXには&lt;u0&gt;RFC 3066&lt;/u0&gt;言語コードを使用しなければなりません)。</seg>
       </tuv>
     </tu>
     <tu>
