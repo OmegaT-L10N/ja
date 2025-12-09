@@ -19404,6 +19404,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Associate other file formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040038Z" creationid="miurahr" creationdate="20251209T040038Z">
+        <seg>他のファイル形式を関連付ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Associate the format to an already supported format.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T000901Z" creationid="Hiroshi Miura" creationdate="20230117T000901Z">
@@ -20886,6 +20894,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T024818Z" creationid="Hiroshi Miura" creationdate="20230223T024818Z">
         <seg>2つの言語の橋渡し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bridge two languages with an intermediate TM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040357Z" creationid="miurahr" creationdate="20251209T040357Z">
+        <seg>中間の言語で2つの言語をつなぐ</seg>
       </tuv>
     </tu>
     <tu>
@@ -26444,6 +26460,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create your own translation memories</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040708Z" creationid="miurahr" creationdate="20251209T040708Z">
+        <seg>独自の翻訳メモリを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Created by</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T142122Z" creationid="amake" creationdate="20170128T142122Z">
@@ -29982,6 +30006,14 @@ New version: {2}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033114Z" creationid="miurahr" creationdate="20201101T033114Z">
         <seg>ダウンロードセレクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download StarDict or Lingvo DSL dictionaries and extract them into the project's dictionary folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T041032Z" creationid="miurahr" creationdate="20251209T041032Z">
+        <seg>StarDictまたはLingvoのDSL辞書をダウンロードし、プロジェクトの辞書フォルダに展開してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35899,6 +35931,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130518T000520Z">
         <seg>「参照用途」の翻訳であれば、これは問題にならないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For unsupported formats, try associating them with a supported one (e.g., convert to HTML) before adding them to the source folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040115Z" creationid="miurahr" creationdate="20251209T040115Z">
+        <seg>サポートされていないフォーマットについては、元のフォルダに追加する前に、サポートされているフォーマット(例:HTMLに変換)と関連付けてみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41932,6 +41972,14 @@ folder, see the manual for its location).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you get lost while rearranging panes, use &lt;s0&gt;View&lt;/s0&gt; &lt;s1&gt;Restore OmegaT Window&lt;/s1&gt; to return to the default layout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T041005Z" creationid="miurahr" creationdate="20251209T041005Z">
+        <seg>ウィンドウの配置を変更しているうちに収拾がつかなくなった場合は、&lt;s0&gt;［表示］&lt;/s0&gt;&lt;s1&gt;［ウィンドウを初期値に復元］&lt;/s1&gt;を選んでください。ウィンドウの配置がインストール直後の状態に復元されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T210713Z">
@@ -45754,6 +45802,14 @@ Google 検索結果(2013/2/11)：
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130518T110642Z">
         <seg>デフォルトとは別の 2 つ目のシステムレベルの Java バージョンをインストールして、このバージョンで明示的に OmegaT を起動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install dictionaries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T041012Z" creationid="miurahr" creationdate="20251209T041012Z">
+        <seg>辞書をインストールするには</seg>
       </tuv>
     </tu>
     <tu>
@@ -57728,6 +57784,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT regularly and automatically stores all your progress in the &lt;c0&gt;project_save.tmx&lt;/c0&gt; file located in the project's omegat folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040350Z" creationid="miurahr" creationdate="20251209T040350Z">
+        <seg>OmegaTは、プロジェクトのomegatフォルダーにある&lt;c0&gt;project_save.tmx&lt;/c0&gt;ファイルに、すべての進行状況を定期的かつ自動的に保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT regularly and automatically stores all your progress in the &lt;l0/&gt; file located in the project’s &lt;l1/&gt; folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T121644Z" creationid="miurahr" creationdate="20221023T121644Z">
@@ -57821,6 +57885,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251115T003228Z" creationid="miurahr" creationdate="20251115T003228Z">
         <seg>OmegaTの標準テーマは、システムの色に基づいてデフォルトの色を渦巻きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT standard theme will switch default colours based on System colors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040659Z" creationid="miurahr" creationdate="20251209T040659Z">
+        <seg>OmegaTの標準テーマは、システムの色に基づいてデフォルトの色を切りかえます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58229,6 +58301,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T124002Z" creationid="Hiroshi Miura" creationdate="20230223T124002Z">
         <seg>OmegaTはそれを消去し、分節は翻訳されていないものとしてカウントします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will export memories from &lt;s0&gt;Project menu&lt;/s0&gt; &lt;s1&gt;Create Translated Files&lt;/s1&gt; and share exported TMs when needed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040809Z" creationid="miurahr" creationdate="20251209T040809Z">
+        <seg>OmegaTは&lt;s0&gt;プロジェクトメニュー&lt;/s0&gt;から翻訳メモリーをエクスポートし、必要に応じて&lt;s1&gt;変換済みのTM&lt;/s1&gt;を共有できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66471,6 +66551,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restore the default window layout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040818Z" creationid="miurahr" creationdate="20251209T040818Z">
+        <seg>ウインドウを初期位置に復元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restores the OmegaT main window layout to its default values.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T080603Z" creationid="Hiroshi Miura" creationdate="20230223T080603Z">
@@ -69614,6 +69702,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T030548Z" creationid="Hiroshi Miura" creationdate="20230223T030548Z">
         <seg>次のオプションおよび詳細用のスクリプトを参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the manual section on supporting other formats for ideas.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040253Z" creationid="miurahr" creationdate="20251209T040253Z">
+        <seg>その他の方法については、取扱説明書の「他のフォーマットをサポートする」の項を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84429,6 +84525,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The themes also provide a predefined set of default colors of marks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040622Z" creationid="miurahr" creationdate="20251209T040622Z">
+        <seg>テーマには、マークの既定の色の事前定義セットも用意されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The themes also provide a predefined set of default colours of marks.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251115T003219Z" creationid="miurahr" creationdate="20251115T003219Z">
@@ -86782,6 +86886,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130415T104603Z">
         <seg>これは将来、簡単に復元できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can help suggest terminology via the Fuzzy Matches pane.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040541Z" creationid="miurahr" creationdate="20251209T040512Z">
+        <seg>参考訳文ウィンドウを通じて用語提案を受けられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -98255,6 +98367,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you have a TM in a different target language, you can bridge languages by adding both that TM and another TM that maps to your target.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040401Z" creationid="miurahr" creationdate="20251209T040401Z">
+        <seg>異なるターゲット言語のTMがある場合、そのTMとターゲットにマッピングする別のTMを追加することで言語間の橋渡しが可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you have finished your translation, to import it into Wikipedia:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T054516Z" creationid="miurahr" creationdate="20201115T054516Z">
@@ -100884,6 +101004,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can export TMX file from each OmegaT project for delivery and future project reference TM.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T040727Z" creationid="miurahr" creationdate="20251209T040727Z">
+        <seg>各OmegaTプロジェクトからTMXファイルをエクスポートして、納品や将来のプロジェクト参照TMに使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can find a number of online or offline utilities that convert PDF to common office formats, but the conversion will always require extensive manual adjustments to the target document before a proper PDF document can be produced.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230117T003325Z" creationid="Hiroshi Miura" creationdate="20230117T003325Z">
@@ -102247,6 +102375,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T031356Z" creationid="Hiroshi Miura" creationdate="20230221T031356Z">
         <seg>以前に、このフィルターで処理したファイルを含むプロジェクトとの互換性の問題を回避するときのみ、利用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should see .dz, .idx and .ifo files per dictionary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251209T041058Z" creationid="miurahr" creationdate="20251209T041058Z">
+        <seg>辞書ごとに.dz、.idx、.ifoファイルが見えるはずです。</seg>
       </tuv>
     </tu>
     <tu>
