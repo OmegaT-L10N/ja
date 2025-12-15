@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_71e24fe81" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_3215f9fdf" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -56563,6 +56563,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251209T103258Z" creationid="miurahr" creationdate="20251209T103258Z">
         <seg>OmegaT 6.0.2 の実行には、Java 11 Runtime Environment（JRE) が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 6.0.2 - User Manual</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20251215T035626Z" creationid="miurahr" creationdate="20251215T035626Z">
+        <seg>OmegaT 6.0.2 - 取扱説明書</seg>
       </tuv>
     </tu>
     <tu>
