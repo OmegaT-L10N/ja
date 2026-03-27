@@ -64,8 +64,8 @@
 		<mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
 		<mapping local="source/scripts/tagwipe.properties" repository="scripts/properties/tagwipe.properties"/>
 	    </repository>
-	    <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
-                <mapping local="source/6.0/Bundle.properties" repository="6.0/src/org/omegat/Bundle.properties"/>
+	    <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/refs/heads/releases/6.0/">
+                <mapping local="source/6.0/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
             </repository>
         </repositories>
     </project>
