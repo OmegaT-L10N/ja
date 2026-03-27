@@ -213,7 +213,7 @@
   <filter className="net.sf.okapi.lib.omegat.JSONFilter" enabled="true">
     <files sourceFilenameMask="*.json" targetFilenamePattern="${filename}"/>
   </filter>
-  <filter className="net.sf.okapi.lib.omegat.YAMLFilter" enabled="true">
+  <filter className="net.sf.okapi.lib.omegat.YAMLFilter" enabled="false">
     <files sourceFilenameMask="*.yaml" targetFilenamePattern="${filename}"/>
     <files sourceFilenameMask="*.yml" targetFilenamePattern="${filename}"/>
   </filter>
@@ -267,5 +267,9 @@
     <files sourceFilenameMask="*.xltm" targetFilenamePattern="${filename}"/>
     <files sourceFilenameMask="*.vsdx" targetFilenamePattern="${filename}"/>
     <files sourceFilenameMask="*.vsdm" targetFilenamePattern="${filename}"/>
+  </filter>
+  <filter className="org.omegat.filters2.text.yaml.YamlFilter" enabled="true">
+    <files sourceFilenameMask="*.yml" targetFilenamePattern="${filename}"/>
+    <files sourceFilenameMask="*.yaml" targetFilenamePattern="${filename}"/>
   </filter>
 </filters>
