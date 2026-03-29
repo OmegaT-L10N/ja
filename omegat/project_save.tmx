@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_13fb0273b" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_7395b26a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># Country</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231314Z" creationid="miurahr" creationdate="20260329T231314Z">
+        <seg># インターフェース言語の国指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg># Google Translate v2 API key
 -Dgoogle.api.key=xxxxx</seg>
       </tuv>
@@ -226,16 +234,24 @@
       <tuv lang="en">
         <seg># Language</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260327T013737Z" creationid="miurahr" creationdate="20260327T013737Z">
-        <seg># Language</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231319Z" creationid="miurahr" creationdate="20260327T013737Z">
+        <seg># インターフェース言語指定</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg># Memory</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260327T013719Z" creationid="miurahr" creationdate="20260327T013638Z">
-        <seg># Memory</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231244Z" creationid="miurahr" creationdate="20260327T013638Z">
+        <seg># メモリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># OmegaT.exe runtime configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231148Z" creationid="miurahr" creationdate="20260329T231148Z">
+        <seg># OmegaT.exe ランタイム設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -303,6 +319,14 @@
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130417T074344Z">
         <seg># TMXFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># To use a parameter, remove the '#' before the '-'</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231235Z" creationid="miurahr" creationdate="20260329T231235Z">
+        <seg># 引数を有効にするときは、'-'の前の'#'を削除してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5177,10 +5201,26 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231429Z" creationid="miurahr" creationdate="20260329T231429Z">
+        <seg>-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Duser.country=CC</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T121003Z" creationid="Hiroshi Miura" creationdate="20221021T121003Z">
         <seg>-Duser.country=CC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Duser.language=FR</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231412Z" creationid="miurahr" creationdate="20260329T231412Z">
+        <seg>-Duser.language=FR</seg>
       </tuv>
     </tu>
     <tu>
@@ -14560,6 +14600,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T061720Z" creationid="Hiroshi Miura" creationdate="20230223T061720Z">
         <seg>&lt;repository type="git" url="https://URL/OF/THE/REMOTE/PROJECT/REPOSITORY"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231426Z" creationid="miurahr" creationdate="20260329T231426Z">
+        <seg>&lt;repository type="git" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -108351,6 +108399,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>config-dir="path/to/new/configdir"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231423Z" creationid="miurahr" creationdate="20260329T231423Z">
+        <seg>config-dir="path/to/new/configdir"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130217T175002Z">
@@ -117843,6 +117899,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130211T183452Z">
         <seg>ユーザー デフォルトの分節化規則です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user.language=fr</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20260329T231420Z" creationid="miurahr" creationdate="20260329T231420Z">
+        <seg>user.language=fr</seg>
       </tuv>
     </tu>
     <tu>
