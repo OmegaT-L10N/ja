@@ -271,5 +271,6 @@
   <filter className="org.omegat.filters2.text.yaml.YamlFilter" enabled="true">
     <files sourceFilenameMask="*.yml" targetFilenamePattern="${filename}"/>
     <files sourceFilenameMask="*.yaml" targetFilenamePattern="${filename}"/>
+    <option name="exclude" value="**/file"/>
   </filter>
 </filters>
