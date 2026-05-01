@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_0f8111ef7" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_0f8111e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15430,6 +15430,14 @@ copyright 2020-2023 Hiroshi Miura</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A glossary item with multiple definitions displays the definitions in descending order of length.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260501T144929Z" creationid="miura" creationdate="20260501T144929Z">
+        <seg>複数の定義を持つ用語集の項目は、定義の長い順で表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T064428Z">
@@ -30191,6 +30199,23 @@ New version: {2}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130917T062711Z">
         <seg>用語の原文も表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display the longer (similar) terms first</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260501T145338Z" creationid="miura" creationdate="20260501T144734Z">
+        <seg>用語が長い順に表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Display the longer definitions first</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260501T144817Z" creationid="miura" creationdate="20260501T144817Z">
+        <seg>訳文が長い用語を先に表示する</seg>
       </tuv>
     </tu>
     <tu>
@@ -48934,6 +48959,15 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T122349Z">
         <seg>あなたが行った翻訳にマークする際に使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>It is used to store the default writable glossary and any other glossaries that you use in the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260501T145504Z" creationid="miura" creationdate="20260501T145504Z">
+        <seg>プロジェクトで利用する標準の追加書き込み可能な用語集と参照用語集を格納するために使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74579,6 +74613,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T021739Z" creationid="Hiroshi Miura" creationdate="20230223T021739Z">
         <seg>類似した分節には、訳文入力時にプロジェクトの翻訳メモリから一致するものが参照訳文として表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similar terms are displayed in descending order of length.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260501T145436Z" creationid="miura" creationdate="20260501T144807Z">
+        <seg>同様の用語の表示順は、長い用語を先に表示します。</seg>
       </tuv>
     </tu>
     <tu>
