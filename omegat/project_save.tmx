@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_0f8111e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_7de870a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3202,6 +3202,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(for use with a JRE already installed on your system).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024619Z" creationid="miura" creationdate="20260626T024619Z">
+        <seg>(すでにシステムにインストールされているJREを利用します)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(no description)</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T074219Z" creationid="Hiroshi Miura" creationdate="20230223T074217Z">
@@ -3433,6 +3441,24 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>- A notarized dmg package is provided, supporting both Apple Silicon and</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024528Z" creationid="miura" creationdate="20260626T024528Z">
+        <seg>- 公証済みのDMGパッケージが提供されており、Apple Silicon と</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>- A tar.bz2 archive is also available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024519Z" creationid="miura" creationdate="20260626T024519Z">
+        <seg>- tar.bz2のアーカイブも利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>- ASCII text (.txt, etc.)</seg>
       </tuv>
@@ -3591,6 +3617,15 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130418T095345Z">
         <seg>- Iceni Infix（.xml）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>- Installer EXE files are provided in three variants: one bundled with an</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024545Z" creationid="miura" creationdate="20260626T024545Z">
+        <seg>- インストーラーEXEファイルは3つのバリエーションで提供されており、1つは</seg>
       </tuv>
     </tu>
     <tu>
@@ -3919,6 +3954,15 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130206T160817Z">
         <seg>- 比較級、主格、男性形、女性形、中性形、それぞれに形容詞の複数形あり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL Translate]</prop>
+      <tuv lang="en">
+        <seg>- deb and rpm packages are provided for the amd64 and aarch64</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024336Z" creationid="miura" creationdate="20260626T024336Z">
+        <seg>- amd64 および aarch64 向けに、deb パッケージと rpm パッケージが用意されています</seg>
       </tuv>
     </tu>
     <tu>
@@ -15076,6 +15120,15 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>A 32-bit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024624Z" creationid="miura" creationdate="20260626T024624Z">
+        <seg>32ビット</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
       </tuv>
@@ -21191,6 +21244,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Available packages
+===================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024314Z" creationid="miura" creationdate="20260626T024314Z">
+        <seg>利用可能なパッケージ
+====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Available script engines:</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121004T151831Z">
@@ -22176,6 +22239,17 @@ documentation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251113T003356Z" creationid="miurahr" creationdate="20251113T003356Z">
         <seg>同梱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Bundled JRE packages currently ship with JRE 17 or 21,
+and OmegaT has been verified to run correctly up to Java 21.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024300Z" creationid="miura" creationdate="20260626T024300Z">
+        <seg>現在、JRE 17または21が付属しているバンドルJREパッケージは、
+OmegaTはJava 21まで正しく動作することが確認されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47846,6 +47920,14 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Intel architectures.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024538Z" creationid="miura" creationdate="20260626T024538Z">
+        <seg>インテルアーキテクチャをサポートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130223T064450Z">
@@ -49511,6 +49593,15 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ja" changeid="suzume" changedate="20201122T143033Z" creationid="suzume" creationdate="20201122T143033Z">
         <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>JRE-bundled variant is not provided.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024626Z" creationid="miura" creationdate="20260626T024626Z">
+        <seg>JREバンドル版は提供されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51616,6 +51707,15 @@ experience bugs, display problems or missing features.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Linux:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024330Z" creationid="miura" creationdate="20260626T024330Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Lion users will be prompted by the system when they first launch 
 an application that requires Java and the system will eventually 
@@ -52376,6 +52476,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221103T142707Z" creationid="miurahr" creationdate="20221103T142707Z">
         <seg>機械翻訳(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL Translate]</prop>
+      <tuv lang="en">
+        <seg>Mac:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024523Z" creationid="miura" creationdate="20260626T024523Z">
+        <seg>Mac：</seg>
       </tuv>
     </tu>
     <tu>
@@ -57108,6 +57217,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Note that the installer program</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024632Z" creationid="miura" creationdate="20260626T024632Z">
+        <seg>インストーラープログラムに注意してください</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Note that the key is 38 characters long.</seg>
       </tuv>
@@ -57913,6 +58031,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T074251Z">
         <seg>古代教会スラヴ語（Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Older 32-bit environments are not supported.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024517Z" creationid="miura" creationdate="20260626T024517Z">
+        <seg>古い32ビット環境はサポートされていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59332,6 +59459,17 @@ translation leveraging into updated projects.</seg>
     <tu>
       <tuv lang="en">
         <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024234Z" creationid="miura" creationdate="20260626T024234Z">
+        <seg>OmegaTは、Free Software Foundationが公開しているGNU General Public License Version 3および(任意の)以降のバージョンのライセンス条項の下で利用可能です。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
@@ -59363,6 +59501,17 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230114T000731Z" creationid="Hiroshi Miura" creationdate="20230114T000731Z">
         <seg>OmegaTは、翻訳プロセスを容易にするだけでなく、翻訳者がデータの損失を心配する必要がないように設計されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL Translate]</prop>
+      <tuv lang="en">
+        <seg>OmegaT is distributed in several package formats, depending on your platform
+and needs:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024319Z" creationid="miura" creationdate="20260626T024319Z">
+        <seg>OmegaTは、お使いのプラットフォーム
+やニーズに応じて、いくつかのパッケージ形式で提供されています：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59847,6 +59996,15 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 11 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024249Z" creationid="miura" creationdate="20260626T024249Z">
+        <seg>OmegaT の実行には、Java Runtime Environment（JRE）バージョン 11以降があらかじめインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT runs an issues check on the segment as you leave it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T124752Z" creationid="Hiroshi Miura" creationdate="20230223T124752Z">
@@ -60122,6 +60280,15 @@ installed on your system.</seg>
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061154Z" creationid="miurahr" creationdate="20201101T061154Z">
+        <seg>OmegaT は多くのライブラリを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT uses a number of libraries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024240Z" creationid="miura" creationdate="20260626T024240Z">
         <seg>OmegaT は多くのライブラリを使用しています。</seg>
       </tuv>
     </tu>
@@ -101271,6 +101438,16 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, getting, and installing it.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024305Z" creationid="miura" creationdate="20260626T024305Z">
+        <seg>JRE の選択や入手、またはインストールにおけるトラブルを回避するため、現在の OmegaT は JRE 付きパッケージが標準で提供されています。 </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
 of selecting, obtaining and installing it.</seg>
@@ -102772,6 +102949,15 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T120924Z" creationid="Hiroshi Miura" creationdate="20221021T120924Z">
         <seg>Windows/Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Windows:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024541Z" creationid="miura" creationdate="20260626T024541Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -107576,6 +107762,15 @@ create the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>amd64 JRE, one bundled with an aarch64 JRE, and one without any JRE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024548Z" creationid="miura" creationdate="20260626T024548Z">
+        <seg>amd64 JRE、aarch64 JREにセットされたもの、そしてJREのないもの</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>amh</seg>
       </tuv>
@@ -107741,6 +107936,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T203611Z">
         <seg>ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>architectures.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024513Z" creationid="miura" creationdate="20260626T024513Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
@@ -112539,6 +112742,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>itself is a 32-bit Intel binary; this does not affect the architecture</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024635Z" creationid="miura" creationdate="20260626T024635Z">
+        <seg>それ自体は32ビットのIntelバイナリです。これはアーキテクチャには影響しません</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>iu</seg>
       </tuv>
@@ -114585,6 +114797,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>oci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>of OmegaT or the JRE that gets installed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024749Z" creationid="miura" creationdate="20260626T024749Z">
+        <seg>OmegaTやインストールされるJREのことです。</seg>
       </tuv>
     </tu>
     <tu>
