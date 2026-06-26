@@ -3452,6 +3452,15 @@ menu, on the desktop and in the quick launch area.</seg>
     <tu>
       <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
       <tuv lang="en">
+        <seg>- A plain ZIP archive is also available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025204Z" creationid="miura" creationdate="20260626T025204Z">
+        <seg>- プレーンなZIPアーカイブも利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
         <seg>- A tar.bz2 archive is also available.</seg>
       </tuv>
       <tuv lang="ja" changeid="miura" changedate="20260626T024519Z" creationid="miura" creationdate="20260626T024519Z">
@@ -3854,6 +3863,15 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130514T140420Z">
         <seg>- 編集中の分節の訳文テキスト&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL Translate]</prop>
+      <tuv lang="en">
+        <seg>- The source package bundles all required library dependencies, so its</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025108Z" creationid="miura" creationdate="20260626T025108Z">
+        <seg>- ソースパッケージには必要なライブラリの依存関係がすべて含まれているため、その</seg>
       </tuv>
     </tu>
     <tu>
@@ -15674,6 +15692,15 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>A notarized dmg package is provided, supporting both Apple Silicon and</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024944Z" creationid="miura" creationdate="20260626T024928Z">
+        <seg>- 公証済みのDMGパッケージが提供されており、Apple Silicon と</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
@@ -15983,6 +16010,15 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T153012Z" creationid="Hiroshi Miura" creationdate="20230223T153012Z">
         <seg>原文と参考訳文との差異を表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>A tar.bz2 archive is also available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024923Z" creationid="miura" creationdate="20260626T024923Z">
+        <seg>- tar.bz2のアーカイブも利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21240,6 +21276,16 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221105T091542Z" creationid="miurahr" creationdate="20221105T091542Z">
         <seg>利用可能な言語:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Available packages</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024912Z" creationid="miura" creationdate="20260626T024912Z">
+        <seg>利用可能なパッケージ
+====================</seg>
       </tuv>
     </tu>
     <tu>
@@ -37028,6 +37074,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For normal development purposes, we recommend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025117Z" creationid="miura" creationdate="20260626T025117Z">
+        <seg>通常の開発目的では、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141201T034848Z" creationid="Yu-Tang" creationdate="20141201T034848Z">
@@ -43909,6 +43963,16 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you installed OmegaT using the deb or rpm package, launch it from your
+desktop environment's application menu, or run:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T054048Z" creationid="miura" creationdate="20260626T053947Z">
+        <seg>deb または rpm パッケージを使用して OmegaT をインストールした場合は、
+デスクトップ環境のアプリケーションメニューから起動するか、次のコマンドを端末から実行してください：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you just need to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T065027Z" creationid="Hiroshi Miura" creationdate="20230221T065027Z">
@@ -47610,6 +47674,17 @@ Google 検索結果(2013/2/11)：
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Install the package for your architecture (amd64 or aarch64) using your
+distribution's package manager, e.g.:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025345Z" creationid="miura" creationdate="20260626T025345Z">
+        <seg>あなたのアーキテクチャ(amd64またはaarch64)に合ったパッケージを、
+ディストリビューションのパッケージマネージャー、例えば:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Install the {0} {1} plugin?</seg>
       </tuv>
@@ -47682,9 +47757,9 @@ Simply launch the installation program.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T061542Z" creationid="miurahr" creationdate="20201101T061542Z">
+      <tuv lang="ja" changeid="miura" changedate="20260626T025313Z" creationid="miurahr" creationdate="20201101T061542Z">
         <seg>OmegaTのインストール (Linux)
-=========================</seg>
+===========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -47692,9 +47767,9 @@ Simply launch the installation program.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T061437Z" creationid="miurahr" creationdate="20201101T061437Z">
+      <tuv lang="ja" changeid="miura" changedate="20260626T025243Z" creationid="miurahr" creationdate="20201101T061437Z">
         <seg>OmegaTのインストール (Mac)
-=======================</seg>
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -47708,13 +47783,24 @@ Simply launch the installation program.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+==========================================</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025422Z" creationid="miura" creationdate="20260626T025422Z">
+        <seg>OmegaTのインストール (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T061405Z" creationid="miurahr" creationdate="20201101T061405Z">
+      <tuv lang="ja" changeid="miura" changedate="20260626T025230Z" creationid="miurahr" creationdate="20201101T061405Z">
         <seg>OmegaT のインストール (Windows)
-=============================</seg>
+===============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -47922,8 +48008,8 @@ Simply launch the installation program.</seg>
       <tuv lang="en">
         <seg>Intel architectures.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miura" changedate="20260626T024538Z" creationid="miura" creationdate="20260626T024538Z">
-        <seg>インテルアーキテクチャをサポートします。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025039Z" creationid="miura" creationdate="20260626T024538Z">
+        <seg>lインテルアーキテクチャをサポートします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49074,6 +49160,15 @@ the user license.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130520T141703Z">
         <seg>外部の開発者から委託された開発成果を、OmegaT 内へ実装することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL Translate]</prop>
+      <tuv lang="en">
+        <seg>It may also be used on Mac for self-notarization purposes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025214Z" creationid="miura" creationdate="20260626T025214Z">
+        <seg>また、Mac上で自己公証を行う際にも使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51426,6 +51521,16 @@ Launch OmegaT as follows.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Licensing information</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024909Z" creationid="miura" creationdate="20260626T024909Z">
+        <seg>ライセンス情報
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
@@ -52479,11 +52584,10 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[DeepL Translate]</prop>
       <tuv lang="en">
         <seg>Mac:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miura" changedate="20260626T024523Z" creationid="miura" creationdate="20260626T024523Z">
+      <tuv lang="ja" changeid="miura" changedate="20260626T024940Z" creationid="miura" creationdate="20260626T024523Z">
         <seg>Mac：</seg>
       </tuv>
     </tu>
@@ -59639,6 +59743,16 @@ your home folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025412Z" creationid="miura" creationdate="20260626T025412Z">
+        <seg>これで、OmegaT を起動できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT is then ready to
 be launched.</seg>
@@ -62300,6 +62414,16 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20260322T133032Z" creationid="miurahr" creationdate="20260322T133032Z">
         <seg>&lt;l1/&gt;にコピーした&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;をテキストエディターで開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the OmegaT .dmg package and drag the OmegaT application to the
+Applications folder (or another location of your choice).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025302Z" creationid="miura" creationdate="20260626T025302Z">
+        <seg>OmegaT .dmgパッケージを開いて、OmegaTアプリケーションを
+アプリケーションフォルダ(またはお好きな他の場所)にコピーしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65152,6 +65276,16 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130218T155607Z">
         <seg>必要な条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Prerequisites for installing OmegaT</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024911Z" creationid="miura" creationdate="20260626T024911Z">
+        <seg>OmegaTをインストールするための前提条件
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -74863,6 +74997,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Simple ZIP archive:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025201Z" creationid="miura" creationdate="20260626T025201Z">
+        <seg>シンプルなZIPアーカイブ:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Simple example of a post-processing commands:</seg>
       </tuv>
@@ -76320,6 +76463,15 @@ that points back to itself or one of its subfolders.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20141104T031522Z" creationid="Yu-Tang" creationdate="20141104T031522Z">
         <seg>選択中の参考訳文の元分節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source package:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025059Z" creationid="miura" creationdate="20260626T025059Z">
+        <seg>ソースコードパッケージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -84166,6 +84318,16 @@ in the quick launch area.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop, and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025426Z" creationid="miura" creationdate="20260626T025426Z">
+        <seg>インストーラーは、スタートメニュー、デスクトップ、およびクイック起動領域にショートカットを作成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The instructions given here apply to people who download the package from the &lt;a0&gt;https://omegat.org&lt;/a0&gt; site and install it manually.</seg>
       </tuv>
@@ -86957,6 +87119,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T062225Z" creationid="Hiroshi Miura" creationdate="20230223T062225Z">
         <seg>原文フォルダーには、翻訳するファイルが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The source package is</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025132Z" creationid="miura" creationdate="20260626T025132Z">
+        <seg>ソースコードパッケージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -91622,6 +91793,15 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130225T020557Z">
         <seg>これは、過去に作成した翻訳メモリを何度も使用するような場合に便利です。たとえば、同じ顧客向けであったり、同じ分野の翻訳であったりする場合が挙げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>This is useful on Linux or</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025206Z" creationid="miura" creationdate="20260626T025206Z">
+        <seg>これはLinuxや</seg>
       </tuv>
     </tu>
     <tu>
@@ -100791,10 +100971,30 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using the deb or rpm package
+----------------------------</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025336Z" creationid="miura" creationdate="20260626T025336Z">
+        <seg>DEBまたはRPMパッケージのどちらを使う
+-------------------------------------------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using the sample scripts</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130514T064113Z">
         <seg>サンプルスクリプトの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the tar.bz2 archive
+-------------------------</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025407Z" creationid="miura" creationdate="20260626T025407Z">
+        <seg>tar.bz2アーカイブの使用
+------------------------------------</seg>
       </tuv>
     </tu>
     <tu>
@@ -102920,6 +103120,15 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Windows when you need a portable package and can supply your own JRE.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025209Z" creationid="miura" creationdate="20260626T025209Z">
+        <seg>ポータブルパッケージが必要なときにWindowsを使い、自分でJREを用意することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Windows with 64-bit JRE</seg>
       </tuv>
@@ -104384,6 +104593,16 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061916Z" creationid="miurahr" creationdate="20201101T061916Z">
         <seg>あるいは OmegaT.exe ファイルをマウスの右ボタンでドラッグすれば、ショートカットを自分で作成し、上記のような場所へ配置することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop, or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025428Z" creationid="miura" creationdate="20260626T025428Z">
+        <seg>[参考] あるいは OmegaT.exe ファイルをマウスの右ボタンでドラッグすれば、ショートカットを自分で作成し、上記のような場所へ配置することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -106068,6 +106287,16 @@ SourceForge too.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231207T004136Z" creationid="Hiroshi Miura" creationdate="20231207T004136Z">
         <seg>You can work around this issue by introducing a small change to one of the preceding or following segments in the source file to distinguish between the various instances of the same preceding or following segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can, however, get a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025416Z" creationid="miura" creationdate="20260626T025416Z">
+        <seg>あるいは、linux-install.sh のようなインストール スクリプトを使うと、もっとユーザーに分かりやすい形でインストールできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -108652,6 +108881,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cloning the repository from GitHub instead.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025129Z" creationid="miura" creationdate="20260626T025129Z">
+        <seg>代わりにGitHubからリポジトリをクローンすることを推奨しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T090519Z">
@@ -109440,6 +109677,15 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T210504Z">
         <seg>de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>deb and rpm packages are provided for the amd64 and aarch64</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T024918Z" creationid="miura" creationdate="20260626T024918Z">
+        <seg>- amd64 および aarch64 向けに、deb パッケージと rpm パッケージが用意されています</seg>
       </tuv>
     </tu>
     <tu>
@@ -110546,6 +110792,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130203T210156Z">
         <seg>fra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>from a terminal.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T054031Z" creationid="miura" creationdate="20260626T054031Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112595,6 +112849,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T120604Z" creationid="miurahr" creationdate="20221023T120604Z">
         <seg>insertCharsRLM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intended to support building OmegaT even in environments with limited</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025156Z" creationid="miura" creationdate="20260626T025156Z">
+        <seg>は、インターネット接続が限られた環境でもOmegaTの構築を支援することを</seg>
       </tuv>
     </tu>
     <tu>
@@ -115302,8 +115564,8 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       <tuv lang="en">
         <seg>or</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
-        <seg>or</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025357Z">
+        <seg>や</seg>
       </tuv>
     </tu>
     <tu>
@@ -115328,6 +115590,14 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T034902Z" creationid="Hiroshi Miura" creationdate="20230118T034902Z">
         <seg>ファイルフィルター設定で指定のエンコーディングを適用して、訳文ファイルを保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or no internet access.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025158Z" creationid="miura" creationdate="20260626T025158Z">
+        <seg>意図しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -116688,6 +116958,15 @@ https://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html#ubc</note
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T000000Z">
         <seg>sin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>size is relatively large.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260626T025111Z" creationid="miura" creationdate="20260626T025111Z">
+        <seg>サイズは比較的大きいです。</seg>
       </tuv>
     </tu>
     <tu>
