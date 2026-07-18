@@ -42,7 +42,7 @@
                 <mapping local="source/website/yml/ja.yml" repository="_i18n/en.yml"/>
             </repository>
 	    <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
-		<mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
+  	        <mapping local="source/Bundle.properties" repository="src/main/resources/org/omegat/Bundle.properties"/>
 		<mapping local="source/aligner/Bundle.properties" repository="aligner/src/main/resources/org/omegat/gui/align/Bundle.properties"/>
 		<mapping local="source/machinetranslators/apertium/Bundle.properties" repository="machinetranslators/apertium/src/main/resources/org/omegat/machinetranslators/apertium/Bundle.properties"/>
 		<mapping local="source/machinetranslators/belazar/Bundle.properties" repository="machinetranslators/belazar/src/main/resources/org/omegat/machinetranslators/belazar/Bundle.properties"/>
@@ -64,8 +64,8 @@
 		<mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
 		<mapping local="source/scripts/tagwipe.properties" repository="scripts/properties/tagwipe.properties"/>
 	    </repository>
-	    <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/refs/heads/releases/6.0/">
-                <mapping local="source/6.0/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
+	    <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/refs/heads/releases/6.1/">
+                <mapping local="source/6.1/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
             </repository>
         </repositories>
     </project>
