@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_7de870a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_7ab88c8d5" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4235,6 +4235,19 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+&lt;p1&gt;-- 177&gt; [[2001年]]、 &lt;t2&gt;ドイツ&lt;/t2&gt;の永住権を取得。&lt;/p1&gt;
+---------</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062649Z" creationid="miura" creationdate="20260718T061420Z">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+---------
+&lt;p1&gt;-- 177&gt; [[2001年]]、&lt;t2&gt;ドイツ&lt;/t2&gt;の永住権を取得。&lt;/p1&gt;
+---------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140503T043232Z">
@@ -5776,6 +5789,15 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>2026-04-12_10-01 indicates that the session started at 10:01, on the 12th of April, 2026.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061038Z" creationid="miura" creationdate="20260718T061038Z">
+        <seg>2026-04-12_10-01は、セッションが2026年4月12日10:01に開始されたことを示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>27/27</seg>
       </tuv>
@@ -6029,6 +6051,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T163125Z">
         <seg> 95% - 100%：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>97543 is a random number.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061029Z" creationid="miura" creationdate="20260718T061000Z">
+        <seg>97543 は乱数になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8261,6 +8291,14 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT_2026-04-12_10-01_97543.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061900Z" creationid="miura" creationdate="20260718T060959Z">
+        <seg>&lt;f0&gt;OmegaT_2026-04-12_10-01_97543.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T064345Z">
@@ -9447,8 +9485,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;g0&gt;Select Match #2&lt;/g0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;2&lt;/k3&gt; &lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T141737Z" creationid="miurahr" creationdate="20260322T141737Z">
-        <seg>&lt;g0&gt;参考訳文 1 を選択&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;1&lt;/k3&gt;&lt;/k1&gt;</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062333Z" creationid="miurahr" creationdate="20260322T141737Z">
+        <seg>&lt;g0&gt;参考訳文 2を選択&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;2&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9463,8 +9501,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;g0&gt;Select Match #3&lt;/g0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;3&lt;/k3&gt; &lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T141738Z" creationid="miurahr" creationdate="20260322T141738Z">
-        <seg>&lt;g0&gt;参考訳文 1 を選択&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;1&lt;/k3&gt;&lt;/k1&gt;</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062328Z" creationid="miurahr" creationdate="20260322T141738Z">
+        <seg>&lt;g0&gt;参考訳文 3 を選択&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;3&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9479,8 +9517,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;g0&gt;Select Match #4&lt;/g0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;4&lt;/k3&gt; &lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T141739Z" creationid="miurahr" creationdate="20260322T141739Z">
-        <seg>&lt;g0&gt;参考訳文 1 を選択&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;1&lt;/k3&gt;&lt;/k1&gt;</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062343Z" creationid="miurahr" creationdate="20260322T141739Z">
+        <seg>&lt;g0&gt;参考訳文 4 を選択&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;4&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9495,8 +9533,8 @@ java -Xmx&lt;容量[MB]&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>&lt;g0&gt;Select Match #5&lt;/g0&gt; &lt;k1&gt; &lt;k2&gt;C&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T141741Z" creationid="miurahr" creationdate="20260322T141741Z">
-        <seg>&lt;g0&gt;参考訳文 1 を選択&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;1&lt;/k3&gt;&lt;/k1&gt;</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062354Z" creationid="miurahr" creationdate="20260322T141741Z">
+        <seg>&lt;g0&gt;参考訳文 5 を選択&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;5&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15781,6 +15819,15 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>A plain ZIP archive is also available.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061521Z" creationid="miura" creationdate="20260718T061521Z">
+        <seg>- プレーンなZIPアーカイブも利用可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A project is a folder containing, at a minimum, the following:</seg>
       </tuv>
@@ -16075,6 +16122,15 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130226T032845Z">
         <seg>翻訳単位は、少なくとも２つの翻訳単位言語要素（tuv）から構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>A typical log file name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060956Z" creationid="miura" creationdate="20260718T060956Z">
+        <seg>典型的なログファイル名</seg>
       </tuv>
     </tu>
     <tu>
@@ -17154,8 +17210,8 @@ copyright 2020-2023 Hiroshi Miura</seg>
       <tuv lang="en">
         <seg>Additional plugins can be found on the &lt;l0&gt;OmegaT wiki site&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T081142Z" creationid="miurahr" creationdate="20260322T081142Z">
-        <seg>その他のプラグインは、&lt;u0&gt;OmegaT wiki サイト&lt;/u0&gt;にあります。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062418Z" creationid="miurahr" creationdate="20260322T081142Z">
+        <seg>その他のプラグインは、&lt;l0&gt;OmegaT wiki サイト&lt;/l0&gt;にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17178,8 +17234,8 @@ copyright 2020-2023 Hiroshi Miura</seg>
       <tuv lang="en">
         <seg>Additional scripts can be found here: &lt;l0&gt;OmegaT Scripts&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T131442Z" creationid="miurahr" creationdate="20260322T131442Z">
-        <seg>追加できるスクリプトが&lt;u0&gt;OmegaT Scripts&lt;/u0&gt; にあります。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062601Z" creationid="miurahr" creationdate="20260322T131442Z">
+        <seg>追加できるスクリプトが&lt;l0&gt;OmegaT Scripts&lt;/l0&gt; にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17875,6 +17931,15 @@ copyright 2020-2023 Hiroshi Miura</seg>
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T081311Z">
+        <seg>{0} に対してプロジェクトを整合する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Align the project against {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060421Z" creationid="miura" creationdate="20260718T060421Z">
         <seg>{0} に対してプロジェクトを整合する</seg>
       </tuv>
     </tu>
@@ -18803,8 +18868,8 @@ OmegaT.exe.</seg>
       <tuv lang="en">
         <seg>Alternatively, you can press the arrow keys while holding &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;/k0&gt; to select consecutive segments.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T090835Z" creationid="miurahr" creationdate="20260322T090835Z">
-        <seg>または、&lt;k0&gt;Shift&lt;/k0&gt;を押しながら矢印キーを押して、連続する分節を選択することもできます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062500Z" creationid="miurahr" creationdate="20260322T090835Z">
+        <seg>または、&lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;/k0&gt;を押しながら矢印キーを押して、連続する分節を選択することもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21483,6 +21548,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Bad location exception when changing case</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060404Z" creationid="miura" creationdate="20260718T060404Z">
+        <seg>大文字と小文字の変更時の不適切な場所の例外</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Bad nesting</seg>
       </tuv>
@@ -22296,6 +22370,15 @@ and OmegaT has been verified to run correctly up to Java 21.</seg>
       <tuv lang="ja" changeid="miura" changedate="20260626T024300Z" creationid="miura" creationdate="20260626T024300Z">
         <seg>現在、JRE 17または21が付属しているバンドルJREパッケージは、
 OmegaTはJava 21まで正しく動作することが確認されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Bundled JRE packages currently ship with JRE 25.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061637Z" creationid="miura" creationdate="20260718T061637Z">
+        <seg>バンドルされたJREパッケージには、現在JRE 25が同梱されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24195,6 +24278,15 @@ OmegaTはJava 21まで正しく動作することが確認されています。<
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Check that elements appear in the correct order and that no unsupported elements are present.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060906Z" creationid="miura" creationdate="20260718T060906Z">
+        <seg>要素が正しい順序で表示されているか、サポートされていない要素がないか確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Check that spelling checking is enabled in the spelling checking dialog.</seg>
       </tuv>
@@ -24942,8 +25034,8 @@ OmegaTはJava 21まで正しく動作することが確認されています。<
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Search&lt;/g0&gt; or hit &lt;k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k1&gt; when the search field is selected to start the search.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T142452Z" creationid="miurahr" creationdate="20260322T142452Z">
-        <seg>検索欄を選択して検索をスタートするには、 &lt;g0&gt;検索&lt;/g0&gt;をクリックするか、 &lt;k1&gt;Enter&lt;/k1&gt; キーを入力します。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062621Z" creationid="miurahr" creationdate="20260322T142452Z">
+        <seg>検索欄を選択して検索をスタートするには、 &lt;g0&gt;検索&lt;/g0&gt;をクリックするか、 &lt;k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k1&gt; キーを入力します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26106,6 +26198,15 @@ OmegaTはJava 21まで正しく動作することが確認されています。<
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Config file not found: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060730Z" creationid="miura" creationdate="20260718T060730Z">
+        <seg>設定ファイルが見つかりません: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Configuration Folder</seg>
       </tuv>
@@ -26717,6 +26818,16 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T062309Z" creationid="miurahr" creationdate="20201101T062309Z">
         <seg>コードへの貢献は、/docs/contributors.txtに記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061610Z" creationid="miura" creationdate="20260718T061610Z">
+        <seg>寄稿者
+============</seg>
       </tuv>
     </tu>
     <tu>
@@ -29833,6 +29944,15 @@ New version: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Did you mean 'xml:lang'?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060921Z" creationid="miura" creationdate="20260718T060921Z">
+        <seg>「xml:lang」のことを言いたかったのですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Didier Briel</seg>
       </tuv>
@@ -30376,6 +30496,15 @@ New version: {2}</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130221T132121Z">
         <seg>プロジェクトの言語や使用フォルダーを変更するため&lt;l0&gt;プロジェクト設定&lt;/l0&gt;ダイアログを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Displays a &lt;g0&gt;Progress&lt;/g0&gt; column in the &lt;l1/&gt; window and shows the overall project progress in the totals area.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061425Z" creationid="miura" creationdate="20260718T061425Z">
+        <seg>&lt;l1/&gt;ウィンドウに&lt;g0&gt;進捗&lt;/g0&gt;列を表示し、合計エリアにプロジェクト全体の進捗を表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32483,8 +32612,8 @@ several security warnings.</seg>
       <tuv lang="en">
         <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T234828Z" creationid="Hiroshi Miura" creationdate="20230113T234828Z">
-        <seg>埋め込みを使用して、分節の綴り方向と反対に綴る必要がある(いくつかの単語とスペースを含むような)長い文章を作成することができます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062123Z" creationid="Hiroshi Miura" creationdate="20230113T234828Z">
+        <seg>埋め込みを使用して、分節の綴り方向と反対に綴る必要がある(いくつかの単語とスペースを含むような)長い文章を作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33324,6 +33453,15 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error loading dictionary from '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060400Z" creationid="miura" creationdate="20260718T060400Z">
+        <seg>'{0}'からの辞書の読み込みエラー: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Error loading hunspell: {0}</seg>
       </tuv>
@@ -33380,6 +33518,15 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error preparing SAX parsing</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060405Z" creationid="miura" creationdate="20260718T060405Z">
+        <seg>SAX解析の準備でエラー発生</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
@@ -33408,6 +33555,15 @@ No one hears your screams</seg>
         <seg>Error saving ignore words"</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231207T003914Z" creationid="Hiroshi Miura" creationdate="20231207T003914Z">
+        <seg>無視する単語の保存中にエラーが発生しました"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error saving ignored words</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060402Z" creationid="miura" creationdate="20260718T060402Z">
         <seg>無視する単語の保存中にエラーが発生しました"</seg>
       </tuv>
     </tu>
@@ -33569,6 +33725,15 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251113T003539Z" creationid="Hiroshi Miura" creationdate="20230521T015016Z">
         <seg>プロジェクトのTMXファイル {0} の読み込み中にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Error while reading config file: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060733Z" creationid="miura" creationdate="20260718T060733Z">
+        <seg>設定ファイルの読み込み中にエラーが発生しました: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34938,6 +35103,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Failed to align project: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060727Z" creationid="miura" creationdate="20260718T060727Z">
+        <seg>プロジェクトの整合に失敗:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
@@ -35015,6 +35189,15 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20121003T160759Z">
         <seg>プロジェクトを作成できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Failed to create pseudo-translate TMX: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060717Z" creationid="miura" creationdate="20260718T060717Z">
+        <seg>疑似翻訳TMXの作成に失敗しました:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35177,6 +35360,15 @@ Some attributes have invalid values.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20260322T134417Z" creationid="miurahr" creationdate="20260322T134417Z">
         <seg>YAMLの解析失敗:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Failed to print stats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060722Z" creationid="miura" creationdate="20260718T060722Z">
+        <seg>ステータスの印刷に失敗しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35705,6 +35897,15 @@ Some attributes have invalid values.</seg>
         <seg>Finally, publish your project to the remote server ( &lt;c0&gt;commit&lt;/c0&gt; &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20260322T134202Z" creationid="miurahr" creationdate="20260322T134202Z">
+        <seg>最後に、プロジェクトをリモートサーバーに送信します(Gitでを&lt;c0&gt;commit&lt;/c0&gt;&lt;c1&gt;push&lt;/c1&gt;  、SVN  では&lt;c2&gt;commit&lt;/c2&gt;します)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Finally, publish your project to the remote server ( &lt;c0&gt;commit&lt;/c0&gt; and &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061200Z" creationid="miura" creationdate="20260718T061200Z">
         <seg>最後に、プロジェクトをリモートサーバーに送信します(Gitでを&lt;c0&gt;commit&lt;/c0&gt;&lt;c1&gt;push&lt;/c1&gt;  、SVN  では&lt;c2&gt;commit&lt;/c2&gt;します)。</seg>
       </tuv>
     </tu>
@@ -37457,6 +37658,15 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>For unsupported formats, try to convert them to a supported one (e.g., convert to XLIFF) before adding them to the source folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061658Z" creationid="miura" creationdate="20260718T061658Z">
+        <seg>サポートされていない形式の場合は、ソースフォルダに追加する前に、サポートされている形式（例：XLIFF）に変換してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>For users of Microsoft Office who do not (yet) have the 2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be achieved using a free plug-in converter available &lt;a0&gt;here&lt;/a0&gt; from Microsoft.</seg>
       </tuv>
@@ -38557,6 +38767,15 @@ OmegaT の実行には、Java Runtime Environment（JRE）バージョン 1.8 �
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130925T071543Z">
         <seg>用語集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Glossary entries with an empty target term are excluded from terminology checks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061223Z" creationid="miura" creationdate="20260718T061223Z">
+        <seg>対象用語が空欄の用語集項目は、用語チェックの対象から除外されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40485,6 +40704,15 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Hunspell spellchecker for language '{0}' dictionary {1} initialized</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061649Z" creationid="miura" creationdate="20260718T061649Z">
+        <seg>言語「{0}」用のHunspellスペルチェッカーの辞書{1}が初期化されました</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Hyperlinks</seg>
       </tuv>
@@ -40854,6 +41082,14 @@ not be entered.)</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20160705T223716Z" creationid="Kasuya" creationdate="20160705T080625Z">
         <seg>&lt;g0&gt;［原文中で単語が離れている用語を表示］&lt;/g0&gt;にチェックが入っていると、用語集の項目「単語A 単語B」は、原文が「単語A 他の単語 単語B」のような場合でも抽出されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;l0/&gt; is enabled, each file entry also shows its translation progress, calculated from the number of unique segments in that file that have already been translated.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061502Z" creationid="miura" creationdate="20260718T061502Z">
+        <seg>&lt;l0/&gt; が有効になっている場合、各ファイルエントリには、そのファイル内で既に翻訳済みの固有の分節の数に基づいて計算された翻訳の進捗状況も表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42359,6 +42595,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the matching segment exists in the files located in the source folder, as well as in other reference memories, it is labeled &lt;e0&gt;This project&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061350Z" creationid="miura" creationdate="20260718T061350Z">
+        <seg>もしその一致する分節が原文フォルダ内のファイルや他の参照メモリに存在する場合、それは「&lt;e0&gt;このプロジェクト&lt;/e0&gt;」とラベル付けされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the matching segment is no longer present in the files located in the source folder, it is labeled &lt;e0&gt;Orphan segment&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061320Z" creationid="miura" creationdate="20260718T061320Z">
+        <seg>もしその一致する分節が原文フォルダ内のファイルに存在しなければ、&lt;e0&gt;それは孤立した分節&lt;/e0&gt;とラベル付けされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the module provides a Morfologik dictionary, spellchecking works without having to install a dictionary in the folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250515T032224Z" creationid="miurahr" creationdate="20250515T032224Z">
@@ -42593,8 +42845,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt; &lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt; &lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T132351Z" creationid="miurahr" creationdate="20260322T132351Z">
-        <seg>ファイル名に複数のピリオドを利用するなどでファイル名と拡張子があいまいな場合、使用する構成要素を &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;番号&lt;/e1&gt;} と &lt;l2&gt;${extension-&lt;/l2&gt;-&lt;e3&gt;番号}&lt;/e3&gt; の形式で、次に示す例のように指定することができます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062141Z" creationid="miurahr" creationdate="20260322T132351Z">
+        <seg>ファイル名に複数のピリオドを利用するなどでファイル名と拡張子があいまいな場合、使用する構成要素を &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;番号&lt;/e1&gt;} と &lt;l2&gt;${extension-&lt;/l2&gt;-&lt;e3&gt;番号}&lt;/e3&gt; の形式で、次に示す例のように指定できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45314,8 +45566,8 @@ Google 検索結果(2013/2/11)：
       <tuv lang="en">
         <seg>In addition to a regular command, you can call a script.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T034458Z" creationid="Hiroshi Miura" creationdate="20230221T034458Z">
-        <seg>通常のコマンドに加えて、スクリプトを呼び出すことができます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062203Z" creationid="Hiroshi Miura" creationdate="20230221T034458Z">
+        <seg>通常のコマンドに加えて、スクリプトを呼び出せます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47139,6 +47391,14 @@ Google 検索結果(2013/2/11)：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Input one key per line.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060644Z" creationid="miura" creationdate="20260718T060644Z">
+        <seg>ファイルには1行に1 キーづつ指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T201312Z" creationid="Hiroshi Miura" creationdate="20230113T201312Z">
@@ -47737,6 +47997,15 @@ Simply launch the installation program.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Installer EXE files are provided in three variants: one bundled with an</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061516Z" creationid="miura" creationdate="20260718T061516Z">
+        <seg>- インストーラーEXEファイルは3つのバリエーションで提供されており、1つは</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
@@ -47754,12 +48023,30 @@ Simply launch the installation program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Linux)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061544Z" creationid="miura" creationdate="20260718T061544Z">
+        <seg>OmegaT のインストール（Linux）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
       <tuv lang="ja" changeid="miura" changedate="20260626T025313Z" creationid="miurahr" creationdate="20201101T061542Z">
         <seg>OmegaTのインストール (Linux)
 ===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Mac)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061525Z" creationid="miura" creationdate="20260718T061525Z">
+        <seg>OmegaTのインストール (Mac)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -47770,6 +48057,16 @@ Simply launch the installation program.</seg>
       <tuv lang="ja" changeid="miura" changedate="20260626T025243Z" creationid="miurahr" creationdate="20201101T061437Z">
         <seg>OmegaTのインストール (Mac)
 ==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061558Z" creationid="miura" creationdate="20260718T061558Z">
+        <seg>OmegaTのインストール (Solaris, FreeBSD, etc.)
+=========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -47791,6 +48088,14 @@ Simply launch the installation program.</seg>
       <tuv lang="ja" changeid="miura" changedate="20260626T025422Z" creationid="miura" creationdate="20260626T025422Z">
         <seg>OmegaTのインストール (Solaris, FreeBSD, etc.)
 =========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Windows)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062729Z" creationid="miura" creationdate="20260718T061523Z">
+        <seg>OmegaT のインストール(Windows)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49082,6 +49387,15 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>It is the session id.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061033Z" creationid="miura" creationdate="20260718T061033Z">
+        <seg>それはセッションIDです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
       </tuv>
@@ -50278,6 +50592,24 @@ http://docs.oracle.com/javase/jp/7/api/java/util/Properties.html</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Keys to exclude:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060618Z" creationid="miura" creationdate="20260718T060605Z">
+        <seg>除外するキー：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Keys to include:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060603Z" creationid="miura" creationdate="20260718T060603Z">
+        <seg>含めるべきキー:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Keyword search</seg>
       </tuv>
@@ -51081,6 +51413,16 @@ Launch OmegaT as follows.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Linux)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061602Z" creationid="miura" creationdate="20260718T061602Z">
+        <seg>OmegaT (Linux)の起動
+========================</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
@@ -51091,6 +51433,16 @@ Launch OmegaT as follows.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Mac)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061601Z" creationid="miura" creationdate="20260718T061601Z">
+        <seg>OmegaT (Mac)の起動
+======================</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Launching OmegaT (Mac)
 ======================</seg>
@@ -51098,6 +51450,16 @@ Launch OmegaT as follows.</seg>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T061959Z" creationid="miurahr" creationdate="20201101T061959Z">
         <seg>OmegaT (Mac)の起動
 ======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Windows)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061559Z" creationid="miura" creationdate="20260718T061559Z">
+        <seg>OmegaT (Windows)の起動
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -51124,6 +51486,16 @@ Launch OmegaT as follows.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130414T122350Z">
         <seg>コマンドラインからの OmegaT の起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Launching OmegaT from the command line (all systems)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061603Z" creationid="miura" creationdate="20260718T061603Z">
+        <seg>OmegaTをコマンドラインから起動 (全システム)
+====================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -51594,6 +51966,68 @@ Launch OmegaT as follows.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140320T035538Z">
         <seg>文字数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - (Unknown error)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060856Z" creationid="miura" creationdate="20260718T060856Z">
+        <seg>行 {0}:{1} - (不明なエラー)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Attribute '{2}' is not allowed on element &lt;{3}&gt;.{4}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060900Z" creationid="miura" creationdate="20260718T060900Z">
+        <seg>行 {0}:{1} - 属性「{2}」は要素&lt;{3}&gt;に許可されません。{4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Required attribute '{2}' is missing from element &lt;{3}&gt;.{4}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060858Z" creationid="miura" creationdate="20260718T060858Z">
+        <seg>行 {0}:{1} - 要素&lt;{3}&gt;に必要な属性「{2}」が欠けています。{4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Unexpected element &lt;{2}&gt; found.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060904Z" creationid="miura" creationdate="20260718T060904Z">
+        <seg>行目{0}:{1} - 予期せぬ要素&lt;{2}&gt;発見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Value '{2}' is not allowed here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060912Z" creationid="miura" creationdate="20260718T060912Z">
+        <seg>行 {0}:{1} - ここでは「{2}」の値は許可されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - Value '{2}' is not valid for type '{3}'.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060910Z" creationid="miura" creationdate="20260718T060910Z">
+        <seg>行 {0}:{1} - 「{2}」の値は型「{3}」には有効ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line {0}:{1} - [{3}] (details unavailable in this locale) {2}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060943Z" creationid="miura" creationdate="20260718T060943Z">
+        <seg>ライン{0}:{1} - [{3}](この言語では詳細は入手できません){2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -55367,8 +55801,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move Down (&lt;k0&gt;&lt;k1&gt;D&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T090846Z" creationid="miurahr" creationdate="20260322T090846Z">
-        <seg>下へ移動(&lt;k0&gt;D&lt;/k0&gt;)</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062523Z" creationid="miurahr" creationdate="20260322T090846Z">
+        <seg>下へ移動(&lt;k0&gt;&lt;k1&gt;D&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -55407,8 +55841,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move Up (&lt;k0&gt;&lt;k1&gt;U&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T090838Z" creationid="miurahr" creationdate="20260322T090838Z">
-        <seg>上へ移動(&lt;k0&gt;U&lt;/k0&gt;)</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062512Z" creationid="miurahr" creationdate="20260322T090838Z">
+        <seg>上へ移動(&lt;k0&gt;&lt;k1&gt;U&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56506,6 +56940,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20220830T115643Z" creationid="Hiroshi Miura" creationdate="20220830T115643Z">
         <seg>&lt;f0&gt;glossary&lt;/f0&gt; フォルダーに用語集ファイルがない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>No language has been registered.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060418Z" creationid="miura" creationdate="20260718T060418Z">
+        <seg>言語が登録されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58467,6 +58910,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>OmegaT TMX validation failed with the following errors:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060853Z" creationid="miura" creationdate="20260718T060853Z">
+        <seg>OmegaT TMXの検証は以下のエラーで失敗しました:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT Team Projects</seg>
       </tuv>
@@ -58774,8 +59226,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="ja" changeid="amake" changedate="20170128T145120Z" creationid="amake" creationdate="20170128T144956Z">
-        <seg>OmegaT はマスターパスワードを自動生成して保存することによって入力の手間を省くことができますが、データの安全性が格段に下がります。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062102Z" creationid="amake" creationdate="20170128T144956Z">
+        <seg>OmegaT は、マスターパスワードを自動生成して保存することによって入力の手間を省けますが、データの安全性が格段に下がります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58895,6 +59347,15 @@ as the Applications folder.</seg>
         <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problem.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T154245Z" creationid="Hiroshi Miura" creationdate="20230221T154245Z">
+        <seg>OmegaTは、問題が発生した場合にプロジェクト設定を取得できるように、プロジェクト設定のバックアップを作成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problems.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061701Z" creationid="miura" creationdate="20260718T061701Z">
         <seg>OmegaTは、問題が発生した場合にプロジェクト設定を取得できるように、プロジェクト設定のバックアップを作成します。</seg>
       </tuv>
     </tu>
@@ -60053,6 +60514,14 @@ selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT regularly and automatically stores all your progress in the &lt;c0&gt;project_save.tmx&lt;/c0&gt; file located in the project's &lt;c1&gt;omegat&lt;/c1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061735Z" creationid="miura" creationdate="20260718T061735Z">
+        <seg>OmegaTは、プロジェクトの&lt;c1&gt;omegat&lt;/c1&gt;フォルダーにある&lt;c0&gt;project_save.tmx&lt;/c0&gt;ファイルに、すべての進行状況を定期的かつ自動的に保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT regularly and automatically stores all your progress in the &lt;c0&gt;project_save.tmx&lt;/c0&gt; file located in the project's omegat folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251209T040350Z" creationid="miurahr" creationdate="20251209T040350Z">
@@ -60115,6 +60584,16 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ja" changeid="miura" changedate="20260626T024249Z" creationid="miura" creationdate="20260626T024249Z">
         <seg>OmegaT の実行には、Java Runtime Environment（JRE）バージョン 11以降があらかじめインストールされている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 21 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061629Z" creationid="miura" creationdate="20260718T061629Z">
+        <seg>OmegaT の実行には、Java Runtime Environment（JRE）バージョン 21以降があらかじめインストールされている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62417,6 +62896,15 @@ happen should you file a bug report.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to your &lt;l1&gt;configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061146Z" creationid="miura" creationdate="20260718T061146Z">
+        <seg>&lt;l1&gt;構成フォルダー&lt;/l1&gt;にコピーした&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;をテキストエディターで開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Open the OmegaT .dmg package and drag the OmegaT application to the
 Applications folder (or another location of your choice).</seg>
@@ -63248,6 +63736,15 @@ Applications folder (or another location of your choice).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T074305Z">
         <seg>オロモ語（Oromo）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Orphan segment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060354Z" creationid="miura" creationdate="20260718T060354Z">
+        <seg>現在の原文に存在しない分節</seg>
       </tuv>
     </tu>
     <tu>
@@ -64266,6 +64763,15 @@ Yu-Tang）「独創的」→「文学的」にしてみます。</note>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201108T124402Z" creationid="miurahr" creationdate="20201108T124402Z">
         <seg>定期ビルドはSourceforgeで入手できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Permitted values are: {3}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060914Z" creationid="miura" creationdate="20260718T060914Z">
+        <seg>許可される値は {3} です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65832,6 +66338,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Progress</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060454Z" creationid="miura" creationdate="20260718T060454Z">
+        <seg>進捗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130204T174227Z">
@@ -67017,6 +67531,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Read config: {0}={1}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060710Z" creationid="miura" creationdate="20260718T060710Z">
+        <seg>設定の読み取り：{0}={1}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Read the tag operations section to see what can be done with tags.</seg>
       </tuv>
@@ -67046,6 +67569,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T022955Z" creationid="Hiroshi Miura" creationdate="20230223T022955Z">
         <seg>他のツールからの翻訳メモリの読み取り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Reading config file: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060704Z" creationid="miura" creationdate="20260718T060704Z">
+        <seg>設定ファイルを読み込んでいます: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -71227,8 +71759,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230521T014242Z" creationid="Hiroshi Miura" creationdate="20230521T014242Z">
-        <seg>検索には&lt;l0/&gt;オプションがあり、ファイルを横断して非常に強力な検索を行うことができます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062212Z" creationid="Hiroshi Miura" creationdate="20230521T014242Z">
+        <seg>検索には&lt;l0/&gt;オプションがあり、ファイルを横断して非常に強力な検索を行えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71397,6 +71929,23 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251114T152248Z" creationid="miurahr" creationdate="20251114T152248Z">
         <seg>&lt;l0/&gt;を使用して、この機能を有効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>See &lt;l0/&gt; to lock or unlock the cursor.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061407Z" creationid="miura" creationdate="20260718T061407Z">
+        <seg>カーソルのロックやアンロック&lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061126Z" creationid="miura" creationdate="20260718T061126Z">
+        <seg>&lt;l0/&gt;参照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72583,8 +73132,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Segment blocks can be selected with the mouse by clicking the first segment, and holding the &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;/k0&gt; key while clicking the last segment.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T090833Z" creationid="miurahr" creationdate="20260322T090833Z">
-        <seg>分節のブロックは、マウスで最初の分節をクリックし、&lt;k0&gt;Shift&lt;/k0&gt;キーを押しながら最後の分節をクリックすることによって選択できます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062447Z" creationid="miurahr" creationdate="20260322T090833Z">
+        <seg>分節のブロックは、マウスで最初の分節をクリックし、&lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;/k0&gt;キーを押しながら最後の分節をクリックすることによって選択できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72833,6 +73382,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T131211Z" creationid="Hiroshi Miura" creationdate="20230223T131211Z">
         <seg>異なるターゲット言語で一致するセグメントは、&lt;l0/&gt;ウィンドウにも表示できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Segments that receive automated translation at that time can be marked in the &lt;g2&gt;Editor&lt;/g2&gt; pane by using &lt;l3/&gt; &lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061414Z" creationid="miura" creationdate="20260718T061414Z">
+        <seg>自動翻訳を受けいれる分節は、&lt;l3/&gt;.&lt;l4/&gt;を使用して&lt;g2&gt;編集&lt;/g2&gt;ウィンドウで色づけ表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74766,6 +75324,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show Source Files progress</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060848Z" creationid="miura" creationdate="20260718T060848Z">
+        <seg>原文ファイルの進行状況を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Tip of the Day</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20231207T004553Z" creationid="Hiroshi Miura" creationdate="20231207T004553Z">
@@ -76203,6 +76769,30 @@ that points back to itself or one of its subfolders.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files progress complete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060841Z" creationid="miura" creationdate="20260718T060841Z">
+        <seg>完了した原文ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files progress high</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060828Z" creationid="miura" creationdate="20260718T060828Z">
+        <seg>進捗状況の良いファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files progress low</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060822Z" creationid="miura" creationdate="20260718T060822Z">
+        <seg>進行状況の悪いファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files...</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T125009Z" creationid="Hiroshi Miura" creationdate="20230116T125009Z">
@@ -76801,6 +77391,15 @@ that points back to itself or one of its subfolders.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Specify the YAML keys that should be included or excluded during translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060559Z" creationid="miura" creationdate="20260718T060559Z">
+        <seg>翻訳時に含めるべきまたは除外すべきYAMLキーを指定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Specify the encoding for your plain text files</seg>
       </tuv>
@@ -76996,8 +77595,8 @@ that points back to itself or one of its subfolders.</seg>
       <tuv lang="en">
         <seg>Split (&lt;k0&gt;&lt;k1&gt;S&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T090849Z" creationid="miurahr" creationdate="20260322T090849Z">
-        <seg>分割(&lt;k0&gt;S&lt;/k0&gt;)</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062533Z" creationid="miurahr" creationdate="20260322T090849Z">
+        <seg>分割(&lt;k0&gt;&lt;k1&gt;S&lt;/k1&gt;&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -77881,6 +78480,15 @@ and then start OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Support '*' and '**' wildcards.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060655Z" creationid="miura" creationdate="20260718T060655Z">
+        <seg>「*」および「**」のワイルドカードに対応しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Support for Level 3 in CAT tools is rare.</seg>
       </tuv>
@@ -77894,6 +78502,15 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130412T033119Z">
         <seg>右から左へ書く言語をサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Support other file formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061652Z" creationid="miura" creationdate="20260718T061652Z">
+        <seg>他のファイル形式に対応する</seg>
       </tuv>
     </tu>
     <tu>
@@ -78286,6 +78903,24 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230416T231058Z" creationid="Hiroshi Miura" creationdate="20230416T231058Z">
         <seg>参考訳文の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>TMX 1.4 requires 'xml:lang' (not 'lang') on every &lt;tuv&gt; element.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060918Z" creationid="miura" creationdate="20260718T060918Z">
+        <seg>TMX 1.4 では、すべての &lt;tuv&gt; 要素に「xml:lang」（「lang」ではない）を指定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>TMX 1.4 requires the namespace-prefixed form.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060923Z" creationid="miura" creationdate="20260718T060923Z">
+        <seg>TMX 1.4では名前空間で接頭辞がついた形が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79914,8 +80549,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230118T031731Z" creationid="Hiroshi Miura" creationdate="20230118T031731Z">
-        <seg>HTML の &lt;br&gt; タグがある場所を段落とみなして分節化することができます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062154Z" creationid="Hiroshi Miura" creationdate="20230118T031731Z">
+        <seg>HTML の &lt;br&gt; タグがある場所を段落とみなして分節化できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80378,8 +81013,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T035214Z" creationid="Hiroshi Miura" creationdate="20230221T035214Z">
-        <seg>&lt;l0/&gt; 設定を使用すると、 OmegaT がデフォルトで赤色でマークする文字列を定義し、検証の際に検証対象ではないタグとして扱うことができます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062220Z" creationid="Hiroshi Miura" creationdate="20230221T035214Z">
+        <seg>&lt;l0/&gt; 設定を使用すると、 OmegaT がデフォルトで赤色でマークする文字列を定義し、検証の際に検証対象ではないタグとして扱えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80474,8 +81109,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0&gt;\&lt;/l0&gt; can cancel its own special meaning by doubling up to form &lt;l1&gt;\\&lt;/l1&gt;, which simply matches the &lt;e2&gt;backslash&lt;/e2&gt; character itself.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221022T004655Z" creationid="Hiroshi Miura" creationdate="20221022T004655Z">
-        <seg>&lt;l0&gt;\&lt;/l0&gt;は、&lt;l1&gt;\\&lt;/l1&gt;という形式に二重化することによって、それ自体の特別な意味をキャンセルすることができます。これは、単に&lt;e2&gt;バックスラッシュ&lt;/e2&gt;文字自体に一致します。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062230Z" creationid="Hiroshi Miura" creationdate="20221022T004655Z">
+        <seg>&lt;l0&gt;\&lt;/l0&gt;は、&lt;l1&gt;\\&lt;/l1&gt;という形式に二重化することによって、それ自体の特別な意味をキャンセルできます。これは、単に&lt;e2&gt;バックスラッシュ&lt;/e2&gt;文字自体に一致します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80723,8 +81358,8 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       <tuv lang="en">
         <seg>The Exclusion patterns dialog allows you to add or remove a pattern, or edit one either by double-clicking it or selecting it and pressing &lt;k0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T133254Z" creationid="miurahr" creationdate="20260322T133254Z">
-        <seg>除外構成例集ダイアログで、構成例の追加と削除ができます。また ダブルクリックや構成例を選んで&lt;k0&gt;F2&lt;/k0&gt; キーを押すと編集もできます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062302Z" creationid="miurahr" creationdate="20260322T133254Z">
+        <seg>除外構成例集ダイアログで、構成例の追加と削除ができます。また ダブルクリックや構成例を選んで&lt;k0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/k0&gt; キーを押すと編集もできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81325,6 +81960,14 @@ Okapi (http://okapi.sourceforge.net) (LGPL license)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T024128Z" creationid="miurahr" creationdate="20201115T024128Z">
         <seg>「プロジェクトの検索」ウィンドウには独自のメニューがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Source Files progress colours shown in the &lt;l0/&gt; window can also be changed here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061443Z" creationid="miura" creationdate="20260718T061443Z">
+        <seg>&lt;l0/&gt;ウィンドウに表示される原文ファイルの進行色もここで変更可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82343,6 +82986,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The content of the group can also be used in the replacement text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061950Z" creationid="miura" creationdate="20260718T061106Z">
+        <seg>グループの内容は、置換テキストでも使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The content of the script window is editable and can be copied and pasted back into the OmegaT Editor pane.</seg>
       </tuv>
       <tuv lang="ja" changeid="kasuya" changedate="20130520T110013Z">
@@ -83084,6 +83735,15 @@ instead.</seg>
         <seg>The easiest way to modify the shortcuts is to download copies of the default files to &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20221023T115514Z" creationid="miurahr" creationdate="20221023T115514Z">
+        <seg>ショートカットを変更する最も簡単な方法は、前述のように、デフォルトのファイルのコピーを&lt;l0&gt;構成フォルダー&lt;/l0&gt;にダウンロードし、そこで必要な変更を行うことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The easiest way to modify the shortcuts is to download copies of the default files to your &lt;l0&gt;configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061136Z" creationid="miura" creationdate="20260718T061136Z">
         <seg>ショートカットを変更する最も簡単な方法は、前述のように、デフォルトのファイルのコピーを&lt;l0&gt;構成フォルダー&lt;/l0&gt;にダウンロードし、そこで必要な変更を行うことです。</seg>
       </tuv>
     </tu>
@@ -84044,8 +84704,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230116T065622Z" creationid="Hiroshi Miura" creationdate="20230116T064031Z">
-        <seg>OmegaTをいかなる目的に対しても利用することができる自由。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062112Z" creationid="Hiroshi Miura" creationdate="20230116T064031Z">
+        <seg>OmegaTをいかなる目的に対しても利用できる自由。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84861,6 +85521,15 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>The match also displays three matching percentages, the origin of the match and how many times is the match repeated in the matching data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061236Z" creationid="miura" creationdate="20260718T061236Z">
+        <seg>マッチには3つのマッチングパーセンテージ、試合の発生点、マッチングデータで繰り返される回数が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The match also displays three matching percentages.</seg>
       </tuv>
@@ -84906,6 +85575,15 @@ xx や xxx は言語コード、YY は国コード（任意）をそれぞれ表
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130227T180857Z">
         <seg>一致率は、簡単に言えば、比較する分節どうしで共通している単語数を、長い方の分節の単語数で割ったものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>The matching percentages have the following meaning, in order:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061403Z" creationid="miura" creationdate="20260718T061403Z">
+        <seg>各一致率には、順に以下の意味があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85798,6 +86476,23 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T041548Z" creationid="miurahr" creationdate="20201101T041548Z">
         <seg>OmegaT を終了する前に、常に確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>The progress colours can be changed in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061512Z" creationid="miura" creationdate="20260718T061512Z">
+        <seg>進行の色は、&lt;l0/&gt;で変更可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The progress is calculated from translated unique segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061436Z" creationid="miura" creationdate="20260718T061436Z">
+        <seg>進捗は翻訳されたユニークな分節から計算されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87124,6 +87819,15 @@ an access to the hard drive of the computer.</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>The source package bundles all required library dependencies, so its</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061519Z" creationid="miura" creationdate="20260718T061519Z">
+        <seg>- ソースパッケージには必要なライブラリの依存関係がすべて含まれているため、その</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>The source package is</seg>
       </tuv>
       <tuv lang="ja" changeid="miura" changedate="20260626T025132Z" creationid="miura" creationdate="20260626T025132Z">
@@ -87401,6 +88105,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201115T055342Z" creationid="miurahr" creationdate="20201115T055342Z">
         <seg>サポートされているファイル形式は、&lt;m0&gt;&lt;g1&gt;[プロジェクト]&lt;/g1&gt;&lt;g2&gt;[プロパティ]&lt;/g2&gt;&lt;g3&gt;[ファイルフィルタ]&lt;/g3&gt;&lt;/m0&gt;に一覧表示されているファイル形式です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>The supported file formats depend on your project preferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061229Z" creationid="miura" creationdate="20260718T061229Z">
+        <seg>サポートされているファイル形式は、プロジェクトの設定によって異なります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88522,6 +89235,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230113T205943Z" creationid="Hiroshi Miura" creationdate="20230113T205943Z">
         <seg>これらのコンテンツは翻訳用には表示されません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Their file name indicates the beginning of the session they logged.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T065345Z" creationid="miura" creationdate="20260718T060955Z">
+        <seg>ファイル名は、ユーザーがログインしたセッションの開始時刻を示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91201,6 +91922,15 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>This folder is where you put your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061053Z" creationid="miura" creationdate="20260718T061053Z">
+        <seg>このフォルダには、スペリング辞書を保存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
       </tuv>
@@ -92632,8 +93362,8 @@ this version will not interfere with it.</seg>
       <tuv lang="en">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="ja" changeid="Yu-Tang" changedate="20150415T023427Z">
-        <seg>このプログラムは自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 3 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変することができます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062037Z">
+        <seg>このプログラムは自由なソフトウェアです。あなたはこれを、フリーソフトウェア財団によって発行された GNU 一般公衆利用許諾契約書（バージョン 3 か、希望によってはそれ以降のバージョンのうちどれか）の定める条件の下で再頒布または改変ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94188,6 +94918,15 @@ file type is associated with Java on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>To enable this feature, see &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061152Z" creationid="miura" creationdate="20260718T061152Z">
+        <seg>この機能を有効にするには、&lt;l0/&gt;を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>To enhance security, some servers require external processes to connect using a separate access token instead of a password.</seg>
       </tuv>
@@ -94594,6 +95333,15 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130312T031550Z">
         <seg>新しい検索ウィンドウは、メインウィンドウ上で［&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;］を押すと開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>To open the folder that encloses the file in the OS file manager, press down the &lt;k0&gt;&lt;k1&gt;ALT&lt;/k1&gt;&lt;/k0&gt; key while selecting this menu item.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061209Z" creationid="miura" creationdate="20260718T061209Z">
+        <seg>OSのファイルマネージャーで、そのファイルが含まれているフォルダを開くには、このメニュー項目を選択する際に、&lt;k0&gt;&lt;k1&gt;ALT&lt;/k1&gt;&lt;/k0&gt;キーを押し続けてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -96331,6 +97079,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Trying with backup file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060547Z" creationid="miura" creationdate="20260718T060547Z">
+        <seg>バックアップから読み込みを試しています</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Tsonga</seg>
       </tuv>
@@ -96786,6 +97543,15 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T141635Z" creationid="miurahr" creationdate="20201101T141635Z">
         <seg>サーバーに接続できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Unable to connect to the Belazar server.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060947Z" creationid="miura" creationdate="20260718T060947Z">
+        <seg>Belazar サーバーに接続できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97322,6 +98088,15 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251013T024847Z" creationid="miurahr" creationdate="20251013T024847Z">
         <seg>不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>Unknown console mode: {0}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060725Z" creationid="miura" creationdate="20260718T060725Z">
+        <seg>不明なコンソールモード: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -97998,6 +98773,15 @@ OmegaTが使用できるメモリを増やす
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Use '/' as a separator for nested keys (e.g., 'footer/copyright').</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060650Z" creationid="miura" creationdate="20260718T060650Z">
+        <seg>「/」はネストキーの区切りとして使います(例:「footer/copyright」)。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
@@ -98371,6 +99155,15 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20260322T141757Z" creationid="miurahr" creationdate="20260322T141757Z">
         <seg>&lt;l0/&gt;&lt;l1/&gt;を使用すると、文字を内容表示して操作しやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Microsoft Translator V2/V3]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to display the current session’s log file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061042Z" creationid="miura" creationdate="20260718T061042Z">
+        <seg>&lt;l0/&gt; &lt;l1/&gt;を使って現在のセッションのログファイルを表示してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -99889,8 +100682,8 @@ OmegaTが使用できるメモリを増やす
       <tuv lang="en">
         <seg>Use the mouse or arrow keys to place the cursor at the location where you want to split the text, and click the &lt;g1&gt;OK&lt;/g1&gt; button or press &lt;k2&gt;&lt;k3&gt;Enter&lt;/k3&gt;&lt;/k2&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T131242Z" creationid="miurahr" creationdate="20260322T131242Z">
-        <seg>マウスまたは矢印キーを使用して文章を分割する位置にカーソルを置き、&lt;g1&gt;確定&lt;/g1&gt;ボタンをクリックするか、&lt;k2&gt;Enter&lt;/k2&gt;を押します。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062549Z" creationid="miurahr" creationdate="20260322T131242Z">
+        <seg>マウスまたは矢印キーを使用して文章を分割する位置にカーソルを置き、&lt;g1&gt;確定&lt;/g1&gt;ボタンをクリックするか、&lt;k2&gt;&lt;k3&gt;Enter&lt;/k3&gt;&lt;/k2&gt;を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -100411,6 +101204,16 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221021T132034Z" creationid="Hiroshi Miura" creationdate="20221021T132034Z">
         <seg>コマンドラインからOmegaTを起動するときに使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Useful links</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061624Z" creationid="miura" creationdate="20260718T061624Z">
+        <seg>便利なリンク
+==============</seg>
       </tuv>
     </tu>
     <tu>
@@ -100970,6 +101773,16 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Using the deb or rpm package</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061546Z" creationid="miura" creationdate="20260718T061546Z">
+        <seg>DEBまたはRPMパッケージのどちらを使う
+-------------------------------------------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Using the deb or rpm package
 ----------------------------</seg>
@@ -100985,6 +101798,16 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ja" changeid="Kasuya" changedate="20130514T064113Z">
         <seg>サンプルスクリプトの使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Using the tar.bz2 archive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061556Z" creationid="miura" creationdate="20260718T061556Z">
+        <seg>tar.bz2アーカイブの使用
+------------------------------------</seg>
       </tuv>
     </tu>
     <tu>
@@ -101933,6 +102756,15 @@ you have just discovered.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>When a match comes from the project memory, its origin is only specified in two cases:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061242Z" creationid="miura" creationdate="20260718T061242Z">
+        <seg>プロジェクトメモリから一致が見つかった場合、その出所が指定されるのは以下の2つの場合のみです：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>When a match is inserted from a TMX contained in this folder, the background colour of the active segment changes to red.</seg>
       </tuv>
@@ -102250,6 +103082,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T143603Z" creationid="miurahr" creationdate="20201101T143603Z">
         <seg>このオプションをオフにすると、最初のセグメントを除き、一意でないすべてのセグメントがグレーで表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the progress display is enabled, the bottom progress value shows the overall translation progress for all source files in the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061509Z" creationid="miura" creationdate="20260718T061509Z">
+        <seg>進捗表示が有効になると、下部の進捗値にプロジェクト内のすべての原文ファイルの翻訳進捗が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -103925,6 +104765,14 @@ https://ja.wordpress.org/</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>YAML Filter Options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060555Z" creationid="miura" creationdate="20260718T060555Z">
+        <seg>YAMLフィルター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>YEAR is 4-digit year, MM is a month, DD day of the month, HH and NN are hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130224T135908Z">
@@ -105038,6 +105886,15 @@ start menu, the desktop, or the quick launch area to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to your &lt;l0&gt;configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T061130Z" creationid="miura" creationdate="20260718T061130Z">
+        <seg>SourceforgeのOmegaTの開発サイトからデフォルトのOmegaTショートカットファイルを&lt;l0&gt;構成フォルダ&lt;/l0&gt;にコピーし、必要に応じて変更することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
@@ -105299,8 +106156,8 @@ start menu, the desktop, or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can find some dictionaries on the &lt;l0&gt;OmegaT Wiki&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20260322T081159Z" creationid="miurahr" creationdate="20260322T081159Z">
-        <seg>&lt;u0&gt;OmegaTウィキ&lt;/u0&gt;で公開されている辞書を探すこともできます。</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T062432Z" creationid="miurahr" creationdate="20260322T081159Z">
+        <seg>&lt;l0&gt;OmegaTウィキ&lt;/l0&gt;で公開されている辞書を探すこともできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -107146,6 +108003,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122953Z" creationid="amake" creationdate="20170128T122953Z">
         <seg>ZIP ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zero Width Space (U+200B)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060757Z" creationid="miura" creationdate="20260718T060757Z">
+        <seg>ゼロ幅スペース文字(U+200B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -119054,6 +119919,17 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[DeepL]</prop>
+      <tuv lang="en">
+        <seg>{0}
+{1} (started on {2} {3}) Locale {4}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060443Z" creationid="miura" creationdate="20260718T060443Z">
+        <seg>{0}
+{1} （{2} {3}に開始） ロケール {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
@@ -119179,6 +120055,14 @@ config-dir="path/to/new/configdir"</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20140310T170211Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}/{1} unique segments translated</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T060544Z" creationid="miura" creationdate="20260718T060544Z">
+        <seg>{0}/{1} 繰り返しを除いた翻訳済み分節数</seg>
       </tuv>
     </tu>
     <tu>
