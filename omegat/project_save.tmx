@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_7ab88c8d5" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_f6ad05932" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15099,8 +15099,8 @@ Dossier racine
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="ja" changeid="suzume" changedate="20201122T140909Z" creationid="suzume" creationdate="20201122T140909Z">
-        <seg>===============</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T082956Z" creationid="suzume" creationdate="20201122T140909Z">
+        <seg>=============</seg>
       </tuv>
     </tu>
     <tu>
@@ -17380,6 +17380,14 @@ copyright 2020-2023 Hiroshi Miura</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251209T093729Z" creationid="miurahr" creationdate="20251209T093729Z">
         <seg>クラッシュ後、&lt;c0&gt;omegat.project&lt;/c0&gt;ファイルがロックされ、プロジェクト開始が妨げられることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After a incident, the &lt;c0&gt;omegat.project&lt;/c0&gt; file may be locked and prevent opening the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071554Z" creationid="miura" creationdate="20260718T071554Z">
+        <seg>トラブルの後、&lt;c0&gt;omegat.project&lt;/c0&gt;ファイルがロックされ、プロジェクト開始が妨げられることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22678,6 +22686,15 @@ OmegaTはJava 21まで正しく動作することが確認されています。<
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>By default, it is the project folder, but you can change it to a remote location for easy sharing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071437Z" creationid="miura" creationdate="20260718T071437Z">
+        <seg>デフォルトでは、そのフォルダーはプロジェクトフォルダーですが、場所を変更して、書き出されたTMファイルを共有しやすくできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>By default, it is the project folder, but you can change it to a shared location for easy delivery.</seg>
       </tuv>
@@ -27764,6 +27781,15 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Create a subfolder under tm named &lt;c0&gt;penalty-XXX&lt;/c0&gt; (e.g., penalty-30) to reduce the match scores from those TMs. A 100% match becomes 70% when found inside &lt;c1&gt;penalty-30&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071138Z" creationid="miura" creationdate="20260718T071138Z">
+        <seg>tmの下に&lt;c0&gt;penalty-XXX&lt;/c0&gt;(例:penalty-30)というサブフォルダを作成し、それらの翻訳メモリによる照合スコアを引き下げましょう。&lt;c1&gt;ペナルティが30&lt;/c1&gt;の場合に、100%の一致率は70%に変わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Create an OmegaT project in the usual way.</seg>
       </tuv>
@@ -31522,6 +31548,14 @@ New version: {2}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20201101T033114Z" creationid="miurahr" creationdate="20201101T033114Z">
         <seg>ダウンロードセレクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download StarDict or Lingvo DSL dictionaries and extract them into the project's &lt;c0&gt;dictionary&lt;/c0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071414Z" creationid="miura" creationdate="20260718T071414Z">
+        <seg>StarDictまたはLingvoのDSL辞書をダウンロードし、プロジェクトの&lt;c0&gt;dictionary&lt;/c0&gt;フォルダに展開してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41166,6 +41200,15 @@ path need not be entered.)</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If OmegaT behaves oddly, try resetting it: access the configuration folder from &lt;s0&gt;Options&lt;/s0&gt; &gt; &lt;s1&gt;Access Configuration Folder&lt;/s1&gt;, back it up, delete it, then restart OmegaT.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071600Z" creationid="miura" creationdate="20260718T071600Z">
+        <seg>OmegaTの挙動がおかしいなら、リセットしてみてください。&lt;s0&gt;設定&lt;/s0&gt; &lt;s1&gt;設定フォルダ&lt;/s1&gt;メニューにアクセスしテ、バックアップして削除し、その後OmegaTを再起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If OmegaT detects an update, it will display a link to the download page.</seg>
       </tuv>
@@ -42207,6 +42250,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20240809T024459Z" creationid="miurahr" creationdate="20240809T024459Z">
         <seg>一部の用語集項目がソース用語テキストで類似しており、そのうちの1つに別の用語テキストが含まれている場合は、ソーステキストの長さでソートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If some panes are not displayed anymore, use &lt;s0&gt;View&lt;/s0&gt; &gt; &lt;s1&gt;Restore OmegaT Window&lt;/s1&gt; to return to the default layout.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071354Z" creationid="miura" creationdate="20260718T071354Z">
+        <seg>ウィンドウの配置を変更しているうちに収拾がつかなくなった場合は、&lt;s0&gt;［表示］&lt;/s0&gt;&lt;s1&gt;［ウィンドウを初期値に復元］&lt;/s1&gt;を選んでください。ウィンドウの配置がインストール直後の状態に復元されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43871,6 +43922,14 @@ folder, see the manual for its location).</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130216T182200Z">
         <seg>システムオプションで［タブ区切り出力］を用いた場合は、残したい２つの項目の前にある、先頭の５つの列（Seq. Nr、Date created など）を削除する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you fear you lost work, close the project and use the automatic backups of &lt;c0&gt;project_save.tmx&lt;/c0&gt; in the project’s &lt;c1&gt;omegat&lt;/c1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T075102Z" creationid="miura" creationdate="20260718T071604Z">
+        <seg>作業を失ったと心配なら、プロジェクトを閉じて、プロジェクトの&lt;c1&gt;omegat&lt;/c1&gt;フォルダにある&lt;c0&gt;project_save.tmx&lt;/c0&gt;の自動バックアップを使いましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51907,9 +51966,9 @@ Launch OmegaT as follows.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T060857Z" creationid="miurahr" creationdate="20201101T060857Z">
+      <tuv lang="ja" changeid="miura" changedate="20260718T082934Z" creationid="miurahr" creationdate="20201101T060857Z">
         <seg>ライセンス情報
-=====================</seg>
+==============</seg>
       </tuv>
     </tu>
     <tu>
@@ -52246,12 +52305,11 @@ experience bugs, display problems or missing features.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Linux:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miura" changedate="20260626T024330Z" creationid="miura" creationdate="20260626T024330Z">
-        <seg>Linux</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T084551Z" creationid="miura" creationdate="20260626T024330Z">
+        <seg>Linux：</seg>
       </tuv>
     </tu>
     <tu>
@@ -53271,6 +53329,15 @@ Mac 向けパッケージには JRE が含まれています。</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230223T063732Z" creationid="Hiroshi Miura" creationdate="20230223T063732Z">
         <seg>強制する分節の不変性について決定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL Translate]</prop>
+      <tuv lang="en">
+        <seg>Make a minor change anywhere in the project and save it to add the new translations to &lt;c0&gt;project_save.tmx&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071114Z" creationid="miura" creationdate="20260718T071114Z">
+        <seg>プロジェクト内のどこかでわずかな変更を加え、それを保存すると、新しい翻訳が &lt;c0&gt;project_save.tmx&lt;/c0&gt;に追加されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56379,6 +56446,15 @@ as the Applications folder.</seg>
         <seg>Navigate and insert from Fuzzy Matches</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251209T085928Z" creationid="miurahr" creationdate="20251209T085928Z">
+        <seg>参考訳文を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Navigate and insert fuzzy matches</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071505Z" creationid="miura" creationdate="20260718T071505Z">
         <seg>参考訳文を挿入</seg>
       </tuv>
     </tu>
@@ -60069,14 +60145,12 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[DeepL Translate]</prop>
       <tuv lang="en">
         <seg>OmegaT is distributed in several package formats, depending on your platform
 and needs:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miura" changedate="20260626T024319Z" creationid="miura" creationdate="20260626T024319Z">
-        <seg>OmegaTは、お使いのプラットフォーム
-やニーズに応じて、いくつかのパッケージ形式で提供されています：</seg>
+      <tuv lang="ja" changeid="miura" changedate="20260718T083915Z" creationid="miura" creationdate="20260626T024319Z">
+        <seg>OmegaTは、お使いのプラットフォームやニーズに応じて、いくつかのパッケージ形式で提供されています：</seg>
       </tuv>
     </tu>
     <tu>
@@ -60653,6 +60727,15 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT standard theme will switch its default colours based on the system colors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071309Z" creationid="miura" creationdate="20260718T071309Z">
+        <seg>OmegaTの標準テーマは、システムの色に基づいてデフォルトの色を切りかえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
@@ -60697,6 +60780,15 @@ installed on your system.</seg>
         <seg>OmegaT supports many formats via file filters.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251209T100951Z" creationid="miurahr" creationdate="20251209T100951Z">
+        <seg>OmegaTはファイルフィルターを通じて多くのフォーマットをサポートしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT supports many formats via its file filters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071032Z" creationid="miura" creationdate="20260718T071032Z">
         <seg>OmegaTはファイルフィルターを通じて多くのフォーマットをサポートしています。</seg>
       </tuv>
     </tu>
@@ -61051,6 +61143,15 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20221023T015227Z" creationid="Hiroshi Miura" creationdate="20221023T015227Z">
         <seg>OmegaTは、このフォルダに翻訳メモリとして利用するファイルを期待します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT will create memories with &lt;s0&gt;Project menu&lt;/s0&gt; &gt; &lt;s1&gt;Create Translated Files&lt;/s1&gt; that you can share when needed.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071322Z" creationid="miura" creationdate="20260718T071322Z">
+        <seg>OmegaTは&lt;s0&gt;プロジェクトメニュー&lt;/s0&gt;から翻訳メモリーをエクスポートし、必要に応じて&lt;s1&gt;変換済みのTM&lt;/s1&gt;を共有できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65799,9 +65900,9 @@ language you would like to translate to.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20201101T061244Z" creationid="miurahr" creationdate="20201101T061244Z">
+      <tuv lang="ja" changeid="miura" changedate="20260718T083006Z" creationid="miurahr" creationdate="20201101T061244Z">
         <seg>OmegaTをインストールするための前提条件
-===================================</seg>
+=======================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -68778,6 +68879,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251209T093756Z" creationid="miurahr" creationdate="20251209T093756Z">
         <seg>&lt;c0&gt;omegat.project&lt;/c0&gt;を&lt;c1&gt;omegat.project.locked&lt;/c1&gt;に改名し、&lt;c2&gt;omegat.project.bak&lt;/c2&gt;を&lt;c3&gt;omegat.project&lt;/c3&gt;にリネームしてからプロジェクトを開きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Rename a suitable backup (e.g., &lt;c0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/c0&gt;) to &lt;c1&gt;project_save.tmx&lt;/c1&gt; and reopen the project to restore it to that state.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071611Z" creationid="miura" creationdate="20260718T071611Z">
+        <seg>適切なバックアップ(例:&lt;c0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/c0&gt;)を&lt;c1&gt;project_save.tmx&lt;/c1&gt;にリネームし、プロジェクトを再起動してその状態を復元します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74770,6 +74880,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Set up a VCS repository (with e.g., Git) for your project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071252Z" creationid="miura" creationdate="20260718T071252Z">
+        <seg>プロジェクト用にVCSリポジトリ(例:Git)をセットアップしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Set up a new project</seg>
       </tuv>
@@ -79629,6 +79748,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target folder contains translated files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071047Z" creationid="miura" creationdate="20260718T071047Z">
+        <seg>訳文フォルダには、訳文ファイルを生成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target folder creates translated files</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251209T090215Z" creationid="miurahr" creationdate="20251209T090215Z">
@@ -83379,6 +83506,15 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The default layout shows the Editor, the Notepad, Fuzzy Matches, Glossaries, Segment properties, Comments, Multiple Translations, Dictionaries and Machine Translations panes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071513Z" creationid="miura" creationdate="20260718T071513Z">
+        <seg>デフォルトのレイアウトでは、エディター、メモ帳、参考訳文、用語集、分節プロパティ、コメント、複数翻訳、辞書、機械翻訳ウィンドウが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The default names are as belows.</seg>
       </tuv>
@@ -83793,6 +83929,15 @@ instead.</seg>
       </tuv>
       <tuv lang="ja" changeid="Yu-Tang" changedate="20130222T040052Z">
         <seg>行の末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The enforced TM is considered to be more reliable than the project memory.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071120Z" creationid="miura" creationdate="20260718T071120Z">
+        <seg>プロジェクトメモリよりも信頼性が高い翻訳メモリーを強制することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88309,6 +88454,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The target folder is populated when you use &lt;s0&gt;Project&lt;/s0&gt; &gt; &lt;s1&gt;Create Translated Files&lt;/s1&gt; or &lt;s2&gt;Create Current Translated File&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071058Z" creationid="miura" creationdate="20260718T071058Z">
+        <seg>訳文フォルダは&lt;s0&gt;プロジェクト&lt;/s0&gt; &lt;s1&gt;訳文ファイルの生成&lt;/s1&gt;や&lt;s2&gt;現在の訳文ファイルのみ生成&lt;/s2&gt;を使うとファイルが出力されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
       </tuv>
@@ -88482,6 +88636,15 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ja" changeid="yu-tang" changedate="20150211T162649Z" creationid="yu-tang" creationdate="20150211T162649Z">
         <seg>テキストが最大文字数を超えています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The themes also provide a predefined set of default colors for marks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071300Z" creationid="miura" creationdate="20260718T071300Z">
+        <seg>テーマには、マークの既定の色の事前定義セットも用意されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -96934,6 +97097,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translations from TMX files placed in this folder are automatically inserted in empty matching segments without the automatic prefix, making it unnecessary to confirm these segments.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071531Z" creationid="miura" creationdate="20260718T071531Z">
+        <seg>このフォルダーに配置されたTMXファイルからの翻訳は、自動の接頭辞なしで一致する分節に自動的に挿入されるため、これらの分節を確認する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the automatic prefix, making it unnecessary to confirm these segments.</seg>
       </tuv>
@@ -100040,6 +100212,23 @@ OmegaTが使用できるメモリを増やす
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;s0&gt;Edit&lt;/s0&gt; &gt; &lt;s1&gt;Create Glossary Entry...&lt;/s1&gt; to add terms.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071456Z" creationid="miura" creationdate="20260718T071456Z">
+        <seg>&lt;s0&gt;[編集]&lt;/s0&gt;&lt;s1&gt;[用語の追加...]&lt;/s1&gt;を使って、用語集に新しい用語を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Edit&lt;/s0&gt; &gt; &lt;s1&gt;Search...&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;F&lt;/s3&gt; to filter segments based on notes contents, and review only those.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071020Z" creationid="miura" creationdate="20260718T071020Z">
+        <seg> &lt;s0&gt;編集&lt;/s0&gt; &lt;s1&gt;検索...&lt;/s1&gt; &lt;s2&gt; C &lt;/s2&gt;+&lt;s3&gt;F&lt;/s3&gt; を使用して、自分で設定した基準で分節をフィルター検索し、問題のある分節のみを確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;s0&gt;Go To&lt;/s0&gt; &lt;s1&gt;Editor&lt;/s1&gt; &lt;s2&gt; &lt;s3&gt;C&lt;/s3&gt; &lt;/s2&gt;+&lt;s4&gt; &lt;s5&gt;A&lt;/s5&gt; &lt;/s4&gt;+&lt;s6&gt; &lt;s7&gt;0&lt;/s7&gt; &lt;/s6&gt; to return to the Editor and resume your translation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251114T234936Z" creationid="miurahr" creationdate="20251114T234936Z">
@@ -100071,10 +100260,37 @@ OmegaTが使用できるメモリを増やす
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Go To&lt;/s0&gt; &gt; &lt;s1&gt;Editor&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;A&lt;/s3&gt;+&lt;s4&gt;0&lt;/s4&gt; to return to the Editor and resume your translation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071008Z" creationid="miura" creationdate="20260718T071008Z">
+        <seg> &lt;s0&gt;ジャンプ&lt;/s0&gt; &lt;s1&gt;編集&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;&gt;A&lt;/s3&gt;+&lt;s4&gt;0&lt;/s4&gt;を使用して編集ウィンドウに戻り、翻訳を再開します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Go To&lt;/s0&gt; &gt; &lt;s1&gt;Notepad&lt;/s1&gt; &lt;s2&gt;C&lt;/s2&gt;+&lt;s3&gt;A&lt;/s3&gt;+&lt;s4&gt;9&lt;/s4&gt; to enter the Notepad and add your remarks.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071004Z" creationid="miura" creationdate="20260718T071004Z">
+        <seg> &lt;s0&gt;ジャンプ&lt;/s0&gt; &lt;s1&gt;メモ帳&lt;/s1&gt; &lt;s2&gt; C&lt;/s2&gt; &lt;s3&gt;A&lt;/s3&gt; +&lt;s4&gt;9&lt;/s4&gt; を使用するとメモ帳に移動でき、そこで自分のコメントを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use &lt;s0&gt;Project&lt;/s0&gt; &lt;s1&gt;Add Files...&lt;/s1&gt; or drop files onto the &lt;s2&gt;Editor&lt;/s2&gt; pane to add documents to translate.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251209T100942Z" creationid="miurahr" creationdate="20251209T100942Z">
+        <seg>&lt;s0&gt;プロジェクト&lt;/s0&gt;&lt;s1&gt;ファイル追加...&lt;/s1&gt;を使うか、&lt;s2&gt;編集&lt;/s2&gt;の画面にファイルをドロップして翻訳用のドキュメントを追加してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Project&lt;/s0&gt; &gt; &lt;s1&gt;Add Files...&lt;/s1&gt; or drop files onto the &lt;s2&gt;Editor&lt;/s2&gt; pane to add documents to translate.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071026Z" creationid="miura" creationdate="20260718T071026Z">
         <seg>&lt;s0&gt;プロジェクト&lt;/s0&gt;&lt;s1&gt;ファイル追加...&lt;/s1&gt;を使うか、&lt;s2&gt;編集&lt;/s2&gt;の画面にファイルをドロップして翻訳用のドキュメントを追加してください。</seg>
       </tuv>
     </tu>
@@ -100084,6 +100300,24 @@ OmegaTが使用できるメモリを増やす
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251209T091530Z" creationid="miurahr" creationdate="20251209T091530Z">
         <seg>&lt;s0&gt;ツール&lt;/s0&gt;&lt;s1&gt;問題をチェック...(Ctrl+Shift+V)&lt;/s1&gt;を利用し、タグの問題に焦点を当て、エクスポートされたファイルを壊す可能性のあるタグの欠落や配置の誤りを検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Tools&lt;/s0&gt; &gt; &lt;s1&gt;Check Issues... (Ctrl+Shift+V)&lt;/s1&gt; and focus on Tag issues to detect missing or misplaced tags that may break the exported files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071148Z" creationid="miura" creationdate="20260718T071148Z">
+        <seg>&lt;s0&gt;ツール&lt;/s0&gt;&lt;s1&gt;問題をチェック...(Ctrl+Shift+V)&lt;/s1&gt;を利用し、タグの問題に焦点を当て、エクスポートされたファイルを壊す可能性のあるタグの欠落や配置の誤りを検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Tools&lt;/s0&gt; &gt; &lt;s1&gt;Check Issues...&lt;/s1&gt; and focus on Tag issues, fix all tag problems, then create the translated files again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071144Z" creationid="miura" creationdate="20260718T071144Z">
+        <seg>&lt;s0&gt;[ツール]&lt;/s0&gt;&lt;s1&gt;[問題をチェック...]&lt;/s1&gt;を使用して全てのタグの問題を修正し、訳文ファイルの生成を再試行してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -106574,6 +106808,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You can reassign their locations in &lt;s0&gt;Project&lt;/s0&gt; &gt; &lt;s1&gt;Properties&lt;/s1&gt;, or access them via &lt;s2&gt;Project&lt;/s2&gt; &gt; &lt;s3&gt;Access Project Contents&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071524Z" creationid="miura" creationdate="20260718T071524Z">
+        <seg>&lt;s0&gt;プロジェクト&lt;/s0&gt;&lt;s1&gt;プロパティ&lt;/s1&gt;で場所を再割り当てするか、&lt;s2&gt;プロジェクト&lt;/s2&gt; &lt;s3&gt;プロジェクト構成物&lt;/s3&gt;からアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You can refer to the &lt;l1&gt;table presenting the different editor shortcuts&lt;/l1&gt; to find the values for keys such as &lt;l2&gt;Home&lt;/l2&gt;, &lt;l3&gt;Page Up&lt;/l3&gt;, or the arrow keys.</seg>
       </tuv>
@@ -107561,6 +107804,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You should have .dz, .idx and .ifo files for each dictionary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071428Z" creationid="miura" creationdate="20260718T071428Z">
+        <seg>辞書ごとに.dz、.idx、.ifoファイルがあるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
       </tuv>
       <tuv lang="ja" changeid="Hiroshi Miura" changedate="20230221T031220Z" creationid="Hiroshi Miura" creationdate="20230221T031220Z">
@@ -108003,6 +108254,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="amake" changedate="20170128T122953Z" creationid="amake" creationdate="20170128T122953Z">
         <seg>ZIP ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ZWSP</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T074946Z" creationid="miura" creationdate="20260718T074946Z">
+        <seg>ZWSP</seg>
       </tuv>
     </tu>
     <tu>
@@ -111800,6 +112059,15 @@ for (i in 0 ..&lt; files.size())
         <seg>glossary.txt is the project writable glossary</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20251115T003556Z" creationid="miurahr" creationdate="20251115T003556Z">
+        <seg>glossary.txt プロジェクトの書き込み可能な用語集です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>glossary.txt is the project writable glossary.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miura" changedate="20260718T071536Z" creationid="miura" creationdate="20260718T071536Z">
         <seg>glossary.txt プロジェクトの書き込み可能な用語集です</seg>
       </tuv>
     </tu>
